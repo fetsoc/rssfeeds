@@ -17,7 +17,7 @@ BLOG_PREFIX = "https://hunt.io/blog/"
 OUT_PATH = "docs/feeds/hunt-blog.xml"
 
 # Set this AFTER you enable GitHub Pages, e.g.:
-FEED_SELF_URL = "https://fetsoc.github.io/fetsoc.github.io/feeds/hunt-blog.xml"
+FEED_SELF_URL = "https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml"
 #FEED_SELF_URL = ""  # leave blank if you don't know it yet
 
 # Exclude specific URLs or URL prefixes if desired
