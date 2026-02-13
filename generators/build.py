@@ -449,13 +449,13 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
     """
     Build RSS items from Malpedia's 'Inventory Updates' widget.
 
-    Observed structure:
-      - A batch header line above the updates table containing:
-          <timestamp> <counters...>
-        e.g. "5 Feb 2026 19:13:55 1 7 2"
-      - A table with two columns per row:
-          left: family id/name (e.g. js.otter_cookie)
+    Confirmed structure from user:
+      - A 'title' attribute above the table contains a batch line like:
+          '5 Feb 2026 19:13:55 1 7 2'
+      - Table rows contain:
+          left: family id (e.g. js.otter_cookie)
           right: message (e.g. This family was updated.)
+      - Table header row uses: SYMBOL / COMMON_NAME (must skip)
     """
     page_url = feed.get("page_url", "https://malpedia.caad.fkie.fraunhofer.de/")
     max_items = int(feed.get("max_items", 50))
@@ -464,7 +464,7 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
     html = fetch_text(page_url)
     soup = BeautifulSoup(html, "html.parser")
 
-    # 1) Find the "Inventory Updates" label/heading
+    # 1) Find the "Inventory Updates" section
     header = None
     for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong", "b", "div", "span"]):
         txt = tag.get_text(" ", strip=True).lower()
@@ -474,45 +474,75 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
     if not header:
         return []
 
-    # 2) Find the updates table near the header
+    # 2) Find the table that belongs to this section
     updates_table = header.find_next("table")
     if not updates_table:
         return []
 
-    # 3) Find the batch header line *above* the table containing the timestamp and counters
-    # Example: "5 Feb 2026 19:13:55 1 7 2"
+    # 3) Find the batch header element *above the table* that carries the timestamp in its `title` attribute.
+    #    We search within the local section only, not the entire page.
     batch_dt = None
     batch_stats = None
 
-    # Scan a few elements immediately before the table
-    prev = updates_table
+    # Try to find a nearby element with a title attribute before the table
+    # that contains the datetime string.
+    candidate = updates_table
     for _ in range(12):
-        prev = prev.find_previous()
-        if not prev:
+        candidate = candidate.find_previous()
+        if not candidate:
             break
-        text = prev.get_text(" ", strip=True)
-        if not text:
+        title_attr = candidate.get("title")
+        if not title_attr:
             continue
 
-        # Look for timestamp pattern first
-        m = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\b", text)
+        # Example: "5 Feb 2026 19:13:55 1 7 2"
+        m = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\b", title_attr)
         if m:
             batch_dt = safe_parse_date(m.group(0))
-            # Capture any trailing numeric counters after the timestamp
-            tail = text[m.end():].strip()
+            tail = title_attr[m.end():].strip()
             nums = re.findall(r"\b\d+\b", tail)
             if nums:
                 batch_stats = " ".join(nums)
             break
 
-    # Helper: make absolute URL
+    # If we didn't find a `title` attribute, fall back to nearby visible text (tight scope)
+    if not batch_dt:
+        candidate = updates_table
+        for _ in range(8):
+            candidate = candidate.find_previous()
+            if not candidate:
+                break
+            text = candidate.get_text(" ", strip=True)
+            if not text:
+                continue
+            m = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\b", text)
+            if m:
+                batch_dt = safe_parse_date(m.group(0))
+                # only take numbers from the same *line* (avoid swallowing multiple batches)
+                # Split on line breaks if any; use the first line containing the timestamp.
+                line = text
+                if "\n" in candidate.get_text("\n", strip=True):
+                    for ln in candidate.get_text("\n", strip=True).splitlines():
+                        if m.group(0) in ln:
+                            line = ln
+                            break
+                tail = line.split(m.group(0), 1)[-1].strip()
+                nums = re.findall(r"\b\d+\b", tail)
+                if nums:
+                    batch_stats = " ".join(nums)
+                break
+
     def abs_url(href: str) -> str:
         return urljoin(page_url, href)
 
     items: List[Dict[str, Any]] = []
 
-    # 4) Parse rows: family + message
+    # 4) Parse rows (skip table header row)
     for tr in updates_table.find_all("tr"):
+        # Skip header rows with <th>
+        if tr.find("th"):
+            continue
+
         tds = tr.find_all("td")
         if len(tds) < 2:
             continue
@@ -526,20 +556,22 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
         if not family or not msg:
             continue
 
-        # Prefer link if present
+        # Skip the known header labels if they appear as <td> values
+        if family.upper() == "SYMBOL" and msg.upper() == "COMMON_NAME":
+            continue
+
+        # Link: prefer the anchor if present
         link = page_url
         a = left.find("a")
         if a and a.get("href"):
             link = abs_url(a["href"])
         elif use_details_fallback:
-            # Malpedia family details pages commonly look like /details/<family_id>
-            # Example seen on the site: /details/win.redline_stealer [3](https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure)
+            # Malpedia family details pages commonly use /details/<family_id>
             link = abs_url(f"/details/{family}")
 
-        # Include batch stats in description so the context isn't lost
         desc = msg
         if batch_dt:
-            desc = f"{msg} (Batch: {batch_dt.strftime('%Y-%m-%d %H:%M:%S %Z')})"
+            desc = f"{desc} (Batch: {batch_dt.strftime('%Y-%m-%d %H:%M:%S %Z')})"
         if batch_stats:
             desc = f"{desc} (Batch stats: {batch_stats})"
 
@@ -550,7 +582,7 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
             "description": desc
         })
 
-    # 5) Sort newest first (they will all share the same batch timestamp anyway)
+    # Sort newest first
     items.sort(
         key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
         reverse=True
