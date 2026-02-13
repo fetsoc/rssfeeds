@@ -11,13 +11,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -25,9 +22,9 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Generate RSS feeds
+      - name: Generate feeds
         run: |
-          python generators/hunt_blog.py
+          python generators/build.py
 
       - name: Commit updated feeds
         run: |
