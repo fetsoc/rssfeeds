@@ -3,9 +3,309 @@
   <channel>
     <title>Hunt.io Blog</title>
     <link>https://hunt.io/blog</link>
-    <description>Unofficial RSS feed for hunt.io/blog</description>
+    <description>Unofficial RSS feed for hunt.io/blog (generated from sitemap.xml)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 18:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 18:39:16 +0000</lastBuildDate>
+    <item>
+      <title>Introducing IOC Hunter Feed and Attribution for Enhanced Threat Intelligence</title>
+      <link>https://hunt.io/blog/ioc-hunter-feed-attribution</link>
+      <guid isPermaLink="false">https://hunt.io/blog/ioc-hunter-feed-attribution</guid>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Practical Guide to Uncovering Malicious Infrastructure With Hunt.io</title>
+      <link>https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</link>
+      <guid isPermaLink="false">https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</guid>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian-Speaking Threat Actor Abuses Cloudflare &amp; Telegram in Phishing Campaign</title>
+      <link>https://hunt.io/blog/russian-actor-cloudflare-phishing-telegram-c2</link>
+      <guid isPermaLink="false">https://hunt.io/blog/russian-actor-cloudflare-phishing-telegram-c2</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proactive ClickFix Threat Hunting with Hunt.io</title>
+      <link>https://hunt.io/blog/clickfix-pages-proactive-threat-hunting</link>
+      <guid isPermaLink="false">https://hunt.io/blog/clickfix-pages-proactive-threat-hunting</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunt.io Insights: Gamaredonâs Flux-Like Infrastructure and a Look at Recent ShadowPad Activity</title>
+      <link>https://hunt.io/blog/state-sponsored-activity-gamaredon-shadowpad</link>
+      <guid isPermaLink="false">https://hunt.io/blog/state-sponsored-activity-gamaredon-shadowpad</guid>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoPhish Infrastructure Targets Polish Energy and Government</title>
+      <link>https://hunt.io/blog/gophish-targets-polish-energy-government</link>
+      <guid isPermaLink="false">https://hunt.io/blog/gophish-targets-polish-energy-government</guid>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Server-Side Phishing: How Credential  Theft Campaigns Are Hiding in Plain Sight</title>
+      <link>https://hunt.io/blog/server-side-phishing-evasion-employee-portals</link>
+      <guid isPermaLink="false">https://hunt.io/blog/server-side-phishing-evasion-employee-portals</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KeyPlug Server Exposes Fortinet Exploits &amp; Webshell Activity Targeting a Major Japanese Company</title>
+      <link>https://hunt.io/blog/keyplug-server-exposes-fortinet-exploits-webshells</link>
+      <guid isPermaLink="false">https://hunt.io/blog/keyplug-server-exposes-fortinet-exploits-webshells</guid>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT34-Like Threat Infrastructure Uncovered Before Activation</title>
+      <link>https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</link>
+      <guid isPermaLink="false">https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</guid>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT36-Linked ClickFix Campaign Spoofs Indian Ministry of Defence, Targets Windows &amp; Linux Users</title>
+      <link>https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence</link>
+      <guid isPermaLink="false">https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting IOX, FRP, Rakshasa, and Stowaway Proxies Using Hunt.io</title>
+      <link>https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</link>
+      <guid isPermaLink="false">https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Hunt 2.1:  Refinements to the Threat Hunting Experience</title>
+      <link>https://hunt.io/blog/introducing-hunt-2-1</link>
+      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-1</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Track Threat Actors Using Real-World IOC Pivoting</title>
+      <link>https://hunt.io/blog/threat-actor-intelligence-with-enhanced-ioc-pivoting</link>
+      <guid isPermaLink="false">https://hunt.io/blog/threat-actor-intelligence-with-enhanced-ioc-pivoting</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paste.ee Abuse Uncovered: XWorm &amp; AsyncRAT Infrastructure</title>
+      <link>https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure</link>
+      <guid isPermaLink="false">https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure</guid>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Hunt 2.2: AttackCaptureâ¢ Zip Extraction, Smarter SQL, IP History Consolidation, and more</title>
+      <link>https://hunt.io/blog/introducing-hunt-2-2</link>
+      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-2</guid>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fast and Curious: Red Teaming, Race Cars, and Hunt.io with Justin Elze</title>
+      <link>https://hunt.io/blog/trustedsec-cto-interview-justin-elze</link>
+      <guid isPermaLink="false">https://hunt.io/blog/trustedsec-cto-interview-justin-elze</guid>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cobalt Strike Operators Leverage PowerShell Loaders Across Chinese, Russian, and Global Infrastructure</title>
+      <link>https://hunt.io/blog/cobaltstrike-powershell-loader-chinese-russian-infrastructure</link>
+      <guid isPermaLink="false">https://hunt.io/blog/cobaltstrike-powershell-loader-chinese-russian-infrastructure</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Hunting at Scale: Explore 10.6B URLs to Find Payloads, C2s, and Exposed Assets with URLx</title>
+      <link>https://hunt.io/blog/threat-hunting-with-urlx</link>
+      <guid isPermaLink="false">https://hunt.io/blog/threat-hunting-with-urlx</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eggs, Alerts, and Adversaries: Talking with Jose Hernandez from Splunk</title>
+      <link>https://hunt.io/blog/splunk-interview-jose-hernandez</link>
+      <guid isPermaLink="false">https://hunt.io/blog/splunk-interview-jose-hernandez</guid>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Hunt 2.4</title>
+      <link>https://hunt.io/blog/announcing-hunt-2-4</link>
+      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-4</guid>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>630K gov.br Subdomains Abused in SEO Poisoning Attack</title>
+      <link>https://hunt.io/blog/gov-br-subdomain-seo-poisoning-630k-urls</link>
+      <guid isPermaLink="false">https://hunt.io/blog/gov-br-subdomain-seo-poisoning-630k-urls</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clickfix on macOS: AppleScript Stealer, Terminal Phishing, and C2 Infrastructure</title>
+      <link>https://hunt.io/blog/macos-clickfix-applescript-terminal-phishing</link>
+      <guid isPermaLink="false">https://hunt.io/blog/macos-clickfix-applescript-terminal-phishing</guid>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT36 Targets Indian Infrastructure with Desktop Lures and Poseidon Backdoor</title>
+      <link>https://hunt.io/blog/apt36-india-infrastructure-attacks</link>
+      <guid isPermaLink="false">https://hunt.io/blog/apt36-india-infrastructure-attacks</guid>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT Sidewinder Abuses Netlify to Mimic Government and Military Portals in South Asia</title>
+      <link>https://hunt.io/blog/apt-sidewinder-netlify-government-phishing</link>
+      <guid isPermaLink="false">https://hunt.io/blog/apt-sidewinder-netlify-government-phishing</guid>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERMAC V3.0 Banking Trojan: Full Source Code Leak and Infrastructure Analysis</title>
+      <link>https://hunt.io/blog/ermac-v3-banking-trojan-source-code-leak</link>
+      <guid isPermaLink="false">https://hunt.io/blog/ermac-v3-banking-trojan-source-code-leak</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT MuddyWater Targets CFOs with Multi-Stage Phishing &amp; NetBird Abuse</title>
+      <link>https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos</link>
+      <guid isPermaLink="false">https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos</guid>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Hunt 2.5</title>
+      <link>https://hunt.io/blog/announcing-hunt-2-5</link>
+      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-5</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TinyLoader Malware: Crypto Theft &amp; C2 Infrastructure</title>
+      <link>https://hunt.io/blog/tinyloader-malware-cryptocurrency-theft-infrastructure</link>
+      <guid isPermaLink="false">https://hunt.io/blog/tinyloader-malware-cryptocurrency-theft-infrastructure</guid>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the 2025 Energy Phishing Wave: Chevron, Conoco, PBF, Phillips 66</title>
+      <link>https://hunt.io/blog/us-energy-phishing-wave-report</link>
+      <guid isPermaLink="false">https://hunt.io/blog/us-energy-phishing-wave-report</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AsyncRAT Campaigns Uncovered: How Attackers Abuse ScreenConnect and Open Directories</title>
+      <link>https://hunt.io/blog/asyncrat-screenconnect-open-directory-campaigns</link>
+      <guid isPermaLink="false">https://hunt.io/blog/asyncrat-screenconnect-open-directory-campaigns</guid>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunting C2 Panels: Beginnerâs Guide for Identifying Command and Control Dashboards</title>
+      <link>https://hunt.io/blog/hunting-c2-panels-beginners-guide</link>
+      <guid isPermaLink="false">https://hunt.io/blog/hunting-c2-panels-beginners-guide</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation SouthNet: SideWinder Targets South Asia Maritime</title>
+      <link>https://hunt.io/blog/operation-southnet-sidewinder-south-asia-maritime-phishing</link>
+      <guid isPermaLink="false">https://hunt.io/blog/operation-southnet-sidewinder-south-asia-maritime-phishing</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AdaptixC2 Uncovered: Capabilities, Tactics &amp; Hunting Strategies</title>
+      <link>https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting</link>
+      <guid isPermaLink="false">https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting</guid>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odyssey Stealer &amp; AMOS Hit macOS Developers with Fake Homebrew Sites</title>
+      <link>https://hunt.io/blog/macos-odyssey-amos-malware-campaign</link>
+      <guid isPermaLink="false">https://hunt.io/blog/macos-odyssey-amos-malware-campaign</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Hunt 2.6: IP Risk &amp; Reputation, Smarter IOC Hunting, and Faster Integrations</title>
+      <link>https://hunt.io/blog/introducing-hunt-2-6</link>
+      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-6</guid>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Munitions to Malware: Joseph Harrison on Threat Detection &amp; Digital Forensics</title>
+      <link>https://hunt.io/blog/interview-joseph-harrison-threat-detection</link>
+      <guid isPermaLink="false">https://hunt.io/blog/interview-joseph-harrison-threat-detection</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</title>
+      <link>https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</link>
+      <guid isPermaLink="false">https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunt 2.7 Is Here: Faster Searches, Smarter Filters, Deeper Insight</title>
+      <link>https://hunt.io/blog/announcing-hunt-2-7</link>
+      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-7</guid>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Complete Guide to Hunting Cobalt Strike â Part 1: Detecting in Open Directories</title>
+      <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-1-open-directories</link>
+      <guid isPermaLink="false">https://hunt.io/blog/guide-hunting-cobalt-strike-part-1-open-directories</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Complete Guide to Hunting Cobalt Strike - Part 2: 10+ HuntSQL Recipes to Find Cobalt Strike</title>
+      <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-2-huntsql-recipes</link>
+      <guid isPermaLink="false">https://hunt.io/blog/guide-hunting-cobalt-strike-part-2-huntsql-recipes</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT</title>
+      <link>https://hunt.io/blog/malicious-vscode-extension-anivia-octorat-attack-chain</link>
+      <guid isPermaLink="false">https://hunt.io/blog/malicious-vscode-extension-anivia-octorat-attack-chain</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>React2Shell (CVE-2025-55182): Node.js RCE Against a Production Next.js App</title>
+      <link>https://hunt.io/blog/react2shell-cve-2025-55182-nextjs-nodejs-rce</link>
+      <guid isPermaLink="false">https://hunt.io/blog/react2shell-cve-2025-55182-nextjs-nodejs-rce</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside DPRK Operations: New Lazarus and Kimsuky Infrastructure Uncovered Across Global Campaigns</title>
+      <link>https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</link>
+      <guid isPermaLink="false">https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Hunt 2.8: Sharper IOC Hunter Workflows, Smarter Provider Visibility, and Easier C2 Filtering</title>
+      <link>https://hunt.io/blog/announcing-hunt-2-8</link>
+      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-8</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025 Year in Review: Hunt.io Product Updates and Threat Research</title>
+      <link>https://hunt.io/blog/2025-year-in-review</link>
+      <guid isPermaLink="false">https://hunt.io/blog/2025-year-in-review</guid>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Complete Guide to Hunting Cobalt Strike - Part 3: Automated C2 Infrastructure Discovery</title>
+      <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-3-automated-discovery</link>
+      <guid isPermaLink="false">https://hunt.io/blog/guide-hunting-cobalt-strike-part-3-automated-discovery</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Chinaâs Hosting Ecosystem: 18,000+ Malware C2 Servers Mapped Across Major ISPs</title>
+      <link>https://hunt.io/blog/china-hosting-malware-c2-infrastructure</link>
+      <guid isPermaLink="false">https://hunt.io/blog/china-hosting-malware-c2-infrastructure</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix Facebook Session Hijacking Campaign Targets Creators at Scale</title>
+      <link>https://hunt.io/blog/clickfix-facebook-session-hijacking</link>
+      <guid isPermaLink="false">https://hunt.io/blog/clickfix-facebook-session-hijacking</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed BYOB C2 Infrastructure Reveals a Multi-Stage Malware Deployment</title>
+      <link>https://hunt.io/blog/exposed-byob-c2-infrastructure-multi-stage-malware-deployment</link>
+      <guid isPermaLink="false">https://hunt.io/blog/exposed-byob-c2-infrastructure-multi-stage-malware-deployment</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunting OpenClaw Exposures: CVE-2026-25253 in Internet-Facing AI Agent Gateways</title>
+      <link>https://hunt.io/blog/cve-2026-25253-openclaw-ai-agent-exposure</link>
+      <guid isPermaLink="false">https://hunt.io/blog/cve-2026-25253-openclaw-ai-agent-exposure</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
