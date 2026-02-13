@@ -445,6 +445,141 @@ def build_sitemap_blog_tag(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
 
     return items[:max_items]
 
+def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Build RSS items from the 'Inventory Updates' section on the Malpedia homepage.
+
+    Strategy:
+      - Fetch homepage HTML
+      - Find the 'Inventory Updates' block
+      - Parse each update row: date/time + numeric counters
+      - Emit items describing what changed
+    """
+    url = feed.get("page_url", "https://malpedia.caad.fkie.fraunhofer.de/")
+    max_items = int(feed.get("max_items", 50))
+
+    html = fetch_text(url)
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Find the header containing 'Inventory Updates'
+    header = None
+    for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong", "b", "div", "span"]):
+        if tag.get_text(" ", strip=True).lower() == "inventory updates":
+            header = tag
+            break
+
+    if not header:
+        # Fallback: search for partial match
+        for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong", "b", "div", "span"]):
+            if "inventory updates" in tag.get_text(" ", strip=True).lower():
+                header = tag
+                break
+
+    if not header:
+        # Nothing found; return empty but don't crash
+        return []
+
+    # Attempt to locate the container after the header
+    container = header.find_parent()
+    # Walk forward looking for a table or list that contains the updates
+    updates_block = None
+    for _ in range(6):
+        if not container:
+            break
+        # Look for a table first
+        tbl = container.find("table")
+        if tbl:
+            updates_block = tbl
+            break
+        # Otherwise look for a list
+        ul = container.find(["ul", "ol"])
+        if ul:
+            updates_block = ul
+            break
+        container = container.find_next()
+
+    items: List[Dict[str, Any]] = []
+
+    def parse_numbers(text: str) -> List[int]:
+        return [int(x) for x in re.findall(r"\b\\d+\\b", text)]
+
+    def parse_datetime_from_text(text: str) -> Optional[datetime]:
+        # Example seen on homepage: "5 Feb 2026 19:13:55"
+        # We'll rely on dateutil parsing.
+        return safe_parse_date(text)
+
+    # Case A: table
+    if updates_block and updates_block.name == "table":
+        rows = updates_block.find_all("tr")
+        for r in rows:
+            row_text = r.get_text(" ", strip=True)
+            if not row_text:
+                continue
+            # crude split: date/time first, then counters
+            # extract a date-ish prefix by trying parse on the full string and then trimming
+            # easiest: search for something like "Feb 2026" pattern
+            m = re.search(r"\\b\\d{1,2}\\s+[A-Za-z]{3,}\\s+\\d{4}\\s+\\d{2}:\\d{2}:\\d{2}\\b", row_text)
+            dt = safe_parse_date(m.group(0)) if m else None
+            nums = parse_numbers(row_text)
+            if not dt and nums:
+                # not a valid row
+                continue
+
+            title = f"Malpedia Inventory Update — {dt.date().isoformat() if dt else 'Unknown date'}"
+            desc = f"Raw update row: {row_text}"
+
+            items.append({
+                "url": url,
+                "title": title,
+                "published": dt,
+                "description": desc
+            })
+
+    # Case B: list (ul/ol)
+    elif updates_block and updates_block.name in ("ul", "ol"):
+        for li in updates_block.find_all("li"):
+            row_text = li.get_text(" ", strip=True)
+            if not row_text:
+                continue
+
+            m = re.search(r"\\b\\d{1,2}\\s+[A-Za-z]{3,}\\s+\\d{4}\\s+\\d{2}:\\d{2}:\\d{2}\\b", row_text)
+            dt = safe_parse_date(m.group(0)) if m else None
+
+            title = f"Malpedia Inventory Update — {dt.date().isoformat() if dt else 'Unknown date'}"
+            desc = f"Raw update line: {row_text}"
+
+            items.append({
+                "url": url,
+                "title": title,
+                "published": dt,
+                "description": desc
+            })
+
+    # Fallback: if no table/list found, just grab nearby text lines after header
+    else:
+        # Grab next few lines of text after header area
+        block_text = header.find_parent().get_text("\\n", strip=True)
+        lines = [ln.strip() for ln in block_text.splitlines() if ln.strip()]
+        # Keep only lines that look like date entries
+        for ln in lines:
+            if re.search(r"\\b\\d{1,2}\\s+[A-Za-z]{3,}\\s+\\d{4}\\b", ln):
+                dt = parse_datetime_from_text(ln)
+                title = f"Malpedia Inventory Update — {dt.date().isoformat() if dt else 'Unknown date'}"
+                items.append({
+                    "url": url,
+                    "title": title,
+                    "published": dt,
+                    "description": ln
+                })
+
+    # Sort newest first
+    items.sort(
+        key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
+        reverse=True
+    )
+
+    return items[:max_items]
+
 # ----------------------------
 # Dispatcher
 # ----------------------------
@@ -455,6 +590,7 @@ BUILDERS = {
     "json_api": build_json_api,
     "github_releases": build_github_releases,
     "sitemap_blog_tag": build_sitemap_blog_tag,
+    "malpedia_inventory_updates": build_malpedia_inventory_updates,
 }
 
 
