@@ -44,3 +44,10 @@ feeds:
     home_url: "https://github.com/SlimKQL/Detections.AI/tree/main/KQL"
     source_feed_url: "https://github.com/SlimKQL/Detections.AI/commits/main/KQL.atom"
     max_items: 50
+
+  - id: "malpedia-inventory-updates"
+    type: "malpedia_inventory_updates"
+    title: "Malpedia — Inventory Updates"
+    home_url: "https://malpedia.caad.fkie.fraunhofer.de/"
+    page_url: "https://malpedia.caad.fkie.fraunhofer.de/"
+    max_items: 50
