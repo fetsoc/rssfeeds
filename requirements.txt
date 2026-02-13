@@ -2,3 +2,6 @@ requests
 beautifulsoup4
 feedgen
 python-dateutil
+pyyaml
+feedparser
+jmespath
