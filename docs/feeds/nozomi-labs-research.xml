@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Nozomi Networks Blog — Labs Research</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml</link>
+    <description>Generated feed (sitemap_blog_tag)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 13 Feb 2026 19:21:21 +0000</lastBuildDate>
+    <item>
+      <title>What IT Needs to Know about OT/IoT Security Threats in 2020</title>
+      <link>https://www.nozominetworks.com/blog/what-it-needs-to-know-about-ot-io-security-threats-in-2020</link>
+      <description>Find out what IT needs to know about OT/IoT security in 2020, including the most active threats, their techniques and recommendations for mitigations.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/what-it-needs-to-know-about-ot-io-security-threats-in-2020</guid>
+    </item>
+    <item>
+      <title>Vulnerabilities in BMC Firmware Affect OT/IoT Device Security – Part 2</title>
+      <link>https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2</link>
+      <description>Nozomi Networks have discovered five new vulnerabilities in BMC firmware affecting the American Megatrends (AMI) MegaRAC software solution.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2</guid>
+    </item>
+    <item>
+      <title>Threat Actor Activity Related to the Iran Conflict</title>
+      <link>https://www.nozominetworks.com/blog/threat-actor-activity-related-to-the-iran-conflict</link>
+      <description>Nozomi Networks Labs has observed a 133% increase in cyberattacks coming from well-known Iranian threat actors including MuddyWater, APT33, OilRig, CyberAv3ngers.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/threat-actor-activity-related-to-the-iran-conflict</guid>
+    </item>
+    <item>
+      <title>The Year of the Defender – 2022 Predictions for OT/IoT Security</title>
+      <link>https://www.nozominetworks.com/blog/the-year-of-the-defender-2022-predictions-for-ot-iot-security</link>
+      <description>Our CEO shares his thoughts on the 2022 cyber landscape, from maturing critical infrastructure defenses to standardized security certifications.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/the-year-of-the-defender-2022-predictions-for-ot-iot-security</guid>
+    </item>
+    <item>
+      <title>The Long-range Disruption of Industrial IoT LoRaWAN Networks</title>
+      <link>https://www.nozominetworks.com/blog/the-long-range-disruption-of-industrial-iot-lorawan-networks</link>
+      <description>Nozomi Networks Labs team used drones to investigate attacks against a low-power radio frequency WAN technology widely used in industrial IoT networks.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/the-long-range-disruption-of-industrial-iot-lorawan-networks</guid>
+    </item>
+    <item>
+      <title>The Federal Government Needs to Address OT/IoT Security NOW</title>
+      <link>https://www.nozominetworks.com/blog/the-federal-government-needs-to-address-ot-iot-security-now</link>
+      <description>To address escalating cyber threats, the federal government needs OT/IoT security – NOW. Read 3 examples of how Nozomi Networks protects federal control networks.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/the-federal-government-needs-to-address-ot-iot-security-now</guid>
+    </item>
+    <item>
+      <title>The Challenges of the Vulnerability Assessment Process in ICS Space</title>
+      <link>https://www.nozominetworks.com/blog/the-challenges-of-ics-vulnerability-assessment-process</link>
+      <description>With the increasing number of CVEs released each year, organizations must prioritize a strong ICS vulnerability assessment process.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/the-challenges-of-ics-vulnerability-assessment-process</guid>
+    </item>
+    <item>
+      <title>Snake Ransomware is Raising Concerns for Industrial Controls Systems</title>
+      <link>https://www.nozominetworks.com/blog/snake-ransomware-is-raising-concerns-for-industrial-controls-systems</link>
+      <description>Nozomi Networks Labs analysis of the EKANS/Snake ransomware found it that doesn’t attempt to spread, but instead relies on manual propagation.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/snake-ransomware-is-raising-concerns-for-industrial-controls-systems</guid>
+    </item>
+    <item>
+      <title>Six Vulnerabilities Found in Axis Camera Systems License Plate Verifier Application</title>
+      <link>https://www.nozominetworks.com/blog/six-vulnerabilities-found-in-axis-camera-systems-license-plate-verifier-application</link>
+      <description>Newly discovered vulnerabilities affect the License Plate Verifier application on Axis Communications cameras.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/six-vulnerabilities-found-in-axis-camera-systems-license-plate-verifier-application</guid>
+    </item>
+    <item>
+      <title>Security Flaws Affect a Component of the Arduino Create Cloud IDE</title>
+      <link>https://www.nozominetworks.com/blog/security-flaws-affect-a-component-of-the-arduino-create-cloud-ide</link>
+      <description>Four vulnerabilities on the Arduino Create Agent software could lead to the elevation of privileges of a local user and the arbitrary deletion of protected files.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/security-flaws-affect-a-component-of-the-arduino-create-cloud-ide</guid>
+    </item>
+    <item>
+      <title>Protecting the Phoenix: Unveiling Critical Vulnerabilities in Phoenix Contact HMI – Part 3</title>
+      <link>https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3</link>
+      <description>Part 3 of a series on 14 vulnerabilities discovered by Nozomi Networks Labs affecting HMI products in Phoenix Contact.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3</guid>
+    </item>
+    <item>
+      <title>Perspectives: Early Lead in Filling Global OT Security Demand</title>
+      <link>https://www.nozominetworks.com/blog/perspectives-early-lead-in-filling-global-ot-security-demand</link>
+      <description>OT security is a top priority and buyers are demanding IT/OT converged solutions. Find out why Nozomi Networks is the preferred OT security solution.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/perspectives-early-lead-in-filling-global-ot-security-demand</guid>
+    </item>
+    <item>
+      <title>Nozomi Networks Labs Takes on the Armasuisse ICS and Automotive Hackathons</title>
+      <link>https://www.nozominetworks.com/blog/nozomi-networks-labs-takes-on-the-armasuisse-ics-and-automotive-hackathons</link>
+      <description>Nozomi Networks Labs participated in two hackathons focused on securing Industrial Control Systems (ICS) and automotive cybersecurity at the Cyber-Defence campus of armasuisse Science and Technologies.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/nozomi-networks-labs-takes-on-the-armasuisse-ics-and-automotive-hackathons</guid>
+    </item>
+    <item>
+      <title>Nozomi Networks Labs Discovers 9 Vulnerabilities Affecting Cognex InSight IS2000M-120 Smart Camera</title>
+      <link>https://www.nozominetworks.com/blog/nozomi-networks-labs-cognex-insight-is2000m-120-smart-camera-vulnerabilities</link>
+      <description>Nozomi Networks Labs discovered vulnerabilities in the Cognex IS2000M-120 industrial smart camera.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/nozomi-networks-labs-cognex-insight-is2000m-120-smart-camera-vulnerabilities</guid>
+    </item>
+    <item>
+      <title>New Report: Top OT/IoT Security Threats and Vulnerabilities</title>
+      <link>https://www.nozominetworks.com/blog/new-report-top-ot-iot-security-threats-and-vulnerabilities</link>
+      <description>Learn about the top OT/IoT security threats and vulnerabilities to speed up your understanding of the current threat landscape.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/new-report-top-ot-iot-security-threats-and-vulnerabilities</guid>
+    </item>
+    <item>
+      <title>New Report: Ransomware, Vulnerabilities and IoT Security Threats</title>
+      <link>https://www.nozominetworks.com/blog/new-report-ransomware-vulnerabilities-and-iot-security-threats</link>
+      <description>Find out what you need to know to fight ransomware and IoT vulnerabilities—and start improving your security and operational resilience.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/new-report-ransomware-vulnerabilities-and-iot-security-threats</guid>
+    </item>
+    <item>
+      <title>New OT/IoT Security Report: Trends and Countermeasures for Critical Infrastructure Attacks</title>
+      <link>https://www.nozominetworks.com/blog/new-ot-iot-security-report-trends-and-countermeasures-for-critical-infrastructure-attacks</link>
+      <description>This OT/IoT Security Report from Nozomi Networks Labs covers cyberattack trends, vulnerability research, and best practices in remediation efforts.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/new-ot-iot-security-report-trends-and-countermeasures-for-critical-infrastructure-attacks</guid>
+    </item>
+    <item>
+      <title>New Report: Nozomi Networks Labs Finds Defenses Are Improving But Threats Continue to Rise</title>
+      <link>https://www.nozominetworks.com/blog/new-nozomi-networks-labs-report-august-2023</link>
+      <description>Nozomi Networks Labs released a new security research report featuring analysis of public OT/IoT cybersecurity incidents over the past six months, as well as telemetry data from product deployments.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/new-nozomi-networks-labs-report-august-2023</guid>
+    </item>
+    <item>
+      <title>New BotenaGo Variant Discovered by Nozomi Networks Labs</title>
+      <link>https://www.nozominetworks.com/blog/new-botenago-variant-discovered-by-nozomi-networks-labs</link>
+      <description>Lillin scanner is a new variant of the BotenaGo malware that specifically targets Lilin security camera DVR devices, discovered by Nozomi Networks Labs.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/new-botenago-variant-discovered-by-nozomi-networks-labs</guid>
+    </item>
+    <item>
+      <title>Mapping the Ransomware Landscape: Global Hotspots and Emerging Threats</title>
+      <link>https://www.nozominetworks.com/blog/mapping-the-ransomware-landscape-summer-2025</link>
+      <description>We look at the most recent trends in the ransomware landscape, based on the unique real customer data, including top ransomware families, most targeted countries and industries.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/mapping-the-ransomware-landscape-summer-2025</guid>
+    </item>
+    <item>
+      <title>How Viable is Zero Trust for OT/IoT Networks? Is it a Journey or a Destination?</title>
+      <link>https://www.nozominetworks.com/blog/how-viable-is-zero-trust-for-ot-iot-networks-is-it-a-journey-or-a-destination</link>
+      <description>With the U.S. government’s move toward a Zero Trust Architecture, here’s what critical infrastructure organizations need to consider for their OT/IoT networks.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/how-viable-is-zero-trust-for-ot-iot-networks-is-it-a-journey-or-a-destination</guid>
+    </item>
+    <item>
+      <title>How to Ensure You Have Complete OT/ICS Asset Visibility</title>
+      <link>https://www.nozominetworks.com/blog/how-to-ensure-you-have-complete-ot-ics-asset-visibility</link>
+      <description>It takes a combination of passive and active cybersecurity sensors, OT/IoT protocol support, third-party connectors and AI-powered asset intelligence to achieve a complete asset inventory.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/how-to-ensure-you-have-complete-ot-ics-asset-visibility</guid>
+    </item>
+    <item>
+      <title>How to Build an IoT Honeypot</title>
+      <link>https://www.nozominetworks.com/blog/how-to-build-an-iot-honeypot</link>
+      <description>We detail five steps for setting up and using an IoT Honeypot in the real world using the Winbox protocol.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/how-to-build-an-iot-honeypot</guid>
+    </item>
+    <item>
+      <title>How to Analyze Malware for Technical Writing</title>
+      <link>https://www.nozominetworks.com/blog/how-to-analyze-malware-for-technical-writing</link>
+      <description>In the world of cybersecurity, new threats are constant. To be efficient when analyzing new malware and publishing technical findings, it’s important to be prepared.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/how-to-analyze-malware-for-technical-writing</guid>
+    </item>
+    <item>
+      <title>How IoT Botnets Evade Detection and Analysis - Part 1</title>
+      <link>https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis</link>
+      <description>Packing is a key technique to stymie reverse engineering botnet code. Learn more about packers used by IoT malware, and how to analyze packed samples.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis</guid>
+    </item>
+    <item>
+      <title>Hardware Supply Chain Compromise in Human Interface Devices: Nozomi Networks + Hydro Québec Joint Research</title>
+      <link>https://www.nozominetworks.com/blog/hardware-supply-chain-compromise-in-human-interface-devices-nozomi-networks-hydro-quebec-joint-research</link>
+      <description>Nozomi Networks and Hydro Québec's joint research demonstrates how threat actors can infiltrate the hardware supply chain to compromise PCs.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/hardware-supply-chain-compromise-in-human-interface-devices-nozomi-networks-hydro-quebec-joint-research</guid>
+    </item>
+    <item>
+      <title>Hard Lessons from the Oldsmar Water Facility Cyberattack Hack</title>
+      <link>https://www.nozominetworks.com/blog/hard-lessons-from-the-oldsmar-water-facility-cyberattack-hack</link>
+      <description>The TeamViewer app was used to remotely access Oldsmar’s water treatment system. This is a wakeup call for water districts everywhere.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/hard-lessons-from-the-oldsmar-water-facility-cyberattack-hack</guid>
+    </item>
+    <item>
+      <title>A Comprehensive Guide to IoT Security</title>
+      <link>https://www.nozominetworks.com/blog/guide-to-iot-security</link>
+      <description>Learn what IoT security is, why it matters for critical infrastructure operators and best practices for securing IoT devices.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/guide-to-iot-security</guid>
+    </item>
+    <item>
+      <title>Flaws in Bently Nevada 3500 Allow Attackers to Bypass Authentication</title>
+      <link>https://www.nozominetworks.com/blog/flaws-in-bently-nevada-3500-allow-attackers-to-bypass-authentication</link>
+      <description>Nozomi Networks Labs investigated the security posture of Bently Nevada 3500 Systems. Here's what they found.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/flaws-in-bently-nevada-3500-allow-attackers-to-bypass-authentication</guid>
+    </item>
+    <item>
+      <title>Five New Vulnerabilities Disclosed in Patient Monitoring Systems</title>
+      <link>https://www.nozominetworks.com/blog/five-new-vulnerabilities-disclosed-in-patient-monitoring-systems</link>
+      <description>Nozomi Networks Labs discloses five vulnerabilities affecting attack surfaces on a Philips patient monitoring solution. Solutions from other vendors may have similar vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/five-new-vulnerabilities-disclosed-in-patient-monitoring-systems</guid>
+    </item>
+    <item>
+      <title>Firmware Security Research: Dahua Facial Recognition Station</title>
+      <link>https://www.nozominetworks.com/blog/firmware-security-research-dahua-facial-recognition-station</link>
+      <description>Nozomi Networks Labs researches the Dahua Facial Recognition Station firmware for potential vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/firmware-security-research-dahua-facial-recognition-station</guid>
+    </item>
+    <item>
+      <title>Enhancing Threat Intelligence with the MITRE ATT&amp;CK Framework</title>
+      <link>https://www.nozominetworks.com/blog/enhancing-threat-intelligence-with-the-mitre-attck-framework</link>
+      <description>MITRE ATT&amp;CK tactics and techniques are increasingly becoming a standard that helps provide OT and IoT threat intelligence.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/enhancing-threat-intelligence-with-the-mitre-attck-framework</guid>
+    </item>
+    <item>
+      <title>Detecting New OT Threats: How To Do It Proactively</title>
+      <link>https://www.nozominetworks.com/blog/detecting-new-ot-threats-how-to-do-it-proactively</link>
+      <description>This blog post discusses various challenges that cybersecurity companies face when they need to detect new previously unknown threats and suggests possible solutions to this problem featuring our bleeding-edge technologies.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/detecting-new-ot-threats-how-to-do-it-proactively</guid>
+    </item>
+    <item>
+      <title>Demonstrating the Link Between Functional Safety and ICS Security</title>
+      <link>https://www.nozominetworks.com/blog/demonstrating-the-link-between-functional-safety-and-ics-security</link>
+      <description>In industrial control systems (ICS) with no protection measures, it can be extremely easy for a threat actor to disrupt operations.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/demonstrating-the-link-between-functional-safety-and-ics-security</guid>
+    </item>
+    <item>
+      <title>Critical Log4Shell (Apache Log4j) Zero-Day Attack Analysis</title>
+      <link>https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis</link>
+      <description>An analysis of the Apache Log4j vulnerability and the architecture of zero-day exploits (CVE-2021-44228) from Nozomi Networks Labs.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis</guid>
+    </item>
+    <item>
+      <title>Could Threat Actors Be Downgrading Their Malware to Evade Detection?</title>
+      <link>https://www.nozominetworks.com/blog/could-threat-actors-be-downgrading-their-malware-to-evade-detection</link>
+      <description>Threat actors modify their malware to evade detection. This blog analyzes modification techniques used by Gafgyt (aka Qbot) malware.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/could-threat-actors-be-downgrading-their-malware-to-evade-detection</guid>
+    </item>
+    <item>
+      <title>CISA-Sponsored CVE Program Grants Nozomi Networks CNA Status</title>
+      <link>https://www.nozominetworks.com/blog/cisa-sponsored-cve-program-grants-nozomi-networks-cna-status</link>
+      <description>Nozomi Networks is a CVE Numbering Authority (CNA). The CVE Program is the international standard for identifying and naming cybersecurity vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/cisa-sponsored-cve-program-grants-nozomi-networks-cna-status</guid>
+    </item>
+    <item>
+      <title>Breaking Research: LockerGoga Ransomware Impacts Norsk Hydro</title>
+      <link>https://www.nozominetworks.com/blog/breaking-research-lockergoga-ransomware-impacts-norsk-hydro</link>
+      <description>Nozomi Networks Labs has conducted a preliminary evaluation of LockerGoga. Read on to learn about this ransomware and our research team’s assessment of it.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/breaking-research-lockergoga-ransomware-impacts-norsk-hydro</guid>
+    </item>
+    <item>
+      <title>BlackMatter Ransomware Technical Analysis and Tools from Nozomi Networks Labs</title>
+      <link>https://www.nozominetworks.com/blog/blackmatter-ransomware-technical-analysis-and-tools-from-nozomi-networks-labs</link>
+      <description>Nozomi Networks Labs analyzes the BlackMatter ransomware executable to prevent critical infrastructure impact.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/blackmatter-ransomware-technical-analysis-and-tools-from-nozomi-networks-labs</guid>
+    </item>
+    <item>
+      <title>9 New Vulnerabilities Impact Schweitzer Engineering Labs Software Applications on Engineering Workstations</title>
+      <link>https://www.nozominetworks.com/blog/9-new-vulnerabilities-impact-schweitzer-engineering-labs-software</link>
+      <description>Nozomi Networks Labs presents nine vulnerabilities affecting Schweitzer Engineering Labs (SEL) engineering workstation tools.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/9-new-vulnerabilities-impact-schweitzer-engineering-labs-software</guid>
+    </item>
+    <item>
+      <title>New Reolink P2P Vulnerabilities Show IoT Security Camera Risks</title>
+      <link>https://www.nozominetworks.com/blog/new-reolink-p2p-vulnerabilities-show-iot-security-camera-risks</link>
+      <description>Learn about the IoT security camera risks identified in new research from Nozomi Networks Labs (ICS-CERT ICSA-21-019-02).</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/new-reolink-p2p-vulnerabilities-show-iot-security-camera-risks</guid>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IEC 61850 Meets IEC 62351: Securing GOOSE Power Grid Weaknesses</title>
+      <link>https://www.nozominetworks.com/blog/iec-61850-meets-iec-62351</link>
+      <description>Nozomi Networks CTO Moreno Carullo explains how IEC 62351-6 can be used to secure IEC 61850 GOOSE protocol defects &amp; increase ICS security for substations.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/iec-61850-meets-iec-62351</guid>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Drone ID: Nozomi Networks Adds Support to Detect Drones with Guardian Air</title>
+      <link>https://www.nozominetworks.com/blog/open-drone-id-nozomi-networks-adds-support-to-detect-drones-with-guardian-air</link>
+      <description>Nozomi Guardian Air now detects suspicious ODID traffic and related drone cyberattacks.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/open-drone-id-nozomi-networks-adds-support-to-detect-drones-with-guardian-air</guid>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
