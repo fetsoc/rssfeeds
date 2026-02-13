@@ -53,3 +53,22 @@ feeds:
     repo: "repo"
     home_url: "https://github.com/owner/repo/releases"
     max_items: 30
+
+  - id: "nozomi-labs-research"
+    type: "sitemap_blog_tag"
+    title: "Nozomi Networks Blog — Labs Research"
+    home_url: "https://www.nozominetworks.com/blog?tag=labs-research"
+    sitemap_url: "https://www.nozominetworks.com/sitemap.xml"
+    include_prefix: "https://www.nozominetworks.com/blog/"
+    exclude_exact:
+      - "https://www.nozominetworks.com/blog"
+      - "https://www.nozominetworks.com/blog/"
+    # Tag detection: these tokens must be present in the post HTML
+    # 'tag=labs-research' aligns with the tag filter URL format. [1](https://www.nozominetworks.com/blog)
+    tag_tokens:
+      - "tag=labs-research"
+      - "Labs Research"
+    tag_match_mode: "any"      # "any" is safest
+    max_items: 50
+    scan_limit: 300            # how many sitemap URLs to inspect
+    enrich_limit: 150          # how many matching pages to enrich
