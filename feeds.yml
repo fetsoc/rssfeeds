@@ -37,3 +37,10 @@ feeds:
     home_url: "https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/tree/main"
     source_feed_url: "https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commits/main.atom"
     max_items: 50
+
+  - id : "slimkql-detectionsai-kql-commits"
+    type: "passthrough_feed"
+    title: "SlimKQL Hunting Queries — Detections AI KQL folder commits"
+    home_url: "https://github.com/SlimKQL/Detections.AI/tree/main/KQL"
+    source_feed_url: "https://github.com/SlimKQL/Detections.AI/commits/main/KQL.atom"
+    max_items: 50
