@@ -7,6 +7,6 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/malpedia-inventory-updates.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 06:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 12:32:25 +0000</lastBuildDate>
   </channel>
 </rss>
