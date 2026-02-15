@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 01:28:57 +0000</lastBuildDate>
-    <item>
-      <title>Delete IOC/BRICKSTORMBackdoor.csv</title>
-      <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/816b932d3e198a59de5b55a4523a0b5f5e88b1f5</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Delete IOC/BRICKSTORMBackdoor.csv&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/816b932d3e198a59de5b55a4523a0b5f5e88b1f5</guid>
-      <pubDate>Sun, 14 Dec 2025 03:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 06:42:51 +0000</lastBuildDate>
     <item>
       <title>Add files via upload</title>
       <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/1e1fd3dec77a4911a7de790a66ba950032ab1b73</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/4cad5c7241a95bec14b8a1922789ec813d44e0bf</guid>
       <pubDate>Sat, 14 Feb 2026 10:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add files via upload</title>
+      <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/c2e7cebde08075e0923eb5ed8ef0cf345cc35990</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/c2e7cebde08075e0923eb5ed8ef0cf345cc35990</guid>
+      <pubDate>Sun, 15 Feb 2026 03:35:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
