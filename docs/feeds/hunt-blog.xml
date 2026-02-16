@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 17:37:07 +0000</lastBuildDate>
-    <item>
-      <title>South Korean Organizations Targeted by Cobalt Strike ‘Cat’ Delivered by a Rust Beacon</title>
-      <link>https://hunt.io/blog/rust-beacon-cobalt-strike-cat-south-korea</link>
-      <description>Discover how threat actors used a Rust loader to deploy Cobalt Strike ‘Cat’ against South Korean targets. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/rust-beacon-cobalt-strike-cat-south-korea</guid>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing IOC Hunter Feed and Attribution for Enhanced Threat Intelligence</title>
-      <link>https://hunt.io/blog/ioc-hunter-feed-attribution</link>
-      <description>Track threat actors and malicious infrastructure with Hunt.io’s IOC Hunter Feed and C2 Attribution. Get deeper visibility and context for better threat intelligence.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/ioc-hunter-feed-attribution</guid>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Practical Guide to Uncovering Malicious Infrastructure With Hunt.io</title>
-      <link>https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</link>
-      <description>Learn how to track and map adversary infrastructure using Hunt, pivoting from a single IP to uncover hidden connections through infrastructure overlaps and key intelligence indicators.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</guid>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian-Speaking Threat Actor Abuses Cloudflare &amp; Telegram in Phishing Campaign</title>
-      <link>https://hunt.io/blog/russian-actor-cloudflare-phishing-telegram-c2</link>
-      <description>Learn how a Russian-speaking threat actor has evolved from impersonating EFF to now deploying Cloudflare-themed phishing with Telegram-based C2.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/russian-actor-cloudflare-phishing-telegram-c2</guid>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 18:33:42 +0000</lastBuildDate>
     <item>
       <title>Proactive ClickFix Threat Hunting with Hunt.io</title>
       <link>https://hunt.io/blog/clickfix-pages-proactive-threat-hunting</link>
@@ -72,11 +44,32 @@
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>APT34-Like Threat Infrastructure Uncovered Before Activation</title>
+      <link>https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</link>
+      <description>APT34-like infrastructure mimicking an Iraqi academic institute and fake UK tech firms reveals early-stage staging on M247 servers. Learn what to track</description>
+      <guid isPermaLink="false">https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</guid>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>APT36-Linked ClickFix Campaign Spoofs Indian Ministry of Defence, Targets Windows &amp; Linux Users</title>
       <link>https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence</link>
       <description>APT36-style phishing campaign mimics India’s Ministry of Defence to drop malware on Windows and Linux via spoofed press releases and HTA payloads.</description>
       <guid isPermaLink="false">https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence</guid>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting IOX, FRP, Rakshasa, and Stowaway Proxies Using Hunt.io</title>
+      <link>https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</link>
+      <description>This post explores open-source proxy tools commonly used in attacker and red team infrastructure, and shows how defenders can detect IOX, FRP, Rakshasa, and Stowaway at scale using Hunt.io.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shared SSH Keys Expose Phishing Infrastructure Targeting Kuwait</title>
+      <link>https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</link>
+      <description>Shared SSH keys expose coordinated phishing targeting Kuwaiti fisheries, telecoms, and insurers with cloned login portals and mobile payment lures. Learn more.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Hunt 2.1:  Refinements to the Threat Hunting Experience</title>
@@ -315,6 +308,13 @@
       <description>Deep investigation into DPRK activity, revealing new Lazarus and Kimsuky infrastructure through multi-stage hunts and exposed operational patterns.</description>
       <guid isPermaLink="false">https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</guid>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Hunt 2.8: Sharper IOC Hunter Workflows, Smarter Provider Visibility, and Easier C2 Filtering</title>
+      <link>https://hunt.io/blog/announcing-hunt-2-8</link>
+      <description>Hunt 2.8 brings major improvements across IOC Hunter, AttackCapture™, IP search, and more accurate Reputation &amp; Risk signals for domains and IPs.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-8</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2025 Year in Review: Hunt.io Product Updates and Threat Research</title>
