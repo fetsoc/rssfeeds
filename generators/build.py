@@ -447,15 +447,13 @@ def build_sitemap_blog_tag(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
-    Build RSS items from Malpedia's 'Inventory Updates' widget.
+    Build RSS items from Malpedia's 'Inventory Updates' section.
 
-    Confirmed structure from user:
-      - A 'title' attribute above the table contains a batch line like:
-          '5 Feb 2026 19:13:55 1 7 2'
-      - Table rows contain:
-          left: family id (e.g. js.otter_cookie)
-          right: message (e.g. This family was updated.)
-      - Table header row uses: SYMBOL / COMMON_NAME (must skip)
+    Improvements over the original:
+    - Handles multiple batches on the homepage (multiple timestamps)
+    - Less brittle timestamp detection (looks within the section)
+    - Works if widget is table-based OR link/list-based
+    - More reliable scoping to avoid grabbing unrelated tables elsewhere
     """
     page_url = feed.get("page_url", "https://malpedia.caad.fkie.fraunhofer.de/")
     max_items = int(feed.get("max_items", 50))
@@ -464,110 +462,51 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
     html = fetch_text(page_url)
     soup = BeautifulSoup(html, "html.parser")
 
-    # 1) Find the "Inventory Updates" section
+    def abs_url(href: str) -> str:
+        return urljoin(page_url, href)
+
+    # 1) Find a node containing "Inventory Updates"
     header = None
     for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong", "b", "div", "span"]):
         txt = tag.get_text(" ", strip=True).lower()
-        if txt == "inventory updates" or "inventory updates" in txt:
+        if "inventory updates" in txt:
             header = tag
             break
     if not header:
         return []
 
-    # 2) Find the table that belongs to this section
-    updates_table = header.find_next("table")
-    if not updates_table:
-        return []
+    # 2) Use a scoped section container (walk up a few parents)
+    section_root = header
+    for _ in range(4):
+        if section_root.parent:
+            section_root = section_root.parent
 
-    # 3) Find the batch header element *above the table* that carries the timestamp in its `title` attribute.
-    #    We search within the local section only, not the entire page.
-    batch_dt = None
-    batch_stats = None
+    # 3) Find all batch timestamps inside the section
+    # Example seen on homepage: "15 Feb 2026 12:59:49 ..."
+    ts_re = re.compile(r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\b")
 
-    # Try to find a nearby element with a title attribute before the table
-    # that contains the datetime string.
-    candidate = updates_table
-    for _ in range(12):
-        candidate = candidate.find_previous()
-        if not candidate:
-            break
-        title_attr = candidate.get("title")
-        if not title_attr:
+    # Collect candidate nodes containing timestamps in document order
+    batch_nodes = []
+    for node in section_root.find_all(string=True):
+        s = str(node).strip()
+        if not s:
             continue
-
-        # Example: "5 Feb 2026 19:13:55 1 7 2"
-        m = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\b", title_attr)
+        m = ts_re.search(s)
         if m:
-            batch_dt = safe_parse_date(m.group(0))
-            tail = title_attr[m.end():].strip()
-            nums = re.findall(r"\b\d+\b", tail)
-            if nums:
-                batch_stats = " ".join(nums)
-            break
-
-    # If we didn't find a `title` attribute, fall back to nearby visible text (tight scope)
-    if not batch_dt:
-        candidate = updates_table
-        for _ in range(8):
-            candidate = candidate.find_previous()
-            if not candidate:
-                break
-            text = candidate.get_text(" ", strip=True)
-            if not text:
-                continue
-            m = re.search(r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\b", text)
-            if m:
-                batch_dt = safe_parse_date(m.group(0))
-                # only take numbers from the same *line* (avoid swallowing multiple batches)
-                # Split on line breaks if any; use the first line containing the timestamp.
-                line = text
-                if "\n" in candidate.get_text("\n", strip=True):
-                    for ln in candidate.get_text("\n", strip=True).splitlines():
-                        if m.group(0) in ln:
-                            line = ln
-                            break
-                tail = line.split(m.group(0), 1)[-1].strip()
-                nums = re.findall(r"\b\d+\b", tail)
-                if nums:
-                    batch_stats = " ".join(nums)
-                break
-
-    def abs_url(href: str) -> str:
-        return urljoin(page_url, href)
+            batch_nodes.append((node, m.group(0)))
 
     items: List[Dict[str, Any]] = []
 
-    # 4) Parse rows (skip table header row)
-    for tr in updates_table.find_all("tr"):
-        # Skip header rows with <th>
-        if tr.find("th"):
-            continue
-
-        tds = tr.find_all("td")
-        if len(tds) < 2:
-            continue
-
-        left = tds[0]
-        right = tds[1]
-
-        family = left.get_text(" ", strip=True)
-        msg = right.get_text(" ", strip=True)
-
+    def add_item(family: str, msg: str, href: Optional[str], batch_dt: Optional[datetime], batch_stats: Optional[str]) -> None:
         if not family or not msg:
-            continue
+            return
 
-        # Skip the known header labels if they appear as <td> values
-        if family.upper() == "SYMBOL" and msg.upper() == "COMMON_NAME":
-            continue
-
-        # Link: prefer the anchor if present
-        link = page_url
-        a = left.find("a")
-        if a and a.get("href"):
-            link = abs_url(a["href"])
+        if href:
+            link = abs_url(href)
         elif use_details_fallback:
-            # Malpedia family details pages commonly use /details/<family_id>
             link = abs_url(f"/details/{family}")
+        else:
+            link = page_url
 
         desc = msg
         if batch_dt:
@@ -582,13 +521,87 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
             "description": desc
         })
 
-    # Sort newest first
-    items.sort(
+    # 4) For each timestamp node, find the nearest table following it within the section
+    # This supports multiple batches if Malpedia renders multiple timestamp+table blocks.
+    used_tables = set()
+    for node, ts in batch_nodes:
+        batch_dt = safe_parse_date(ts)
+
+        # attempt to get numeric stats from the same text fragment
+        txt = str(node).strip()
+        tail = txt.split(ts, 1)[-1].strip()
+        nums = re.findall(r"\b\d+\b", tail)
+        batch_stats = " ".join(nums) if nums else None
+
+        # Find the next table after the timestamp node
+        # Step 1: ascend to an element, then find next table
+        parent_el = node.parent if hasattr(node, "parent") else None
+        next_table = None
+        if parent_el:
+            next_table = parent_el.find_next("table")
+
+        # Ensure the found table is inside our section_root
+        if next_table and section_root not in next_table.parents:
+            next_table = None
+
+        if not next_table:
+            continue
+
+        # Avoid re-processing the same table if multiple timestamps match inside it
+        table_id = id(next_table)
+        if table_id in used_tables:
+            continue
+        used_tables.add(table_id)
+
+        # Parse rows
+        for tr in next_table.find_all("tr"):
+            if tr.find("th"):
+                continue
+            tds = tr.find_all("td")
+            if len(tds) < 2:
+                continue
+
+            left, right = tds[0], tds[1]
+            family = left.get_text(" ", strip=True)
+            msg = right.get_text(" ", strip=True)
+
+            if not family or not msg:
+                continue
+            if family.upper() == "SYMBOL" and msg.upper() == "COMMON_NAME":
+                continue
+
+            a = left.find("a")
+            href = a.get("href") if a else None
+
+            add_item(family, msg, href, batch_dt, batch_stats)
+
+    # 5) Fallback: if no table items were discovered, try link-based parsing within section
+    # This handles layouts where the widget is not a table or is partially gated.
+    if not items:
+        for a in section_root.select('a[href]'):
+            href = a.get("href", "")
+            if "/details/" not in href:
+                continue
+            family = a.get_text(" ", strip=True)
+            container_text = a.parent.get_text(" ", strip=True) if a.parent else ""
+            msg = container_text.replace(family, "").strip(" -—:\t") or "Updated"
+            add_item(family, msg, href, None, None)
+
+    # 6) De-dupe and sort
+    seen = set()
+    uniq = []
+    for it in items:
+        key = (it["url"], it["title"])
+        if key in seen:
+            continue
+        seen.add(key)
+        uniq.append(it)
+
+    uniq.sort(
         key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
         reverse=True
     )
-
-    return items[:max_items]
+    return uniq[:max_items]
 
 # ----------------------------
 # Dispatcher
