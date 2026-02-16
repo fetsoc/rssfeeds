@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 01:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 06:55:35 +0000</lastBuildDate>
     <item>
       <title>Proactive ClickFix Threat Hunting with Hunt.io</title>
       <link>https://hunt.io/blog/clickfix-pages-proactive-threat-hunting</link>
