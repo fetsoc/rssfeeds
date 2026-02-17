@@ -15,6 +15,7 @@ import yaml
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 from feedgen.feed import FeedGenerator
+import json
 
 
 # ----------------------------
@@ -604,6 +605,67 @@ def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any
     return uniq[:max_items]
 
 # ----------------------------
+# TEMPLATE TYPE 7: malpedia_families
+# ----------------------------
+def build_malpedia_families(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Build RSS items from Malpedia's public API by tracking new malware families.
+    Uses a state file to detect families added since last run.
+    """
+    api_url = feed.get("api_url", "https://malpedia.caad.fkie.fraunhofer.de/api/list/families")
+    max_items = int(feed.get("max_items", 50))
+    state_file = feed.get("state_file", "malpedia_families_state.json")
+    
+    # Fetch current families from API
+    try:
+        current_families = fetch_json(api_url)
+        if not isinstance(current_families, list):
+            current_families = []
+    except Exception as e:
+        print(f"Error fetching Malpedia families: {e}")
+        return []
+    
+    # Load previous state
+    previous_families = []
+    if os.path.exists(state_file):
+        try:
+            with open(state_file, 'r', encoding='utf-8') as f:
+                previous_families = json.load(f)
+        except Exception:
+            previous_families = []
+    
+    # Find new families
+    previous_set = set(previous_families)
+    new_families = [f for f in current_families if f not in previous_set]
+    
+    # Save current state
+    try:
+        with open(state_file, 'w', encoding='utf-8') as f:
+            json.dump(current_families, f)
+    except Exception as e:
+        print(f"Warning: Could not save state file: {e}")
+    
+    # Create RSS items for new families
+    items: List[Dict[str, Any]] = []
+    now = datetime.now(timezone.utc)
+    
+    for family in new_families[:max_items]:
+        items.append({
+            "url": f"https://malpedia.caad.fkie.fraunhofer.de/details/{family}",
+            "title": f"New Malware Family: {family}",
+            "published": now,
+            "description": f'New malware family "{family}" has been added to Malpedia.',
+        })
+    
+    # Sort by family name (since they all have same timestamp)
+    items.sort(key=lambda x: x["title"])
+    
+    print(f"Malpedia: {len(current_families)} total families, {len(new_families)} new")
+    
+    return items[:max_items]
+
+
+# ----------------------------
 # Dispatcher
 # ----------------------------
 BUILDERS = {
@@ -614,6 +676,7 @@ BUILDERS = {
     "github_releases": build_github_releases,
     "sitemap_blog_tag": build_sitemap_blog_tag,
     "malpedia_inventory_updates": build_malpedia_inventory_updates,
+    "malpedia_families": build_malpedia_families,
 }
 
 

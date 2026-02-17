@@ -52,3 +52,11 @@ feeds:
     page_url: "https://malpedia.caad.fkie.fraunhofer.de/"
     max_items: 50
     use_details_fallback: true
+
+  - id: "malpedia-families"
+    type: "malpedia_families"
+    title: "Malpedia — New Malware Families"
+    home_url: "https://malpedia.caad.fkie.fraunhofer.de"
+    api_url: "https://malpedia.caad.fkie.fraunhofer.de/api/list/families"
+    state_file: "malpedia_families_state.json"
+    max_items: 50
