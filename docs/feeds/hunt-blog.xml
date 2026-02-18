@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 20:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 01:26:04 +0000</lastBuildDate>
     <item>
       <title>Hunt.io Insights: Gamaredon’s Flux-Like Infrastructure and a Look at Recent ShadowPad Activity</title>
       <link>https://hunt.io/blog/state-sponsored-activity-gamaredon-shadowpad</link>
