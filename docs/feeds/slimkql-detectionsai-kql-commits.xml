@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 12:44:35 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/tykit-unmasked-phishing-kit-detection-in-action.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/7f4521c3f99447256a48d4502f44ad14b4b48b4a</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/tykit-unmasked-phishing-kit-detection-in-action.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/7f4521c3f99447256a48d4502f44ad14b4b48b4a</guid>
-      <pubDate>Tue, 04 Nov 2025 14:46:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 18:43:24 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/secure-annex---several-chrome-extension-compromis…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/ebd848574e297e6ea32bd0169b4e33138230b5d3</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update clickfix-nslookup-abuse-detection-enhanced.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/eb8ba24d43157cf788338ab6e6c763cf15a9b111</guid>
       <pubDate>Tue, 17 Feb 2026 17:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/microsoft-sentinel-detection-for-adwsdomaindump.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/885de65471223d03feb2b59b685c9f0eaf5ab9db</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/microsoft-sentinel-detection-for-adwsdomaindump.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/885de65471223d03feb2b59b685c9f0eaf5ab9db</guid>
+      <pubDate>Wed, 18 Feb 2026 15:45:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
