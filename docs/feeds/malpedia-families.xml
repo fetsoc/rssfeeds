@@ -7,356 +7,356 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/malpedia-families.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 01:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 06:46:08 +0000</lastBuildDate>
     <item>
       <title>New Malware Family: apk.comet_bot</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.comet_bot</link>
       <description>New malware family "apk.comet_bot" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.comet_bot</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.cloudatlas</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.cloudatlas</link>
       <description>New malware family "apk.cloudatlas" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.cloudatlas</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.clipper</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.clipper</link>
       <description>New malware family "apk.clipper" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.clipper</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.clientor</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.clientor</link>
       <description>New malware family "apk.clientor" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.clientor</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.chrysaor</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.chrysaor</link>
       <description>New malware family "apk.chrysaor" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.chrysaor</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.chinotto</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.chinotto</link>
       <description>New malware family "apk.chinotto" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.chinotto</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.charger</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.charger</link>
       <description>New malware family "apk.charger" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.charger</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.chamois</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.chamois</link>
       <description>New malware family "apk.chamois" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.chamois</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.chameleon</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.chameleon</link>
       <description>New malware family "apk.chameleon" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.chameleon</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.cerberus</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.cerberus</link>
       <description>New malware family "apk.cerberus" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.cerberus</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.catelites</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.catelites</link>
       <description>New malware family "apk.catelites" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.catelites</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.carbonsteal</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.carbonsteal</link>
       <description>New malware family "apk.carbonsteal" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.carbonsteal</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.capra_rat</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.capra_rat</link>
       <description>New malware family "apk.capra_rat" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.capra_rat</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.busygasper</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.busygasper</link>
       <description>New malware family "apk.busygasper" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.busygasper</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.btmob</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.btmob</link>
       <description>New malware family "apk.btmob" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.btmob</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.brunhilda</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.brunhilda</link>
       <description>New malware family "apk.brunhilda" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.brunhilda</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.brata</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.brata</link>
       <description>New malware family "apk.brata" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.brata</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.brasdex</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.brasdex</link>
       <description>New malware family "apk.brasdex" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.brasdex</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.bone_spy</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.bone_spy</link>
       <description>New malware family "apk.bone_spy" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.bone_spy</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.blankbot</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.blankbot</link>
       <description>New malware family "apk.blankbot" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.blankbot</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.bingomod</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.bingomod</link>
       <description>New malware family "apk.bingomod" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.bingomod</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.bianlian</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.bianlian</link>
       <description>New malware family "apk.bianlian" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.bianlian</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.basbanke</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.basbanke</link>
       <description>New malware family "apk.basbanke" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.basbanke</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.bahamut</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.bahamut</link>
       <description>New malware family "apk.bahamut" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.bahamut</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.badpatch</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.badpatch</link>
       <description>New malware family "apk.badpatch" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.badpatch</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.badcall</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.badcall</link>
       <description>New malware family "apk.badcall" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.badcall</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.badbox</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.badbox</link>
       <description>New malware family "apk.badbox" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.badbox</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.badbazaar</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.badbazaar</link>
       <description>New malware family "apk.badbazaar" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.badbazaar</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.axbanker</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.axbanker</link>
       <description>New malware family "apk.axbanker" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.axbanker</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.atank</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.atank</link>
       <description>New malware family "apk.atank" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.atank</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.ashas</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.ashas</link>
       <description>New malware family "apk.ashas" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.ashas</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.asacub</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.asacub</link>
       <description>New malware family "apk.asacub" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.asacub</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.anubisspy</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubisspy</link>
       <description>New malware family "apk.anubisspy" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubisspy</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.anubis</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubis</link>
       <description>New malware family "apk.anubis" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.anubis</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.antidot</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.antidot</link>
       <description>New malware family "apk.antidot" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.antidot</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.androsnatch</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.androsnatch</link>
       <description>New malware family "apk.androsnatch" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.androsnatch</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.androrat</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.androrat</link>
       <description>New malware family "apk.androrat" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.androrat</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.anatsa</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.anatsa</link>
       <description>New malware family "apk.anatsa" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.anatsa</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.amplebot</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.amplebot</link>
       <description>New malware family "apk.amplebot" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.amplebot</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.amextroll</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.amextroll</link>
       <description>New malware family "apk.amextroll" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.amextroll</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.alien</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.alien</link>
       <description>New malware family "apk.alien" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.alien</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.ahmyth</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.ahmyth</link>
       <description>New malware family "apk.ahmyth" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.ahmyth</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.agentsmith</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.agentsmith</link>
       <description>New malware family "apk.agentsmith" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.agentsmith</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.adultswine</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.adultswine</link>
       <description>New malware family "apk.adultswine" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.adultswine</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.adobot</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.adobot</link>
       <description>New malware family "apk.adobot" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.adobot</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.actionspy</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.actionspy</link>
       <description>New malware family "apk.actionspy" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.actionspy</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.abstract_emu</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.abstract_emu</link>
       <description>New malware family "apk.abstract_emu" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.abstract_emu</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.aberebot</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.aberebot</link>
       <description>New malware family "apk.aberebot" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.aberebot</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: apk.888_rat</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/apk.888_rat</link>
       <description>New malware family "apk.888_rat" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/apk.888_rat</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
     <item>
       <title>New Malware Family: aix.fastcash</title>
       <link>https://malpedia.caad.fkie.fraunhofer.de/details/aix.fastcash</link>
       <description>New malware family "aix.fastcash" has been added to Malpedia.</description>
       <guid isPermaLink="false">https://malpedia.caad.fkie.fraunhofer.de/details/aix.fastcash</guid>
-      <pubDate>Fri, 20 Feb 2026 01:21:37 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 06:46:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
