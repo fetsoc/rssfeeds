@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 12:38:56 +0000</lastBuildDate>
-    <item>
-      <title>GoPhish Infrastructure Targets Polish Energy and Government</title>
-      <link>https://hunt.io/blog/gophish-targets-polish-energy-government</link>
-      <description>Explore how the GoPhish framework was leveraged to stage infrastructure and domains spoofing Polish government and energy entities.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/gophish-targets-polish-energy-government</guid>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 18:38:16 +0000</lastBuildDate>
     <item>
       <title>Server-Side Phishing: How Credential  Theft Campaigns Are Hiding in Plain Sight</title>
       <link>https://hunt.io/blog/server-side-phishing-evasion-employee-portals</link>
@@ -357,6 +350,13 @@
       <description>We’ve launched the new Hunt.io website, reflecting our infrastructure-first platform, stronger OEM focus, and improved investigation workflows.</description>
       <guid isPermaLink="false">https://hunt.io/blog/reimagining-huntio</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Complete Guide to Hunting Cobalt Strike - Part 4: Operationalizing C2 Feeds with API Automation</title>
+      <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-4-c2-feeds-api</link>
+      <description>Learn how to operationalize Cobalt Strike C2 feeds via API, normalize indicators, and automate detection across SIEM, EDR, and IDS platforms.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/guide-hunting-cobalt-strike-part-4-c2-feeds-api</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
