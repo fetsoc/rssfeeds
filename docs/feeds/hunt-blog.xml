@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 06:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 12:37:31 +0000</lastBuildDate>
     <item>
       <title>KeyPlug Server Exposes Fortinet Exploits &amp; Webshell Activity Targeting a Major Japanese Company</title>
       <link>https://hunt.io/blog/keyplug-server-exposes-fortinet-exploits-webshells</link>
