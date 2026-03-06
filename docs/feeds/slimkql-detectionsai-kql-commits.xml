@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 01:28:50 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/openclaw-installation-detection-on-mde.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/ea6d103df43f7e11adf4cd2ab4579a223ddc76ae</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/openclaw-installation-detection-on-mde.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/ea6d103df43f7e11adf4cd2ab4579a223ddc76ae</guid>
-      <pubDate>Thu, 05 Feb 2026 13:59:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 06:38:30 +0000</lastBuildDate>
     <item>
       <title>Update openclaw-installation-detection-on-mde.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/fa3883dae652b2fdd28d53d9ef4a99497d107316</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/oauth-redirection-abuse-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/204a88a4960de85af709c2f05f1ae93260c92ef6</guid>
       <pubDate>Wed, 04 Mar 2026 17:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/a-360-surveillance-kql-for-monitoring-potential-r…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/f6d053ece2fd04da7e1a91c01258555ea49278e1</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/a-360-surveillance-kql-for-monitoring-potential-risks-from-entra-and-mde-endpoint-activities-amid-the-usisraeliran-escalation.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f6d053ece2fd04da7e1a91c01258555ea49278e1</guid>
+      <pubDate>Fri, 06 Mar 2026 05:54:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
