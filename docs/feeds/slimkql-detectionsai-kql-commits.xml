@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 12:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 18:35:16 +0000</lastBuildDate>
     <item>
       <title>Update openclaw-installation-detection-on-mde.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/fa3883dae652b2fdd28d53d9ef4a99497d107316</link>
