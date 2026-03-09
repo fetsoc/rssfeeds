@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 12:43:40 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/openclaw-installation-detection-on-mde.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/1dc30513da0c179ee462b0e55b523b23a5578551</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/openclaw-installation-detection-on-mde.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/1dc30513da0c179ee462b0e55b523b23a5578551</guid>
-      <pubDate>Fri, 06 Feb 2026 14:10:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 18:46:08 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/docmagic-impersonation-campaign-redirects-users-t…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c199e393124538ccebb01b26adc34adefbd92d6e</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/oauth-ms-phish-targeting-docusign-users.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/bdb36c4d202bdb12c6595caeefe652433c89356e</guid>
       <pubDate>Sun, 08 Mar 2026 16:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/oauthmsphish-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/84671dc0fbbba6e850a9df2b3f2df5f0e9d7a384</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/oauthmsphish-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/84671dc0fbbba6e850a9df2b3f2df5f0e9d7a384</guid>
+      <pubDate>Mon, 09 Mar 2026 15:07:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
