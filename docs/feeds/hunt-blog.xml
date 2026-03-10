@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 06:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:42:04 +0000</lastBuildDate>
     <item>
       <title>APT34-Like Threat Infrastructure Uncovered Before Activation</title>
       <link>https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</link>
