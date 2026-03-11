@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 12:41:40 +0000</lastBuildDate>
-    <item>
-      <title>APT34-Like Threat Infrastructure Uncovered Before Activation</title>
-      <link>https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</link>
-      <description>APT34-like infrastructure mimicking an Iraqi academic institute and fake UK tech firms reveals early-stage staging on M247 servers. Learn what to track</description>
-      <guid isPermaLink="false">https://hunt.io/blog/track-apt34-like-infrastructure-before-it-strikes</guid>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT36-Linked ClickFix Campaign Spoofs Indian Ministry of Defence, Targets Windows &amp; Linux Users</title>
-      <link>https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence</link>
-      <description>APT36-style phishing campaign mimics India’s Ministry of Defence to drop malware on Windows and Linux via spoofed press releases and HTA payloads.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/apt36-clickfix-campaign-indian-ministry-of-defence</guid>
-      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 18:44:14 +0000</lastBuildDate>
     <item>
       <title>Detecting IOX, FRP, Rakshasa, and Stowaway Proxies Using Hunt.io</title>
       <link>https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</link>
@@ -35,13 +21,6 @@
       <description>Shared SSH keys expose coordinated phishing targeting Kuwaiti fisheries, telecoms, and insurers with cloned login portals and mobile payment lures. Learn more.</description>
       <guid isPermaLink="false">https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</guid>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Hunt 2.1:  Refinements to the Threat Hunting Experience</title>
-      <link>https://hunt.io/blog/introducing-hunt-2-1</link>
-      <description>Discover the new Hunt.io updates: deep text assisted analysis, IOC feed improvements, improved threat actor data, and faster advanced search. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-1</guid>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Track Threat Actors Using Real-World IOC Pivoting</title>
@@ -226,6 +205,13 @@
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Top 15 ThreatFox Alternatives for IOC &amp; Malware Tracking in 2026</title>
+      <link>https://hunt.io/blog/threatfox-alternatives</link>
+      <description>Discover 15 powerful ThreatFox alternatives to improve IOC intelligence, malware tracking, and threat visibility across modern security operations.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/threatfox-alternatives</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</title>
       <link>https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</link>
       <description>Hunt.io maps phishing campaigns using shared ZIP payload infrastructure targeting financial institutions and government organizations across Asia. Learn more.</description>
@@ -352,11 +338,25 @@
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Exposing Lumma Stealer’s Second-Stage Infrastructure and C2 Servers with ASN and JA4X Pivoting</title>
+      <link>https://hunt.io/blog/tracking-lumma-stealer-second-stage-servers</link>
+      <description>Expose Lumma Stealer’s second-stage infrastructure using ASN and JA4X pivoting to identify active servers across multiple networks</description>
+      <guid isPermaLink="false">https://hunt.io/blog/tracking-lumma-stealer-second-stage-servers</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A Practical Guide to Uncovering Malicious Infrastructure With Hunt.io</title>
       <link>https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</link>
       <description>Learn how to track and map adversary infrastructure using Hunt, pivoting from a single IP to uncover hidden connections through infrastructure overlaps and key intelligence indicators.</description>
       <guid isPermaLink="false">https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Roundish: Uncovering an APT28 Roundcube Exploitation Toolkit Targeting Ukraine</title>
+      <link>https://hunt.io/blog/operation-roundish-apt28-roundcube-exploitation</link>
+      <description>Hunt.io investigation uncovered Operation Roundish, an APT28 toolkit used to exploit Roundcube webmail and target Ukrainian government systems. Learn more.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/operation-roundish-apt28-roundcube-exploitation</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
