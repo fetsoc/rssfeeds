@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 18:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:20:47 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/docmagic-impersonation-campaign-redirects-users-t…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c199e393124538ccebb01b26adc34adefbd92d6e</link>
