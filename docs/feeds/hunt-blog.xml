@@ -7,20 +7,20 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 18:44:14 +0000</lastBuildDate>
-    <item>
-      <title>Detecting IOX, FRP, Rakshasa, and Stowaway Proxies Using Hunt.io</title>
-      <link>https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</link>
-      <description>This post explores open-source proxy tools commonly used in attacker and red team infrastructure, and shows how defenders can detect IOX, FRP, Rakshasa, and Stowaway at scale using Hunt.io.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/detect-iox-frp-rakshasa-proxies</guid>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 01:17:44 +0000</lastBuildDate>
     <item>
       <title>Shared SSH Keys Expose Phishing Infrastructure Targeting Kuwait</title>
       <link>https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</link>
       <description>Shared SSH keys expose coordinated phishing targeting Kuwaiti fisheries, telecoms, and insurers with cloned login portals and mobile payment lures. Learn more.</description>
       <guid isPermaLink="false">https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</guid>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Hunt 2.1:  Refinements to the Threat Hunting Experience</title>
+      <link>https://hunt.io/blog/introducing-hunt-2-1</link>
+      <description>Discover the new Hunt.io updates: deep text assisted analysis, IOC feed improvements, improved threat actor data, and faster advanced search. Learn more.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-1</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Track Threat Actors Using Real-World IOC Pivoting</title>
