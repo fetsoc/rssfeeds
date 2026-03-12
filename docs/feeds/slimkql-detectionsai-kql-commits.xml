@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 12:41:53 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/windows-notepad-vulnerability-rce-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/3efa304b609a140c2b6f7dc0aadedc8a05abaf21</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/windows-notepad-vulnerability-rce-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3efa304b609a140c2b6f7dc0aadedc8a05abaf21</guid>
-      <pubDate>Thu, 12 Feb 2026 09:54:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 18:43:45 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/clickfix-nslookup-abuse-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/3113a00c54a8bf8e8faf6c3e543261198637ce0b</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/analyzing-ai-mcp-saas-usage-in-your-mde-environment.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3305b84b0836525a168277dec77e4dd56508cce1</guid>
       <pubDate>Wed, 11 Mar 2026 16:42:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update a-360-surveillance-kql-for-monitoring-potential-risks-from-ent…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/a1eba4feb87c63394c80fada77d03791fde10325</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update a-360-surveillance-kql-for-monitoring-potential-risks-from-entra-and-mde-endpoint-activities-amid-the-usisraeliran-escalation.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/a1eba4feb87c63394c80fada77d03791fde10325</guid>
+      <pubDate>Thu, 12 Mar 2026 14:21:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
