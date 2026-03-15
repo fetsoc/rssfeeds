@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 01:45:21 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/clickfix-nslookup-abuse-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/3113a00c54a8bf8e8faf6c3e543261198637ce0b</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/clickfix-nslookup-abuse-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3113a00c54a8bf8e8faf6c3e543261198637ce0b</guid>
-      <pubDate>Mon, 16 Feb 2026 17:12:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 06:47:37 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/clickfix-nslookup-abuse-detection-enhanced.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/14f3338cc0ceeebb12eb847a639bad16a33097dd</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update a-360-surveillance-kql-for-monitoring-potential-risks-from-entra-and-mde-endpoint-activities-amid-the-usisraeliran-escalation.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/a1eba4feb87c63394c80fada77d03791fde10325</guid>
       <pubDate>Thu, 12 Mar 2026 14:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/shinyhunters-infrastructure-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/c154aa2a827af191117a1cacd58bc172569af1be</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/shinyhunters-infrastructure-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c154aa2a827af191117a1cacd58bc172569af1be</guid>
+      <pubDate>Sun, 15 Mar 2026 03:57:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
