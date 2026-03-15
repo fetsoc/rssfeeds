@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 06:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:36:45 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/clickfix-nslookup-abuse-detection-enhanced.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/14f3338cc0ceeebb12eb847a639bad16a33097dd</link>
