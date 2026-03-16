@@ -105,6 +105,62 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "guardio-labs"
+    type: "sitemap_blog"
+    title: "Guardio Labs"
+    home_url: "https://guard.io/labs"
+    sitemap_url: "https://guard.io/sitemap.xml"
+    include_prefix: "https://guard.io/labs/"
+    exclude_exact:
+      - "https://guard.io/labs"
+      - "https://guard.io/labs/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "semperis-blog"
+    type: "sitemap_blog"
+    title: "Semperis Blog"
+    home_url: "https://www.semperis.com/blog/"
+    sitemap_url: "https://www.semperis.com/post-sitemap.xml"
+    include_prefix: "https://www.semperis.com/blog/"
+    exclude_exact:
+      - "https://www.semperis.com/blog"
+      - "https://www.semperis.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "intel471-blog"
+    type: "sitemap_blog"
+    title: "Intel 471 Blog"
+    home_url: "https://www.intel471.com/blog"
+    sitemap_url: "https://www.intel471.com/sitemap.xml"
+    include_prefix: "https://www.intel471.com/blog/"
+    exclude_exact:
+      - "https://www.intel471.com/blog"
+      - "https://www.intel471.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "cyberproof-blog"
+    type: "sitemap_blog"
+    title: "CyberProof Blog"
+    home_url: "https://www.cyberproof.com/blog/"
+    sitemap_url: "https://www.cyberproof.com/post-sitemap.xml"
+    include_prefix: "https://www.cyberproof.com/blog/"
+    exclude_exact:
+      - "https://www.cyberproof.com/blog"
+      - "https://www.cyberproof.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "hatching-blog"
+    type: "html_list"
+    title: "Hatching Blog"
+    home_url: "https://hatching.io/blog/"
+    list_url: "https://hatching.io/blog/"
+    item_link_selector: "a.button-variant-3"
+    max_items: 50
+
   - id: "esentire-tru"
     type: "sitemap_blog"
     title: "eSentire TRU Intelligence Blog"

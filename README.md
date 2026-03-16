@@ -157,6 +157,11 @@ If you want to change schedule frequency, edit the cron expression in:
 | CYFIRMA Blog | [cyfirma.com/blogs](https://www.cyfirma.com/blogs/) | [cyfirma-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cyfirma-blog.xml) |
 | Koi Security Blog | [koi.security/blog](https://www.koi.security/blog) | [koi-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml) |
 | Lookout Blog | [lookout.com/blog](https://www.lookout.com/blog) | [lookout-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml) |
+| Guardio Labs | [guard.io/labs](https://guard.io/labs) | [guardio-labs.xml](https://fetsoc.github.io/rssfeeds/feeds/guardio-labs.xml) |
+| Semperis Blog | [semperis.com/blog](https://www.semperis.com/blog/) | [semperis-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/semperis-blog.xml) |
+| Intel 471 Blog | [intel471.com/blog](https://www.intel471.com/blog) | [intel471-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/intel471-blog.xml) |
+| CyberProof Blog | [cyberproof.com/blog](https://www.cyberproof.com/blog/) | [cyberproof-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml) |
+| Hatching Blog | [hatching.io/blog](https://hatching.io/blog/) | [hatching-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/hatching-blog.xml) |
 | eSentire TRU Intelligence Blog | [esentire.com/resources/tru-intelligence-center](https://www.esentire.com/resources/tru-intelligence-center) | [esentire-tru.xml](https://fetsoc.github.io/rssfeeds/feeds/esentire-tru.xml) |
 | Malpedia — Inventory Updates | [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/) | [malpedia-inventory-updates.xml](https://fetsoc.github.io/rssfeeds/feeds/malpedia-inventory-updates.xml) |
 | Malpedia — New Malware Families | [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/) | [malpedia-families.xml](https://fetsoc.github.io/rssfeeds/feeds/malpedia-families.xml) |
