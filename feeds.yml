@@ -105,6 +105,18 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "cyjax-blog"
+    type: "sitemap_blog"
+    title: "Cyjax Blog"
+    home_url: "https://www.cyjax.com/resources?0402ca75_category_equal=Blog"
+    sitemap_url: "https://www.cyjax.com/sitemap.xml"
+    include_prefix: "https://www.cyjax.com/resources/blog/"
+    exclude_exact:
+      - "https://www.cyjax.com/resources/blog"
+      - "https://www.cyjax.com/resources/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "cyberarmor-blog"
     type: "sitemap_blog"
     title: "CyberArmor Blog"
