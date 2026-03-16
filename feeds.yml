@@ -105,6 +105,81 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "expel-blog"
+    type: "sitemap_blog"
+    title: "Expel Blog"
+    home_url: "https://expel.com/blog/"
+    sitemap_url: "https://expel.com/post-sitemap.xml"
+    include_prefix: "https://expel.com/blog/"
+    exclude_exact:
+      - "https://expel.com/blog"
+      - "https://expel.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "analyst1-blog"
+    type: "sitemap_blog_tag"
+    title: "Analyst1 Blog"
+    home_url: "https://analyst1.com/category/blog/"
+    sitemap_url: "https://analyst1.com/post-sitemap.xml"
+    include_prefix: "https://analyst1.com/"
+    tag_tokens:
+      - "category/blog/"
+    max_items: 50
+    scan_limit: 200
+    enrich_limit: 80
+
+  - id: "censys-blog"
+    type: "sitemap_blog"
+    title: "Censys Blog"
+    home_url: "https://censys.com/resources/blog"
+    sitemap_url: "https://censys.com/post-sitemap.xml"
+    include_prefix: "https://censys.com/blog/"
+    exclude_exact:
+      - "https://censys.com/blog"
+      - "https://censys.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "trellix-blog"
+    type: "sitemap_blog"
+    title: "Trellix Blog"
+    home_url: "https://www.trellix.com/blogs/"
+    sitemap_url: "https://www.trellix.com/en-us.sitemap.xml"
+    include_prefix: "https://www.trellix.com/blogs/"
+    exclude_exact:
+      - "https://www.trellix.com/blogs"
+      - "https://www.trellix.com/blogs/"
+      - "https://www.trellix.com/blogs/research"
+      - "https://www.trellix.com/blogs/research/"
+      - "https://www.trellix.com/blogs/platform"
+      - "https://www.trellix.com/blogs/platform/"
+      - "https://www.trellix.com/blogs/perspectives"
+      - "https://www.trellix.com/blogs/perspectives/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "push-security-blog"
+    type: "sitemap_blog"
+    title: "Push Security Blog"
+    home_url: "https://pushsecurity.com/blog/"
+    sitemap_url: "https://pushsecurity.com/sitemap.xml"
+    include_prefix: "https://pushsecurity.com/blog/"
+    exclude_exact:
+      - "https://pushsecurity.com/blog"
+      - "https://pushsecurity.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "splunk-security-blog"
+    type: "sitemap_blog"
+    title: "Splunk Security Blog"
+    home_url: "https://www.splunk.com/en_us/blog/security.html"
+    sitemap_url: "https://www.splunk.com/en_us/blog/sitemap.xml"
+    include_prefix: "https://www.splunk.com/en_us/blog/security/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "guardio-labs"
     type: "sitemap_blog"
     title: "Guardio Labs"
