@@ -105,6 +105,18 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "netcraft-blog"
+    type: "sitemap_blog"
+    title: "Netcraft Blog"
+    home_url: "https://www.netcraft.com/resources/blog"
+    sitemap_url: "https://www.netcraft.com/sitemap.xml"
+    include_prefix: "https://www.netcraft.com/blog/"
+    exclude_exact:
+      - "https://www.netcraft.com/blog"
+      - "https://www.netcraft.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "malwation-blog"
     type: "sitemap_blog"
     title: "Malwation Blog"
