@@ -3,6 +3,7 @@ from __future__ import annotations
 import os
 import re
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Tuple
@@ -16,6 +17,36 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 from feedgen.feed import FeedGenerator
 import json
+
+
+# ----------------------------
+# Enrichment cache
+# ----------------------------
+_CACHE_FILE = os.path.join(os.path.dirname(__file__), "..", "generators", "enrich_cache.json")
+_enrich_cache: Dict[str, Dict[str, Any]] = {}
+
+
+def _load_cache() -> None:
+    global _enrich_cache
+    try:
+        with open(_CACHE_FILE, "r", encoding="utf-8") as f:
+            _enrich_cache = json.load(f)
+    except FileNotFoundError:
+        _enrich_cache = {}
+    except Exception as e:
+        print(f"Warning: could not load enrich cache: {e}")
+        _enrich_cache = {}
+
+
+def _save_cache() -> None:
+    try:
+        with open(_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(_enrich_cache, f)
+    except Exception as e:
+        print(f"Warning: could not save enrich cache: {e}")
+
+
+ENRICH_WORKERS = 8  # concurrent page-fetch threads
 
 
 # ----------------------------
@@ -125,6 +156,12 @@ def parse_sitemap_locs(xml_text: str) -> List[str]:
 
 
 def enrich_from_post_page(url: str) -> Tuple[str, Optional[datetime], Optional[str]]:
+    """Fetch and parse a post page, using/updating the in-memory cache."""
+    if url in _enrich_cache:
+        cached = _enrich_cache[url]
+        published = safe_parse_date(cached.get("published")) if cached.get("published") else None
+        return cached.get("title", url), published, cached.get("desc")
+
     html = fetch_text(url)
     soup = BeautifulSoup(html, "html.parser")
 
@@ -163,6 +200,13 @@ def enrich_from_post_page(url: str) -> Tuple[str, Optional[datetime], Optional[s
         if m:
             published = safe_parse_date(m.group(0))
 
+    # Store in cache (published as ISO string)
+    _enrich_cache[url] = {
+        "title": title,
+        "published": published.isoformat() if published else None,
+        "desc": desc,
+    }
+
     return title, published, desc
 
 
@@ -185,16 +229,23 @@ def build_sitemap_blog(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
             if u != include_prefix.rstrip("/"):
                 urls.append(u)
 
-    # Enrich first N and then sort by published date
-    enriched: List[Dict[str, Any]] = []
-    for u in urls[:enrich_candidates]:
-        try:
-            title, published, desc = enrich_from_post_page(u)
-        except Exception:
-            title, published, desc = (u, None, None)
-        enriched.append(
-            {"url": u, "title": title, "published": published, "description": desc}
-        )
+    # Enrich first N in parallel, then sort by published date
+    candidates = urls[:enrich_candidates]
+    results: Dict[str, Tuple[str, Optional[datetime], Optional[str]]] = {}
+
+    with ThreadPoolExecutor(max_workers=ENRICH_WORKERS) as pool:
+        future_to_url = {pool.submit(enrich_from_post_page, u): u for u in candidates}
+        for future in as_completed(future_to_url):
+            u = future_to_url[future]
+            try:
+                results[u] = future.result()
+            except Exception:
+                results[u] = (u, None, None)
+
+    enriched: List[Dict[str, Any]] = [
+        {"url": u, "title": results[u][0], "published": results[u][1], "description": results[u][2]}
+        for u in candidates
+    ]
 
     enriched.sort(
         key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
@@ -261,13 +312,22 @@ def build_html_list(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
         seen.add(url)
         urls.append(url)
 
-    items: List[Dict[str, Any]] = []
-    for u in urls[:max_items]:
-        try:
-            title, published, desc = enrich_from_post_page(u)
-        except Exception:
-            title, published, desc = (u, None, None)
-        items.append({"url": u, "title": title, "published": published, "description": desc})
+    candidates = urls[:max_items]
+    results: Dict[str, Tuple[str, Optional[datetime], Optional[str]]] = {}
+
+    with ThreadPoolExecutor(max_workers=ENRICH_WORKERS) as pool:
+        future_to_url = {pool.submit(enrich_from_post_page, u): u for u in candidates}
+        for future in as_completed(future_to_url):
+            u = future_to_url[future]
+            try:
+                results[u] = future.result()
+            except Exception:
+                results[u] = (u, None, None)
+
+    items: List[Dict[str, Any]] = [
+        {"url": u, "title": results[u][0], "published": results[u][1], "description": results[u][2]}
+        for u in candidates
+    ]
 
     items.sort(
         key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
@@ -681,6 +741,8 @@ BUILDERS = {
 
 
 def main():
+    _load_cache()
+
     with open("feeds.yml", "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
 
@@ -717,6 +779,8 @@ def main():
         )
 
         print(f"Built {feed_id}: {len(items)} items -> {out_file}")
+
+    _save_cache()
 
 
 if __name__ == "__main__":
