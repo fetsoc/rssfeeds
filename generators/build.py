@@ -699,7 +699,11 @@ def main():
         if not builder:
             raise ValueError(f"Unknown feed type: {feed_type}")
 
-        items = builder(feed)
+        try:
+            items = builder(feed)
+        except Exception as e:
+            print(f"WARNING: Skipping {feed_id} — {e}", flush=True)
+            continue
 
         out_file = os.path.join(out_dir, f"{feed_id}.xml")
         write_feed(
