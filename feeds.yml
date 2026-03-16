@@ -45,6 +45,78 @@ feeds:
     source_feed_url: "https://github.com/SlimKQL/Detections.AI/commits/main/KQL.atom"
     max_items: 50
 
+  - id: "darktrace-blog"
+    type: "sitemap_blog"
+    title: "Darktrace Blog"
+    home_url: "https://www.darktrace.com/blog"
+    sitemap_url: "https://www.darktrace.com/sitemap.xml"
+    include_prefix: "https://www.darktrace.com/blog/"
+    exclude_exact:
+      - "https://www.darktrace.com/blog"
+      - "https://www.darktrace.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "sonicwall-blog"
+    type: "sitemap_blog"
+    title: "SonicWall Blog"
+    home_url: "https://www.sonicwall.com/blog"
+    sitemap_url: "https://www.sonicwall.com/cms-blogs1.xml"
+    include_prefix: "https://www.sonicwall.com/blog/"
+    exclude_exact:
+      - "https://www.sonicwall.com/blog"
+      - "https://www.sonicwall.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "cyfirma-blog"
+    type: "sitemap_blog"
+    title: "CYFIRMA Blog"
+    home_url: "https://www.cyfirma.com/blogs/"
+    sitemap_url: "https://www.cyfirma.com/post-sitemap.xml"
+    include_prefix: "https://www.cyfirma.com/blogs/"
+    exclude_exact:
+      - "https://www.cyfirma.com/blogs"
+      - "https://www.cyfirma.com/blogs/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "koi-blog"
+    type: "sitemap_blog"
+    title: "Koi Security Blog"
+    home_url: "https://www.koi.security/blog"
+    sitemap_url: "https://www.koi.ai/sitemap.xml"
+    include_prefix: "https://www.koi.ai/blog/"
+    exclude_exact:
+      - "https://www.koi.ai/blog"
+      - "https://www.koi.ai/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "lookout-blog"
+    type: "sitemap_blog"
+    title: "Lookout Blog"
+    home_url: "https://www.lookout.com/blog"
+    sitemap_url: "https://www.lookout.com/sitemap.xml"
+    include_prefix: "https://security.lookout.com/blog/"
+    exclude_exact:
+      - "https://security.lookout.com/blog"
+      - "https://security.lookout.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "esentire-tru"
+    type: "sitemap_blog"
+    title: "eSentire TRU Intelligence Blog"
+    home_url: "https://www.esentire.com/resources/tru-intelligence-center"
+    sitemap_url: "https://www.esentire.com/sitemap.xml"
+    include_prefix: "https://www.esentire.com/blog/"
+    exclude_exact:
+      - "https://www.esentire.com/blog"
+      - "https://www.esentire.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "malpedia-inventory-updates"
     type: "malpedia_inventory_updates"
     title: "Malpedia — Inventory Updates"

@@ -144,6 +144,25 @@ If you want to change schedule frequency, edit the cron expression in:
 
 ---
 
+## Published Feeds
+
+| Feed | Source | RSS URL |
+|------|--------|---------|
+| Hunt.io Blog | [hunt.io/blog](https://hunt.io/blog) | [hunt-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml) |
+| Nozomi Networks Blog — Labs Research | [nozominetworks.com/blog](https://www.nozominetworks.com/blog?tag=labs-research) | [nozomi-labs-research.xml](https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml) |
+| SlimKQL Hunting Queries — Main folder commits | [GitHub](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/tree/main) | [slimkql-main-folder-commits.xml](https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml) |
+| SlimKQL Hunting Queries — Detections AI KQL folder commits | [GitHub](https://github.com/SlimKQL/Detections.AI/tree/main/KQL) | [slimkql-detectionsai-kql-commits.xml](https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml) |
+| Darktrace Blog | [darktrace.com/blog](https://www.darktrace.com/blog) | [darktrace-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml) |
+| SonicWall Blog | [sonicwall.com/blog](https://www.sonicwall.com/blog) | [sonicwall-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml) |
+| CYFIRMA Blog | [cyfirma.com/blogs](https://www.cyfirma.com/blogs/) | [cyfirma-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cyfirma-blog.xml) |
+| Koi Security Blog | [koi.security/blog](https://www.koi.security/blog) | [koi-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml) |
+| Lookout Blog | [lookout.com/blog](https://www.lookout.com/blog) | [lookout-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml) |
+| eSentire TRU Intelligence Blog | [esentire.com/resources/tru-intelligence-center](https://www.esentire.com/resources/tru-intelligence-center) | [esentire-tru.xml](https://fetsoc.github.io/rssfeeds/feeds/esentire-tru.xml) |
+| Malpedia — Inventory Updates | [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/) | [malpedia-inventory-updates.xml](https://fetsoc.github.io/rssfeeds/feeds/malpedia-inventory-updates.xml) |
+| Malpedia — New Malware Families | [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/) | [malpedia-families.xml](https://fetsoc.github.io/rssfeeds/feeds/malpedia-families.xml) |
+
+---
+
 ## Contributing
 
 PRs are welcome.
