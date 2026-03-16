@@ -105,6 +105,18 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "malwation-blog"
+    type: "sitemap_blog"
+    title: "Malwation Blog"
+    home_url: "https://www.malwation.com/blog"
+    sitemap_url: "https://www.malwation.com/sitemap.xml"
+    include_prefix: "https://www.malwation.com/blog/"
+    exclude_exact:
+      - "https://www.malwation.com/blog"
+      - "https://www.malwation.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "cymulate-blog"
     type: "sitemap_blog"
     title: "Cymulate Blog"
