@@ -105,6 +105,51 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "todyl-threat-research"
+    type: "sitemap_blog"
+    title: "Todyl Threat Research"
+    home_url: "https://www.todyl.com/threat-research"
+    sitemap_url: "https://www.todyl.com/sitemap.xml"
+    include_prefix: "https://www.todyl.com/threat-research/"
+    exclude_exact:
+      - "https://www.todyl.com/threat-research"
+      - "https://www.todyl.com/threat-research/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "threatmon-blog"
+    type: "sitemap_blog"
+    title: "ThreatMon Blog"
+    home_url: "https://threatmon.io/blog/"
+    sitemap_url: "https://threatmon.io/post-sitemap.xml"
+    include_prefix: "https://threatmon.io/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "team-cymru-blog"
+    type: "sitemap_blog"
+    title: "Team Cymru Blog"
+    home_url: "https://www.team-cymru.com/blog"
+    sitemap_url: "https://www.team-cymru.com/sitemap.xml"
+    include_prefix: "https://www.team-cymru.com/post/"
+    exclude_exact:
+      - "https://www.team-cymru.com/post"
+      - "https://www.team-cymru.com/post/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "ibm-xforce-blog"
+    type: "sitemap_blog"
+    title: "IBM X-Force Blog"
+    home_url: "https://www.ibm.com/think/x-force"
+    sitemap_url: "https://www.ibm.com/us-en.sitemap.xml"
+    include_prefix: "https://www.ibm.com/think/x-force/"
+    exclude_exact:
+      - "https://www.ibm.com/think/x-force"
+      - "https://www.ibm.com/think/x-force/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "expel-blog"
     type: "sitemap_blog"
     title: "Expel Blog"

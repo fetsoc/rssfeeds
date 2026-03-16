@@ -157,6 +157,10 @@ If you want to change schedule frequency, edit the cron expression in:
 | CYFIRMA Blog | [cyfirma.com/blogs](https://www.cyfirma.com/blogs/) | [cyfirma-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cyfirma-blog.xml) |
 | Koi Security Blog | [koi.security/blog](https://www.koi.security/blog) | [koi-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml) |
 | Lookout Blog | [lookout.com/blog](https://www.lookout.com/blog) | [lookout-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml) |
+| Todyl Threat Research | [todyl.com/threat-research](https://www.todyl.com/threat-research) | [todyl-threat-research.xml](https://fetsoc.github.io/rssfeeds/feeds/todyl-threat-research.xml) |
+| ThreatMon Blog | [threatmon.io/blog](https://threatmon.io/blog/) | [threatmon-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml) |
+| Team Cymru Blog | [team-cymru.com/blog](https://www.team-cymru.com/blog) | [team-cymru-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml) |
+| IBM X-Force Blog | [ibm.com/think/x-force](https://www.ibm.com/think/x-force) | [ibm-xforce-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/ibm-xforce-blog.xml) |
 | Expel Blog | [expel.com/blog](https://expel.com/blog/) | [expel-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml) |
 | Analyst1 Blog | [analyst1.com/category/blog](https://analyst1.com/category/blog/) | [analyst1-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml) |
 | Censys Blog | [censys.com/resources/blog](https://censys.com/resources/blog) | [censys-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml) |
