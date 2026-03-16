@@ -167,6 +167,7 @@ If you want to change schedule frequency, edit the cron expression in:
 | Team Cymru Blog | [team-cymru.com/blog](https://www.team-cymru.com/blog) | [team-cymru-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml) |
 | IBM X-Force Blog | [ibm.com/think/x-force](https://www.ibm.com/think/x-force) | [ibm-xforce-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/ibm-xforce-blog.xml) |
 | Expel Blog | [expel.com/blog](https://expel.com/blog/) | [expel-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml) |
+| Analyst1 Blog | [analyst1.com/category/blog](https://analyst1.com/category/blog/) | [analyst1-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml) |
 | Censys Blog | [censys.com/resources/blog](https://censys.com/resources/blog) | [censys-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml) |
 | Trellix Blog | [trellix.com/blogs](https://www.trellix.com/blogs/) | [trellix-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/trellix-blog.xml) |
 | Push Security Blog | [pushsecurity.com/blog](https://pushsecurity.com/blog/) | [push-security-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml) |

@@ -1,4 +1,5 @@
 requests
+cloudscraper
 beautifulsoup4
 feedgen
 python-dateutil

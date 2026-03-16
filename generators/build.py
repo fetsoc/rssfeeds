@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Tuple
 from urllib.parse import urljoin
 
+import cloudscraper
 import feedparser
 import jmespath
 import requests
@@ -53,10 +54,8 @@ ENRICH_WORKERS = 8  # concurrent page-fetch threads
 # Common helpers
 # ----------------------------
 def fetch_text(url: str) -> str:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (rssfeeds generator; +https://github.com/fetsoc/rssfeeds)"
-    }
-    r = requests.get(url, headers=headers, timeout=45)
+    scraper = cloudscraper.create_scraper()
+    r = scraper.get(url, timeout=45)
     r.raise_for_status()
 
     # Fix mojibake (â€™ etc.) when encoding is missing/wrong
