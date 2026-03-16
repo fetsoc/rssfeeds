@@ -105,6 +105,18 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "cyberarmor-blog"
+    type: "sitemap_blog"
+    title: "CyberArmor Blog"
+    home_url: "https://cyberarmor.tech/blog"
+    sitemap_url: "https://cyberarmor.tech/sitemap.xml"
+    include_prefix: "https://cyberarmor.tech/blog/"
+    exclude_exact:
+      - "https://cyberarmor.tech/blog"
+      - "https://cyberarmor.tech/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "netcraft-blog"
     type: "sitemap_blog"
     title: "Netcraft Blog"

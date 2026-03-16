@@ -157,6 +157,7 @@ If you want to change schedule frequency, edit the cron expression in:
 | CYFIRMA Blog | [cyfirma.com/blogs](https://www.cyfirma.com/blogs/) | [cyfirma-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cyfirma-blog.xml) |
 | Koi Security Blog | [koi.security/blog](https://www.koi.security/blog) | [koi-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml) |
 | Lookout Blog | [lookout.com/blog](https://www.lookout.com/blog) | [lookout-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml) |
+| CyberArmor Blog | [cyberarmor.tech/blog](https://cyberarmor.tech/blog) | [cyberarmor-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cyberarmor-blog.xml) |
 | Netcraft Blog | [netcraft.com/resources/blog](https://www.netcraft.com/resources/blog) | [netcraft-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml) |
 | Malwation Blog | [malwation.com/blog](https://www.malwation.com/blog) | [malwation-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/malwation-blog.xml) |
 | Cymulate Blog | [cymulate.com/blog](https://cymulate.com/blog/) | [cymulate-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml) |
