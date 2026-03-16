@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>CyberProof Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:49:37 +0000</lastBuildDate>
+    <item>
+      <title>Finding the Right MDR Provider - Our Takeaways from Forrester NowTech</title>
+      <link>https://www.cyberproof.com/blog/finding-an-mdr-provider-our-key-takeaways-from-a-forrester-report/</link>
+      <description>Read about the various factors that organizations should prioritize as they choose MDR services to uphold their security standing.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/finding-an-mdr-provider-our-key-takeaways-from-a-forrester-report/</guid>
+      <pubDate>Wed, 16 Dec 2020 11:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Augmenting Security Operations in the Financial Services Industry</title>
+      <link>https://www.cyberproof.com/blog/augmenting-security-operations-in-the-financial-services-industry/</link>
+      <description>Discover how Financial Services firms can enhance their SOC through multiple methods. Learn more about augmenting cybersecurity defences today.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/augmenting-security-operations-in-the-financial-services-industry/</guid>
+      <pubDate>Mon, 11 Jan 2021 10:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Azure Sentinel SIEM: Multi-tenancy Deployment (Pt.1)</title>
+      <link>https://www.cyberproof.com/blog/deploying-microsoft-azure-sentinel-siem-in-a-multi-tenancy-environment-part-1/</link>
+      <description>Read about how to plan a successful deployment of Azure Sentinel so it can be managed in a multi-tenancy environment with Azure Lighthouse.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/deploying-microsoft-azure-sentinel-siem-in-a-multi-tenancy-environment-part-1/</guid>
+      <pubDate>Tue, 19 Jan 2021 05:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Azure Sentinel SIEM: Multi-tenancy Deployment (Pt.2)</title>
+      <link>https://www.cyberproof.com/blog/deploying-microsoft-azure-sentinel-siem-in-a-multi-tenancy-environment-part-2/</link>
+      <description>In this blog, go through the actual deployment of Azure Sentinel so it can be managed in a multi-tenancy environment with Azure Lighthouse.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/deploying-microsoft-azure-sentinel-siem-in-a-multi-tenancy-environment-part-2/</guid>
+      <pubDate>Wed, 03 Feb 2021 03:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging Microsoft Sentinel SIEM to Identify Customer-Specific IOCs</title>
+      <link>https://www.cyberproof.com/blog/leveraging-microsoft-sentinel-siem-to-identify-customer-specific-iocs/</link>
+      <description>CyberProof uses Microsoft Sentinel SIEM to pinpoint customer-specific IOCs. Discover how this powerful tool helps prevent potential cyber threats.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/leveraging-microsoft-sentinel-siem-to-identify-customer-specific-iocs/</guid>
+      <pubDate>Mon, 15 Feb 2021 03:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Tips to Securing Office 365</title>
+      <link>https://www.cyberproof.com/blog/7-tips-to-securing-office-365/</link>
+      <description>Find out how to incorporate various security tools and use cases into your Microsoft 365 platform, in order to minimize risk.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/7-tips-to-securing-office-365/</guid>
+      <pubDate>Mon, 10 May 2021 03:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting Your Organization from Ransomware and Cyber Extortion</title>
+      <link>https://www.cyberproof.com/blog/protecting-your-organization-from-ransomware-and-cyber-extortion/</link>
+      <description>Read more about the different kinds of cyber extortion and what you can do to protect your organization</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/protecting-your-organization-from-ransomware-and-cyber-extortion/</guid>
+      <pubDate>Thu, 20 May 2021 05:36:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberProof Introduces the “Hybrid SOC Approach” at InfoSecurity Europe</title>
+      <link>https://www.cyberproof.com/blog/cyberproof-introduces-the-hybrid-soc-approach-at-infosecurity-europe/</link>
+      <description>Jaimon Thomas and Sinu Peter presented at InfoSecurity Europe on the topic of “Smarter Security Operations with a Hybrid SOC”, here are some key points.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/cyberproof-introduces-the-hybrid-soc-approach-at-infosecurity-europe/</guid>
+      <pubDate>Mon, 26 Jul 2021 05:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Tips to Leverage Your Endpoint Detection &amp; Response (EDR) Investment</title>
+      <link>https://www.cyberproof.com/blog/5-tips-to-leverage-your-edr-investment/</link>
+      <description>Threat actors utilize a variety of tactics to gain access to target networks – using the endpoints as entry points to reach organization’s “crown jewels.”</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/5-tips-to-leverage-your-edr-investment/</guid>
+      <pubDate>Wed, 01 Sep 2021 03:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Develop a Converged IT/OT SOC</title>
+      <link>https://www.cyberproof.com/blog/how-to-develop-a-converged-it-ot-soc/</link>
+      <description>To remain competitive, organizations relying on OT ecosystems must adopt new technologies – integrating innovations with legacy systems.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-to-develop-a-converged-it-ot-soc/</guid>
+      <pubDate>Wed, 15 Sep 2021 00:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why a Use Case Factory is Essential to Your Cyber Security Strategy</title>
+      <link>https://www.cyberproof.com/blog/why-a-use-case-factory-is-essential-to-your-cyber-security-strategy/</link>
+      <description>Many view a use case as a detection scenario for cyber security threats in a SIEM platform. But the reality is that a use case involves much more.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-a-use-case-factory-is-essential-to-your-cyber-security-strategy/</guid>
+      <pubDate>Mon, 27 Sep 2021 02:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Your Cyber Security Strategy Must Include a Use Case Factory, P2</title>
+      <link>https://www.cyberproof.com/blog/why-your-cyber-security-strategy-must-include-a-use-case-factory-p2/</link>
+      <description>In part 1 of this blog series, we discussed the skills and requirements for building a use case factory. In part 2, we delve into the development process.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-your-cyber-security-strategy-must-include-a-use-case-factory-p2/</guid>
+      <pubDate>Mon, 04 Oct 2021 02:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Exchange’s Basic Authentication – Know Your Weaknesses</title>
+      <link>https://www.cyberproof.com/blog/microsoft-exchanges-basic-authentication-know-your-weaknesses/</link>
+      <description>Basic Authentication poses a risk to your organization’s data and the number of threats that exploit Basic Authentication continues to increase.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/microsoft-exchanges-basic-authentication-know-your-weaknesses/</guid>
+      <pubDate>Mon, 18 Oct 2021 09:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diwali Shopping Season - Must-Know Tips to Protect Your Data &amp; Company</title>
+      <link>https://www.cyberproof.com/blog/tips-to-protect-your-data-throughout-the-diwali-shopping-season/</link>
+      <description>As consumers in India shop for Diwali, retailers have reason for concern, as a surge in online shopping also means an increase in cyber security threats.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/tips-to-protect-your-data-throughout-the-diwali-shopping-season/</guid>
+      <pubDate>Thu, 28 Oct 2021 07:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does Your SOC Measure Up? A “Sneak Peek” into the SANS SOC Survey</title>
+      <link>https://www.cyberproof.com/blog/does-your-soc-measure-up-a-sneak-peek-into-the-sans-soc-survey/</link>
+      <description>We partnered with SANS to provide this year’s SANS Institute SOC Survey. This survey shares topics including SOC staffing, technology, funding, and more.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/does-your-soc-measure-up-a-sneak-peek-into-the-sans-soc-survey/</guid>
+      <pubDate>Sun, 14 Nov 2021 06:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberProof’s SOC Masterclass - A 360° Look into SOC Operations</title>
+      <link>https://www.cyberproof.com/blog/cyberproofs-soc-masterclass-a-360-look-into-soc-operations/</link>
+      <description>A summary of the highlights from the SOC Masterclass. This 2-day virtual event was designed for security operations leaders looking to optimize their SOC.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/cyberproofs-soc-masterclass-a-360-look-into-soc-operations/</guid>
+      <pubDate>Mon, 22 Nov 2021 06:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holiday Season Cyber Threats</title>
+      <link>https://www.cyberproof.com/blog/holiday-season-cyber-threats/</link>
+      <description>Be aware of the main cyber security threats that online businesses and their customers will be facing during this coming weekend for Black Friday.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/holiday-season-cyber-threats/</guid>
+      <pubDate>Thu, 25 Nov 2021 09:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Steps to Improving Your SOC’s Incident Detection &amp; Response</title>
+      <link>https://www.cyberproof.com/blog/8-steps-to-improving-your-socs-incident-detection-response/</link>
+      <description>Read how CyberProof’s SOC team collaborates across teams and shares expertise in real-time in the 2022 Cyber Defenders Playbook.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/8-steps-to-improving-your-socs-incident-detection-response/</guid>
+      <pubDate>Thu, 27 Jan 2022 09:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>How FOMO – “Fear of Missing Out” – Hurts Effective Security Monitoring</title>
+      <link>https://www.cyberproof.com/blog/how-fomo-fear-of-missing-out-hurts-effective-security-monitoring/</link>
+      <description>Fear of Missing Out (FOMO) can have an impact on SOC efficiency to the point where the team misses the real threats.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-fomo-fear-of-missing-out-hurts-effective-security-monitoring/</guid>
+      <pubDate>Thu, 10 Feb 2022 09:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cyber Attackers Use the Custom-Built Exfiltration Tool BlackMatter</title>
+      <link>https://www.cyberproof.com/blog/blackmatter-cyber-attack-in-depth-analysis-2022/</link>
+      <description>Recently, Ransomware gangs started to use custom-built exfiltration tools more often. This blog post provides a deep-dive into the code of BlackMatter.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/blackmatter-cyber-attack-in-depth-analysis-2022/</guid>
+      <pubDate>Thu, 24 Feb 2022 14:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recent Developments in Russian-Ukrainian Cyber Warfare, April 6, 2022</title>
+      <link>https://www.cyberproof.com/blog/recent-development-in-russian-ukrainian-cyber-warfare-april6-2022/</link>
+      <description>Security researchers shared a deep-dive analysis of an advanced wiper that was leveraged to wipe Viasat’s satellite communication modems in Ukraine.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/recent-development-in-russian-ukrainian-cyber-warfare-april6-2022/</guid>
+      <pubDate>Wed, 06 Apr 2022 07:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reducing Alert False Positives with Risk-Based Use Case Mapping</title>
+      <link>https://www.cyberproof.com/blog/reducing-alert-false-positives-with-risk-based-use-case-mapping/</link>
+      <description>The number of false alerts can be minimized by leveraging risk-based mapping of use cases -find out more in our blog.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/reducing-alert-false-positives-with-risk-based-use-case-mapping/</guid>
+      <pubDate>Wed, 20 Apr 2022 02:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Use an MDR Provider? Forrester’s Key Findings about the MDR Market</title>
+      <link>https://www.cyberproof.com/blog/why-use-an-mdr-provider-forresters-key-findings-about-the-mdr-market/</link>
+      <description>Forrester released an infographic summarizing the key data collected from customers and vendors about the Managed Detection &amp; Response (MDR) market.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-use-an-mdr-provider-forresters-key-findings-about-the-mdr-market/</guid>
+      <pubDate>Wed, 04 May 2022 04:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Security, Ransomware Simulation &amp; More in Our SOC Masterclass</title>
+      <link>https://www.cyberproof.com/blog/cloud-security-ransomware-simulation-more-in-our-soc-masterclass/</link>
+      <description>This blog is a summary of some of the SOC Masterclass' highlights with quotes from our cast of cyber presenters.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/cloud-security-ransomware-simulation-more-in-our-soc-masterclass/</guid>
+      <pubDate>Wed, 11 May 2022 09:06:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Considering a Career in Cyber Security? Here's What You Need to Know</title>
+      <link>https://www.cyberproof.com/blog/considering-a-career-in-cyber-security-heres-what-you-need-to-know/</link>
+      <description>In this blog, read about insights and recommendations into the key skills and experience that cyber security companies like CyberProof are looking for.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/considering-a-career-in-cyber-security-heres-what-you-need-to-know/</guid>
+      <pubDate>Wed, 13 Jul 2022 07:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting Enterprises as They Migrate to the Cloud – and Beyond</title>
+      <link>https://www.cyberproof.com/blog/protecting-enterprises-as-they-migrate-to-the-cloud-and-beyond/</link>
+      <description>With our expanded customer base and service offerings, our site required a facelift. Have a look at our new site!</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/protecting-enterprises-as-they-migrate-to-the-cloud-and-beyond/</guid>
+      <pubDate>Thu, 04 Aug 2022 08:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The real cost of stolen data</title>
+      <link>https://www.cyberproof.com/blog/the-real-cost-of-stolen-data/</link>
+      <description>What is the most valuable kind of stolen data available to purchase on the Dark Web? Using an MDR provider can support your financial organization.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/the-real-cost-of-stolen-data/</guid>
+      <pubDate>Tue, 06 Dec 2022 05:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity: new threats, new models - interview with Yuval Wollman</title>
+      <link>https://www.cyberproof.com/blog/cybersecurity-new-threats-new-models-interview-with-yuval-wollman/</link>
+      <description>The American Chamber of Commerce hosted our President, Yuval Wollman for a fireside chat on the changing threat landscape in cybersecurity.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/cybersecurity-new-threats-new-models-interview-with-yuval-wollman/</guid>
+      <pubDate>Tue, 13 Dec 2022 07:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interview: What can we do to boost gender diversity in cybersecurity?</title>
+      <link>https://www.cyberproof.com/blog/interview-what-can-we-do-to-boost-gender-diversity-in-cybersecurity/</link>
+      <description>In honor of International Women’s Day, we’re sharing the following interview with CyberProof’s Director of Platform Development Alina Moshkovich.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/interview-what-can-we-do-to-boost-gender-diversity-in-cybersecurity/</guid>
+      <pubDate>Thu, 23 Feb 2023 05:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Women &amp; Cyber - Debunking Misconceptions for International Women's Day</title>
+      <link>https://www.cyberproof.com/blog/women-in-cyber-debunking-misconceptions-on-international-womens-day/</link>
+      <description>In this blog, Shani Touitou and Karina Daniel share what companies can do to tackle gender gap and how they feel about working in cybersecurity.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/women-in-cyber-debunking-misconceptions-on-international-womens-day/</guid>
+      <pubDate>Mon, 27 Feb 2023 07:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Hunting Tools: The mindset and tools for proactive hunting</title>
+      <link>https://www.cyberproof.com/blog/threat-hunters-arsenal-the-mindset-and-tools-for-proactive-hunting/</link>
+      <description>What does it take to be a threat hunter, who works proactively to uncover hidden threats lurking inside an IT network?</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/threat-hunters-arsenal-the-mindset-and-tools-for-proactive-hunting/</guid>
+      <pubDate>Thu, 16 Mar 2023 11:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Day in the Life of a SOC Manager: Interview with Aneesh Jayakumar</title>
+      <link>https://www.cyberproof.com/blog/a-day-in-the-life-of-a-soc-manager-interview-with-aneesh-jayakumar/</link>
+      <description>In this blog, we’ll explore Aneesh Jayakumar's daily routine and gain insight into his perspectives on the challenges leading a security operations team.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/a-day-in-the-life-of-a-soc-manager-interview-with-aneesh-jayakumar/</guid>
+      <pubDate>Mon, 27 Mar 2023 05:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Handlebars to get the exact output structures you want from GPT4</title>
+      <link>https://www.cyberproof.com/blog/using-handlebars-to-get-the-exact-output-structures-you-want-from-gpt4/</link>
+      <description>Explore AI in cybersecurity with Dina Berenbaum. Delve into GPT-4 challenges, Handlebars.js potential, and the future of cyber defense. CyberProof insights</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/using-handlebars-to-get-the-exact-output-structures-you-want-from-gpt4/</guid>
+      <pubDate>Wed, 30 Aug 2023 04:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>BBC interview with President Yuval Wollman: The risks of GenAI</title>
+      <link>https://www.cyberproof.com/blog/bbc-interview-with-cyberproof-president-yuval-wollman-the-risks-of-generative-ai/</link>
+      <description>Interview with CyberProof President Yuval Wollman by the BBC’s presenter Sally Bundock, in advance of the first-ever session by the UN Security Council about the risks of AI.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/bbc-interview-with-cyberproof-president-yuval-wollman-the-risks-of-generative-ai/</guid>
+      <pubDate>Thu, 07 Sep 2023 03:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>How business-focused vulnerability management can improve cyber hygiene</title>
+      <link>https://www.cyberproof.com/blog/how-business-focused-vulnerability-management-can-improve-cyber-hygiene/</link>
+      <description>Our latest eBook, written in collaboration with Qualys, explores our recommendations for maintaining proper vulnerability hygiene.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-business-focused-vulnerability-management-can-improve-cyber-hygiene/</guid>
+      <pubDate>Wed, 20 Sep 2023 05:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marketing in the cyber industry and the ethics of Surveillance Capitalism</title>
+      <link>https://www.cyberproof.com/blog/marketing-in-the-cyber-industry-and-the-ethics-of-surveillance-capitalism/</link>
+      <description>In today's digital age, data analytics plays a crucial role in creating awareness and driving demand around new products and services. Understanding customer needs, intentions, and behaviors and then tailoring messages to target specific audiences has become a fundamental practice.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/marketing-in-the-cyber-industry-and-the-ethics-of-surveillance-capitalism/</guid>
+      <pubDate>Thu, 05 Oct 2023 08:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing the repository manager: Insights from a threat hunter</title>
+      <link>https://www.cyberproof.com/blog/securing-the-repository-manager-insights-from-a-threat-hunter/</link>
+      <description>This blog post explores the steps taken to uncover suspicious usage of a PowerShell downloading functionality.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/securing-the-repository-manager-insights-from-a-threat-hunter/</guid>
+      <pubDate>Thu, 21 Dec 2023 05:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitigating cloud transformation risk with cloud-native solutions</title>
+      <link>https://www.cyberproof.com/blog/mitigating-cloud-transformation-risk-with-cloud-native-solutions-2/</link>
+      <description>Tony Velleca, CyberProof CEO, sees that security operations are moving to modern cloud-native architectures at an accelerated pace. In this interview, he</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/mitigating-cloud-transformation-risk-with-cloud-native-solutions-2/</guid>
+      <pubDate>Tue, 06 Feb 2024 10:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hardening your operating system: A strategic approach to cyber defense</title>
+      <link>https://www.cyberproof.com/blog/hardening-your-operating-system-a-strategic-approach-to-cyber-defense/</link>
+      <description>Strategic planning is a key component of cyber hygiene and in building a holistic defense against cyber threats. Operating system hardening, within this</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/hardening-your-operating-system-a-strategic-approach-to-cyber-defense/</guid>
+      <pubDate>Thu, 08 Feb 2024 10:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIEM Migration: Why now?</title>
+      <link>https://www.cyberproof.com/blog/siem-migration-why-now/</link>
+      <description>Is migrating to cloud-native SIEM worth the hassle? CyberProof President Yuval Wollman and Managing Director of Cyber Defense Service Delivery Doron</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/siem-migration-why-now/</guid>
+      <pubDate>Mon, 26 Feb 2024 09:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protect your code in compliance with GDPR</title>
+      <link>https://www.cyberproof.com/blog/protect-your-code-in-compliance-with-gdpr/</link>
+      <description>This blog is part of a series on securing code repositories. Read our first blog on the topic by clicking here. When developing software, companies'</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/protect-your-code-in-compliance-with-gdpr/</guid>
+      <pubDate>Tue, 05 Mar 2024 09:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 ways companies can protect against critical infrastructure attacks</title>
+      <link>https://www.cyberproof.com/blog/3-ways-companies-can-protect-against-critical-infrastructure-attacks/</link>
+      <description>This article was first published in Computing magazine. To read the full piece, click here. With the danger of attack on critical infrastructure</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/3-ways-companies-can-protect-against-critical-infrastructure-attacks/</guid>
+      <pubDate>Sun, 10 Mar 2024 09:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting malicious use of NAS devices: Insights from a threat hunter</title>
+      <link>https://www.cyberproof.com/blog/detecting-malicious-use-of-nas-devices-insights-from-a-threat-hunter/</link>
+      <description>This blog post is the third in a series about threat hunting by Shani Touitou, Incident Response and Threat Hunting Specialist. To read the second blog in</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/detecting-malicious-use-of-nas-devices-insights-from-a-threat-hunter/</guid>
+      <pubDate>Wed, 17 Apr 2024 06:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Open XDR?</title>
+      <link>https://www.cyberproof.com/blog/what-is-open-xdr/</link>
+      <description>A new buzzword is in the market. In an ever-changing cybersecurity environment, organizations must adapt their security tech stack to better secure</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/what-is-open-xdr/</guid>
+      <pubDate>Wed, 17 Apr 2024 06:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Better security, together</title>
+      <link>https://www.cyberproof.com/blog/better-security-together/</link>
+      <description>In an era where cyber threats evolve in a forever expanding threat landscape, collaborating to stay ahead in cybersecurity is not just an option—it's a</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/better-security-together/</guid>
+      <pubDate>Wed, 01 May 2024 07:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberProof announces strategic partnership with Google Cloud</title>
+      <link>https://www.cyberproof.com/blog/cyberproof-announces-strategic-partnership-with-google-cloud/</link>
+      <description>Enterprise-class SecOps services from CyberProof leverage Google Chronicle Security Operations to rapidly detect and respond to cyber events. ALISO VIEJO,</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/cyberproof-announces-strategic-partnership-with-google-cloud/</guid>
+      <pubDate>Mon, 06 May 2024 08:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging the cybersecurity skills gap in 2024</title>
+      <link>https://www.cyberproof.com/blog/bridging-the-cybersecurity-skills-gap-in-2024/</link>
+      <description>In today's dynamic cybersecurity landscape, the workforce is more expansive, diverse, and global than ever before. According to recent ISC2 research, the</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/bridging-the-cybersecurity-skills-gap-in-2024/</guid>
+      <pubDate>Thu, 30 May 2024 12:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Teaming AI: A closer look at PyRIT usage for security</title>
+      <link>https://www.cyberproof.com/blog/red-teaming-ai-a-closer-look-at-pyrit-use-cases-for-security/</link>
+      <description>This blog post was originally posted on Dina’s Medium page. To read other works Dina has published, click here. Evaluating and securing AI models is a</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/red-teaming-ai-a-closer-look-at-pyrit-use-cases-for-security/</guid>
+      <pubDate>Thu, 20 Jun 2024 08:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How resilient is your organization against a supply chain cyberattack?</title>
+      <link>https://www.cyberproof.com/blog/how-resilient-is-your-organization-against-a-supply-chain-cyberattack/</link>
+      <description>No matter the size or the nature of your business, organizations today cannot avoid risks related to their supply chain. In a supply chain, there are many</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-resilient-is-your-organization-against-a-supply-chain-cyberattack/</guid>
+      <pubDate>Thu, 27 Jun 2024 09:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palo Alto QRadar Acquisition: Impacts on Cloud-Native SIEMs</title>
+      <link>https://www.cyberproof.com/blog/palo-alto-qradar-acquisition-impacts-on-cloud-native-siems/</link>
+      <description>The recent acquisition of IBM's QRadar SaaS assets by Palo Alto Networks has sent ripples through the cybersecurity industry. This strategic move, while</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/palo-alto-qradar-acquisition-impacts-on-cloud-native-siems/</guid>
+      <pubDate>Tue, 02 Jul 2024 12:00:35 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

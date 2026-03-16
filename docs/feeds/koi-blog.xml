@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Koi Security Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:32 +0000</lastBuildDate>
+    <item>
+      <title>WhiteCobra's Playbook Exposed</title>
+      <link>https://www.koi.ai/blog/whitecobra-vscode-cursor-extensions-malware</link>
+      <description>WhiteCobra’s critical mistake exposed its entire 24-extension campaign, targeting VS Code and Cursor users with stealthy persistent malware.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/whitecobra-vscode-cursor-extensions-malware</guid>
+    </item>
+    <item>
+      <title>When Chrome Extensions Turn Against Us: The Cyberhaven Breach and Beyond</title>
+      <link>https://www.koi.ai/blog/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond</link>
+      <description>Chrome extensions turned malicious in the Cyberhaven breach, exposing user data and highlighting new threats lurking in trusted add-ons.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond</guid>
+    </item>
+    <item>
+      <title>When Both Marketplaces Fall: The Cross-Platform Extension Malware Campaign</title>
+      <link>https://www.koi.ai/blog/when-both-marketplaces-fall-the-cross-platform-extension-malware-campaign</link>
+      <description>When both marketplaces fall, a cross-platform extension malware campaign exposes systemic trust failures across browsers globally!</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/when-both-marketplaces-fall-the-cross-platform-extension-malware-campaign</guid>
+    </item>
+    <item>
+      <title>When Claude Becomes a Cyber-Weapon: The AI Arms Race Has Begun</title>
+      <link>https://www.koi.ai/blog/when-anthropic-claude-becomes-a-cyber-weapon-the-ai-arms-race-has-begun</link>
+      <description>AI like Claude can be repurposed as a cyber-weapon, fueling an escalating arms race in digital security and AI-driven attacks.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/when-anthropic-claude-becomes-a-cyber-weapon-the-ai-arms-race-has-begun</guid>
+    </item>
+    <item>
+      <title>VSCode Extension Trivia: Real or Cake?</title>
+      <link>https://www.koi.ai/blog/vscode-extension-trivia-real-or-cake</link>
+      <description>Is that VSCode extension trivia real or just a clever fake? Test your knowledge and spot the true tools from the imposters!</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/vscode-extension-trivia-real-or-cake</guid>
+    </item>
+    <item>
+      <title>VK Styles: 500K Users Infected by Chrome Extensions That Hijack VKontakte Accounts</title>
+      <link>https://www.koi.ai/blog/vk-styles-500k-users-infected-by-chrome-extensions-that-hijack-vkontakte-accounts</link>
+      <description>500,000+ VKontakte accounts were hijacked by fake VK Styles Chrome extensions that forced group subscriptions, reset settings monthly, and bypassed CSRF.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/vk-styles-500k-users-infected-by-chrome-extensions-that-hijack-vkontakte-accounts</guid>
+    </item>
+    <item>
+      <title>8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions</title>
+      <link>https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection</link>
+      <description>Privacy browser extensions misled users and sold 8 million AI chat logs, exposing sensitive conversations for profit without consent.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection</guid>
+    </item>
+    <item>
+      <title>The NPM Malware That Tried to Gaslight Security Scanners</title>
+      <link>https://www.koi.ai/blog/two-years-17k-downloads-the-npm-malware-that-tried-to-gaslight-security-scanners</link>
+      <description>NPM malware with 17K downloads evaded scanners for two years, gaslighting security tools and risking developer supply chains.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/two-years-17k-downloads-the-npm-malware-that-tried-to-gaslight-security-scanners</guid>
+    </item>
+    <item>
+      <title>Trust Me, I’m Local: Chrome Extensions, MCP, and the Sandbox Escape</title>
+      <link>https://www.koi.ai/blog/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape</link>
+      <description>Trust Me, I’m Local reveals how Chrome extensions and MCP abuses enabled sandbox escapes, exposing users to major security vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape</guid>
+    </item>
+    <item>
+      <title>TigerJack's Extensions Continue to Rob Developers Blind Across Different Marketplaces</title>
+      <link>https://www.koi.ai/blog/tiger-jack-malicious-vscode-extensions-stealing-code</link>
+      <description>TigerJack’s malicious extensions are still stealing from developers across multiple marketplaces, putting sensitive projects and data in danger.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/tiger-jack-malicious-vscode-extensions-stealing-code</guid>
+    </item>
+    <item>
+      <title>The VS Code Malware That Captures Your Screen</title>
+      <link>https://www.koi.ai/blog/the-vs-code-malware-that-captures-your-screen</link>
+      <description>Malicious VS Code malware captures your screen activity, putting sensitive coding and personal information at serious risk for developers.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/the-vs-code-malware-that-captures-your-screen</guid>
+    </item>
+    <item>
+      <title>PromptJacking: The Critical RCEs in Claude Desktop That Turn Questions Into Exploits</title>
+      <link>https://www.koi.ai/blog/promptjacking-the-critical-rce-in-claude-desktop-that-turn-questions-into-exploits</link>
+      <description>Critical RCE flaws in Claude Desktop (“PromptJacking”) let attackers turn simple user questions into dangerous exploits, risking data security.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/promptjacking-the-critical-rce-in-claude-desktop-that-turn-questions-into-exploits</guid>
+    </item>
+    <item>
+      <title>First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails</title>
+      <link>https://www.koi.ai/blog/postmark-mcp-npm-malicious-backdoor-email-theft</link>
+      <description>The first malicious MCP, named Postmark Backdoor, is stealing user emails by secretly intercepting and exfiltrating sensitive data.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/postmark-mcp-npm-malicious-backdoor-email-theft</guid>
+    </item>
+    <item>
+      <title>PhantomRaven: NPM Malware Hidden in Invisible Dependencies</title>
+      <link>https://www.koi.ai/blog/phantomraven-npm-malware-hidden-in-invisible-dependencies</link>
+      <description>PhantomRaven NPM malware hides in invisible dependencies, silently compromising projects and putting entire software supply chains at risk.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/phantomraven-npm-malware-hidden-in-invisible-dependencies</guid>
+    </item>
+    <item>
+      <title>PackageGate: 6 Zero-Days in JS Package Managers But NPM Won't Act</title>
+      <link>https://www.koi.ai/blog/packagegate-6-zero-days-in-js-package-managers-but-npm-wont-act</link>
+      <description>We found 6 zero-day vulnerabilities in npm, pnpm, vlt, and Bun that bypass --ignore-scripts and lockfile protections. Five patched. npm closed the report.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/packagegate-6-zero-days-in-js-package-managers-but-npm-wont-act</guid>
+    </item>
+    <item>
+      <title>OWASP Agentic AI Top 10: A Practical Security Guide</title>
+      <link>https://www.koi.ai/blog/owasp-agentic-ai-top-10-a-practical-security-guide</link>
+      <description>The OWASP Agentic AI Top 10 defines the critical security risks for autonomous AI systems, from goal hijacking to rogue agents. This guide translates the framework into five actionable practices to help security teams protect agentic workloads, with real-world incidents and practical mitigations for each risk category.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/owasp-agentic-ai-top-10-a-practical-security-guide</guid>
+    </item>
+    <item>
+      <title>How 2.5 Billion Weekly Downloads Were Compromised in npm's Largest Supply Chain Attack</title>
+      <link>https://www.koi.ai/blog/npm-supply-chain-attack-package-poisoner</link>
+      <description>npm’s largest supply chain attack compromised 2.5 billion weekly downloads, exposing countless projects to risk and widespread vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/npm-supply-chain-attack-package-poisoner</guid>
+    </item>
+    <item>
+      <title>NPM Package With 56K Downloads Caught Stealing WhatsApp Messages</title>
+      <link>https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</link>
+      <guid isPermaLink="false">https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</guid>
+    </item>
+    <item>
+      <title>Mining in Plain Sight: The VS Code Extension Cryptojacking Campaign</title>
+      <link>https://www.koi.ai/blog/mining-in-plain-sight-the-vs-code-extension-cryptojacking-campaign</link>
+      <description>Mining in Plain Sight exposes the VS Code extension cryptojacking campaign, silently hijacking developer machines for hidden cryptocurrency mining.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/mining-in-plain-sight-the-vs-code-extension-cryptojacking-campaign</guid>
+    </item>
+    <item>
+      <title>MCP Malware Wave Continues: A Remote Shell in Disguise</title>
+      <link>https://www.koi.ai/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor</link>
+      <description>A remote shell disguised as legitimate software powers the ongoing MCP malware wave, posing stealthy risks to countless systems.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor</guid>
+    </item>
+    <item>
+      <title>How We Could’ve Taken Over Every Developer Using a VSCode Fork</title>
+      <link>https://www.koi.ai/blog/marketplace-takeover-how-we-couldve-taken-over-every-developer-using-a-vscode-fork-putting-millions-at-risk</link>
+      <description>Marketplace Takeover reveals how a VSCode fork could've compromised every developer, putting millions at risk of large-scale cyberattacks.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/marketplace-takeover-how-we-couldve-taken-over-every-developer-using-a-vscode-fork-putting-millions-at-risk</guid>
+    </item>
+    <item>
+      <title>Malicious VS Code AI Extensions Harvesting Code from 1.5M Devs</title>
+      <link>https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers</link>
+      <description>Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers</guid>
+    </item>
+    <item>
+      <title>Koi to join Palo Alto Networks: A Defining Moment</title>
+      <link>https://www.koi.ai/blog/koi-to-join-palo-alto-networks-a-defining-moment</link>
+      <description>Give me 2-3 sentences for meta description for this blog post: Koi to join Palo Alto Networks: A Defining Moment It’s hard to put today into words. If the past year hasn’t been crazy enough here at Koi, today, I’m incredibly proud (and deeply humbled) to share that Koi has signed a definitive agreement to be acquired by Palo Alto Networks. This marks a defining moment for Koi, and for the future of endpoint security. Excited doesn't even begin to cover how we feel today. The shared vision that Koi and Palo Alto Networks have for the future of the endpoint couldn’t be more aligned. Because the endpoint is changing. Not incrementally. Structurally. We are watching the laptop transform from a place where users run applications… into a platform where autonomous AI agents operate as persistent, privileged actors. Agents with access to the filesystem. To the shell. To credentials. To the browser. To enterprise systems. At the same time, the software running on those endpoints is going non-binary: packages, extensions, plugins, agent skills, MCP servers, model artifacts. Installed without oversight. Updated silently. Governed by no one. Over the past year, we’ve been researching, building, and defining what it means to secure this new reality. And today, announcing our intent to join Palo Alto Networks will allow us to bring that vision to the world at global scale. For our customers, I want to be clear about one thing. Our vision and product are not changing. The world we have been building toward is exactly the world Palo Alto Networks believes in as well. That alignment is precisely why this partnership makes so much sense. What will change, is our ability to execute at global scale, integrate deeply across the security stack, and deliver even more value. We are incredibly excited to continue this journey with you, and following the close of the transaction, backed by the full power of Palo Alto Networks. If you want to understand exactly why this moment matters, not just for Koi, but for the entire industry, Hadar Oren, SVP Cortex wrote a deeper piece outlining the shift we’re seeing and the security layer required to meet it. Read it here. For now, I want to pause and say thank you. To the Koi team, for an extraordinary, intense, and unforgettable year. For building something truly category defining. For pushing boundaries. For obsessing over the details. And for managing to enjoy the ride while doing it. To our customers, thank you for believing in us early, for challenging us, and for shaping the product into what it is today. Your trust and partnership are what got us to this moment. To our investors, including Picture Capital, NFX, Battery Ventures, Team8, and Cerca Partners, thank you for backing the vision and standing with us as we built it. And to our board members, Rakesh Loonkar, Gigi Levy Weiss, Barak Schoster Goihman, and Ori Barzilay, thank you for the guidance, conviction, and support that helped us grow Koi into what it is today. To Palo Alto Networks, thank you for sharing our belief in where the endpoint is headed and for your excitement in building that future together. And to Itay and Idan, what a year it has been. This is not the end of our story. It is the beginning of a much bigger one. Koi and Palo Alto Networks will be setting out to reshape endpoint security for an agentic world. We are just getting started. Stay tuned. You can read more about this announcement in the official press release here.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/koi-to-join-palo-alto-networks-a-defining-moment</guid>
+    </item>
+    <item>
+      <title>Koi Raises $48M to Reinvent Endpoint Security for the Modern Software Stack</title>
+      <link>https://www.koi.ai/blog/koi-raises-48m-to-reinvent-endpoint-security-for-the-modern-software-stack</link>
+      <description>Koi secures $48M to revolutionize endpoint security, delivering innovative protection for the modern software stack and enterprises.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/koi-raises-48m-to-reinvent-endpoint-security-for-the-modern-software-stack</guid>
+    </item>
+    <item>
+      <title>Inside GhostPoster: How a PNG Icon Infected 50,000 Firefox Users</title>
+      <link>https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users</link>
+      <description>Discover how GhostPoster used a malicious PNG icon to infect 50,000 Firefox users and the risks behind seemingly harmless downloads.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users</guid>
+    </item>
+    <item>
+      <title>GreedyBear: 650 Attack Tools, One Coordinated Campaign</title>
+      <link>https://www.koi.ai/blog/greedybear-650-attack-tools-one-coordinated-campaign</link>
+      <description>GreedyBear’s campaign deployed 650 attack tools in a single coordinated operation, targeting global systems and exposing massive security risks.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/greedybear-650-attack-tools-one-coordinated-campaign</guid>
+    </item>
+    <item>
+      <title>Google and Microsoft Trusted Them. 2.3 Million Users Installed Them. They Were Malware.</title>
+      <link>https://www.koi.ai/blog/google-and-microsoft-trusted-them-2-3-million-users-installed-them-they-were-malware</link>
+      <description>Google and Microsoft trusted them, but 2.3 million users unknowingly installed malware, exposing data and systems to sophisticated attacks.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/google-and-microsoft-trusted-them-2-3-million-users-installed-them-they-were-malware</guid>
+    </item>
+    <item>
+      <title>GlassWorm Returns: New Wave Strikes as We Expose Attacker Infrastructure</title>
+      <link>https://www.koi.ai/blog/glassworm-returns-new-wave-openvsx-malware-expose-attacker-infrastructure</link>
+      <description>GlassWorm launches a new wave of attacks with updated tactics, our analysis reveals fresh attacker infrastructure now exposed.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/glassworm-returns-new-wave-openvsx-malware-expose-attacker-infrastructure</guid>
+    </item>
+    <item>
+      <title>GlassWorm Goes Native: Same Infrastructure, Hardened Delivery</title>
+      <link>https://www.koi.ai/blog/glassworm-goes-native-same-infrastructure-hardened-delivery</link>
+      <description>GlassWorm upgrades its malware tactics by delivering native payloads with hardened infrastructure, increasing risks for enterprises.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/glassworm-goes-native-same-infrastructure-hardened-delivery</guid>
+    </item>
+    <item>
+      <title>GlassWorm Goes Mac: Fresh Infrastructure, New Tricks</title>
+      <link>https://www.koi.ai/blog/glassworm-goes-mac-fresh-infrastructure-new-tricks</link>
+      <description>GlassWorm expands to Mac with new infrastructure and tricks, learn how this malware evolves and threatens Apple devices.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/glassworm-goes-mac-fresh-infrastructure-new-tricks</guid>
+    </item>
+    <item>
+      <title>FoxyWallet: 40+ Malicious Firefox Extensions Exposed</title>
+      <link>https://www.koi.ai/blog/foxywallet-40-malicious-firefox-extensions-exposed</link>
+      <description>FoxyWallet exposes over 40 malicious Firefox extensions, revealing a widespread campaign targeting users with data theft and hidden malware.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/foxywallet-40-malicious-firefox-extensions-exposed</guid>
+    </item>
+    <item>
+      <title>Embracing a New Domain Name: koi.ai</title>
+      <link>https://www.koi.ai/blog/embracing-a-new-domain-name-koi-ai</link>
+      <description>Our shift from koi.security to koi.ai marks the next chapter in our journey to redefine endpoint security for the AI-powered era. Find more here.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/embracing-a-new-domain-name-koi-ai</guid>
+    </item>
+    <item>
+      <title>DarkSpectre: Unmasking the Threat Actor Behind 8.8 Million Infected Browsers</title>
+      <link>https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers</link>
+      <description>Unmasking DarkSpectre: Discover the threat actor behind 8.8 million infected browsers and how to protect your data.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers</guid>
+    </item>
+    <item>
+      <title>Command Injection Flaw in Framelink Figma MCP Server Puts Nearly 1 Million Downloads at Risk</title>
+      <link>https://www.koi.ai/blog/command-injection-flaw-in-framelink-figma-mcp-server-puts-nearly-1-million-downloads-at-risk</link>
+      <description>A command injection flaw in Framelink Figma MCP Server exposes nearly 1 million downloads to risk, enabling attackers to execute malicious code.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/command-injection-flaw-in-framelink-figma-mcp-server-puts-nearly-1-million-downloads-at-risk</guid>
+    </item>
+    <item>
+      <title>Brew Hijack: Serving Malware Over Homebrew’s Core Tap</title>
+      <link>https://www.koi.ai/blog/brew-hijack-serving-malware</link>
+      <description>Brew Hijack exposed 50,000 users by delivering malware through Homebrew’s Core Tap, highlighting risks in popular package managers.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/brew-hijack-serving-malware</guid>
+    </item>
+    <item>
+      <title>Amazon’s AI Assistant Almost Nuked A Million Developer’s Production Environments</title>
+      <link>https://www.koi.ai/blog/amazons-ai-assistant-almost-nuked-a-million-developers-production-environments</link>
+      <description>Amazon’s AI assistant nearly destroyed a million developers’ production environments, revealing critical risks in automated cloud operations.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/amazons-ai-assistant-almost-nuked-a-million-developers-production-environments</guid>
+    </item>
+    <item>
+      <title>AgreeToSteal: The First Malicious Outlook Add-In Leads to 4,000 Stolen Credentials</title>
+      <link>https://www.koi.ai/blog/agreetosteal-the-first-malicious-outlook-add-in-leads-to-4-000-stolen-credentials</link>
+      <description>A legitimate Outlook add-in was abandoned by its developer and silently taken over by a phishing operation. Over 4,000 credentials were stolen through Microsoft's own add-in store.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/agreetosteal-the-first-malicious-outlook-add-in-leads-to-4-000-stolen-credentials</guid>
+    </item>
+    <item>
+      <title>The Malicious VS Code Theme That Fooled Millions</title>
+      <link>https://www.koi.ai/blog/a-wolf-in-dark-mode-the-malicious-vs-code-theme-that-fooled-millions</link>
+      <description>A Wolf in Dark Mode: Millions were deceived by a malicious VS Code theme, turning a simple UI change into a hidden malware threat.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/a-wolf-in-dark-mode-the-malicious-vs-code-theme-that-fooled-millions</guid>
+    </item>
+    <item>
+      <title>A Month Of Malware In The Chrome Web Store</title>
+      <link>https://www.koi.ai/blog/a-month-of-malware-in-the-chrome-web-store</link>
+      <description>A Month of Malware in the Chrome Web Store reveals ongoing threats as malicious extensions compromise user security and privacy at scale.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/a-month-of-malware-in-the-chrome-web-store</guid>
+    </item>
+    <item>
+      <title>Breaking the Internet: The Aftermath Of Our Research</title>
+      <link>https://www.koi.ai/blog/5-6-breaking-the-internet-the-aftermath-of-our-research</link>
+      <description>Our research sent shockwaves through the web, discover the aftermath and new internet challenges revealed by our groundbreaking findings.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/5-6-breaking-the-internet-the-aftermath-of-our-research</guid>
+    </item>
+    <item>
+      <title>4.3 Million Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign</title>
+      <link>https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign</link>
+      <description>ShadyPanda’s seven-year campaign infected 4.3 million browsers, spreading malware undetected and endangering user security worldwide.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign</guid>
+    </item>
+    <item>
+      <title>Introducing ExtensionTotal: How to Assess Risk in VS Code Extensions</title>
+      <link>https://www.koi.ai/blog/4-6-introducing-extensiontotal-how-to-assess-risk-in-vs-code-extensions</link>
+      <description>Introducing ExtensionTotal, your complete solution for assessing risk in VS Code extensions, ensuring security, compliance, and productivity.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/4-6-introducing-extensiontotal-how-to-assess-risk-in-vs-code-extensions</guid>
+    </item>
+    <item>
+      <title>Uncovering Design Flaws of Visual Studio Code Extensions</title>
+      <link>https://www.koi.ai/blog/3-6-a-letter-to-microsoft-uncovering-design-flaws-of-visual-studio-code-extensions</link>
+      <description>Uncovering design flaws in Visual Studio Code extensions, exposing security risks, architectural weaknesses, and real world impact</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/3-6-a-letter-to-microsoft-uncovering-design-flaws-of-visual-studio-code-extensions</guid>
+    </item>
+    <item>
+      <title>Exposing Malicious Extensions: Shocking Statistics from the VS Code Marketplace</title>
+      <link>https://www.koi.ai/blog/2-6-exposing-malicious-extensions-shocking-statistics-from-the-vs-code-marketplace</link>
+      <description>Exposing malicious extensions: shocking statistics from the VS Code Marketplace reveal hidden threats and major security risks for developers.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/2-6-exposing-malicious-extensions-shocking-statistics-from-the-vs-code-marketplace</guid>
+    </item>
+    <item>
+      <title>How We Hacked Multi-Billion Dollar Companies Using a Fake VSCode Extension</title>
+      <link>https://www.koi.ai/blog/1-6-how-we-hacked-multi-billion-dollar-companies-in-30-minutes-using-a-fake-vscode-extension</link>
+      <description>How we hacked multi-billion dollar companies in 30 minutes: a fake VSCode extension exposes the urgent need for better extension security.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/1-6-how-we-hacked-multi-billion-dollar-companies-in-30-minutes-using-a-fake-vscode-extension</guid>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpyVPN: The Google-Featured VPN That Secretly Captures Your Screen</title>
+      <link>https://www.koi.ai/blog/spyvpn-the-vpn-that-secretly-captures-your-screen</link>
+      <description>SpyVPN, once featured by Google, secretly captures users’ screens, compromising privacy and exposing sensitive data to surveillance risks.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/spyvpn-the-vpn-that-secretly-captures-your-screen</guid>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace</title>
+      <link>https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace</link>
+      <description>First self-propagating worm with invisible code targets the OpenVSX Marketplace, silently spreading across developer environments undetected.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace</guid>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How We Prevented Cursor, Windsurf &amp; Google Antigravity from Recommending Malware</title>
+      <link>https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware</link>
+      <description>Discover how we blocked Cursor, Windsurf, and Google Antigravity from recommending malware with advanced security measures.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware</guid>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trust Wallet Hack: Inside the Code That Stole $7M on Christmas Eve</title>
+      <link>https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve</link>
+      <description>Technical analysis of the Trust Wallet Chrome extension attack reveals what the news got wrong - and how a simple policy would have prevented $7M in losses.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClawHavoc: 341 Malicious Clawed Skills Found by the Bot They Were Targeting</title>
+      <link>https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting</link>
+      <description>We audited all 2,632 skills on ClawHub and found 341 were malicious - 335 from a single campaign we're calling ClawHavoc. The attack exploits the trust between AI bots and their users, tricking them into installing infostealers disguised as legitimate tools.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

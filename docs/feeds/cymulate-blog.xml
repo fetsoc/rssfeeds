@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Cymulate Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:46:13 +0000</lastBuildDate>
+    <item>
+      <title>What is Continuous Security Validation? - Cymulate</title>
+      <link>https://cymulate.com/blog/what-is-continuous-security-validation/</link>
+      <description>Is your cybersecurity keeping pace with evolving threats? Learn how Continuous Security Validation strengthens your defenses and prevents breaches 24/7</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/what-is-continuous-security-validation/</guid>
+    </item>
+    <item>
+      <title>Have You Noticed? There Are More Critical Vulnerabilities Than log4j</title>
+      <link>https://cymulate.com/blog/critical-vulnerabilities-than-log4j/</link>
+      <description>Read how the new Microsoft vulnerabilities are being exploited to access active directories and how they can be remediated.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/critical-vulnerabilities-than-log4j/</guid>
+    </item>
+    <item>
+      <title>From Content Overload to Actionable Security: The Power of Context</title>
+      <link>https://cymulate.com/blog/cybersecurity-content-vs-context/</link>
+      <description>Security data overload can hinder decision-making. Learn how prioritization, urgency, and achievability turn content into actionable cybersecurity insights</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cybersecurity-content-vs-context/</guid>
+    </item>
+    <item>
+      <title>Introducing Cymulate Yearly Platform Usage Report</title>
+      <link>https://cymulate.com/blog/measuring-strategic-value/</link>
+      <description>Discover how Cymulate Security Validation minimizes risks and strengthens enterprise defenses with proven results from customer data</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/measuring-strategic-value/</guid>
+    </item>
+    <item>
+      <title>Security Segmentation Validation in the Banking Industry</title>
+      <link>https://cymulate.com/blog/security-validation-banking-industry/</link>
+      <description>Explore how lateral movement threats impact banking cybersecurity and how Cymulate’s simulations help identify and mitigate network segmentation risks</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/security-validation-banking-industry/</guid>
+    </item>
+    <item>
+      <title>How Do You Know? Answers to help the board understand the value of your security program</title>
+      <link>https://cymulate.com/blog/ctem-cisos-communicating-security/</link>
+      <description>Learn how Continuous Threat Exposure Management (CTEM) enables CISOs to communicate risk, visibility, and protection with clarity and confidence</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/ctem-cisos-communicating-security/</guid>
+    </item>
+    <item>
+      <title>EDR Bypass: How Today’s Tools Defend Against Malware</title>
+      <link>https://cymulate.com/blog/edr-bypass-part-1-understanding-todays-tools/</link>
+      <description>Explore how modern tools like EDR, antivirus, and XDR protect against malware and lay the foundation for resilient cybersecurity defenses.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/edr-bypass-part-1-understanding-todays-tools/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown September 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-september-2023/</link>
+      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in September 2023.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-september-2023/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown October 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-october-2023/</link>
+      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in October 2023.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-october-2023/</guid>
+    </item>
+    <item>
+      <title>Cymulate’s January 2022 Cyberattacks Wrap-up</title>
+      <link>https://cymulate.com/blog/january-2022-cyberattack-wrapup/</link>
+      <description>What were the important cyberattacks last month? Here is a summary of cybercriminal activity in January 2022.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/january-2022-cyberattack-wrapup/</guid>
+    </item>
+    <item>
+      <title>Cymulate’s March 2021 Cyberattacks Wrap-up</title>
+      <link>https://cymulate.com/blog/march-cyberattack-wrapup/</link>
+      <description>What were the important cyberattacks last month? Here is a summary of cybercriminal activity in March 2021.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/march-cyberattack-wrapup/</guid>
+    </item>
+    <item>
+      <title>Cybercrooks are Laughing All the Way from the Bank - Cymulate</title>
+      <link>https://cymulate.com/blog/cybercriminals-are-laughing-from-bank/</link>
+      <description>American financial institutions are victimized at a staggering 1 billion times per year. Recovering from an attack is costly, with the latest estimations calculating the price of $18 million USD each institution. These institutions can validate their cybersecurity posture themselves with Cymulate.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cybercriminals-are-laughing-from-bank/</guid>
+    </item>
+    <item>
+      <title>Ransomware’s Deadly Impact: Lessons from a Tragic Hospital Attack</title>
+      <link>https://cymulate.com/blog/cymulate_blog-when-ransomware-kills/</link>
+      <description>A ransomware attack on a German hospital forced ER closures, delaying critical care and tragically causing a patient’s death.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cymulate_blog-when-ransomware-kills/</guid>
+    </item>
+    <item>
+      <title>Massive Data Hack Becomes Personal for German Politicians</title>
+      <link>https://cymulate.com/blog/massive-data-hack-german-politicians/</link>
+      <description>A major data breach was carried out against German politicians by a 20-year old man using the pseudonyms “G0t” and “Orbit”. His reasons? Anger at politicians.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/massive-data-hack-german-politicians/</guid>
+    </item>
+    <item>
+      <title>What Do I Need to Know About the SolarWinds Attack?</title>
+      <link>https://cymulate.com/blog/solarwinds-attack/</link>
+      <description>SolarWinds fell victim to a highly sophisticated attack that left their customers vulnerable to further threats. Let's look at the situation.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/solarwinds-attack/</guid>
+    </item>
+    <item>
+      <title>Creating a Full Kill Chain Attack With MITRE's Engenuity Evaluation APTs</title>
+      <link>https://cymulate.com/blog/full-kill-chain-mitre-engenuity-apts/</link>
+      <description>Take a deep dive into MITRE Engenuity's latest attack simulations. Learn how they work and how you can use the data to keep safe.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/full-kill-chain-mitre-engenuity-apts/</guid>
+    </item>
+    <item>
+      <title>It’s Time for an Upgrade: The Huawei HG532 Remote Code Exploit</title>
+      <link>https://cymulate.com/blog/huawei-hg532-remote-code-exploit/</link>
+      <description>Mirai shell variants exploit CVE-2017-17215 in Huawei HG532 routers, stressing risks of outdated hardware and unpatched device</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/huawei-hg532-remote-code-exploit/</guid>
+    </item>
+    <item>
+      <title>Lapsus$, Okta, Microsoft, and RDP – The Attack Success Factors</title>
+      <link>https://cymulate.com/blog/lapsus-okta-microsoft-and-rdp-attacks/</link>
+      <description>Get up to speed on the alarming reach of the Lapsus$ threat actor group as they gained access to the sensitive data of multiple enterprises.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/lapsus-okta-microsoft-and-rdp-attacks/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown November 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-november-2023/</link>
+      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in November 2023.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-november-2023/</guid>
+    </item>
+    <item>
+      <title>How Continuous Security Validation Improves Collaboration</title>
+      <link>https://cymulate.com/blog/continuous-security-validation-improves-collaboration/</link>
+      <description>This blog shares how Continuous Security Validation technology can help improve and build collaborative relationships within risk management.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/continuous-security-validation-improves-collaboration/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown January 2024</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-january-2024/</link>
+      <description>What were the critical cyber threats last month? Here is the January 2024 breakdown of threats with a short list of IoCs.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-january-2024/</guid>
+    </item>
+    <item>
+      <title>How to Leverage Log4j to Expose vCenter Attack Paths - Part 1</title>
+      <link>https://cymulate.com/blog/log4j-to-exploit-attack-part-one/</link>
+      <description>A guide to exposing a vCenter attack path using Log4j. Read more to get a step-by-step explanation of how this can help.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/log4j-to-exploit-attack-part-one/</guid>
+    </item>
+    <item>
+      <title>Phishing Prevention Tools and Technologies - Cymulate</title>
+      <link>https://cymulate.com/blog/the-techie-ways-to-minimize-phishing-success-rate-2/</link>
+      <description>Learn key tools and technologies to prevent phishing attacks, from pre-filtering to attachment scanning and phishing reporting.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/the-techie-ways-to-minimize-phishing-success-rate-2/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown August 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-august-2023/</link>
+      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in August 2023.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-august-2023/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown July 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-july-2023/</link>
+      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in July 2023.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-july-2023/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown April 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-april-2023/</link>
+      <description>Did you clock all these cyber threats in April 2023? Check out this blog post to see what did or didn't make the news.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-april-2023/</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown March 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-march-2023/</link>
+      <description>Did you clock all these cyber threats in March 2023? Check out this blog post to see what did or didn't make the headlines.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-march-2023/</guid>
+    </item>
+    <item>
+      <title>What Do Customers Say About Cymulate?</title>
+      <link>https://cymulate.com/blog/what-do-customers-say-about-cymulate/</link>
+      <description>What do customers love about Cymulate? We spoke to some at our annual SKO and learned a lot from the security experts who spoke.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/what-do-customers-say-about-cymulate/</guid>
+    </item>
+    <item>
+      <title>Dynamic Dashboards and Reporting in the MSSP World</title>
+      <link>https://cymulate.com/blog/dynamic-dashboards/</link>
+      <description>Learn why Cymulate's Dynamic Dashboards are an essential requirement for MSSPs day-to-day operations in this blog post.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/dynamic-dashboards/</guid>
+    </item>
+    <item>
+      <title>Messing with CVE-2022-30190 by Understanding Compound File Binary Format and OLE Structures</title>
+      <link>https://cymulate.com/blog/cve-2022-30190-2/</link>
+      <description>Gain an understanding of the Compound File Binary Format and OLE Structures to Mess with CVE-2022-30190 in this blog post by Cymulate.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cve-2022-30190-2/</guid>
+    </item>
+    <item>
+      <title>Trouble on the Horizon - Spring CVE</title>
+      <link>https://cymulate.com/blog/trouble-on-the-horizon-spring-cve/</link>
+      <description>Take a lesson from the Log4j debacle and update to a patched version of the Spring CVE library to prevent cyberattacks.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/trouble-on-the-horizon-spring-cve/</guid>
+    </item>
+    <item>
+      <title>PCI Compliance with Cymulate - Keep Payment Data Safe</title>
+      <link>https://cymulate.com/blog/pci-compliance-cymulate-powerful-combination-keep-payment-data-safe/</link>
+      <description>The Payment Card Industry Data Security Standard (PCI DSS) ensures that any organization handling credit card information keeps data safe.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/pci-compliance-cymulate-powerful-combination-keep-payment-data-safe/</guid>
+    </item>
+    <item>
+      <title>Iran’s Growing Role in Cyber warfare</title>
+      <link>https://cymulate.com/blog/irans-growing-role-in-cyber-warfare/</link>
+      <description>Regardless of where you work, you are either aware of Iranian involvement in cyber warfare or have experienced it firsthand.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/irans-growing-role-in-cyber-warfare/</guid>
+    </item>
+    <item>
+      <title>Cryptojacking - The Latest Cybercrime Play</title>
+      <link>https://cymulate.com/blog/cryptojacking-the-latest-cybercrime-play/</link>
+      <description>Cryptojacking uses phishing and other methods to siphon crypto from wallet and divert resources fo crypto mining purposes.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cryptojacking-the-latest-cybercrime-play/</guid>
+    </item>
+    <item>
+      <title>Will 2018 be the year of critical infrastructure cyberattacks?</title>
+      <link>https://cymulate.com/blog/will-2018-be-the-year-of-critical-infrastructure-cyberattacks/</link>
+      <description>The US Department of HLS warns that critical infrastructure cyberattacks are rising. Institutions experience thousands daily attempted attacks</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/will-2018-be-the-year-of-critical-infrastructure-cyberattacks/</guid>
+    </item>
+    <item>
+      <title>Are You Ready for the Next Cyber-Attack? - Cymulate</title>
+      <link>https://cymulate.com/blog/are-you-ready-for-the-next-cyber-attack/</link>
+      <description>To prepare for cyber attacks, organizations need to think and act like real threat actors, using a wide range of malware tools and attack techniques</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/are-you-ready-for-the-next-cyber-attack/</guid>
+    </item>
+    <item>
+      <title>Cybercriminals' Unhealthy Appetite for Medical Data - Cymulate</title>
+      <link>https://cymulate.com/blog/unhealthy-appetite-for-medical-data/</link>
+      <description>Cybercriminals leverage security gaps, targeting healthcare organizations for medical data in ransomware/exfiltration attacks.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/unhealthy-appetite-for-medical-data/</guid>
+    </item>
+    <item>
+      <title>Simulating Cyber Attacks vs. Cyber Attack Techniques Methods</title>
+      <link>https://cymulate.com/blog/cyber-attack-simulations/</link>
+      <description>Should you simulate specific cyberattacks or run simulations based on cyberattack methods? Which method is best for your organization?</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-attack-simulations/</guid>
+    </item>
+    <item>
+      <title>Security Must Adapt to Continuous Change</title>
+      <link>https://cymulate.com/blog/security-changes-require-adaptation/</link>
+      <description>Technology and security professionals must overcome collective inertia and adapt to security's continuously changing demands.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/security-changes-require-adaptation/</guid>
+    </item>
+    <item>
+      <title>Cyber 101: When Ransomware Kills</title>
+      <link>https://cymulate.com/blog/when-ransomware-kills/</link>
+      <description>Unfortunately, the answer to 'Has ransomware ever killed anyone?' is 'yes'. Read to understand the deadly implications of cyberattacks.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/when-ransomware-kills/</guid>
+    </item>
+    <item>
+      <title>Will CEOs be Personally Liable for Security Breaches?</title>
+      <link>https://cymulate.com/blog/ceo-security-liable/</link>
+      <description>Gartner predicts 75% of CEOs will be personally liable for cyber-physical security incidents by 2024. But what does this mean for your organization?</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/ceo-security-liable/</guid>
+    </item>
+    <item>
+      <title>Chinese APT Attack On-Premises Version of Microsoft Exchange</title>
+      <link>https://cymulate.com/blog/chinese-apt-attack-microsoft-exchange/</link>
+      <description>In this blog, we Analyze the Chinese APT Attack Affecting 60,000+ Companies Running On-Premises Version of Microsoft Exchange.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/chinese-apt-attack-microsoft-exchange/</guid>
+    </item>
+    <item>
+      <title>Cymulate’s July 2021 Cyberattacks Wrap-up</title>
+      <link>https://cymulate.com/blog/july-cyberattack-wrapup/</link>
+      <description>What were the important cyberattacks last month? Here is a summary of cybercriminal activity in July 2021.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/july-cyberattack-wrapup/</guid>
+    </item>
+    <item>
+      <title>The Techie Ways to Minimize Phishing Success Rate</title>
+      <link>https://cymulate.com/blog/the-techie-ways-to-minimize-phishing-success-rate/</link>
+      <description>Learn about technological tools such as pre-filtering and more that enhance phishing awareness and detection at the inbox level.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/the-techie-ways-to-minimize-phishing-success-rate/</guid>
+    </item>
+    <item>
+      <title>Cymulate Can Help You Comply With GDPR</title>
+      <link>https://cymulate.com/blog/cymulate-can-help-comply-gdpr/</link>
+      <description>Comply with GDPR by intelligently implementing fixes to mitigate vulnerabilities in the infrastructure to prevent actual breaches</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cymulate-can-help-comply-gdpr/</guid>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Your Organization GDPR Ready?</title>
+      <link>https://cymulate.com/blog/is-your-organization-gdpr-ready/</link>
+      <description>GDPR is the brainchild of ENISA to stem the increasing number of reported data breaches, especially those relating to online systems and services</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/is-your-organization-gdpr-ready/</guid>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GDPR Privacy Anyone? - Cymulate XSPM</title>
+      <link>https://cymulate.com/blog/privacy-anyone/</link>
+      <description>Authorities take GDPR privacy very seriously., leading to a £120,000 fine over a data breach that exposed 20,000 staff and students</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/privacy-anyone/</guid>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2022-30190 aka Follina - Verify Your Exposure</title>
+      <link>https://cymulate.com/blog/cve-2022-30190-3/</link>
+      <description>Rated a 7.8 high CVSS 3.x severity base score, CVE-2022-30190 takes advantage of the MSDT, an official tool built-in all versions of Windows.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cve-2022-30190-3/</guid>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2022-30190, AKA Follina, Uses Macro-less Word Docs to Drop RCE Files</title>
+      <link>https://cymulate.com/blog/cve-2022-30190/</link>
+      <description>Rated a 7.8 high CVSS 3.x severity base score, CVE-2022-30190 takes advantage of the MSDT, an official tool built-in all versions of Windows.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cve-2022-30190/</guid>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Breakdown June 2023</title>
+      <link>https://cymulate.com/blog/cyber-threat-breakdown-june-2023/</link>
+      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in July 2023.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-june-2023/</guid>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Malwation Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/malwation-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/malwation-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:50 +0000</lastBuildDate>
+    <item>
+      <title>Unveiling Perspectives: Advanced Malware Masterclass Workshops in Istanbul &amp; Ankara</title>
+      <link>https://www.malwation.com/blog/unveiling-perspectives-advanced-malware-masterclass-workshops-in-istanbul-and-ankara</link>
+      <description>We hosted 2 Advanced Malware Masterclass Workshops in Istanbul &amp; Ankara. Here is how they went.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/unveiling-perspectives-advanced-malware-masterclass-workshops-in-istanbul-and-ankara</guid>
+    </item>
+    <item>
+      <title>The Importance of Multi-OS Sandbox Solutions in Today's Cybersecurity</title>
+      <link>https://www.malwation.com/blog/the-importance-of-multi-os-sandbox-solutions-in-todays-cybersecurity</link>
+      <description>As organizations expand, so does their attack surface. Protect your entire infrastructure with multi-OS sandboxing.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/the-importance-of-multi-os-sandbox-solutions-in-todays-cybersecurity</guid>
+    </item>
+    <item>
+      <title>Testing Antivirus with Malwation MSP</title>
+      <link>https://www.malwation.com/blog/testing-antivirus-with-malwation-msp</link>
+      <description>MSP stands for Malware Simulation Platform and it’s designed to create sophisticated and customizable malwares on cloud for testing and comparing antiviruses...</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/testing-antivirus-with-malwation-msp</guid>
+    </item>
+    <item>
+      <title>Technical Analysis of Phishing Campaigns Targeting the Defense Industry Delivering Snake Keylogger</title>
+      <link>https://www.malwation.com/blog/technical-analysis-of-phishing-campaigns-targeting-the-defense-industry-delivering-snake-keylogger</link>
+      <guid isPermaLink="false">https://www.malwation.com/blog/technical-analysis-of-phishing-campaigns-targeting-the-defense-industry-delivering-snake-keylogger</guid>
+    </item>
+    <item>
+      <title>Static Malware Analysis vs Dynamic Malware Analysis - Comparison Chart</title>
+      <link>https://www.malwation.com/blog/static-malware-analysis-vs-dynamic-malware-analysis-comparison-chart</link>
+      <description>Learn about the main differences between static and dynamic malware analysis with their pros and cons to understand why both are essential.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/static-malware-analysis-vs-dynamic-malware-analysis-comparison-chart</guid>
+    </item>
+    <item>
+      <title>Simplest Yet Most Common and Effective Evasion Tactic: Sleep!</title>
+      <link>https://www.malwation.com/blog/simplest-yet-most-common-and-effective-evasion-tactic-sleep</link>
+      <description>In this blog post, you will learn how "Sleep" function is used to evade detection with real-life examples and how to overcome it!</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/simplest-yet-most-common-and-effective-evasion-tactic-sleep</guid>
+    </item>
+    <item>
+      <title>Reflections of Virus Bulletin 2024 from our Head of Revops’ POV: A Unique Experience in Security</title>
+      <link>https://www.malwation.com/blog/reflections-of-virus-bulletin-2024-from-our-head-of-revops-pov-a-unique-experience-in-security</link>
+      <description>I had a great experience at Virus Bulletin 2024, here is my recap of the event including key insights, networking, and our team's talk.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/reflections-of-virus-bulletin-2024-from-our-head-of-revops-pov-a-unique-experience-in-security</guid>
+    </item>
+    <item>
+      <title>Overview of Malware Landscape in First Half of 2024</title>
+      <link>https://www.malwation.com/blog/overview-of-malware-landscape-in-first-half-of-2024</link>
+      <description>Learn the Malware Landscape in the first Half of 2024 from this blog post with malware types and malware families and their real-time samples.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/overview-of-malware-landscape-in-first-half-of-2024</guid>
+    </item>
+    <item>
+      <title>Overcome the Detection Challenges of EDR and Antivirus Tools with Malwation CDR</title>
+      <link>https://www.malwation.com/blog/overcome-the-detection-challenges-of-edr-and-antivirus-tools-with-malwation-cdr</link>
+      <description>In today’s rapidly evolving digital landscape, the battle between cybercriminals and cybersecurity professionals continues to intensify.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/overcome-the-detection-challenges-of-edr-and-antivirus-tools-with-malwation-cdr</guid>
+    </item>
+    <item>
+      <title>Origins of A Logger - Agent Tesla</title>
+      <link>https://www.malwation.com/blog/origins-of-a-logger-agent-tesla</link>
+      <description>Recent research by Berk Albayrak and Utku Corbaci, the team members of Malwation Threat Research (MTR) team has focused on BEC attacks targeting the company's employees. You can find the white paper from their findings in this post.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/origins-of-a-logger-agent-tesla</guid>
+    </item>
+    <item>
+      <title>Offensive Approach to Online Sandboxes</title>
+      <link>https://www.malwation.com/blog/offensive-approach-to-online-sandboxes</link>
+      <description>In this blog, we will share our research about manipulating online sandboxes and how to automatize this process with MSP.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/offensive-approach-to-online-sandboxes</guid>
+    </item>
+    <item>
+      <title>New MuddyWater Campaigns After Operation Swords of Iron</title>
+      <link>https://www.malwation.com/blog/new-muddywater-campaigns-after-operation-swords-of-iron</link>
+      <description>MuddyWater APT targets critical sectors with spear-phishing attacks using RMM tools. Stay vigilant against BEC threats with the information in this blog post.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/new-muddywater-campaigns-after-operation-swords-of-iron</guid>
+    </item>
+    <item>
+      <title>Meet Malwation in Dublin - Gold Sponsor for Virus Bulletin 2024</title>
+      <link>https://www.malwation.com/blog/meet-malwation-in-dublin-gold-sponsor-for-virus-bulletin-2024</link>
+      <description>Meet Malwation at Virus Bulletin 2024 in Dublin and explore our malware analysis innovations.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/meet-malwation-in-dublin-gold-sponsor-for-virus-bulletin-2024</guid>
+    </item>
+    <item>
+      <title>Malwation is a Proud Member of AMTSO</title>
+      <link>https://www.malwation.com/blog/malwation-is-a-proud-member-of-amtso</link>
+      <description>We are thrilled to announce that Malwation is now a proud member of the Anti-Malware Testing Standards Organization (AMTSO)!</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/malwation-is-a-proud-member-of-amtso</guid>
+    </item>
+    <item>
+      <title>Malwation 3rd Investment Announcement</title>
+      <link>https://www.malwation.com/blog/malwation-3rd-investment-announcement</link>
+      <description>Malwation is proud to announce the successful completion of its third investment round, a significant milestone that underscores the...</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/malwation-3rd-investment-announcement</guid>
+    </item>
+    <item>
+      <title>Introducing the Syscalls Feature in Threat.Zone: Unveiling Granular Malware Analysis</title>
+      <link>https://www.malwation.com/blog/introducing-the-syscalls-feature-in-threat-zone-unveiling-granular-malware-analysis</link>
+      <description>Introducing Syscalls: Gain deep insights into malware with Threat.Zone's new feature for advanced threat analysis!</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/introducing-the-syscalls-feature-in-threat-zone-unveiling-granular-malware-analysis</guid>
+    </item>
+    <item>
+      <title>Introducing Our New URL Scan Feature in Threat.Zone</title>
+      <link>https://www.malwation.com/blog/introducing-our-new-url-scan-feature-in-threat-zone</link>
+      <description>Proud to present Threat.Zone’s new feature: URL Scan. You can fetch and analyze files from URLs, plus URL Reputation &amp; Threat Analysis with Threat.Zone's URL Analysis feature.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/introducing-our-new-url-scan-feature-in-threat-zone</guid>
+    </item>
+    <item>
+      <title>Highlights from the 9th e-Safe Cybersecurity Summit</title>
+      <link>https://www.malwation.com/blog/highlights-from-the-9th-e-safe-cybersecurity-summit</link>
+      <description>Here are the highlights of the 9th e-Safe Cybersecurity Summit from where we returned with an award for year's cybersecurity product, Threat.Zone-in Malware Detection/Analysis.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/highlights-from-the-9th-e-safe-cybersecurity-summit</guid>
+    </item>
+    <item>
+      <title>From Crime Scene to Cyber Scene: How the CSI Module Speeds Up Malware Forensics</title>
+      <link>https://www.malwation.com/blog/from-crime-scene-to-cyber-scene-how-the-csi-module-speeds-up-malware-forensics</link>
+      <description>Speed up malware forensics with Threat.Zone's CSI module: rapid access to artifacts, tools, and secure analysis.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/from-crime-scene-to-cyber-scene-how-the-csi-module-speeds-up-malware-forensics</guid>
+    </item>
+    <item>
+      <title>Cortex XSOAR &amp; MALWATION AIMA Integration</title>
+      <link>https://www.malwation.com/blog/cortex-xsoar-malwation-aima-integration</link>
+      <description>Accelerate malware analysis, detection and response processes by integrating Cortex XSOAR with AIMA.</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/cortex-xsoar-malwation-aima-integration</guid>
+    </item>
+    <item>
+      <title>Content Disarm and Reconstruction (CDR): Nice-to-Have or Must Have? What is the Cost of No Action?</title>
+      <link>https://www.malwation.com/blog/content-disarm-and-reconstruction-cdr-nice-to-have-or-must-have-what-is-the-cost-of-no-action</link>
+      <description>What is CDR? Is it a nice-to-have or a must have? What are the risks of no actions? We gathered them all in this blog post!</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/content-disarm-and-reconstruction-cdr-nice-to-have-or-must-have-what-is-the-cost-of-no-action</guid>
+    </item>
+    <item>
+      <title>ACH Analysis of Lockbit Attacks in Turkey</title>
+      <link>https://www.malwation.com/blog/ach-analysis-of-lockbit-attacks-in-turkey</link>
+      <description>Analyzing claims of LockBit ransomware targeting Turkey post-OpCronos. False flags or real attacks? Let's see!</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/ach-analysis-of-lockbit-attacks-in-turkey</guid>
+    </item>
+    <item>
+      <title>Advanced Malware Traffic Analysis</title>
+      <link>https://www.malwation.com/blog/advanced-malware-traffic-analysis</link>
+      <description>We explained how Threat.Zone’s Advanced Malware Traffic Analysis enhances malware detection with real-life samples and insights. Check it out now!</description>
+      <guid isPermaLink="false">https://www.malwation.com/blog/advanced-malware-traffic-analysis</guid>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

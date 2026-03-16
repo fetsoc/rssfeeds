@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Lookout Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:36 +0000</lastBuildDate>
+    <item>
+      <title>Lookout and U.S. Govt. on New Vision for Zero Trust</title>
+      <link>https://security.lookout.com/blog/lookout-nist-nccoe-collaborates-on-zero-trust</link>
+      <description>We're excited that we have been selected by the National Institute of Standards and Technology (NIST) to collaborate on its Zero Trust architecture development efforts.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/lookout-nist-nccoe-collaborates-on-zero-trust</guid>
+    </item>
+    <item>
+      <title>Mobile Cyber Threat Telemetry Dataset to MSFT Azure</title>
+      <link>https://security.lookout.com/blog/lookout-integrates-with-microsoft-azure-sentinel</link>
+      <description>Lookout has extended its partnership with Microsoft to ensure our threat telemetry data is easily accessible via the Microsoft Azure Sentinel SIEM Solution.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/lookout-integrates-with-microsoft-azure-sentinel</guid>
+    </item>
+    <item>
+      <title>Lookout Expands Protection Following Google’s Disruption of the IPIDEA Proxy Network</title>
+      <link>https://security.lookout.com/blog/lookout-expands-protection</link>
+      <description>Last week, Google’s Threat Intelligence Group announced the disruption of IPIDEA, one of the largest and most abused residential proxy networks observed in the wild.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/lookout-expands-protection</guid>
+    </item>
+    <item>
+      <title>Lookout and Jamf: Defending Against Mobile Threats</title>
+      <link>https://security.lookout.com/blog/lookout-and-jamf-defending-against-mobile-threats</link>
+      <description>I’m pleased to share that Jamf and Lookout have formed a partnership to integrate Jamf Pro with Lookout Mobile Endpoint Security.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/lookout-and-jamf-defending-against-mobile-threats</guid>
+    </item>
+    <item>
+      <title>Understanding the LLM Mobile Landscape in Enterprise Technology</title>
+      <link>https://security.lookout.com/blog/llm</link>
+      <description>Learn how threat actors can manipulate LLM technology to create convincing social engineering schemes, and how you can protect your organization.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/llm</guid>
+    </item>
+    <item>
+      <title>What Is a Large Language Model (LLM)?</title>
+      <link>https://security.lookout.com/blog/large-language-model</link>
+      <description>Learn about large language models (LLMs), key concepts such as transformers and training data, and the opportunities and risks they present to organizations.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/large-language-model</guid>
+    </item>
+    <item>
+      <title>How to Stay Current with Changing Security Landscape: Feat. Head of Security from BNP Paribas</title>
+      <link>https://security.lookout.com/blog/keeping-current-with-changing-security-landscape</link>
+      <description>I spoke with Ramy Houssaini, Chief Cyber and Technology Risk Officer at BNP Paribas, about the challenges CISOs face in an increasingly complex digital landscape.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/keeping-current-with-changing-security-landscape</guid>
+    </item>
+    <item>
+      <title>LLM Security Checklist: Essential Steps for Identifying and Blocking Jailbreak Attempts</title>
+      <link>https://security.lookout.com/blog/jailbreaking</link>
+      <description>Learn how to defend your organization’s sensitive large language model (LLM) from jailbreaking attempts by following a simple five-step checklist.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/jailbreaking</guid>
+    </item>
+    <item>
+      <title>A Security Work Stream Is Critical to IT Modernization</title>
+      <link>https://security.lookout.com/blog/it-modernization</link>
+      <description>IT cloud modernization is a great way to drive sales growth, have the edge over your competitors, and boost your employees’ productivity while enabling greater collaboration.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/it-modernization</guid>
+    </item>
+    <item>
+      <title>Holiday Season Cyber Attack Patterns: How They Impact Enterprise Operations</title>
+      <link>https://security.lookout.com/blog/impact-of-cyber-attack</link>
+      <description>Learn how cyber attackers target enterprise-level organizations during the holidays — and what proactive steps you can take to mitigate the threat.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/impact-of-cyber-attack</guid>
+    </item>
+    <item>
+      <title>Human Risk Multiplier: How Mobile Devices Expand Enterprise Attack Surfaces</title>
+      <link>https://security.lookout.com/blog/human-risk-multiplier-how-mobile-devices-expand-enterprise-attack-surfaces</link>
+      <description>Threat actors use mobile devices to exploit human psychology. Enterprise organizations can devise effective countermeasures.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/human-risk-multiplier-how-mobile-devices-expand-enterprise-attack-surfaces</guid>
+    </item>
+    <item>
+      <title>Seasonal Phishing Scams: Protect Your Enterprise During the Holiday Spike</title>
+      <link>https://security.lookout.com/blog/holiday-season-phishing-scams</link>
+      <description>The holidays are a busy time for cyber attackers. Learn about common phishing scams and how to prevent them during this hectic season.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/holiday-season-phishing-scams</guid>
+    </item>
+    <item>
+      <title>Mobile App SDKs: The Nesting Dolls of Hidden Risk</title>
+      <link>https://security.lookout.com/blog/hidden-risks-of-mobile-app-sdks</link>
+      <description>With the number of devices being used for work everyday — especially as more employees bring their own devices — it’s impossible for security and IT...</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/hidden-risks-of-mobile-app-sdks</guid>
+    </item>
+    <item>
+      <title>FraudGPT and the Future of Cyber crime: Proactive Strategies for Protection</title>
+      <link>https://security.lookout.com/blog/fraudgpt</link>
+      <description>Protect your organization from FraudGPT and other adversarial LLMs. Use AI to enhance your threat detection and train your employees to spot likely threats.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/fraudgpt</guid>
+    </item>
+    <item>
+      <title>Ethical and Regulatory Implications of Agentic AI: Balancing Innovation and Safety</title>
+      <link>https://security.lookout.com/blog/ethical-implications-of-ai</link>
+      <description>Learn about the ethical implications of agentic AI, and how policymakers, technologists, and ethicists can collaborate on this promising new tool.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/ethical-implications-of-ai</guid>
+    </item>
+    <item>
+      <title>The Ultimate Guide to Enterprise Data Protection Solutions</title>
+      <link>https://security.lookout.com/blog/enterprise-data-protection</link>
+      <description>Staying ahead of bad actors requires taking a comprehensive view of data security, integrity, and availability.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/enterprise-data-protection</guid>
+    </item>
+    <item>
+      <title>Energy Industry Faced with 161% Surge in Mobile Phishing</title>
+      <link>https://security.lookout.com/blog/energy-industry-faced-with-161-surge-in-mobile-phishing</link>
+      <description>To help the energy industry react to evolving cyber threats, Lookout today published the 2021 Lookout Energy Industry Threat Report.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/energy-industry-faced-with-161-surge-in-mobile-phishing</guid>
+    </item>
+    <item>
+      <title>Using Endpoint Detection and Response (EDR) in Mobile Defense</title>
+      <link>https://security.lookout.com/blog/endpoint-detection-and-response</link>
+      <description>Traditional endpoint detection and response isn’t complete without a mobile component. Read to learn how mobile EDR software helps protect your organization.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/endpoint-detection-and-response</guid>
+    </item>
+    <item>
+      <title>The Role of Digital Forensics and Incident Response (DFIR) in Cybersecurity</title>
+      <link>https://security.lookout.com/blog/digital-forensics-and-incident-response</link>
+      <description>Learn how to develop a comprehensive digital forensics and incident response (DFIR) strategy, which can help your organization recover after a data breach.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/digital-forensics-and-incident-response</guid>
+    </item>
+    <item>
+      <title>Credential Theft Protection: Defending Your Organization's Data</title>
+      <link>https://security.lookout.com/blog/defend-your-data-credential-theft-protection-strategies</link>
+      <description>Credential theft is one of the most common ways for threat actors to get into your systems. Learn what it is and how to protect against it.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/defend-your-data-credential-theft-protection-strategies</guid>
+    </item>
+    <item>
+      <title>The Automated Con: Mitigation Tactics for Identifying Deepfake and LLM-Assisted Impersonation</title>
+      <link>https://security.lookout.com/blog/deepfake</link>
+      <description>Learn how employees at your organization can identify deepfake video, audio, images, and text in order to thwart convincing phishing schemes.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/deepfake</guid>
+    </item>
+    <item>
+      <title>How a Financial Services Firm Prevents Email Data Leakage with Lookout</title>
+      <link>https://security.lookout.com/blog/data-leakage-protection-secure-email-gateway</link>
+      <description>This large financial services firm needed to ensure they were protecting data in email without increasing complexity or limiting productivity.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/data-leakage-protection-secure-email-gateway</guid>
+    </item>
+    <item>
+      <title>Cybersecurity Is Not Complete Without EDR for Mobile</title>
+      <link>https://security.lookout.com/blog/cybersecurity-is-not-complete-without-edr-for-mobile</link>
+      <description>Businesses are increasingly turning to mobility solutions to increase productivity. You need mobile EDR to provide visibility across all of your mobile endpoints.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/cybersecurity-is-not-complete-without-edr-for-mobile</guid>
+    </item>
+    <item>
+      <title>The Rise of Holiday Cyber Threats: What Organizations Need to Know</title>
+      <link>https://security.lookout.com/blog/cyber-threats</link>
+      <description>Learn how to protect your organization from cyber threats over the holidays.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/cyber-threats</guid>
+    </item>
+    <item>
+      <title>Three Lessons from the Confluence Server Vulnerability (CVE-2022-26134)</title>
+      <link>https://security.lookout.com/blog/confluence-server-vulnerability</link>
+      <description>The vulnerability would allow an unauthenticated malicious actor to execute arbitrary code on a Confluence Server or Data Center instance that could grant full command.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/confluence-server-vulnerability</guid>
+    </item>
+    <item>
+      <title>CMMC Mobile Security: A Guide to Compliance for Enterprise Organizations</title>
+      <link>https://security.lookout.com/blog/cmmc-mobile-security</link>
+      <description>Ensure that your organization complies with CMMC mobile security standards. Enforce smart mobile device policies and maintain a strong cybersecurity framework.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/cmmc-mobile-security</guid>
+    </item>
+    <item>
+      <title>Lookout Helps a Large Oil Company Migrate to Cloud-Based Software</title>
+      <link>https://security.lookout.com/blog/cloud-migration-sap-successfactors</link>
+      <description>Lookout helped to implement granular access control for sensitive HR data, achieve compliance, and prevent malware from being uploaded to their infrastructure.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/cloud-migration-sap-successfactors</guid>
+    </item>
+    <item>
+      <title>BYOD Increases Mobile Phishing Rates, and the Risks Have Never Been Higher</title>
+      <link>https://security.lookout.com/blog/byod-phishing-risks</link>
+      <description>We've just published our Global State of Mobile Phishing report, which explores phishing trends and the risk they present to both your data and your financial bottom line.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/byod-phishing-risks</guid>
+    </item>
+    <item>
+      <title>Attention CISOs: the Board Doesn’t Care About Buzzwords</title>
+      <link>https://security.lookout.com/blog/board-doesnt-care-about-buzzwords</link>
+      <description>We live in an IT world surrounded by buzzwords that are largely marketing gimmicks. Zero Trust, for example, is a concept no one understands and is slapped onto everything.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/board-doesnt-care-about-buzzwords</guid>
+    </item>
+    <item>
+      <title>The Double-Edged Sword: Benefits and Risks of AI Transformations</title>
+      <link>https://security.lookout.com/blog/benefits-and-risks-of-ai-transformations</link>
+      <description>While AI tools can foster innovation and improve efficiency, they can also help craft phishing schemes and spread malware.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/benefits-and-risks-of-ai-transformations</guid>
+    </item>
+    <item>
+      <title>Beyond BEC: How Modern Phishing Has Evolved Past Email</title>
+      <link>https://security.lookout.com/blog/bec-and-modern-phishing</link>
+      <description>Business email compromise (BEC) is big business for malicious actors. According to the 2021 FBI Internet Crime Report, BEC was responsible for $2.4 billion in cyber crimes.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/bec-and-modern-phishing</guid>
+    </item>
+    <item>
+      <title>What Is Lockdown Mode for iOS and iPadOS and Why Should I Care?</title>
+      <link>https://security.lookout.com/blog/apple-lockdown-mode</link>
+      <description>We welcome the introduction of Lockdown Mode by Apple as an additional feature. However, we need to keep in mind that the mobile attack surface is quite complex.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/apple-lockdown-mode</guid>
+    </item>
+    <item>
+      <title>Protecting the Human Layer: Lookout Smishing AI Takes on Next-Gen Social Engineering Threats</title>
+      <link>https://security.lookout.com/blog/ai-smishing-protection</link>
+      <description>In today's cybersecurity landscape, the most sophisticated attacks often don't target firewalls or servers—they target people. As threat actors leverage AI to craft increasingly convincing social engineering campaigns, employees have become the front line of defense. The mobile device, ever-present and often a repository of personal and professional information, is the primary battleground.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/ai-smishing-protection</guid>
+    </item>
+    <item>
+      <title>Adversarial AI and Polymorphic Malware: A New Era of Cyber Threats</title>
+      <link>https://security.lookout.com/blog/adversarial-ai-and-polymorphic-malware</link>
+      <description>AI-powered malware looks to change the cybersecurity landscape as we know it. Here’s how you can stay ahead of the curve.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/adversarial-ai-and-polymorphic-malware</guid>
+    </item>
+    <item>
+      <title>Account Takeover Protection: What It Is and How It Combats ATO Fraud</title>
+      <link>https://security.lookout.com/blog/account-takeover-protection</link>
+      <description>Protect your organization from account takeovers by recognizing common attacks, educating your staff, and implementing the right software solutions.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/account-takeover-protection</guid>
+    </item>
+    <item>
+      <title>A New Chapter in Mobile Security: Tackling Human Risk with AI-Powered Social Engineering Protection</title>
+      <link>https://security.lookout.com/blog/a-new-chapter-in-mobile-security</link>
+      <description>This week marks a milestone in the evolution of mobile endpoint security. At a time when attackers are moving faster and targeting smarter, Lookout is proud to unveil a breakthrough initiative: AI-powered social engineering protection—the first solution of its kind built to detect and disrupt human-targeted attacks at the mobile edge.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/a-new-chapter-in-mobile-security</guid>
+    </item>
+    <item>
+      <title>Cybersecurity Forecast: Key Predictions for 2025</title>
+      <link>https://security.lookout.com/blog/2025-cybersecurity-predictions</link>
+      <description>As cyber attackers adopt more sophisticated tactics, techniques, and procedures, organizations will have to be forward-thinking to fortify their defenses.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/2025-cybersecurity-predictions</guid>
+    </item>
+    <item>
+      <title>Financial Sector Phishing Attacks Increase 125%</title>
+      <link>https://security.lookout.com/blog/device-management-blind-to-125-percent-increase-in-financial-sector-phishing-attacks</link>
+      <description>To better understand how the financial industry reacted to this digital shift, I took a deep dive into the millions of device and threat data in the Lookout Security Graph.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/device-management-blind-to-125-percent-increase-in-financial-sector-phishing-attacks</guid>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Mobile Security Capabilities Everyone Needs</title>
+      <link>https://security.lookout.com/blog/critical-mobile-security-capabilities-everyone-needs</link>
+      <description>While away from the office, your workers are using their mobile devices to stay productive. So how do you secure your data in this new reality?</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/critical-mobile-security-capabilities-everyone-needs</guid>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lookout Helps Leading Fintech Company Improve Data Security and Compliance</title>
+      <link>https://security.lookout.com/blog/leading-fintech-simplifies-security-and-compliance</link>
+      <description>See how Lookout helped a leading FinTech provider protect customer data and reach security compliance using Secure Cloud Access with DLP.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/leading-fintech-simplifies-security-and-compliance</guid>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Mobile App Security Risks: From Risky Behavior to Hidden Malicious Code</title>
+      <link>https://security.lookout.com/blog/mobile-app-security-risks</link>
+      <description>TikTok to Pinduoduo and Temu are just some of the most recent examples of mobile app risks. Read this blog to learn about how you can protect your organization from them.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/mobile-app-security-risks</guid>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhancing Mobile Device Security: Applying the NIS2 Directive</title>
+      <link>https://security.lookout.com/blog/nis2-directive</link>
+      <description>In response to a changing threat landscape, the EU's NIS2 directive recommends mobile threat defense (MTD) solutions.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/nis2-directive</guid>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy vs. Mobile Security: Why You Don’t Have to Choose</title>
+      <link>https://security.lookout.com/blog/privacy-aware-mobile-security</link>
+      <description>Many people are resistant to putting an employer-mandated security app on their phone, but organizations don't have to sacrifice security for privacy.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/privacy-aware-mobile-security</guid>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating BYOD Security: Proven Strategies and Best Practices for Success</title>
+      <link>https://security.lookout.com/blog/byod-security-definition-and-best-practices</link>
+      <description>Employees rely on their personal devices to get work done. A sensible BYOD security policy can help safeguard your organization’s data.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/byod-security-definition-and-best-practices</guid>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Essential Tips to Prevent Social Engineering</title>
+      <link>https://security.lookout.com/blog/5-essential-tips-to-prevent-social-engineering</link>
+      <description>Social engineering, unlike traditional hacking that targets technical vulnerabilities, manipulates human psychology</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/5-essential-tips-to-prevent-social-engineering</guid>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Made Easy: Mobile Security That Won’t Stretch Your IT Team</title>
+      <link>https://security.lookout.com/blog/mobile-security-made-easy</link>
+      <description>Discover how Lookout simplifies mobile security with easy deployment and management, enhancing IT efficiency without added strain.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/mobile-security-made-easy</guid>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Human-Directed Threats: The New Frontline in Cybersecurity</title>
+      <link>https://security.lookout.com/blog/human-directed-threats-the-new-frontline-in-cybersecurity</link>
+      <description>A constantly shifting threat landscape has given rise to a new cyberattack vector.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/human-directed-threats-the-new-frontline-in-cybersecurity</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating FedRAMP Compliance: Why It’s Crucial for Mobile Security</title>
+      <link>https://security.lookout.com/blog/fedramp-compliance</link>
+      <description>Learn how ensuring FedRAMP compliance can protect mobile devices and foster strong relationships between private organizations and the U.S. federal government.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/fedramp-compliance</guid>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting Government Agencies From Mobile Threats: A Guide</title>
+      <link>https://security.lookout.com/blog/critical-infrastructure</link>
+      <description>Comply with federal government standards — particularly FedRAMP and the CDM Program — to protect your agency’s sensitive data from threat actors.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/critical-infrastructure</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the CDM Program Strengthens Federal Cyber Resilience</title>
+      <link>https://security.lookout.com/blog/cdm-program</link>
+      <description>Since its creation in 2012, the CDM Program has helped mitigate cyber threats to government networks — here’s how.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/cdm-program</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

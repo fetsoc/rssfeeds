@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThreatMon Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:46:37 +0000</lastBuildDate>
+    <item>
+      <title>WordPress Sites Hacked with Fake Cloudflare DDoS Alerts - ThreatMon</title>
+      <link>https://threatmon.io/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts/</link>
+      <description>WordPress Sites Hacked with Fake Cloudflare DDoS Alerts: Attackers are tricking users into downloading malware.</description>
+      <guid isPermaLink="false">https://threatmon.io/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 Organizations Targeted by Chinese-Linked APT41</title>
+      <link>https://threatmon.io/13-organizations-targeted-by-chinese-linked-apt41-and-a-new-wave-of-cobalt-strike-infections/</link>
+      <description>APT41, a Chinese state-sponsored hacking group, has targeted 13 organizations, deploying Cobalt Strike for command and control.</description>
+      <guid isPermaLink="false">https://threatmon.io/13-organizations-targeted-by-chinese-linked-apt41-and-a-new-wave-of-cobalt-strike-infections/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's Update for the New Chrome Zero-Day Vulnerability</title>
+      <link>https://threatmon.io/google-has-released-an-update-for-the-new-chrome-zero-day-vulnerability/</link>
+      <description>Google has released an emergency update for Chrome to address a high-severity zero-day vulnerability actively exploited in the wild.</description>
+      <guid isPermaLink="false">https://threatmon.io/google-has-released-an-update-for-the-new-chrome-zero-day-vulnerability/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaspersky Published a Report on Malicious Browser Extensions</title>
+      <link>https://threatmon.io/kaspersky-published-a-report-on-malicious-browser-extensions/</link>
+      <description>Kaspersky's report highlights the rise of malicious browser extensions that steal cryptocurrency and perform web injects.</description>
+      <guid isPermaLink="false">https://threatmon.io/kaspersky-published-a-report-on-malicious-browser-extensions/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Has Disrupted SEABORGIUM Phishing Operation</title>
+      <link>https://threatmon.io/microsoft-has-disrupted-seaborgium-ongoing-phishing-operation/</link>
+      <description>Microsoft has disrupted SEABORGIUM, a Russian-linked threat actor known targeting NATO countries involved in Ukraine conflict.</description>
+      <guid isPermaLink="false">https://threatmon.io/microsoft-has-disrupted-seaborgium-ongoing-phishing-operation/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>PyPI Package 'secretslib' Drops Fileless Cryptominer to Linux</title>
+      <link>https://threatmon.io/pypi-package-secretslib-drops-fileless-cryptominer-to-linux-systems/</link>
+      <description>PyPI Package ‘secretslib’ was discovered to covertly execute a Monero cryptominer directly in memory on Linux systems.</description>
+      <guid isPermaLink="false">https://threatmon.io/pypi-package-secretslib-drops-fileless-cryptominer-to-linux-systems/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>USA Offers $10M Bounty for The Conti Ransomware Gang</title>
+      <link>https://threatmon.io/usa-offers-10m-bounty-for-providing-information-on-the-conti-ransomware-gang/</link>
+      <description>USA has announced a reward of up to $10 million for information about key members of the Conti ransomware group.</description>
+      <guid isPermaLink="false">https://threatmon.io/usa-offers-10m-bounty-for-providing-information-on-the-conti-ransomware-gang/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cisco Has Been Hacked by Yanluowang Ransomware Group - ThreatMon</title>
+      <link>https://threatmon.io/cisco-has-been-hacked-by-yanluowang-ransomware-group/</link>
+      <description>In May 2022, Cisco's corporate network was breached by the Yanluowang ransomware group, who accessed an employee's VPN account.</description>
+      <guid isPermaLink="false">https://threatmon.io/cisco-has-been-hacked-by-yanluowang-ransomware-group/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>SQL Injection Failure and Flaws Have Been Patched by Vmware</title>
+      <link>https://threatmon.io/sql-injection-failure-and-flaws-that-allow-remote-attackers-to-execute-code-remotely-have-been-patched-by-vmware/</link>
+      <description>SQL Injection Failure and Flaws That Allow Remote Attackers to Execute Code Remotely Have Been Patched by Vmware</description>
+      <guid isPermaLink="false">https://threatmon.io/sql-injection-failure-and-flaws-that-allow-remote-attackers-to-execute-code-remotely-have-been-patched-by-vmware/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the OpenSSL Version Vulnerability? - ThreatMon Blog</title>
+      <link>https://threatmon.io/what-is-the-openssl-version-vulnerability/</link>
+      <description>Learn about the OpenSSL version vulnerability, a flaw in the popular encryption library that can expose sensitive data.</description>
+      <guid isPermaLink="false">https://threatmon.io/what-is-the-openssl-version-vulnerability/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>All You Need to Know About Cyber Threat Intelligence</title>
+      <link>https://threatmon.io/what-is-threat-intelligence-all-you-need-to-know-about-cyber-threat-intelligence/</link>
+      <description>Understand cyber threat intelligence, a vital cybersecurity process involving the collection and analysis of data on potential cyber threats.</description>
+      <guid isPermaLink="false">https://threatmon.io/what-is-threat-intelligence-all-you-need-to-know-about-cyber-threat-intelligence/</guid>
+      <pubDate>Mon, 23 Oct 2023 14:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Dark Web Search Engines - ThreatMon Blog</title>
+      <link>https://threatmon.io/top-10-dark-web-search-engines/</link>
+      <description>Discover the 10 best Dark Web search engines for safe, anonymous browsing of hidden sites and resources...</description>
+      <guid isPermaLink="false">https://threatmon.io/top-10-dark-web-search-engines/</guid>
+      <pubDate>Wed, 29 Nov 2023 14:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT39: Cyber Espionage Network in Iran's Shadow - ThreatMon Blog</title>
+      <link>https://threatmon.io/apt39-cyber-espionage-network-in-irans-shadow/</link>
+      <description>APT39, also known as Chafer or Remix Kitten, is an Iranian cyber espionage group active since at least 2014.</description>
+      <guid isPermaLink="false">https://threatmon.io/apt39-cyber-espionage-network-in-irans-shadow/</guid>
+      <pubDate>Wed, 24 Jan 2024 14:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Dark Web Forums - ThreatMon Blog</title>
+      <link>https://threatmon.io/top-10-dark-web-forums/</link>
+      <description>Explore the top 10 dark web forums, their roles in cybercrime, the types of illicit activities and their impact on global cybersecurity.</description>
+      <guid isPermaLink="false">https://threatmon.io/top-10-dark-web-forums/</guid>
+      <pubDate>Mon, 29 Jan 2024 14:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lotus Panda: China's Cyber Power - ThreatMon Blog</title>
+      <link>https://threatmon.io/lotus-panda-chinas-cyber-power/</link>
+      <description>Examine Lotus Panda, an alleged Chinese state-sponsored cyber espionage group, known for targeting global infrastructures and data theft.</description>
+      <guid isPermaLink="false">https://threatmon.io/lotus-panda-chinas-cyber-power/</guid>
+      <pubDate>Thu, 01 Feb 2024 14:37:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Based APTs - ThreatMon Blog</title>
+      <link>https://threatmon.io/iran-based-apts/</link>
+      <description>Delve into Iran-based APTs, exploring their cyber strategies, targeted sectors and the implications for global cybersecurity.</description>
+      <guid isPermaLink="false">https://threatmon.io/iran-based-apts/</guid>
+      <pubDate>Fri, 08 Mar 2024 14:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is External Attack Surface Management (EASM)?</title>
+      <link>https://threatmon.io/what-is-external-attack-surface-management-easm/</link>
+      <description>Examine External Attack Surface Management (EASM), a cybersecurity discipline to mitigate potential cyber threats.</description>
+      <guid isPermaLink="false">https://threatmon.io/what-is-external-attack-surface-management-easm/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axiom APT Group - ThreatMon Blog</title>
+      <link>https://threatmon.io/axiom-apt-group/</link>
+      <description>Investigate the Axiom APT group, a team of cyber attackers known for their strategic targeting of governmental and private sector networks.</description>
+      <guid isPermaLink="false">https://threatmon.io/axiom-apt-group/</guid>
+      <pubDate>Thu, 21 Mar 2024 14:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>APT44: The Famous Sandworm of Russia - ThreatMon Blog</title>
+      <link>https://threatmon.io/apt44-the-famous-sandworm-of-russia/</link>
+      <description>Explore APT44, the notorious Russian cyber espionage group known as Sandworm, detailing their methods and targets.</description>
+      <guid isPermaLink="false">https://threatmon.io/apt44-the-famous-sandworm-of-russia/</guid>
+      <pubDate>Fri, 19 Apr 2024 14:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Signs Your Data May be on the Dark Web - ThreatMon Blog</title>
+      <link>https://threatmon.io/top-10-signs-your-data-may-be-on-the-dark-web/</link>
+      <description>Your Data May be on the Dark Web: In this extensive guide, let’s discuss ten signs that show your personal data has been stolen.</description>
+      <guid isPermaLink="false">https://threatmon.io/top-10-signs-your-data-may-be-on-the-dark-web/</guid>
+      <pubDate>Thu, 30 May 2024 14:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peek into Monthly Vulnerabilities: May 2024 - ThreatMon Blog</title>
+      <link>https://threatmon.io/peek-into-monthly-vulnerabilities-may-2024/</link>
+      <description>Review the significant security vulnerabilities May 2024, focusing on their potential impacts and critical updates needed to mitigate risks.</description>
+      <guid isPermaLink="false">https://threatmon.io/peek-into-monthly-vulnerabilities-may-2024/</guid>
+      <pubDate>Thu, 06 Jun 2024 14:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunter's Lens: Ransomware 2.0: Beyond Encryption to Extortion</title>
+      <link>https://threatmon.io/hunters-lens-ransomware-2-0-beyond-encryption-to-extortion/</link>
+      <description>Delve into the evolution of ransomware 2.0 phase, where tactics extend beyond data encryption to include extortion.</description>
+      <guid isPermaLink="false">https://threatmon.io/hunters-lens-ransomware-2-0-beyond-encryption-to-extortion/</guid>
+      <pubDate>Thu, 13 Jun 2024 14:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Tools for Effective Attack Surface Management</title>
+      <link>https://threatmon.io/top-10-tools-for-effective-attack-surface-management/</link>
+      <description>Top 10 Tools for Effective Attack Surface Management: Highlighting their features and benefits for enhanced cybersecurity.</description>
+      <guid isPermaLink="false">https://threatmon.io/top-10-tools-for-effective-attack-surface-management/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:54:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polyfill.io Supply Chain Attack | ThreatMon Blog</title>
+      <link>https://threatmon.io/polyfill-io-supply-chain-attack-how-over-100000-websites-were-compromised-and-what-you-need-to-know/</link>
+      <description>Learn how the Polyfill.io supply chain attack impacted over 100,000 websites and what steps you can take to secure your site.</description>
+      <guid isPermaLink="false">https://threatmon.io/polyfill-io-supply-chain-attack-how-over-100000-websites-were-compromised-and-what-you-need-to-know/</guid>
+      <pubDate>Thu, 27 Jun 2024 14:55:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stealer Logs and Their Impact on Security | ThreatMon Blog</title>
+      <link>https://threatmon.io/navigating-the-threat-landscape-stealer-logs-and-their-impact-on-security/</link>
+      <description>Explore the role of stealer logs in the threat landscape, how they compromise data security and the strategies to mitigate their impact.</description>
+      <guid isPermaLink="false">https://threatmon.io/navigating-the-threat-landscape-stealer-logs-and-their-impact-on-security/</guid>
+      <pubDate>Mon, 01 Jul 2024 14:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peek into Monthly Vulnerabilities: June 2024 - ThreatMon</title>
+      <link>https://threatmon.io/peek-into-monthly-vulnerabilities-june-2024/</link>
+      <description>Vulnerabilities June 2024: Examine the key vulnerabilities and security threats identified, underlining their potential impacts.</description>
+      <guid isPermaLink="false">https://threatmon.io/peek-into-monthly-vulnerabilities-june-2024/</guid>
+      <pubDate>Fri, 05 Jul 2024 14:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Phishing Techniques You Need to Know in 2024 - ThreatMon</title>
+      <link>https://threatmon.io/top-10-phishing-techniques-you-need-to-know-in-2024/</link>
+      <description>Learn about the top ten phishing techniques prevalent in 2024, emphasizing new tactics and preventive strategies to guard against them.</description>
+      <guid isPermaLink="false">https://threatmon.io/top-10-phishing-techniques-you-need-to-know-in-2024/</guid>
+      <pubDate>Thu, 18 Jul 2024 15:01:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike Update Halts the Systems: CyberSpace Ripple Effect</title>
+      <link>https://threatmon.io/crowdstrike-update-halts-the-systems-cyberspace-ripple-effect/</link>
+      <description>Discuss the unintended consequences of a CrowdStrike update that temporarily halted systems, analyzing its ripple effects across cyberspace.</description>
+      <guid isPermaLink="false">https://threatmon.io/crowdstrike-update-halts-the-systems-cyberspace-ripple-effect/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kematian Stealer Technical Analysis - ThreatMon</title>
+      <link>https://threatmon.io/kematian-stealer-technical-analysis/</link>
+      <description>Blog In the ever-evolving world of cybersecurity, new threats emerge constantly, challenging our defenses and requiring continuous vigilance. One such threat that has recently come to light is the “Kematian Stealer,” an advanced information-stealing malware. ThreatMon’s Kematian Stealer Technical Analysis Report aims to provide an in-depth analysis of this potent malware, its features, and the […]</description>
+      <guid isPermaLink="false">https://threatmon.io/kematian-stealer-technical-analysis/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>How GitHub Monitoring Enhances Security Postures - ThreatMon</title>
+      <link>https://threatmon.io/from-code-to-threat-intel-how-github-monitoring-enhances-security-postures/</link>
+      <description>Explore the transition from code monitoring to threat intelligence on GitHub, demonstrating how it bolsters organizational security postures.</description>
+      <guid isPermaLink="false">https://threatmon.io/from-code-to-threat-intel-how-github-monitoring-enhances-security-postures/</guid>
+      <pubDate>Thu, 25 Jul 2024 19:09:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proactive Threat Detection for a Leading Manufacturer: How ThreatMon Prevented a Potential Breach - ThreatMon</title>
+      <link>https://threatmon.io/proactive-threat-detection-for-a-leading-manufacturer-how-threatmon-prevented-a-potential-breach/</link>
+      <description>Case Study Executive Summary A manufacturing client, previously using a competitor’s threat intelligence solution, discovered the value of ThreatMon when, during a Proof of Concept (POC), we identified a critical backdoor vulnerability on their website. This early detection allowed the company to prevent a security breach from a known entry point that had been exploited […]</description>
+      <guid isPermaLink="false">https://threatmon.io/proactive-threat-detection-for-a-leading-manufacturer-how-threatmon-prevented-a-potential-breach/</guid>
+      <pubDate>Sat, 09 Nov 2024 16:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proactive Dark Web Monitoring: How ThreatMon Prevented a Potential Ransomware Attack in the Energy Sector - ThreatMon</title>
+      <link>https://threatmon.io/proactive-dark-web-monitoring-how-threatmon-prevented-a-potential-ransomware-attack-in-the-energy-sector/</link>
+      <description>Case Study Executive Summary ThreatMon’s advanced Dark Web Monitoring capabilities recently helped an energy sector client prevent a potentially devastating security breach. During routine dark web surveillance, ThreatMon identified a stealer log for sale on a black market containing admin credentials to the client’s internal systems. Fortunately, the seller appeared unaware of the log’s true […]</description>
+      <guid isPermaLink="false">https://threatmon.io/proactive-dark-web-monitoring-how-threatmon-prevented-a-potential-ransomware-attack-in-the-energy-sector/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Retail Security: How ThreatMon Protected a Client’s Critical Assets with Attack Surface Management - ThreatMon</title>
+      <link>https://threatmon.io/strengthening-retail-security-how-threatmon-protected-a-clients-critical-assets-with-attack-surface-management/</link>
+      <description>Case Study Executive Summary In a recent success, ThreatMon’s Attack Surface Management module helped a retail client secure a critical vulnerability by identifying an open port that exposed an office security camera to the internet. This proactive detection greatly increased the client’s confidence in ThreatMon, as they recognized the potential implications of such an exposure. […]</description>
+      <guid isPermaLink="false">https://threatmon.io/strengthening-retail-security-how-threatmon-protected-a-clients-critical-assets-with-attack-surface-management/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:17:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Telecommunications: How ThreatMon’s Fraud Protection Module Prevented Financial Loss and Brand Damage - ThreatMon</title>
+      <link>https://threatmon.io/securing-telecommunications-how-threatmons-fraud-protection-module-prevented-financial-loss-and-brand-damage/</link>
+      <description>Case Study Executive Summary ThreatMon’s Fraud Protection capabilities recently played a pivotal role in helping a telecommunications client avert significant financial loss and protect their brand reputation. During routine monitoring, ThreatMon detected fraudulent activity involving account takeovers and unauthorized access attempts aimed at exploiting customer accounts for financial gain. By quickly identifying these suspicious patterns, […]</description>
+      <guid isPermaLink="false">https://threatmon.io/securing-telecommunications-how-threatmons-fraud-protection-module-prevented-financial-loss-and-brand-damage/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing a Healthcare Giant: How ThreatMon’s Risk Scoring Protects Patients and Partners Across a Vast Network of Suppliers - ThreatMon</title>
+      <link>https://threatmon.io/securing-a-healthcare-giant-how-threatmons-risk-scoring-protects-patients-and-partners-across-a-vast-network-of-suppliers/</link>
+      <description>Case Study Executive Summary A prominent healthcare provider, with a sprawling network of suppliers, faced the complex challenge of ensuring cybersecurity across every link in its supply chain. ThreatMon’s risk scoring solution provided the visibility, insight, and rapid response needed to safeguard sensitive patient data and maintain operational continuity. By leveraging ThreatMon’s dynamic risk scoring […]</description>
+      <guid isPermaLink="false">https://threatmon.io/securing-a-healthcare-giant-how-threatmons-risk-scoring-protects-patients-and-partners-across-a-vast-network-of-suppliers/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Alarm Overload to Targeted Response: How ThreatMon Enhanced Security for a Government Agency with Millions of Assets - ThreatMon</title>
+      <link>https://threatmon.io/from-alarm-overload-to-targeted-response-how-threatmon-enhanced-security-for-a-government-agency-with-millions-of-assets/</link>
+      <description>Case Study Executive Summary A government organization with millions of digital assets sought an advanced cybersecurity solution to overcome alarm fatigue, which was overwhelming its team using a competitor’s platform. During the Proof of Concept (POC) with ThreatMon, our AI-driven alarm risk scoring feature proved essential, enabling the agency to prioritize alerts based on risk […]</description>
+      <guid isPermaLink="false">https://threatmon.io/from-alarm-overload-to-targeted-response-how-threatmon-enhanced-security-for-a-government-agency-with-millions-of-assets/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Cost-Efficiency to Cyber Threats: The World of DeepSeek</title>
+      <link>https://threatmon.io/from-cost-efficiency-to-cyber-threats-the-complex-world-of-deepseek/</link>
+      <description>DeepSeek has rapidly emerged as a formidable Chinese AI contender, shaking up the global technology landscape.</description>
+      <guid isPermaLink="false">https://threatmon.io/from-cost-efficiency-to-cyber-threats-the-complex-world-of-deepseek/</guid>
+      <pubDate>Wed, 05 Feb 2025 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek and Dıgıtal Fraud Threats: Rısks - Preventıon Methods</title>
+      <link>https://threatmon.io/deepseek-and-digital-fraud-threats-risks-and-prevention-methods/</link>
+      <description>DeepSeek and Dıgıtal Fraud Threats; This article explains how these scams work and how to identify legitimate sources.</description>
+      <guid isPermaLink="false">https://threatmon.io/deepseek-and-digital-fraud-threats-risks-and-prevention-methods/</guid>
+      <pubDate>Fri, 14 Feb 2025 06:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Fraud Campaigns Targeting DeepSeek: A Technical Analysis</title>
+      <link>https://threatmon.io/digital-fraud-campaigns-targeting-deepseek-a-technical-analysis/</link>
+      <description>Digital Fraud Campaigns Targeting DeepSeek; The primary attack vectors and defensive measures to mitigate digital fraud threats.</description>
+      <guid isPermaLink="false">https://threatmon.io/digital-fraud-campaigns-targeting-deepseek-a-technical-analysis/</guid>
+      <pubDate>Fri, 21 Feb 2025 07:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Implosion of Black Basta - ThreatMon</title>
+      <link>https://threatmon.io/the-implosion-of-black-basta-a-deep-dive-into-the-leaked-chat-logs-and-operational-collapse/</link>
+      <description>The Implosion of Black Basta: A Deep Dive into the Leaked Chat Logs and Operational Collapse. The Genesis-Evolution of Black Basta Ransomware</description>
+      <guid isPermaLink="false">https://threatmon.io/the-implosion-of-black-basta-a-deep-dive-into-the-leaked-chat-logs-and-operational-collapse/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monthly Ransomware Critical Report - ThreatMon</title>
+      <link>https://threatmon.io/monthly-ransomware-critical-report/</link>
+      <description>Monthly Ransomware Critical Report: Ransomware attacks remain one of the most critical threats to modern businesses..</description>
+      <guid isPermaLink="false">https://threatmon.io/monthly-ransomware-critical-report/</guid>
+      <pubDate>Thu, 06 Mar 2025 14:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome DLL Side Loading Method - ThreatMon</title>
+      <link>https://threatmon.io/google-chrome-dllside-loading-method/</link>
+      <description>Google Chrome DLL Side Loading Method: By exploiting Chrome’s trusted status attackers can maintain persistent access to compromised systems</description>
+      <guid isPermaLink="false">https://threatmon.io/google-chrome-dllside-loading-method/</guid>
+      <pubDate>Thu, 13 Mar 2025 12:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Cybersecurıty Threats to the Energy Sector</title>
+      <link>https://threatmon.io/global-cybersecurity-threats-to-the-energy-sector-regional-analysis-and-intelligence/</link>
+      <description>This report examines the increasing intensity and complexity of cybersecurity threats to the energy sector.</description>
+      <guid isPermaLink="false">https://threatmon.io/global-cybersecurity-threats-to-the-energy-sector-regional-analysis-and-intelligence/</guid>
+      <pubDate>Tue, 29 Apr 2025 08:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAE Country Cyber Threat Report - ThreatMon</title>
+      <link>https://threatmon.io/uae-country-report/</link>
+      <description>This report examines UAE cyber threat report. UAE is at the crossroads of regional cyber threat activity and global digital ambition.</description>
+      <guid isPermaLink="false">https://threatmon.io/uae-country-report/</guid>
+      <pubDate>Wed, 30 Apr 2025 07:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Cyber Threats to the Financial Sector | ThreatMon</title>
+      <link>https://threatmon.io/global-cyber-threats-to-the-financial-sector-regional-analysis-and-intelligence/</link>
+      <description>This report examines the Global Cyber ​​Threats to the Financial Sector and highlights regional analysis and intelligence about this.</description>
+      <guid isPermaLink="false">https://threatmon.io/global-cyber-threats-to-the-financial-sector-regional-analysis-and-intelligence/</guid>
+      <pubDate>Mon, 12 May 2025 09:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Cyber Threats to the Financial Sector | ThreatMon</title>
+      <link>https://threatmon.io/nullpoint-stealer-technical-malware-analysis-report/</link>
+      <description>NullPoint Stealer Technical Malware Analysis Report: the malware will be used in broader campaigns across both regional and global targets.</description>
+      <guid isPermaLink="false">https://threatmon.io/nullpoint-stealer-technical-malware-analysis-report/</guid>
+      <pubDate>Thu, 15 May 2025 11:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>April's Ransomware Attacks | ThreatMon</title>
+      <link>https://threatmon.io/aprils-ransomware-attacks/</link>
+      <description>Ransomware attacks remain one of the most critical threats to modern businesses, leading to severe operational disruptions and data breaches.</description>
+      <guid isPermaLink="false">https://threatmon.io/aprils-ransomware-attacks/</guid>
+      <pubDate>Tue, 20 May 2025 07:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>INDIA-PAKISTAN CYBER CONFLICT: THREAТ АСTORS</title>
+      <link>https://threatmon.io/india-pakistan-cyber-conflict-analysis-of-threa%d1%82-%d0%b0%d1%81%d1%82%d0%bers/</link>
+      <description>India-Pakistan Cyber Conflict: This report has been prepared to analyze the recent escalation in cyber conflicts between India and Pakistan</description>
+      <guid isPermaLink="false">https://threatmon.io/india-pakistan-cyber-conflict-analysis-of-threa%d1%82-%d0%b0%d1%81%d1%82%d0%bers/</guid>
+      <pubDate>Thu, 22 May 2025 09:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automotive Sector Intelligence Analysis</title>
+      <link>https://threatmon.io/global-cybersecurity-threats-to-the-automotive-sector-intelligence-analysis-and-regional-assessment/</link>
+      <description>This report examines Global Cybersecurity Threats to the Automotive Sector Intelligence Analysis and Regional Assessment.</description>
+      <guid isPermaLink="false">https://threatmon.io/global-cybersecurity-threats-to-the-automotive-sector-intelligence-analysis-and-regional-assessment/</guid>
+      <pubDate>Tue, 03 Jun 2025 09:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pulsar RAT Technical Malware Analysis Report | ThreatMon</title>
+      <link>https://threatmon.io/pulsar-rat-technical-malware-analysis-report/</link>
+      <description>Pulsar is a .NET-based RAT designed to provide comprehensive control and monitoring capabilities on Windows systems.</description>
+      <guid isPermaLink="false">https://threatmon.io/pulsar-rat-technical-malware-analysis-report/</guid>
+      <pubDate>Sat, 14 Jun 2025 19:45:40 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

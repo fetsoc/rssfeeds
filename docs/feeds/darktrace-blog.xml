@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Darktrace Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:05 +0000</lastBuildDate>
+    <item>
+      <title>Preparing Security Defenses For the AI Cyber Attack Era</title>
+      <link>https://www.darktrace.com/blog/building-for-the-ai-attack-era</link>
+      <description>The threat of AI being used in cyberattacks is growing. Learn how Darktrace is harnessing the power of AI to protect security systems against these attacks.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/building-for-the-ai-attack-era</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace's AI Analyst: Closing the Cyber Skills Gap</title>
+      <link>https://www.darktrace.com/blog/bridging-the-cyber-skills-gap-cyber-ai-analyst-for-ot</link>
+      <description>Discover how Darktrace's AI Analyst is bridging the cyber skills gap for OT, enhancing security and efficiency.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/bridging-the-cyber-skills-gap-cyber-ai-analyst-for-ot</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking Down Nation State Attacks on Supply Chains</title>
+      <link>https://www.darktrace.com/blog/breaking-down-nation-state-attacks-on-supply-chains</link>
+      <description>Explore how nation-state supply chain attacks like 3CX, NotPetya, and SolarWinds exploited trusted providers to cause global disruption, highlighting the urgent need for robust security measures.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/breaking-down-nation-state-attacks-on-supply-chains</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Botnet and Remote Desktop Protocol Attacks</title>
+      <link>https://www.darktrace.com/blog/botnet-malware-remote-desktop-protocol-rdp-attack</link>
+      <description>Understand the connection between botnet malware and RDP attacks, and how to safeguard your network from potential threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/botnet-malware-remote-desktop-protocol-rdp-attack</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boosting Security with Azure Virtual Network TAP Traffic Mirroring</title>
+      <link>https://www.darktrace.com/blog/boosting-security-with-azure-virtual-network-tap-traffic-mirroring</link>
+      <description>Discover why Darktrace is a launch partner for the Public Preview of Microsoft Azure Virtual Network Terminal Access Point (TAP).</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/boosting-security-with-azure-virtual-network-tap-traffic-mirroring</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlackMatter's Smash-and-Grab Ransom Attack Incident Analysis</title>
+      <link>https://www.darktrace.com/blog/blackmatters-smash-and-grab-tactics-and-the-need-for-respond</link>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/blackmatters-smash-and-grab-tactics-and-the-need-for-respond</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Darktrace Detected Black Basta Ransomware</title>
+      <link>https://www.darktrace.com/blog/black-basta-old-dogs-with-new-tricks</link>
+      <description>Discover how Darktrace uncovered Black Basta ransomware. Learn about its tactics, techniques, and how to protect your network from this threat.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/black-basta-old-dogs-with-new-tricks</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryuk Ransomware Targeting Major Companies | Expert Analysis</title>
+      <link>https://www.darktrace.com/blog/big-game-hunting-how-ryuk-ransomware-takes-down-its-imposing-targets</link>
+      <description>Discover how Ryuk ransomware targets major companies with AI-powered tools to detect unusual activity. Learn the threats behind Autonomous Response technology.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/big-game-hunting-how-ryuk-ransomware-takes-down-its-imposing-targets</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unsupervised Machine Learning and JA3 for Enhanced Security</title>
+      <link>https://www.darktrace.com/blog/beyond-the-hash-how-unsupervised-machine-learning-unlocks-the-true-power-of-ja3</link>
+      <description>Unlock the true power of Darktrace's algorithms. Learn how JA3 enhances cybersecurity defenses with unique TLS/SSL fingerprints &amp; unsupervised machine learning.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-the-hash-how-unsupervised-machine-learning-unlocks-the-true-power-of-ja3</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting Adversary-in-the-Middle Attacks and Phishing with Darktrace</title>
+      <link>https://www.darktrace.com/blog/beyond-mfa-detecting-adversary-in-the-middle-attacks-and-phishing-with-darktrace</link>
+      <description>Learn how Darktrace / EMAIL and Darktrace / IDENTITY detected an adversary-in-the-middle (AiTM) attack that compromised a user’s Office 365 account via a business email compromise (BEC) phishing email</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-mfa-detecting-adversary-in-the-middle-attacks-and-phishing-with-darktrace</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating Email Security Gaps Beyond DMARC</title>
+      <link>https://www.darktrace.com/blog/beyond-dmarc-navigating-the-gaps-in-email-security</link>
+      <description>Discover Darktrace's strategies for navigating email security gaps beyond DMARC. Enhance your defenses with advanced threat detection and mitigation.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-dmarc-navigating-the-gaps-in-email-security</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Discovery: Adding Intelligent Vulnerability Validation to Darktrace / Attack Surface Management</title>
+      <link>https://www.darktrace.com/blog/beyond-discovery-adding-intelligent-vulnerability-validation-to-darktrace-attack-surface-management</link>
+      <description>Darktrace adds exploit prediction assessment to attack surface management with 6.3 update. Learn more about the latest innovations here.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-discovery-adding-intelligent-vulnerability-validation-to-darktrace-attack-surface-management</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Veil: Darktrace's Detection of VPN Exploitation in SaaS Environments</title>
+      <link>https://www.darktrace.com/blog/behind-the-veil-darktraces-detection-of-vpn-exploitation-in-saas-environments</link>
+      <description>A recent phishing attack compromised an internal email account, but Darktrace’s advanced AI quickly intervened. By identifying unusual activity across email and SaaS environments, Darktrace uncovered the attacker’s use of VPNs to mask their location and shut down the threat.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/behind-the-veil-darktraces-detection-of-vpn-exploitation-in-saas-environments</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Balada Injector: Darktrace’s Investigation into the Malware Exploiting WordPress Vulnerabilities</title>
+      <link>https://www.darktrace.com/blog/balada-injector-darktraces-investigation-into-the-malware-exploiting-wordpress-vulnerabilities</link>
+      <description>This blog explores Darktrace’s detection of Balada Injector, a malware known to exploit vulnerabilities in WordPress to gain unauthorized access to networks. Darktrace was able to define numerous use-cases within customer environments which followed previously identified patterns of activity spikes across multiple weeks.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/balada-injector-darktraces-investigation-into-the-malware-exploiting-wordpress-vulnerabilities</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lessons from the Capital One Breach on Cloud Security</title>
+      <link>https://www.darktrace.com/blog/back-to-square-one-the-capital-one-breach-proved-we-must-rethink-cloud-security</link>
+      <description>Explore the implications of the Capital One breach on cloud security and strategies for improving your organization's defenses.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/back-to-square-one-the-capital-one-breach-proved-we-must-rethink-cloud-security</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stopping Trickbot: Darktrace's Autonomous Response</title>
+      <link>https://www.darktrace.com/blog/autonomous-response-stops-a-runaway-trickbot-intrusion</link>
+      <description>Darktrace's autonomous response successfully thwarted a Trickbot intrusion. See how AI played a crucial role in this defense.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/autonomous-response-stops-a-runaway-trickbot-intrusion</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting Auto-Color: Linux Threat Guide</title>
+      <link>https://www.darktrace.com/blog/auto-color-backdoor-how-darktrace-thwarted-a-stealthy-linux-intrusion</link>
+      <description>A case study of the Auto‑Color backdoor on Linux, covering indicators, behaviors, and recommended responses for teams. Learn more.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/auto-color-backdoor-how-darktrace-thwarted-a-stealthy-linux-intrusion</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Against Personalized Cyber Attacks</title>
+      <link>https://www.darktrace.com/blog/attacks-are-getting-personal</link>
+      <description>Stay informed about the latest trends in cyber threats with Darktrace experts, including how attacks are evolving and becoming more personalized.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/attacks-are-getting-personal</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Trends: VIP Impersonation in the Business Hierarchy</title>
+      <link>https://www.darktrace.com/blog/attack-trends-impersonation-across-the-business-hierarchy</link>
+      <description>VIP Impersonation occurs when a cyber-threat actor impersonates a prominent employee to obtain sensitive data. Learn all about VIP impersonation here.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/attack-trends-impersonation-across-the-business-hierarchy</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Alternative Access in Cloud Attacks</title>
+      <link>https://www.darktrace.com/blog/attack-trends-cloud-based-cyber-attacks-and-the-rise-of-alternative-initial-access-methods</link>
+      <description>Understand the evolution of cloud-based attacks and the increasing use of alternative methods for initial access in cyber threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/attack-trends-cloud-based-cyber-attacks-and-the-rise-of-alternative-initial-access-methods</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atomic Stealer: Darktrace’s Investigation of a Growing macOS Threat</title>
+      <link>https://www.darktrace.com/blog/atomic-stealer-darktraces-investigation-of-a-growing-macos-threat</link>
+      <description>Atomic Stealer is rapidly emerging as a significant macOS threat, using infostealing and backdoor capabilities to target Apple users worldwide. Read a real-world story on how this threat was detected.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/atomic-stealer-darktraces-investigation-of-a-growing-macos-threat</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace Identifies APT35 in Pre-Infected State</title>
+      <link>https://www.darktrace.com/blog/apt35-charming-kitten-discovered-in-a-pre-infected-environment</link>
+      <description>Learn how Darktrace identified APT35 (Charming Kitten) in a pre-infected environment. Gain insights into the detection and mitigation of this threat.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/apt35-charming-kitten-discovered-in-a-pre-infected-environment</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AppleScript Abuse: Unpacking a macOS Phishing Campaign</title>
+      <link>https://www.darktrace.com/blog/applescript-abuse-unpacking-a-macos-phishing-campaign</link>
+      <description>A macOS phishing campaign using social engineering, AppleScript loaders, and TCC abuse – highlighting the growing shift toward exploiting user trust over software vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/applescript-abuse-unpacking-a-macos-phishing-campaign</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Antigena Email Version 5: The Future of Email Protection</title>
+      <link>https://www.darktrace.com/blog/antigena-email-version-5-a-matter-of-time</link>
+      <description>Version 5 of Antigena Email enhances security operations with AI-powered threat detection and intuitive reporting for busy security teams.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/antigena-email-version-5-a-matter-of-time</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transform Cloud Operations with Unified Real-Time CDR and Automated Investigations</title>
+      <link>https://www.darktrace.com/blog/announcing-unified-real-time-cdr-and-automated-investigations</link>
+      <description>Darktrace / CLOUD is delivering a truly unified approach to cloud security with automated cloud forensics and real-time CDR.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/announcing-unified-real-time-cdr-and-automated-investigations</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-Day Trojan Attack Caught by Darktrace Appliance</title>
+      <link>https://www.darktrace.com/blog/anatomy-of-a-zero-day-trojan-caught-by-our-darktrace-appliance</link>
+      <description>Hear from a guest author how Darktrace spotted and neutralized a hidden zero-day trojan attack through our Breach Logs and Intrusion Detection System.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/anatomy-of-a-zero-day-trojan-caught-by-our-darktrace-appliance</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amadey Info Stealer and N-Day Vulnerabilities</title>
+      <link>https://www.darktrace.com/blog/amadey-info-stealer-exploiting-n-day-vulnerabilities</link>
+      <description>Understand the implications of the Amadey info stealer on cybersecurity and how it exploits N-day vulnerabilities for data theft.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/amadey-info-stealer-exploiting-n-day-vulnerabilities</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Uncovered: Introducing Darktrace Incident Graph Evaluation for Security Threats (DIGEST)</title>
+      <link>https://www.darktrace.com/blog/ai-uncovered-introducing-darktrace-incident-graph-evaluation-for-security-threats-digest</link>
+      <description>Discover how Darktrace’s new DIGEST model enhances Cyber AI Analyst by using GNNs and RNNs to score and prioritize threats with expert-level precision before damage is done.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-uncovered-introducing-darktrace-incident-graph-evaluation-for-security-threats-digest</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking Major Cyber-Threats of 2018</title>
+      <link>https://www.darktrace.com/blog/ai-reveals-2018s-biggest-cyber-threats-part-two-to-err-is-human</link>
+      <description>In the second installment of a 2-part series, Max Heinemeyer analyzes the rise of deceptive attacks &amp; insider threats found by Darktrace AI in 2018.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-reveals-2018s-biggest-cyber-threats-part-two-to-err-is-human</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Tokyo Olympics: AI Neutralizes IoT Attack</title>
+      <link>https://www.darktrace.com/blog/ai-neutralizes-iot-attack-that-threatened-to-disrupt-the-tokyo-olympics</link>
+      <description>Learn how Darktrace autonomously thwarted a cyber-attack on a national sporting body before the Tokyo Olympics in this detailed breakdown.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-neutralizes-iot-attack-that-threatened-to-disrupt-the-tokyo-olympics</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI/LLM-Generated Malware Used to Exploit React2Shell</title>
+      <link>https://www.darktrace.com/blog/ai-llm-generated-malware-used-to-exploit-react2shell</link>
+      <description>Darktrace identified an AI/LLM generated malware sample exploiting the React2Shell vulnerability within its Cloudypots environment. The incident shows how LLM‑assisted development enables low‑skill attackers to rapidly create effective exploitation tools.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-llm-generated-malware-used-to-exploit-react2shell</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring AI Email Security &amp; Human Behavior</title>
+      <link>https://www.darktrace.com/blog/ai-email-security-understanding-the-human-behind-the-keyboard</link>
+      <description>Read how Darktrace AI is revolutionizing email security. Understand the human behavior of email attacks and how to mitigate your team's malware risks.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-email-security-understanding-the-human-behind-the-keyboard</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered Cloud Security: Darktrace &amp; Google</title>
+      <link>https://www.darktrace.com/blog/ai-cloud-security-with-the-darktrace-immune-system-and-google-packet-mirroring</link>
+      <description>Discover how Darktrace uses AI and Google Packet Mirroring to enhance cloud security. Learn about their innovative immune system approach.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-cloud-security-with-the-darktrace-immune-system-and-google-packet-mirroring</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Against the New Normal in Cybercrime: AI</title>
+      <link>https://www.darktrace.com/blog/ai-automation-and-cybercrime-as-a-service-the-new-normal-facing-defenders</link>
+      <description>This blog outlines research &amp; data points on the evolving threat landscape, the impact of malicious AI, and why proactive cyber readiness is essential.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-automation-and-cybercrime-as-a-service-the-new-normal-facing-defenders</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI and Cybersecurity: Predictions for 2025</title>
+      <link>https://www.darktrace.com/blog/ai-and-cybersecurity-predictions-for-2025</link>
+      <description>Discover the role of AI in shaping cybersecurity predictions for 2025 and how organizations can prepare for emerging threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-and-cybersecurity-predictions-for-2025</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent vs. Agentless Cloud Security: Why Deployment Methods Matter</title>
+      <link>https://www.darktrace.com/blog/agent-vs-agentless-cloud-security-why-deployment-methods-matter</link>
+      <description>Cloud security solutions can be deployed with agentless or agent-based approaches or use a combination of methods. Organizations must weigh which method applies best to the assets and data the tool will protect.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/agent-vs-agentless-cloud-security-why-deployment-methods-matter</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersprint Attack Management Joins Darktrace</title>
+      <link>https://www.darktrace.com/blog/adding-cybersprint-attack-surface-management-to-darktraces-expanding-product-suite</link>
+      <description>Learn how the addition of Cybersprint improves our attack surface management solutions, providing better visibility and security.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/adding-cybersprint-attack-surface-management-to-darktraces-expanding-product-suite</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cactus Ransomware Was Detected and Stopped</title>
+      <link>https://www.darktrace.com/blog/a-thorn-in-attackers-sides-how-darktrace-uncovered-a-cactus-ransomware-infection</link>
+      <description>Discover the tactics used to uncover a Cactus ransomware infection and the implications for cybersecurity defenses.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-thorn-in-attackers-sides-how-darktrace-uncovered-a-cactus-ransomware-infection</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Threat: RedLine Information Stealer</title>
+      <link>https://www.darktrace.com/blog/a-thief-in-red-compliance-and-the-redline-information-stealer</link>
+      <description>Darktrace reveals the compliance risks posed by the RedLine information stealer. Read about their analysis and how to defend against this cyber threat.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-thief-in-red-compliance-and-the-redline-information-stealer</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vidar Network: Analyzing a Prolific Info Stealer</title>
+      <link>https://www.darktrace.com/blog/a-surge-of-vidar-network-based-details-of-a-prolific-info-stealer</link>
+      <description>Discover the latest insights on the Vidar network-based info stealer from our Darktrace experts and stay informed on cybersecurity threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-surge-of-vidar-network-based-details-of-a-prolific-info-stealer</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending AITM Phishing and Mamba Attacks</title>
+      <link>https://www.darktrace.com/blog/a-snake-in-the-net-defending-against-aitm-phishing-threats-and-mamba-2fa</link>
+      <description>Analyze the challenges posed by AITM phishing threats and Mamba 2FA, and discover how to safeguard your systems effectively.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-snake-in-the-net-defending-against-aitm-phishing-threats-and-mamba-2fa</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting &amp; Investigating Lateral Movement</title>
+      <link>https://www.darktrace.com/blog/a-security-analysts-view-detecting-and-investigating-lateral-movement-with-darktrace</link>
+      <description>This guest-authored blog post examines an advanced cyber-threat discovered by Expel, using Darktrace, on a customer’s network.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-security-analysts-view-detecting-and-investigating-lateral-movement-with-darktrace</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why St. Catharines Chose Darktrace for Digital Security</title>
+      <link>https://www.darktrace.com/blog/a-new-sheriff-in-town-why-the-city-of-st-catharines-turned-to-darktrace-to-protect-its-digital-assets</link>
+      <description>Discover why St. Catharines partnered with Darktrace to secure their digital assets and protect against cyber threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-new-sheriff-in-town-why-the-city-of-st-catharines-turned-to-darktrace-to-protect-its-digital-assets</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modern Cyber War: Our Role in New Cyber-Attacks</title>
+      <link>https://www.darktrace.com/blog/a-new-home-front-the-part-we-all-play-in-a-modern-cyber-war</link>
+      <description>Explore the roles we all play in the modern cyber war and how you can protect your digital assets in an evolving threat landscape.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-new-home-front-the-part-we-all-play-in-a-modern-cyber-war</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Botnet Utilizes IoT Drawing Pads for Attacks</title>
+      <link>https://www.darktrace.com/blog/a-new-botnet-discovered-using-iot-drawing-pads-for-reflection-attacks</link>
+      <description>Discover how a new botnet is utilizing IoT drawing pads for reflection attacks. Stay informed on evolving cyber security threats with Darktrace experts.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-new-botnet-discovered-using-iot-drawing-pads-for-reflection-attacks</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qilin RaaS: Darktrace Detection Insights</title>
+      <link>https://www.darktrace.com/blog/a-busy-agenda-darktraces-detection-of-qilin-ransomware-as-a-service-operator</link>
+      <description>Discover Qilin’s tactics and how to stop them. Get a checklist for responders. Read and strengthen defenses today.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-busy-agenda-darktraces-detection-of-qilin-ransomware-as-a-service-operator</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Stages of Ransomware &amp; How AI Responds</title>
+      <link>https://www.darktrace.com/blog/9-stages-of-ransomware-how-ai-responds-at-every-stage</link>
+      <description>Discover the 9 stages of ransomware attacks and how AI responds at each stage. Learn how you can protect your business from cyber threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/9-stages-of-ransomware-how-ai-responds-at-every-stage</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>70 million in Cybersecurity Funding for Electric Cooperatives &amp; Utilities</title>
+      <link>https://www.darktrace.com/blog/70-million-in-cyber-security-funding-for-electric-cooperatives-utilities</link>
+      <description>Discover how the Bipartisan Infrastructure Law and its $250M Rural and Municipal Utility Cybersecurity Program empower electric cooperatives and municipalities to strengthen cybersecurity. Learn how innovative tools like anomaly detection, IT/OT integration, and AI-driven solutions enhance resilience against modern threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/70-million-in-cyber-security-funding-for-electric-cooperatives-utilities</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace Detection of 3CX Supply Chain Attack</title>
+      <link>https://www.darktrace.com/blog/3cx-supply-chain-compromise-how-darktrace-uncovered-a-smooth-operator</link>
+      <description>Explore how the 3CX supply chain compromise was uncovered, revealing key insights into the detection of sophisticated cyber threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/3cx-supply-chain-compromise-how-darktrace-uncovered-a-smooth-operator</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unraveling 2016 Election Tampering Controversy</title>
+      <link>https://www.darktrace.com/blog/2016-the-year-of-election-tampering</link>
+      <description>While the 2016 U.S. election was roiled by fears over election tampering, it generated discussion on the intersection of cyber-security &amp; voting.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/2016-the-year-of-election-tampering</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Cyjax Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:39 +0000</lastBuildDate>
+    <item>
+      <title>Alert Fatigue in Cybersecurity: What Is It and how do we manage it? - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cybersecurity-alert-fatigue</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybersecurity-alert-fatigue</guid>
+    </item>
+    <item>
+      <title>Cybercriminals targeting the legal sector - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cybercriminals-targeting-the-legal-sector</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybercriminals-targeting-the-legal-sector</guid>
+    </item>
+    <item>
+      <title>Cybercriminal Forums and the Russian Language Scene - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cybercriminal-forums-and-the-russian-language-scene</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybercriminal-forums-and-the-russian-language-scene</guid>
+    </item>
+    <item>
+      <title>Cyberattacks on the utilities sector - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyberattacks-on-the-utilities-sector</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyberattacks-on-the-utilities-sector</guid>
+    </item>
+    <item>
+      <title>Cyber threats and the energy sector: an overview - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threats-and-the-energy-sector-an-overview</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threats-and-the-energy-sector-an-overview</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence Trends Financial Institutions Can’t Ignore in 2026 - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026</link>
+      <description>Financial institutions face growing cyber risk as AI-driven attacks, cloud complexity, and regulatory pressure reshape the threat landscape. This blog explores the cyber threat intelligence trends shaping financial services in 2026 and what organisations need to prepare for.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence to Counter Activist Campaigners - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</guid>
+    </item>
+    <item>
+      <title>Cyber Supply Chain Risk Management: Challenges and Best Practices - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-supply-chain-risk-management-challenges-and-best-practices</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-supply-chain-risk-management-challenges-and-best-practices</guid>
+    </item>
+    <item>
+      <title>Cyber (non)cooperation in the Gulf - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-noncooperation-in-the-gulf</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-noncooperation-in-the-gulf</guid>
+    </item>
+    <item>
+      <title>Cryptocurrency Threat Landscape Report – Q2 2023 - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cryptocurrency-threat-landscape-report-q2-2023</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cryptocurrency-threat-landscape-report-q2-2023</guid>
+    </item>
+    <item>
+      <title>Cryptocurrency Threat Landscape Report: A Year in Review 2022 - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cryptocurrency-threat-landscape-report-a-year-in-review-2022-2</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cryptocurrency-threat-landscape-report-a-year-in-review-2022-2</guid>
+    </item>
+    <item>
+      <title>Credential harvesting campaigns target governments and cybersecurity companies - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/credential-harvesting-campaigns-target-governments-and-cybersecurity-companies</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/credential-harvesting-campaigns-target-governments-and-cybersecurity-companies</guid>
+    </item>
+    <item>
+      <title>Credential harvesting campaign targets government, military, and private sector organisations - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/credential-harvesting-campaign-targets-government-military-and-private-sector-organisations</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/credential-harvesting-campaign-targets-government-military-and-private-sector-organisations</guid>
+    </item>
+    <item>
+      <title>COVID-19 Cyber Situation Update - 31 March - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/covid-19-cyber-situation-update-31-march</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/covid-19-cyber-situation-update-31-march</guid>
+    </item>
+    <item>
+      <title>COVID-19 Cyber Situation Report - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/covid-19-cyber-situation-report</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/covid-19-cyber-situation-report</guid>
+    </item>
+    <item>
+      <title>Core access: an analysis of the UK government’s demand to Apple - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/core-access-an-analysis-of-the-uk-governments-demand-to-apple</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/core-access-an-analysis-of-the-uk-governments-demand-to-apple</guid>
+    </item>
+    <item>
+      <title>ConVErsations: Criminal Discussion of Vulnerabilities and Exploits - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/conversations-criminal-discussion-of-vulnerabilities-and-exploits</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/conversations-criminal-discussion-of-vulnerabilities-and-exploits</guid>
+    </item>
+    <item>
+      <title>ContFRaversy in Ransomland: Tor-based site emerges for new French-speaking RaaS operation “ContFR” - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/contfraversy-in-ransomland-tor-based-site-emerges-for-new-french-speaking-raas-operation-contfr</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/contfraversy-in-ransomland-tor-based-site-emerges-for-new-french-speaking-raas-operation-contfr</guid>
+    </item>
+    <item>
+      <title>Conflict between US and Iran escalates to new level - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/conflict-between-us-and-iran-escalates-to-new-level</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/conflict-between-us-and-iran-escalates-to-new-level</guid>
+    </item>
+    <item>
+      <title>Build vs. Buy: What’s the Best Threat Intelligence Approach? - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/build-vs-buy-whats-the-best-threat-intelligence-approach</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/build-vs-buy-whats-the-best-threat-intelligence-approach</guid>
+    </item>
+    <item>
+      <title>Bridging the Gap: How CISOs Can Strengthen Relationships with the Board - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board</guid>
+    </item>
+    <item>
+      <title>Beyond the Threats: The People of CYJAX - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-5</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-5</guid>
+    </item>
+    <item>
+      <title>Beyond the Threats: The People of CYJAX - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-4</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-4</guid>
+    </item>
+    <item>
+      <title>Beyond the Threats: The People of CYJAX - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-3</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-3</guid>
+    </item>
+    <item>
+      <title>Beyond the Threats: The People of Cyjax - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-2</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-2</guid>
+    </item>
+    <item>
+      <title>Beyond the Threats: The People of Cyjax - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax</guid>
+    </item>
+    <item>
+      <title>Beyond The Breach: How Businesses Can Recover and Rebuild Trust - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/beyond-the-breach-how-businesses-can-recover-and-rebuild-trust</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/beyond-the-breach-how-businesses-can-recover-and-rebuild-trust</guid>
+    </item>
+    <item>
+      <title>Behind Closed Channels: The Firearms Black Market on Telegram - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/behind-closed-channels-the-firearms-black-market-on-telegram</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/behind-closed-channels-the-firearms-black-market-on-telegram</guid>
+    </item>
+    <item>
+      <title>Babuk Ba-back? Potential Return of the Infamous RaaS Group - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/babuk-ba-back-potential-return-of-the-infamous-raas-group</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/babuk-ba-back-potential-return-of-the-infamous-raas-group</guid>
+    </item>
+    <item>
+      <title>ARaaStocracy - RALord ransomware emerges with new DLS - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/araastocracy-ralord-ransomware-emerges-with-new-dls</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/araastocracy-ralord-ransomware-emerges-with-new-dls</guid>
+    </item>
+    <item>
+      <title>An exploration of information exposure on document sharing platforms - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/an-exploration-of-information-exposure-on-document-sharing-platform</link>
+      <description>Employees (and even individuals) are unwittingly leaking sensitive data when uploading documents to public sharing platforms. Internal docs, email threads, credentials, and medical reports - all made public because default settings or Google indexing expose them. What appears to be innocent or routine sharing can turn into a threat, including cyberespionage, reputational damage, and insider risk. Awareness and strict document-handling policies aren’t nice to have - they’re essential.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/an-exploration-of-information-exposure-on-document-sharing-platform</guid>
+    </item>
+    <item>
+      <title>An elephant in Kairos: data-leak site emerges for new extortion group - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/an-elephant-in-kairos-data-leak-site-emerges-for-new-extortion-group</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/an-elephant-in-kairos-data-leak-site-emerges-for-new-extortion-group</guid>
+    </item>
+    <item>
+      <title>An Analysis of the Impact of Trump’s US Election Victory in the Middle East - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/an-analysis-of-the-impact-of-trumps-us-election-victory-in-the-middle-east</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/an-analysis-of-the-impact-of-trumps-us-election-victory-in-the-middle-east</guid>
+    </item>
+    <item>
+      <title>Living Up to Its Name: Alleged Extortion Group LeakedData Begins to Leak Data - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/alleged-extortion-group-leakeddata-begins-to-leak-data</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/alleged-extortion-group-leakeddata-begins-to-leak-data</guid>
+    </item>
+    <item>
+      <title>AI Is Fast – But Humans Are Smarter: Why Analyst Insight Still Wins in Cybersecurity  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity</link>
+      <description>AI accelerates detection, but human analysts deliver context, judgement and strategic insight. In modern cybersecurity, the real advantage lies in combining both.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity</guid>
+    </item>
+    <item>
+      <title>Persistent AgentTesla campaign targeting the UAE - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-persistent-agenttesla-campaign-is-targeting-the-uae</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-persistent-agenttesla-campaign-is-targeting-the-uae</guid>
+    </item>
+    <item>
+      <title>A new type of infected machine - New DLS emerges for anthrax14 - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-new-type-of-infected-machine-new-dls-emerges-for-anthrax14</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-new-type-of-infected-machine-new-dls-emerges-for-anthrax14</guid>
+    </item>
+    <item>
+      <title>A Guide to Working in Threat Intelligence - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-guide-to-working-in-threat-intelligence</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-guide-to-working-in-threat-intelligence</guid>
+    </item>
+    <item>
+      <title>The Ultimate Guide To Ransomware: Understanding, Identifying and Preventing Attacks - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-guide-to-ransomware-identify-and-defend-against-cyberattacks</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-guide-to-ransomware-identify-and-defend-against-cyberattacks</guid>
+    </item>
+    <item>
+      <title>A DLS EMERGEncy! -  Record breaking extortion group DLS emergence in 2025 - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-dls-emergency-record-breaking-extortion-group-dls-emergence-in-2025</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-dls-emergency-record-breaking-extortion-group-dls-emergence-in-2025</guid>
+    </item>
+    <item>
+      <title>A comprehensive synopsis of 217 subdomain takeover reports - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-comprehensive-synopsis-of-217-subdomain-takeover-reports</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-comprehensive-synopsis-of-217-subdomain-takeover-reports</guid>
+    </item>
+    <item>
+      <title>A Brief History of Threat Intelligence: How We Got Here - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-brief-history-of-threat-intelligence-how-we-got-here</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-brief-history-of-threat-intelligence-how-we-got-here</guid>
+    </item>
+    <item>
+      <title>2024 Year in Review: ransomware groups, hacktivists, and IABs targeting the Middle East - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/2024-year-in-review-ransomware-groups-hacktivists-and-iabs-targeting-the-middle-east</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/2024-year-in-review-ransomware-groups-hacktivists-and-iabs-targeting-the-middle-east</guid>
+    </item>
+    <item>
+      <title>2020 Mid-Year CISO Report - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/2020-mid-year-ciso-report</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/2020-mid-year-ciso-report</guid>
+    </item>
+    <item>
+      <title>COVID-19 Critical Infrastructure Cyber Threat Brief - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/covid-19-critical-infrastructure-cyber-threat-brief</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/covid-19-critical-infrastructure-cyber-threat-brief</guid>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyjax Geopolitical Podcast - April 2020 - The Blog - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyjax-geopolitical-podcast-april-2020-the-blog</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-geopolitical-podcast-april-2020-the-blog</guid>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity certification and the 'skills gap' - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cybersecurity-certification-and-the-skills-gap</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybersecurity-certification-and-the-skills-gap</guid>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyjax White Paper on Russia and China in Africa: Synopsis - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyjax-white-paper-on-russia-and-china-in-africa-synopsis</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-white-paper-on-russia-and-china-in-africa-synopsis</guid>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence Update: Data Breach, Ransomware Trends, and Emerging AI Threats - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-update-data-breach-ransomware-trends-and-emerging-ai-threats</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-update-data-breach-ransomware-trends-and-emerging-ai-threats</guid>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Sting on Bing: Bumblebee delivered through Bing SEO poisoning campaign - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign</link>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

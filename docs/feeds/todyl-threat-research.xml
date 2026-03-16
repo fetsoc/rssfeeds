@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Todyl Threat Research</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/todyl-threat-research.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/todyl-threat-research.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:46:14 +0000</lastBuildDate>
+    <item>
+      <title>The Soze Syndicate - Business Email Compromise Campaign | Todyl</title>
+      <link>https://www.todyl.com/threat-research/the-soze-syndicate</link>
+      <description>The Todyl MXDR team recently uncovered a massive identity attack infrastructure spanning thousands of hosts focused on account takeover and BEC. Learn more here.</description>
+      <guid isPermaLink="false">https://www.todyl.com/threat-research/the-soze-syndicate</guid>
+    </item>
+  </channel>
+</rss>

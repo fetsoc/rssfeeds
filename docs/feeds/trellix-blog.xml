@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Trellix Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/trellix-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trellix-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:48:04 +0000</lastBuildDate>
+    <item>
+      <title>Join #TeamTrellix at RSAC 2023</title>
+      <link>https://www.trellix.com/blogs/perspectives/join-team-trellix-at-rsac-2023/</link>
+      <description>We can’t wait to join our customers, partners and peers in San Francisco this April 24-27, and will be showing off #TeamTrellix at the show and online. For the latest information and announcements surrounding RSAC 2023, be sure to follow @Trellix and @RSAConference, and our event site here.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/join-team-trellix-at-rsac-2023/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What International Women's Day Means to Me</title>
+      <link>https://www.trellix.com/blogs/perspectives/what-international-womens-day-means-to-me/</link>
+      <description>Trellix Chief Product Officer Aparna Rayasam shares what IWD means to her, both as a female leader in the cybersecurity industry and mother of two daughters.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/what-international-womens-day-means-to-me/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trellix Email Security Recognized Among Notable Enterprise Email Security Vendors</title>
+      <link>https://www.trellix.com/blogs/perspectives/trellix-email-security-recognized-among-notable-enterprise-email-security-vendors/</link>
+      <description>I'm delighted of course that Trellix Email Security has been recognized among Notable Vendors in The Enterprise Email Security Landscape, Q1 2023</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/trellix-email-security-recognized-among-notable-enterprise-email-security-vendors/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating Black History</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrating-black-history/</link>
+      <description>Every February for more than 40 years, we’ve celebrated Black History Month in the United States and Canada, a celebration that for many of our European counterparts happens in October.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrating-black-history/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT: A future friend or foe?</title>
+      <link>https://www.trellix.com/blogs/perspectives/chatgpt-a-future-friend-or-foe/</link>
+      <description>ChatGPT is an AI-powered chatbot that uses natural language processing. It has the potential for malicious activities but can also possibly be used for cybersecurity. This blog post explores both the bad and the good and how customers can currently protect themselves using Trellix email security and cyber threat intelligence.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/chatgpt-a-future-friend-or-foe/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Trellix Xtend Global Partner Program Accelerates Business Growth and Customer Resilience</title>
+      <link>https://www.trellix.com/blogs/perspectives/new-trellix-xtend-global-partner-program-accelerates-business-growth-and-customer-resilience/</link>
+      <description>Join the new Trellix Xtend Global Partner Program to increase profitability through leading XDR solutions that are designed to better protect customers.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/new-trellix-xtend-global-partner-program-accelerates-business-growth-and-customer-resilience/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Era of Geopolitical Instability and Economic Uncertainty a Perfect Storm for Cyber Criminals</title>
+      <link>https://www.trellix.com/blogs/perspectives/a-perfect-storm-for-cyber-criminals/</link>
+      <description>The return of war in Europe has also served as a wake-up call for those questioning the EU’s approach to security and defense and its ability to defend its interests, particularly in cyberspace.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/a-perfect-storm-for-cyber-criminals/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2022 Media Guide to Busting Election Security Myths</title>
+      <link>https://www.trellix.com/blogs/perspectives/the-2022-media-guide-to-busting-election-security-myths/</link>
+      <description>This latest in Trellix’s series of 2022 Election Security blogs seeks to put guidance from government officials in simple terms to help media spot, question and bust eight election security myths with the potential to emerge in the coming critical weeks leading up to and after November’s midterm elections.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/the-2022-media-guide-to-busting-election-security-myths/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to expect at Trellix Xpand Live 2022</title>
+      <link>https://www.trellix.com/blogs/perspectives/what-to-expect-at-trellix-xpand-live-2022/</link>
+      <description>Join #TeamTrellix for the first-ever Trellix Xpand Live September 27-29, at the Aria Hotel in Las Vegas, where the world’s largest network of cybersecurity experts will unite in our shared mission: To power a resilient, thriving world!</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/what-to-expect-at-trellix-xpand-live-2022/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Look into Trellix’s Inaugural Xpand Partner Summit</title>
+      <link>https://www.trellix.com/blogs/perspectives/first-look-into-trellix-inaugural-xpand-partner-summit/</link>
+      <description>Join Trellix at Xpand - First look into Trellix’s inaugural Xpand Partner Summit</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/first-look-into-trellix-inaugural-xpand-partner-summit/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trellix Welcomes Karan Sondhi as Public Sector CTO, And More</title>
+      <link>https://www.trellix.com/blogs/perspectives/trellix-welcomes-karan-sondhi-as-public-sector-cto/</link>
+      <description>This week, Trellix announced that Karan Sondhi will be joining us as Chief Technology Officer for Public Sector. In this role, he will define and lead the implementation of the company’s public sector technology strategy.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/trellix-welcomes-karan-sondhi-as-public-sector-cto/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soulful Automation: Maximizing Machine Learning  for Efficiency and a Higher Purpose</title>
+      <link>https://www.trellix.com/blogs/perspectives/soulful-automation-maximizing-machine-learning/</link>
+      <description>Cybersecurity faces a talent desert amid grave cyberthreats. Machine Learning and Automation can help, and so will open frameworks for industry collaboration.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/soulful-automation-maximizing-machine-learning/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recognizing Hispanic Heritage Month</title>
+      <link>https://www.trellix.com/blogs/perspectives/recognizing-hispanic-heritage-month/</link>
+      <description>As you may know, Hispanic Heritage Month is September 15 through October 15 every year. In honor of the occasion, I wanted to celebrate our Hispanic team members here at Trellix, along with current and prospective candidates as well.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/recognizing-hispanic-heritage-month/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing the Customer Cloud Journey on the AWS Marketplace</title>
+      <link>https://www.trellix.com/blogs/perspectives/securing-the-customer-cloud-journey-on-aws-marketplace/</link>
+      <description>Our team understands the critical role organizations like AWS play in efforts to drive premium threat detection no matter a customer’s security architecture. We continuously look for partners with a similar desire to grow and innovate to relieve pain points for SecOps teams.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/securing-the-customer-cloud-journey-on-aws-marketplace/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soulful Work: Diversity in  Recruitment and Development</title>
+      <link>https://www.trellix.com/blogs/perspectives/soulful-work-diversity-in-recruitment-development/</link>
+      <description>At Trellix, we are driven to help those who dedicate themselves to cybersecurity – whether they work at Trellix or elsewhere. Trellix is taking concrete steps to increase diversity and foster a culture of soulful work through programs and parternerships that open pathways for traditionally underrepresented communities.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/soulful-work-diversity-in-recruitment-development/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Attacks and Ransom Payments Enabled by Cryptocurrency</title>
+      <link>https://www.trellix.com/blogs/perspectives/ransomware-attacks-ransom-payments/</link>
+      <description>Highlights on the rising threats of ransomware attacks and ransom payments, enabled by cryptocurrency. This blog outlines why this is a concerning trend and how Trellix helps organizations detect, respond to remediate threats to be better prepared.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/ransomware-attacks-ransom-payments/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join #TeamTrellix at Black Hat USA 2022</title>
+      <link>https://www.trellix.com/blogs/perspectives/join-trellix-at-black-hat-usa-2022/</link>
+      <description>This blog highlights Trellix’s presence at the 25th annual Black Hat USA 2022 taking place in Las Vegas from August 10 -11.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/join-trellix-at-black-hat-usa-2022/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CRN® Honors Trellix’s CEO Bryan Palma in 2022 Top 100 Executives List</title>
+      <link>https://www.trellix.com/blogs/perspectives/crn-honors-trellix-ceo-bryan-palma-in-2022-top-100-executives-list/</link>
+      <description>CRN®, Computer Reseller News part of the Channel Company, recognized Trellix CEO, Bryan Palma, on this year’s Top 100 Executives list in the Disruptor category.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/crn-honors-trellix-ceo-bryan-palma-in-2022-top-100-executives-list/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kickin’ It Up at Trellix: We’re Having Fun</title>
+      <link>https://www.trellix.com/blogs/perspectives/kickin-it-up-at-trellix/</link>
+      <description>At Trellix, we are passionate about our work. We are excited about our future as the leader in XDR. And we believe work should be fun, as often as practically possible.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/kickin-it-up-at-trellix/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NDAA'S Cybersecurity Scholarship For Service: A Step in the Right Direction</title>
+      <link>https://www.trellix.com/blogs/perspectives/ndaas-cybersecurity-scholarship-for-service/</link>
+      <description>We believe that cybersecurity is, without a doubt, the United States' most important line of defense.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/ndaas-cybersecurity-scholarship-for-service/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating Trellix Interns &amp; the Next Generation of Cybersecurity Leaders</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrating-trellix-interns/</link>
+      <description>We’re honored to celebrate more than 100 global interns who joined us this year to learn, develop new skills, challenge themselves and flourish as leaders.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrating-trellix-interns/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating Cybersecurity Education</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrating-cybersecurity-education/</link>
+      <description>One of the reasons I think Trellix is different is that we are optimistic, confident and even a bit impatient about how we want to shape tomorrow. You’ll see that in everything we do.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrating-cybersecurity-education/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrate Independence &amp; Cybersecurity’s Soulful Work</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrate-independence-cybersecuritys-soulful-work/</link>
+      <description>For many of us who celebrate Independence Day in the U.S., it is barbecue and fireworks time again this week. As I relaxed with my family on July 4th, I found myself thinking about other celebrations of national independence.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrate-independence-cybersecuritys-soulful-work/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partner Relationships: We are in this Together</title>
+      <link>https://www.trellix.com/blogs/perspectives/partner-relationships-we-are-in-this-together/</link>
+      <description>This is a first  in a series of blog posts for the next several months where Channel Chief, Britt Norwood and his team will bring monthly updates, insights and previews into what partners can expect from Trellix and the opportunities available to our partner community leading up the partner program launch in January 2023.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/partner-relationships-we-are-in-this-together/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero Care About Zero Days | Trellix</title>
+      <link>https://www.trellix.com/blogs/perspectives/zero-care-about-zero-days/</link>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/zero-care-about-zero-days/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fighting Supply Chain Threats Is Complicated</title>
+      <link>https://www.trellix.com/blogs/perspectives/fighting-supply-chain-threats-is-complicated0/</link>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/fighting-supply-chain-threats-is-complicated0/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I Do Soulful Work</title>
+      <link>https://www.trellix.com/blogs/perspectives/i-do-soulful-work/</link>
+      <description>What will it take to attract a new talent? How can we bridge the gap between the demand and supply for cybersecurity experts? What can we do as allies and champions to foster a more inclusive, fulfilling and productive future?</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/i-do-soulful-work/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud API Services, Apps and Containers Target in 2022 | Trellix</title>
+      <link>https://www.trellix.com/blogs/perspectives/cloud-api-services-apps-and-containers-will-be-targeted-in-2022/</link>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cloud-api-services-apps-and-containers-will-be-targeted-in-2022/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating Pride Month</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrating-pride-month/</link>
+      <description>June is widely celebrated as LGBTQ Pride month. Speaking on behalf of our leadership team here at Trellix, this is a milestone that matters to us – a fundamental core value of Trellix is Open.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrating-pride-month/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trellix Survey Findings: A Closer Look at the Cyber Talent Gap</title>
+      <link>https://www.trellix.com/blogs/perspectives/trellix-survey-findings-a-closer-look-at-the-cyber-talent-gap/</link>
+      <description>The results of a survey commissioned and release by Trellix this week shows 85% of respondents believe the workforce shortage is impacting their organization’s abilities to secure increasingly complex information systems and networks.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/trellix-survey-findings-a-closer-look-at-the-cyber-talent-gap/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Readiness of U.S. State &amp; Local Government</title>
+      <link>https://www.trellix.com/blogs/perspectives/cyber-readiness-of-us-state-local-government/</link>
+      <description>This blog discusses the cyber readiness of critical infrastructure run by U.S. state and local government (SLG) entities.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cyber-readiness-of-us-state-local-government/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Readiness of Oil &amp; Gas Sector</title>
+      <link>https://www.trellix.com/blogs/perspectives/cyber-readiness-of-us-oil-gas-sector/</link>
+      <description>This blog focuses on the report’s findings from the oil and gas sector, which has been increasingly victimized in the U.S. and Europe over the last year by cyber-attacks.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cyber-readiness-of-us-oil-gas-sector/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Readiness of US Healthcare</title>
+      <link>https://www.trellix.com/blogs/perspectives/cyber-readiness-of-us-healthcare/</link>
+      <description>This blog focuses on the cyber readiness of the U.S. healthcare sector, which traditionally lags due to under investment and simple neglect.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cyber-readiness-of-us-healthcare/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Readiness in Asia Pacific Region</title>
+      <link>https://www.trellix.com/blogs/perspectives/cyber-readiness-in-asia-pacific-region/</link>
+      <description>This blog focuses on the Asia Pacific results of a survey commissioned by Trellix and conducted by Vanson Bourne in late 2021 for the Trellix Cyber Readiness Report.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cyber-readiness-in-asia-pacific-region/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Readiness in Europe</title>
+      <link>https://www.trellix.com/blogs/perspectives/cyber-readiness-in-europe/</link>
+      <description>Concerns over cyber-warfare activity in Ukraine has rekindled discussion of the cyber readiness of government agencies and critical infrastructure in Europe.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cyber-readiness-in-europe/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-State Cyber Threats: Five Questions MSSPs Must Ask Themselves</title>
+      <link>https://www.trellix.com/blogs/perspectives/nation-state-cyber-threats-five-questions-mssps-must-ask-themselves/</link>
+      <description>With the attack on Kaseya, MSPs are attractive to cybercriminals and from SolarWinds research we know that IT service providers are a growing target of nation-state actors.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/nation-state-cyber-threats-five-questions-mssps-must-ask-themselves/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation-State Threat Actors &amp; Consumer Protection</title>
+      <link>https://www.trellix.com/blogs/perspectives/nation-state-threat-actors-and-consumer-protection/</link>
+      <description>This report looks into how organizations across sectors prepare for and respond to cybersecurity activity from cybercriminals and attacks by governments.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/nation-state-threat-actors-and-consumer-protection/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cultivating the Next Generation of Cybersecurity Experts</title>
+      <link>https://www.trellix.com/blogs/perspectives/cultivating-the-next-generation-of-cybersecurity-experts/</link>
+      <description>As cybersecurity threats from nation-state actors grow in volume and sophistication, the worldwide shortage of cybersecurity professionals grows as well.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cultivating-the-next-generation-of-cybersecurity-experts/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trellix Stands for Peace</title>
+      <link>https://www.trellix.com/blogs/perspectives/trellix-stands-for-peace/</link>
+      <description>Trellix stands with friends, family, our partners and customers in Ukraine.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/trellix-stands-for-peace/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let’s Celebrate International Women’s Day 365 Times a Year</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrate-international-womens-day/</link>
+      <description>Today, we celebrate International Women’s Day, a global day for championing the social, economic, cultural, and political achievements of women.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrate-international-womens-day/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the 2022 CRN Channel Chiefs Leaders from Trellix</title>
+      <link>https://www.trellix.com/blogs/perspectives/meet-the-2022-crn-channel-chiefs-leaders-from-trellix/</link>
+      <description>In February, CRN, a brand of The Channel Company, recognized three of our finest leaders on the 2022 Channel Chiefs list.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/meet-the-2022-crn-channel-chiefs-leaders-from-trellix/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Transformation Needs a New Name</title>
+      <link>https://www.trellix.com/blogs/perspectives/digital-transformation-needs-a-new-name/</link>
+      <description>It’s time to shift our strategies, mindsets and language from transformation to reinvention.  From almost-there to always-on. From static to living.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/digital-transformation-needs-a-new-name/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honoring Black History Month</title>
+      <link>https://www.trellix.com/blogs/perspectives/honoring-black-history-month/</link>
+      <description>February kicks off Black History celebrations in the United States and Canada, and continues throughout the year to October in the UK, Ireland, Spain and Germany. In the United States, Black History Month (BHM) is a federally recognized celebration of the contributions African Americans have made and a time to reflect on the continued fight against racial injustice and inequality.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/honoring-black-history-month/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>With Trellix, the Future of Cybersecurity is Now</title>
+      <link>https://www.trellix.com/blogs/perspectives/our-ceo-on-living-security/</link>
+      <description>Introducing Trellix, redefining cybersecurity with our incredible expertise and portfolio focused on advanced detection, response and remediation.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/our-ceo-on-living-security/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fighting Supply Chain Threats is Complicated</title>
+      <link>https://www.trellix.com/blogs/perspectives/fighting-supply-chain-threats-is-complicated/</link>
+      <description>Regardless of supply chain uncertainties and complications, protection still starts from within when you’re working with multiple partners and levels of security.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/fighting-supply-chain-threats-is-complicated/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Planting Seeds Today for the Possibilities of Tomorrow</title>
+      <link>https://www.trellix.com/blogs/perspectives/planting-seeds-today-for-the-possibilities-of-tomorrow/</link>
+      <description>Our passion will drive better outcomes, achieved by learning and adapting, and then learning and adapting even more.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/planting-seeds-today-for-the-possibilities-of-tomorrow/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Look Alive Out There</title>
+      <link>https://www.trellix.com/blogs/perspectives/look-alive-out-there/</link>
+      <description>Imagine if security could learn and adapt, be always-on and living, and act as a catalyst for growth instead of a hinderance keeping us awake at night?</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/look-alive-out-there/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating Pride Month: Embracing Inclusivity in Cybersecurity</title>
+      <link>https://www.trellix.com/blogs/perspectives/celebrating-pride-month-embracing-inclusivity-in-cybersecurity/</link>
+      <description>Hear from some of the Trellix Pride Voice employee resource group on what Pride Month means to them.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/celebrating-pride-month-embracing-inclusivity-in-cybersecurity/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Integration with OpenDXL</title>
+      <link>https://www.trellix.com/blogs/perspectives/chatgpt-integration-with-opendxl/</link>
+      <description>In this blog post we'll guide you through the OpenDXL Python Client installation and two different OpenDXL integrations using OpenAI's ChatGPT.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/chatgpt-integration-with-opendxl/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISOs: Cyber Criminals Don’t Want You to Know This One Weird Trick to Alleviate Insider Threat Nightmares</title>
+      <link>https://www.trellix.com/blogs/perspectives/cisos-cyber-criminals-dont-want-you-to-know-this-one-weird-trick-to-alleviate-insider-threat-nightmares/</link>
+      <description>Threats from malicious insiders can be particularly hard to disrupt. Learn about the steps in the insider threat kill chain, and detailed counter measures you can take to protect your organization.</description>
+      <guid isPermaLink="false">https://www.trellix.com/blogs/perspectives/cisos-cyber-criminals-dont-want-you-to-know-this-one-weird-trick-to-alleviate-insider-threat-nightmares/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

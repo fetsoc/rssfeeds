@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SonicWall Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:10 +0000</lastBuildDate>
+    <item>
+      <title>NSM 3.5 SaaS: Built-In Security for Firewall Management</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</link>
+      <description>NSM 3.5 SaaS integrates credential protection, secure backups and advanced analytics directly into firewall management workflows.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</guid>
+    </item>
+    <item>
+      <title>Multiple vulnerabilities in SolarWinds Web Help Desk Leading to RCE: CVE-2025-40551</title>
+      <link>https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a critical vulnerability chain in SolarWinds Web Help Desk (WHD), assessed its impact and developed mitigation measures. SolarWinds WHD is an IT Ticketing and Asset Management solution designed for small-to-medium IT teams to automate service requests and track hardware/software inventory.
+The issues, tracked as CVE-2025-40536 (Security Protection Bypass) and CVE-2025-40551 (a deserialization bypass in the AjaxProxy functionality), impact all versions prior to 2026.1. When chained together, these flaws allow unauthenticated remote attackers to execute arbitrary code on the server. Given the widespread use of SolarWinds WHD, organizations are strongly advised to apply the vendor-provided updates as soon as possible.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</guid>
+    </item>
+    <item>
+      <title>SonicWall 2026 Partner Awards: Honoring Global Excellence</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-s-2026-partner-awards-celebrating-the-partners-powering-sonicwall-s-global-success</link>
+      <description>SonicWall recognizes 113 global partners for innovation, growth and cybersecurity excellence in the 2026 Partner Awards.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-2026-partner-awards-celebrating-the-partners-powering-sonicwall-s-global-success</guid>
+    </item>
+    <item>
+      <title>Streamline Security and Reduce Overhead with NSM</title>
+      <link>https://www.sonicwall.com/blog/consistent-security-less-overhead-help-your-customers-do-more-with-sonicwall-nsm</link>
+      <description>Help your customers simplify firewall management and gain visibility with SonicWall NSM</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/consistent-security-less-overhead-help-your-customers-do-more-with-sonicwall-nsm</guid>
+    </item>
+    <item>
+      <title>Why Policy Deployment Speed Matters for Security</title>
+      <link>https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</link>
+      <description>Without rapid deployment, even the best policies fall short. Discover how SonicWall NSM enables centralized, fast firewall policy enforcement.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</guid>
+    </item>
+    <item>
+      <title>Save Time and Budget with NSM Remote Deployment</title>
+      <link>https://www.sonicwall.com/blog/how-nsm-zero-touch-simplifies-deployment-and-preserves-budget-and-resources</link>
+      <description>See how SonicWall NSM simplifies firewall deployment and reduces costs through zero-touch provisioning and remote management.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-nsm-zero-touch-simplifies-deployment-and-preserves-budget-and-resources</guid>
+    </item>
+    <item>
+      <title>Visibility, Visibility, Visibility: Your Greatest Ally</title>
+      <link>https://www.sonicwall.com/blog/visibility-visibility-visibility-your-greatest-ally</link>
+      <description>SonicWall Partners leverage the visibility delivered by Network Security Management (NSM) to be their greatest ally in maintaining a comprehensive view of every network element that can create disaster for their customers.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/visibility-visibility-visibility-your-greatest-ally</guid>
+    </item>
+    <item>
+      <title>Keep Client Configurations When Upgrading to Next-Gen SonicWall Firewalls</title>
+      <link>https://www.sonicwall.com/blog/keep-client-configurations-when-upgrading-to-next-gen-sonicwall-firewalls</link>
+      <description>As partners migrate their clients from SonicWall Gen 6 firewalls to Gen 7 and Gen 8, maintaining the existing device configurations becomes a key consideration. SonicWall’s Network Security Manager (NSM) includes a powerful migration utility that automatically translates legacy configurations to the new standard, saving time and reducing complexity.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/keep-client-configurations-when-upgrading-to-next-gen-sonicwall-firewalls</guid>
+    </item>
+    <item>
+      <title>Why Firewall Upgrades Matter for MSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</link>
+      <description>Upgrading isn’t just new features. See how SonicWall firewalls give MSPs stronger security, faster performance, and new service revenue.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</guid>
+    </item>
+    <item>
+      <title>UPGRADE ADVANTAGE:  Cost Savings for MSPs &amp; MSSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-cost-savings-for-msps-mssps</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-cost-savings-for-msps-mssps</guid>
+    </item>
+    <item>
+      <title>Future-Proofing with SonicWall: Upgrade Advantage</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-future-proofing-for-partners-msps-and-mssps</link>
+      <description>Discover how SonicWall upgrades deliver stronger security today while positioning partners for resilience, growth, and long-term customer loyalty.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-future-proofing-for-partners-msps-and-mssps</guid>
+    </item>
+    <item>
+      <title>Upgrade Advantage: More Value, Less Effort for MSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-more-value-less-effort-for-partners-msps-mssps</link>
+      <description>Learn how SonicWall upgrades unlock unified management, AI-driven insights and partner-ready services that boost efficiency and revenue.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-more-value-less-effort-for-partners-msps-mssps</guid>
+    </item>
+    <item>
+      <title>How SourcePass Gains a Competitive Edge with SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-sourcepass-turns-firewall-upgrades-into-a-competitive-edge</link>
+      <description>Discover how SourcePass uses SonicWall firewall upgrades to strengthen security, streamline operations, and build lasting customer trust.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-sourcepass-turns-firewall-upgrades-into-a-competitive-edge</guid>
+    </item>
+    <item>
+      <title>Atomgate Strengthens Security Through SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-atomgate-uses-education-and-partnership-to-drive-successful-sonicwall-upgrades</link>
+      <description>See how Atomgate uses education, testing and partnership to drive smart firewall upgrades and long-term customer trust.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-atomgate-uses-education-and-partnership-to-drive-successful-sonicwall-upgrades</guid>
+    </item>
+    <item>
+      <title>Apograph Delivers Security with SonicWall Advantage</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</link>
+      <description>See how Apograph uses SonicWall firewalls, NSM, and Cloud Secure Edge to protect clients, cut costs, and make upgrades sustainable.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</guid>
+    </item>
+    <item>
+      <title>Apex Computing Strengthens Security Through SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apex-computing-uses-proactive-firewall-upgrades-to-protect-clients-and-prevent-disruptions</link>
+      <description>See how Apex Computing helps clients plan firewall upgrades, prevent downtime, and build trust through proactive cybersecurity.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-apex-computing-uses-proactive-firewall-upgrades-to-protect-clients-and-prevent-disruptions</guid>
+    </item>
+    <item>
+      <title>MH Enterprise Builds Trust Through SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-mhe-turns-trust-into-cybersecurity-success</link>
+      <description>Discover how MH Enterprise uses trust and partnership to modernize networks, expand managed services, and deliver stronger protection.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-mhe-turns-trust-into-cybersecurity-success</guid>
+    </item>
+    <item>
+      <title>Visions of Cyberattacks: How SonicSentry Solves the 3 AM Problem</title>
+      <link>https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</link>
+      <description>Cyberattacks don’t sleep. See how SonicSentry SOC stopped a brute force attack at 3 a.m. on Christmas morning.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</guid>
+    </item>
+    <item>
+      <title>Unified Firewall Analytics with SonicWall NSM</title>
+      <link>https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</link>
+      <description>Break down security silos with unified firewall analytics and reporting through SonicWall NSM and Unified Management.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</guid>
+    </item>
+    <item>
+      <title>Living Off Legit Tools: Stealthy Installation of Remote Monitoring Agents Using SmartScreen Bypass</title>
+      <link>https://www.sonicwall.com/blog/living-off-legit-tools-stealthy-installation-of-remote-monitoring-agents-using-smartscreen-bypass</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/living-off-legit-tools-stealthy-installation-of-remote-monitoring-agents-using-smartscreen-bypass</guid>
+    </item>
+    <item>
+      <title>React2Shell (CVE-2025-55182) Critical Unauthenticated RCE</title>
+      <link>https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</guid>
+    </item>
+    <item>
+      <title>FlowiseAI Flowise RCE via CustomMCP Node CVE-2025-59528</title>
+      <link>https://www.sonicwall.com/blog/flowiseai-custom-mcp-node-remote-code-execution-</link>
+      <description>Critical CVSS 10.0 RCE vulnerability in FlowiseAI Flowise CustomMCP node enables unauthenticated code execution. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/flowiseai-custom-mcp-node-remote-code-execution-</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Bulletin Coverage for February 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-february-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-february-2026</guid>
+    </item>
+    <item>
+      <title>Securing the Digital Classroom: A Layered Cybersecurity Approach for K-12 Schools</title>
+      <link>https://www.sonicwall.com/blog/securing-the-digital-classroom-a-layered-cybersecurity-approach-for-k-12-schools</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/securing-the-digital-classroom-a-layered-cybersecurity-approach-for-k-12-schools</guid>
+    </item>
+    <item>
+      <title>SonicWall Named to CRN 2026 Security 100 List</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-recognized-on-crn-s-2026-security-100-list</link>
+      <description>SonicWall earns a spot on CRN’s 2026 Security 100 list, recognizing top channel-focused security vendors driving partner success.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-recognized-on-crn-s-2026-security-100-list</guid>
+    </item>
+    <item>
+      <title>Goodbye VPNs, Hello Cloud-Delivered Zero Trust - NULL</title>
+      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</guid>
+    </item>
+    <item>
+      <title>Goodbye VPNs: Embrace Cloud-Delivered Zero Trust</title>
+      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</link>
+      <description>Move beyond legacy VPNs. Discover how SonicWall Cloud Secure Edge delivers simplified, secure Zero Trust access for hybrid workforces.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</guid>
+    </item>
+    <item>
+      <title>Securing the Future: Simplified Management, Scalable Growth, and Built-In Compliance for K-12</title>
+      <link>https://www.sonicwall.com/blog/securing-the-future-simplified-management-scalable-growth-and-built-in-compliance-for-k-12</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/securing-the-future-simplified-management-scalable-growth-and-built-in-compliance-for-k-12</guid>
+    </item>
+    <item>
+      <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
+      <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a Critical authentication bypass vulnerability in GNU –a Unix-like operating system, assessed their impact, and developed mitigation measures. GNU is a collection of many programs: applications, libraries, developer tools, even games.
+This critical authentication bypass vulnerability in GNU inetutils-telnetd allows unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation, identified as CVE-2026-24061, affecting versions 1.9.3 up to and including version 2.7. With a CVSS score of 9.8 (Critical) due to its low attack complexity, high impact, and the fact that it affects core application functionality. As described in PoC, the impact of an argument injection can result into Remote Code Execution. The root issue is argument injection through unsafe string interpolation of client-controlled data. Hence, all organizations that use GNU instances are strongly encouraged to update their instances to the latest patched version as a matter of urgency.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</guid>
+    </item>
+    <item>
+      <title>Uncovering a Recent Pulsar RAT Sample in the Wild</title>
+      <link>https://www.sonicwall.com/blog/uncovering-a-recent-pulsar-rat-sample-in-the-wild</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/uncovering-a-recent-pulsar-rat-sample-in-the-wild</guid>
+    </item>
+    <item>
+      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
+      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
+      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS - February 2026: Pipeline. Margin. Recurring Revenue. | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</link>
+      <description>Explore the February 2026 Partner Power News for insights on accelerating pipeline growth, boosting margin, and driving recurring revenue in today’s security market. With customers rapidly reassessing risk and investing in trusted security advisors, discover partner strategies to lead with confidence and convert rising demand into measurable business growth.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</guid>
+    </item>
+    <item>
+      <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
+      <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</guid>
+    </item>
+    <item>
+      <title>OpenClaw Auth Token Theft Leading to RCE: CVE-2026-25253</title>
+      <link>https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</link>
+      <description>OpenClaw, previously known as Clawdbot and referred to as Moltbot in early versions, is an AI assistant framework that runs locally on macOS, Windows, or Linux. It supports cloud-based models such as Anthropic and OpenAI, as well as local models.
+
+The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. This flaw allows an unauthenticated remote attacker to steal an authentication token, which can then be used to achieve remote code execution, earning a high CVSS score of 8.8. As OpenClaw continues to gain popularity and broader adoption, the risk associated with this vulnerability increases significantly. Users are strongly encouraged to apply the vendor-provided updates without delay.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</guid>
+    </item>
+    <item>
+      <title>Inside a New VioletRAT Campaign: Multi Staged Delivery and Stealthy Payload Execution</title>
+      <link>https://www.sonicwall.com/blog/inside-a-new-violetrat-campaign-multi-staged-delivery-and-stealthy-payload-execution</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/inside-a-new-violetrat-campaign-multi-staged-delivery-and-stealthy-payload-execution</guid>
+    </item>
+    <item>
+      <title>Why Businesses Need Wired, Wireless, and Power-Over-Ethernet (PoE) Firewalls</title>
+      <link>https://www.sonicwall.com/blog/why-businesses-need-wired-wireless-and-power-over-ethernet-poe-firewalls</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-businesses-need-wired-wireless-and-power-over-ethernet-poe-firewalls</guid>
+    </item>
+    <item>
+      <title>Secure by Default: Built-In Cybersecurity Strategy</title>
+      <link>https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</link>
+      <description>Why Secure by Default goes beyond Secure by Design—reducing misconfiguration, complexity and risk through a unified security services platform.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</guid>
+    </item>
+    <item>
+      <title>Scam Alerts Deceiving Users to Download Harmful Android Applications</title>
+      <link>https://www.sonicwall.com/blog/scam-alerts-deceiving-users-to-download-harmful-android-applications</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/scam-alerts-deceiving-users-to-download-harmful-android-applications</guid>
+    </item>
+    <item>
+      <title>Why Your "Unmovable" Assets Need Zero Trust Access with SMA 1000</title>
+      <link>https://www.sonicwall.com/blog/why-your-unmovable-assets-need-zero-trust-access-with-sma-1000</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-your-unmovable-assets-need-zero-trust-access-with-sma-1000</guid>
+    </item>
+    <item>
+      <title>PDF-Borne Living-off-the-Land Attacks with RMM Abuse</title>
+      <link>https://www.sonicwall.com/blog/pdf-borne-living-off-the-land-attacks-with-rmm-abuse</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/pdf-borne-living-off-the-land-attacks-with-rmm-abuse</guid>
+    </item>
+    <item>
+      <title>Stop Comparing Features. Start Demanding Outcomes</title>
+      <link>https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</link>
+      <description>Buying more security tools doesn’t guarantee protection. See why outcomes depend on integration, management and continuous delivery.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</guid>
+    </item>
+    <item>
+      <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
+      <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
+      <description>CVE-2026-27702 is a critical (CVSS 9.9) remote code execution vulnerability in Budibase versions prior to 3.30.4. Attackers can inject malicious JavaScript through view filter values, which are passed unsanitized to eval() via the in-memory view subsystem in cloud mode. SonicWall Capture Labs provides threat analysis, exploitation details, IPS signature protection (IPS: 22007), and remediation guidance.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</guid>
+    </item>
+    <item>
+      <title>SonicWall Named Leader in 2026 GigaOm Firewall Radar</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
+      <description>SonicWall is named a Leader and Fast Mover in the 2026 GigaOm Radar for Enterprise Firewalls, highlighting innovation and proven threat protection.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
+    </item>
+    <item>
+      <title>SecureFirst Partner Program Updates for 2026</title>
+      <link>https://www.sonicwall.com/blog/the-securefirst-partner-program-is-evolving</link>
+      <description>SonicWall updates its SecureFirst Partner Program with new specializations, role-based accreditations and expanded opportunities for partners.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-securefirst-partner-program-is-evolving</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Bulletin Coverage for March 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-march-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-march-2026</guid>
+    </item>
+    <item>
+      <title>SonicWall Earns 5-Star Rating in 2026 CRN Partner Guide</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</link>
+      <description>SonicWall’s SecureFirst Partner Program earns a 5-Star rating in the 2026 CRN Partner Program Guide, recognizing exceptional partner enablement.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</guid>
+    </item>
+    <item>
+      <title>Deno Runtime Exploited: The Emerging Threat You Can’t Ignore</title>
+      <link>https://www.sonicwall.com/blog/deno-runtime-exploited-the-emerging-threat-you-can-t-ignore</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/deno-runtime-exploited-the-emerging-threat-you-can-t-ignore</guid>
+    </item>
+    <item>
+      <title>An In-Depth Look at Scarface Stealer</title>
+      <link>https://www.sonicwall.com/blog/an-in-depth-look-at-scarface-stealer</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/an-in-depth-look-at-scarface-stealer</guid>
+    </item>
+    <item>
+      <title>Michael Crean Discusses Iran Cyber Threats on Fox News</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
+      <description>SonicWall SVP Michael Crean appeared on Fox News to discuss Iran-linked cyber activity and the Stryker attack. Watch the full interview.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</guid>
+    </item>
+    <item>
+      <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
+      <link>https://www.sonicwall.com/blog/superior-management-elevated-security-a-partner-s-early-experience-with-sonicwall-network-security-manager-3-0</link>
+      <description>Leaf IT shares its experience with SonicWall Network Security Manager 3.0</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/superior-management-elevated-security-a-partner-s-early-experience-with-sonicwall-network-security-manager-3-0</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

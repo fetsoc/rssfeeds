@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>CYFIRMA Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/cyfirma-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyfirma-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Cyfirma's cybersecurity threat intelligence Helps Defenders Authoritative Security - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/tactical-threat-intelligence-cyfirma-helps-cyber-defenders-view-their-security-landscape-authoritatively/</link>
+      <description>Gain authoritative insights on your security landscape with Cyfirma's cybersecurity threat intelligence. Stay ahead of cyber threats. Read our blog now.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/tactical-threat-intelligence-cyfirma-helps-cyber-defenders-view-their-security-landscape-authoritatively/</guid>
+      <pubDate>Fri, 21 Jun 2019 08:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Tick’ing Time Bomb: Critical Analysis of the Tick Threat Actor Group - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/ticking-time-bomb-critical-analysis-of-the-tick-threat-actor-group/</link>
+      <description>In today’s world, Japan is a favourite target for globally placed threat actors looking to deal massive financial and reputational...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/ticking-time-bomb-critical-analysis-of-the-tick-threat-actor-group/</guid>
+      <pubDate>Thu, 19 Sep 2019 08:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ensuring Cyber Resilience in the event of a Global Health Emergency | Outbreak of Corona Virus - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/ensuring-cyber-resilience-in-the-event-of-a-global-health-emergency-outbreak-of-corona-virus/</link>
+      <description>The latest outbreak of the deadly strain of corona virus has infected thousands of people worldwide and spread to many...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/ensuring-cyber-resilience-in-the-event-of-a-global-health-emergency-outbreak-of-corona-virus/</guid>
+      <pubDate>Fri, 31 Jan 2020 08:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>WORKING FROM HOME IN THE TIME OF CORONAVIRUS - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/working-from-home-in-the-time-of-coronavirus/</link>
+      <description>The coronavirus outbreak has forced businesses to make a safety-conscious yet an operationally hard decision- asking their employees to work...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/working-from-home-in-the-time-of-coronavirus/</guid>
+      <pubDate>Fri, 20 Mar 2020 00:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-sponsored Hacker Groups Expand Attack Mechanisms and Utilize Commodity Malware for Espionage   - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/state-sponsored-hacker-groups-expand-attack-mechanisms-and-utilize-commodity-malware-for-espionage/</link>
+      <description>By CYFIRMA Research State-sponsored hacker groups have been active for the past couple of decades. These well-funded hacker groups work...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/state-sponsored-hacker-groups-expand-attack-mechanisms-and-utilize-commodity-malware-for-espionage/</guid>
+      <pubDate>Tue, 24 Mar 2020 08:54:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>CYBER-CRIMINALS VIOLATE IMPLICIT CODE OF CONDUCT TO PEDDLE COVID-19 VACCINE SCAMS IN THE DARK WEB - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/cyber-criminals-violate-implicit-code-of-conduct-to-peddle-covid-19-vaccine-scams-in-the-dark-web/</link>
+      <description>CYFIRMA Researchers revealed a significant change amongst hackers and scammers in dark web marketplaces where there was an implicit agreement...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyber-criminals-violate-implicit-code-of-conduct-to-peddle-covid-19-vaccine-scams-in-the-dark-web/</guid>
+      <pubDate>Sat, 18 Apr 2020 10:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The future of cybersecurity: Building resilient targets that defend themselves - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/the-future-of-cybersecurity-building-resilient-targets-that-defend-themselves/</link>
+      <description>By Kumar Ritesh, Founder and CEO, CYFIRMA Cyberattacks are expected to increase exponentially in volume and sophistication, yet defences remain...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/the-future-of-cybersecurity-building-resilient-targets-that-defend-themselves/</guid>
+      <pubDate>Sun, 26 Apr 2020 08:34:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-sponsored hacker groups join forces to capitalize on COVID-19 pandemic - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/state-sponsored-hacker-groups-join-forces-to-capitalize-on-covid-19-pandemic/</link>
+      <description>By Masahiro Yamada The raging COVID-19 pandemic has revealed many active fault lines among nation states and segments of society....</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/state-sponsored-hacker-groups-join-forces-to-capitalize-on-covid-19-pandemic/</guid>
+      <pubDate>Fri, 15 May 2020 00:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>COVID-19 TRIGGERS CHANGE IN THE CYBER-CRIME WORLD - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/covid-19-triggers-change-in-the-cyber-crime-world/</link>
+      <description>BY CYFIRMA RESEARCH Much has been said about the massive disruption to economies caused by the Covid-19 pandemic. Lives and...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/covid-19-triggers-change-in-the-cyber-crime-world/</guid>
+      <pubDate>Thu, 28 May 2020 14:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAZE RANSOMWARE GROUP DECLARED SUCCESSFUL EXPLOITS OF MANY ORGANIZATIONS AND RELEASED MASSIVE DATA ON PUBLIC SITE IN ONE DAY - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/maze-ransomware-group-declared-successful-exploits-of-many-organizations-and-released-massive-data-on-public-site-in-one-day/</link>
+      <description>CYFIRMA Research – 10 Jun 2020 CYFIRMA’s researchers have tracked Maze as early as Jun last year, and on 10...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/maze-ransomware-group-declared-successful-exploits-of-many-organizations-and-released-massive-data-on-public-site-in-one-day/</guid>
+      <pubDate>Wed, 10 Jun 2020 15:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOLARWINDS HACK - Sunburst, Supernova and more - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/solarwinds-hack-sunburst-supernova-and-more/</link>
+      <description>Research on this cyberattack is ongoing. Its full magnitude and impact are still under investigation. This report will be updated...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/solarwinds-hack-sunburst-supernova-and-more/</guid>
+      <pubDate>Thu, 24 Dec 2020 02:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter Ransomware Evolution with Zero Trust in 2021 - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/counter-ransomware-evolution-with-zero-trust-in-2021/</link>
+      <description>By Arjun Mani, Neha Singh, Pradeep Kodandoor CYFIRMA Research Ransomware operators have traditionally relied on operational disruptions and reputational damage to...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/counter-ransomware-evolution-with-zero-trust-in-2021/</guid>
+      <pubDate>Tue, 23 Mar 2021 06:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Double Extortion Ransomware Attack-The Achilles Heel for Organizations</title>
+      <link>https://www.cyfirma.com/blogs/double-extortion-ransomware-attack-the-achilles-heel-for-organizations/</link>
+      <description>Double Extortion Technique involves stealing confidential data; and threatens to expose the data online, in case the victim refuses to pay.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/double-extortion-ransomware-attack-the-achilles-heel-for-organizations/</guid>
+      <pubDate>Mon, 10 May 2021 14:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMBs - the Backbone of Growing Economies - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/smbs-the-backbone-of-growing-economies/</link>
+      <description>DeTCT eliminates risks from businesses' cyber risk profiles and arms them with critical information of data leaks, breaches and impersonation</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/smbs-the-backbone-of-growing-economies/</guid>
+      <pubDate>Sun, 27 Jun 2021 02:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberthreats to SMBs in APAC: Part-2 The Looming Cyberthreats to SMBs</title>
+      <link>https://www.cyfirma.com/blogs/cyberthreats-to-smbs-in-apac-part-2-the-looming-cyberthreats-to-smbs/</link>
+      <description>CYFIRMA’s DeTCT can uncover the digital risks profiles for SMBs and help them detect Attack Surfaces, Fake identities and Vulnerabilities</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyberthreats-to-smbs-in-apac-part-2-the-looming-cyberthreats-to-smbs/</guid>
+      <pubDate>Sat, 03 Jul 2021 16:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberthreats to SMBs in APAC – Part-3: The Cyber-readiness Gap - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/cyberthreats-to-smbs-in-apac-part-3-the-cyber-readiness-gap/</link>
+      <description>Cyfirma's DeTcT - Predicts Digital risks including uncovering attack surfaces and continuous monitoring for vulnerabilities.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyberthreats-to-smbs-in-apac-part-3-the-cyber-readiness-gap/</guid>
+      <pubDate>Sun, 18 Jul 2021 03:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>THREAT INTELLIGENCE Infrastructure Indicators – FIN11 Campaigns</title>
+      <link>https://www.cyfirma.com/blogs/threat-intelligence-common-infrastructure-indicators-fin11-group-campaigns/</link>
+      <description>CYFIRMA recommended using the reported IOC details for measures against this campaign and threat hunting within the environment.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/threat-intelligence-common-infrastructure-indicators-fin11-group-campaigns/</guid>
+      <pubDate>Wed, 11 Aug 2021 13:28:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CYFIRMA Technical Research on Leviathan_CobaltStrike - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/cyfirma-technical-research-on-leviathan_cobaltstrike/</link>
+      <description>CYFIRMA's Threat Discovery and Cyber-Intelligence platform, DeCYFIR, has flagged a suspicious file based on multiple factors.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyfirma-technical-research-on-leviathan_cobaltstrike/</guid>
+      <pubDate>Fri, 03 Sep 2021 09:45:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>How To Choose Attack Surface Management Tools In 2023</title>
+      <link>https://www.cyfirma.com/blogs/what-to-look-for-when-choosing-an-attack-surface-management-tool/</link>
+      <description>Learn, How to pick-up the right attack surface management tools to protectagainst malicious cyber attacks. Read this article to find out.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/what-to-look-for-when-choosing-an-attack-surface-management-tool/</guid>
+      <pubDate>Tue, 21 Sep 2021 07:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dridex is Back – This Time on Your Slack - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/dridex-is-back-this-time-on-your-slack/</link>
+      <description>Dridex is Back – This Time on Your Slack A modified version of the banking trojan Dridex – named DoppelDridex...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/dridex-is-back-this-time-on-your-slack/</guid>
+      <pubDate>Sun, 03 Oct 2021 02:44:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>AvosLocker is Turning the Double-Extortion Ransomware Scheme Lethal - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/avoslocker-is-turning-the-double-extortion-ransomware-scheme-lethal/</link>
+      <description>Subscribe for Latest Updates AvosLocker is Turning the Double-Extortion Ransomware Scheme Lethal By CYFIRMA Research The world of ransomware double-extortion...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/avoslocker-is-turning-the-double-extortion-ransomware-scheme-lethal/</guid>
+      <pubDate>Tue, 12 Oct 2021 05:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>TECHNICAL ANALYSIS OF SMOKELOADER MALWARE - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/technical-analysis-of-smokeloader-malware/</link>
+      <description>Risk Score: 8 Confidence Level: High Suspected Malware: SmokeLoader Malware Function: Mainly act to download other malware and as Information...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/technical-analysis-of-smokeloader-malware/</guid>
+      <pubDate>Wed, 10 Nov 2021 06:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 3 Ransomware Entry Points Used by Cyber Criminals - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/top-3-ransomware-entry-points-used-by-cyber-criminals/</link>
+      <description>We bring you a comprehensive list of the common entry points for ransomware into an organization used by cyber criminals. Read now</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/top-3-ransomware-entry-points-used-by-cyber-criminals/</guid>
+      <pubDate>Tue, 07 Dec 2021 08:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding Cyber Risk Related to Mobile Apps | Android Banking Trojan – Red Alert 2.0 - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/understanding-cyber-risk-related-to-mobile-apps-android-banking-trojan-red-alert-2/</link>
+      <description>Understanding Cyber Risk Related to Mobile Apps | Android Banking Trojan – Red Alert 2.0   The malware, Red Alert...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/understanding-cyber-risk-related-to-mobile-apps-android-banking-trojan-red-alert-2/</guid>
+      <pubDate>Mon, 27 Dec 2021 12:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobile Devices: The Emergent Playground for Ransomware Attacks - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/mobile-devices-the-emergent-playground-for-ransomware-attacks/</link>
+      <description>Mobile devices contain a treasure trove of valuable data that can land in the hands of cyber criminals if you are not careful with your security posture.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/mobile-devices-the-emergent-playground-for-ransomware-attacks/</guid>
+      <pubDate>Tue, 18 Jan 2022 04:07:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber-Kinetic: The War Goes Beyond the Wire - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/cyber-kinetic-the-war-goes-beyond-the-wire/</link>
+      <description>Kinetic-cyber Secures the organization’s internet-facing properties with robust security protocols and encryption to keep the critical information stored in databases or servers safe.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyber-kinetic-the-war-goes-beyond-the-wire/</guid>
+      <pubDate>Thu, 03 Feb 2022 04:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Its 2022 and Ransomware Menace Refuses to Go Away - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/its-2022-and-ransomware-menace-refuses-to-go-away/</link>
+      <description>A ransomware attack is one of the most viable business models for threat actors that gains unauthorized access to vital infrastructure, encrypts it and hold it captive with a ransom.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/its-2022-and-ransomware-menace-refuses-to-go-away/</guid>
+      <pubDate>Wed, 09 Feb 2022 03:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>State Sponsored Cyber Threat Actors | Cyfirma</title>
+      <link>https://www.cyfirma.com/blogs/cyber-threat-landscape-expands-with-state-sponsored-cyber-attackers/</link>
+      <description>CYFIRMA’s cyber threat intelligence team has observed state-sponsored groups and discussed cyber defense strategies to mitigate cyber threats. Read now</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyber-threat-landscape-expands-with-state-sponsored-cyber-attackers/</guid>
+      <pubDate>Sat, 19 Feb 2022 13:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ways to Prevent Cyber Crime Even as IoT Technology Becomes Increasingly Prevalent in 2022 - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/ways-to-prevent-cyber-crime-even-as-iot-technology-becomes-increasingly-prevalent-in-2022/</link>
+      <description>Ways to Prevent Cyber Crime Even as IoT Technology Becomes Increasingly Prevalent in 2022</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/ways-to-prevent-cyber-crime-even-as-iot-technology-becomes-increasingly-prevalent-in-2022/</guid>
+      <pubDate>Tue, 01 Mar 2022 08:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Look Inside Ransomware Gang Through Conti Leaks - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/look-inside-ransomware-gang-through-conti-leaks/</link>
+      <description>In this cyber security report, CYFIRMA has focused mainly on extracting IOCs and TTP but has also observed interesting insights about the ransomware gang inner workings</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/look-inside-ransomware-gang-through-conti-leaks/</guid>
+      <pubDate>Sat, 19 Mar 2022 03:38:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>RaidForums Users – Where is their Next Home? - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/raidforums-users-where-is-their-next-home/</link>
+      <description>RaidForums hacking community made up of opportunistic cybercriminals – notorious for leaking valuable data from databases, credentials, credit card information to the latest vulnerabilities &amp; exploits – abruptly come to a closure.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/raidforums-users-where-is-their-next-home/</guid>
+      <pubDate>Mon, 28 Mar 2022 13:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New World Order in the Making - Observations on the Latest Geopolitical Development and the Impact on Cybersecurity - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/a-new-world-order-in-the-making-observations-on-the-latest-geopolitical-development-and-the-impact-on-cybersecurity/</link>
+      <description>A New World Order in the Making – Observations on the Latest Geopolitical Development and the Impact on Cybersecurity.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/a-new-world-order-in-the-making-observations-on-the-latest-geopolitical-development-and-the-impact-on-cybersecurity/</guid>
+      <pubDate>Mon, 04 Apr 2022 10:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is going on with Lapsus$? - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/what-is-going-on-with-lapsus/</link>
+      <description>Lapsus$ hacking group - their exploits and methods</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/what-is-going-on-with-lapsus/</guid>
+      <pubDate>Wed, 13 Apr 2022 12:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keksec and EnemyBot – From Edgy Teenagers To Serious Cybercriminals - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/keksec-and-enemybot-from-edgy-teenagers-to-serious-cybercriminals/</link>
+      <description>Introduction EnemyBot is a Linux-based botnet attributed to a threat group Keksec which is also known as Kek Security. This...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/keksec-and-enemybot-from-edgy-teenagers-to-serious-cybercriminals/</guid>
+      <pubDate>Tue, 28 Jun 2022 07:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Computing and Its Impact on Cybersecurity</title>
+      <link>https://www.cyfirma.com/blogs/quantum-computing-and-who-is-leading-the-cyber-arms-race/</link>
+      <description>Who is leading the Cyber Arms Race in the field of Quantum Computing | How will Quantum Computing transform the world of Cyber Security?</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/quantum-computing-and-who-is-leading-the-cyber-arms-race/</guid>
+      <pubDate>Thu, 28 Jul 2022 07:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mirai - The Botnet that Made IoT Dangerous - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/mirai-the-botnet-that-made-iot-dangerous/</link>
+      <description>Introduction Mirai is a self-propagating botnet malware created by Paras Jha and his friends Josiah White and Dalton Norman. Their...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/mirai-the-botnet-that-made-iot-dangerous/</guid>
+      <pubDate>Thu, 15 Sep 2022 09:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine Industries Attacked by Prestige Ransomware</title>
+      <link>https://www.cyfirma.com/blogs/prestige-ransomware-analysis/</link>
+      <description>Cyfirma's research analyzed a Prestige Ransomware sample targeting transportation and other logistics industries in Ukraine and Poland. Read in detail.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/prestige-ransomware-analysis/</guid>
+      <pubDate>Thu, 10 Nov 2022 06:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Online Scams and Cybercrime by North Korean Hackers</title>
+      <link>https://www.cyfirma.com/blogs/from-north-korean-phishing-to-underground-online-hosting-services/</link>
+      <description>Know how north Korean hackers use a malicious domain registrar for online Scams and Cybercrime and know how to blacklist it in your environment. Read now</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/from-north-korean-phishing-to-underground-online-hosting-services/</guid>
+      <pubDate>Wed, 16 Nov 2022 06:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evolving Cyber Threat Landscape Management in 2023</title>
+      <link>https://www.cyfirma.com/blogs/evolving-cyber-threat-landscape-management-in-2023/</link>
+      <description>Learn the role and responsibility of the constantly evolving cyber threat landscape management and reduce the risk of a successful cyber attack on your organization.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/evolving-cyber-threat-landscape-management-in-2023/</guid>
+      <pubDate>Mon, 09 Jan 2023 12:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultimate Guide To Digital Risk Management Platform | Cyfirma</title>
+      <link>https://www.cyfirma.com/blogs/how-to-choose-the-best-digital-risk-management-platform/</link>
+      <description>What is digital risk management, and how to choose the best digital risk protection tools to mitigate cyber risk? Read now</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/how-to-choose-the-best-digital-risk-management-platform/</guid>
+      <pubDate>Wed, 18 Jan 2023 08:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protect Your Business from Data Breach: Expert Tips and Strategies</title>
+      <link>https://www.cyfirma.com/blogs/data-breach-the-nightmare-for-security-professionals/</link>
+      <description>Learn how to safeguard your business from a data breach with our Cybersecurity professionals. Get essential tips and strategies to protect your sensitive information. Read now</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/data-breach-the-nightmare-for-security-professionals/</guid>
+      <pubDate>Fri, 10 Mar 2023 08:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Cybersecurity in the Era of​​ Digital Risk</title>
+      <link>https://www.cyfirma.com/blogs/rethinking-cybersecurity-in-the-era-of-digital-risk/</link>
+      <description>Understand why investing in ​​​​digital risk mitigation is essential to secure the future of your ​​business. Read now.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/rethinking-cybersecurity-in-the-era-of-digital-risk/</guid>
+      <pubDate>Mon, 20 Mar 2023 10:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Intelligence - How to Manage Cyber Crises</title>
+      <link>https://www.cyfirma.com/blogs/cyber-intelligence-how-to-manage-cyber-crises/</link>
+      <description>Cyber crisis management is critical. Discuss how cyber intelligence is vital in protecting your organization from data breaches and cyber threats.</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/cyber-intelligence-how-to-manage-cyber-crises/</guid>
+      <pubDate>Mon, 20 Mar 2023 10:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Implementing Attack Surface Management and Vulnerability Intelligence | Vulnerability Mapping</title>
+      <link>https://www.cyfirma.com/blogs/implementing-attack-surface-management-and-vulnerability-intelligence-for-the-purpose-of-vulnerability-mapping-a-strategic-approach-to-enhancing-organizational-security/</link>
+      <description>To effectively combat this evolving threat landscape, organizations need to adopt a more comprehensive and proactive approach to cybersecurity, one that encompasses both attack surface management (ASM) and vulnerability intelligence (VI).</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/implementing-attack-surface-management-and-vulnerability-intelligence-for-the-purpose-of-vulnerability-mapping-a-strategic-approach-to-enhancing-organizational-security/</guid>
+      <pubDate>Thu, 14 Dec 2023 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conventional Threat Intelligence: A Relic in the Evolving Cyber Landscape - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/conventional-threat-intelligence-a-relic-in-the-evolving-cyber-landscape/</link>
+      <description>In today’s cybersecurity world, Conventional Threat Intelligence (CTI) is facing an existential crisis. Once a cornerstone of organizational defence, Conventional...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/conventional-threat-intelligence-a-relic-in-the-evolving-cyber-landscape/</guid>
+      <pubDate>Fri, 15 Dec 2023 13:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stay Secure During the Busy Holiday Season - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/stay-secure-during-the-busy-holiday-season/</link>
+      <description>The holiday bustle introduces increased cybersecurity risks that organizations must account for. As CISOs, now is the time to ensure...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/stay-secure-during-the-busy-holiday-season/</guid>
+      <pubDate>Fri, 22 Dec 2023 09:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>THE FUTURE OF COMMUNICATION: SATELLITE MEGA-CONSTELLATIONS - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/the-future-of-communication-satellite-mega-constellations/</link>
+      <description>INTRODUCTION Satellites now sit at the heart of geopolitical power, playing a pivotal role in warfare and strategy. SpaceX’s Tranche...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/the-future-of-communication-satellite-mega-constellations/</guid>
+      <pubDate>Fri, 29 Dec 2023 14:34:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>THREAT TO UNDERSEA INFRASTRUCTURE - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/threat-to-undersea-infrastructure/</link>
+      <description>What’s the next crisis percolating in the Red Sea shipping corridor? CYFIRMA’s intelligence indicates that the Iranian-backed Houtis are likely...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/threat-to-undersea-infrastructure/</guid>
+      <pubDate>Tue, 02 Apr 2024 05:06:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>DEEPFAKE, OR THE 'SPUTNIK MOMENT' IN THE AI RACE - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/deepfake-or-the-sputnik-moment-in-the-ai-race/</link>
+      <description>EXECUTIVE SUMMARY DeepSeek’s emergence has disrupted the US-China AI race, demonstrating that algorithmic efficiency can rival hardware dominance. Their advanced,...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/deepfake-or-the-sputnik-moment-in-the-ai-race/</guid>
+      <pubDate>Wed, 26 Feb 2025 12:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>UKRAINE'S ATTACK ON RUSSIA'S STRATEGIC AIR FORCE - LIVE FEED FROM A REVOLUTION IN MILITARY AFFAIRS - CYFIRMA</title>
+      <link>https://www.cyfirma.com/blogs/ukraines-attack-on-russias-strategic-air-force-live-feed-from-a-revolution-in-military-affairs/</link>
+      <description>EXECUTIVE SUMMARY In a stunning move on June 1, 2025, Ukraine unleashed “Operation Spider’s Web”, a daring, long-range drone attack...</description>
+      <guid isPermaLink="false">https://www.cyfirma.com/blogs/ukraines-attack-on-russias-strategic-air-force-live-feed-from-a-revolution-in-military-affairs/</guid>
+      <pubDate>Fri, 06 Jun 2025 11:45:40 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

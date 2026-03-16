@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Guardio Labs</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/guardio-labs.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/guardio-labs.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:48:19 +0000</lastBuildDate>
+    <item>
+      <title>Critical Vulnerability Discovered in Evernote’s Chrome Extension</title>
+      <link>https://guard.io/labs/critical-vulnerability-discovered-in-evernotes-chrome-extension</link>
+      <guid isPermaLink="false">https://guard.io/labs/critical-vulnerability-discovered-in-evernotes-chrome-extension</guid>
+    </item>
+    <item>
+      <title>How to lose all your money in the Metaverse (before even getting started)</title>
+      <link>https://guard.io/labs/how-to-lose-all-your-money-in-the-meta-verse-before-even-getting-started</link>
+      <guid isPermaLink="false">https://guard.io/labs/how-to-lose-all-your-money-in-the-meta-verse-before-even-getting-started</guid>
+    </item>
+    <item>
+      <title>Oh RATs! - How Guardio found a way to detect the nastiest of scams</title>
+      <link>https://guard.io/labs/oh-rats-how-guardio-found-a-way-to-detect-the-nastiest-of-scams</link>
+      <guid isPermaLink="false">https://guard.io/labs/oh-rats-how-guardio-found-a-way-to-detect-the-nastiest-of-scams</guid>
+    </item>
+    <item>
+      <title>BadEx Part I : The Dynamic Search Hijackers</title>
+      <link>https://guard.io/labs/badex-part-i-the-dynamic-search-hijackers</link>
+      <guid isPermaLink="false">https://guard.io/labs/badex-part-i-the-dynamic-search-hijackers</guid>
+    </item>
+    <item>
+      <title>ISOTonic Part 1: Malvertising at its Best (Worst!)</title>
+      <link>https://guard.io/labs/isotonic-1-malvertising-at-its-best-worst</link>
+      <guid isPermaLink="false">https://guard.io/labs/isotonic-1-malvertising-at-its-best-worst</guid>
+    </item>
+    <item>
+      <title>ISOTonic Part 2: The Army of Bots</title>
+      <link>https://guard.io/labs/isotonic-2-the-army-of-bots</link>
+      <guid isPermaLink="false">https://guard.io/labs/isotonic-2-the-army-of-bots</guid>
+    </item>
+    <item>
+      <title>ZipB — The All You Can Infect Buffet</title>
+      <link>https://guard.io/labs/zipb-the-all-you-can-infect-buffet</link>
+      <guid isPermaLink="false">https://guard.io/labs/zipb-the-all-you-can-infect-buffet</guid>
+    </item>
+    <item>
+      <title>“Dormant Colors”: Live Campaign With Over 1M Data Stealing Extensions Installed</title>
+      <link>https://guard.io/labs/dormant-colors-live-campaign-with-over-1m-data-stealing-extensions-installed</link>
+      <guid isPermaLink="false">https://guard.io/labs/dormant-colors-live-campaign-with-over-1m-data-stealing-extensions-installed</guid>
+    </item>
+    <item>
+      <title>XSS Vulnerability Found in ConnectWise Remote Access Platform With Great Potential For Misuse by Scammers</title>
+      <link>https://guard.io/labs/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers</link>
+      <guid isPermaLink="false">https://guard.io/labs/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers</guid>
+    </item>
+    <item>
+      <title>“MasquerAds” — Google’s Ad-Words Massively Abused by Threat Actors, Targeting Organizations, GPUs and Crypto Wallets</title>
+      <link>https://guard.io/labs/masquerads-googles-ad-words-massively-abused-by-threat-actors-targeting-organizations-gpus</link>
+      <guid isPermaLink="false">https://guard.io/labs/masquerads-googles-ad-words-massively-abused-by-threat-actors-targeting-organizations-gpus</guid>
+    </item>
+    <item>
+      <title>“StreamJacking” – Hijacking Hundreds of YouTube Channels Per Day Propagating Elon Musk Branded Crypto Giveaway Scams</title>
+      <link>https://guard.io/labs/streamjacking-hijacking-hundreds-of-youtube-channels-per-day-propagating-elon-musk-branded</link>
+      <guid isPermaLink="false">https://guard.io/labs/streamjacking-hijacking-hundreds-of-youtube-channels-per-day-propagating-elon-musk-branded</guid>
+    </item>
+    <item>
+      <title>“FakeGPT” #2: Open-Source Turned Malicious in Another Variant of the Facebook Account-Stealer Chrome Extension</title>
+      <link>https://guard.io/labs/fakegpt-2-open-source-turned-malicious-in-another-variant-of-the-facebook-account-stealer</link>
+      <guid isPermaLink="false">https://guard.io/labs/fakegpt-2-open-source-turned-malicious-in-another-variant-of-the-facebook-account-stealer</guid>
+    </item>
+    <item>
+      <title>“FakeGPT”: New Variant of Fake-ChatGPT Chrome Extension Stealing Facebook Ad Accounts with Thousands of Daily Installs</title>
+      <link>https://guard.io/labs/fakegpt-new-variant-of-fake-chatgpt-chrome-extension-stealing-facebook-ad-accounts-with</link>
+      <guid isPermaLink="false">https://guard.io/labs/fakegpt-new-variant-of-fake-chatgpt-chrome-extension-stealing-facebook-ad-accounts-with</guid>
+    </item>
+    <item>
+      <title>“Malverposting” — With Over 500K Estimated Infections, Facebook Ads Fuel This Evolving Stealer Campaign</title>
+      <link>https://guard.io/labs/malverposting-with-over-500k-estimated-infections-facebook-ads-fuel-this-evolving-stealer</link>
+      <guid isPermaLink="false">https://guard.io/labs/malverposting-with-over-500k-estimated-infections-facebook-ads-fuel-this-evolving-stealer</guid>
+    </item>
+    <item>
+      <title>“PhishForce” — Vulnerability Uncovered in Salesforce’s Email Services Exploited for Phishing Facebook Accounts In-The-Wild</title>
+      <link>https://guard.io/labs/phishforce-vulnerability-uncovered-in-salesforces-email-services-exploited-for-phishing</link>
+      <guid isPermaLink="false">https://guard.io/labs/phishforce-vulnerability-uncovered-in-salesforces-email-services-exploited-for-phishing</guid>
+    </item>
+    <item>
+      <title>“MrTonyScam” — Botnet of Facebook Users Launch High-Intent Messenger Phishing Attack on Business Accounts</title>
+      <link>https://guard.io/labs/mrtonyscam-botnet-of-facebook-users-launch-high-intent-messenger-phishing-attack-on-business</link>
+      <guid isPermaLink="false">https://guard.io/labs/mrtonyscam-botnet-of-facebook-users-launch-high-intent-messenger-phishing-attack-on-business</guid>
+    </item>
+    <item>
+      <title>“MyFlaw” — Cross Platform 0-Day RCE Vulnerability Discovered in Opera’s Browser</title>
+      <link>https://guard.io/labs/myflaw-cross-platform-0-day-rce-vulnerability-discovered-in-operas-browsers</link>
+      <guid isPermaLink="false">https://guard.io/labs/myflaw-cross-platform-0-day-rce-vulnerability-discovered-in-operas-browsers</guid>
+    </item>
+    <item>
+      <title>“Scammers Paradise” — Exploring Telegram’s Dark Markets, Breeding Ground for Modern Phishing Operations</title>
+      <link>https://guard.io/labs/scammers-paradise-exploring-telegrams-dark-markets-breeding-ground-for-modern-phishing</link>
+      <guid isPermaLink="false">https://guard.io/labs/scammers-paradise-exploring-telegrams-dark-markets-breeding-ground-for-modern-phishing</guid>
+    </item>
+    <item>
+      <title>“SubdoMailing” — Thousands of Hijacked Major-Brand Subdomains Found Bombarding Users With Millions of Malicious Emails</title>
+      <link>https://guard.io/labs/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions</link>
+      <guid isPermaLink="false">https://guard.io/labs/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions</guid>
+    </item>
+    <item>
+      <title>“CVE-2024-21388” – Microsoft Edge’s Marketing API Exploited for Covert Extension Installation</title>
+      <link>https://guard.io/labs/cve-2024-21388-microsoft-edges-marketing-api-exploited-for-covert-extension-installation</link>
+      <guid isPermaLink="false">https://guard.io/labs/cve-2024-21388-microsoft-edges-marketing-api-exploited-for-covert-extension-installation</guid>
+    </item>
+    <item>
+      <title>“EchoSpoofing” — A Massive Phishing Campaign Exploiting Proofpoint’s Email Protection to Dispatch Millions of Perfectly Spoofed Emails</title>
+      <link>https://guard.io/labs/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch</link>
+      <guid isPermaLink="false">https://guard.io/labs/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch</guid>
+    </item>
+    <item>
+      <title>“CrossBarking” — Exploiting a 0-Day Opera Vulnerability with a Cross-Browser Extension Store Attack</title>
+      <link>https://guard.io/labs/crossbarking-exploiting-a-0-day-opera-vulnerability-with-a-cross-browser-extension-store-attack</link>
+      <guid isPermaLink="false">https://guard.io/labs/crossbarking-exploiting-a-0-day-opera-vulnerability-with-a-cross-browser-extension-store-attack</guid>
+    </item>
+    <item>
+      <title>“EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts</title>
+      <link>https://guard.io/labs/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts</link>
+      <guid isPermaLink="false">https://guard.io/labs/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts</guid>
+    </item>
+    <item>
+      <title>“DeceptionAds” — Fake Captcha Driving Infostealer Infections and a Glimpse to the Dark Side of Internet Advertising</title>
+      <link>https://guard.io/labs/deceptionads-fake-captcha-driving-infostealer-infections-and-a-glimpse-to-the-dark-side-of</link>
+      <guid isPermaLink="false">https://guard.io/labs/deceptionads-fake-captcha-driving-infostealer-infections-and-a-glimpse-to-the-dark-side-of</guid>
+    </item>
+    <item>
+      <title>"VibeScamming" — From Prompt to Phish: Benchmarking Popular AI Agents’ Resistance to the Dark Side</title>
+      <link>https://guard.io/labs/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side</link>
+      <guid isPermaLink="false">https://guard.io/labs/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side</guid>
+    </item>
+    <item>
+      <title>“CAPTCHAgeddon” Unmasking the Viral Evolution of the ClickFix Browser-Based Threat</title>
+      <link>https://guard.io/labs/captchageddon-unmasking-the-viral-evolution-of-the-clickfix-browser-based-threat</link>
+      <guid isPermaLink="false">https://guard.io/labs/captchageddon-unmasking-the-viral-evolution-of-the-clickfix-browser-based-threat</guid>
+    </item>
+    <item>
+      <title>"Scamlexity": When Agentic AI Browsers Get Scammed</title>
+      <link>https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed</link>
+      <description>We Put Agentic AI Browsers to the Test - They Clicked, They Paid, They Failed</description>
+      <guid isPermaLink="false">https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed</guid>
+    </item>
+    <item>
+      <title>“Prompt Inception” - Did Grok just say Elon Musk is the President?</title>
+      <link>https://guard.io/labs/prompt-inception-when-ai-becomes-the-single-source-of-truth-whose-truth-will-it-be</link>
+      <description>When AI Becomes the Single Source of Truth - Whose Truth Will It Be?</description>
+      <guid isPermaLink="false">https://guard.io/labs/prompt-inception-when-ai-becomes-the-single-source-of-truth-whose-truth-will-it-be</guid>
+    </item>
+  </channel>
+</rss>

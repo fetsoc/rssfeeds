@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Splunk Security Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/splunk-security-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/splunk-security-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:48:17 +0000</lastBuildDate>
+    <item>
+      <title>Assigning Role Based Permissions in Splunk Enterprise Security | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/assigning-role-based.html</link>
+      <description>Learn how to add a new role in Enterprise Security and apply capabilities to it</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/assigning-role-based.html</guid>
+    </item>
+    <item>
+      <title>“Are We Secure?” Lessons Learned From The CISO Of A Leading Saudi Bank | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/are-we-secure-lessons-learned-from-the-ciso-of-a-leading-saudi-bank.html</link>
+      <description>A Splunk customer's presentation at Gartner’s 2018 Security Risk and Management Summit</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/are-we-secure-lessons-learned-from-the-ciso-of-a-leading-saudi-bank.html</guid>
+    </item>
+    <item>
+      <title>Automated Clean-up of HAFNIUM Shells and Processes with Splunk Phantom | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/automated-clean-up-of-hafnium-shells-and-processes-with-splunk-phantom.html</link>
+      <description>Implement security playbooks to automatically delete Microsoft Exchange Webshells and terminate W3WP spawned processes with Splunk Phantom.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/automated-clean-up-of-hafnium-shells-and-processes-with-splunk-phantom.html</guid>
+    </item>
+    <item>
+      <title>Australia Is Investing in Resilience – Are Businesses Ready? | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/australia-is-investing-in-resilience-are-businesses-ready.html</link>
+      <description>Splunker Craig Bates explains why the most immediate — and underestimated — consequence of disruption isn’t always data loss. It’s downtime.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/australia-is-investing-in-resilience-are-businesses-ready.html</guid>
+    </item>
+    <item>
+      <title>Are You Forensic Ready? | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/are-you-forensic-ready.html</link>
+      <description>In the landscape of everyday operations, the concept of forensic readiness may often linger unnoticed in the background.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/are-you-forensic-ready.html</guid>
+    </item>
+    <item>
+      <title>ATT&amp;CK-ing the Adversary: Episode 2 - Hunting with ATT&amp;CK in Splunk | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/att-ck-ing-the-adversary-episode-2-hunting-with-att-ck-in-splunk.html</link>
+      <description>Using MITRE ATT&amp;CK to focus your threat hunting in Splunk</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/att-ck-ing-the-adversary-episode-2-hunting-with-att-ck-in-splunk.html</guid>
+    </item>
+    <item>
+      <title>Asset &amp; Identity for Splunk Enterprise Security - Part 3: Empowering Analysts with More Attributes in Notables | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-3-empowering-analysts-with-more-attributes-in-notables.html</link>
+      <description>This is part three in a three part series on the Asset &amp; Identity framework in Splunk Enterprise Security, focusing providing additional visibility and context to analysts with a notable event.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-3-empowering-analysts-with-more-attributes-in-notables.html</guid>
+    </item>
+    <item>
+      <title>Asset &amp; Identity for Splunk Enterprise Security - Part 2: Adding Additional Attributes to Assets | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-2-adding-additional-attributes-to-assets.html</link>
+      <description>This is part two in a three part series on the Asset &amp; Identity framework in Splunk Enterprise Security, focusing on adding additional field or attributes to further contextualize systems being monitored.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-2-adding-additional-attributes-to-assets.html</guid>
+    </item>
+    <item>
+      <title>Approaching Kubernetes Security — Detecting Kubernetes Scan with Splunk | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/approaching-kubernetes-security-detecting-kubernetes-scan-with-splunk.html</link>
+      <description>Approaching Kubernetes security. Detect and investigate Kubernetes cluster scan and fingerprinting using Splunk.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/approaching-kubernetes-security-detecting-kubernetes-scan-with-splunk.html</guid>
+    </item>
+    <item>
+      <title>Asset &amp; Identity for Splunk Enterprise Security - Part 1: Contextualizing Systems | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-1-contextualizing-systems.html</link>
+      <description>This is part one in a three part series on the Asset &amp; Identity framework in Splunk Enterprise Security, focusing on gaining context on systems being monitored.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-1-contextualizing-systems.html</guid>
+    </item>
+    <item>
+      <title>Approaching Linux Post-Exploitation with Splunk Attack Range | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/approaching-linux-post-exploitation-with-splunk-attack-range.html</link>
+      <description>An introduction to linux post exploitation simulation and threat detection using Splunk Attack Range and linux Sysmon.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/approaching-linux-post-exploitation-with-splunk-attack-range.html</guid>
+    </item>
+    <item>
+      <title>APAC BOTS Day 2022 | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/apac-bots-day-2022.html</link>
+      <description>Welcome to Splunk APAC BOTS Day 2022!</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/apac-bots-day-2022.html</guid>
+    </item>
+    <item>
+      <title>Active Directory Discovery Detection: Threat Research Release, September 2021 | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/active-directory-discovery-detection-threat-research-release-september-2021.html</link>
+      <description>In this blog post, we’ll walk you through this analytic story, demonstrate how we can simulate these attacks using PoshC2 &amp; PurpleSharp to then collect and analyze the resulting telemetry to test our detections.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/active-directory-discovery-detection-threat-research-release-september-2021.html</guid>
+    </item>
+    <item>
+      <title>Another Year of RATs and Trojan Stealer: Detection Commonalities and Summary | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/another-year-of-rats-and-trojan-stealer-detection-commonalities-and-summary.html</link>
+      <description>The Splunk Threat Research Team shares analysis, analytic stories and security detections for seven well-known RAT and Trojan Stealer malware families.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/another-year-of-rats-and-trojan-stealer-detection-commonalities-and-summary.html</guid>
+    </item>
+    <item>
+      <title>Autonomous Adversaries: Are Blue Teams Ready for Cyberattacks To Go Agentic? | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/agentic-adversaries-blue-teams-cyber-defense.html</link>
+      <description>Explore the impact of autonomous adversaries on cybersecurity as AI and LLMs evolve.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/agentic-adversaries-blue-teams-cyber-defense.html</guid>
+    </item>
+    <item>
+      <title>Answered: Your Most Burning Questions About Planning And Operationalizing MITRE ATT&amp;CK | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/answered-your-most-burning-questions-about-planning-and-operationalizing-mitre-attack.html</link>
+      <description>You asked, we answered. Splunker Matthias Maier compiled all of your most burning questions about planning and operationalizing MITRE ATT&amp;CK in a blog post. Read all about it here.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/answered-your-most-burning-questions-about-planning-and-operationalizing-mitre-attack.html</guid>
+    </item>
+    <item>
+      <title>Announcing the General Availability of Splunk® Enterprise Security 8.0 | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/announcing-the-general-availability-of-splunk-enterprise-security-8-0.html</link>
+      <description>We are thrilled to announce Splunk Enterprise Security 8.0 is now generally available.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/announcing-the-general-availability-of-splunk-enterprise-security-8-0.html</guid>
+    </item>
+    <item>
+      <title>Americas' BOTS Day '22 | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/americas-bots-day-22.html</link>
+      <description>With less than a month to go before Americas' BOTS Day '22, we thought it would be the perfect time to explain what’s happening and how the day will go.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/americas-bots-day-22.html</guid>
+    </item>
+    <item>
+      <title>API 2.0: TruSTAR Operationalizes Data Orchestration and Normalization for a New Era in Intelligence Management | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/api-2-0-trustar-operationalizes-data-orchestration-and-normalization-for-a-new-era-in-intelligence-management.html</link>
+      <description>TruSTAR announces new features making intelligence more actionable by simplifying intelligence ingestion, automating data flows and better informing SIEM, SOAR and Vulnerability Management programs.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/api-2-0-trustar-operationalizes-data-orchestration-and-normalization-for-a-new-era-in-intelligence-management.html</guid>
+    </item>
+    <item>
+      <title>Amadey Threat Analysis and Detections | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/amadey-threat-analysis-and-detections.html</link>
+      <description>The Splunk Threat Research Team shares a deep-dive analysis of the Amadey Trojan Stealer, an active and prominent malware that first emerged on the cybersecurity landscape in 2018 and has maintained a persistent botnet infrastructure ever since.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/amadey-threat-analysis-and-detections.html</guid>
+    </item>
+    <item>
+      <title>AI for Humans: A Beginner’s Field Guide | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/ai-beginners-cybersecurity-guide.html</link>
+      <description>Unlock AI with the our beginner's field guide. Demystify LLMs, Generative AI, and Agentic AI, exploring their evolution and critical cybersecurity applications.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/ai-beginners-cybersecurity-guide.html</guid>
+    </item>
+    <item>
+      <title>Announcing General Availability of Cisco Talos Intelligence in Splunk Attack Analyzer | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/announcing-general-availability-of-cisco-talos-intelligence-in-splunk-attack-analyzer.html</link>
+      <description>We are pleased to announce the general availability of Cisco Talos threat intelligence to all Splunk Attack Analyzer customers globally.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/announcing-general-availability-of-cisco-talos-intelligence-in-splunk-attack-analyzer.html</guid>
+    </item>
+    <item>
+      <title>Active Directory Lateral Movement Detection: Threat Research Release, November 2021 | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/active-directory-lateral-movement-detection-threat-research-release-november-2021.html</link>
+      <description>The Splunk Threat Research Team recently updated the Active Directory Lateral Movement analytic story to help security operations center (SOC) analysts detect adversaries executing these techniques within Windows Active Directory (AD) environments.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/active-directory-lateral-movement-detection-threat-research-release-november-2021.html</guid>
+    </item>
+    <item>
+      <title>Advanced Link Analysis, Part 3 - Visualizing Trillion Events, One Insight at a Time | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/advanced-link-analysis-part-3-visualizing-trillion-events-one-insight-at-a-time.html</link>
+      <description>Learn how to get actionable insights from large datasets using link analysis in the third installment of our Advanced Link Analysis series, showcasing the interactive visualization of advanced link analysis with Splunk partner, SigBay.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/advanced-link-analysis-part-3-visualizing-trillion-events-one-insight-at-a-time.html</guid>
+    </item>
+    <item>
+      <title>All the Proxy(Not)Shells | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/all-the-proxy-not-shells.html</link>
+      <description>The Splunk Threat Research Team walks through exploitation of ProxyShell and ProxyNotShell using MetaSploit, and hunts through data in Splunk to showcase different avenues for defenders to identify malicious activity.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/all-the-proxy-not-shells.html</guid>
+    </item>
+    <item>
+      <title>Analytics-Based Investigation and Automated Response with AWS + Splunk Security Solutions | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/analytics-based-investigation-and-automated-response-with-aws-splunk-security-solutions.html</link>
+      <description>Learn how AWS and these Splunk products work together to help you strengthen your security posture and defend against threats to your environment.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/analytics-based-investigation-and-automated-response-with-aws-splunk-security-solutions.html</guid>
+    </item>
+    <item>
+      <title>Obey My Logs! AI-Powered Compromised Credential Detection | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/ai-powered-compromised-credential-detection.html</link>
+      <description>Splunker Shannon Davis shares a closer look into how to detect compromised credentials with AI-powered PLoB.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/ai-powered-compromised-credential-detection.html</guid>
+    </item>
+    <item>
+      <title>All of Us Can Defend Each of Us | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/all-of-us-can-defend-each-of-us.html</link>
+      <description>Splunk's Global Security Strategist Mick Baccio shares his experience attending Hackers on the Hill and invites you to join him and SURGe leader, Ryan Kovar, for the Data Security Predictions 2023 webinar.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/all-of-us-can-defend-each-of-us.html</guid>
+    </item>
+    <item>
+      <title>Adaptable Incident Response With Splunk Phantom Modular Workbooks | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/adaptable-incident-response-with-splunk-phantom-modular-workbooks.html</link>
+      <description>Modular Workbooks allow you to effortlessly adapt your security operations workflow. Learn how Splunk Phantom SOAR can help divide tasks into phases, assign responsibilities to team members, and document your work.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/adaptable-incident-response-with-splunk-phantom-modular-workbooks.html</guid>
+    </item>
+    <item>
+      <title>AcidPour Wiper Malware: Threat Analysis and Detections | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/acidpour-wiper-malware-threat-analysis-and-detections.html</link>
+      <description>The Splunk Threat Research Team provides an analysis of AcidPour and how to use Splunk’s out-of-the-box security content to help defend against this wiper malware.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/acidpour-wiper-malware-threat-analysis-and-detections.html</guid>
+    </item>
+    <item>
+      <title>Advanced Link Analysis: Part 2 - Implementing Link Analysis | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/advanced-link-analysis-part-2-implementing-link-analysis.html</link>
+      <description>Learn how to step-by-step process to building the dashboard with Sigbay Link Analysis visualization app from scratch.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/advanced-link-analysis-part-2-implementing-link-analysis.html</guid>
+    </item>
+    <item>
+      <title>Advanced Link Analysis: Part 1 - Solving the Challenge of Information Density | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/advanced-link-analysis-part-1-solving-the-challenge-of-information-density.html</link>
+      <description>Leverage Sigbay's link analysis visualization to solve the challenge of information density.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/advanced-link-analysis-part-1-solving-the-challenge-of-information-density.html</guid>
+    </item>
+    <item>
+      <title>Add to Chrome? - Part 3: Findings and Recommendations | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/add-to-chrome-part-3-findings-and-recommendations.html</link>
+      <description>SURGe explores findings and general recommendations on whether or not you should click 'Add to Chrome' the next time you find a fancy new extension.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/add-to-chrome-part-3-findings-and-recommendations.html</guid>
+    </item>
+    <item>
+      <title>Add to Chrome? - Part 2: How We Did Our Research | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/add-to-chrome-part-2-how-we-did-our-research.html</link>
+      <description>SURGe explores the analysis pipeline in more detail and digs into the two main phases of this research – how the team collected the data and how they analyzed it.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/add-to-chrome-part-2-how-we-did-our-research.html</guid>
+    </item>
+    <item>
+      <title>Add To Chrome? - Part 4: Threat Hunting in 3-Dimensions: M-ATH in the Chrome Web Store | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/add-to-chrome-part-4-threat-hunting-in-3-dimensions-m-ath-in-the-chrome-web-store.html</link>
+      <description>SURGe experiments with a method to find masquerading using M-ATH with Splunk and the DSDL App.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/add-to-chrome-part-4-threat-hunting-in-3-dimensions-m-ath-in-the-chrome-web-store.html</guid>
+    </item>
+    <item>
+      <title>Add to Chrome? - Part 1: An Analysis of Chrome Browser Extension Security | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/add-to-chrome-part-1-an-analysis-of-chrome-browser-extension-security.html</link>
+      <description>An overview of SURGe research that analyzed the entire corpus of public browser extensions available on the Google Chrome Web Store.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/add-to-chrome-part-1-an-analysis-of-chrome-browser-extension-security.html</guid>
+    </item>
+    <item>
+      <title>8 reasons why you should splunk your backup solutions! | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/8-reasons-why-you-should-splunk-your-data-from-backup-solutions.html</link>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/8-reasons-why-you-should-splunk-your-data-from-backup-solutions.html</guid>
+    </item>
+    <item>
+      <title>Accelerate Rare Event Model Computation by Customizing Cardinality Constraints | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/accelerate-rare-event-model-computation-by-customizing-cardinality-constraints.html</link>
+      <description>Splunker Xiao Lin explores how 'cardinalitySizeLimit' works, its impact on UBA performance, and how to leverage this feature to enhance threat detection.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/accelerate-rare-event-model-computation-by-customizing-cardinality-constraints.html</guid>
+    </item>
+    <item>
+      <title>A Golden SAML Journey: SolarWinds Continued | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-golden-saml-journey-solarwinds-continued.html</link>
+      <description>The SolarWinds Orion compromise resulted in the first recorded use of Golden SAML in the wild. Learn how you can start detecting this in Splunk now.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-golden-saml-journey-solarwinds-continued.html</guid>
+    </item>
+    <item>
+      <title>A Threat As Old As The Internet: Why We Still Care About Malware (And Why You Should Too) | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-threat-as-old-as-the-internet-why-we-still-care-about-malware-and-why-you-should-too.html</link>
+      <description>Splunk's CISO Yassir Abousselham dives into why — as IT and security leaders — we need to come up with comprehensive strategies to specifically mitigate malware attacks.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-threat-as-old-as-the-internet-why-we-still-care-about-malware-and-why-you-should-too.html</guid>
+    </item>
+    <item>
+      <title>A Deeper Dive into TruSTAR Intel Workflows | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-deeper-dive-into-trustar-intel-workflows.html</link>
+      <description>Learn about TruSTAR's API 2.0, featuring TruSTAR Intel Workflows. This blog post provides a look at some technical aspects of the Indicator Prioritization Intel Workflow.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-deeper-dive-into-trustar-intel-workflows.html</guid>
+    </item>
+    <item>
+      <title>7 questions all CxOs should ask to increase cyber resilience before buying more software | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/7-questions-all-cxos-should-ask-to-increase-cyber-resilience-before-buying-more-software.html</link>
+      <description>Here are 7 questions you should always ask to help your organisation to make the best possible purchase and increase its cyber resilience at the same time.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/7-questions-all-cxos-should-ask-to-increase-cyber-resilience-before-buying-more-software.html</guid>
+    </item>
+    <item>
+      <title>A Case Study in Vulnerability Prioritization: Lessons Learned from Large-Scale Incidents | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-case-study-in-vulnerability-prioritization-the-lessons-learned-from-large-scale-incidents.html</link>
+      <description>Splunker Audra Streetman provides an overview of the lessons learned from previous large-scale security incidents to help inform vulnerability prioritization.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-case-study-in-vulnerability-prioritization-the-lessons-learned-from-large-scale-incidents.html</guid>
+    </item>
+    <item>
+      <title>7 High-Risk Events to Monitor Under GDPR: Lessons Learned from the ICO’s BA Penalty Notice | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/7-high-risk-events-to-monitor-under-gdpr-lessons-learned-from-the-ico-s-ba-penalty-notice.html</link>
+      <description>British Airways made the headlines when they were hacked, customer details stolen and were issued a Penalty Notice by the UK ICO. Matthias Maier took a closer look at the document and recapitulated the key takeaways any IT security person can learn from.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/7-high-risk-events-to-monitor-under-gdpr-lessons-learned-from-the-ico-s-ba-penalty-notice.html</guid>
+    </item>
+    <item>
+      <title>2022 Gartner Magic Quadrant for SIEM: Splunk Named a Leader for the 9th Consecutive Year | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/2022-gartner-magic-quadrant-for-siem-splunk-named-a-leader-for-the-9th-consecutive-year.html</link>
+      <description>Splunk has been named a Leader in the 2022 Gartner Magic Quadrant for Security Information and Event Management, marking the ninth consecutive year for Splunk in the Leaders Quadrant.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/2022-gartner-magic-quadrant-for-siem-splunk-named-a-leader-for-the-9th-consecutive-year.html</guid>
+    </item>
+    <item>
+      <title>2025 Worldwide BOTS Day | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/2025-worldwide-bots-day.html</link>
+      <description>After a successful launch of BOTS at .conf25, we’re ready to take it to the masses with two worldwide BOTS10 competitions.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/2025-worldwide-bots-day.html</guid>
+    </item>
+    <item>
+      <title>A Path to Proactive Security Through Automation | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-path-to-proactive-security-through-automation.html</link>
+      <description>The sheer number of cyberattacks launched against organizations every year is massive and growing. Learn how automation can help your security team chart a new path forward.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-path-to-proactive-security-through-automation.html</guid>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Addressing CISOs AI Anxieties Through Resilience | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/addressing-cisos-ai-anxieties-through-resilience.html</link>
+      <description>Splunk's Paul Kurtz explores how CISOs’ jobs will become more complex as they address AI-driven attacks, automated vulnerability exploitation, battle data poisoning, or deep fakes that make current phishing tactics look quaint.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/addressing-cisos-ai-anxieties-through-resilience.html</guid>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Important German BSI Documents Every SIEM &amp; SOC Manager Needs To Know About | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/3-important-german-bsi-documents-every-siem-soc-manager-needs-to-know-about.html</link>
+      <description>The German IT Security Act 2.0 (IT-SiG 2.0) has been in force for some time now. Due to this new law, significantly more German companies have been classified as operators of critial infrastructures (KRITIS) than ever. This is a major cause of headaches for many managers. In addition, IT departments are starting to ask themselves: "Are we now regarded as KRITIS"? And if so, "What do we have to take into consideration?" Splunker Matthias Maier shares the 3 most important BSI documents every SIEM and SOC manager needs to know about.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/3-important-german-bsi-documents-every-siem-soc-manager-needs-to-know-about.html</guid>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI: Keep Your Feet on the Ground | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/ai-keep-your-feet-on-the-ground.html</link>
+      <description>Splunk is excited about AI, but we're keeping our boots on the ground as we partner with customers to leverage AI to improve efficiency while continuing the essentials via Splunk’s platform.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/ai-keep-your-feet-on-the-ground.html</guid>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

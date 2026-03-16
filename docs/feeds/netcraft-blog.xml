@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Netcraft Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:45:49 +0000</lastBuildDate>
+    <item>
+      <title>What Is Brand Protection? How It Stops Online Impersonation</title>
+      <link>https://www.netcraft.com/blog/what-is-brand-protection-and-how-does-it-stop-online-impersonation</link>
+      <description>Learn how brand protection safeguards your business from online impersonation threats like phishing, smishing, and fake websites. See why it’s critical to digital risk protection—and how to get started today.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/what-is-brand-protection-and-how-does-it-stop-online-impersonation</guid>
+    </item>
+    <item>
+      <title>Reputation is ROI: Why Banks Must Defend Their Brand in 2025</title>
+      <link>https://www.netcraft.com/blog/reputation-is-roi-the-case-for-bank-reputation-defense</link>
+      <description>Generative AI has made bank impersonation faster, cheaper, and more convincing than ever. Discover why brand protection delivers rapid ROI—and how to safeguard your financial institution’s reputation now.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/reputation-is-roi-the-case-for-bank-reputation-defense</guid>
+    </item>
+    <item>
+      <title>9 Ways to Build Buy-In for Modern Brand Protectio</title>
+      <link>https://www.netcraft.com/blog/9-ways-to-build-buy-in-for-modern-brand-protection</link>
+      <description>Learn how to secure cross-functional support for brand protection by connecting threats to real incidents, metrics that matter, and automation that scales.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/9-ways-to-build-buy-in-for-modern-brand-protection</guid>
+    </item>
+    <item>
+      <title>August 2025 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/august-2025-web-server-survey</link>
+      <description>In the August 2025 survey we received responses from 1,300,016,299 sites across 281,522,947 domains and 13,797,308 web-facing computers. This refle...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/august-2025-web-server-survey</guid>
+    </item>
+    <item>
+      <title>Boxing Clever: Uncovering a $1M Task Scam Cluster Exploiting Major Brands</title>
+      <link>https://www.netcraft.com/blog/boxing-clever-the-million-dollar-task-scam-cluster</link>
+      <description>Netcraft exposes a global task scam cluster exploiting brands like Delta, AMC, and Universal Studios. Using API-driven templates and crypto payments, the fraud has already linked to over $1M in transactions.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/boxing-clever-the-million-dollar-task-scam-cluster</guid>
+    </item>
+    <item>
+      <title>How Hiragana ‘ん’ Is Fooling Users in Phishing Attacks | Netcraft Threat Research</title>
+      <link>https://www.netcraft.com/blog/down-the-hiragana-hole-uncovering-a-new-wave-of-lookalike-domains</link>
+      <description>Cybercriminals are exploiting the Japanese Hiragana character “ん” in phishing domains to mimic trusted sites like Booking.com, Microsoft, and crypto wallets. Learn how this homoglyph trick evades detection and what defenders can do to stay ahead.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/down-the-hiragana-hole-uncovering-a-new-wave-of-lookalike-domains</guid>
+    </item>
+    <item>
+      <title>The False Positive Tax: How Bad Automation Destroys Security Program Credibility</title>
+      <link>https://www.netcraft.com/blog/the-false-positive-tax-how-bad-automation-destroys-security-program-credibility</link>
+      <description>False positives cost more than time. They damage trust, waste resources, and drive burnout. Unspoken Security's AJ Nash explores how to get automation right and rebuild credibility in your security program.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-false-positive-tax-how-bad-automation-destroys-security-program-credibility</guid>
+    </item>
+    <item>
+      <title>From Bots to Inboxes: The 2025 Shift in Phishing Infrastructure</title>
+      <link>https://www.netcraft.com/blog/from-bots-to-inboxes-how-phishing-infrastructure-is-shifting-in-2025</link>
+      <description>Phishing is moving from encrypted platforms like Telegram back to email. Learn why cybercriminals are shifting tactics — and how to protect your business in 2025.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/from-bots-to-inboxes-how-phishing-infrastructure-is-shifting-in-2025</guid>
+    </item>
+    <item>
+      <title>Lighthouse &amp; Lucid: Netcraft Exposes 17,500+ Phishing-as-a-Service Domains</title>
+      <link>https://www.netcraft.com/blog/inside-the-lighthouse-and-lucid-phaas-campaigns-targeting-316-global-brands</link>
+      <description>Netcraft uncovers 17,500+ phishing domains linked to the Lighthouse and Lucid PhaaS platforms, targeting 316 brands across 74 countries. Learn how automation and intelligence help disrupt these evolving threats.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/inside-the-lighthouse-and-lucid-phaas-campaigns-targeting-316-global-brands</guid>
+    </item>
+    <item>
+      <title>The Comprehensive Guide to Brand Protection in 2026</title>
+      <link>https://www.netcraft.com/blog/the-comprehensive-guide-to-brand-protection-7-proven-ways-to-protect-your-brand-in-2026</link>
+      <description>Discover 7 proven strategies to protect your brand online in 2026 across domains, social media, search, and marketplaces in this blog from Netcraft.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-comprehensive-guide-to-brand-protection-7-proven-ways-to-protect-your-brand-in-2026</guid>
+    </item>
+    <item>
+      <title>September 2025 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/september-2025-web-server-survey</link>
+      <description>In the September 2025 survey we received responses from 1,337,528,194 sites across 285,209,235 domains and 13,806,606 web-facing computers. This re...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/september-2025-web-server-survey</guid>
+    </item>
+    <item>
+      <title>When Student Code Becomes a Phishing Kit: The Hidden Risks of Website Cloning Tutorials</title>
+      <link>https://www.netcraft.com/blog/for-education-purposes-only-when-web-design-lessons-teach-phishing</link>
+      <description>Netcraft research reveals how online coding tutorials and student “website clone” projects can unintentionally create fully functional phishing kits mimicking brands like Amazon and Instagram. Learn how innocent exercises become cybercrime tools—and what educators can do to prevent it.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/for-education-purposes-only-when-web-design-lessons-teach-phishing</guid>
+    </item>
+    <item>
+      <title>Retro Phishing Returns: Basic Auth URLs Target Japanese Banks</title>
+      <link>https://www.netcraft.com/blog/retro-phishing-basic-auth-urls-make-a-comeback-in-japan</link>
+      <description>Netcraft uncovers a phishing campaign targeting GMO Aozora Bank using legacy Basic Authentication URLs. Learn how this outdated technique is being revived to deceive users and what organizations can do to defend against it.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/retro-phishing-basic-auth-urls-make-a-comeback-in-japan</guid>
+    </item>
+    <item>
+      <title>Tax Refund &amp; Road Toll Smishing Scams Surge Ahead of IRS Deadline</title>
+      <link>https://www.netcraft.com/blog/taxpayers-drivers-targeted-in-refund-and-road-toll-smishing-scams</link>
+      <description>Threat actors deployed over 850 fake tax and toll websites to steal personal and financial data from U.S. and international victims. Netcraft uncovers the latest smishing campaign targeting taxpayers and drivers ahead of the October 15 IRS extension deadline.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/taxpayers-drivers-targeted-in-refund-and-road-toll-smishing-scams</guid>
+    </item>
+    <item>
+      <title>Disrupting Phone Scams at Scale with Netcraft Automation</title>
+      <link>https://www.netcraft.com/blog/disrupting-phone-number-scams-at-scale-why-it-matters-and-how-to-do-it-right</link>
+      <description>Stop phone number scams before they spread. Learn how Netcraft’s automated takedowns disrupt impersonation attacks fast across 70+ global carriers.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/disrupting-phone-number-scams-at-scale-why-it-matters-and-how-to-do-it-right</guid>
+    </item>
+    <item>
+      <title>Why Manual Scam Takedowns Fall Short</title>
+      <link>https://www.netcraft.com/blog/why-one-and-done-is-not-enough-the-cat-and-mouse-effect-of-manual-scam-takedowns</link>
+      <description>Manual phishing takedowns can’t keep up with industrialized cybercrime. Learn how automation and intelligence help defenders break the cat-and-mouse cycle.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/why-one-and-done-is-not-enough-the-cat-and-mouse-effect-of-manual-scam-takedowns</guid>
+    </item>
+    <item>
+      <title>October 2025 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/october-2025-web-server-survey</link>
+      <description>In the October 2025 survey we received responses from 1,354,989,060 sites across 287,483,538 domains and 13,889,556 web-facing computers. This refl...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/october-2025-web-server-survey</guid>
+    </item>
+    <item>
+      <title>6 Best Brand Protection Platforms for 2025: Safeguard Your Online Reputation</title>
+      <link>https://www.netcraft.com/blog/6-best-brand-protection-platforms-for-defending-your-company-s-online-reputation</link>
+      <description>Explore the top 6 brand protection platforms for 2025. Compare features, integrations, and performance to find the best software to defend your company’s online reputation from phishing, impersonation, and counterfeit threats.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/6-best-brand-protection-platforms-for-defending-your-company-s-online-reputation</guid>
+    </item>
+    <item>
+      <title>Recent Cryptocurrency Investment Scam Campaigns: AI Themes, Cloaking &amp; Industrialized Fraud</title>
+      <link>https://www.netcraft.com/blog/recent-cryptocurrency-investment-scam-campaigns-cloaking-ai-themes-and-the-industrialization-of-fraud</link>
+      <description>Netcraft reveals how cryptocurrency investment scams have evolved into industrial-scale operations, using AI themes, cloaking, and malvertising to evade detection. More than 1.36 million scam sites removed since 2020.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/recent-cryptocurrency-investment-scam-campaigns-cloaking-ai-themes-and-the-industrialization-of-fraud</guid>
+    </item>
+    <item>
+      <title>Thousands of Fake Hotel Domains Used in Massive Phishing Campaign</title>
+      <link>https://www.netcraft.com/blog/thousands-of-domains-target-hotel-guests-in-massive-phishing-campaign</link>
+      <description>A Russian-speaking threat actor has registered 4,300+ domains in a sophisticated phishing campaign impersonating major travel brands like Airbnb and Booking.com to steal travelers’ payment data. Learn how Netcraft uncovered the operation.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/thousands-of-domains-target-hotel-guests-in-massive-phishing-campaign</guid>
+    </item>
+    <item>
+      <title>Hurricane Melissa Relief Scams: How Criminals Exploit Disaster</title>
+      <link>https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</link>
+      <description>After Hurricane Melissa hit Jamaica, cybercriminals launched fake charity sites. Learn how Netcraft uncovers and blocks disaster-themed scams.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</guid>
+    </item>
+    <item>
+      <title>Shared Document Spam Delivers Remote Access Tool</title>
+      <link>https://www.netcraft.com/blog/shared-document-spam-delivers-remote-access-tool</link>
+      <description>A fake document-sharing campaign delivers a signed remote access tool via Google Drive, granting attackers full control of victims’ systems.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/shared-document-spam-delivers-remote-access-tool</guid>
+    </item>
+    <item>
+      <title>Best Practices for Financial Services Cybersecurity</title>
+      <link>https://www.netcraft.com/blog/solving-digital-brand-risks-the-definitive-financial-sector-playbook</link>
+      <description>Explore the different cyber threats financial institutions face on a daily basis and how to mitigate them on this blog from Netcraft.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/solving-digital-brand-risks-the-definitive-financial-sector-playbook</guid>
+    </item>
+    <item>
+      <title>2025 Black Friday Fake Shops: Faster, Smarter, More Deceptive</title>
+      <link>https://www.netcraft.com/blog/inside-the-2025-fake-shop-shift-less-noise-more-deception</link>
+      <description>Black Friday fake shops surge sharply in early November. Netcraft uncovers the 2025 shift: fewer totals, smarter tactics, global targeting, and AI-driven deception.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/inside-the-2025-fake-shop-shift-less-noise-more-deception</guid>
+    </item>
+    <item>
+      <title>November 2025 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/november-2025-web-server-survey</link>
+      <description>In the November 2025 survey we received responses from 1,366,582,597 sites across 288,926,456 domains and 14,008,584 web-facing computers. This ref...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/november-2025-web-server-survey</guid>
+    </item>
+    <item>
+      <title>Fake Investment Platform Reputation Laundering: Felix Markets</title>
+      <link>https://www.netcraft.com/blog/fake-investment-platform-reputation-laundering-felix-markets</link>
+      <description>Learn how Felix Markets posed as a regulated forex broker, exploited fake authorities, copied legal documents, and used sports sponsorship to appear legitimate.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/fake-investment-platform-reputation-laundering-felix-markets</guid>
+    </item>
+    <item>
+      <title>Ultimate Fraud Prevention: How Banks Can Stop Scam Websites Fast</title>
+      <link>https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</link>
+      <description>Discover how banks can detect, disrupt, and rapidly remove fake websites. Learn common spoofing tactics, fast takedown steps, and how Netcraft protects your customers.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</guid>
+    </item>
+    <item>
+      <title>Automated Threat Response at Scale: Netcraft Integrations &amp; APIs</title>
+      <link>https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</link>
+      <description>See how Netcraft integrations and APIs power faster detection, automated takedowns, and unified threat response across SIEMs, SOC tools, and internal systems.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</guid>
+    </item>
+    <item>
+      <title>Confluence “RFP” Phishing Scam Uses Weaponized SVGs to Steal Microsoft 365 Credentials</title>
+      <link>https://www.netcraft.com/blog/confluence-svg-rfp-phishing-scam</link>
+      <description>Attackers are abusing public Atlassian Confluence pages and weaponized SVG files to redirect victims to Microsoft 365 and Google phishing sites using advanced evasion techniques.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/confluence-svg-rfp-phishing-scam</guid>
+    </item>
+    <item>
+      <title>December 2025 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/december-2025-web-server-survey</link>
+      <description>In the December 2025 survey we received responses from 1,389,596,802 sites across 291,965,818 domains and 13,972,590 web-facing computers. This ref...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/december-2025-web-server-survey</guid>
+    </item>
+    <item>
+      <title>Lookalike Domains: Why “rn” vs “m” Still Works in Phishing</title>
+      <link>https://www.netcraft.com/blog/the-lowest-tech-homoglyph-that-wont-die</link>
+      <description>The “rn”→“m” homoglyph is still powering phishing via lookalike domains. See real examples across brands and how to detect and stop them.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-lowest-tech-homoglyph-that-wont-die</guid>
+    </item>
+    <item>
+      <title>Phishing Takedown Providers: A Definitive Guide to Speed, Automation, and Scale</title>
+      <link>https://www.netcraft.com/blog/the-definitive-guide-on-leading-phishing-takedown-providers</link>
+      <description>Phishing is now industrialized. Learn how modern phishing takedown services use automation, AI, and global enforcement to stop impersonation attacks fast.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-definitive-guide-on-leading-phishing-takedown-providers</guid>
+    </item>
+    <item>
+      <title>How to Prevent Phishing Attacks | Attack Recovery Guides</title>
+      <link>https://www.netcraft.com/blog/how-to-prevent-phishing</link>
+      <description>Phishing is a persistent threat many organizations face. Learn how to prevent phishing attacks on this helpful attack recovery guide from Netcraft.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/how-to-prevent-phishing</guid>
+    </item>
+    <item>
+      <title>How Scams Really Work: Inside the Industrial Fraud Ecosystem</title>
+      <link>https://www.netcraft.com/blog/how-scams-really-work</link>
+      <description>With fraud losses hitting $12.5B in 2024, scams are more effective than ever. This deep dive explains the scam supply chain—and how to disrupt it at scale.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/how-scams-really-work</guid>
+    </item>
+    <item>
+      <title>January 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/january-2026-web-server-survey</link>
+      <description>In the January 2026 survey we received responses from 1,376,952,390 sites across 295,088,466 domains and 14,365,221 web-facing computers. This refl...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/january-2026-web-server-survey</guid>
+    </item>
+    <item>
+      <title>Part-Time Money Laundering: How Students Are Tricked into Becoming Money Mules</title>
+      <link>https://www.netcraft.com/blog/part-time-money-laundering-the-student-job-to-avoid</link>
+      <description>Criminals are targeting students with fake job offers that turn them into unwitting money mules. Learn how these scams work, the risks involved, and how Netcraft’s research helps expose them.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/part-time-money-laundering-the-student-job-to-avoid</guid>
+    </item>
+    <item>
+      <title>The Ultimate Guide to Domain Takedown Services in 2026</title>
+      <link>https://www.netcraft.com/blog/the-ultimate-guide-to-domain-takedown-services</link>
+      <description>Learn how domain takedown services protect your brand from phishing, PhaaS, and smishing with rapid detection, automated blocking, and permanent content removal.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-ultimate-guide-to-domain-takedown-services</guid>
+    </item>
+    <item>
+      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
+      <link>https://www.netcraft.com/blog/neutralizing-agentic-threats-how-drp-solutions-are-evolving-in-2026</link>
+      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/neutralizing-agentic-threats-how-drp-solutions-are-evolving-in-2026</guid>
+    </item>
+    <item>
+      <title>Phone Scams Explained: How Criminal Call Centers Exploit Trust</title>
+      <link>https://www.netcraft.com/blog/phone-scams-what-happens-behind-the-switchboard</link>
+      <description>Phone scams cost Americans $12.5B in 2024. Discover how organized fraud operations use spoofing, smishing, and psychological manipulation—and what actually stops them.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/phone-scams-what-happens-behind-the-switchboard</guid>
+    </item>
+    <item>
+      <title>How to Monitor for Phishing Attacks Targeting Your Customers</title>
+      <link>https://www.netcraft.com/blog/how-to-monitor-for-phishing-attacks-targeting-your-customers</link>
+      <description>Traditional anti-phishing is failing. Discover how to detect machine-speed deception and protect your brand's reputation from sophisticated AI phishing attacks.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/how-to-monitor-for-phishing-attacks-targeting-your-customers</guid>
+    </item>
+    <item>
+      <title>February 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/february-2026-web-server-survey</link>
+      <description>In the February 2026 survey we received responses from 1,419,977,535 sites across 297,071,903 domains and 14,379,914 web-facing computers. This ref...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/february-2026-web-server-survey</guid>
+    </item>
+    <item>
+      <title>Using Digital Risk Protection to Secure What EASM Can’t</title>
+      <link>https://www.netcraft.com/blog/closing-the-visibility-gap-how-drp-secures-what-easm-cant-see</link>
+      <description>Learn how digital risk protection (DRP) solutions uncover threats that external attack surface management (EASM) misses.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/closing-the-visibility-gap-how-drp-secures-what-easm-cant-see</guid>
+    </item>
+    <item>
+      <title>Remote Access Delivered Through Fake Zoom and Google Meet Calls</title>
+      <link>https://www.netcraft.com/blog/remote-access-delivery-via-fake-meetings</link>
+      <description>Netcraft uncovered a campaign using fake Zoom and Google Meet pages to lure victims into fraudulent meetings that deliver remote-access software. Learn how the attack works and how organizations can defend against it.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/remote-access-delivery-via-fake-meetings</guid>
+    </item>
+    <item>
+      <title>Middle East Crisis Exploited by Fraudsters: Government Impersonation and Evacuation Scam Infrastructure Identified</title>
+      <link>https://www.netcraft.com/blog/middle-east-crisis-opportunistic-fraud</link>
+      <description>Threat actors are already exploiting the Middle East crisis with government-impersonation phishing and evacuation-themed domains. Netcraft investigates emerging fraud infrastructure and suspicious activity tied to the disruption.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/middle-east-crisis-opportunistic-fraud</guid>
+    </item>
+    <item>
+      <title>The 5 Channels Digital Risk Protection Services Should Monitor</title>
+      <link>https://www.netcraft.com/blog/5-channels-your-drp-service-should-monitor</link>
+      <description>From fake apps to dark web leaks, learn the 5 critical channels a modern DRP service should monitor and why comprehensive coverage is essential in 2026.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/5-channels-your-drp-service-should-monitor</guid>
+    </item>
+    <item>
+      <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>
+      <link>https://www.netcraft.com/blog/diving-into-the-talent-pool-threat-actors-target-job-seekers-with-complex-recruitment-scams</link>
+      <description>Netcraft uncovers complex recruitment scams impersonating employers, agencies, and even governments. Learn how these threat actors operate and how to protect yourself and your team.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/diving-into-the-talent-pool-threat-actors-target-job-seekers-with-complex-recruitment-scams</guid>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forrester Total Economic Impact Study, commissioned by Netcraft</title>
+      <link>https://www.netcraft.com/blog/cut-risk-boost-roi-what-forrester-found-when-they-studied-netcraft-clients</link>
+      <description>Discover how Netcraft’s Brand Protection platform delivers 323% ROI, faster threat mitigation, and major time savings—validated by Forrester’s TEI study.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/cut-risk-boost-roi-what-forrester-found-when-they-studied-netcraft-clients</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Brand Protection Software? | Netcraft Guide</title>
+      <link>https://www.netcraft.com/blog/what-does-brand-protection-software-do</link>
+      <description>Brand protection software detects, tracks, and removes online threats like spoofed domains, fake profiles, and phishing attacks. Learn more on Netcraft’s blog.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/what-does-brand-protection-software-do</guid>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Haozi’s Plug-and-Play Phishing Service Enables $280K in Fraud</title>
+      <link>https://www.netcraft.com/blog/haozi-s-plug-and-play-phishing-as-a-service-has-facilitated-280-000-of-criminal-transactions</link>
+      <description>Discover how the Haozi Phishing-as-a-Service group is fueling cybercrime with user-friendly kits, turnkey admin panels, and a $280K+ ad-driven ecosystem—all while offering customer support via Telegram.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/haozi-s-plug-and-play-phishing-as-a-service-has-facilitated-280-000-of-criminal-transactions</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2025 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/may-2025-web-server-survey</link>
+      <description>In the May 2025 survey we received responses from 1,227,232,638 sites across 277,546,948 domains and 13,470,692 web-facing computers. This reflects...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/may-2025-web-server-survey</guid>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

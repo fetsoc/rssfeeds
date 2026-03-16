@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Semperis Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/semperis-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/semperis-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:48:33 +0000</lastBuildDate>
+    <item>
+      <title>Semperis Identity Attack Watch: February 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/semperis-identity-attack-watch-february-2021/</link>
+      <description>Active Directory cyberattacks are on the upswing, putting pressure on AD, identity, and security teams to monitor the constantly shifting AD-focused threat landscape.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/semperis-identity-attack-watch-february-2021/</guid>
+      <pubDate>Fri, 26 Feb 2021 18:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semperis Sweeps Three Categories at the 2021 Global InfoSec Awards - Semperis</title>
+      <link>https://www.semperis.com/blog/semperis-sweeps-three-categories-at-the-2021-global-infosec-awards/</link>
+      <description>Semperis has been named a winner in the 2021 Global InfoSec Awards from Cyber Defense Magazine across three categories.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/semperis-sweeps-three-categories-at-the-2021-global-infosec-awards/</guid>
+      <pubDate>Tue, 18 May 2021 15:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semperis Directory Services Protector Wins 2021 Fortress Cyber Security Award - Semperis</title>
+      <link>https://www.semperis.com/blog/semperis-named-winner-in-the-2021-fortress-cyber-security-awards-for-directory-services-protector/</link>
+      <description>Semperis was named a winner in the 2021 Fortress Cyber Security Awards for Directory Services Protector (DSP) by the Business Intelligence Group. Read to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/semperis-named-winner-in-the-2021-fortress-cyber-security-awards-for-directory-services-protector/</guid>
+      <pubDate>Tue, 15 Jun 2021 20:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: June 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-june-2021/</link>
+      <description>Roundup of the latest identity-related cyberattacks, including ransomware attacks on Colonial Pipeline, JBS, FujiFilm, and more. Read "Identity Attack Watch: June 2021" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-june-2021/</guid>
+      <pubDate>Fri, 25 Jun 2021 20:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: July 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-july-2021/</link>
+      <description>Semperis Research Team highlights recent Active Directory cyberattacks including details about the MeteorExpress, and more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-july-2021/</guid>
+      <pubDate>Fri, 30 Jul 2021 20:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting and Mitigating the PetitPotam Attack on Windows Domains - Semperis</title>
+      <link>https://www.semperis.com/blog/petitpotam-attack-on-windows-domains/</link>
+      <description>Learn how to detect and mitigate PetitPotam, a combination of several attacks that require only network access with potential to gain full Domain Admin permissions.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/petitpotam-attack-on-windows-domains/</guid>
+      <pubDate>Mon, 02 Aug 2021 18:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: August 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-august-2021/</link>
+      <description>ProxyShell, PetitPotam, Hive, and LockBit 2.0 cyberattacks are on the rise. Read "Identity Attack Watch: August 2021" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-august-2021/</guid>
+      <pubDate>Fri, 27 Aug 2021 20:06:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: September 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-september-2021/</link>
+      <description>This roundup of identity-related cyberattacks includes a new U.S. government advisory about the escalation in Conti group attacks and surges in activity from the LockBit and BlackMatter ransomware groups.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-september-2021/</guid>
+      <pubDate>Fri, 24 Sep 2021 20:04:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: October 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-october-2021/</link>
+      <description>Identity related cyberattacks, Microsoft’s warnings about delegating privileges, and more in the Semperis Identity Attack Watch series.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-october-2021/</guid>
+      <pubDate>Fri, 29 Oct 2021 22:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>HIP Conference 2021: Practical AD Security Fixes for Today and Identity Protection Trends for Tomorrow - Semperis</title>
+      <link>https://www.semperis.com/blog/hip-conference-2021-addresses-identity-related-cyberattacks/</link>
+      <description>2021 Hybrid Identity Protection Conference, practical tips for securing Active Directory. Click "Practical AD Security Fixes" for more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/hip-conference-2021-addresses-identity-related-cyberattacks/</guid>
+      <pubDate>Thu, 04 Nov 2021 22:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: November 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-november-2021/</link>
+      <description>Explore a new Windows zero-day vulnerability that can give malicious actors admin privileges, and more. Click to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-november-2021/</guid>
+      <pubDate>Tue, 30 Nov 2021 16:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: December 2021 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-december-2021/</link>
+      <description>This month's cyberattack roundup includes two Active Directory vulnerabilities that could allow attackers to take over Windows domains, the Log4j vulnerability, and new activity from the Cuba ransomware group. Read our recent post "Identity Attack Watch: December 2021" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-december-2021/</guid>
+      <pubDate>Fri, 31 Dec 2021 16:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMA Report: Unknown Vulnerabilities Emerge as Top Active Directory Security Concern - Semperis</title>
+      <link>https://www.semperis.com/blog/ema-report-unknown-active-directory-vulnerabilities-top-security-concern/</link>
+      <description>Unknown vulnerabilities are the top Active Directory security concern of IT and security practitioners from a new report from EMA.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/ema-report-unknown-active-directory-vulnerabilities-top-security-concern/</guid>
+      <pubDate>Wed, 26 Jan 2022 00:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: January 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-january-2022/</link>
+      <description>Exploits of Azure Active Directory cyberattacks lacking MFA enforcement, and more as part of Semperis Identity Attack Watch. Click to learn.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-january-2022/</guid>
+      <pubDate>Fri, 28 Jan 2022 17:06:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semperis Chief Technologist Guido Grillenmeier Speaks at 18th German IT Security Congress - Semperis</title>
+      <link>https://www.semperis.com/blog/semperis-chief-technologist-guido-grillenmeier-speaks-at-18th-german-it-security-congress/</link>
+      <description>The 18th German IT Security Congress is a high-profile event over two days with rigorously selected speakers from government,</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/semperis-chief-technologist-guido-grillenmeier-speaks-at-18th-german-it-security-congress/</guid>
+      <pubDate>Tue, 01 Feb 2022 06:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>SPN-jacking: An Edge Case in WriteSPN Abuse - Semperis</title>
+      <link>https://www.semperis.com/blog/spn-jacking-an-edge-case-in-writespn-abuse/</link>
+      <description>Attackers can manipulate SPN, without obtaining SeEnableDelegation privileges. Read our post on SPN-jacking to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/spn-jacking-an-edge-case-in-writespn-abuse/</guid>
+      <pubDate>Thu, 10 Feb 2022 08:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: February 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-february-2022/</link>
+      <description>Semperis researchers summarize data wiper malware used in cyberattacks that took out Ukrainian sites, and more. Read our recent post.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-february-2022/</guid>
+      <pubDate>Fri, 25 Feb 2022 19:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Hybrid Identity Environments Against Cyberattacks - Semperis</title>
+      <link>https://www.semperis.com/blog/defending-hybrid-identity-environments-against-cyberattacks/</link>
+      <description>Security experts conclude that current identity and access management (IAM) practices aren’t up to the task of securing hybrid ecosystems.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/defending-hybrid-identity-environments-against-cyberattacks/</guid>
+      <pubDate>Mon, 28 Feb 2022 21:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Active Directory Is First Step in Aligning with New UK Financial Conduct Authority Guidelines - Semperis</title>
+      <link>https://www.semperis.com/blog/financial-conduct-authority-fca-secure-active-directory/</link>
+      <description>To comply with UK Financial Conduct Authority (FCA) regulations for operational resilience, secure Active Directory from cyberattacks. Read our recent post "Securing Active Directory Is First Step in Aligning with New UK Financial Conduct Authority Guidelines" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/financial-conduct-authority-fca-secure-active-directory/</guid>
+      <pubDate>Mon, 21 Mar 2022 15:03:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: March 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-march-2022/</link>
+      <description>Recent identity-related cyberattacks include the HermeticWiper attacks on Ukrainian organizations, and more can be read about in our recent post.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-march-2022/</guid>
+      <pubDate>Thu, 31 Mar 2022 15:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Azure AD Security Indicators Help Protect Hybrid Identity Environments - Semperis</title>
+      <link>https://www.semperis.com/blog/azure-ad-security-indicators/</link>
+      <description>Here’s a rundown of security indicators in Semperis DSP and why they’re important to your Azure AD security posture. Click to learn more!</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/azure-ad-security-indicators/</guid>
+      <pubDate>Thu, 21 Apr 2022 17:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revisiting the Colonial Pipeline Cyberattack, One Year Later - Semperis</title>
+      <link>https://www.semperis.com/blog/revisiting-the-colonial-pipeline-cyberattack-one-year-later/</link>
+      <description>What have we learned since the Colonial Pipeline cyberattack? Read "Revisiting the Colonial Pipeline Cyberattack, One Year Later" to find out.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/revisiting-the-colonial-pipeline-cyberattack-one-year-later/</guid>
+      <pubDate>Fri, 06 May 2022 14:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid Identity Protection: IDPro Founder Ian Glazer - Semperis</title>
+      <link>https://www.semperis.com/blog/hybrid-identity-protection-idpro-founder-ian-glazer/</link>
+      <description>Catch IDPro founder on the latest episode of HIP! Learn more in "Hybrid Identity Protection: IDPro Founder Ian Glazer".</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/hybrid-identity-protection-idpro-founder-ian-glazer/</guid>
+      <pubDate>Wed, 11 May 2022 17:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>What It Means to be a Mission-Driven Company - Semperis</title>
+      <link>https://www.semperis.com/blog/what-it-means-to-be-a-mission-driven-company/</link>
+      <description>Does being "mission-driven matter? It matters to us. Learn more in "What It Means to be a Mission-Driven Company".</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/what-it-means-to-be-a-mission-driven-company/</guid>
+      <pubDate>Wed, 18 May 2022 13:38:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Achieving Operational Resilience with Simon Hodgkinson - Semperis</title>
+      <link>https://www.semperis.com/blog/achieving-operational-resilience-with-simon-hodgkinson/</link>
+      <description>How does disaster recovery contribute to operational resilience? Read "Achieving Operational Resilience with Simon Hodgkinson" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/achieving-operational-resilience-with-simon-hodgkinson/</guid>
+      <pubDate>Wed, 15 Jun 2022 15:20:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: June 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-june-2022/</link>
+      <description>Semperis Research Team highlights increased activity by Conti, BlackCat attackers targeting Exchange servers, and more in "Identity Attack Watch: June 2022"</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-june-2022/</guid>
+      <pubDate>Thu, 30 Jun 2022 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid Identity Protection with Dr. Nestori Synnimaa - Semperis</title>
+      <link>https://www.semperis.com/blog/hybrid-identity-protection-with-dr-nestori-synnimaa/</link>
+      <description>Sean Deuby's talk on hybrid identity protection with AADInternals creator Dr. Nestori Synnimaa can be heard here.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/hybrid-identity-protection-with-dr-nestori-synnimaa/</guid>
+      <pubDate>Thu, 21 Jul 2022 18:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: July 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-july-2022/</link>
+      <description>LockBit's ransomware attacks on small towns, Black Basta's hit on materials manufacturer Knauf, and more in the July Identity Attack Watch from Semperis.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-july-2022/</guid>
+      <pubDate>Fri, 29 Jul 2022 15:09:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Hybrid Identity - Semperis</title>
+      <link>https://www.semperis.com/blog/securing-hybrid-identity/</link>
+      <description>Securing hybrid identity can be a challenge. At Semperis our most recent post intends to offer useful guidance to your organization.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/securing-hybrid-identity/</guid>
+      <pubDate>Thu, 04 Aug 2022 03:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIEM and SOAR—and Identity Security - Semperis</title>
+      <link>https://www.semperis.com/blog/siem-and-soar-and-identity-security/</link>
+      <description>How adept are SIEM and SOAR at protecting AD? Understanding potential threats—especially related to Tier 0 identity assets like Active Directory—is important.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/siem-and-soar-and-identity-security/</guid>
+      <pubDate>Tue, 23 Aug 2022 20:19:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMTP Matching Abuse in Azure AD - Semperis</title>
+      <link>https://www.semperis.com/blog/smtp-matching-abuse-in-azure-ad/</link>
+      <description>Attackers can use SMTP matching to hijack Azure AD. Read our recent post "SMTP Matching Abuse in Azure AD" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/smtp-matching-abuse-in-azure-ad/</guid>
+      <pubDate>Tue, 30 Aug 2022 00:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: August 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-august-2022/</link>
+      <description>Active Directory cyberattacks from Bumblebee Loader, and more are covered in the Semper Identity Attack Watch Series. Click to read more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-august-2022/</guid>
+      <pubDate>Wed, 31 Aug 2022 21:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Identity Management with Julie Smith - Semperis</title>
+      <link>https://www.semperis.com/blog/digital-identity-management-julie-smith/</link>
+      <description>How are organizations addressing identity management and security challenges? Read "Digital Identity Management with Julie Smith" to find out.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/digital-identity-management-julie-smith/</guid>
+      <pubDate>Thu, 08 Sep 2022 19:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Directory Protection for Healthcare Organizations - Semperis</title>
+      <link>https://www.semperis.com/blog/protecting-healthcare-organizations-from-ransomware-attacks/</link>
+      <description>Managing Active Directory protection in healthcare organizations? Where do you start? Prevention starts with the basics. Read more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/protecting-healthcare-organizations-from-ransomware-attacks/</guid>
+      <pubDate>Wed, 21 Sep 2022 16:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: September 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-september-2022/</link>
+      <description>Identity-related cyberattack roundup includes attacks by Hive, BlackCat, and BlooDy gangs. Read our recent post to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-september-2022/</guid>
+      <pubDate>Fri, 30 Sep 2022 19:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Missouri School District Finds and Fixes Active Directory Security Gaps - Semperis</title>
+      <link>https://www.semperis.com/blog/school-district-fixes-active-directory-security-gaps/</link>
+      <description>Learn how a School District improved their Active Directory security. Get insights on simple security fixes and monitoring AD for threats.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/school-district-fixes-active-directory-security-gaps/</guid>
+      <pubDate>Thu, 06 Oct 2022 19:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Community for Identity Professionals - Semperis</title>
+      <link>https://www.semperis.com/blog/a-community-for-identity-professionals/</link>
+      <description>The concept of "identity professionals" is fairly new. Read "A Community for Identity Professionals" to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/a-community-for-identity-professionals/</guid>
+      <pubDate>Tue, 11 Oct 2022 19:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why DC Snapshots Are No Substitute for Active Directory Backups - Semperis</title>
+      <link>https://www.semperis.com/blog/hypervisor-dc-snapshots-are-no-substitute-for-proper-active-directory-backups/</link>
+      <description>Protect your Active Directory from data loss with proper backups. Learn why relying on DC snapshots alone is not enough.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/hypervisor-dc-snapshots-are-no-substitute-for-proper-active-directory-backups/</guid>
+      <pubDate>Thu, 13 Oct 2022 15:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: October 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-october-2022/</link>
+      <description>Microsoft’s warnings about the novel Prestige ransomware campaign, more Hive activity, and new Exchange Server zero-day attacks.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-october-2022/</guid>
+      <pubDate>Mon, 31 Oct 2022 14:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Threat Response with Brian Desmond - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-threat-response-brian-desmond/</link>
+      <description>ITDR is gaining importance as cyberattackers continue to find new ways into environments. Hear what Brian Desmond said about his experience helping organizations.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-threat-response-brian-desmond/</guid>
+      <pubDate>Fri, 04 Nov 2022 20:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Construction Firm Strengthens its ITDR Foundation with Purple Knight - Semperis</title>
+      <link>https://www.semperis.com/blog/construction-firm-strengthens-its-itdr-foundation-with-purple-knight/</link>
+      <description>The construction industry is not immune to cyberattacks. Learn how a construction company strengthened its Active Directory with an ITDR solution.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/construction-firm-strengthens-its-itdr-foundation-with-purple-knight/</guid>
+      <pubDate>Wed, 16 Nov 2022 18:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duns 100 Ranks Semperis in Top 15 to Work For - Semperis</title>
+      <link>https://www.semperis.com/blog/duns-100-ranks-semperis/</link>
+      <description>We're thrilled to be rated a Duns 100 top place to work. Learn more in "Duns 100 Ranks Semperis in Top 15 to Work For".</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/duns-100-ranks-semperis/</guid>
+      <pubDate>Mon, 28 Nov 2022 19:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: November 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-november-2022/</link>
+      <description>Stay ahead of the game with our Attack Watch highlighting Ukraine attacks linked to the Russian Sandworm group, new LockBit group attacks, and more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-november-2022/</guid>
+      <pubDate>Wed, 30 Nov 2022 16:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operational Resilience: More than Disaster Recovery - Semperis</title>
+      <link>https://www.semperis.com/blog/operational-resilience-more-than-disaster-recovery/</link>
+      <description>Get expert insights from Simon Hodgkinson, former CISO at bp, on the importance of Active Directory security and recovery for operational resilience.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/operational-resilience-more-than-disaster-recovery/</guid>
+      <pubDate>Wed, 07 Dec 2022 21:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Recovering Active Directory from a Cyberattack Is an Essential Component of ITDR - Semperis</title>
+      <link>https://www.semperis.com/blog/recovering-active-directory-from-cyberattack-itdr/</link>
+      <description>Protect your organization with an ITDR plan that includes recovering Active Directory in case of a cyberattack. Gain expert guidance on AD recovery.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/recovering-active-directory-from-cyberattack-itdr/</guid>
+      <pubDate>Tue, 13 Dec 2022 23:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: December 2022 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-december-2022/</link>
+      <description>New LockBit attacks in California and Portugal, a Hive attack on a Louisiana hospital, and a BlackCat attack. Read December's Attack Watch.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-december-2022/</guid>
+      <pubDate>Fri, 30 Dec 2022 18:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: AD Security News, January 2023 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-january-2023/</link>
+      <description>Cyberattacks by ransomware gangs Vice Society, LockBit, and Sandworm hit Ukraine, schools. Get AD security news in Attack Watch.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-january-2023/</guid>
+      <pubDate>Tue, 31 Jan 2023 15:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Can K-12 Schools Defend Against Ransomware? - Semperis</title>
+      <link>https://www.semperis.com/blog/how-can-k-12-schools-defend-against-ransomware/</link>
+      <description>K-12 schools Active Directory are increasingly targeted by cyberattackers. Here are important tips for ransomware protection.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/how-can-k-12-schools-defend-against-ransomware/</guid>
+      <pubDate>Thu, 02 Feb 2023 19:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Steps to Protect AD from Wiperware - Semperis</title>
+      <link>https://www.semperis.com/blog/3-steps-to-protect-ad-from-wiperware/</link>
+      <description>Worried about wiperware? Here are three ways to secure Active Directory and your organization from this type of cyber threat.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/3-steps-to-protect-ad-from-wiperware/</guid>
+      <pubDate>Fri, 10 Feb 2023 21:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Identity Attack Watch: AD Security News, February 2023 - Semperis</title>
+      <link>https://www.semperis.com/blog/identity-attack-watch-february-2023/</link>
+      <description>Improve AD security by learning about new attack methods, and more targeting Microsoft Exchange ProxyShell. Click to learn more.</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-february-2023/</guid>
+      <pubDate>Tue, 28 Feb 2023 15:51:03 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

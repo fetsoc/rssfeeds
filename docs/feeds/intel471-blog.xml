@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Intel 471 Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/intel471-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/intel471-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:48:59 +0000</lastBuildDate>
+    <item>
+      <title>Navigating the Web of Scattered Spider: Understanding the Threat Landscape</title>
+      <link>https://www.intel471.com/blog/navigating-the-web-of-scattered-spider-understanding-the-threat-landscape</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/navigating-the-web-of-scattered-spider-understanding-the-threat-landscape</guid>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Ransomware is Stubbornly Sticking Around</title>
+      <link>https://www.intel471.com/blog/why-ransomware-is-stubbornly-sticking-around</link>
+      <description>In this edition of Studio 471, Jacqueline Burns Koven of Chainalysis discusses how ransomware is evolving and what challenges it poses for defenders.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/why-ransomware-is-stubbornly-sticking-around</guid>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deck the Halls with Caution: Four Festive Cyber Threats to Look Out for This Season</title>
+      <link>https://www.intel471.com/blog/deck-the-halls-with-caution-four-festive-cyber-threats-to-look-out-for-this-season</link>
+      <description>As we wind down to the end of the year, Intel 471 details four critical cyber threats organizations need to be aware of to ensure they remain vigilant.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/deck-the-halls-with-caution-four-festive-cyber-threats-to-look-out-for-this-season</guid>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlueSky: Understanding and Combating the Ransomware Threat</title>
+      <link>https://www.intel471.com/blog/understanding-and-combating-the-bluesky-ransomware-threat</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/understanding-and-combating-the-bluesky-ransomware-threat</guid>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four Benefits of Cyber Threat Intelligence - Kick-Start the New Year with Intel 471</title>
+      <link>https://www.intel471.com/blog/four-benefits-of-cyber-threat-intelligence</link>
+      <description>Cyber Threat Intelligence provides benefits like early detection, vulnerability management, decision-making support, and more. Read on to discover how it gives organizations the advantage.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/four-benefits-of-cyber-threat-intelligence</guid>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime Exposed Podcast: The Xbox One Hack</title>
+      <link>https://www.intel471.com/blog/cybercrime-exposed-podcast-the-xbox-one-hack</link>
+      <description>Arman Sadri was a gaming hacker. But he didn’t recognize when he’d gone too deep. His life unraveled, and the FBI wasn’t far behind. His years-long dalliance on the edge led him to a place from which he’s still recovering.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-exposed-podcast-the-xbox-one-hack</guid>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitigate Supply Chain Risk with Cyber Threat Intelligence</title>
+      <link>https://www.intel471.com/blog/mitigate-supply-chain-risk-with-cyber-threat-intelligence</link>
+      <description>Attackers increasingly are capitalizing on risks that come from supply chains. Cyber resilience is dependent not only on the strength of an organization’s own planning and defenses, but also that of its partners.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/mitigate-supply-chain-risk-with-cyber-threat-intelligence</guid>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Behavioral Threat Hunting is the Big Thing for Cybersecurity in 2024</title>
+      <link>https://www.intel471.com/blog/why-behavioral-threat-hunting-is-the-big-thing-for-cybersecurity-in-2024</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/why-behavioral-threat-hunting-is-the-big-thing-for-cybersecurity-in-2024</guid>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing the Efficacy of Security Software</title>
+      <link>https://www.intel471.com/blog/testing-the-efficacy-of-security-software</link>
+      <description>In this edition of Studio 471, Simon Edwards of SE Labs walks through how his company tests security products based on the cyber kill chain and MITRE ATT&amp;amp;CK.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/testing-the-efficacy-of-security-software</guid>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonikerLink: Outlook's Achilles' Heel, Navigating the Perilous Waters of CVE-2024-21413</title>
+      <link>https://www.intel471.com/blog/monikerlink-outlooks-achilles-heel-navigating-the-perilous-waters-of-cve-2024-21413</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/monikerlink-outlooks-achilles-heel-navigating-the-perilous-waters-of-cve-2024-21413</guid>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime Exposed Podcast: Crypto Heist</title>
+      <link>https://www.intel471.com/blog/cybercrime-exposed-podcast-crypto-heist</link>
+      <description>In March 2022, North Korean hackers stole $600 million worth of virtual currency from the online game Axie Infinity. But blockchain investigators were hot on the trail.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-exposed-podcast-crypto-heist</guid>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phobos Unleashed: Navigating the Maze of Ransomware's Ever-Evolving Threat</title>
+      <link>https://www.intel471.com/blog/phobos-unleashed-navigating-the-maze-of-ransomwares-ever-evolving-threat</link>
+      <description>Active since 2019, Phobos Ransomware and its variants continue to target critical sectors through phishing and RDP attacks, prompting recent government advisories to bolster organizational defenses.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/phobos-unleashed-navigating-the-maze-of-ransomwares-ever-evolving-threat</guid>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speed and Insight: Intel 471’s Data Leak Blogs Enhancement</title>
+      <link>https://www.intel471.com/blog/speed-and-insight-intel-471s-data-leak-blogs-enhancement</link>
+      <description>Your organization needs timely insight into the information these adversaries have released on their blogs more than ever before. With our latest data leak blog collection enhancement, you can take the preventative action needed to mitigate the impact on your assets.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/speed-and-insight-intel-471s-data-leak-blogs-enhancement</guid>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How cybercriminals exploit the hospitality industry</title>
+      <link>https://www.intel471.com/blog/how-cybercriminals-exploit-the-hospitality-industry</link>
+      <description>In the second half of 2023, the hospitality industry was increasingly targeted by spam and social-engineering campaigns that led to malicious software.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/how-cybercriminals-exploit-the-hospitality-industry</guid>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Deepfakes Bypass Online ID Verifications?</title>
+      <link>https://www.intel471.com/blog/can-deepfakes-bypass-online-id-verifications</link>
+      <description>Advances in generative artificial intelligence models are being used to create bogus identities, which will continue to pose challenges for ID verification.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/can-deepfakes-bypass-online-id-verifications</guid>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Basta Ransomware and Threat Group</title>
+      <link>https://www.intel471.com/blog/black-basta-ransomware-and-threat-group</link>
+      <description>Financially motivated and Russian-speaking, Black Basta operates under the Ransomware-as-a-Service (RaaS) model and has targeted many countries worldwide; including the United States, Japan, Australia, The United Kingdom, Canada and New Zealand.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/black-basta-ransomware-and-threat-group</guid>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel 471 Drives Innovation at RSA Conference 2024 with Intelligence-Led Threat Hunting</title>
+      <link>https://www.intel471.com/blog/intel-471-drives-innovation-at-rsa-conference-2024-with-intelligence-led-threat-hunting</link>
+      <description>That wraps up a phenomenally successful RSA Conference in San Francisco for Intel 471. The team built on our exciting acquisition of Cyborg Security and shared with customers how we’re supercharging threat hunting with the unrivaled breadth, depth, speed, and relevance of Intel 471’s cyber threat intelligence.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/intel-471-drives-innovation-at-rsa-conference-2024-with-intelligence-led-threat-hunting</guid>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing 471 Attack Surface Protection for intelligence-led business operations</title>
+      <link>https://www.intel471.com/blog/introducing-471-attack-surface-protection-for-intelligence-led-business-operations</link>
+      <description>Fast-paced cyber threats are driving more organizations towards cybersecurity solutions that help them anticipate attacks. Today, we unveiled 471 Attack Surface Protection, a powerful attack surface management solution that leverages Intel 471’s cyber threat intelligence to help customers quickly prioritize high risk exposures and improve their business operations.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/introducing-471-attack-surface-protection-for-intelligence-led-business-operations</guid>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Can We Learn from Ransomware Attacks</title>
+      <link>https://www.intel471.com/blog/what-can-we-learn-from-ransomware-attacks</link>
+      <description>In this Studio 471, Jamie MacColl of the Royal United Services Institute discusses a study of ransomware’s impacts from IT staff on the front line through to civil society.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/what-can-we-learn-from-ransomware-attacks</guid>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BreachForums Saga Continues. What’s Next?</title>
+      <link>https://www.intel471.com/blog/breachforums-saga-continues-whats-next</link>
+      <description>BreachForums, an infamous cybercriminal forum, is back in action after authorities disrupted it. Here&amp;#039;s a look at the forum, including why it&amp;#039;s back online and what may lie ahead.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/breachforums-saga-continues-whats-next</guid>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat hunting case study: Looking for Volt Typhoon</title>
+      <link>https://www.intel471.com/blog/threat-hunting-case-study-looking-for-volt-typhoon</link>
+      <description>Volt Typhoon is a state-sponsored threat actor group that establishes persistence in critical infrastructure. Here&amp;#039;s how to perform intelligence-driven threat hunting to find possible signs of an attack.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/threat-hunting-case-study-looking-for-volt-typhoon</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel 471 Cyber Geopolitical Intelligence: Making the connection between geopolitics and cybersecurity threats</title>
+      <link>https://www.intel471.com/blog/intel-471-cyber-geopolitical-intelligence-making-the-connection-between-geopolitics-and-cybersecurity-threats</link>
+      <description>With Intel 471 Cyber Geopolitical Intelligence, government and organizational leaders can today begin incorporating geopolitical events into their cyber risk management and incident response plans to improve their decisions about cybersecurity investments, policies, and strategies.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/intel-471-cyber-geopolitical-intelligence-making-the-connection-between-geopolitics-and-cybersecurity-threats</guid>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the CTI Capability Maturity Model, a resource for measuring and building mature CTI programs</title>
+      <link>https://www.intel471.com/blog/introducing-the-cti-capability-maturity-model-a-resource-for-measuring-and-building-mature-cti-programs</link>
+      <description>The CTI Capability Maturity Model (CTI-CMM) is an easy to use, vendor-neutral model that promotes a “stakeholder-first” approach to building a mature CTI program, evaluating its progress, and continuously improving it during the CTI maturity journey.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/introducing-the-cti-capability-maturity-model-a-resource-for-measuring-and-building-mature-cti-programs</guid>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>INC Ransomware</title>
+      <link>https://www.intel471.com/blog/inc-ransomware</link>
+      <description>INC Ransomware is a malware variant that was first observed in July/August of 2023, and has since been a part of major disruptions mostly in North America and Europe.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/inc-ransomware</guid>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat hunting case study: Uncovering FIN7</title>
+      <link>https://www.intel471.com/blog/threat-hunting-case-study-uncovering-fin7</link>
+      <description>FIN7 is one of the most persistent and capable financially motivated threat actor groups. Here&amp;#039;s how to threat hunt for signs of a FIN7 intrusion.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/threat-hunting-case-study-uncovering-fin7</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Telegram's New Policies Spooking Cybercriminals?</title>
+      <link>https://www.intel471.com/blog/are-telegrams-new-policies-spooking-cybercriminals</link>
+      <description>Telegram will now divulge IP addresses and phone numbers in response to valid legal requests. Some cybercriminals are planning to leave Telegram. We assess the impacts of this on visibility into the cybercriminal underground.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/are-telegrams-new-policies-spooking-cybercriminals</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Halloween Story: 10 Cyber Ghouls We Eyeballed In Q3 2024</title>
+      <link>https://www.intel471.com/blog/a-halloween-story-10-cyber-ghouls-we-eyeballed-in-q3-2024</link>
+      <description>In the third quarter of 2024, ransomware remained one of the most impactful threats to all sectors. Defenders were faced with a record number of vulnerabilities as nation-state actors, money lusting cybercriminals, and hacktivists with an ax to grind continued to make their marks on the digital threat landscape. Here are the spooktacular cyber threat intelligence (CTI) statistics.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/a-halloween-story-10-cyber-ghouls-we-eyeballed-in-q3-2024</guid>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime Exposed Podcast: Raccoon Stealer</title>
+      <link>https://www.intel471.com/blog/cybercrime-exposed-podcast-raccoon-stealer</link>
+      <description>Information stealing malware is one of the most common ways that organizations end up infiltrated by malicious hackers. For several years, one type of infostealer called Raccoon Stealer ruled them all.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-exposed-podcast-raccoon-stealer</guid>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holiday Season Cyber Threats (Part 2): Ransomware, Gift Cards, and Point-of-Sale breaches</title>
+      <link>https://www.intel471.com/blog/holiday-season-cyber-threats-part-2-ransomware-gift-cards-and-point-of-sale-breaches</link>
+      <description>The surge in online shopping and travel bookings during the holiday season offers rich pickings for cybercriminals. Black Friday, Cyber Monday, Christmas shopping, and increased travel throughout December offer ample opportunities for cybercriminals to profit from the high volume of transactions and the growing reliance on digital platforms in retail, travel and hospitality. Their objective is to compromise sensitive customer data, disrupt operations and erode trust, all with an eye toward monetization.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/holiday-season-cyber-threats-part-2-ransomware-gift-cards-and-point-of-sale-breaches</guid>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collecting Useful CTI from Underground Markets</title>
+      <link>https://www.intel471.com/blog/collecting-useful-cti-from-underground-markets</link>
+      <description>Extracting cyber threat intelligence on emerging threats and novel threat actors is challenging. Michele Campobasso completed his doctoral thesis in 2024 at Eindhoven University of Technology, and in Studio 471, he shares insights on these markets and maximizing CTI collection.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/collecting-useful-cti-from-underground-markets</guid>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bring Your Own Hunts to HUNTER</title>
+      <link>https://www.intel471.com/blog/bring-your-own-hunts-to-hunter</link>
+      <description>As a HUNTER customer utilizing the Hunt Management Module (HMM), you can now “bring your own” (BYO) threat hunting content to the HUNTER threat hunting platform.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/bring-your-own-hunts-to-hunter</guid>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat hunting case study: SocGholish</title>
+      <link>https://www.intel471.com/blog/threat-hunting-case-study-socgholish</link>
+      <description>SocGholish is a malware campaign that spreads via hacked web pages. This is a guide for how to detect infections by searching in SIEMs and logging systems for attacker behaviors.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/threat-hunting-case-study-socgholish</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat hunting case study: RMM software</title>
+      <link>https://www.intel471.com/blog/threat-hunting-case-study-rmm-software</link>
+      <description>Attackers hijack or install their own remote monitoring and management software to penetrate deeper into organizations. This activity, however, can be detected using threat hunts based on threat  intelligence.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/threat-hunting-case-study-rmm-software</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat-hunting case study: Windows Management Instrumentation abuse</title>
+      <link>https://www.intel471.com/blog/threat-hunting-case-study-windows-management-instrumentation-abuse</link>
+      <description>Attackers often use Windows Management Instrumentation (WMI) for reconnaissance to map networks. This case study describes how to threat hunt for malicious use of WMI, which is also used legitimately by administrators.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/threat-hunting-case-study-windows-management-instrumentation-abuse</guid>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SANS 2025 CTI Survey: It’s Business Time for Cyber Risk</title>
+      <link>https://www.intel471.com/blog/sans-2025-cti-survey-its-business-time-for-cyber-risk</link>
+      <description>The SANS Institute’s newly released SANS 2025 CTI Survey report reveals a major surge in use of cyber threat intelligence (CTI) by senior executive and business leaders to mitigate risk in strategic decisions, investments, and mergers and acquisitions.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/sans-2025-cti-survey-its-business-time-for-cyber-risk</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A look at ‘Tinker,’ Black Basta’s phishing fixer, negotiator</title>
+      <link>https://www.intel471.com/blog/a-look-at-tinker-black-bastas-phishing-fixer-negotiator</link>
+      <description>The leader of the Black Basta ransomware group employed a trusted, experienced cybercrime actor nicknamed Tinker who he relied on for phishing content, call center management and negotiation skills.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/a-look-at-tinker-black-bastas-phishing-fixer-negotiator</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mommy Access Broker</title>
+      <link>https://www.intel471.com/blog/mommy-access-broker</link>
+      <description>mommy Access Broker is enabling access-as-a-service operations through detailed intrusion guides and compromised credentials, and Intel 471 has released reporting and Hunt Packages to support threat hunting and detection.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/mommy-access-broker</guid>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Verity471: Cyber Threat Intelligence Ready to Operationalize</title>
+      <link>https://www.intel471.com/blog/introducing-verity471-cyber-threat-intelligence-ready-to-operationalize</link>
+      <description>To shatter the cycle of reactive defense, Intel 471 is launching Verity471, the evolution of our trusted cyber intelligence platform, TITAN.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/introducing-verity471-cyber-threat-intelligence-ready-to-operationalize</guid>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging the CTI Gap: New Exposure Modules on Verity471 Deliver Market-Disrupting Views of Threats</title>
+      <link>https://www.intel471.com/blog/bridging-the-cti-gap-new-exposure-modules-on-verity471-deliver-market-disrupting-views-of-threats</link>
+      <description>Intel 471 is thrilled to announce the availability of our new Cyber Threat Exposure portfolio of solutions on Verity471, our game-changing CTI-powered SaaS platform, Verity471.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/bridging-the-cti-gap-new-exposure-modules-on-verity471-deliver-market-disrupting-views-of-threats</guid>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Pig-Butchering” Scams: The Dark Side of Social Engineering and Why Terminology Matters</title>
+      <link>https://www.intel471.com/blog/pig-butchering-scams-the-dark-side-of-social-engineering-and-why-terminology-matters</link>
+      <description>Intel 471 examines the rise of “Pig-butchering” scams, how they operate, and why the terminology used to describe them is sparking debate within the cybersecurity community.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/pig-butchering-scams-the-dark-side-of-social-engineering-and-why-terminology-matters</guid>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NPM - Shai-Hulud Worm</title>
+      <link>https://www.intel471.com/blog/npm-shai-hulud-worm</link>
+      <description>Shai-Hulud demonstrates a highly effective and dangerous supply-chain attack methodology that threatens the integrity of the npm ecosystem and exposes downstream organizations to potential compromise.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/npm-shai-hulud-worm</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In a digital age, US paper check fraud flourishes</title>
+      <link>https://www.intel471.com/blog/in-a-digital-age-us-paper-check-fraud-flourishes</link>
+      <description>Check fraud in the U.S. is booming. Fraudsters steal checks and sell them on underground channels where they are purchased, modified and deposited in hopes of a payment. Here's a briefing on this multi-layered crime.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/in-a-digital-age-us-paper-check-fraud-flourishes</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How card fraud is powered by underground card checkers</title>
+      <link>https://www.intel471.com/blog/how-card-fraud-is-powered-by-underground-card-checkers</link>
+      <description>Payment card "checkers" are used by criminal hackers to check the validity of stolen payment card details. Here's how this in-demand underground service works.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/how-card-fraud-is-powered-by-underground-card-checkers</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix: Tricking users into installing infostealers</title>
+      <link>https://www.intel471.com/blog/clickfix-tricking-users-into-installing-infostealers</link>
+      <description>Malware distribution campaigns that trick people into copying and pasting malicious commands, known as ClickFix, have been wildly successful. Here's an examination of ClickFix and how to defend against it.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/clickfix-tricking-users-into-installing-infostealers</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybercrime Takedowns: Trust, Partnerships and Focus</title>
+      <link>https://www.intel471.com/blog/cybercrime-takedowns-trust-partnerships-and-focus</link>
+      <description>Intel 471’s Public Sector team is regularly called upon to provide cyber investigation support, threat insights and real-life attribution in support of global law enforcement operations.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-takedowns-trust-partnerships-and-focus</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New FvncBot Android banking trojan targets Poland</title>
+      <link>https://www.intel471.com/blog/new-fvncbot-android-banking-trojan-targets-poland</link>
+      <description>Intel 471 discovered a new Android trojan, FvncBot, that masquerades as a security application for mBank, a major Polish bank. Our Malware Intelligence team analyzed its code, which is new and not based on other leaked malware code.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/new-fvncbot-android-banking-trojan-targets-poland</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunting APTs: from state policy to TTPs</title>
+      <link>https://www.intel471.com/blog/hunting-apts-from-state-policy-to-ttps</link>
+      <description>Our Geopolitical Intelligence and Threat Hunting teams collaborate closely to help customers monitor, respond to and mitigate cyber risks</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/hunting-apts-from-state-policy-to-ttps</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Likely fake ransomware operator 0APT causes panic — Our analysis</title>
+      <link>https://www.intel471.com/blog/likely-fake-ransomware-operator-0apt-causes-panic-our-analysis</link>
+      <description>A new threat actor has launched what appears to be a fake ransomware-as-a-service (RaaS) operation called 0APT.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/likely-fake-ransomware-operator-0apt-causes-panic-our-analysis</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI and the human advantage beat tomorrow’s threats</title>
+      <link>https://www.intel471.com/blog/how-ai-and-the-human-advantage-beat-tomorrows-threats</link>
+      <description>Relying upon AI-driven cybersecurity to fend off cyberattacks raises a paradox: improving speed and productivity is a game changer, but it carries a risk to quality, fidelity and trust. The battle against tomorrow’s threats won’t be won by completely removing the “human element” but understanding where human judgement improves resilience.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/how-ai-and-the-human-advantage-beat-tomorrows-threats</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20127: Critical Cisco SD-WAN vulnerability exploited in wild</title>
+      <link>https://www.intel471.com/blog/cve-2026-20127-critical-cisco-sd-wan-vulnerability-exploited-in-wild</link>
+      <description>CVE-2026-20127 is an improper authentication vulnerability impacting Cisco Catalyst SD-WAN Controller, formerly vSmart, and SD-WAN Manager, formerly vManage, components.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/cve-2026-20127-critical-cisco-sd-wan-vulnerability-exploited-in-wild</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

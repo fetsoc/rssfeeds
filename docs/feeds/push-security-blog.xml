@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Push Security Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:48:13 +0000</lastBuildDate>
+    <item>
+      <title>Integrate Push Security and Panther</title>
+      <link>https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</link>
+      <description>Push is excited to partner with Panther, bringing our unique browser telemetry to your SIEM.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</guid>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stop identity attacks with Push's security controls</title>
+      <link>https://pushsecurity.com/blog/introducing-set-and-forget-controls-that-stop-real-world-identity-attacks</link>
+      <description>Enable detections and interventions in the browser using Push’s new security controls.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-set-and-forget-controls-that-stop-real-world-identity-attacks</guid>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are ghost logins and how can they be exploited?</title>
+      <link>https://pushsecurity.com/blog/ghost-logins-when-forgotten-identities-come-back-to-haunt-you</link>
+      <description>How ghost logins can be used by cyber attackers for account takeover and persistence.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/ghost-logins-when-forgotten-identities-come-back-to-haunt-you</guid>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 reasons why Push Security shouldn’t exist</title>
+      <link>https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</link>
+      <description>Breaking down common misconceptions about identity threats and controls like MFA, SSO, passkeys, password managers, and more.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</guid>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing AitM phish kits and the ways they evade detection</title>
+      <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection</link>
+      <description>Taking a closer look at the steps that AitM phishing kits take to hide from the prying eyes of security teams and threat intelligence vendors.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection</guid>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detect cloned login pages used in phishing attacks</title>
+      <link>https://pushsecurity.com/blog/introducing-cloned-login-page-detection</link>
+      <description>We've added cloned login page detection, providing yet another layer of protection against phishing attacks.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-cloned-login-page-detection</guid>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preventing account takeover with Push</title>
+      <link>https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</link>
+      <description>How Push stops attackers from using identity attack tools and techniques to compromise your employee user accounts.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</guid>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Push data to quantify identity vulnerabilities</title>
+      <link>https://pushsecurity.com/blog/how-many-vulnerable-identities-do-you-have</link>
+      <description>Using Push data to calculate how many vulnerable identities the average organization has, and how they lead to different methods of account takeover.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-many-vulnerable-identities-do-you-have</guid>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Push detects and blocks phishing attacks in the browser</title>
+      <link>https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser</link>
+      <description>How Push detects and blocks phishing attempts in the browser – explained in less than two minutes.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser</guid>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What we can learn from the ServiceNow/Microsoft disclosure</title>
+      <link>https://pushsecurity.com/blog/learning-from-the-servicenow-disclosure</link>
+      <description>Account takeover on third-party apps is the flavor of the month for security researchers — what can we learn from it?</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/learning-from-the-servicenow-disclosure</guid>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How attackers defeat detections based on page signatures</title>
+      <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection-p2</link>
+      <description>How attackers are breaking detection signatures designed to identify phishing sites impersonating real login pages.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection-p2</guid>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cross-IdP impersonation: hijacking SSO using fraudulent IdPs</title>
+      <link>https://pushsecurity.com/blog/cross-idp-impersonation</link>
+      <description>Cross-IdP impersonation is a method of hijacking SSO to access downstream apps — without needing to compromise accounts on your company’s main IdP.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/cross-idp-impersonation</guid>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combining Verification Phishing and Cross-IdP Impersonation</title>
+      <link>https://pushsecurity.com/blog/a-new-class-of-phishing-verification-phishing-and-cross-idp-impersonation</link>
+      <description>How phishing for email verification can be combined with cross-IdP impersonation to gain direct access to downstream SaaS and bypass hardened IdP accounts.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/a-new-class-of-phishing-verification-phishing-and-cross-idp-impersonation</guid>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Push to automate SSO password resets</title>
+      <link>https://pushsecurity.com/blog/automating-sso-password-resets-using-push</link>
+      <description>Using Push to automate password resets for your most critical identities when a password vulnerability is detected.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/automating-sso-password-resets-using-push</guid>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public breaches from identity attacks in 2024</title>
+      <link>https://pushsecurity.com/blog/2024-identity-breaches</link>
+      <description>Reviewing public breaches that stemmed from identity attacks in 2024.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/2024-identity-breaches</guid>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to securely deploy browser extensions to the web store</title>
+      <link>https://pushsecurity.com/blog/guide-to-secure-browser-extension-deployment</link>
+      <description>How extension developers can improve their security controls to prevent extension compromise.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/guide-to-secure-browser-extension-deployment</guid>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Push to enforce MFA on third-party apps in the browser</title>
+      <link>https://pushsecurity.com/blog/enforce-mfa-on-third-party-apps</link>
+      <description>Using Push to enforce MFA on third-party apps in the browser — even where MFA enforcement isn't supported by the app itself.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/enforce-mfa-on-third-party-apps</guid>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Computer-Using Agents can be leveraged in cyber attacks</title>
+      <link>https://pushsecurity.com/blog/considering-the-impact-of-computer-using-agents</link>
+      <description>CUAs are a new type of AI agent that drives your browser/OS for you, enabling effortless automation of web tasks — including those performed by attackers.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/considering-the-impact-of-computer-using-agents</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using OpenAI Operator to automate credential stuffing</title>
+      <link>https://pushsecurity.com/blog/how-new-ai-agents-will-transform-credential-stuffing-attacks</link>
+      <description>Credential stuffing attacks had a huge impact in 2024. But things could be dialled up even further with Computer-Using Agents like OpenAI Operator.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-new-ai-agents-will-transform-credential-stuffing-attacks</guid>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using CUAs like Operator to automate identity attacks</title>
+      <link>https://pushsecurity.com/blog/5-ways-attackers-can-use-computer-using-agents-to-automate-identity-attacks</link>
+      <description>We're back with part 2 of our research into OpenAI Operator to share our findings on how it can be used to automate identity attacks.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/5-ways-attackers-can-use-computer-using-agents-to-automate-identity-attacks</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enforce strong passwords at the point of login</title>
+      <link>https://pushsecurity.com/blog/introducing-strong-password-enforcement</link>
+      <description>Detects when employees have weak, reused, or stolen passwords and guide them to update their password using in-browser messaging on any app.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-strong-password-enforcement</guid>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dissecting a recent MailChimp phishing attack</title>
+      <link>https://pushsecurity.com/blog/dissecting-a-recent-mailchimp-phishing-attack</link>
+      <description>HIBP creator and well-known security person Troy Hunt recently blogged about a phish he fell for. Here’s what it tells us about how phishing is evolving.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/dissecting-a-recent-mailchimp-phishing-attack</guid>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing two different forms of consent phishing</title>
+      <link>https://pushsecurity.com/blog/how-consent-phishing-is-evolving</link>
+      <description>Consent phishing is where attackers trick users into authorizing access for malicious OAuth apps. Here's how attackers are using this technique in the wild.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-consent-phishing-is-evolving</guid>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating a recent malvertising campaign against Onfido</title>
+      <link>https://pushsecurity.com/blog/investigating-a-recent-malvertising-campaign-targeting-onfido-customers</link>
+      <description>We recently investigated a malvertising campaign using Evilginx to target Onfido customers via Google ads.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/investigating-a-recent-malvertising-campaign-targeting-onfido-customers</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Push Security Advisor Network (PSAN)</title>
+      <link>https://pushsecurity.com/blog/introducing-the-push-security-advisor-network-psan</link>
+      <description>Introducing a new era of partner-first phishing protection and identity security.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-the-push-security-advisor-network-psan</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating the 2025 HIPAA Security Rule changes</title>
+      <link>https://pushsecurity.com/blog/2025-hipaa-rule-change</link>
+      <description>The HIPAA Security Rule is getting a long-overdue facelift in 2025. Here's our quick overview of the key changes and how Push can help you to be compliant.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/2025-hipaa-rule-change</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrate Cribl and Push Security</title>
+      <link>https://pushsecurity.com/blog/better-together-identity-telemetry-from-push-smart-storage-and-searches-from</link>
+      <description>We’re thrilled to announce our partnership with Cribl to make it much easier to snapshot, transform, and query Push telemetry.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/better-together-identity-telemetry-from-push-smart-storage-and-searches-from</guid>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Employee Identity Verification Code feature</title>
+      <link>https://pushsecurity.com/blog/employee-identity-verification-codes-release</link>
+      <description>Push's new Employee Identity Verification Codes feature is a simple way for your help desk to confirm they’re talking to someone from your organization.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/employee-identity-verification-codes-release</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How browser-level controls change the fight against phishing</title>
+      <link>https://pushsecurity.com/blog/how-browser-level-controls-change-the-fight-against-phishing</link>
+      <description>Attackers are routinely defeating conventional email, network, and endpoint-based security controls. Here's how browser controls can level the playing field.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-browser-level-controls-change-the-fight-against-phishing</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>App-Specific Password phishing and how to prevent it</title>
+      <link>https://pushsecurity.com/blog/app-specific-password-phishing</link>
+      <description>How App-Specific Password phishing is being used in the wild to bypass phishing-resistant authentication controls like passkeys.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/app-specific-password-phishing</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Spider target aviation &amp; insurance firms</title>
+      <link>https://pushsecurity.com/blog/key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms</link>
+      <description>Scattered Spider continues to dominate the headlines, with attacks on aviation and insurance companies worldwide.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms</guid>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Block URL obfuscation in the browser with Push</title>
+      <link>https://pushsecurity.com/blog/detecting-phishing-pages-using-obfuscated-url-destinations</link>
+      <description>Push now blocks URL schema obfuscation, countering a common technique used by attackers to bypass URL detections for phishing pages and malicious IPs.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/detecting-phishing-pages-using-obfuscated-url-destinations</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Push Detections: Equipping SecOps and IR teams</title>
+      <link>https://pushsecurity.com/blog/introducing-push-detections</link>
+      <description>We’re launching a new Detections capability, enabling security teams to more effectively investigate and triage alerts, and build more effective workflows.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-push-detections</guid>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the browser became the main cyber battleground</title>
+      <link>https://pushsecurity.com/blog/how-the-browser-became-the-main-cyber-battleground</link>
+      <description>How attacks have moved away from endpoints and internal networks to the browser — a blind spot for traditional security tools.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-the-browser-became-the-main-cyber-battleground</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 browser-based attacks security teams need to know about</title>
+      <link>https://pushsecurity.com/blog/6-browser-based-attacks-every-security-team-should-be-prepared-for</link>
+      <description>What security teams need to know about the browser-based attack techniques that are the leading cause of breaches.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/6-browser-based-attacks-every-security-team-should-be-prepared-for</guid>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Push stopped a high risk LinkedIn spear-phishing attack</title>
+      <link>https://pushsecurity.com/blog/how-push-stopped-a-high-risk-linkedin-spear-phishing-attack</link>
+      <description>How Push saved a company exec from a sophisticated Attacker-in-the-Middle phishing attack delivered via a LinkedIn direct message.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-push-stopped-a-high-risk-linkedin-spear-phishing-attack</guid>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How cyber breaches are driving tighter MFA requirements</title>
+      <link>https://pushsecurity.com/blog/how-cyber-breaches-are-driving-tighter-mfa-requirements-and-enforcement</link>
+      <description>MFA regulators, insurers, and policy-makers are getting tighter on their MFA requirements, fuelled by public cyber breaches.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-cyber-breaches-are-driving-tighter-mfa-requirements-and-enforcement</guid>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing SecOps alert fatigue with browser telemetry</title>
+      <link>https://pushsecurity.com/blog/fixing-secops-alert-fatigue-with-browser-telemetry</link>
+      <description>How browser data can improve detection fidelity and reduce alert fatigue, enabling SecOps teams to save time and detect more attacks.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/fixing-secops-alert-fatigue-with-browser-telemetry</guid>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detect ClickFix-style attacks in the browser</title>
+      <link>https://pushsecurity.com/blog/introducing-malicious-copy-paste-detection</link>
+      <description>Push now detects malware delivery in the browser, supporting a layered defense against endpoint attacks.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-malicious-copy-paste-detection</guid>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing the latest Sneaky2FA BITB phishing page</title>
+      <link>https://pushsecurity.com/blog/analyzing-the-latest-sneaky2fa-phishing-page</link>
+      <description>Analyzing a BITB phishing page linked to the Sneaky2FA Phishing-as-a-Service operation.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/analyzing-the-latest-sneaky2fa-phishing-page</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing a malvertising attack targeting Google accounts</title>
+      <link>https://pushsecurity.com/blog/analysing-a-malvertising-attack-targeting-business-google-accounts</link>
+      <description>Analysing a malvertising attack targeting Google business accounts that was intercepted by Push.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/analysing-a-malvertising-attack-targeting-business-google-accounts</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing a sophisticated Google malvertising attack</title>
+      <link>https://pushsecurity.com/blog/analysing-a-sophisticated-google-malvertising-attack</link>
+      <description>Push recently detected and blocked a malvertising attack impersonating TradingView designed to hijack Google Workspace accounts.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/analysing-a-sophisticated-google-malvertising-attack</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConsentFix: Browser-native ClickFix hijacks OAuth grants</title>
+      <link>https://pushsecurity.com/blog/consentfix</link>
+      <description>Analysing "ConsentFix", a new browser-native attack technique we've detected in the wild, combining OAuth consent phishing with a ClickFix-style user prompt.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/consentfix</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing 2025's top phishing trends</title>
+      <link>https://pushsecurity.com/blog/2025-top-phishing-trends</link>
+      <description>Analysing the key trends that defined phishing attacks in 2025, and what these changes mean for security teams heading into 2026.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/2025-top-phishing-trends</guid>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Search malvertising campaign impersonating Ahrefs</title>
+      <link>https://pushsecurity.com/blog/google-search-malvertising-campaign-continues-now-impersonating-ahrefs</link>
+      <description>New samples linked to a Push-tracked malvertising campaign detected, targeting Google accounts via an Ahrefs lure.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/google-search-malvertising-campaign-continues-now-impersonating-ahrefs</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing the malvertising criminal ecosystem</title>
+      <link>https://pushsecurity.com/blog/cyber-criminal-ecosystem-analysis</link>
+      <description>Attackers are going out of their way to target Google Ad Manager accounts, powering malvertising scams. Here’s what you need to know.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/cyber-criminal-ecosystem-analysis</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConsentFix debrief: insights, recommendations &amp; predictions</title>
+      <link>https://pushsecurity.com/blog/consentfix-debrief</link>
+      <description>New insights on the ConsentFix campaign stopped by Push.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/consentfix-debrief</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Essentials 2026: Mandatory MFA on ALL cloud services</title>
+      <link>https://pushsecurity.com/blog/cyber-essentials-april-2026-update</link>
+      <description>Big changes are being made to the Cyber Essentials scheme in 2026 that will change how companies must validate compliance. Here’s what you need to know.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/cyber-essentials-april-2026-update</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: How to manage and block browser extensions using Push</title>
+      <link>https://pushsecurity.com/blog/browser-extension-management-guide</link>
+      <description>How to detect risky and malicious extensions and block them from running in employee browsers.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/browser-extension-management-guide</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>InstallFix: Weaponizing malvertised install guides</title>
+      <link>https://pushsecurity.com/blog/installfix</link>
+      <description>Attackers are impersonating popular developer tools like Claude Code to distribute fake install instructions via malicious search engine ads.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/installfix</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

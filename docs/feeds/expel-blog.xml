@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Expel Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Mar 2026 18:47:16 +0000</lastBuildDate>
+    <item>
+      <title>Five security takeaways for Cybersecurity Awareness Month (and every month)</title>
+      <link>https://expel.com/blog/five-security-takeaways-for-cybersecurity-awareness-month-and-every-month/</link>
+      <description>Expel analyst Aaron Walton was featured in Guidepoint Security's blog for Cybersecurity Awareness Month, and shared thoughts with other SOC members.</description>
+      <guid isPermaLink="false">https://expel.com/blog/five-security-takeaways-for-cybersecurity-awareness-month-and-every-month/</guid>
+      <pubDate>Wed, 16 Oct 2024 13:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel Quarterly Threat Report, volume I: Q3 2024 by the numbers</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</link>
+      <description>Volume I of our Quarterly Threat Report summarizes key findings and stats from Q3 of 2024. Learn what to focus on right now.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</guid>
+      <pubDate>Thu, 17 Oct 2024 13:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel Quarterly Threat Report Q3 2024, volume II: CAPTCHA trick or treat</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-ii-captcha-trick-or-treat/</link>
+      <description>Volume II of our Q3 2024 Quarterly Threat Report focuses on malicious CAPTCHAs. Learn what to focus on right now.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-ii-captcha-trick-or-treat/</guid>
+      <pubDate>Thu, 17 Oct 2024 13:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel Quarterly Threat Report Q3 2024, volume III: Malware trends</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</link>
+      <description>Volume III of our Q3 2024 Quarterly Threat Report focuses on malware trends. Learn what to focus on right now.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</guid>
+      <pubDate>Mon, 21 Oct 2024 13:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel Quarterly Threat Report Q3 2024, volume IV: Suspicious infrastructure from phishing-as-a-service (PhaaS) platforms</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iv-suspicious-infrastructure-from-phishing-as-a-service-phaas-platforms/</link>
+      <description>Volume IV of our Q3 2024 Quarterly Threat Report focuses on phishing-as-a-service (PaaS). Learn what to focus on right now.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iv-suspicious-infrastructure-from-phishing-as-a-service-phaas-platforms/</guid>
+      <pubDate>Wed, 23 Oct 2024 13:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security alert: Fortinet zero-day vulnerability</title>
+      <link>https://expel.com/blog/security-alert-fortinet-zero-day-vulnerability/</link>
+      <description>Fortinet has disclosed a zero-day vulnerability that needs to be patched immediately, or the protocol connection to the internet should be disabled.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-alert-fortinet-zero-day-vulnerability/</guid>
+      <pubDate>Thu, 24 Oct 2024 14:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing your cloud investment: an interactive panel with AWS, Expel &amp; Wiz</title>
+      <link>https://expel.com/blog/securing-your-cloud-investment-an-interactive-panel-with-aws-expel-wiz/</link>
+      <description>Expel, AWS &amp; Wiz joined forces with customers to discuss the challenges of cloud security today, and what's to come in the future.</description>
+      <guid isPermaLink="false">https://expel.com/blog/securing-your-cloud-investment-an-interactive-panel-with-aws-expel-wiz/</guid>
+      <pubDate>Fri, 25 Oct 2024 14:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel Quarterly Threat Report Q3 2024, volume V: Preparing for software supply chain risk</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-v-preparing-for-software-supply-chain-risk/</link>
+      <description>Volume V of our Q3 2024 Quarterly Threat Report focuses on preparing for software supply chain risk. Learn what to focus on right now.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-v-preparing-for-software-supply-chain-risk/</guid>
+      <pubDate>Mon, 28 Oct 2024 14:35:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mandia unplugged: a recap of our fireside chat with our newest board member, Kevin Mandia</title>
+      <link>https://expel.com/blog/mandia-unplugged-a-recap-of-our-fireside-chat-with-our-newest-board-member-kevin-mandia/</link>
+      <description>Check out this summary of Expel CEO David Merkel's chat with Expel's newest board member, cybersecurity pioneer Kevin Mandia, founder of Mandiant.</description>
+      <guid isPermaLink="false">https://expel.com/blog/mandia-unplugged-a-recap-of-our-fireside-chat-with-our-newest-board-member-kevin-mandia/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy Halloween! Cybersecurity horror stories from SOCs past</title>
+      <link>https://expel.com/blog/happy-halloween-cybersecurity-horror-stories-from-socs-past/</link>
+      <description>Enjoy these horror stories from past SOCs, as our analysts share their most haunting tales from previous roles (and get some tips, too).</description>
+      <guid isPermaLink="false">https://expel.com/blog/happy-halloween-cybersecurity-horror-stories-from-socs-past/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>A secure world is built together: closing out Cybersecurity Awareness Month</title>
+      <link>https://expel.com/blog/a-secure-world-is-built-together-closing-out-cybersecurity-awareness-month/</link>
+      <description>It's the end of Cybersecurity Awareness Month, but these resources are useful every month of the year to enhance resilience and stay secure.</description>
+      <guid isPermaLink="false">https://expel.com/blog/a-secure-world-is-built-together-closing-out-cybersecurity-awareness-month/</guid>
+      <pubDate>Mon, 04 Nov 2024 14:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part I: How MDR can transform your SIEM investment</title>
+      <link>https://expel.com/blog/part-i-how-mdr-can-transform-your-siem-investment/</link>
+      <description>This part one of a three-part blog series on how MDR can transform your SIEM investment by augmenting and optimizing its capabilities.</description>
+      <guid isPermaLink="false">https://expel.com/blog/part-i-how-mdr-can-transform-your-siem-investment/</guid>
+      <pubDate>Fri, 08 Nov 2024 15:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>MDR insights: defense against persistent threats and Oracle WebLogic CVE-2020-14882</title>
+      <link>https://expel.com/blog/mdr-insights-defense-against-persistent-threats-and-oracle-weblogic-cve-2020-14882/</link>
+      <description>Initial access broker (IAB) Magnet Goblin is currently targeting CVE-2020-14882 in Oracle WebLogic. Here's how to identify and stop them.</description>
+      <guid isPermaLink="false">https://expel.com/blog/mdr-insights-defense-against-persistent-threats-and-oracle-weblogic-cve-2020-14882/</guid>
+      <pubDate>Tue, 12 Nov 2024 11:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday roundup for November 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-november-2024/</link>
+      <description>The November 2024 edition of Patch Tuesday is live, including 89 published CVEs from Microsoft. Here are our top takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-november-2024/</guid>
+      <pubDate>Wed, 13 Nov 2024 17:18:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part II: How MDR can transform your SIEM investment</title>
+      <link>https://expel.com/blog/part-ii-how-mdr-can-transform-your-siem-investment/</link>
+      <description>This is part two of a three-part blog series on how MDR can transform your SIEM investment by augmenting and optimizing its capabilities.</description>
+      <guid isPermaLink="false">https://expel.com/blog/part-ii-how-mdr-can-transform-your-siem-investment/</guid>
+      <pubDate>Thu, 14 Nov 2024 14:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part III: How MDR can transform your SIEM investment</title>
+      <link>https://expel.com/blog/part-iii-how-mdr-can-transform-your-siem-investment/</link>
+      <description>This is part three of a three-part blog series on how MDR can transform your SIEM investment by augmenting and optimizing its capabilities.</description>
+      <guid isPermaLink="false">https://expel.com/blog/part-iii-how-mdr-can-transform-your-siem-investment/</guid>
+      <pubDate>Fri, 15 Nov 2024 14:51:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security alert: Palo Alto Networks firewall vulnerability</title>
+      <link>https://expel.com/blog/security-alert-palo-alto-networks-firewall-vulnerability/</link>
+      <description>Palto Alto Networks (PAN) has a critical vulnerability that needs to be patched immediately to prevent access to networks via the firewall management interface.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-alert-palo-alto-networks-firewall-vulnerability/</guid>
+      <pubDate>Mon, 18 Nov 2024 17:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>A recap of our conversation on combatting security team burnout</title>
+      <link>https://expel.com/blog/a-recap-of-our-conversation-on-combatting-security-team-burnout/</link>
+      <description>This on-demand webinar discusses burnout in cybersecurity, its downstream impact, and strategies you can use to combat it.</description>
+      <guid isPermaLink="false">https://expel.com/blog/a-recap-of-our-conversation-on-combatting-security-team-burnout/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part I: Fundamentals of Kubernetes security</title>
+      <link>https://expel.com/blog/part-i-fundamentals-of-kubernetes-security/</link>
+      <description>Learn about the fundamentals of Kubernetes, including its architecture, challenges, and false positives in part one of this two-part blog series.</description>
+      <guid isPermaLink="false">https://expel.com/blog/part-i-fundamentals-of-kubernetes-security/</guid>
+      <pubDate>Thu, 21 Nov 2024 14:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part II: Fundamentals of Kubernetes security</title>
+      <link>https://expel.com/blog/part-ii-fundamentals-of-kubernetes-security/</link>
+      <description>Learn about the fundamentals of Kubernetes, including the four Cs of Kubernetes security and how Expel can help protect it.</description>
+      <guid isPermaLink="false">https://expel.com/blog/part-ii-fundamentals-of-kubernetes-security/</guid>
+      <pubDate>Mon, 25 Nov 2024 14:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOC-ful of gratitude: a Thanksgiving message</title>
+      <link>https://expel.com/blog/soc-ful-of-gratitude-a-thanksgiving-message/</link>
+      <description>Enjoy this special holiday message from Expel employees to our SOC. We're thankful to all of you for protecting our customers!</description>
+      <guid isPermaLink="false">https://expel.com/blog/soc-ful-of-gratitude-a-thanksgiving-message/</guid>
+      <pubDate>Tue, 26 Nov 2024 14:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday roundup for December 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-december-2024/</link>
+      <description>The December 2024 edition of Patch Tuesday is live, including 73 published CVEs from Microsoft. Here are our top takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-december-2024/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greg Notch, CISO at Expel, transitions to CSO role</title>
+      <link>https://expel.com/blog/greg-notch-ciso-at-expel-transitions-to-cso-role/</link>
+      <description>Expel announces that CISO Greg Notch is transitioning to a new role as Chief Security Officer (CSO), to better support customer needs.</description>
+      <guid isPermaLink="false">https://expel.com/blog/greg-notch-ciso-at-expel-transitions-to-cso-role/</guid>
+      <pubDate>Thu, 12 Dec 2024 14:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paws your day for some holiday cheer</title>
+      <link>https://expel.com/blog/paws-your-day-for-some-holiday-cheer/</link>
+      <description>Your favorite MDR provider asked our employees to submit their festive holiday pets for your enjoyment, and they delivered! Happy holidays!</description>
+      <guid isPermaLink="false">https://expel.com/blog/paws-your-day-for-some-holiday-cheer/</guid>
+      <pubDate>Mon, 23 Dec 2024 18:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security alert: Christmas Day Chrome extension compromise</title>
+      <link>https://expel.com/blog/security-alert-christmas-day-chrome-extension-compromise/</link>
+      <description>At least five Chrome extensions, including the Cyberhaven extension, were targeted on Christmas Day. Here's what you need to know.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-alert-christmas-day-chrome-extension-compromise/</guid>
+      <pubDate>Fri, 27 Dec 2024 17:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>A year in review: 2024 at Expel</title>
+      <link>https://expel.com/blog/a-year-in-review-2024-at-expel/</link>
+      <description>Expel is rounding out 2024 with a recap of our best moments of the year. We continue to build our culture, innovate, and make noise.</description>
+      <guid isPermaLink="false">https://expel.com/blog/a-year-in-review-2024-at-expel/</guid>
+      <pubDate>Tue, 31 Dec 2024 14:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel’s predictions for 2025: our crystal ball says…</title>
+      <link>https://expel.com/blog/expels-predictions-for-2025-our-crystal-ball-says/</link>
+      <description>Read what our Expel experts are predicting for AI and security in 2025. These predictions can help you continue planning for new year.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expels-predictions-for-2025-our-crystal-ball-says/</guid>
+      <pubDate>Fri, 10 Jan 2025 18:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday roundup for January 2025</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-january-2025/</link>
+      <description>The January 2025 edition of Patch Tuesday is live, including 159 published CVEs from Microsoft. Here are our top takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-january-2025/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud security: alerts vs. on-prem alerts (part I)</title>
+      <link>https://expel.com/blog/cloud-security-alerts-vs-on-prem-alerts-part-i/</link>
+      <description>This is part one of a two-part blog on cloud security alerts, including what makes them unique and best practices for management.</description>
+      <guid isPermaLink="false">https://expel.com/blog/cloud-security-alerts-vs-on-prem-alerts-part-i/</guid>
+      <pubDate>Thu, 16 Jan 2025 19:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud security: alert best practices (part II)</title>
+      <link>https://expel.com/blog/cloud-security-alert-best-practices-part-ii/</link>
+      <description>This is part two of a two-part blog on cloud security alerts, including what makes them unique and best practices for management.</description>
+      <guid isPermaLink="false">https://expel.com/blog/cloud-security-alert-best-practices-part-ii/</guid>
+      <pubDate>Thu, 23 Jan 2025 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reintroducing Expel’s employee resource groups (ERGs)</title>
+      <link>https://expel.com/blog/reintroducing-expels-employee-resource-groups-ergs/</link>
+      <description>Expel has four employee resource groups (ERGs) open to community members and allies, because we know we're better when different.</description>
+      <guid isPermaLink="false">https://expel.com/blog/reintroducing-expels-employee-resource-groups-ergs/</guid>
+      <pubDate>Fri, 31 Jan 2025 14:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Level up your SIEM strategy with new offerings from Expel MDR &amp; Sumo Logic</title>
+      <link>https://expel.com/blog/new-offerings-from-expel-mdr-sumo-logic/</link>
+      <description>We're announcing a cost-effective solution for your MDR, SIEM, and data storage needs with Expel MDR and Sumo Logic's new partnership.</description>
+      <guid isPermaLink="false">https://expel.com/blog/new-offerings-from-expel-mdr-sumo-logic/</guid>
+      <pubDate>Thu, 06 Feb 2025 14:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday roundup for February 2025</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-february-2025/</link>
+      <description>The February 2025 edition of Patch Tuesday is live, including 63 published CVEs from Microsoft. Here are our top takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-february-2025/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Valentine’s Day guide to protecting your digital heart</title>
+      <link>https://expel.com/blog/a-valentines-day-guide-to-protecting-your-digital-heart/</link>
+      <description>Happy Valentine's Day! Love is in the air, and unfortunately, so is cyber crime. Stay safe with these cybersecurity tips from Expel.</description>
+      <guid isPermaLink="false">https://expel.com/blog/a-valentines-day-guide-to-protecting-your-digital-heart/</guid>
+      <pubDate>Fri, 14 Feb 2025 15:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Expletive: Alex Glass, VP, Global Channel Sales &amp; Alliances</title>
+      <link>https://expel.com/blog/meet-the-expletive-alex-glass-vp-global-channel-sales-alliances/</link>
+      <description>This blog series dives into the people that make Expel tick. Meet Alex Glass, Expel's VP, Global Channel Sales &amp; Alliances.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-alex-glass-vp-global-channel-sales-alliances/</guid>
+      <pubDate>Thu, 20 Feb 2025 14:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel names top security partners in inaugural Partner of the Year Awards</title>
+      <link>https://expel.com/blog/expel-partner-of-the-year-awards/</link>
+      <description>Expel's inaugural Partner of the Year Awards have been announced. Check out the winners, and explore partnership opportunities.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-partner-of-the-year-awards/</guid>
+      <pubDate>Wed, 26 Feb 2025 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel named a Leader in The Forrester Wave™: MDR Services, Q1 2025</title>
+      <link>https://expel.com/blog/expel-named-a-leader-in-the-forrester-wave-mdr-services-q1-2025/</link>
+      <description>Expel named a Leader in The Forrester Wave™: Managed Detection and Response Services, Q1 2025. Get the report to see how we stack up against 9 others.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-named-a-leader-in-the-forrester-wave-mdr-services-q1-2025/</guid>
+      <pubDate>Thu, 27 Feb 2025 15:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expletive spotlight: Black History Month</title>
+      <link>https://expel.com/blog/expletive-spotlight-black-history-month/</link>
+      <description>To round out our Black History Month celebrations, we asked Expletives to share Black innovators in tech who inspire them.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expletive-spotlight-black-history-month/</guid>
+      <pubDate>Fri, 28 Feb 2025 17:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Expel MDR protects your customers and capital</title>
+      <link>https://expel.com/blog/how-expel-mdr-protects-your-customers-and-capital/</link>
+      <description>Expel MDR protects customers and capital, and is a great cybersecurity partner for financial institutions and organizations.</description>
+      <guid isPermaLink="false">https://expel.com/blog/how-expel-mdr-protects-your-customers-and-capital/</guid>
+      <pubDate>Mon, 03 Mar 2025 21:54:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel MDR customers benefit from expanded threat intel experience</title>
+      <link>https://expel.com/blog/expel-mdr-customers-benefit-from-expanded-threat-intel-experience/</link>
+      <description>Threat Bulletins are now available in Expel Workbench™, including details on any threat hunting completed to resolve the issue.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-mdr-customers-benefit-from-expanded-threat-intel-experience/</guid>
+      <pubDate>Tue, 04 Mar 2025 16:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel’s new Oracle Cloud Infrastructure (OCI) integration completes your cloud coverage</title>
+      <link>https://expel.com/blog/expels-new-oracle-cloud-infrastructure-oci-integration/</link>
+      <description>Expel announces new coverage for Oracle Cloud Infrastructure (OCI) to enhance our leading cloud MDR with an OCI API integration.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expels-new-oracle-cloud-infrastructure-oci-integration/</guid>
+      <pubDate>Wed, 12 Mar 2025 13:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday (Expel's version): March 2025</title>
+      <link>https://expel.com/blog/patch-tuesday-expels-version-march-2025/</link>
+      <description>The March 2025 edition of Patch Tuesday is live, and this month we included ColdFusion vulnerability data Expel has seen recently.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-expels-version-march-2025/</guid>
+      <pubDate>Wed, 12 Mar 2025 16:36:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The power of API integrations in managed detection and response (MDR)</title>
+      <link>https://expel.com/blog/the-power-of-api-integrations-in-mdr/</link>
+      <description>Expel's API connection expertise is the strongest way to collect telemetry, secure your environment, and limit threats.</description>
+      <guid isPermaLink="false">https://expel.com/blog/the-power-of-api-integrations-in-mdr/</guid>
+      <pubDate>Fri, 14 Mar 2025 13:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expletive spotlight: Expel in Ireland</title>
+      <link>https://expel.com/blog/expletive-spotlight-expel-in-ireland/</link>
+      <description>Meet three of our Irish Expletives in honor of St. Patrick's Day. Expel Ireland is hiring!</description>
+      <guid isPermaLink="false">https://expel.com/blog/expletive-spotlight-expel-in-ireland/</guid>
+      <pubDate>Mon, 17 Mar 2025 14:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security data done right: A conversation on MDR, SIEM, and data storage</title>
+      <link>https://expel.com/blog/security-data-done-right-a-conversation-on-mdr-siem-and-data-storage/</link>
+      <description>Catch a recap of Expel's conversation with Sumo Logic on the pitfalls of bad data storage habits, and learn how to resolve them with tips.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-data-done-right-a-conversation-on-mdr-siem-and-data-storage/</guid>
+      <pubDate>Thu, 20 Mar 2025 19:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Expletive: Samantha Ridel, Partner Integrations Manager</title>
+      <link>https://expel.com/blog/meet-the-expletive-samantha-ridel-partner-integrations-manager/</link>
+      <description>Meet Samantha Ridel, a Partner Integrations Manager at Expel. Learn why she's a lead for our women's ERG, and how she feels about owls.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-samantha-ridel-partner-integrations-manager/</guid>
+      <pubDate>Mon, 24 Mar 2025 13:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expletive spotlight: Women’s History Month</title>
+      <link>https://expel.com/blog/expletive-spotlight-womens-history-month/</link>
+      <description>To round out our Women's History Month celebrations, we asked Expletives to share their thoughts on gender parity.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expletive-spotlight-womens-history-month/</guid>
+      <pubDate>Mon, 31 Mar 2025 13:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Expletive: Irving B., MDR Manager</title>
+      <link>https://expel.com/blog/meet-the-expletive-irving-b-mdr-manager/</link>
+      <description>Meet our newest Expletive, MDR Manager Irving Bailiff. He's our newest hire at Expel, and has thoughts on the state of our handbook.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-irving-b-mdr-manager/</guid>
+      <pubDate>Tue, 01 Apr 2025 13:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key findings generation with GenAI</title>
+      <link>https://expel.com/blog/key-findings-generation-with-genai/</link>
+      <description>At Expel, we AI Responsibly. Our latest project focused on generating key findings (KF) to detail incident investigations.</description>
+      <guid isPermaLink="false">https://expel.com/blog/key-findings-generation-with-genai/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing the revolving door in security: solving FinServ staffing struggles</title>
+      <link>https://expel.com/blog/closing-the-revolving-door-in-security-solving-finserv-staffing-struggles/</link>
+      <description>Expel can help you maximize your FinServ security team's capabilities with our managed detection and response (MDR) and automation offerings.</description>
+      <guid isPermaLink="false">https://expel.com/blog/closing-the-revolving-door-in-security-solving-finserv-staffing-struggles/</guid>
+      <pubDate>Tue, 15 Apr 2025 13:00:18 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
