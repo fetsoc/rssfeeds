@@ -105,6 +105,18 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
+  - id: "cymulate-blog"
+    type: "sitemap_blog"
+    title: "Cymulate Blog"
+    home_url: "https://cymulate.com/blog/"
+    sitemap_url: "https://cymulate.com/blog-sitemap.xml"
+    include_prefix: "https://cymulate.com/blog/"
+    exclude_exact:
+      - "https://cymulate.com/blog"
+      - "https://cymulate.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
+
   - id: "todyl-threat-research"
     type: "sitemap_blog"
     title: "Todyl Threat Research"
