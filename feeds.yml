@@ -222,18 +222,6 @@ feeds:
     max_items: 50
     enrich_candidates: 80
 
-  - id: "analyst1-blog"
-    type: "sitemap_blog_tag"
-    title: "Analyst1 Blog"
-    home_url: "https://analyst1.com/category/blog/"
-    sitemap_url: "https://analyst1.com/post-sitemap.xml"
-    include_prefix: "https://analyst1.com/"
-    tag_tokens:
-      - "category/blog/"
-    max_items: 50
-    scan_limit: 200
-    enrich_limit: 80
-
   - id: "censys-blog"
     type: "sitemap_blog"
     title: "Censys Blog"
