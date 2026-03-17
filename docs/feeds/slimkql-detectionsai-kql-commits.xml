@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 01:24:47 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/clickfix-nslookup-abuse-detection-enhanced.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/14f3338cc0ceeebb12eb847a639bad16a33097dd</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/clickfix-nslookup-abuse-detection-enhanced.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/14f3338cc0ceeebb12eb847a639bad16a33097dd</guid>
-      <pubDate>Tue, 17 Feb 2026 16:17:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 06:56:07 +0000</lastBuildDate>
     <item>
       <title>Update clickfix-nslookup-abuse-detection-enhanced.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/28a55086b486e4c79045906d67f7ab9b682a6878</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/shinyhunters-infrastructure-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c154aa2a827af191117a1cacd58bc172569af1be</guid>
       <pubDate>Sun, 15 Mar 2026 03:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/defenderxdr-cloudflare-win--r-clickfix-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/3a25b98a6741bf2e623dcbc399bc8b7ebb4420b9</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/defenderxdr-cloudflare-win--r-clickfix-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3a25b98a6741bf2e623dcbc399bc8b7ebb4420b9</guid>
+      <pubDate>Tue, 17 Mar 2026 04:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
