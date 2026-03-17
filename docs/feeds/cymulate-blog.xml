@@ -7,25 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 06:56:14 +0000</lastBuildDate>
-    <item>
-      <title>What is Continuous Security Validation? - Cymulate</title>
-      <link>https://cymulate.com/blog/what-is-continuous-security-validation/</link>
-      <description>Is your cybersecurity keeping pace with evolving threats? Learn how Continuous Security Validation strengthens your defenses and prevents breaches 24/7</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/what-is-continuous-security-validation/</guid>
-    </item>
-    <item>
-      <title>Have You Noticed? There Are More Critical Vulnerabilities Than log4j</title>
-      <link>https://cymulate.com/blog/critical-vulnerabilities-than-log4j/</link>
-      <description>Read how the new Microsoft vulnerabilities are being exploited to access active directories and how they can be remediated.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/critical-vulnerabilities-than-log4j/</guid>
-    </item>
-    <item>
-      <title>From Content Overload to Actionable Security: The Power of Context</title>
-      <link>https://cymulate.com/blog/cybersecurity-content-vs-context/</link>
-      <description>Security data overload can hinder decision-making. Learn how prioritization, urgency, and achievability turn content into actionable cybersecurity insights</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cybersecurity-content-vs-context/</guid>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 12:54:46 +0000</lastBuildDate>
     <item>
       <title>Introducing Cymulate Yearly Platform Usage Report</title>
       <link>https://cymulate.com/blog/measuring-strategic-value/</link>
@@ -43,12 +25,6 @@
       <link>https://cymulate.com/blog/ctem-cisos-communicating-security/</link>
       <description>Learn how Continuous Threat Exposure Management (CTEM) enables CISOs to communicate risk, visibility, and protection with clarity and confidence</description>
       <guid isPermaLink="false">https://cymulate.com/blog/ctem-cisos-communicating-security/</guid>
-    </item>
-    <item>
-      <title>EDR Bypass: How Today’s Tools Defend Against Malware</title>
-      <link>https://cymulate.com/blog/edr-bypass-part-1-understanding-todays-tools/</link>
-      <description>Explore how modern tools like EDR, antivirus, and XDR protect against malware and lay the foundation for resilient cybersecurity defenses.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/edr-bypass-part-1-understanding-todays-tools/</guid>
     </item>
     <item>
       <title>Cyber Threat Breakdown September 2023</title>
@@ -105,34 +81,16 @@
       <guid isPermaLink="false">https://cymulate.com/blog/full-kill-chain-mitre-engenuity-apts/</guid>
     </item>
     <item>
-      <title>It’s Time for an Upgrade: The Huawei HG532 Remote Code Exploit</title>
-      <link>https://cymulate.com/blog/huawei-hg532-remote-code-exploit/</link>
-      <description>Mirai shell variants exploit CVE-2017-17215 in Huawei HG532 routers, stressing risks of outdated hardware and unpatched device</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/huawei-hg532-remote-code-exploit/</guid>
-    </item>
-    <item>
       <title>Lapsus$, Okta, Microsoft, and RDP – The Attack Success Factors</title>
       <link>https://cymulate.com/blog/lapsus-okta-microsoft-and-rdp-attacks/</link>
       <description>Get up to speed on the alarming reach of the Lapsus$ threat actor group as they gained access to the sensitive data of multiple enterprises.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/lapsus-okta-microsoft-and-rdp-attacks/</guid>
     </item>
     <item>
-      <title>Cyber Threat Breakdown November 2023</title>
-      <link>https://cymulate.com/blog/cyber-threat-breakdown-november-2023/</link>
-      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in November 2023.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-november-2023/</guid>
-    </item>
-    <item>
       <title>How Continuous Security Validation Improves Collaboration</title>
       <link>https://cymulate.com/blog/continuous-security-validation-improves-collaboration/</link>
       <description>This blog shares how Continuous Security Validation technology can help improve and build collaborative relationships within risk management.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/continuous-security-validation-improves-collaboration/</guid>
-    </item>
-    <item>
-      <title>Cyber Threat Breakdown January 2024</title>
-      <link>https://cymulate.com/blog/cyber-threat-breakdown-january-2024/</link>
-      <description>What were the critical cyber threats last month? Here is the January 2024 breakdown of threats with a short list of IoCs.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-january-2024/</guid>
     </item>
     <item>
       <title>How to Leverage Log4j to Expose vCenter Attack Paths - Part 1</title>
@@ -313,6 +271,55 @@
       <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in July 2023.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-june-2023/</guid>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What CopyKittens Can Teach Us About Cyber-security</title>
+      <link>https://cymulate.com/blog/copykittens-can-teach-us-cyber-security/</link>
+      <description>Cyber security lessons to learn from the CopyKittens professional cyber ring attacks and their malware distribution techniques.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/copykittens-can-teach-us-cyber-security/</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evolution and Outlook of Exposure Management - Cymulate</title>
+      <link>https://cymulate.com/blog/the-evolution-and-outlook-of-exposure-management/</link>
+      <description>Learn how exposure management evolved from finance to cybersecurity, tackling modern risks, in this CyberWire podcast with Avihai Ben-Yossef.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/the-evolution-and-outlook-of-exposure-management/</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full-Context Cyber Threat Exposure Management Explained</title>
+      <link>https://cymulate.com/blog/full-context-ctem-explained/</link>
+      <description>Full-context CTEM gives security teams actionable insights into their exposure landscape, enabling effective responses to evolving cyber threats</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/full-context-ctem-explained/</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing Out the CTEM Journey with Validation and Mobilization</title>
+      <link>https://cymulate.com/blog/ctem-validation-mobilization/</link>
+      <description>CTEM helps organizations understand their needs from both a technical and a business perspective. See the step-by-step process in this blog.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/ctem-validation-mobilization/</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Technology Behind the Cymulate AI Copilot</title>
+      <link>https://cymulate.com/blog/technology-behind-ai-copilot/</link>
+      <description>Discover how Cymulate's AI Copilot and Dynamic Attack Planner revolutionize attack simulations, enhancing efficiency and ease for security professionals</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/technology-behind-ai-copilot/</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Quickest Way to Comply with NIST Revision 5</title>
+      <link>https://cymulate.com/blog/comply-nist-revision-5/</link>
+      <description>Learn how to optimize your cybersecurity ROI by complying with the New NIST (SP) 800-53A, Revision 5 Standards in this blog from Cymulate.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/comply-nist-revision-5/</guid>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Cyber Security Risk is Never Worth the Price - Cymulate</title>
+      <link>https://cymulate.com/blog/risky-business/</link>
+      <description>This blog post demonstrates why Cyber Security Risk is Never Worth the Price and why it's important to Think independently before deciding.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/risky-business/</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
