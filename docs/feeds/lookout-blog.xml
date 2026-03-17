@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 12:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 18:52:46 +0000</lastBuildDate>
     <item>
       <title>Lookout and U.S. Govt. on New Vision for Zero Trust</title>
       <link>https://security.lookout.com/blog/lookout-nist-nccoe-collaborates-on-zero-trust</link>
