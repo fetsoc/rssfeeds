@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 12:54:12 +0000</lastBuildDate>
-    <item>
-      <title>Lookout and U.S. Govt. on New Vision for Zero Trust</title>
-      <link>https://security.lookout.com/blog/lookout-nist-nccoe-collaborates-on-zero-trust</link>
-      <description>We're excited that we have been selected by the National Institute of Standards and Technology (NIST) to collaborate on its Zero Trust architecture development efforts.</description>
-      <guid isPermaLink="false">https://security.lookout.com/blog/lookout-nist-nccoe-collaborates-on-zero-trust</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 18:59:25 +0000</lastBuildDate>
     <item>
       <title>Mobile Cyber Threat Telemetry Dataset to MSFT Azure</title>
       <link>https://security.lookout.com/blog/lookout-integrates-with-microsoft-azure-sentinel</link>
@@ -139,6 +133,11 @@
       <link>https://security.lookout.com/blog/data-leakage-protection-secure-email-gateway</link>
       <description>This large financial services firm needed to ensure they were protecting data in email without increasing complexity or limiting productivity.</description>
       <guid isPermaLink="false">https://security.lookout.com/blog/data-leakage-protection-secure-email-gateway</guid>
+    </item>
+    <item>
+      <title>Attackers Wielding DarkSword Threaten iOS Users | Threat Intel</title>
+      <link>https://security.lookout.com/blog/darksword</link>
+      <guid isPermaLink="false">https://security.lookout.com/blog/darksword</guid>
     </item>
     <item>
       <title>Cybersecurity Is Not Complete Without EDR for Mobile</title>
