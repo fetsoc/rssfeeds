@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 18:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:30:43 +0000</lastBuildDate>
     <item>
       <title>WordPress Sites Hacked with Fake Cloudflare DDoS Alerts - ThreatMon</title>
       <link>https://threatmon.io/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts/</link>
