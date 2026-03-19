@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 12:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:53:05 +0000</lastBuildDate>
     <item>
       <title>Mobile Cyber Threat Telemetry Dataset to MSFT Azure</title>
       <link>https://security.lookout.com/blog/lookout-integrates-with-microsoft-azure-sentinel</link>
