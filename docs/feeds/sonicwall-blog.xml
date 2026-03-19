@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 06:51:24 +0000</lastBuildDate>
-    <item>
-      <title>Multiple vulnerabilities in SolarWinds Web Help Desk Leading to RCE: CVE-2025-40551</title>
-      <link>https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a critical vulnerability chain in SolarWinds Web Help Desk (WHD), assessed its impact and developed mitigation measures. SolarWinds WHD is an IT Ticketing and Asset Management solution designed for small-to-medium IT teams to automate service requests and track hardware/software inventory.
-The issues, tracked as CVE-2025-40536 (Security Protection Bypass) and CVE-2025-40551 (a deserialization bypass in the AjaxProxy functionality), impact all versions prior to 2026.1. When chained together, these flaws allow unauthenticated remote attackers to execute arbitrary code on the server. Given the widespread use of SolarWinds WHD, organizations are strongly advised to apply the vendor-provided updates as soon as possible.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</guid>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 12:45:10 +0000</lastBuildDate>
     <item>
       <title>SonicWall 2026 Partner Awards: Honoring Global Excellence</title>
       <link>https://www.sonicwall.com/blog/sonicwall-s-2026-partner-awards-celebrating-the-partners-powering-sonicwall-s-global-success</link>
@@ -287,6 +280,12 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
       <description>SonicWall SVP Michael Crean appeared on Fox News to discuss Iran-linked cyber activity and the Stryker attack. Watch the full interview.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</guid>
+    </item>
+    <item>
+      <title>The SonicSentry SOC in Action in the Morning</title>
+      <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
+      <description>An alert may seem small, but tackling it quickly could be the difference between a good day and a very bad one.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
