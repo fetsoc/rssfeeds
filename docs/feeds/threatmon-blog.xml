@@ -7,7 +7,21 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 12:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 06:45:51 +0000</lastBuildDate>
+    <item>
+      <title>Iranian Threat Actor MERCURY Exploits Log4j 2 Vulnerabilities</title>
+      <link>https://threatmon.io/iranian-threat-actor-mercury-exploits-log4j-2-vulnerabilities-in-unpatched-systems/</link>
+      <description>The Iranian threat actor MERCURY has been exploiting unpatched Log4j 2 vulnerabilities in SysAid applications to target organizations.</description>
+      <guid isPermaLink="false">https://threatmon.io/iranian-threat-actor-mercury-exploits-log4j-2-vulnerabilities-in-unpatched-systems/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:04:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA Warning of Palo Alto Networks' PAN-OS Vulnerability</title>
+      <link>https://threatmon.io/cisa-warning-against-active-exploitation-of-palo-alto-networks-pan-os-vulnerability/</link>
+      <description>This blog is about CISA's warning regarding the active exploitation of a Palo Alto Networks PAN-OS vulnerability.</description>
+      <guid isPermaLink="false">https://threatmon.io/cisa-warning-against-active-exploitation-of-palo-alto-networks-pan-os-vulnerability/</guid>
+      <pubDate>Tue, 18 Jul 2023 20:06:48 +0000</pubDate>
+    </item>
     <item>
       <title>WordPress Sites Hacked with Fake Cloudflare DDoS Alerts - ThreatMon</title>
       <link>https://threatmon.io/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts/</link>
@@ -289,13 +303,6 @@
       <pubDate>Fri, 21 Feb 2025 18:44:40 +0000</pubDate>
     </item>
     <item>
-      <title>Monthly Ransomware Critical Report - ThreatMon</title>
-      <link>https://threatmon.io/monthly-ransomware-critical-report/</link>
-      <description>Monthly Ransomware Critical Report: Ransomware attacks remain one of the most critical threats to modern businesses..</description>
-      <guid isPermaLink="false">https://threatmon.io/monthly-ransomware-critical-report/</guid>
-      <pubDate>Thu, 06 Mar 2025 14:19:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Chrome DLL Side Loading Method - ThreatMon</title>
       <link>https://threatmon.io/google-chrome-dllside-loading-method/</link>
       <description>Google Chrome DLL Side Loading Method: By exploiting Chrome’s trusted status attackers can maintain persistent access to compromised systems</description>
@@ -329,13 +336,6 @@
       <description>NullPoint Stealer Technical Malware Analysis Report: the malware will be used in broader campaigns across both regional and global targets.</description>
       <guid isPermaLink="false">https://threatmon.io/nullpoint-stealer-technical-malware-analysis-report/</guid>
       <pubDate>Thu, 15 May 2025 11:45:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>April's Ransomware Attacks | ThreatMon</title>
-      <link>https://threatmon.io/aprils-ransomware-attacks/</link>
-      <description>Ransomware attacks remain one of the most critical threats to modern businesses, leading to severe operational disruptions and data breaches.</description>
-      <guid isPermaLink="false">https://threatmon.io/aprils-ransomware-attacks/</guid>
-      <pubDate>Tue, 20 May 2025 07:28:56 +0000</pubDate>
     </item>
     <item>
       <title>INDIA-PAKISTAN CYBER CONFLICT: THREAТ АСTORS</title>
