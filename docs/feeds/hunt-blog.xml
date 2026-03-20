@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 06:44:09 +0000</lastBuildDate>
-    <item>
-      <title>Shared SSH Keys Expose Phishing Infrastructure Targeting Kuwait</title>
-      <link>https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</link>
-      <description>Shared SSH keys expose coordinated phishing targeting Kuwaiti fisheries, telecoms, and insurers with cloned login portals and mobile payment lures. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</guid>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 12:40:07 +0000</lastBuildDate>
     <item>
       <title>Introducing Hunt 2.1:  Refinements to the Threat Hunting Experience</title>
       <link>https://hunt.io/blog/introducing-hunt-2-1</link>
@@ -342,6 +335,13 @@
       <link>https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</link>
       <description>Learn how to track and map adversary infrastructure using Hunt, pivoting from a single IP to uncover hidden connections through infrastructure overlaps and key intelligence indicators.</description>
       <guid isPermaLink="false">https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposing Lumma Stealer’s Second-Stage Infrastructure and C2 Servers with ASN and JA4X Pivoting</title>
+      <link>https://hunt.io/blog/tracking-lumma-stealer-second-stage-servers</link>
+      <description>Expose Lumma Stealer’s second-stage infrastructure using ASN and JA4X pivoting to identify active servers across multiple networks</description>
+      <guid isPermaLink="false">https://hunt.io/blog/tracking-lumma-stealer-second-stage-servers</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
