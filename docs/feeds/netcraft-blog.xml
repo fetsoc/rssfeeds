@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 18:53:07 +0000</lastBuildDate>
-    <item>
-      <title>Reputation is ROI: Why Banks Must Defend Their Brand in 2025</title>
-      <link>https://www.netcraft.com/blog/reputation-is-roi-the-case-for-bank-reputation-defense</link>
-      <description>Generative AI has made bank impersonation faster, cheaper, and more convincing than ever. Discover why brand protection delivers rapid ROI—and how to safeguard your financial institution’s reputation now.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/reputation-is-roi-the-case-for-bank-reputation-defense</guid>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 01:24:33 +0000</lastBuildDate>
     <item>
       <title>9 Ways to Build Buy-In for Modern Brand Protectio</title>
       <link>https://www.netcraft.com/blog/9-ways-to-build-buy-in-for-modern-brand-protection</link>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/large-scale-magento-defacement-campaign</link>
       <description>Netcraft uncovers a global Magento defacement campaign impacting 15,000+ hostnames across major brands, government domains, and e-commerce platforms. Learn how attackers are exploiting web infrastructure and what defenders should do next.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/large-scale-magento-defacement-campaign</guid>
+    </item>
+    <item>
+      <title>Preemptive Domain Disruption: Stopping Phishing Before It Starts</title>
+      <link>https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</link>
+      <description>Netcraft introduces Preemptive Domain Disruption, using AI and Verified Attack Indicators to take down malicious infrastructure before attacks launch—eliminating the victimization window.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>
