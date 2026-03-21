@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 12:37:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:29:38 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -50,18 +50,18 @@
       <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1: DHS Automated Indicator Sharing (AIS) | Analyst1</title>
-      <link>https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</link>
-      <description>Unlock threat insights at machine speed with Analyst1 and DHS Automated Indicator Sharing, enhancing your defensive actions. Maximize security investments.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</guid>
-      <pubDate>Wed, 30 Sep 2020 09:09:59 +0000</pubDate>
+      <title>What is the Next Cybersecurity Fable? - Analyst1</title>
+      <link>https://analyst1.com/what-is-the-next-cybersecurity-fable/</link>
+      <description>Discover the next cybersecurity fable and learn how to fight back against cyber threats. Explore the world of hackers and the battle for online security.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-the-next-cybersecurity-fable/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom Mafia - Analysis of the World's First Ransomware Cartel | Analyst1</title>
-      <link>https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</link>
-      <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
-      <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
+      <title>Industry Luminary joins Analyst1 as Chief Security Strategist | Analyst1</title>
+      <link>https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</link>
+      <description>Jon DiMaggio takes on the role of Chief Security Strategist at Analyst1, spearheading research and strategy for the leading threat intelligence firm.</description>
+      <guid isPermaLink="false">https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</guid>
+      <pubDate>Wed, 11 Nov 2020 01:01:16 +0000</pubDate>
     </item>
     <item>
       <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
@@ -113,6 +113,13 @@
       <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
     </item>
     <item>
+      <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
+      <link>https://analyst1.com/north-korea-intelligence-assessment-2022/</link>
+      <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
+      <guid isPermaLink="false">https://analyst1.com/north-korea-intelligence-assessment-2022/</guid>
+      <pubDate>Tue, 22 Feb 2022 01:01:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Why North Korea Steals Money | Analyst1</title>
       <link>https://analyst1.com/why-north-korea-steals-money/</link>
       <description>Discover how North Korea steals money through cyberattacks, cryptocurrency theft, and ransomware. Uncover their motives, spending habits, and global response.</description>
@@ -132,6 +139,13 @@
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
       <guid isPermaLink="false">https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</guid>
       <pubDate>Thu, 12 Jan 2023 19:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audio Version – Ransomware Diaries: Volume 1 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-1/</link>
+      <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
+      <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
       <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
@@ -239,13 +253,6 @@
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
-      <title>10 Reasons You Need a TIP Now | Analyst1</title>
-      <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
-      <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
-      <guid isPermaLink="false">https://analyst1.com/10-reasons-you-need-a-tip-now/</guid>
-      <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Is it time to replace your legacy TIP? | Analyst1</title>
       <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
       <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
@@ -342,13 +349,6 @@
       <description>Reston, VA – (March 27, 2025) – Analyst1, a leader in advanced threat intelligence and cyber defense solutions, today unveiled the A1Defender Partner Program, a comprehensive initiative designed to equip resellers, system integrators, and solution providers with the tools, expertise, and intelligence needed to drive revenue and enhance customer security. The A1Defender Partner Program allows […]</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-launches-a1defender-partner-program-to-empower-channel-partners-with-advanced-threat-intelligence/</guid>
       <pubDate>Thu, 27 Mar 2025 12:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1 Unveils Game-Changing Intelligence Management Features in v2.11.0 Release | Analyst1</title>
-      <link>https://analyst1.com/analyst1-unveils-game-changing-intelligence-management-features-in-v2-11-0-release/</link>
-      <description>April 02, 2025 – Arlington, VA — Analyst1, a leading provider of threat intelligence operations platforms, has announced the release of version 2.11.0, delivering powerful new capabilities designed to streamline threat intelligence workflows, strengthen data accountability, and boost analyst productivity across the board. Bulk Actions, Enhanced Control With v2.11.0, Analyst1 introduces bulk update and deletion […]</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-game-changing-intelligence-management-features-in-v2-11-0-release/</guid>
-      <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>5 Actionable Cyber Threat Analysis Techniques You Need to Know | Analyst1</title>
