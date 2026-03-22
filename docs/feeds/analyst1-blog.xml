@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 06:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:28:24 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -85,13 +85,6 @@
       <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
-      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
-      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
-      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
       <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
       <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
@@ -139,6 +132,13 @@
       <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
       <guid isPermaLink="false">https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</guid>
       <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
+      <link>https://analyst1.com/north-korea-intelligence-assessment-2022/</link>
+      <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
+      <guid isPermaLink="false">https://analyst1.com/north-korea-intelligence-assessment-2022/</guid>
+      <pubDate>Tue, 22 Feb 2022 01:01:46 +0000</pubDate>
     </item>
     <item>
       <title>Why North Korea Steals Money | Analyst1</title>
@@ -289,13 +289,6 @@
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
-      <link>https://analyst1.com/threat-intelligence-lifecycle-1/</link>
-      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-1/</guid>
-      <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Intelligence Lifecycle | Analyst1</title>
       <link>https://analyst1.com/threat-intelligence-lifecycle-2/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
@@ -328,6 +321,13 @@
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-v/</guid>
       <pubDate>Mon, 10 Feb 2025 21:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging Intelligence-Driven Threat Management for Financial Organizations | Analyst1</title>
+      <link>https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</link>
+      <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
+      <guid isPermaLink="false">https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:48:24 +0000</pubDate>
     </item>
     <item>
       <title>A Step Above: Why Analyst1 is CISA's Threat Intelligence Platform of Choice | Analyst1</title>
