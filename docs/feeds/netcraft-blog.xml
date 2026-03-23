@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 12:48:56 +0000</lastBuildDate>
-    <item>
-      <title>9 Ways to Build Buy-In for Modern Brand Protectio</title>
-      <link>https://www.netcraft.com/blog/9-ways-to-build-buy-in-for-modern-brand-protection</link>
-      <description>Learn how to secure cross-functional support for brand protection by connecting threats to real incidents, metrics that matter, and automation that scales.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/9-ways-to-build-buy-in-for-modern-brand-protection</guid>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 18:46:54 +0000</lastBuildDate>
     <item>
       <title>August 2025 Web Server Survey | Netcraft</title>
       <link>https://www.netcraft.com/blog/august-2025-web-server-survey</link>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</link>
       <description>Netcraft introduces Preemptive Domain Disruption, using AI and Verified Attack Indicators to take down malicious infrastructure before attacks launch—eliminating the victimization window.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</guid>
+    </item>
+    <item>
+      <title>5 Questions to Ask Your Next Digital Risk Protection Vendor</title>
+      <link>https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</link>
+      <description>A DRP solution should reveal whether the platform actively disrupts attacks or simply reports them. Ask these five questions to find the right DRP vendor.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>
