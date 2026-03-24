@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 06:59:21 +0000</lastBuildDate>
-    <item>
-      <title>August 2025 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/august-2025-web-server-survey</link>
-      <description>In the August 2025 survey we received responses from 1,300,016,299 sites across 281,522,947 domains and 13,797,308 web-facing computers. This refle...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/august-2025-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 12:54:50 +0000</lastBuildDate>
     <item>
       <title>Boxing Clever: Uncovering a $1M Task Scam Cluster Exploiting Major Brands</title>
       <link>https://www.netcraft.com/blog/boxing-clever-the-million-dollar-task-scam-cluster</link>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</link>
       <description>A DRP solution should reveal whether the platform actively disrupts attacks or simply reports them. Ask these five questions to find the right DRP vendor.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</guid>
+    </item>
+    <item>
+      <title>Excessive Emojis as an AI Indicator</title>
+      <link>https://www.netcraft.com/blog/excessive-emojis-as-an-ai-indicator</link>
+      <description>See how "emoji clues" in code comments and console outputs serve as a indicator for identifying AI-generated phishing scripts and automated threat infrastructure.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/excessive-emojis-as-an-ai-indicator</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 06:59:17 +0000</lastBuildDate>
-    <item>
-      <title>Streamline Security and Reduce Overhead with NSM</title>
-      <link>https://www.sonicwall.com/blog/consistent-security-less-overhead-help-your-customers-do-more-with-sonicwall-nsm</link>
-      <description>Help your customers simplify firewall management and gain visibility with SonicWall NSM</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/consistent-security-less-overhead-help-your-customers-do-more-with-sonicwall-nsm</guid>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 12:54:47 +0000</lastBuildDate>
     <item>
       <title>Why Policy Deployment Speed Matters for Security</title>
       <link>https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</link>
@@ -280,6 +274,11 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
       <description>An alert may seem small, but tackling it quickly could be the difference between a good day and a very bad one.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
+    </item>
+    <item>
+      <title>FIPS 140-3 Validation: The Difference Between Proven and Assumed</title>
+      <link>https://www.sonicwall.com/blog/fips-140-3-validation-the-difference-between-proven-and-assumed</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/fips-140-3-validation-the-difference-between-proven-and-assumed</guid>
     </item>
     <item>
       <title>Juniper JunOS OS Evolved Pre-authenticated Remote Code Execution (CVE-2026-21902)</title>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 06:59:16 +0000</lastBuildDate>
-    <item>
-      <title>Preparing Security Defenses For the AI Cyber Attack Era</title>
-      <link>https://www.darktrace.com/blog/building-for-the-ai-attack-era</link>
-      <description>The threat of AI being used in cyberattacks is growing. Learn how Darktrace is harnessing the power of AI to protect security systems against these attacks.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/building-for-the-ai-attack-era</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 12:54:46 +0000</lastBuildDate>
     <item>
       <title>Darktrace's AI Analyst: Closing the Cyber Skills Gap</title>
       <link>https://www.darktrace.com/blog/bridging-the-cyber-skills-gap-cyber-ai-analyst-for-ot</link>
@@ -257,6 +250,13 @@
       <link>https://www.darktrace.com/blog/agent-vs-agentless-cloud-security-why-deployment-methods-matter</link>
       <description>Cloud security solutions can be deployed with agentless or agent-based approaches or use a combination of methods. Organizations must weigh which method applies best to the assets and data the tool will protect.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/agent-vs-agentless-cloud-security-why-deployment-methods-matter</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace / OT Product Updates | 2026</title>
+      <link>https://www.darktrace.com/blog/advancing-ot-security-with-architecture-visibility-operational-reporting-and-industrial-context</link>
+      <description>The Darktrace / OT release introduces new capabilities designed to help industrial organizations better understand, document, and operationalize their operational environments.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/advancing-ot-security-with-architecture-visibility-operational-reporting-and-industrial-context</guid>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
