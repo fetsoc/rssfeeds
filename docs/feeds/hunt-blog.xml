@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 12:53:37 +0000</lastBuildDate>
-    <item>
-      <title>Shared SSH Keys Expose Phishing Infrastructure Targeting Kuwait</title>
-      <link>https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</link>
-      <description>Shared SSH keys expose coordinated phishing targeting Kuwaiti fisheries, telecoms, and insurers with cloned login portals and mobile payment lures. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/phishing-campaign-kuwait-shared-ssh-keys</guid>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 18:52:18 +0000</lastBuildDate>
     <item>
       <title>Introducing Hunt 2.1:  Refinements to the Threat Hunting Experience</title>
       <link>https://hunt.io/blog/introducing-hunt-2-1</link>
@@ -357,6 +350,13 @@
       <description>From open directory to hardcoded C2: how one exposed Iranian staging server revealed a full botnet operation and 15-node censorship bypass network.</description>
       <guid isPermaLink="false">https://hunt.io/blog/iran-botnet-operation-open-directory</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TheGentlemen Ransomware Toolkit Found on Russian Proton66 Server</title>
+      <link>https://hunt.io/blog/thegentlemen-ransomware-toolkit-russian-proton66-server</link>
+      <description>Hunt.io found a live TheGentlemen ransomware toolkit on Russian Proton66 infrastructure, including victim credentials, Mimikatz logs, and plaintext ngrok tokens.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/thegentlemen-ransomware-toolkit-russian-proton66-server</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
