@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 06:56:08 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Cymulate Yearly Platform Usage Report</title>
-      <link>https://cymulate.com/blog/measuring-strategic-value/</link>
-      <description>Discover how Cymulate Security Validation minimizes risks and strengthens enterprise defenses with proven results from customer data</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/measuring-strategic-value/</guid>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 12:52:14 +0000</lastBuildDate>
     <item>
       <title>Security Segmentation Validation in the Banking Industry</title>
       <link>https://cymulate.com/blog/security-validation-banking-industry/</link>
@@ -313,6 +307,13 @@
       <description>Learn how to optimize your cybersecurity ROI by complying with the New NIST (SP) 800-53A, Revision 5 Standards in this blog from Cymulate.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/comply-nist-revision-5/</guid>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian Hacker Group OilRig Keeps On Cyber Drilling</title>
+      <link>https://cymulate.com/blog/iranian-hackers-group-persistent-threat/</link>
+      <description>Iranian hacker group OilRig, aka PT34 or Helix Kitten, poses a persistent threat to technology services providers and a government entities</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/iranian-hackers-group-persistent-threat/</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Cyber Security Risk is Never Worth the Price - Cymulate</title>
