@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 18:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 01:26:27 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/modelorat-detection-crashfix-campaign.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c0af130dd6a27b43e7a3d56f1434216592b65e9f</link>
