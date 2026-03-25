@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 01:26:27 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/modelorat-detection-crashfix-campaign.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/c0af130dd6a27b43e7a3d56f1434216592b65e9f</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/modelorat-detection-crashfix-campaign.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c0af130dd6a27b43e7a3d56f1434216592b65e9f</guid>
-      <pubDate>Sat, 21 Feb 2026 06:31:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 06:56:00 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/hunting-nanoclaw.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/6f7ffb777ca9f8a2764c61ec334eb01dd35782c1</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detection-rules-for-mois-campaign.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c509e611e0199c9246f41bf89919f0fcec5cfda1</guid>
       <pubDate>Mon, 23 Mar 2026 18:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update detect-phishing-callback-from-azure-monitor-alerts.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/6eda7ab79696501d639ea50310d15e333f681615</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update detect-phishing-callback-from-azure-monitor-alerts.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/6eda7ab79696501d639ea50310d15e333f681615</guid>
+      <pubDate>Wed, 25 Mar 2026 01:32:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
