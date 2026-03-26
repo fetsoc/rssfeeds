@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 01:49:29 +0000</lastBuildDate>
-    <item>
-      <title>Why Policy Deployment Speed Matters for Security</title>
-      <link>https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</link>
-      <description>Without rapid deployment, even the best policies fall short. Discover how SonicWall NSM enables centralized, fast firewall policy enforcement.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</guid>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 07:01:57 +0000</lastBuildDate>
     <item>
       <title>Save Time and Budget with NSM Remote Deployment</title>
       <link>https://www.sonicwall.com/blog/how-nsm-zero-touch-simplifies-deployment-and-preserves-budget-and-resources</link>
@@ -285,6 +279,12 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <link>https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</link>
       <description>The SonicWall Capture Labs threat research team became aware of a severe unauthenticated Incorrect Permission Assignment for Critical Resource vulnerability in Juniper Networks Junos OS Evolved (PTX Series), assessed their impact, and developed mitigation measures. Juniper PTX Series routers are high-performance core and peering routers built for high throughput, low latency, and scale. They are commonly used by internet service providers, telecommunication services, and cloud network applications.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</guid>
+    </item>
+    <item>
+      <title>Partner Power News - March Momentum: Driving Growth &amp; Secure Access for MSPs | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news---march-2026-outcomes-acceleration-opportunity</link>
+      <description>Boost MSP success with modern cybersecurity, secure‑by‑default strategies, SonicWall firewall leadership, and new SecureFirst Partner Program updates driving growth.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news---march-2026-outcomes-acceleration-opportunity</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
