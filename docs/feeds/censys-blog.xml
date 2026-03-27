@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 12:37:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 18:47:30 +0000</lastBuildDate>
+    <item>
+      <title>Securing the Signal and Protecting the Grid: Facing the Cybersecurity Risks Across Telecom - Censys</title>
+      <link>https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</link>
+      <description>As 2024 came to a close, the Cybersecurity and Infrastructure Security Agency (CISA), the FBI, the National Security Agency, and partner agencies in New Zealand, Australia, and Canada released a joint statement warning that Salt Typhoon, a Chinese APT group, was targeting major global telecommunications providers. As many as 80 telecommunications companies and internet service […]</description>
+      <guid isPermaLink="false">https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</guid>
+      <pubDate>Mon, 03 Feb 2025 21:34:26 +0000</pubDate>
+    </item>
     <item>
       <title>Unpacking the BADBOX Botnet with Censys - Censys</title>
       <link>https://censys.com/blog/unpacking-the-badbox-botnet/</link>
@@ -301,13 +308,6 @@
       <description>What is ErrTraffic? ErrTraffic is a Traffic Distribution System (TDS) designed specifically for ClickFix-like campaigns. If you’re not familiar with ClickFix, it’s a social engineering technique where attackers display fake error messages or update prompts to trick users into running malicious commands and/or downloading malware. ErrTraffic takes it further by actually breaking the page visually […]</description>
       <guid isPermaLink="false">https://censys.com/blog/errtraffic-inside-glitchfix-attack-panel/</guid>
       <pubDate>Tue, 20 Jan 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Living Off the Web: How Trust Infrastructure Became a Malware Delivery Interface - Censys</title>
-      <link>https://censys.com/blog/living-off-the-web-how-trust-infrastructure-became-a-malware-delivery-interface/</link>
-      <description>Executive Summary The Fake Captcha ecosystem can look like a monolithic, coordinated campaign, but it is better understood as a fragmented, fast-changing abuse pattern that uses trusted web infrastructure as the delivery surface.  Perceptual hashing (pHash) across thousands of Fake Captcha pages observed in the Censys dataset identifies one dominant visual cluster, closely resembling legitimate […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/living-off-the-web-how-trust-infrastructure-became-a-malware-delivery-interface/</guid>
-      <pubDate>Thu, 22 Jan 2026 19:29:00 +0000</pubDate>
     </item>
     <item>
       <title>Censys Recognized as One of the Most Popular New Integrations in the Wiz Integration Network (WIN) Partner Index - Censys</title>
