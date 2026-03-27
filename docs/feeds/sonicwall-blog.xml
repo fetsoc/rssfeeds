@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 18:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 01:45:13 +0000</lastBuildDate>
     <item>
       <title>Save Time and Budget with NSM Remote Deployment</title>
       <link>https://www.sonicwall.com/blog/how-nsm-zero-touch-simplifies-deployment-and-preserves-budget-and-resources</link>
