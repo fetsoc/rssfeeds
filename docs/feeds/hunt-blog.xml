@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 12:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 18:29:32 +0000</lastBuildDate>
     <item>
       <title>Track Threat Actors Using Real-World IOC Pivoting</title>
       <link>https://hunt.io/blog/threat-actor-intelligence-with-enhanced-ioc-pivoting</link>

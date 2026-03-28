@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/objective-see.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 16:07:51 +0000</lastBuildDate>
-    <item>
-      <title>OSX.EvilQuest Uncovered (part one)</title>
-      <link>https://objective-see.com/blog/blog_0x59.html</link>
-      <description>OSX.EvilQuest is a new piece of malware targeting Mac users. In part one, we analyze the malware's infection vector, persistence mechanism, and anti-analysis logic.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x59.html</guid>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 18:29:32 +0000</lastBuildDate>
     <item>
       <title>OSX.EvilQuest Uncovered (part two)</title>
       <link>https://objective-see.com/blog/blog_0x60.html</link>
@@ -357,6 +350,13 @@
       <description>ClickFix represents a shift in attacker tradecraft, exploiting user trust rather than software vulnerabilities. In this post, we introduce a lightweight execution-boundary defense that intervenes at paste time to generically disrupt most ClickFix-style attacks on macOS.</description>
       <guid isPermaLink="false">https://objective-see.org/blog/blog_0x85.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix: Stopped at ⌘+V</title>
+      <link>https://objective-see.org/blog/blog_0x86.html</link>
+      <description>You can now build macOS firewalls/network tools via Endpoint Security ...no Network Extension needed! In this post, we reverse macOS 26.4's new ES_EVENT_TYPE_RESERVED_* ES events shows some are network auth/notify hooks.</description>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x86.html</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>FalconFeeds Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml</link>
+    <description>Generated feed (falconfeeds_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 28 Mar 2026 18:32:21 +0000</lastBuildDate>
+    <item>
+      <title>Strategic Threat Assessment: The Qilin Ransomware Cartel (2022–2026)</title>
+      <link>https://falconfeeds.io/blogs/qilin-ransomware-cartel-strategic-threat-assessment-2022-2026</link>
+      <description>A strategic threat assessment of the Qilin ransomware cartel (2022–2026), examining its evolution from Agenda to a Tier-1 extortion syndicate, advanced TTPs, affiliate ecosystem, victimology, and its projected future role in the industrialized global cybercrime economy.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/qilin-ransomware-cartel-strategic-threat-assessment-2022-2026</guid>
+      <pubDate>Fri, 26 Dec 2025 06:06:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Lazarus Constellation: A Comprehensive Intelligence Dossier on the DPRK’s Cyber Warfare Apparatus (2009–2026)</title>
+      <link>https://falconfeeds.io/blogs/lazarus-constellation-dprk-cyber-warfare-intelligence-dossier-2009-2026</link>
+      <description>A comprehensive intelligence dossier on the Lazarus Group (2009–2026), analyzing North Korea’s cyber warfare apparatus, its hybrid espionage–crime mandate, major financial thefts, AI-enabled tradecraft, organizational structure under the RGB, and the group’s strategic role in funding Pyongyang’s military and WMD programs</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/lazarus-constellation-dprk-cyber-warfare-intelligence-dossier-2009-2026</guid>
+      <pubDate>Fri, 26 Dec 2025 07:46:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Akira Ransomware Syndicate: A Comprehensive Strategic Assessment, Operational Analysis, and Threat Trajectory (2023–2026)</title>
+      <link>https://falconfeeds.io/blogs/akira-ransomware-strategic-operational-threat-analysis-2023-2026</link>
+      <description>A deep-dive intelligence assessment of the Akira ransomware syndicate (2023–2026), tracing its post-Conti origins, RaaS business model, Rust-based malware evolution, ESXi and Nutanix AHV targeting, double-extortion economics, and the future threat trajectory facing global enterprises.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/akira-ransomware-strategic-operational-threat-analysis-2023-2026</guid>
+      <pubDate>Wed, 07 Jan 2026 07:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Shadow Web: How Private Messaging Apps Are Becoming the New Threat Actor Playground</title>
+      <link>https://falconfeeds.io/blogs/shadow-web-private-messaging-apps-cybercrime-threat-actors</link>
+      <description>An in-depth cyber threat intelligence analysis of the Shadow Web, examining how ransomware groups and APT actors are migrating from Tor to encrypted messaging apps like Telegram, Signal, Session, and Matrix—reshaping cybercrime operations, C2 infrastructure, and CTI visibility in 2024–2025.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/shadow-web-private-messaging-apps-cybercrime-threat-actors</guid>
+      <pubDate>Wed, 07 Jan 2026 09:59:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Code to Culture: How Threat Actor Communities Evolve on Telegram and Dark Web Forums</title>
+      <link>https://falconfeeds.io/blogs/from-code-to-culture-threat-actor-communities-telegram-dark-web-forums</link>
+      <description>Explore how cybercriminal communities evolved from reputation-driven Dark Web forums to Telegram’s fast, chaotic “shadow web.” Learn how Old Guard ransomware groups and New Wave collectives like The Com and Scattered Spider build trust, recruit talent, and compete—where culture now matters as much as code.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/from-code-to-culture-threat-actor-communities-telegram-dark-web-forums</guid>
+      <pubDate>Fri, 09 Jan 2026 14:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fractured Allegiances: Strategic CTI Analysis of Internecine Conflict in the Cybercriminal Underground</title>
+      <link>https://falconfeeds.io/blogs/fractured-allegiances-internecine-conflict-cybercriminal-underground</link>
+      <description>A strategic CTI deep-dive into infighting across the cybercriminal underground—how betrayal, exit scams, geopolitics, and ego fracture ransomware syndicates and dark web forums. Learn why conflicts like the Conti leaks and Babuk source code spill create actionable “digital exhaust” that defenders and law enforcement can exploit for attribution, disruption, and detections.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fractured-allegiances-internecine-conflict-cybercriminal-underground</guid>
+      <pubDate>Fri, 09 Jan 2026 14:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Breaches to Influence: The Weaponization of Leaked Data in Modern Information Warfare</title>
+      <link>https://falconfeeds.io/blogs/weaponization-of-leaked-data-information-warfare</link>
+      <description>Explore how hack-and-leak operations transform data breaches into narrative weapons. A deep dive into modern information warfare, dark PR, and influence-driven cyber conflict.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/weaponization-of-leaked-data-information-warfare</guid>
+      <pubDate>Sat, 17 Jan 2026 08:48:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Script Kiddie to Threat Actor: The Evolutionary Lifecycle of Targeted Campaign Operators</title>
+      <link>https://falconfeeds.io/blogs/script-kiddie-to-threat-actor-evolution</link>
+      <description>Explore how script kiddies evolve into elite threat actors. A CTI deep dive into the lifecycle of modern cybercriminals, ransomware ecosystems, and emerging attacker behavior.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/script-kiddie-to-threat-actor-evolution</guid>
+      <pubDate>Sat, 17 Jan 2026 09:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Iran’s APT Network: Profiling the Most Active Iranian State‑Linked Threat Actors</title>
+      <link>https://falconfeeds.io/blogs/inside-irans-apt-network-most-active-iranian-state-linked-threat-actors-2024-2025</link>
+      <description>Iran’s state-linked APT ecosystem has rapidly matured (2024–2025), shifting from noisy disruption to industrialized espionage and coercive cyber operations. This blog profiles the most active Iranian actors—APT33, APT34 (OilRig), APT35 (Charming Kitten), MuddyWater, Handala Hack, and CyberAv3ngers—highlighting cloud-native tradecraft, identity-driven initial access, quota-based operator models, and critical infrastructure targeting.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/inside-irans-apt-network-most-active-iranian-state-linked-threat-actors-2024-2025</guid>
+      <pubDate>Tue, 20 Jan 2026 10:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Signal in the Silence: Strategic Implications of Iran’s 2026 Internet Blackout for Cyber Threat Intelligence and Narrative Control</title>
+      <link>https://falconfeeds.io/blogs/the-signal-in-the-silence-irans-2026-internet-blackout-cti-narrative-control</link>
+      <description>A strategic deep dive into Iran’s January 8, 2026 internet blackout—how enforced “silence” boosts CTI signal, complicates attribution, and enables narrative control via the NIN.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-signal-in-the-silence-irans-2026-internet-blackout-cti-narrative-control</guid>
+      <pubDate>Tue, 20 Jan 2026 11:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proxy Networks and the Rise of Disposable Infrastructure-as-a-Service (IaaS)</title>
+      <link>https://falconfeeds.io/blogs/proxy-networks-and-the-rise-of-disposable-iaas</link>
+      <description>Explore how cybercriminals are replacing bulletproof hosting with disposable IaaS—residential proxies, IAB access, stolen cloud credentials, and anti-detect browsers—making attacks faster, cheaper, and harder to stop.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/proxy-networks-and-the-rise-of-disposable-iaas</guid>
+      <pubDate>Fri, 30 Jan 2026 03:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cyber Forensics Trap: When Attribution Becomes a Weapon</title>
+      <link>https://falconfeeds.io/blogs/the-cyber-forensics-trap-when-attribution-becomes-a-weapon</link>
+      <description>Cyber attribution is no longer just forensics—it’s a battlefield. This blog examines how false-flag operations, ORB networks, and code mimicry enable plausible misattribution, exploit analyst biases, and escalate geopolitical risk, and why defenders must shift to probabilistic, confidence-based attribution.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-cyber-forensics-trap-when-attribution-becomes-a-weapon</guid>
+      <pubDate>Fri, 30 Jan 2026 03:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intel in the Age of Data Localization Laws: A Borderless Discipline in a Bordered World</title>
+      <link>https://falconfeeds.io/blogs/threat-intel-in-the-age-of-data-localization-laws</link>
+      <description>An exhaustive look at how data localization and digital sovereignty laws are fragmenting global threat visibility—creating CTI blind spots, enabling adversary “jurisdictional arbitrage,” and driving a shift from centralized data lakes to federated security using edge intelligence, PETs, and compliant cross-border collaboration.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-intel-in-the-age-of-data-localization-laws</guid>
+      <pubDate>Fri, 30 Jan 2026 03:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Politics of Patch Delays: When Vulnerability Disclosure Collides with National Interests</title>
+      <link>https://falconfeeds.io/blogs/the-politics-of-patch-delays-when-vulnerability-disclosure-collides-with-national-interests</link>
+      <description>An in-depth analysis of how zero-day disclosure is increasingly shaped by geopolitics—where processes like the U.S. VEP, China’s state-driven vulnerability control, and a booming exploit-broker market incentivize patch delays, fragment cyber norms, and leave civilian infrastructure exposed as collateral in persistent digital conflict.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-politics-of-patch-delays-when-vulnerability-disclosure-collides-with-national-interests</guid>
+      <pubDate>Fri, 30 Jan 2026 04:12:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Narrative Illusion: Unmasking 0APT and the Rise of the “Narrative Scammer”</title>
+      <link>https://falconfeeds.io/blogs/narrative-illusion-0apt-rise-of-the-narrative-scammer</link>
+      <description>0APT’s Jan 28, 2026 leak-site surge—71 “victims” in 48 hours—signals a new “narrative scammer” playbook using generative AI to fake credibility. Learn the red flags and a verification-first response.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/narrative-illusion-0apt-rise-of-the-narrative-scammer</guid>
+      <pubDate>Mon, 09 Feb 2026 05:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Insider Threat: Compromised Accounts Masquerading as Employees</title>
+      <link>https://falconfeeds.io/blogs/compromised-insider-threat-compromised-accounts-masquerading-as-employees</link>
+      <description>Identity is the new perimeter. Explore how compromised accounts masquerade as employees, driving identity-led breaches, long dwell times, and soaring incident response costs.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/compromised-insider-threat-compromised-accounts-masquerading-as-employees</guid>
+      <pubDate>Mon, 09 Feb 2026 05:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global South, Global Threat: Rising Cybercriminal Syndicates in Under-Tracked Regions</title>
+      <link>https://falconfeeds.io/blogs/global-south-global-threat-rising-cybercriminal-syndicates-under-tracked-regions</link>
+      <description>Western CTI often fixates on the “Big 4” nation-states, but cybercriminal syndicates across LATAM, SEA, and Sub-Saharan Africa are rapidly industrializing fraud, malware, and money laundering—exposing a growing global visibility gap.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/global-south-global-threat-rising-cybercriminal-syndicates-under-tracked-regions</guid>
+      <pubDate>Mon, 09 Feb 2026 06:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Genealogy: Mapping the Lineage Between Ransomware Groups, Access Brokers, and Initial Loader Crews</title>
+      <link>https://falconfeeds.io/blogs/threat-actor-genealogy-lineage-ransomware-iabs-initial-loader-crews</link>
+      <description>Trace cybercrime’s “family tree” from banking trojans to 2025 RaaS cartels—linking ransomware crews, initial access brokers, and loaders, plus Conti-era fragmentation and hybrid alliances.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actor-genealogy-lineage-ransomware-iabs-initial-loader-crews</guid>
+      <pubDate>Mon, 09 Feb 2026 06:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cyber Cold War 2.0: Mapping Nation-State Influence Through Coordinated Threat Campaigns</title>
+      <link>https://falconfeeds.io/blogs/cyber-cold-war-2-0-nation-state-influence-coordinated-threat-campaigns</link>
+      <description>Cyber Cold War 2.0 is here: how CRINK states use coordinated cyber campaigns—pre-positioning, hybrid sabotage, and AI-driven cognitive ops—to shape global power through 2030.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-cold-war-2-0-nation-state-influence-coordinated-threat-campaigns</guid>
+      <pubDate>Mon, 09 Feb 2026 06:48:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diplomacy Disrupted: The Cyber Siege on International Negotiations, Peace Talks, and Summits</title>
+      <link>https://falconfeeds.io/blogs/diplomacy-disrupted-cyber-siege-international-negotiations-peace-talks-summits</link>
+      <description>Diplomacy is no longer protected by distance, pouches, or protocol—today’s summits and peace talks run on cloud tools, mobile devices, and host networks that are constantly targeted by state-backed cyber espionage and mercenary operators. This blog examines how attackers weaponize summit infrastructure, deploy spyware, and use social engineering to steal negotiation strategies, intercept private communications, and gain real-time decision advantage—reshaping the future of international diplomacy.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/diplomacy-disrupted-cyber-siege-international-negotiations-peace-talks-summits</guid>
+      <pubDate>Mon, 16 Feb 2026 04:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacktivism as Statecraft: When Geopolitical Flashpoints Ignite State-Aligned Cyber Militias</title>
+      <link>https://falconfeeds.io/blogs/hacktivism-as-statecraft-geopolitical-flashpoints-state-aligned-cyber-militias</link>
+      <description>Hacktivism is evolving into a tool of statecraft, as geopolitical crises fuel state-aligned cyber militias that act as proxies for coercion, signaling, and “gray zone” conflict. This blog analyzes models like Killnet, Anonymous Sudan, and DragonForce Malaysia, tracing how deniable cyber campaigns—from L7 DDoS to critical infrastructure disruption—are reshaping attribution, international norms, and global cyber stability.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/hacktivism-as-statecraft-geopolitical-flashpoints-state-aligned-cyber-militias</guid>
+      <pubDate>Mon, 16 Feb 2026 05:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Embargoes: Can Cyber Sanctions Deter State-Backed Threat Actors?</title>
+      <link>https://falconfeeds.io/blogs/digital-embargoes-can-cyber-sanctions-deter-state-backed-threat-actors</link>
+      <description>Digital embargoes—sanctions, infrastructure seizures, and diplomatic indictments—are increasingly used to punish and isolate state-backed cyber actors, but their ability to deter remains uncertain. This blog evaluates how US, EU, and UN cyber sanctions have impacted Russia, North Korea, and China from 2023 to early 2026, showing where they disrupt operations and revenue—and where they fail to change strategic APT behavior in a domain shaped by deniability and low-cost persistence.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/digital-embargoes-can-cyber-sanctions-deter-state-backed-threat-actors</guid>
+      <pubDate>Mon, 16 Feb 2026 08:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaking for Leverage: The Strategic Timing of Data Leaks to Influence Political Agendas</title>
+      <link>https://falconfeeds.io/blogs/leaking-for-leverage-strategic-timing-of-data-leaks-to-influence-political-agendas</link>
+      <description>   You said: Diplomacy Disrupted: The Cyber Siege on International Negotiations, Peace Talks, and Summits The Digitization of Statecraft and the Erosion of Diplomatic Immunity The ancient practice of diplomacy, traditionally shielded by the sanctity of the diplomatic pouch and the inviolability of the embassy, has undergone a radical and perilous transformation in the twenty-first century. As the mechanics of international relations have migrated to digital infrastructure—spanning encrypted messaging applications, cloud-based scheduling systems, and host-nation telecommunications networks—the "attack surface" of global statecraft has expanded exponentially. Major diplomatic events, from the G20 and G7 summits to the United Nations Climate Change Conferences (COP) and fragile peace negotiations in conflict zones, are no longer merely venues for political dialogue. They have become high-stakes theaters for advanced persistent threat (APT) activity, where intelligence agencies, mercenary hack-for-hire firms, and state-sponsored saboteurs engage in a silent war for information supremacy. The strategic logic driving this onslaught is clear. In the high-pressure environment of a summit or a peace negotiation, information is the ultimate currency. Possessing advance knowledge of an adversary’s "red lines," internal economic vulnerabilities, or fallback positions can determine the outcome of a trade deal, a climate accord, or a ceasefire agreement. Consequently, state-sponsored cyber espionage groups—most notably those affiliated with the intelligence services of Russia, China, North Korea, and Iran—view these gatherings not as protected diplomatic spaces but as "target-rich environments" or "golden ages" for espionage. The objective is rarely destruction; rather, it is the acquisition of decision-making advantage through the exfiltration of confidential communiqués, the compromise of personal devices, and the real-time interception of negotiation strategies. This report provides an exhaustive analysis of the cyber threats facing the modern diplomatic corps. It synthesizes forensic data, geopolitical analysis, and technical threat intelligence to map the operational tradecraft used to target international negotiations. It examines the weaponization of summit infrastructure, the deployment of commercial spyware against negotiators, and the psychological manipulation of diplomats through socially engineered phishing campaigns. From the battlefields of Ukraine and the South Caucasus to the conference halls of Rio de Janeiro, the evidence suggests that the digital siege on diplomacy is pervasive, sophisticated, and fundamentally altering the conduct of international relations.  Meta Description ChatGPT said: Diplomacy is no longer protected by distance, pouches, or protocol—today’s summits and peace talks run on cloud tools, mobile devices, and host networks that are constantly targeted by state-backed cyber espionage and mercenary operators. This report examines how attackers weaponize summit infrastructure, deploy spyware, and use social engineering to steal negotiation strategies, intercept private communications, and gain real-time decision advantage—reshaping the future of international diplomacy.  You said: Slug ChatGPT said: diplomacy-disrupted-cyber-siege-international-negotiations-peace-talks-summits  You said: Breadcrumbs ChatGPT said: Home &gt; Blog &gt; Geopolitics &amp; Cybersecurity &gt; Diplomacy Disrupted: The Cyber Siege on International Negotiations, Peace Talks, and Summits  You said: mkae it short ChatGPT said: Home &gt; Blog &gt; Geopolitics &gt; Diplomacy Disrupted  You said: Blog Description ChatGPT said: A deep dive into how modern diplomacy has become a prime target for cyber espionage—covering summit infrastructure attacks, spyware on negotiators, and social engineering campaigns that steal strategies, shape outcomes, and erode diplomatic immunity in the digital age.  You said: Hacktivism as Statecraft: When Geopolitical Flashpoints Ignite State-Aligned Cyber Militias  The proliferation of digital interconnectivity has catalyzed a transformation in the landscape of international conflict, giving rise to a phenomenon that blurs the boundaries between civil activism and state-sponsored warfare: "Hacktivism as Statecraft." This blog provides an exhaustive analysis of how geopolitical flashpoints—ranging from the war in Ukraine to religious tensions in South Asia—have ignited state-aligned cyber militias that function as proxies for national foreign policy goals. Unlike the decentralized and often anarchic hacktivism of the early 2010s, typified by the loosely organized Anonymous collective, the contemporary landscape is defined by groups that exhibit state-level targeting logic, access to sophisticated infrastructure, and operational endurance that belies their grassroots facades. This analysis dissects three primary case studies to illustrate disparate models of this phenomenon: Killnet (Russia), representing the State-Integrated Militia model; Anonymous Sudan (Russia/Sudan), exemplifying the Commercialized State-Sponsored Proxy model; and DragonForce Malaysia (Southeast Asia), illustrating the State-Tolerated Auxiliary model. Through a forensic examination of their operational history, technical capabilities, and the diplomatic fallout of their campaigns, this blog argues that these groups are no longer merely digital nuisances. Instead, they have evolved into essential instruments of modern statecraft, offering governments a mechanism for "plausible deniability," coercive signaling, and "gray zone" warfare that remains just below the threshold of kinetic military retaliation. Furthermore, this blog synthesizes technical intelligence regarding the evolution of attack vectors—from Layer 7 DDoS floods utilizing the HTTP/2 Rapid Reset vulnerability to direct sabotage of Operational Technology (OT) in critical infrastructure. The transition from reputational attacks to physical disruption, particularly by groups like the Cyber Army of Russia Reborn (CARR), signals a dangerous escalation in the risk calculus of global cyber conflict. As we move through 2025 and beyond, the integration of these non-state actors into national military doctrines presents a profound challenge to international norms, attribution frameworks, and the stability of the global digital commons.  Meta Description ChatGPT said: Hacktivism is evolving into a tool of statecraft, as geopolitical crises fuel state-aligned cyber militias that act as proxies for coercion, signaling, and “gray zone” conflict. This blog analyzes models like Killnet, Anonymous Sudan, and DragonForce Malaysia, tracing how deniable cyber campaigns—from L7 DDoS to critical infrastructure disruption—are reshaping attribution, international norms, and global cyber stability.  You said: Slug ChatGPT said: hacktivism-as-statecraft-geopolitical-flashpoints-state-aligned-cyber-militias  You said: Breadcrumbs ChatGPT said: Home &gt; Blog &gt; Geopolitics &gt; Hacktivism as Statecraft  You said: Blog Description ChatGPT said: An in-depth look at how modern hacktivist collectives are being shaped into state-aligned cyber militias, using real-world case studies (Killnet, Anonymous Sudan, DragonForce Malaysia) to explain proxy models, plausible deniability, evolving attack vectors, and the growing risk of escalation from disruption to real-world impact.  You said: Digital Embargoes: Can Cyber Sanctions Deter State-Backed Threat Actors? The Geopolitical Architecture of Digital Statecraft The transformation of global conflict from kinetic battlefields to digital networks has necessitated a parallel evolution in the instruments of state power. Where nations once relied on naval blockades to strangle the economic lifelines of their adversaries, modern powers now deploy "digital embargoes"—a sophisticated, multi-layered apparatus of financial sanctions, technical infrastructure seizures, and diplomatic indictments designed to isolate and degrade state-backed cyber threat actors. This blog  offers an exhaustive analysis of the efficacy of these measures, enacted primarily by the United States, the European Union, and the United Nations, against the triumvirate of primary cyber adversaries: Russia, North Korea (DPRK), and China. The central question facing policymakers in Washington, Brussels, and the United Nations is not merely whether these tools can punish, but whether they can deter. Deterrence, a concept rooted in Cold War nuclear theory, relies on the adversary’s calculation that the cost of an action outweighs its benefits. In the cyber domain, this calculus is skewed by anonymity, the low cost of entry, and the strategic imperatives of rogue regimes that view cybercrime not as a deviation from international norms, but as an essential pillar of statecraft and revenue generation. The analysis of data from 2023 through early 2026 reveals a complex reality: while Western sanctions have successfully imposed a tax" on cybercrime and degraded specific technical capabilities, they have largely failed to alter the strategic behavior of state-backed Advanced Persistent Threats (APTs) who operate under the protective umbrella of hostile governments.  Meta Description ChatGPT said: Digital embargoes—sanctions, infrastructure seizures, and diplomatic indictments—are increasingly used to punish and isolate state-backed cyber actors, but their ability to deter remains uncertain. This blog evaluates how US, EU, and UN cyber sanctions have impacted Russia, North Korea, and China from 2023 to early 2026, showing where they disrupt operations and revenue—and where they fail to change strategic APT behavior in a domain shaped by deniability and low-cost persistence.  You said: Slug ChatGPT said: digital-embargoes-can-cyber-sanctions-deter-state-backed-threat-actors  You said: Breadcrumbs ChatGPT said: Home &gt; Blog &gt; Geopolitics &gt; Digital Embargoes  You said: Blog Description ChatGPT said: A detailed analysis of “digital embargoes” and cyber sanctions—how the US, EU, and UN use financial restrictions, infrastructure seizures, and indictments to disrupt state-backed cyber operations, and why deterrence is hard to achieve against Russia, China, and North Korea in a domain built on deniability, low cost, and strategic necessity.  You said: Leaking for Leverage: The Strategic Timing of Data Leaks to Influence Political Agendas  The digitization of global political infrastructure, diplomatic correspondence, and personal communication has birthed a potent vector for asymmetric influence operations: the strategic "hack-and-leak." This blog, comprehensive in scope and exhaustive in detail, investigates the operational mechanics, psychological underpinnings, and geopolitical consequences of these campaigns. Unlike traditional espionage, where intelligence is gathered for state advantage and jealously guarded in the shadows, hack-and-leak operations are designed for public consumption. They represent the "weaponization of transparency," where private data—whether emails, strategy documents, or trade secrets—is stolen not to inform decision-makers, but to disrupt them. This analysis posits that timing is the single most critical variable in the success or failure of these operations. The efficacy of a leak is not determined solely by the incriminating nature of the content, but by its chronological placement relative to the target's political vulnerabilities. This blog identifies a "just-in-time" delivery mechanism employed by threat actors, exploiting the 24-hour news cycle and the specific legal and psychological fragilities of the electorate and negotiating parties. The investigation covers three primary domains of disruption: Electoral Interference: Analyzing the divergent outcomes of the 2016 U.S. election (a strategic success for threat actors) and the 2017 French election (a strategic failure), attributing the difference to the timing of releases relative to media blackouts and "counter-programming" events. Peace Negotiation Sabotage: Examining how the exposure of delicate diplomatic "back channels" in Colombia, Ukraine, and the Middle East creates a "transparency trap" that freezes negotiations and delegitimizes state actors. The "Guacamaya" leaks in Latin America and the "Surkov Leaks" in Ukraine serve as primary case studies. Trade and Economic Coercion: Investigating the use of espionage and leaks to derail trade agreements, such as the UK-US post-Brexit trade talks and the theft of intellectual property to alter the balance of economic power between superpowers like the U.S. and China. Furthermore, the blog explores the emerging role of Artificial Intelligence (AI) and the "commoditization" of cyber-espionage, exemplified by the "I-Soon" leak which revealed the inner workings of Chinese state-affiliated hacking contractors. It concludes with an analysis of the psychological impact on voters—the "winner-loser gap" in trust—and the evolving ethical frameworks media institutions must adopt to avoid becoming unwitting accomplices in information warfare.  Meta Description ChatGPT said: Hack-and-leak operations weaponize stolen data for public disruption, turning private communications into strategic leverage. This blog examines why timing is the decisive factor—how “just-in-time” leaks can sway elections, sabotage peace negotiations, and coerce trade outcomes—through case studies from the US and France, Colombia and Ukraine, and major economic flashpoints, including the growing role of AI and contractor ecosystems in scaling influence campaigns.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/leaking-for-leverage-strategic-timing-of-data-leaks-to-influence-political-agendas</guid>
+      <pubDate>Mon, 16 Feb 2026 09:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligence Report: Cyber Warfare &amp; Information Operations in the Iran–Israel Conflict</title>
+      <link>https://falconfeeds.io/blogs/iran-israel-conflict-cyber-warfare-information-operations-2026</link>
+      <description>Iran–Israel conflict intelligence report analyzing February 2026 escalation-driven cyber warfare and information operations, including state and proxy attacks on critical infrastructure plus pro-Iran Telegram/X propaganda using bots, recycled footage, and AI-generated misinformation to shape regional and global narratives.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-israel-conflict-cyber-warfare-information-operations-2026</guid>
+      <pubDate>Tue, 03 Mar 2026 10:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Shadows: Investigating Claims of Betrayal and Intelligence Leaks in Khamenei’s Death</title>
+      <link>https://falconfeeds.io/blogs/khamenei-death-claims-betrayal-intelligence-leaks-analysis</link>
+      <description>Investigate unverified claims surrounding Ayatollah Ali Khamenei’s reported death—alleged leaks, insider betrayal, and HUMINT-driven failures behind a high-stakes strike.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/khamenei-death-claims-betrayal-intelligence-leaks-analysis</guid>
+      <pubDate>Tue, 03 Mar 2026 13:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Handala: The Silent Weapon of Tehran’s Cyber Shadow War</title>
+      <link>https://falconfeeds.io/blogs/handala-silent-weapon-tehrans-cyber-shadow-war</link>
+      <description>Handala has shifted from a pro-Palestinian “hacktivist” brand into a covert, Tehran-aligned cyber persona—using high-visibility breaches, timed leaks, and psychological messaging to pressure Israel and Western targets while preserving plausible deniability.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/handala-silent-weapon-tehrans-cyber-shadow-war</guid>
+      <pubDate>Wed, 04 Mar 2026 07:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Middle East’s Cyber Shadow War: Mapping 72+ Pro-Iran and Anti-Iran Groups</title>
+      <link>https://falconfeeds.io/blogs/inside-middle-east-cyber-shadow-war-pro-iran-anti-iran-threat-actor-mapping</link>
+      <description>Geopolitical analysis of the Middle East cyber threat landscape (18 Jan–3 Mar 2026), mapping 72+ groups by alignment—Pro-Iran, Anti-Iran, neutral, and criminal brokers—using FalconFeeds.io, dark web, and Telegram OSINT.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/inside-middle-east-cyber-shadow-war-pro-iran-anti-iran-threat-actor-mapping</guid>
+      <pubDate>Wed, 04 Mar 2026 11:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>DieNet: The DDoS Shock Troops of Iran’s Hybrid War</title>
+      <link>https://falconfeeds.io/blogs/dienet-ddos-shock-troops-of-irans-hybrid-war</link>
+      <description>DieNet is a pro-Iran hacktivist-style collective driving DDoS “theater” in the Iran–Israel conflict—using outages, defacements, and Telegram propaganda to amplify geopolitical flashpoints and pressure Israel-aligned targets.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/dienet-ddos-shock-troops-of-irans-hybrid-war</guid>
+      <pubDate>Wed, 04 Mar 2026 12:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel’s BadeSaba Hack: How a Prayer App Became a Psychological Weapon</title>
+      <link>https://falconfeeds.io/blogs/israels-badesaba-hack-how-a-prayer-app-became-a-psychological-weapon</link>
+      <description>Israel’s alleged BadeSaba Calendar compromise shows how a trusted prayer app can be turned into a mass PSYOP channel—pushing regime-undermining notifications at peak tension (28 Feb 2026) and redefining “everyday apps” as battlefield infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/israels-badesaba-hack-how-a-prayer-app-became-a-psychological-weapon</guid>
+      <pubDate>Wed, 04 Mar 2026 12:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mapping the Cyber Battlefield: Threat Actor Activity Across the Middle East</title>
+      <link>https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity</link>
+      <description>Middle East cyber threats mapped across Israel, Kuwait, Jordan, Saudi Arabia, Oman, Bahrain, and Qatar—threat actors, targeting trends, and MITRE ATT&amp;CK TTPs, explained in a defender-focused investigative format.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity</guid>
+      <pubDate>Thu, 05 Mar 2026 07:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Military, Kinetic, and Maritime Security Developments in the Iran–Israel War</title>
+      <link>https://falconfeeds.io/blogs/iran-israel-war-military-escalation-maritime-security-strait-of-hormuz</link>
+      <description>An in-depth analysis of the Iran–Israel war, examining military strikes, missile retaliation, proxy activity, and the growing maritime security crisis in the Strait of Hormuz impacting global energy routes and regional stability.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-israel-war-military-escalation-maritime-security-strait-of-hormuz</guid>
+      <pubDate>Thu, 05 Mar 2026 09:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Digital Redoubt: Iran’s National Information Network and the Asymmetry of Modern Cyber Conflict</title>
+      <link>https://falconfeeds.io/blogs/the-digital-redoubt-irans-national-information-network-cyber-conflict</link>
+      <description>Iran’s National Information Network (NIN) and internet blackouts are reshaping modern cyber conflict—explore how digital sovereignty, DNS/BGP manipulation, and protocol suppression enable Iran to reduce attack surface, control information, and offset kinetic pressure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-digital-redoubt-irans-national-information-network-cyber-conflict</guid>
+      <pubDate>Thu, 05 Mar 2026 09:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Under Cyber Siege: How Jordan Became a Target of Coordinated Regional Cyber Warfare</title>
+      <link>https://falconfeeds.io/blogs/under-cyber-siege-how-jordan-became-a-target-of-coordinated-regional-cyber-warfare</link>
+      <description>An in-depth analysis of how Jordan became the target of a coordinated regional cyber warfare campaign between 28 February and 5 March 2026, involving multi-actor DDoS attacks, breaches, defacements, and critical infrastructure targeting.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/under-cyber-siege-how-jordan-became-a-target-of-coordinated-regional-cyber-warfare</guid>
+      <pubDate>Fri, 06 Mar 2026 06:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>MuddyWater in the Iran–Israel Cyber War: From PowerShell Scripts to Rust Implants</title>
+      <link>https://falconfeeds.io/blogs/muddywater-in-the-iran-israel-cyber-war-from-powershell-scripts-to-rust-implants</link>
+      <description>An in-depth analysis of MuddyWater’s role in the Iran–Israel cyber war, tracing its evolution from PowerShell-based intrusions to Rust implants, advanced backdoors, and strategic initial-access operations across regional and Western targets.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/muddywater-in-the-iran-israel-cyber-war-from-powershell-scripts-to-rust-implants</guid>
+      <pubDate>Fri, 06 Mar 2026 09:59:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doxxing for Pressure: How Handala RedWanted Platform Escalates the Cyber Conflict</title>
+      <link>https://falconfeeds.io/blogs/handala-redwanted-platform-the-convergence-of-doxxing-psychological-warfare-and-kinetic-threat-facilitation</link>
+      <description>An in-depth analysis of Handala’s RedWanted platform, a state-aligned doxxing and bounty website designed to expose Israeli security personnel, amplify psychological pressure, and facilitate real-world targeting.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/handala-redwanted-platform-the-convergence-of-doxxing-psychological-warfare-and-kinetic-threat-facilitation</guid>
+      <pubDate>Fri, 06 Mar 2026 10:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>OilRig in the Iran–Israel Cyber War: From DNS Tunnelling to Persistent State-Sponsored Espionage</title>
+      <link>https://falconfeeds.io/blogs/oilrig-in-the-iran-israel-cyber-war-from-dns-tunnelling-to-persistent-state-sponsored-espionage</link>
+      <description>An in-depth analysis of OilRig’s role in the Iran–Israel cyber war, exploring its DNS tunnelling capabilities, persistent espionage operations, and strategic footholds across government, telecom, and critical infrastructure networks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/oilrig-in-the-iran-israel-cyber-war-from-dns-tunnelling-to-persistent-state-sponsored-espionage</guid>
+      <pubDate>Mon, 09 Mar 2026 06:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charming Kitten in the Iran–Israel Cyber War From DNS Tunnelling to Persistent State-Sponsored Espionage</title>
+      <link>https://falconfeeds.io/blogs/charming-kitten-in-the-iran-israel-cyber-war</link>
+      <description>An in-depth analysis of Charming Kitten’s role in the Iran–Israel cyber war, examining its social engineering, credential phishing, and human-targeted intelligence operations against policy, media, and strategic networks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/charming-kitten-in-the-iran-israel-cyber-war</guid>
+      <pubDate>Mon, 09 Mar 2026 07:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposed Eyes: CCTV Vulnerabilities and Surveillance Threats in the Middle East and India (2025 - 2026)</title>
+      <link>https://falconfeeds.io/blogs/cctv-vulnerability-surveillance-threat-intelligence-middle-east-india-2025-2026</link>
+      <description>An in-depth threat intelligence report on CCTV vulnerabilities across the Middle East and India in 2025–2026, examining exposed Hikvision and Dahua devices, APT activity, and the growing surveillance attack surface.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cctv-vulnerability-surveillance-threat-intelligence-middle-east-india-2025-2026</guid>
+      <pubDate>Tue, 10 Mar 2026 05:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>313 Team and the Iran–Israel Shadow War</title>
+      <link>https://falconfeeds.io/blogs/313-team-iran-israel-shadow-war</link>
+      <description>Discover how 313 Team operates in the Iran–Israel shadow war through pro-Iranian cyber campaigns, DDoS attacks, defacements, and disruptive operations across the Middle East.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/313-team-iran-israel-shadow-war</guid>
+      <pubDate>Tue, 10 Mar 2026 09:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Technical and Strategic Analysis of the OpenClaw Ecosystem: Security Vulnerabilities, Deployment Risks, and the Evolution of Agentic AI</title>
+      <link>https://falconfeeds.io/blogs/openclaw-ecosystem-security-vulnerabilities-deployment-risks-agentic-ai</link>
+      <description>Explore the OpenClaw ecosystem through a technical and strategic analysis of its rapid rise, security vulnerabilities, deployment risks, rebranding turmoil, and the broader evolution of agentic AI.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/openclaw-ecosystem-security-vulnerabilities-deployment-risks-agentic-ai</guid>
+      <pubDate>Fri, 13 Mar 2026 04:31:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>War-Time Data Leaks: How Threat Actors Use Stolen Documents for Political Influence</title>
+      <link>https://falconfeeds.io/blogs/war-time-data-leaks-stolen-documents-political-influence</link>
+      <description>Explore how threat actors weaponize stolen documents in wartime hack-and-leak operations to shape narratives, drive political influence, spread informational chaos, and erode public trust.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/war-time-data-leaks-stolen-documents-political-influence</guid>
+      <pubDate>Fri, 13 Mar 2026 05:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberBan News Agency: Inside Iran’s Dual-Use Cyber Propaganda and Influence Platform</title>
+      <link>https://falconfeeds.io/blogs/cyberban-news-agency-iran-cyber-propaganda-influence-platform</link>
+      <description>Explore FalconFeeds’ investigation into CyberBan News Agency, a Persian Telegram channel operating as both a cyber news outlet and a strategic amplification platform for Iranian state narratives, pro-Iranian hacktivism, and wartime information warfare.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyberban-news-agency-iran-cyber-propaganda-influence-platform</guid>
+      <pubDate>Fri, 13 Mar 2026 09:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Following the Money: The 82-Wallet Bitcoin Cluster Linked to Iran’s IRGC-CEC</title>
+      <link>https://falconfeeds.io/blogs/tracing-shahid-hemmat-82-wallet-bitcoin-cluster-irgc-cec</link>
+      <description>Explore FalconFeeds’ investigation into an 82-wallet Bitcoin cluster linked to IRGC-CEC’s Shahid Hemmat unit, tracing funding flows, laundering architecture, exchange exposure, and live sanctions implications.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/tracing-shahid-hemmat-82-wallet-bitcoin-cluster-irgc-cec</guid>
+      <pubDate>Fri, 13 Mar 2026 10:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Islamic Resistance-Axis and the Iran-Israel Shadow War</title>
+      <link>https://falconfeeds.io/blogs/cyber-islamic-resistance-axis-iran-israel-shadow-war</link>
+      <description>Explore Cyber Islamic Resistance-Axis, a pro-Iranian hacktivist group operating within the Axis of Resistance, and its role in the Iran–Israel shadow war through DDoS attacks, infrastructure targeting, and ideological cyber operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-islamic-resistance-axis-iran-israel-shadow-war</guid>
+      <pubDate>Mon, 16 Mar 2026 06:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran's FindFace Acquisition: The Architecture of a Digital Surveillance State</title>
+      <link>https://falconfeeds.io/blogs/irans-findface-acquisition-digital-surveillance-state</link>
+      <description>Iran’s acquisition of Russia’s FindFace facial recognition platform marks a major step toward a Chinese-style surveillance state, combining biometric identification, CCTV integration, and digital authoritarian control.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/irans-findface-acquisition-digital-surveillance-state</guid>
+      <pubDate>Tue, 17 Mar 2026 05:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>WIPED IN 79 COUNTRIES: The Handala Hack Attack on Stryker Corporation </title>
+      <link>https://falconfeeds.io/blogs/handala-hack-attack-on-stryker-corporation</link>
+      <description>A detailed threat intelligence blog on the Handala Hack attack against Stryker Corporation, examining the destructive cyberattack that wiped systems across 79 countries and its broader Iran-linked implications.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/handala-hack-attack-on-stryker-corporation</guid>
+      <pubDate>Tue, 17 Mar 2026 07:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Refuge Zones: Where Threat Actors Operate Safely and Why It Matters</title>
+      <link>https://falconfeeds.io/blogs/cyber-refuge-zones-digital-safe-havens-threat-actors</link>
+      <description>Explore how Cyber Refuge Zones give threat actors safe operating environments through weak laws, political protection, non-extradition barriers, and illicit financial infrastructure and why these digital safe havens matter for global cybersecurity.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-refuge-zones-digital-safe-havens-threat-actors</guid>
+      <pubDate>Tue, 24 Mar 2026 05:18:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Escalation Signals: CTI Indicators That Predict Conflict-Driven Attack Waves</title>
+      <link>https://falconfeeds.io/blogs/cyber-escalation-signals-cti-indicators-conflict-driven-attack-waves</link>
+      <description>Explore the CTI indicators that signal conflict-driven cyber escalation, from threat actor pre-positioning to geopolitical triggers, and how predictive intelligence helps defend critical infrastructure before attack waves begin.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-escalation-signals-cti-indicators-conflict-driven-attack-waves</guid>
+      <pubDate>Tue, 24 Mar 2026 05:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Infrastructure as a Message: Why Threat Actors Target Energy and Telecom During Tensions</title>
+      <link>https://falconfeeds.io/blogs/critical-infrastructure-message-threat-actors-target-energy-telecom-tensions</link>
+      <description>Explore why threat actors target energy, telecom, and other critical infrastructure during geopolitical tensions, and how these cyber operations serve as strategic signals of capability, coercion, and intent.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/critical-infrastructure-message-threat-actors-target-energy-telecom-tensions</guid>
+      <pubDate>Tue, 24 Mar 2026 06:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Conquerors Electronic Army and MASAV: How a Hacktivist Group Quietly Targeted the Backbone of Israeli Interbank Payments</title>
+      <link>https://falconfeeds.io/blogs/cea-masav-attack-israel-payment-system-hacktivist-ddos-cyber-operations</link>
+      <description>A pro-Palestinian hacktivist group, Conquerors Electronic Army (CEA), targets Israel’s MASAV payment system with DDoS and cyber operations, highlighting the growing role of financial infrastructure disruption in conflict-driven cyber warfare.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cea-masav-attack-israel-payment-system-hacktivist-ddos-cyber-operations</guid>
+      <pubDate>Wed, 25 Mar 2026 06:47:57 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
