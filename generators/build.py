@@ -894,6 +894,99 @@ def build_falconfeeds_blog(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 
 # ----------------------------
+# TEMPLATE TYPE: attackerkb
+# ----------------------------
+def build_attackerkb(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Build a feed for AttackerKB recent assessments via the public REST API.
+    Requires ATTACKERKB_API_KEY env var (Bearer token from profile page).
+    Endpoint: https://api.attackerkb.com/v1/assessments
+    Rate limit: 100 req/5min, 100 req/day — we use 1 request per run (4/day = 4 calls/day).
+    Notes:
+    - expand= param does NOT work on the list endpoint; topicId/editorId are always UUIDs.
+    - Tags are stub objects {id: uuid} only — ratings are in metadata["attacker-value"] / ["exploitability"].
+    - CVE name is extracted via regex from the document (always present somewhere in the text).
+    """
+    api_key = os.environ.get("ATTACKERKB_API_KEY", "").strip()
+    if not api_key:
+        print("ATTACKERKB_API_KEY not set — skipping attackerkb feed")
+        return []
+
+    api_base = feed.get("api_base", "https://api.attackerkb.com/v1").rstrip("/")
+    max_items = int(feed.get("max_items", 20))
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Accept": "application/json",
+        "User-Agent": "Mozilla/5.0 (rssfeeds generator; +https://github.com/fetsoc/rssfeeds)",
+    }
+
+    try:
+        resp = requests.get(
+            f"{api_base}/assessments",
+            headers=headers,
+            params={
+                "sort": "created:desc",
+                "size": min(max_items, 50),
+            },
+            timeout=30,
+        )
+        resp.raise_for_status()
+        data = resp.json().get("data", [])
+    except Exception as e:
+        print(f"AttackerKB API error: {e}")
+        return []
+
+    items: List[Dict[str, Any]] = []
+    for obj in data:
+        assessment_id = obj.get("id", "")
+
+        # Extract CVE name from document via regex (expand= doesn't work on list endpoint)
+        doc = obj.get("document") or ""
+        cve_match = re.search(r"\bCVE-\d{4}-\d+\b", doc, re.IGNORECASE)
+        cve_name = cve_match.group(0).upper() if cve_match else ""
+
+        title = cve_name if cve_name else f"Assessment {assessment_id[:8]}"
+        url = f"https://attackerkb.com/assessments/{assessment_id}"
+
+        # Ratings come from metadata, not tags (tags are just {id: uuid} stubs)
+        meta = obj.get("metadata") or {}
+        attacker_value = meta.get("attacker-value")   # int 1–5 or absent
+        exploitability = meta.get("exploitability")   # int 1–5 or absent
+        mitre_tactic = meta.get("mitre-tactics", "")  # str e.g. "Initial Access"
+
+        # Build description: ratings header + document excerpt (markdown stripped)
+        doc_plain = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", doc)   # [text](url) → text
+        doc_plain = re.sub(r"[#*`_~>]", "", doc_plain)             # markdown chars
+        doc_plain = re.sub(r"\n{3,}", "\n\n", doc_plain).strip()
+        excerpt = doc_plain[:600] + ("…" if len(doc_plain) > 600 else "")
+
+        ratings_parts = []
+        if attacker_value is not None:
+            ratings_parts.append(f"Attacker Value: {attacker_value}/5")
+        if exploitability is not None:
+            ratings_parts.append(f"Exploitability: {exploitability}/5")
+        if mitre_tactic:
+            ratings_parts.append(f"MITRE: {mitre_tactic}")
+
+        description = ""
+        if ratings_parts:
+            description = " | ".join(ratings_parts) + "\n\n"
+        description += excerpt
+
+        published = safe_parse_date(obj.get("created"))
+
+        items.append({
+            "url": url,
+            "title": title,
+            "published": published,
+            "description": description,
+        })
+
+    return items
+
+
+# ----------------------------
 BUILDERS = {
     "sitemap_blog": build_sitemap_blog,
     "passthrough_feed": build_passthrough_feed,
@@ -905,6 +998,7 @@ BUILDERS = {
     "malpedia_inventory_updates": build_malpedia_inventory_updates,
     "malpedia_families": build_malpedia_families,
     "falconfeeds_blog": build_falconfeeds_blog,
+    "attackerkb": build_attackerkb,
 }
 
 

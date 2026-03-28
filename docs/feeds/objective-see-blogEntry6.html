@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Building HackingTeam's OS X Implant For Fun & Profit</title></head>
+<body>
+<div class="pageContent">
+<div class="blogTitle">Building HackingTeam's OS X Implant For Fun &amp; Profit</div>
+<div class="blogDate">7/12/2015</div>
+		By now, it's old news that HackingTeam got hacked. The collective info-sec community has being pouring thru the <a class="inlineLink" href="https://ht.transparencytoolkit.org/">400GB haul</a> of 0days, juicy emails, and source code. Here, we add to this chorus by discussing how to build HackingTeam's persistent OS X implant from source - as what's cooler than being able to step thru malware's source code in Xcode?
+		<br/><br/>
+		The HackingTeam's OS X implant, 'Crisis' has been previously seen in the wild and <a class="inlineLink" href="https://reverse.put.as/2012/08/20/tales-from-crisis-chapter-2-backdoors-first-steps/">analyzed</a>. However, thanks to the leak, full source code is now <a class="inlineLink" href="https://github.com/hackedteam/core-macos/tree/master/">available</a>! Having access to malware's source code alone, can provide unparalleled insight and reveal its innermost secrets. However, being able to fully build and thus dynamically debug said source code, can greatly simplify and expedite this analysis. Therefore this was goal: get HackingTeam's OS X implant to compile, in order to be debuggable under Xcode, on a modern version of OS X.
+		<br/><br/>
+		Ok, let's dive in! Within the <span ;="" style="font-family:Courier New">/core-macos-master/core/</span> directory is the Xcode project of the malware's core; <span ;="" style="font-family:Courier New">RCSMac.xcodeproj</span>. This is the project that compiles various components of the malware, such as its installer and local 'server' components.
+		<br/><br/>
+<span><img src="./images/blog/blog6/xcodeProj.png" style="display:block; margin:auto;" width="800"/></span>
+<br/><br/>
+		Opening this file in Xcode results in various popups asking to modernize the project. Agreeing to these allows Xcode to attempt various project 'modernizations' such as updating the SDK configuration and converting the project to make use of ARC (garbage collection). 
+		<br/><br/>
+<span><img src="./images/blog/blog6/modernizeProj.png" style="display:block; margin:auto;" width="66%"/></span>
+<br/><br/>
+		Unfortunately, despite Xcode's best efforts various issues remain, preventing compilation. First, as the project's compiler is unsupported, this has to be updated to the current default compiler (Apple LLVM 6.1): 
+		<br/><br/>
+<span><img src="./images/blog/blog6/compilerError.png" style="display:block; margin:auto;" width="100%"/></span>
+<br/><br/>
+		Then, since recent versions of Xcode prefer to compile only for 64-bit (<span ;="" style="font-family:Courier New">x86_64</span>) platforms, all references to 32-bit architectures (<span ;="" style="font-family:Courier New">i386</span>) have to be removed.
+		<br/><br/>
+<span><img src="./images/blog/blog6/archError.png" style="display:block; margin:auto;" width="100%"/></span>
+<br/><br/>
+		After this, various ARC-related issues that Xcode could not automatically fix, have to be manually addressed:
+		<br/><br/>
+<span><img src="./images/blog/blog6/gcConversionErrors.png" style="display:block; margin:auto;" width="50%"/></span>
+<br/><br/>
+		For example, code related to auto-release pools, retain, and release must be removed.
+		<br/><br/>
+<span><img src="./images/blog/blog6/gcPoolError.png" style="display:block; margin:auto;" width="66%"/></span>
+<br/><br/>
+		Finally after these various manual fixes, the code compiles...but alas, does not link :( This is due to fact the included copy of a required library, <span ;="" style="font-family:Courier New">speex</span>, was not built for 64-bit: 
+		<br/><br/>
+<span><img src="./images/blog/blog6/linkError.png" style="display:block; margin:auto;" width="100%"/></span>
+<br/><br/>
+		To build a 64-bit compatible version of the library, simply <a class="inlineLink" href="http://www.speex.org/downloads/">download</a> the <span ;="" style="font-family:Courier New">speex</span> library source code and build it (<span ;="" style="font-family:Courier New">./configure; make;</span> etc). Once built, the library, <span ;="" style="font-family:Courier New">libspeex.a</span>, should be copied into the malware's project (<span ;="" style="font-family:Courier New">/core-macos-master/core/Support/Speex/libspeex.a</span>), overwriting the existing 32-bit version. 
+		<br/><br/>
+		Horray, everything now (finally) compiles and links!
+		<br/><br/>
+<span><img src="./images/blog/blog6/builtProducts.png" style="display:block; margin:auto;" width="50%"/></span>
+<br/><br/>
+		Once the HackingTeam's malware has been build, it should be trivial to analyze by debugging it in Xcode. However, the compiled malware still has various features that may complicate this process. For example it contains amongst other things, anti-debugging code. Luckily, this and various other features can be controlled by several <span ;="" style="font-family:Courier New">#defines</span> found within <span ;="" style="font-family:Courier New">RCSMDebug.h</span> header file. Though commented out, simply uncommenting them and re-compiling disables all anti-debugging, as well as enables other useful features such as logging and placing the malware into 'demo' mode:
+		<br/><br/>
+<span><img src="./images/blog/blog6/defines.png" style="display:block; margin:auto;" width="66%"/></span>
+<br/><br/>
+		With a cleanly built, debug version of the implant, debugging and analysis can commence:
+		<br/><br/>
+<span><img src="./images/blog/blog6/debugging.png" style="display:block; margin:auto;" width="75%"/></span>
+<br/><br/>
+		While a full analysis of the code is beyond the scope of this blog entry (but should be fairly easy for anybody with Xcode to perform), let's end with discussing the malware's persistence mechanism. Looking at the <span ;="" style="font-family:Courier New">runMeh</span> method (within <span ;="" style="font-family:Courier New">RCSMCore.m</span>), reveals the malware persistently installing itself via a call to the <span ;="" style="font-family:Courier New">makeBackdoorResident</span> method. 
+		<br/><br/>
+<span><img src="./images/blog/blog6/makeResident.png" style="display:block; margin:auto;" width="66%"/></span>
+<br/><br/>
+		This method eventually calls into the <span ;="" style="font-family:Courier New">saveSLIPlist</span> method, which is responsible for persisting the implant as a <span ;="" style="font-family:Courier New">LaunchAgent</span>, via <span ;="" style="font-family:Courier New">~/Library/LaunchAgents/com.apple.loginStoreagent.plist</span>:
+		<br/><br/>
+<span><img src="./images/blog/blog6/persist.png" style="display:block; margin:auto;" width="100%"/></span>
+<br/><br/>
+		Since <span ;="" style="font-family:Courier New">LaunchAgent</span> persistence is detected by BlockBlock, if the HackingTeam had targeted your Mac and you had BlockBlock installed, it's unlikely they'd have succeeded in infecting you. Booya!
+		<br/><br/>
+<span><img src="./images/blog/blog6/BlockBlock.png" style="display:block; margin:auto;" width="66%"/></span>
+<br/><br/>
+		Update: an anonymous individual has uploaded a ready-to-go 'Xcode-buildable' version of the implant. <a class="inlineLink" href="https://infotomb.com/oon3g.zip">Download</a> it, build it, and play :) 
+		<br/><br/><br/>
+</div>
+</body></html>

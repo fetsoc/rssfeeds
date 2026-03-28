@@ -37,6 +37,8 @@ jobs:
       - name: Generate feeds
         run: |
           python generators/build.py
+        env:
+          ATTACKERKB_API_KEY: ${{ secrets.ATTACKERKB_API_KEY }}
 
       - name: Commit updated feeds
         run: |

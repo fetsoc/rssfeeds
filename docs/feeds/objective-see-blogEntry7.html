@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Reversing to Engineer: Learning to 'Secure' XPC from a Patch</title></head>
+<body>
+<div class="pageContent">
+<div class="blogTitle">Reversing to Engineer: Learning to 'Secure' XPC from a Patch</div>
+<div class="blogDate">8/29/2015</div>
+<span style="color:#95c02d; font-size: 10pt; position:relative; top: 1px;">Update: blog post updated to describe the use of dynamic (versus static) code references/APIs. Though Apple SPI'd (System Private Interfaced), as pointed out by Damien Sorresso of Apple, these APIs provide a higher level of security, and thus should be used. Mahalo Damien :)</span>
+<br/>
+<br/>
+		As backwards as it may seem, my (limited) software engineering knowledge has largely come from reverse-engineering other people's software. For example, reversing OS binaries while hunting for vulnerabilities has provided insight into how 'real' software developers think, code, and approach problems. In this brief writeup I want to share such an experience; where knowledge gleaned from a reversing session turned out to be directly applicable to one of my own projects.
+		<br/><br/>
+		At DefCon, I gave a talk entitled, <a class="inlineLink" href="https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20presentations/Patrick%20Wardle%20-%20UPDATED/DEFCON-23-Patrick-Wardle-Stick-that-in-your-(Root)Pipe-and-Smoke-it-UPDATED.pdf">"Stick that in your (root)Pipe and Smoke it"</a> (photo credit, @Ryanwsmith13):
+		<br/><br/>
+<span><img src="./images/blog/blog7/defcon.png" style="display:block; margin:auto;" width="600"/></span>
+<br/>
+		The talk began with a brief overview an OS X IPC mechanism named XPC, before diving into an analysis of an XPC-related vulnerability name 'RootPipe' (discovered by Emil Kvarnhammar). Following this, the talk analyzed Apple attempt at a patch, and illustrated how both I and others were able to bypass the patch and re-exploit the initial vulnerability. While researching content for the talk and reversing Apple's patch, I learned a lot about XPC and how to secure privileged XPC services. This knowledge turned out to be directly applicable to my latest tool; <a class="inlineLink" href="./products/taskexplorer.html">TaskExplorer</a>. 
+		<br/><br/>
+<span><img src="./images/TE/te.png" style="display:block; margin:auto;" width="800"/></span>
+<br/>
+		TaskExplorer allows one to explore all the tasks (processes) running on a Mac. IMHO, it provides a much needed improvement over Apple's Activity Monitor, as it allows one to view a task's loaded dylibs, open files, network connections, signature/signing status, and VirusTotal detection ratio. Moreover, a global search feature provides a way to quickly find all tasks that contain a loaded dylib or file. In order to enumerate information about running tasks, such as loaded dylibs and command-line arguments, root privileges are required. Sure TaskExplorer could ask for credentials each time it is launched, but there is a better way: XPC. 
+		<br/><br/>
+		As detailed in my talk (and shown in the following figure), XPC is great for splitting up an application into various 'logically-separate' components.
+		<br/><br/>
+<span><img src="./images/blog/blog7/xpcConcepts.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Besides achieving stability, this provides a great way to separate logic that requires different (e.g. elevated) privileges. (For more on XPC, see Apple's <a class="inlineLink" href="https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingXPCServices.html">"Creating XPC Services"</a> or Damien Sorresso's presentation <a class="inlineLink" href="http://devstreaming.apple.com/videos/wwdc/2013/702xfx2xmlrics5pyrjfwu2m/702/702.pdf">"Efficient Design with XPC"</a>). TaskExplorer was architected to utilize XPC to achieve such separation; splitting out a privileged XPC component from the application's main UI interface. The privileged XPC component is authenticated the initial time TaskExplorer is launched. From then on, it is able to service requests from the UI component in order to provide required information about remote tasks, without the need for further authentication.
+		<br/><br/>
+<span><img src="./images/blog/blog7/xpcOverview.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Ok, so back to the DefCon talk and 'RootPipe'. The bug discovered by Emil was both simple and elegant. In short, OS X contained a privileged XPC service (WriteConfig) that applications could communicate with in order to perform privileged actions without constantly bugging the user for credentials.
+		Unfortunately, this XPC service performed no authentication on any clients that connected to it. As such, any local adversary could abuse its services to elevate their privileges to root!
+		<br/><br/>
+<span><img src="./images/blog/blog7/exploit.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Though TaskExplorer's privileged XPC component does not confer such powerful capabilities, none-the-less I wanted to secure it by only allowing authorized clients to connect. But how? 
+		<br/><br/>
+		By reversing Apple's patch, we can see that 'RootPipe' was patched, (after two attempts!), by only allowing authorized clients to connect to the all powerful WriteConfig XPC service. Specifically only Apple-signed binaries with special entitlements, (e.g <span ;="" style="font-family:Courier New">com.apple.private.admin.writeconfig</span>), are able to connect to the XPC service.
+		<br/><br/>
+<span><img src="./images/blog/blog7/patchOverview.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Where is this new logic, that either allows trusted or blocks untrusted clients, implemented? In WriteConfig's implementation of the <span ;="" style="font-family:Courier New">-listener:shouldAcceptNewConnection:</span> method. Apple's <a class="inlineLink" href="https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSXPCListenerDelegate_reference/">documentation</a> states that this delegate method can be used to "accepts or rejects a new connection to the listener." In other words, the XPC service can examine a candidate client and block or reject the client, if it so chooses. Apple's 'RootPipe' patch and now TaskExplorer, both utilize this delegate method in order to validate candidate clients. 
+		<br/>
+<span><img src="./images/blog/blog7/shouldAcceptConnection.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Apple's <a class="inlineLink" href="https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSXPCListenerDelegate_reference/">documentation</a> states that this NSXPCListenerDelegate delegate method can be used to "accepts or rejects a new connection to the listener." In other words, the XPC service can examine a candidate client and block or reject the client, if it so chooses. Apple's 'RootPipe' patch and now TaskExplorer, both utilize this delegate method in order to validate candidate clients. 
+		<br/><br/>
+		Instead of using entitlements to validate candidate clients connecting to TaskExplorer's XPC service, I choose a simpler route: only applications signed by Objective-See are allowed to connect, and thus utilize the XPC service. Unfortunately, there's not a lot of documentation or examples about how to verify if an candidate client is signed with a specific Apple Developer's ID. However, a few StackOverflow posts, code snippets on GitHub, and fully reversing Apple's patch, initially proved quite helpful. Of course a little coaching from Damien Sorresso (@launchz) was amazingly helpful as well ;) 
+		<br/><br/>
+<span><img src="./images/blog/blog7/patchDetails.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		As with Apple's 'RootPipe' patch, code within TaskExplorer's <span ;="" style="font-family:Courier New">-listener:shouldAcceptNewConnection:</span> method, first invokes the <span ;="" style="font-family:Courier New">SecTaskCreateWithAuditToken()</span> function. Though undocumented, the definition and a brief overview can be found in the 
+		<a class="inlineLink" href="https://opensource.apple.com/source/libsecurity_codesigning/libsecurity_codesigning-55037.15/lib/SecTask.h">SecTask.h</a> header file.
+		As explained in the header file, this function "create[s] a SecTask object for the task that sent the mach message represented by the audit token." In other words, 
+		given an audit token of the client task that is attempting to connect to the XPC service, it will return a SecTask object representing said client. As described shortly, such an object will allow us to fully validate the client. So how to get the audit token of the connecting client to pass to the <span ;="" style="font-family:Courier New">SecTaskCreateWithAuditToken()</span> function? 
+		<br/><br/>
+		Well, as can be seen in the disassembly of Apple's patch, it appears that the <span ;="" style="font-family:Courier New">shouldAcceptNewConnection:</span> parameter, a pointer to an NSXPCConnection object, has method 
+		named 'auditToken', which presumable return's the connection's (client's) audit token: 
+		<br/><br/>
+<span><img src="./images/blog/blog7/patchIDA.png" style="display:block; margin:auto;" width="500"/></span>
+<br/>
+		Unfortunately, the is no mention of such a method in any Apple documentation or header files. However using a tool such as <a class="inlineLink" href="https://github.com/nst/RuntimeBrowser/">RuntimeBrowser</a> we can view NSXPCConnection's full class. This confirms the presence of such a method:
+		<br/><br/>
+<span><img src="./images/blog/blog7/methods.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Since this method is not 'public', one has to gently coerce the Objective-C runtime to give us access to it. One easy method is simply to create an custom class that contains an instance variable and '@synthesize' of the same name ('auditToken'). Then the following code will return, executed upon the NSXPCConnection object, will return the client's audit token: <span ;="" style="font-family:Courier New">((ExtendedNSXPCConnection*)newConnection).auditToken</span>. With the ability to access the client's audit token, we can invoke the <span ;="" style="font-family:Courier New">SecTaskCreateWithAuditToken()</span> function and get back the needed SecTask object, and then validate the client. 
+		<br/><br/>
+		Within the <a class="inlineLink" href="https://opensource.apple.com/source/Security/Security-57031.20.26/Security/include/security_codesigning/SecTaskPriv.h">SecTaskPriv.h</a> header file, exists a function named <span ;="" style="font-family:Courier New">SecTaskValidateForRequirement()</span>. A comment above the function states that it will "validate a SecTask instance for a specified requirement" - sounds perfect! Besides taking a reference to a SecTask object (which we now have), this function takes a 'requirement' string. Such a string articulates the desired requirement that can be validated against the connecting client, for example: "client; you must be signed with Objective-See's Apple Developer ID". The following format string illustrates the format of such a requirement, that can be passed into the <span ;="" style="font-family:Courier New">SecTaskValidateForRequirement()</span> function to validate a connecting client.
+		<br/><br/>
+<span ;="" style="font-family:Courier New">@"anchor trusted and certificate leaf [subject.CN] = \"Developer ID Application: your Apple Developer ID\"";</span>
+<br/><br/>
+		By the way, to find the correct string for your Apple Developer ID, run the codesign tool with the '-dvv' flags. Use the text following the first 'Authority=' as the requirement string (e.g. "Developer ID Application: Objective-See, LLC (VBG97UB4TA)").
+		<br/><br/>
+<span><img src="./images/blog/blog7/codesign.png" style="display:block; margin:auto;" width="700"/></span>
+<br/><br/>
+		To summarize, the following steps can validate that a client, connecting to an XPC instance, is signed by a particular Apple Developer ID. This code should be placed within the XPC service's <span ;="" style="font-family:Courier New">-listener:shouldAcceptNewConnection:</span> method.
+		<br/><br/>
+<b>0)</b> Declare a custom class that 'extends' the NSXPCConnection object, allowing access to it's 'private' auditToken. While there are likely other ways to accomplish the following seems to work :)
+		<span ;="" style="font-family:Courier New">
+<br/>
+<br/>@interface ExtendedNSXPCConnection : NSXPCConnection
+		<br/>{
+    	<br/>   audit_token_t auditToken;
+		<br/>}
+		<br/>@property audit_token_t auditToken;
+		<br/>@end
+		<br/>
+<br/>@implementation ExtendedNSXPCConnection
+		<br/>
+<br/>   @synthesize auditToken;
+		<br/>
+<br/>@end
+		</span>
+<br/><br/>
+<b>1)</b> Invoke the <span ;="" style="font-family:Courier New">SecTaskCreateWithAuditToken()</span> function with the client's audit token to create a SecTask object for the connecting client.
+		<br/><br/>
+<b>2)</b> Invoke the <span ;="" style="font-family:Courier New">SecTaskValidateForRequirement()</span> function, passing in the SecTask object and a requirement string for validation. To validate that the client is signed with a particular Apple Developer ID, use the following string (of course inserting your Apple Developer ID) :<span ;="" style="font-family:Courier New">@"anchor trusted and certificate leaf [subject.CN] = \"Developer ID Application: your Apple Developer ID\"";</span>
+<br/><br/>
+		Putting these steps together, here's a snippet of code from TaskExplorer that attempts to ensure that only authorized clients can connect to its privileged XPC service. And yes, it uses 'goto' - deal with it ;)
+		<br/><br/>
+<span><img src="./images/blog/blog7/fullCode.png" style="display:block; margin:auto;" width="800"/></span>
+<br/>
+		Often, the primary goal of reverse-engineering is to find vulnerabilities, understand malware, or validate vendor patches. However, if you're an amateur software developer, reversing can provide the means to improve ones very own tools. So, mahalo Apple!
+		<br/><br/><br/>
+</div>
+</body></html>

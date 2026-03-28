@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>More on, "Adware for OS X Distributes Trojans"</title></head>
+<body>
+<div class="pageContent">
+<div class="blogTitle">More on, "Adware for OS X Distributes Trojans"</div>
+<div class="blogDate">6/22/2015</div>
+		Today, Dr. Web released a brief writeup titled <a class="inlineLink" href="http://news.drweb.com/show/?i=9502&amp;lng=en">"Adware for OS X Distributes Trojans"</a>. Though the writeup provided a decent overview of the malware, it glossed over many technical details. Here, we provide a little more technical depth as well as the malicious sample - in case you want to play along at home! (See the MacInstaller/ folder in Objective-See's <a class="inlineLink" href="./downloads/malware.zip">malware archive</a> (password: infect3d), for the malware mentioned here).
+		<br/>
+<br/>
+		The Dr. Web writeup mentions an installer that is distributed as adware, specifically "disguised as a useful application or an MP3 file." While the websites that host the malicious installer are not directly mentioned, one of the screen shots contains the URL, listentoyoutube.com. Visiting and interacting with this site (e.g. providing a youtube video or song to download), results in the following 'Download MP3' button:
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_downloadButton.png" style="display:block; margin:auto;" width="600"/></span>
+<br/><br/>
+		Observant readers will notice the checked (by default), "Download with accelerator and get recommendation offers" option. With this option checked, clicking the download button will download a .dmg image, named to matched the MP3. When executed, an application within the .dmg is launched which may infect the user, installing several pieces of persistent adware.
+		<br/><br/>
+		The Dr. Web write up mentioned that this image contains a "rather remarkable structure; that is, it contains two hidden folders that cannot be viewed on the computer running with standard operating system settings if the user decides to browse the contents of the DMG file using Finder." This "remarkable structure" IMHO is rather unremarkable, the folders are simple prefixed with a '.' so that Finder will not, by default, display them. However, they are visible if Finder has been instructed to show hidden files, or of course, from the Terminal:
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_dirStructure.png" style="display:block; margin:auto;" width="500"/></span>
+<br/><br/> 
+		When the .dmg is mounted (e.g. double clicked) the following is shown:
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_dmg.png" style="display:block; margin:auto;" width="300"/></span>
+<br/><br/>
+		Double-clicking launches the <song>_mp3.app which executes its binary image: 'macLauncher' (MD5: 5f1e998e0213364ae44472495a71f123). This binary simply executes an application named 'Downloader' found within the hidden .app/ folder. Interestingly, this execution is achieved by the programmatic invocation of an AppleScript script:
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_appleScript.png" style="display:block; margin:auto;" width="600"/></span>
+<br/><br/>
+		As its name implies, 'Downloader' is a application that downloads (and installs) other software. Strings within the binary reveal it name, 'macInstaller', and version, 1.7.12-d. The MD5 hash of this binary is a6a23e7815d08a596da37e38b466e7a2. 
+		<br/><br/>
+		When executed, this software infects the system with persistent adware. Analysis of this adware is beyond the scope of this writeup. However, brief triage indicated that this includes a (signed) variant of Genieo, as well as the abhorred 'SaveOnMac' or (Crossrider?) adware. 
+		<br/><br/>
+		This adware will result in variety of unwanted or malicious behavior. For example, via malicious browser extensions it will hijack the browser in various ways. These malicious extensions can be viewed with <a class="inlineLink" href="products/knockknock.html">KnockKnock</a>:
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_KK.png" style="display:block; margin:auto;" width="800"/></span>
+<br/><br/>
+		Genieo, goes a step further and attempts to persist as a LaunchAgent. Luckily, <a class="inlineLink" href="products/blockblock.html">BlockBlock</a> can block this:
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_BB.png" style="display:block; margin:auto;" width="600"/></span>
+<br/><br/>
+		Since this version of Genieo was unknown to VirusTotal and (when <a class="inlineLink" href="https://www.virustotal.com/en/file/b59af72f24103a82c914fd83fab4da1715614db729cb5c3b4efcb480640e2f17/analysis/1435039769/">submitted</a>), undetected by Dr. Web and other AV products, a malware-agnostic tools such as BlockBlock is clearly quite valuable ;)
+		<br/><br/>
+<span><img src="./images/blog/macInstaller_VT.png" style="display:block; margin:auto;" width="600"/></span>
+<br/><br/><br/>
+</div>
+</body></html>

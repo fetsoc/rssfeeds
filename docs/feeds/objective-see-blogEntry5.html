@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>CVE-2015-3673: Goodbye Rootpipe...(for now?)</title></head>
+<body>
+<div class="pageContent">
+<div class="blogTitle">CVE-2015-3673: Goodbye Rootpipe...(for now?)</div>
+<div class="blogDate">7/01/2015</div>
+		In a previous <a class="inlineLink" href="#blogEntry3">blog post</a>, I posted a video showing a modified version of 'rootpipe' (the priv-esc <a class="inlineLink" href="https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/">disclosed</a> by Emil Kvarnhammar), bypassing Apple's patch to successfully (re)gain root on OS X 10.10.3. The bug, which I reported to Apple, was assigned CVE-2015-3673 and patched in OS X 10.10.4:
+		<br/><br/>
+<span><img src="./images/blog/CVE-2015-3673_appleCredits.png" style="display:block; margin:auto;" width="650"/></span>
+<br/><br/>
+		Interesting, though not that surprisingly, Emil found the same way to bypass Apple's original patch. As such, we share the CVE :) 
+		<br/><br/>
+		With the release of OS X 10.10.4 and Apple's new patch, Emil wrote a great blog revealing the details our independent OS X 10.10.3 <a class="inlineLink" href="https://truesecdev.wordpress.com/2015/07/01/exploiting-rootpipe-again/">bypass</a>. In short, Apple's original patch allowed only trusted processes (specifically those with the <span ;="" style="font-family:Courier New">com.apple.private.admin.writeconfig</span> entitlement), to talk to the <span ;="" style="font-family:Courier New">WriteConfig</span> XPC service; the service that the original 'rootpipe' exploit abused. However, we both found that the trusted Directory Utility application could easily be coerced to load unsigned, malicious plugins:
+		<br/><br/>
+<span><img src="./images/blog/CVE-2015-3673_dylibLoaded.png" style="display:block; margin:auto;" width="800"/></span>
+<br/><br/>
+		Since the Directory Utility application possesses the <span ;="" style="font-family:Courier New">com.apple.private.admin.writeconfig</span> entitlement, even on a patched OS X 10.10.3 system, the malicious plugins were allowed to talk to the <span ;="" style="font-family:Courier New">writeConfig</span> XPC service - game over! Apple's most recent patch prevents this attack in variety of ways (such as ensuring the trusted process originates from <span ;="" style="font-family:Courier New">/System</span> or <span ;="" style="font-family:Courier New">/usr</span>, both which are of course, only writable by root). As such, (for now?),  'rootpipe' is no more. 
+		<br/><br/>
+		If this adventure has interested you, I'm happy to announce that I will be presenting an in-depth talk at DefCon 23. The talk, titled <a class="inlineLink" href="https://www.defcon.org/html/defcon-23/dc-23-speakers.html#Wardle2">"Stick That In Your (root)Pipe &amp; Smoke It"</a> will cover in great detail: XPC fundamentals, the rootpipe vulnerability,  malware (from China?) that exploited the flaw as an 0day, Apple's attempted patch, the bypass (mentioned here), and Apple's OS X 10.10.4 patch. Can't make the talk? No problem; I'll be sure to post the slides online. Here's a sneak preview:
+		<br/><br/>
+<span><img src="./images/blog/CVE-2015-3673_slidePreview.png" style="display:block; margin:auto;" width="800"/></span>
+<br/><br/>
+		While on the topic of upcoming events, I've also been accepted to BlackHat Las Vegas where I'll be presenting a talk on <a class="inlineLink" href="https://www.blackhat.com/us-15/briefings.html#Patrick-Wardle">"Writing Bad @$$ Malware for OS X"</a> :) Also, I'll be giving yet another talk at DefCon 23 titled <a class="inlineLink" href="https://www.defcon.org/html/defcon-23/dc-23-speakers.html#Wardle">"'DLL Hijacking' on OS X? #@%&amp; Yeah!"</a>. Finally, I was invited to demonstrate Objective-See's tools at <a class="inlineLink" href="https://www.blackhat.com/us-15/arsenal.html#Patrick-Wardle">BlackHat Arsenal</a>, where I'll be releasing a new tool - so come check it out.
+		<br/>
+<br/>Hopefully see you in Vegas at BlackHat, Arsenal, DefCon - or all three!
+		<br/><br/><br/>
+</div>
+</body></html>

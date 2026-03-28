@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Kernel Debugging a Virtualized OS X El Capitan Image</title></head>
+<body>
+<div class="pageContent">
+<div class="blogTitle">Kernel Debugging a Virtualized OS X El Capitan Image</div>
+<div class="blogDate">11/05/2015</div>
+		Invariably, any serious security researcher or hacker will at some point, need to debug a live kernel. Recently I found some interesting code within a kernel extension that I wanted to poke on...dynamically. My previous kernel debugging experience involved GDB, and older versions of OS X. Setting up kernel debugging against an OS X 10.11 image with LLDB, was thus a new experience. As such, I figured a short blog detailing the necessary steps, perhaps would be useful to others :)
+		<br/><br/>
+<div style="border: 1px solid gray; padding: 5px;">
+<span style="color: #95c02d; font-weight: bold;"> Host:</span> My host is running OS X 10.11.1, however any recent version of OS X should work similarly.
+		<br/>
+		I've also got XCode and VMWare Fusion installed. 
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Target:</span> My target is a virtual instance of the release build of OS X 10.11 (running within VMWare). 
+		<br/>
+		This is what we'll be remotely debugging.
+		</div>
+<br/>
+		So how can we kernel-debug an OS X 10.11 image running release kernel, in a VM. Turns out, it's really not too hard!
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;"> Step 1 (target): Disable System Integrity Protection (SIP)</span><br/>
+		Boot the target (VM) into recovery mode. This is accomplished by hitting <span ;="" style="font-family:Courier New">cmd+r</span> as the system boots. Note; if the target boots to a login prompt, you've missed recovery mode. Reboot and try again.
+		<br/><br/>
+<span><img src="./images/blog/blog8/recoveryMode.png" style="display:block; margin:auto;" width="500"/></span>
+<br/><br/>
+		Once in recovery mode, open the terminal (<span ;="" style="font-family:Courier New">Utilities -&gt;Terminal</span>) and enter the following: <span ;="" style="font-family:Courier New">csrutil disable</span>
+<br/><br/>
+<span><img src="./images/blog/blog8/sipDisable.png" style="display:block; margin:auto;" width="500"/></span>
+<br/>
+		This will disable system integrity protection. Reboot the target, allowing it to boot normally.
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;"> Step 2 (target): Enable Debugging</span><br/>
+		Once SIP has been disabled, and the target has booted normally, you need to tell the system to boot in 'debug-mode'. This is achieved via the following command, executed from the terminal, within the target:<br/><span ;="" style="font-family:Courier New">sudo nvram boot-args="debug=0x141 pmuflags=1 -v"</span>
+<br/><br/>
+		The <span ;="" style="font-family:Courier New">'debug=0x141'</span> tells the system to wait for a remote debugger while booting. While the <span ;="" style="font-family:Courier New">'pmuflags=1'</span> disables the kernel's watchdog timer. Finally <span ;="" style="font-family:Courier New">-v</span> just tells the kernel to boot in verbose mode. For more information on these parameters, see <a class="inlineLink" href="http://ddeville.me/2015/08/kernel-debugging-with-lldb-and-vmware-fusion/">Kernel debugging with LLDB and VMware Fusion</a> or <a class="inlineLink" href="https://developer.apple.com/library/mac/documentation/Darwin/Conceptual/KernelProgramming">Apple's Kernel Programming Guide</a>.
+		<br/><br/>
+		Reboot the target, it should begin booting, then pause waiting for a remote debugger to attach:
+		<br/><br/>
+<span><img src="./images/blog/blog8/wait4Debugger.png" style="display:block; margin:auto;" width="500"/></span>
+<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Step 3 (host): Download the Kernel Debug Kit</span><br/>
+		Head over to <a class="inlineLink" href="https://developer.apple.com/downloads/">Apple's developer page</a> and find the kernel debug kit that matches the target's kernel. Since the target, (the image we're debugging) is the final version of OS X 10.11 (i.e. non-beta), the correct kernel build is 15A284:
+		<br/><br/>
+<span><img src="./images/blog/blog8/kernelDownload.png" style="display:block; margin:auto;" width="700"/></span>
+<br/>
+		Download this dmg, and install it.
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Step 4 (host): Start LLDB and Configure</span><br/>
+		From a terminal, fire up lldb. Then, specify the target you'll be connecting to. Do this via the <span ;="" style="font-family:Courier New">'target create [path to target kernel]'</span> command:
+		<br/><br/>
+<span><img src="./images/blog/blog8/specifyTarget.png" style="display:block; margin:auto;" width="850"/></span>
+<br/>
+		Note that the path to the kernel, is the path to the release kernel in the kernel debug kit (downloaded in the previous step).
+		<br/><br/>
+		Once the target has been specified, a warning message is displayed, indicating the presence of a debug script. Run this script via the specified command (<span ;="" style="font-family:Courier New">'command script import ...</span>):
+		<br/><br/>
+<span><img src="./images/blog/blog8/debugScript.png" style="display:block; margin:auto;" width="850"/></span>
+<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Step 5: (host) Connect to the Target</span><br/>
+		Now, you are ready to connect to the remote target, via kdp (the kernel debugging protocol). Connect via the following command: <span ;="" style="font-family:Courier New">'kdp-remote [target IP addr]</span>. Note the target's IP address will be displayed by the target, in the line above the <span ;="" style="font-family:Courier New">'Waiting for remote debugger connection'</span>. Now the host should be connected to the target!
+		<br/><br/>
+<span><img src="./images/blog/blog8/hostConnected.png" style="display:block; margin:auto;" width="850"/></span>
+<br/><br/>
+<span><img src="./images/blog/blog8/targetConnected.png" style="display:block; margin:auto;" width="400"/></span>
+<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Step 6: Debug!</span><br/>
+		Hooray, now connected to the remote target, you and can debug to your heart's content, for example dumping a backtrace or listing the loaded kexts:
+		<br/><br/>
+<span><img src="./images/blog/blog8/backTrace.png" style="display:block; margin:auto;" width="850"/></span>
+<br/><br/>
+<span><img src="./images/blog/blog8/imageList.png" style="display:block; margin:auto;" width="850"/></span>
+<br/><br/>
+		One important note, is that (with this setup), the debugger, cannot stop the running kernel - unless a breakpoint is hit! This means, if you don't set a breakpoint before continuing, you won't be able to stop (and thus debug) the running kernel:
+		<br/><br/>
+<span><img src="./images/blog/blog8/cantStop.png" style="display:block; margin:auto;" width="700"/></span>
+<br/><br/>
+		There may be ways around this 'limitation.' For example, <a class="inlineLink" href="http://ddeville.me/2015/08/kernel-debugging-with-lldb-and-vmware-fusion/">Kernel debugging with LLDB and VMware Fusion</a> talks about Non-Maskable Interrupts (NMI), that in theory allow one to manually generate an interrupt in the target (at anytime), that will be caught (and thus stop) the debugger on the host. However, I could not get this working...
+		<br/><br/>
+		Well that's a wrap. Hopefully I've adequately described the steps needed to debug the kernel of a virtualized OS X El Capitan image. If you have any issues, or if I've missed a step(s) please shoot me an <a class="inlineLink" href="mailto:issues@objective-see.com">email</a> :) Happy bug hunting! 
+		<br/><br/><br/>
+</div>
+</body></html>

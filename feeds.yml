@@ -387,4 +387,11 @@ feeds:
     home_url: "https://malpedia.caad.fkie.fraunhofer.de"
     api_url: "https://malpedia.caad.fkie.fraunhofer.de/api/list/families"
     state_file: "malpedia_families_state.json"
+
+  - id: "attackerkb"
+    type: "attackerkb"
+    title: "AttackerKB — Recent Assessments"
+    home_url: "https://attackerkb.com/"
+    api_base: "https://api.attackerkb.com/v1"
+    max_items: 20
     max_items: 50

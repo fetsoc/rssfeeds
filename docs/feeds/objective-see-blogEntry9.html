@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Monitoring Process Creation via the Kernel (Part I)</title></head>
+<body>
+<div class="pageContent">
+<div class="blogTitle">Monitoring Process Creation via the Kernel (Part I)</div>
+<div class="blogDate">11/15/2015</div>
+<span style="color:#95c02d; font-size: 10pt; position:relative; top: 1px;">Update: Several people have reached out to me (mahalo!) to mention that the KAuth API can also be used to monitor process creation from a kext. While I wait for a kext signing certificate from Apple I'll going to check this out, as KAuth interface appears more stable than the prototype of the MAC policy function. Findings will be included in part II of this blog posting :)</span>
+<br/>
+<br/>
+		Having recently returned from presenting at VirusBulletin and EkoParty, I finally have some free time to catchup on my <i>todo</i> list. First up? - updating BlockBlock for El Capitan compatibility. Although most of BlockBlock's code and logic works great on El Capitan, one component is completely broken...thanks to Apple's changes to their latest OS. 
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Background</span><br/>
+		BlockBlock monitors file I/O events in order to detect "persistence attempts." When it detects such an event, it alerts the user. In order to provide an informative alert, the alert popup contains the pid, path, and ancestry of the process responsible for at attempted persistence: 
+		<br/><br/>
+<span><img src="./images/BB/bb.png" style="display:block; margin:auto;" width="600"/></span>
+<br/><br/>
+		Although an application could use the <a class="inlineLink" href="https://developer.apple.com/library/mac/documentation/Darwin/Conceptual/FSEvents_ProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005289-CH1-SW1">FSEvents API</a> to be alerted of specific file and directory changes, this API does not provide information about the process that generated the event. That is to say, sure you get notifications from the API such as, "hey, a new launch daemon (plist) was created" - but there is no direct or trivial way to then get the pid and/or path of the process that created the new daemon. 
+		<br/><br/>
+		As such BlockBlock utilizes the <span ;="" style="font-family:Courier New">/dev/fsevents</span> device directly, as <a class="inlineLink" href="http://osxbook.com/software/fslogger/download/fslogger.c">suggested</a> by Amit Singh in his seminal "OS X Internals" book. While this mechanism captures all file I/O (as opposed to only events of interest), it does provide the process id (pid) of the process that generated the file I/O event. Now this is a good start, but as previously mentioned, BlockBlock seeks to provide the user more information about the responsible process such that the user may make an educated decision. For example, being able to display the process's path and process ancestry is definitely useful (if not essential), information that should be contained in a BlockBlock alert.
+		<br/><br/>
+		Generally, given a pid, one can simply call API functions such as <span ;="" style="font-family:Courier New">proc_pidpath</span> (see <a class="inlineLink" href="http://www.opensource.apple.com/source/xnu/xnu-2782.40.9/libsyscall/wrappers/libproc/libproc.c">libproc.c)</a> to get a process's path. However, if the process is short-lived and has already exited, this (and other) APIs will fail. As such, BlockBlock separately keeps a list of all process creations that includes somewhat detailed information about each process such as its pid and full path. Then, when a "persistence attempt" is detected via the file I/O monitoring component, even if the process has exited, BlockBlock can use the pid that's tied to the file I/O event to query its process list to get required information, such as the process's path. 
+		<br/><br/>
+		Prior to El Capitan, BlockBlock used programmatic dtrace probes in order to record process creation events. Specifically it set probes from user-mode, on: 
+		<br/>
+<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		1. syscall::exec*:return<br/>
+		2. proc::posix_spawn:exec-success<br/>
+		3. syscall::fork:return<br/>
+</span>
+</div>
+<br/>
+		These probes allowed not only pids, but also process paths, uids, and ppids to be recorded by BlockBlock. All was well :)
+		<br/><br/>
+		Then along came El Capitan - and basically said, "no more (meaningful) dtrace" Don't believe me? Try running Apple's very own <span ;="" style="font-family:Courier New">exesnoop</span> that ships with the OS. As it uses dtrace, it's totally broken, even when run as root :(  
+		<br/><br/>
+<span><img src="./images/blog/blog9/execSnoop.png" style="display:block; margin:auto;" width="800"/></span>
+<br/>
+		When I reached out to Apple about this I was <a class="inlineLink" href="https://twitter.com/hey_pom/status/663175315854766082">told</a>: "[you] can't trace syscalls using dtrace when SIP is enabled. We [Apple] can't make the distinction between a path or something more private."
+		<br/><br/>
+		It should be noted that yes, one can still do basic dtracing of some processes. However, there appears to be no (legitimate) way of tracking process creation events via dtrace, in a way that also provided semi-detailed information about the process, such as its full path. As BlockBlock requires (or I should say, prefers) such detailed information I had to explore other approaches.
+		<br/><br/>
+		First, thanks to <a class="inlineLink" href="https://twitter.com/hey_pom/status/663186671983161344?lang=en">suggestion</a> from @hey_pom, I dove into the audit (open BSM) framework. While this isn't that well documented, I was able to coerce some user-mode code to cough up some semi-detailed information for each process creation. Unfortunately, this information varied based on how the process was created (execv'd, forked, or spawned). For example; when a process is forked, the audit subsystem only provides the pid (no path), while for a spawned process, only the process's path is provided:
+		<br/><br/>
+<span><img src="./images/blog/blog9/openBSM.png" style="display:block; margin:auto;" width="850"/></span>
+<br/>
+		This is less than ideal, as BlockBlock requires a comprehensive pid -> process path mapping (even for short-lived/terminated processes). With all user-mode options (to the best of my knowledge) exhausted, I decided to head into ring-0.
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Ring-0/Kext</span>
+<br/>
+		Again, my goal was simple; record all process creation events so that at a later time, both the process id and full path of the newly created process would (still be) accessible. After a bunch of googling, it seemed that the simplest way to monitor process creations in ring-0 was via a mandatory access control (MAC) policy. Although this is (still?) an unsupported KPI, we'll see it provides the perfect solution to our issue. That is to say; it provides a comprehensive way to monitor process creations in a detailed manner. 
+		<br/><br/>
+		The mandatory access control implementation for OS X is TrustedBSD. For a quick primer and solid overview, checkout <a class="inlineLink" href="http://sysdev.me/trusted-bsd-in-osx/">"Working with TrustedBSD in Mac OS X."</a> In terms of using a MAC policy to monitor process creations, I recalled one of @osxreverser's blog post titled <a class="inlineLink" href="https://reverse.put.as/2014/10/03/can-i-suid-a-trustedbsd-policy-module-to-control-suid-binaries-execution/">"Can I SUID: a TrustedBSD policy module to control suid binaries execution"</a>. In this posting he discussed how one might control the execution of suid binary execution via a MAC policy. The <a class="inlineLink" href="https://github.com/gdbinit/can_I_suid">code</a> he shared is easy to follow and shows exactly how to register, via a MAC policy, a function that will be automatically called by the OS anytime process is created. Though he uses this policy function to determine if the process's binary has any SUID bit set, we can tweak the code so that the function can also access process id, path, parent id, and uid. Perfect - that's all we need :) 
+		<br/><br/>
+		Let's now walk thru some ring-0 code that implements such a MAC policy/hook (note, we'll cover how to make this information available to BlockBlock's user-mode components in part II of this blog post). If you'd like to follow along in code, its downloadable as an <a class="inlineLink" href="./downloads/BlockBlockKext_MAC.zip">Xcode project</a>. Again, mahalo to @osxreverser - this code is fully inspired by his previous work!
+		<br/><br/>
+		Kernel extensions (or 'kexts') are the legitimately way introduce code into the kernel. There are two kinds of kexts; 'Generic Kernel Extensions' and 'IOKit Drivers':
+		<br/><br/>
+<span><img src="./images/blog/blog9/xcodeKextTemplates.png" style="display:block; margin:auto;" width="600"/></span>
+<br/>
+		Since I wanted BlockBlock to be installable  without requiring a reboot, I went with the former. (Apple <a class="inlineLink" href="https://developer.apple.com/library/mac/qa/qa1319/_index.html">answered</a> when asked if it is possible to install an I/O Kit kext without requiring a restart: <i>"There is no easy solution to this problem. Currently, even Apple's own installers require restarting after a kext installation."</i>)
+		<br/><br/>
+		Conceptually, in order to record detailed information of all process creations, our generic kext only has to do two things. First, register a MAC policy (indicating our desire to monitor process creations). Then, implement the MAC policy function that is automatically invoked by the OS whenever a process is started. Within this function, we can add code to record details about the process (pid, path, ppid, etc).
+		<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Step 1: Registering the MAC Policy</span>
+<br/>
+		In the kext's start function, (specified in kext's build settings, under 'Module Start Routine'), invoke the <span ;="" style="font-family:Courier New">mac_policy_register</span> function. As shown below, this function takes three parameters; a pointer to the MAC policy configuration, an (out) pointer to the MAC policy handle, and the second argument that was passed to the kext's entry point function.
+		<br/><br/>
+<span><img src="./images/blog/blog9/macPolicyRegister.png" style="display:block; margin:auto;" width="600"/></span>
+<br/>
+		The following code snippet, illustratess the invocation of this function:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		kern_return_t BlockBlockKext_start(kmod_info_t * ki, void *d)<br/>
+		{<br/>
+    		   ...<br/>
+<br/>
+			   <span style="color: #008000;">//register MAC policy</span><br/>
+			   <b>mac_policy_register(&amp;policyConf, &amp;policyHandle, d);</b><br/>
+<br/>
+			   ...<br/>
+		}
+		</span>
+</div>
+<br/>
+		Let's take a closer look at the first two parameters of the <span ;="" style="font-family:Courier New">mac_policy_register</span> function. As just mentioned, the first parameter is a pointer to a MAC policy configuration. Specifically this is pointer to a structure of type <span ;="" style="font-family:Courier New">mac_policy_conf</span>. Defined in <span ;="" style="font-family:Courier New">security/mac_policy.h</span> this structure is defined as follows:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+<span style="color: #008000;">//defined in security/mac_policy.h</span><br/>
+<b>struct mac_policy_conf </b><br/>
+		{<br/>
+		   const char		*mpc_name;		<br/>
+		   const char		*mpc_fullname;		<br/>
+		   const char		**mpc_labelnames;	<br/>
+		   unsigned int		 mpc_labelname_count;	<br/>
+		   struct mac_policy_ops	*mpc_ops;	<br/>
+		   int			 mpc_loadtime_flags;	<br/>
+		   int			*mpc_field_off;		<br/>
+		   int			 mpc_runtime_flags;	<br/>
+		   mpc_t			 mpc_list;		<br/>
+		   void			*mpc_data;		<br/>
+		};
+		</span>
+</div>
+<br/><br/>
+		Although somewhat complex, luckily most the members in this structure can be initialized to blank or NULL values. However, four should (must?) be set. 
+		<br/><br/>
+		1) <span ;="" style="font-family:Courier New">const char *mpc_name</span><br/>
+		This is the policy name. You can pick any string ("BB Process Monitor")
+		<br/><br/>
+		2) <span ;="" style="font-family:Courier New">const char *mpc_fullname</span><br/>
+		This is the policies full name. Again, pick any string ("BlockBLock Kernel-Mode Process Monitor")
+		<br/><br/>
+		3) <span ;="" style="font-family:Courier New">struct mac_policy_ops	*mpc_ops;</span><br/>
+		This is the most important member of the <span ;="" style="font-family:Courier New">mac_policy_con structure</span>. Described by Apple, as an 'operations vector' it should contain a pointer to a <span ;="" style="font-family:Courier New">mac_policy_ops</span> structure. The <span ;="" style="font-family:Courier New">mac_policy_ops</span> structure specifies what operation (e.g. 'process creation') the kext is interested in, and the name of the callback function to invoke when said operation or event occurs. This details of the <span ;="" style="font-family:Courier New">mac_policy_ops</span> structure are discussed in more detail below. 
+		<br/><br/>
+		4) <span ;="" style="font-family:Courier New">int mpc_loadtime_flags</span><br/>
+		These flags indicate such things as whether the policy (and thus kext) can be unloaded (<span ;="" style="font-family:Courier New">'MPC_LOADTIME_FLAG_UNLOADOK'</span>) or when the policy should be loaded.
+		<br/><br/>
+		The following shows the fully populated <span ;="" style="font-family:Courier New">mac_policy_con</span> structure, used in BlockBlock's kext:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+<span style="color: #008000;">//MAC policy<br/>
+		// -&gt;pretty much empty, save for name and pointer to ops vector</span><br/>
+		static struct mac_policy_conf policyConf = <br/>
+		{<br/>
+		       .mpc_name            = "BB Process Monitor",<br/>
+		       .mpc_fullname        = "BlockBLock Kernel-Mode Process Monitor",<br/>
+		       .mpc_labelnames      = NULL,<br/>
+		       .mpc_labelname_count = 0,<br/>
+		       <b>.mpc_ops             = &amp;bbPolicyOps,</b><br/>
+		       .mpc_loadtime_flags  = MPC_LOADTIME_FLAG_UNLOADOK,<br/>
+		       .mpc_field_off       = NULL,<br/>
+		       .mpc_runtime_flags   = 0,<br/>
+		       .mpc_list            = NULL,<br/>
+		       .mpc_data            = NULL<br/>
+		};		
+		</span>
+</div>
+<br/>
+		As mentioned (step #3), the <span ;="" style="font-family:Courier New">mac_policy_ops</span> structure tells the OS what policy or event one is interested in. In order to register for process creation notifications, specify the <span ;="" style="font-family:Courier New">mpo_vnode_check_exec_t</span> MAC policy operation and provide a callback policy function: 
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+<span style="color: #008000;">//policy ops<br/>
+		// -&gt;specific MAC hooks</span><br/>
+		static struct mac_policy_ops bbPolicyOps =<br/>
+		{<br/>
+		        <span style="color: #008000;">//only interested in exec<br/>
+		        // -&gt;blockblock's policy function</span><br/>
+		        .mpo_vnode_check_exec = processExec<br/>
+		};
+		</span>
+</div>
+<br/><br/>
+<span style="color: #95c02d; font-weight: bold;">Step 2: Implementing the MAC Policy Function</span>
+<br/>
+		Once registered, the policy function (here, named 'processExec') will be automatically invoked by the OS anytime a process is being created.
+		<br/><br/>
+		The prototype of the policy function is rather long, and unfortunately, as @osxreverser notes, sometimes changes between OSs. However, since Yosemite it has remained the same. (As such this kext will only run on versions of OS X Yosemite and newer):
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		static int [functionName] (kauth_cred_t cred, struct vnode *vp, struct vnode *scriptvp, struct label *vnodelabel,struct label *scriptlabel, struct label *execlabel, struct componentname *cnp, u_int *csflags, void *macpolicyattr, size_t macpolicyattrlen);
+		</span>
+</div>
+<br/>
+		Luckily, in order to access detailed information about the process being created, only the first vnode parameter (vp) is needed. All other parameters for the purpose of this project, can be ignored. Recall, BlockBlock requires the pid, ppid, uid, and process path, for all created process. Turns out, all this information is readily available within the <span ;="" style="font-family:Courier New">mpo_vnode_check_exec</span>'s policy function (here, named processExec):
+		<br/><br/>
+		1) pid<br/>
+		The process's id, can be accessed via a call to the <span ;="" style="font-family:Courier New">proc_selfpid()</span> function
+		<br/><br/>
+		2) ppid<br/>
+		The process's parent id, can be accessed via a call to the <span ;="" style="font-family:Courier New">proc_selfppid()</span> function
+		<br/><br/>
+		3) uid<br/>
+		The process's user identifier can be accessed via a call to the <span ;="" style="font-family:Courier New">kauth_getuid()</span> function
+		<br/><br/>
+		4) path<br/>
+		The passed in vnode argument pointer ('vp') can be used to get the process's full path. Simply invoke the <span ;="" style="font-family:Courier New">vn_getpath()</span> function, passing in the vnode parameter and an out buffer, and pointer to the out buffer's size:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+<span style="color: #008000;">//path</span><br/>
+ 		char path[MAXPATHLEN] = {0};
+    	<br/><br/>
+<span style="color: #008000;">//length</span><br/>
+		int pathLength = MAXPATHLEN;
+		<br/><br/>
+<span style="color: #008000;">//get process path</span><br/>
+		vn_getpath(vp, path, &amp;pathLength);
+		</span>
+</div>
+<br/>
+		Performing steps 1 thru 4 in the MAC policy function (which we named <span ;="" style="font-family:Courier New">processExec</span>), allows the BlockBlock kext to retrieve all required information about process creations: 
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+<span style="color: #008000;">//MAC policy function for mpo_vnode_check_exec<br/>
+		// -&gt;automatically invoked anytime a new process is started</span><br/>
+		static int processExec(kauth_cred_t cred, struct vnode *vp, struct vnode *scriptvp, struct label *vnodelabel,struct label *scriptlabel, struct label *execlabel, struct componentname *cnp, u_int *csflags, void *macpolicyattr, size_t macpolicyattrlen)<br/>
+		{<br/>
+    	   <span style="color: #008000;">//path</span><br/>
+    	   char path[MAXPATHLEN] = {0};<br/>
+<br/>
+    	   <span style="color: #008000;">//length</span><br/>
+    	   int pathLength = MAXPATHLEN;<br/>
+<br/>
+	       <span style="color: #008000;">//uid</span><br/>
+    	   uid_t uid = -1;<br/>
+<br/>
+    	   <span style="color: #008000;">//pid</span><br/>
+    	   pid_t pid = -1;<br/>
+<br/>
+    	   <span style="color: #008000;">//ppid</span><br/>
+    	   pid_t ppid = -1;<br/>
+<br/>
+    	   <span style="color: #008000;">//dbg msg</span><br/>
+    	   printf("BLOCKBLOCK KEXT: MAC policy hook invoked\n");<br/>
+<br/>
+    	   <span style="color: #008000;">//get path</span><br/>
+    	   vn_getpath(vp, path, &amp;pathLength);<br/>
+<br/>
+    	   <span style="color: #008000;">//null-terminate<br/>
+    	   // -&gt;just to be safe</span><br/>
+    	   path[MAXPATHLEN-1] = 0x0;<br/>
+<br/>
+    	   <span style="color: #008000;">//get UID</span><br/>
+    	   uid = kauth_getuid();<br/>
+<br/>
+    	   <span style="color: #008000;">//get pid</span><br/>
+    	   pid = proc_selfpid();<br/>
+<br/>    
+    	   <span style="color: #008000;">//get ppid</span><br/>
+    	   ppid = proc_selfppid();<br/>
+<br/>
+    	   <span style="color: #008000;">//dbg msg</span><br/>
+    	   printf("BLOCKBLOCK KEXT: %s %d/%d/%d\n", path, pid, ppid, uid);<br/>
+<br/>
+    	   <span style="color: #008000;">//TODO: part II, send to user-mode!</span><br/>
+    	   ...<br/>
+    	}
+		</span>
+</div>
+<br/>
+<br/>
+<span style="color: #95c02d; font-weight: bold;">Go Time</span><br/>
+		Time to test this out! Since this is a beta kext, I'd suggest testing it in a VM. Once the kext is compiled (simply open in Xcode and hit Project->Build) and copied to the VM, change its owner to root/wheel:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		$ sudo chown -R root:wheel BlockBlockKext.kext
+		</span>
+</div>
+<br/>
+		Since OS X no longer (legitimately) allows the loading of unsigned kernel extensions by default, the VM must be explicitly configured to disable this 'security' feature. For Yosemite, tell the OS to allow the loading of unsigned kernel extensions via:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		$ sudo nvram boot-args=kext-dev-mode=1<br/>
+		$ sudo reboot
+		</span>
+</div>
+<br/>
+		On El Capitan accomplish the same via:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		a) boot into recovery mode via cmd+r<br/> 
+		b) csrutil disable (from Terminal.app)<br/>
+		c) reboot
+		</span>
+</div>
+<br/>
+		Now, load the kext:
+		<div style="border: 1px solid gray; padding: 10px; margin-top:10px;">
+<span ;="" style="font-family:Courier New">
+		$ sudo kextload BlockBlockKext.kext
+		</span>
+</div>
+<br/>
+		If all goes well the kext should be loaded (I've tested it on Yosemite, and El Capitan). Open <span ;="" style="font-family:Courier New">Console.app</span> to monitor the kext's output. Try launch some apps, or execute some processes:
+		<br/><br/>
+<span><img src="./images/blog/blog9/kextOutput.png" style="display:block; margin:auto;" width="850"/></span>
+<br/>
+		Obviously for production code, one would want to sign the kernel extension so users can install BlockBlock without having to turn off kext-signing checks. According to online documentation a normal Apple Developer ID is not longer enough to sign a kernel extension. Instead, one must request a 'Developer ID for Signing Kexts' via this <a class="inlineLink" href="https://developer.apple.com/contact/kext/">form</a>. Seems easy enough assuming one is developing legitimate OS X software? Or so I though:
+		<br/>
+<br/>
+		Me: <i>"Aloha, Objective-See LLC would like a Developer ID for Signing Kext, so that it may sign its kernel extensions for it customers. This is for a legitimate software product that does not attempt to bypass OS X security features in any way"</i><br/><br/>(note: I also provided the technical reasoning why BlockBlock (now) required a kext, as well as a link to BlockBlock's <a class="inlineLink" href="../products/blockblock.html">product page</a>)
+		<br/><br/>
+		Apple: GTFO:
+		<br/><br/>
+<span><img src="./images/blog/blog9/denied.png" style="display:block; margin:auto;" width="850"/></span>
+<br/>
+		Me: ... 
+		<br/><br/>
+		On that bitter(sweet) note, let's end. Check back soon for part II (and maybe Apple will have reconsidered their decision to deny me the ability to sign kexts). I'll detail about how the process information captured in the BlockBlock kext, is made available to the user-mode component of BlockBlock via broadcasting to a system socket :) 
+		<br/><br/><br/>
+</div>
+</body></html>
