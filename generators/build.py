@@ -505,6 +505,125 @@ def build_sitemap_blog_tag(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
 
     return items[:max_items]
 
+
+# ----------------------------
+# TEMPLATE TYPE: objective_see
+# ----------------------------
+def build_objective_see(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Build a feed for Objective-See blog, correctly handling the 9 legacy
+    fragment-URL articles (blog.html#blogEntryN) that exist only as anchors
+    in the single-page archive at objective-see.com/blog.html.
+
+    For fragment-URL articles:
+      - Fetches objective-see.com/blog.html once (lazy-loaded)
+      - Extracts the specific entry's content between anchor tags
+      - Writes a static HTML wrapper at static_out_dir/objective-see-{anchor}.html
+        so EIQ's RSS transport can fetch a clean single-article page
+      - Uses the GitHub Pages URL of that static file as the RSS <link>
+
+    For individual-page articles (no #):
+      - Passes the URL through unchanged; EIQ fetches and extracts normally
+    """
+    from bs4 import NavigableString
+
+    rss_url = feed.get("rss_url", "https://objective-see.org/rss.xml")
+    archive_url = feed.get("archive_url", "https://objective-see.com/blog.html")
+    static_out_dir = feed.get("static_out_dir", "docs/feeds")
+    static_base_url = feed.get("static_base_url", "https://fetsoc.github.io/rssfeeds/feeds")
+    max_items = int(feed.get("max_items", 50))
+
+    parsed = feedparser.parse(rss_url)
+    archive_soup: Optional[Any] = None  # lazy-loaded for fragment articles
+
+    items: List[Dict[str, Any]] = []
+
+    for entry in parsed.entries:
+        url = getattr(entry, "link", "") or getattr(entry, "id", "")
+        title = getattr(entry, "title", url)
+        rss_desc = getattr(entry, "summary", None)
+
+        published = None
+        if getattr(entry, "published", None):
+            published = safe_parse_date(entry.published)
+        elif getattr(entry, "updated", None):
+            published = safe_parse_date(entry.updated)
+
+        if "#" in url:
+            # Legacy fragment-URL article: extract content from the archive page.
+            fragment = url.split("#", 1)[1]  # e.g. "blogEntry1"
+
+            # Lazy-fetch the archive page (fetched only once for all fragments).
+            if archive_soup is None:
+                archive_html = fetch_text(archive_url)
+                archive_soup = BeautifulSoup(archive_html, "html.parser")
+
+            anchor = archive_soup.find("a", attrs={"name": fragment})
+            if not anchor:
+                # Anchor missing; fall back to RSS description only, skip static page.
+                items.append({"url": url, "title": title, "published": published,
+                               "description": rss_desc})
+                continue
+
+            # Collect all sibling nodes from this anchor up to the next blogEntry anchor.
+            content_nodes: List[str] = []
+            node = anchor.next_sibling
+            while node is not None:
+                if (
+                    hasattr(node, "attrs")
+                    and isinstance(node.attrs.get("name"), str)
+                    and node.attrs["name"].startswith("blogEntry")
+                ):
+                    break  # Reached the next entry's anchor — stop.
+                content_nodes.append(str(node))
+                node = node.next_sibling
+
+            # Try to extract publication date from the blogDate div if RSS had none.
+            if not published:
+                for node_str in content_nodes:
+                    date_soup = BeautifulSoup(node_str, "html.parser")
+                    date_el = date_soup.find(class_="blogDate")
+                    if date_el:
+                        published = safe_parse_date(date_el.get_text(strip=True))
+                        break
+
+            article_inner_html = "".join(content_nodes).strip()
+
+            # Write a minimal static HTML page that EIQ can fetch.
+            # The transport is configured to extract <div class="pageContent">,
+            # so we wrap the article content in exactly that element.
+            static_filename = f"objective-see-{fragment}.html"
+            static_path = os.path.join(static_out_dir, static_filename)
+            os.makedirs(static_out_dir, exist_ok=True)
+            with open(static_path, "w", encoding="utf-8") as fh:
+                fh.write(
+                    f'<!DOCTYPE html>\n<html><head>'
+                    f'<meta charset="utf-8"><title>{title}</title>'
+                    f'</head>\n<body>\n'
+                    f'<div class="pageContent">\n{article_inner_html}\n</div>\n'
+                    f'</body></html>\n'
+                )
+
+            item_url = f"{static_base_url.rstrip('/')}/{static_filename}"
+        else:
+            # Normal individual-page article — EIQ fetches and extracts as usual.
+            item_url = url
+
+        if item_url:
+            items.append({
+                "url": item_url,
+                "title": title,
+                "published": published,
+                "description": rss_desc,
+            })
+
+    items.sort(
+        key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
+        reverse=True,
+    )
+    return items[:max_items]
+
+
 def build_malpedia_inventory_updates(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Build RSS items from Malpedia's 'Inventory Updates' section.
@@ -727,6 +846,54 @@ def build_malpedia_families(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
 # ----------------------------
 # Dispatcher
 # ----------------------------
+# TEMPLATE TYPE: falconfeeds_blog
+# ----------------------------
+def build_falconfeeds_blog(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Build a feed for FalconFeeds blog via their CMS JSON API.
+    Endpoint: https://cms.falconfeeds.io/api/blogapi?page=N
+    Returns 12 items per page, newest-first. Paginates until max_items reached.
+    """
+    cms_api_base = feed.get("cms_api_url", "https://cms.falconfeeds.io/api/blogapi")
+    blog_base = feed.get("blog_base_url", "https://falconfeeds.io/blogs")
+    max_items = int(feed.get("max_items", 50))
+
+    items: List[Dict[str, Any]] = []
+    page = 1
+
+    while len(items) < max_items:
+        try:
+            page_data = fetch_json(f"{cms_api_base}?page={page}")
+        except Exception as e:
+            print(f"FalconFeeds API page {page} failed: {e}")
+            break
+
+        if not isinstance(page_data, list) or not page_data:
+            break
+
+        for obj in page_data:
+            slug = obj.get("slug")
+            if not slug:
+                continue
+            url = f"{blog_base.rstrip('/')}/{slug}"
+            title = obj.get("title") or obj.get("metaTitle") or slug
+            desc = obj.get("metaDescription") or obj.get("blogDescription")
+            published = safe_parse_date(obj.get("createdAt"))
+            items.append({"url": url, "title": title, "published": published, "description": desc})
+            if len(items) >= max_items:
+                break
+
+        page += 1
+
+    # API returns newest-first, but sort to be safe
+    items.sort(
+        key=lambda x: x["published"] or datetime(1970, 1, 1, tzinfo=timezone.utc),
+        reverse=True,
+    )
+    return items[:max_items]
+
+
+# ----------------------------
 BUILDERS = {
     "sitemap_blog": build_sitemap_blog,
     "passthrough_feed": build_passthrough_feed,
@@ -734,8 +901,10 @@ BUILDERS = {
     "json_api": build_json_api,
     "github_releases": build_github_releases,
     "sitemap_blog_tag": build_sitemap_blog_tag,
+    "objective_see": build_objective_see,
     "malpedia_inventory_updates": build_malpedia_inventory_updates,
     "malpedia_families": build_malpedia_families,
+    "falconfeeds_blog": build_falconfeeds_blog,
 }
 
 

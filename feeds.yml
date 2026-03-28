@@ -2,6 +2,18 @@ site_base: "https://fetsoc.github.io/rssfeeds"
 output_dir: "docs/feeds"
 
 feeds:
+  - id: "objective-see"
+    type: "objective_see"
+    title: "Objective-See"
+    home_url: "https://objective-see.org/blog"
+    rss_url: "https://objective-see.org/rss.xml"
+    # Legacy articles blogEntry1–blogEntry9 only exist as anchor fragments in this archive:
+    archive_url: "https://objective-see.com/blog.html"
+    # Generated static HTML pages for fragment-URL articles go here:
+    static_out_dir: "docs/feeds"
+    static_base_url: "https://fetsoc.github.io/rssfeeds/feeds"
+    max_items: 50
+
   - id: "hunt-blog"
     type: "sitemap_blog"
     title: "Hunt.io Blog"
@@ -360,6 +372,14 @@ feeds:
     page_url: "https://malpedia.caad.fkie.fraunhofer.de/"
     max_items: 50
     use_details_fallback: true
+
+  - id: "falconfeeds-blog"
+    type: "falconfeeds_blog"
+    title: "FalconFeeds Blog"
+    home_url: "https://falconfeeds.io/blogs"
+    cms_api_url: "https://cms.falconfeeds.io/api/blogapi"
+    blog_base_url: "https://falconfeeds.io/blogs"
+    max_items: 50
 
   - id: "malpedia-families"
     type: "malpedia_families"
