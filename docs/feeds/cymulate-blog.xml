@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 12:38:31 +0000</lastBuildDate>
-    <item>
-      <title>Security Segmentation Validation in the Banking Industry</title>
-      <link>https://cymulate.com/blog/security-validation-banking-industry/</link>
-      <description>Explore how lateral movement threats impact banking cybersecurity and how Cymulate’s simulations help identify and mitigate network segmentation risks</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/security-validation-banking-industry/</guid>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 18:32:10 +0000</lastBuildDate>
     <item>
       <title>How Do You Know? Answers to help the board understand the value of your security program</title>
       <link>https://cymulate.com/blog/ctem-cisos-communicating-security/</link>
@@ -321,6 +315,13 @@
       <description>This blog post demonstrates why Cyber Security Risk is Never Worth the Price and why it's important to Think independently before deciding.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/risky-business/</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Attacks Wrap Up - September 2020</title>
+      <link>https://cymulate.com/blog/cyberattacks-september-2020/</link>
+      <description>What were the notable cyber attacks last month? Here is a rundown of cybercriminal activity in September 2020.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyberattacks-september-2020/</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
