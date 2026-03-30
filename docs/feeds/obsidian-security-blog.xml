@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Obsidian Security Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 13:44:44 +0000</lastBuildDate>
+    <item>
+      <title>Better OAuth Security for your Core SaaS Applications</title>
+      <link>https://www.obsidiansecurity.com/blog/better-oauth-security-for-core-saas-applications</link>
+      <description>Improve OAuth security for critical SaaS applications. Discover best practices for token management, scope control, and integration protection.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/better-oauth-security-for-core-saas-applications</guid>
+    </item>
+    <item>
+      <title>Behind the breach: ShinyHunters' 2026 voice phishing campaign</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-shinyhunters-2026-voice-phishing-campaign</link>
+      <description>Incident analysis of a voice phishing campaign linked to ShinyHunters-style tradecraft. Attackers compromise Okta accounts, enroll MFA persistence, and exfiltrate SaaS data.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-shinyhunters-2026-voice-phishing-campaign</guid>
+    </item>
+    <item>
+      <title>Behind The Breach: Self-Service Password Reset (SSPR) Abuse in Azure AD</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-self-service-password-reset-azure-ad</link>
+      <description>Investigate Azure AD SSPR abuse in real breaches. Learn how attackers exploit self-service password reset and how to secure this critical feature.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-self-service-password-reset-azure-ad</guid>
+    </item>
+    <item>
+      <title>Behind the Breach: Phishing &amp; Token Compromise in SaaS Environments</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-phishing-token-compromise-saas-environments</link>
+      <description>Analyze phishing campaigns targeting SaaS tokens. Understand credential theft techniques, token compromise patterns, and defense strategies.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-phishing-token-compromise-saas-environments</guid>
+    </item>
+    <item>
+      <title>Behind the Breach: Pass-The-Cookie Beyond IdPs</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-pass-the-cookie-attack</link>
+      <description>Investigate pass-the-cookie attacks beyond identity providers. Learn how session tokens are stolen and replayed to bypass authentication controls.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-pass-the-cookie-attack</guid>
+    </item>
+    <item>
+      <title>Behind The Breach: MFA Everywhere, Yes. MFA For Everyone, No.</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-mfa</link>
+      <description>Analyze real breaches where MFA coverage gaps enabled attacks. Learn why universal MFA deployment is critical for enterprise security.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-mfa</guid>
+    </item>
+    <item>
+      <title>Behind the Breach: Malicious Attack on Cyberhaven’s Chrome Extension Developer Team</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-malicious-attack-on-cyberhavens-chrome-extension-developer-team</link>
+      <description>OBSIDIAN THREAT RESEARCH TEAM</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-malicious-attack-on-cyberhavens-chrome-extension-developer-team</guid>
+    </item>
+    <item>
+      <title>Behind the Breach: Cross-tenant Impersonation in Okta</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-cross-tenant-impersonation-in-okta</link>
+      <description>Analyze cross-tenant impersonation attacks in Okta. Understand the vulnerability, attack vectors, and security controls to prevent identity spoofing.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-cross-tenant-impersonation-in-okta</guid>
+    </item>
+    <item>
+      <title>Are Your ServiceNow ACLs Publicly Exposing Data?</title>
+      <link>https://www.obsidiansecurity.com/blog/are-your-servicenow-lists-publicly-exposing-data</link>
+      <description>Audit ServiceNow ACLs to prevent data exposure. Learn how misconfigured access controls can leak sensitive information and how to secure your instance.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/are-your-servicenow-lists-publicly-exposing-data</guid>
+    </item>
+    <item>
+      <title>Life of a Phish</title>
+      <link>https://www.obsidiansecurity.com/blog/anatomy-of-a-phish</link>
+      <description>Anatomy of a phishing attack targeting SaaS. Dissect real campaigns, understand tactics, and implement effective defenses.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/anatomy-of-a-phish</guid>
+    </item>
+    <item>
+      <title>An Open Letter to the SaaS Industry: Make Security the Default</title>
+      <link>https://www.obsidiansecurity.com/blog/an-open-letter-to-the-saas-industry</link>
+      <description>A call for shared standards, stronger transparency, and vendor accountability across the SaaS ecosystem</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/an-open-letter-to-the-saas-industry</guid>
+    </item>
+    <item>
+      <title>The AISPM Market Guide: Navigating AI Security Posture Management</title>
+      <link>https://www.obsidiansecurity.com/blog/aispm-market-guide</link>
+      <description>Navigate the AI Security Posture Management market with expert guidance. Understand AISPM solutions, vendors, and implementation strategies for enterprise scale.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/aispm-market-guide</guid>
+    </item>
+    <item>
+      <title>AI Security Testing: Protecting Models and Agents From Adversarial Exploits</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-testing</link>
+      <description>Protect AI models and agents from adversarial exploits with rigorous security testing. Implement continuous validation for autonomous systems.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-testing</guid>
+    </item>
+    <item>
+      <title>The Top AI Security Risks Facing Enterprises in 2025</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-risks</link>
+      <description>Identify the most critical AI security risks threatening enterprises in 2025 and learn actionable strategies to protect your AI infrastructure and data.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-risks</guid>
+    </item>
+    <item>
+      <title>AI Security Posture Management: Continuous Protection for AI Agents</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-posture-management</link>
+      <description>Implement continuous AI security posture management for autonomous agents. Maintain visibility, control, and protection across distributed AI systems.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-posture-management</guid>
+    </item>
+    <item>
+      <title>Bridging the Gap Between AI Security and Governance</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-governance-framework</link>
+      <description>Bridge the gap between AI security and governance. Build unified frameworks that ensure compliance, risk management, and protection across enterprise AI.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-governance-framework</guid>
+    </item>
+    <item>
+      <title>AI Security Best Practices: Building a Foundation for Responsible Innovation</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-best-practices</link>
+      <description>Implement proven AI security best practices that balance innovation, governance, and compliance across enterprise AI initiatives.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-best-practices</guid>
+    </item>
+    <item>
+      <title>AI Security Automation: Reducing Human Error and Speeding Response</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-automation</link>
+      <description>Reduce human error and accelerate incident response with AI security automation. Deploy intelligent systems that detect and remediate threats automatically.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-automation</guid>
+    </item>
+    <item>
+      <title>AI Safety Benchmarks: How to Evaluate and Certify Secure Models</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-safety-benchmarks</link>
+      <description>Learn how to evaluate and certify secure AI models using safety benchmarks. Implement testing frameworks that ensure model reliability and trustworthiness.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-safety-benchmarks</guid>
+    </item>
+    <item>
+      <title>Inside the AI Risk Repository: Mapping the Threat Landscape</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-risk-repository</link>
+      <description>Explore the AI Risk Repository and map the evolving threat landscape. Access comprehensive intelligence on AI vulnerabilities and attack patterns.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-risk-repository</guid>
+    </item>
+    <item>
+      <title>AI Risk Mitigation: Turning Compliance Into Continuous Protection</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-risk-mitigation</link>
+      <description>Transform compliance into continuous protection with AI risk mitigation strategies. Implement proactive defenses that evolve with your enterprise AI systems.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-risk-mitigation</guid>
+    </item>
+    <item>
+      <title>AI Red Teaming Services: How Enterprises Validate AI Resilience</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-red-teaming-services</link>
+      <description>Validate enterprise AI resilience with professional red teaming services. Engage experts who simulate attacks and strengthen your defenses.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-red-teaming-services</guid>
+    </item>
+    <item>
+      <title>AI Red Teaming: How Enterprises Test and Harden Their AI Systems</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-red-teaming</link>
+      <description>Test and harden enterprise AI systems through structured red teaming exercises. Validate defenses against real-world adversarial scenarios.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-red-teaming</guid>
+    </item>
+    <item>
+      <title>The Top AI Pentesting Tools for LLMs and Autonomous Agents</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-pentesting-tools</link>
+      <description>Assess LLM and agent resilience with leading AI pentesting tools. Discover platforms that identify vulnerabilities in language models and autonomous systems.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-pentesting-tools</guid>
+    </item>
+    <item>
+      <title>AI Penetration Testing: Finding and Fixing AI Weaknesses</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-penetration-testing</link>
+      <description>Find and fix AI vulnerabilities through comprehensive penetration testing. Identify weaknesses in models, agents, and infrastructure before attackers do.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-penetration-testing</guid>
+    </item>
+    <item>
+      <title>AI Guardrails: Enforcing Safety Without Slowing Innovation</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-guardrails</link>
+      <description>See how AI guardrails help teams enforce safety, policy, and ethics while maintaining speed and creativity in enterprise AI development.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-guardrails</guid>
+    </item>
+    <item>
+      <title>AI Exploits and Model Compromise: How Attackers Target the AI Supply Chain</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-exploits</link>
+      <description>Understand how attackers exploit vulnerabilities across the AI supply chain. Learn to protect models, dependencies, and infrastructure from compromise.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-exploits</guid>
+    </item>
+    <item>
+      <title>AI Detection and Response: Extending SaaS XDR to Agentic Systems</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-detection-and-response</link>
+      <description>Explore how AI detection and response extends SaaS XDR capabilities to secure autonomous agents and agentic systems in modern enterprise environments.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-detection-and-response</guid>
+    </item>
+    <item>
+      <title>AI Data Poisoning: How Corrupted Data Undermines Trust in Agents</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-data-poisoning</link>
+      <description>Understand how AI data poisoning attacks corrupt training data and compromise model integrity. Learn detection methods and mitigation strategies to protect your AI systems.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-data-poisoning</guid>
+    </item>
+    <item>
+      <title>AI Application Security: Safeguarding Data, Code, and Behavior</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-application-security</link>
+      <description>Learn how to secure AI applications by protecting models, data flows, and runtime behavior from emerging vulnerabilities and abuse.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-application-security</guid>
+    </item>
+    <item>
+      <title>AI agents are silently changing how data leaves your apps. Here’s how to stay ahead.</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-toxic-risk-combinations</link>
+      <description>AI agent activity grew 300x in 2025. Shadow agents, overprivileged credentials, and chained workflows are creating blind spots your SIEM can't see. Here's what to do about it.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-toxic-risk-combinations</guid>
+    </item>
+    <item>
+      <title>Top AI Agent Security Risks and How to Mitigate Them</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-security-risks</link>
+      <description>Identify the leading AI agent security risks of 2025 and discover practical steps to mitigate threats to data, models, and infrastructure.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-security-risks</guid>
+    </item>
+    <item>
+      <title>Building an AI Agent Security Framework for Enterprise-Scale AI</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-security-framework</link>
+      <description>Build AI agent security frameworks that scale across enterprise systems. Implement unified controls for identity, access, and behavior monitoring.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-security-framework</guid>
+    </item>
+    <item>
+      <title>AI Agents Are Rewriting SaaS Security. Are You Ready?</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-security</link>
+      <description>Discover how AI agents are transforming SaaS security requirements. Learn why traditional controls fall short and what new protections enterprises need.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-security</guid>
+    </item>
+    <item>
+      <title>AI Agent Protection: Safeguarding Identities, Access, and Behavior</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-protection</link>
+      <description>Safeguard AI agent identities, access controls, and runtime behavior. Implement comprehensive protection strategies for autonomous systems.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-protection</guid>
+    </item>
+    <item>
+      <title>Real-Time AI Agent Monitoring: Detecting Threats Before They Escalate</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-monitoring-tools</link>
+      <description>Detect AI agent threats in real time with advanced monitoring tools. Implement continuous surveillance that identifies anomalies before they escalate.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-monitoring-tools</guid>
+    </item>
+    <item>
+      <title>The 2025 AI Agent Security Landscape: Players, Trends, and Risks</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-market-landscape</link>
+      <description>Review the top AI agent security trends, vendors, and threats shaping the 2025 landscape of autonomous systems and intelligent tools.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-market-landscape</guid>
+    </item>
+    <item>
+      <title>From Agentic AI to Autonomous Risk: Why Security Must Evolve</title>
+      <link>https://www.obsidiansecurity.com/blog/agentic-ai-security</link>
+      <description>Understand how growing AI autonomy changes enterprise risk and why adaptive, multi-layered security is crucial for modern organizations.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/agentic-ai-security</guid>
+    </item>
+    <item>
+      <title>Adversarial Prompt Engineering: The Dark Art of Manipulating LLMs</title>
+      <link>https://www.obsidiansecurity.com/blog/adversarial-prompt-engineering</link>
+      <description>Learn how adversarial prompt engineering exploits LLM vulnerabilities and discover techniques to detect and prevent prompt manipulation attacks on language models.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/adversarial-prompt-engineering</guid>
+    </item>
+    <item>
+      <title>Adversarial Machine Learning: Understanding and Preventing Model Exploitation</title>
+      <link>https://www.obsidiansecurity.com/blog/adversarial-machine-learning</link>
+      <description>Explore adversarial machine learning threats and discover proven defense strategies to prevent model exploitation and safeguard AI systems from manipulation attacks.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/adversarial-machine-learning</guid>
+    </item>
+    <item>
+      <title>What is Account Takeover? ATO Attacks Explained</title>
+      <link>https://www.obsidiansecurity.com/blog/account-takeover-ato-attacks-explained</link>
+      <description>Account takeover (ATO) attacks use valid credentials to compromise accounts. Learn 8 attack methods, detection techniques, and response strategies for 2026.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/account-takeover-ato-attacks-explained</guid>
+    </item>
+    <item>
+      <title>Access Token vs Refresh Token: Key Differences Explained</title>
+      <link>https://www.obsidiansecurity.com/blog/access-token-vs-refresh-token-key-differences-explained</link>
+      <description>Learn how access tokens and refresh tokens create different threat models. Understand detection challenges and why both bypass MFA in your SaaS environment.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/access-token-vs-refresh-token-key-differences-explained</guid>
+    </item>
+    <item>
+      <title>From noise to clarity: Accelerate your SaaS security operations with Obsidian AI Assistant</title>
+      <link>https://www.obsidiansecurity.com/blog/accelerate-your-security-operations-with-ai-assistant</link>
+      <description>Cut through SaaS security noise. Obsidian AI Assistant helps teams prioritize risks, simplify remediation, and respond faster with confidence.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/accelerate-your-security-operations-with-ai-assistant</guid>
+    </item>
+    <item>
+      <title>A Practical Guide for Handling Unauthorized Access to Snowflake</title>
+      <link>https://www.obsidiansecurity.com/blog/a-practical-guide-to-handling-unauthorized-access-to-snowflake</link>
+      <description>Practical guide for handling unauthorized Snowflake access. Learn incident response steps, detection methods, and prevention strategies for data warehouse security.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/a-practical-guide-to-handling-unauthorized-access-to-snowflake</guid>
+    </item>
+    <item>
+      <title>Understanding every layer of your SaaS Supply Chain Security: From VRMs to OAuths</title>
+      <link>https://www.obsidiansecurity.com/blog/a-guide-to-saas-supply-chain-solutions</link>
+      <description>SaaS supply chain security can be confusing. This comprehensive guide breaks down the different solutions (SBOM, VRM, CI/CD) and explains the critical risks of SaaS-to-SaaS integrations.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/a-guide-to-saas-supply-chain-solutions</guid>
+    </item>
+    <item>
+      <title>2025 NYDFS Deadlines Expose SaaS Security Gaps—How to Avoid Paying Millions in Fines</title>
+      <link>https://www.obsidiansecurity.com/blog/2025-nydfs-deadlines-expose-saas-security-gaps</link>
+      <description>Learn how to meet NYDFS cybersecurity compliance requirnments for SaaS. Understand NYDFS 500 cybersecurity requirements, MFA rules, and how to avoid fines under NYDFS regulations. Obsidian maps NYDFS cyber regulations to SaaS controls for easier audits.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/2025-nydfs-deadlines-expose-saas-security-gaps</guid>
+    </item>
+    <item>
+      <title>2020: The Year of SaaS</title>
+      <link>https://www.obsidiansecurity.com/blog/2020-the-year-of-saas</link>
+      <description>Explore how 2020 became the defining year for SaaS adoption and what it means for enterprise security. Understand the shift to cloud-first operations.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/2020-the-year-of-saas</guid>
+    </item>
+    <item>
+      <title>Data Guardianship – GDPR: Live it, Love it</title>
+      <link>https://www.obsidiansecurity.com/blog/data-guardianship-data-inventories-and-data-mappings</link>
+      <description>Build comprehensive data inventories and mappings for SaaS. Discover where sensitive data lives and how it flows across applications.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/data-guardianship-data-inventories-and-data-mappings</guid>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerging Identity Threats: The Muddy Waters of Residential Proxies</title>
+      <link>https://www.obsidiansecurity.com/blog/emerging-identity-threats-the-muddy-waters-of-residential-proxies</link>
+      <description>Navigate emerging identity threats from residential proxies. Understand how attackers use legitimate infrastructure to evade detection.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/emerging-identity-threats-the-muddy-waters-of-residential-proxies</guid>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Shield: Cracking the Limits of Okta FastPass</title>
+      <link>https://www.obsidiansecurity.com/blog/behind-the-shield-cracking-the-limits-of-okta-fastpass</link>
+      <description>Explore the security limits of Okta FastPass. Learn about phishing-resistant authentication, potential weaknesses, and additional protective controls.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-shield-cracking-the-limits-of-okta-fastpass</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
