@@ -434,3 +434,18 @@ feeds:
     home_url: "https://asec.ahnlab.com/en/"
     source_feed_url: "https://asec.ahnlab.com/en/feed/"
     max_items: 50
+
+  - id: "sygnia-blog"
+    type: "passthrough_feed"
+    title: "Sygnia Blog"
+    home_url: "https://sygnia.co/blog/"
+    source_feed_url: "https://sygnia.co/feed"
+    max_items: 50
+
+  - id: "g0njxa-medium"
+    type: "fix_feed"
+    title: "g0njxa (Medium)"
+    home_url: "https://g0njxa.medium.com/"
+    source_feed_url: "https://g0njxa.medium.com/feed/"
+    fixup: "g0njxa"
+    max_items: 50

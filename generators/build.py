@@ -1030,11 +1030,18 @@ def _fixup_coveware(content: str) -> str:
     return content
 
 
+def _fixup_g0njxa(content: str) -> str:
+    """Medium feeds sometimes embed XML 1.0 illegal control characters inside
+    CDATA content blocks, causing strict-parser failures."""
+    return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', content)
+
+
 _FEED_FIXUPS = {
     'upguard':     _fixup_upguard,
     'anyrun':      _fixup_anyrun,
     'trustedsec':  _fixup_trustedsec,
     'coveware':    _fixup_coveware,
+    'g0njxa':      _fixup_g0njxa,
 }
 
 
