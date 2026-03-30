@@ -188,6 +188,10 @@ If you want to change schedule frequency, edit the cron expression in:
 | TrustedSec Blog | [trustedsec.com/blog](https://www.trustedsec.com/blog/) | [trustedsec-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml) |
 | Coveware Blog | [coveware.com/blog](https://www.coveware.com/blog) | [coveware-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/coveware-blog.xml) |
 | AhnLab Security Emergency Response Center (EN) | [asec.ahnlab.com/en](https://asec.ahnlab.com/en/) | [ahnlab-en.xml](https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml) |
+| Sygnia Blog | [sygnia.co/blog](https://sygnia.co/blog/) | [sygnia-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml) |
+| g0njxa (Medium) | [g0njxa.medium.com](https://g0njxa.medium.com/) | [g0njxa-medium.xml](https://fetsoc.github.io/rssfeeds/feeds/g0njxa-medium.xml) |
+| Bridewell Blog | [bridewell.com/insights/blogs](https://www.bridewell.com/insights/blogs/) | [bridewell-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml) |
+| Obsidian Security Blog | [obsidiansecurity.com/blog](https://www.obsidiansecurity.com/blog/) | [obsidian-security-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml) |
 
 ---
 
