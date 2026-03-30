@@ -54,13 +54,18 @@ ENRICH_WORKERS = 8  # concurrent page-fetch threads
 # Common helpers
 # ----------------------------
 def fetch_text(url: str) -> str:
+    import gzip as _gzip
     scraper = cloudscraper.create_scraper()
     r = scraper.get(url, timeout=45)
     r.raise_for_status()
 
-    # Fix mojibake (â€™ etc.) when encoding is missing/wrong
-    r.encoding = r.apparent_encoding or "utf-8"
-    return r.text
+    # Some servers (e.g. Bridewell) gzip-compress sitemaps but omit
+    # Content-Encoding: gzip, serving them as application/octet-stream.
+    # Detect by magic bytes (0x1f 0x8b) and decompress before decoding.
+    raw = r.content
+    if raw[:2] == b'\x1f\x8b':
+        raw = _gzip.decompress(raw)
+    return raw.decode("utf-8", errors="replace")
 
 
 def fetch_json(url: str, headers: Optional[Dict[str, str]] = None) -> Any:
