@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Sophos Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml</link>
+    <description>Generated feed (passthrough_feed)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 13:56:33 +0000</lastBuildDate>
+    <item>
+      <title>Initial access techniques used by Iran-based threat actors</title>
+      <link>https://www.sophos.com/en-us/blog/initial-access-techniques-used-by-iran-based-threat-actors</link>
+      <description>&lt;p&gt;Analysis of attacks originating from Iran-linked threat groups reveals a preference for certain techniques&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Iran, initial access&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/initial-access-techniques-used-by-iran-based-threat-actors</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March Patch Tuesday visits 15 product families</title>
+      <link>https://www.sophos.com/en-us/blog/march-patch-tuesday-visits-15-product-families</link>
+      <description>&lt;p&gt;Eight Critical-severity bugs – none in Windows – appear in 84-CVE haul&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Patch Tuesday, x-ops, Microsoft, Windows, detection&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/march-patch-tuesday-visits-15-product-families</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android devices ship with firmware-level malware</title>
+      <link>https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware</link>
+      <description>&lt;p&gt;Keenadu malware gives an attacker control over a device but appears to be used primarily to facilitate ad fraud&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Android, Keenadu&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-Five: Sophos Ranked Number 1 Overall in Endpoint, EDR, XDR, MDR, and Firewall in the G2 Spring 2026 Reports</title>
+      <link>https://www.sophos.com/en-us/blog/g2-spring-reports-2026-sophos</link>
+      <description>&lt;p&gt;#1 ranked in 78 global reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; MDR, network, Endpoint, Firewall&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/g2-spring-reports-2026-sophos</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle vulnerability (CVE-2026-21992) impacts core products</title>
+      <link>https://www.sophos.com/en-us/blog/oracle-vulnerability-cve-2026-21992-impacts-core-products</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, vulnerability, Oracle&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/oracle-vulnerability-cve-2026-21992-impacts-core-products</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NICKEL ALLEY strategy: Fake it ‘til you make it</title>
+      <link>https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</link>
+      <description>&lt;p&gt;Victimizing software developers via fake companies, jobs, and code repositories to steal cryptocurrency&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; NICKEL ALLEY, Contagious Interview, North Korea, clickfix&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The global CISO landscape: A leadership gap too large to ignore</title>
+      <link>https://www.sophos.com/en-us/blog/2026-ciso-report</link>
+      <description>&lt;p&gt;Why the world needs scalable security leadership — and MSPs and MSSPs are key to delivery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Featured, CISO, Survey&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2026-ciso-report</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity for Education – Sophos Protected Classroom</title>
+      <link>https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Education, Endpoint, NDR, MDR&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
+      <description>&lt;p&gt;Why organizations are choosing Sophos Firewall to reduce exposure and strengthen resilience&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Products&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, G2, Awards&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
