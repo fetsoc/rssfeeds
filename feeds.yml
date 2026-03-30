@@ -395,3 +395,42 @@ feeds:
     api_base: "https://api.attackerkb.com/v1"
     max_items: 20
     max_items: 50
+
+  - id: "upguard-news"
+    type: "fix_feed"
+    title: "UpGuard News"
+    home_url: "https://www.upguard.com/news"
+    source_feed_url: "https://www.upguard.com/news/rss.xml"
+    fixup: "upguard"
+    max_items: 50
+
+  - id: "anyrun-blog"
+    type: "fix_feed"
+    title: "ANY.RUN Cybersecurity Blog"
+    home_url: "https://any.run/cybersecurity-blog/"
+    source_feed_url: "https://any.run/cybersecurity-blog/feed/"
+    fixup: "anyrun"
+    max_items: 50
+
+  - id: "trustedsec-blog"
+    type: "fix_feed"
+    title: "TrustedSec Blog"
+    home_url: "https://www.trustedsec.com/blog/"
+    source_feed_url: "https://www.trustedsec.com/feed.rss"
+    fixup: "trustedsec"
+    max_items: 50
+
+  - id: "coveware-blog"
+    type: "fix_feed"
+    title: "Coveware Blog"
+    home_url: "https://www.coveware.com/blog"
+    source_feed_url: "https://www.coveware.com/blog?format=RSS"
+    fixup: "coveware"
+    max_items: 50
+
+  - id: "ahnlab-en"
+    type: "passthrough_feed"
+    title: "AhnLab Security Emergency Response Center (EN)"
+    home_url: "https://asec.ahnlab.com/en/"
+    source_feed_url: "https://asec.ahnlab.com/en/feed/"
+    max_items: 50

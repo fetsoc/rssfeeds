@@ -987,9 +987,105 @@ def build_attackerkb(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 
 # ----------------------------
+# ----------------------------
+# TEMPLATE TYPE: fix_feed
+# Fetches a broken RSS feed, applies a named fixup to the raw content,
+# then re-parses with feedparser and emits a clean feed.
+# ----------------------------
+
+def _fixup_upguard(content: str) -> str:
+    """Upguard omits the slash between domain and path in <link> elements:
+    https://www.upguard.comnews/... -> https://www.upguard.com/news/..."""
+    return re.sub(r'(https://www\.upguard\.com)([a-zA-Z])', r'\1/\2', content)
+
+
+def _fixup_anyrun(content: str) -> str:
+    """ANY.RUN uses relative paths in <link> elements — make them absolute."""
+    return re.sub(r'<link>(/[^<]+)</link>', lambda m: f'<link>https://any.run{m.group(1)}</link>', content)
+
+
+def _fixup_trustedsec(content: str) -> str:
+    """TrustedSec feed has leading whitespace before the XML declaration
+    which breaks strict XML parsers."""
+    return content.lstrip()
+
+
+_HTML_ENTITIES = [
+    ('&nbsp;', '&#160;'),   ('&mdash;', '&#8212;'),  ('&ndash;', '&#8211;'),
+    ('&lsquo;', '&#8216;'), ('&rsquo;', '&#8217;'),  ('&ldquo;', '&#8220;'),
+    ('&rdquo;', '&#8221;'), ('&hellip;', '&#8230;'),  ('&copy;', '&#169;'),
+    ('&trade;', '&#8482;'), ('&reg;', '&#174;'),      ('&bull;', '&#8226;'),
+    ('&middot;', '&#183;'), ('&laquo;', '&#171;'),    ('&raquo;', '&#187;'),
+    ('&prime;', '&#8242;'), ('&Prime;', '&#8243;'),   ('&minus;', '&#8722;'),
+    ('&times;', '&#215;'),  ('&divide;', '&#247;'),   ('&euro;', '&#8364;'),
+    ('&pound;', '&#163;'),  ('&yen;', '&#165;'),      ('&cent;', '&#162;'),
+]
+
+
+def _fixup_coveware(content: str) -> str:
+    """Replace undefined HTML named entities with numeric equivalents
+    so strict XML parsers can ingest Coveware's feed."""
+    for entity, numeric in _HTML_ENTITIES:
+        content = content.replace(entity, numeric)
+    return content
+
+
+_FEED_FIXUPS = {
+    'upguard':     _fixup_upguard,
+    'anyrun':      _fixup_anyrun,
+    'trustedsec':  _fixup_trustedsec,
+    'coveware':    _fixup_coveware,
+}
+
+
+def build_fix_feed(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    source_url = feed['source_feed_url']
+    fixup_name  = feed.get('fixup')
+    max_items   = int(feed.get('max_items', 50))
+
+    r = requests.get(
+        source_url,
+        headers={'User-Agent': 'Mozilla/5.0 (rssfeeds generator; +https://github.com/fetsoc/rssfeeds)'},
+        timeout=30,
+        allow_redirects=True,
+    )
+    r.raise_for_status()
+    content = r.text
+
+    if fixup_name:
+        fixup_fn = _FEED_FIXUPS.get(fixup_name)
+        if not fixup_fn:
+            raise ValueError(f"fix_feed: unknown fixup '{fixup_name}'")
+        content = fixup_fn(content)
+
+    parsed = feedparser.parse(content)
+    items: List[Dict[str, Any]] = []
+    for e in parsed.entries[:max_items]:
+        url   = getattr(e, 'link', None) or getattr(e, 'id', None)
+        title = getattr(e, 'title', None) or url or 'Untitled'
+
+        published = None
+        if getattr(e, 'published', None):
+            published = safe_parse_date(e.published)
+        elif getattr(e, 'updated', None):
+            published = safe_parse_date(e.updated)
+
+        desc = getattr(e, 'summary', None)
+
+        if url:
+            items.append({'url': url, 'title': title, 'published': published, 'description': desc})
+
+    items.sort(
+        key=lambda x: x['published'] or datetime(1970, 1, 1, tzinfo=timezone.utc),
+        reverse=True,
+    )
+    return items[:max_items]
+
+
 BUILDERS = {
     "sitemap_blog": build_sitemap_blog,
     "passthrough_feed": build_passthrough_feed,
+    "fix_feed": build_fix_feed,
     "html_list": build_html_list,
     "json_api": build_json_api,
     "github_releases": build_github_releases,
