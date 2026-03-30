@@ -442,6 +442,13 @@ feeds:
     source_feed_url: "https://sygnia.co/feed"
     max_items: 50
 
+  - id: "sophos-blog"
+    type: "passthrough_feed"
+    title: "Sophos Blog"
+    home_url: "https://www.sophos.com/en-us/blog"
+    source_feed_url: "https://www.sophos.com/en-us/blog/feed"
+    max_items: 50
+
   - id: "g0njxa-medium"
     type: "fix_feed"
     title: "g0njxa (Medium)"
