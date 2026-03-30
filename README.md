@@ -183,6 +183,11 @@ If you want to change schedule frequency, edit the cron expression in:
 | FalconFeeds Blog | [falconfeeds.io/blogs](https://falconfeeds.io/blogs) | [falconfeeds-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml) |
 | AttackerKB — Recent Assessments | [attackerkb.com](https://attackerkb.com/) | [attackerkb.xml](https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml) |
 | Objective-See | [objective-see.org/blog](https://objective-see.org/blog) | [objective-see.xml](https://fetsoc.github.io/rssfeeds/feeds/objective-see.xml) |
+| UpGuard News | [upguard.com/news](https://www.upguard.com/news) | [upguard-news.xml](https://fetsoc.github.io/rssfeeds/feeds/upguard-news.xml) |
+| ANY.RUN Cybersecurity Blog | [any.run/cybersecurity-blog](https://any.run/cybersecurity-blog/) | [anyrun-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml) |
+| TrustedSec Blog | [trustedsec.com/blog](https://www.trustedsec.com/blog/) | [trustedsec-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml) |
+| Coveware Blog | [coveware.com/blog](https://www.coveware.com/blog) | [coveware-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/coveware-blog.xml) |
+| AhnLab Security Emergency Response Center (EN) | [asec.ahnlab.com/en](https://asec.ahnlab.com/en/) | [ahnlab-en.xml](https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml) |
 
 ---
 
