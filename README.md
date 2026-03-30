@@ -180,6 +180,9 @@ If you want to change schedule frequency, edit the cron expression in:
 | eSentire TRU Intelligence Blog | [esentire.com/resources/tru-intelligence-center](https://www.esentire.com/resources/tru-intelligence-center) | [esentire-tru.xml](https://fetsoc.github.io/rssfeeds/feeds/esentire-tru.xml) |
 | Malpedia — Inventory Updates | [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/) | [malpedia-inventory-updates.xml](https://fetsoc.github.io/rssfeeds/feeds/malpedia-inventory-updates.xml) |
 | Malpedia — New Malware Families | [malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/) | [malpedia-families.xml](https://fetsoc.github.io/rssfeeds/feeds/malpedia-families.xml) |
+| FalconFeeds Blog | [falconfeeds.io/blogs](https://falconfeeds.io/blogs) | [falconfeeds-blog.xml](https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml) |
+| AttackerKB — Recent Assessments | [attackerkb.com](https://attackerkb.com/) | [attackerkb.xml](https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml) |
+| Objective-See | [objective-see.org/blog](https://objective-see.org/blog) | [objective-see.xml](https://fetsoc.github.io/rssfeeds/feeds/objective-see.xml) |
 
 ---
 
