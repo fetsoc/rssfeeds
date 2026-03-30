@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Coveware Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/coveware-blog.xml</link>
+    <description>Generated feed (fix_feed)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/coveware-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 13:08:41 +0000</lastBuildDate>
+    <item>
+      <title>Ransomware Threat Actors Pivot from Big Game to Big Shame Hunting</title>
+      <link>https://www.coveware.com/blog/2022/5/3/ransomware-threat-actors-pivot-from-big-game-to-big-shame-hunting</link>
+      <description>Less Victims of Ransomware are Paying, even as Cybercriminals Shift from 
+Big Game to Big Shame Hunting</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2022/5/3/ransomware-threat-actors-pivot-from-big-game-to-big-shame-hunting</guid>
+      <pubDate>Tue, 03 May 2022 22:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>HSGAC Hearing Recap: Ransomware Attacks and Ransom Payments Enabled by Cryptocurrency</title>
+      <link>https://www.coveware.com/blog/ransomware-attacks-and-ransom-payments-enabled-by-cryptocurrency</link>
+      <description>During a recent HSGAC hearing, Coveware had the opportunity to provide 
+testimony on how ransomware attacks are impacting US companies, and the 
+importance mandatory reporting.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/ransomware-attacks-and-ransom-payments-enabled-by-cryptocurrency</guid>
+      <pubDate>Tue, 14 Jun 2022 14:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fewer Ransomware Victims Pay, as Median Ransom Falls in Q2 2022</title>
+      <link>https://www.coveware.com/blog/2022/7/27/fewer-ransomware-victims-pay-as-medium-ransom-falls-in-q2-2022</link>
+      <description>Ransomware actors became more fluid in Q2 2022 as attribution becomes 
+harder, and fewer victims succumb to paying cyber criminals.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2022/7/27/fewer-ransomware-victims-pay-as-medium-ransom-falls-in-q2-2022</guid>
+      <pubDate>Thu, 28 Jul 2022 13:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber Verdict Raises New Risks for Ransom Payments</title>
+      <link>https://www.coveware.com/blog/2022/10/26/q3-2022-quarterly-report</link>
+      <description>The conviction of a high profile security executive who paid to suppress a 
+data leak has created a new dimension of risk for security executives.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2022/10/26/q3-2022-quarterly-report</guid>
+      <pubDate>Wed, 26 Oct 2022 16:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improved Security and Backups Result in Record Low Number of Ransomware Payments</title>
+      <link>https://www.coveware.com/blog/2023/1/19/improved-security-and-backups-result-in-record-low-number-of-ransomware-payments</link>
+      <description>Only 37% of ransomware victims paid a ransom in Q4, a record low as 
+security and backup continuity investments pay off.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2023/1/19/improved-security-and-backups-result-in-record-low-number-of-ransomware-payments</guid>
+      <pubDate>Fri, 20 Jan 2023 15:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Game Hunting is back despite decreasing Ransom Payment Amounts</title>
+      <link>https://www.coveware.com/blog/2023/4/28/big-game-hunting-is-back-despite-decreasing-ransom-payment-amounts</link>
+      <description>Ransomware threat actors are moving back up-market in search of lost 
+profits as the cyber extortion economy seeks to halt its contraction.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2023/4/28/big-game-hunting-is-back-despite-decreasing-ransom-payment-amounts</guid>
+      <pubDate>Fri, 28 Apr 2023 23:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom Monetization Rates Fall to Record Low Despite Jump In Average Ransom Payments</title>
+      <link>https://www.coveware.com/blog/2023/7/21/ransom-monetization-rates-fall-to-record-low-despite-jump-in-average-ransom-payments</link>
+      <description>As ransomware affiliates are paid less frequently, they have adapted their 
+strategies to compensate for the shifting dynamics of cyber extortion.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2023/7/21/ransom-monetization-rates-fall-to-record-low-despite-jump-in-average-ransom-payments</guid>
+      <pubDate>Fri, 21 Jul 2023 16:33:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scattered Ransomware Attribution Blurs Focus on IR Fundamentals</title>
+      <link>https://www.coveware.com/blog/2023/10/27/scattered-ransomware-attribution-blurs-focus-on-ir-fundamentals</link>
+      <description>In Q3 2023 a series of ransomware attacks by similar threat actors created 
+headlines and blurred the lines of attribution.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2023/10/27/scattered-ransomware-attribution-blurs-focus-on-ir-fundamentals</guid>
+      <pubDate>Mon, 30 Oct 2023 15:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Ransomware Reporting Requirements Kick in as Victims Increasingly Avoid Paying</title>
+      <link>https://www.coveware.com/blog/2024/1/25/new-ransomware-reporting-requirements-kick-in-as-victims-increasingly-avoid-paying</link>
+      <description>A lower percentage of ransomware victims are paying, as new regulations 
+begin to elicit more and more public disclosure of ransomware incidents.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2024/1/25/new-ransomware-reporting-requirements-kick-in-as-victims-increasingly-avoid-paying</guid>
+      <pubDate>Fri, 26 Jan 2024 16:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RaaS devs hurt their credibility by cheating affiliates in Q1 2024</title>
+      <link>https://www.coveware.com/blog/2024/4/17/raas-devs-hurt-their-credibility-by-cheating-affiliates-in-q1-2024</link>
+      <description>RaaS developers were caught cheating their affiliates, shaking the trust in 
+the RaaS model following several high profile law enforcement actions.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2024/4/17/raas-devs-hurt-their-credibility-by-cheating-affiliates-in-q1-2024</guid>
+      <pubDate>Wed, 17 Apr 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware actors pivot away from major brands in Q2 2024</title>
+      <link>https://www.coveware.com/blog/2024/7/29/ransomware-actors-pivot-away-from-major-brands-in-q2-2024</link>
+      <description>Unaffiliated ‘lone wolf’ threat actors carry out a greater share of attacks 
+as they attempt to obfuscate their identity in Q2 2024.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2024/7/29/ransomware-actors-pivot-away-from-major-brands-in-q2-2024</guid>
+      <pubDate>Tue, 30 Jul 2024 15:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law enforcement doxxing raises risk profile for threat actors</title>
+      <link>https://www.coveware.com/blog/2024/11/1/law-enforcement-doxxing-raises-risk-profile-for-threat-actors</link>
+      <description>In Q3 2024 Law enforcement actions disrupted infrastructure and publicized 
+the identity of several prolific ransomware threat actors</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2024/11/1/law-enforcement-doxxing-raises-risk-profile-for-threat-actors</guid>
+      <pubDate>Fri, 01 Nov 2024 19:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Misleading Metrics: Unraveling Ransom Payment Statistics in Australia</title>
+      <link>https://www.coveware.com/blog/2024/12/3/misleading-metrics-unraveling-ransom-payment-statistics-in-australia</link>
+      <description>A recent Australian Financial Review (AFR) article contained statistics 
+about ransomware payment trends that require some deeper inspection.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2024/12/3/misleading-metrics-unraveling-ransom-payment-statistics-in-australia</guid>
+      <pubDate>Tue, 03 Dec 2024 19:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will Law Enforcement success against ransomware continue in 2025?</title>
+      <link>https://www.coveware.com/blog/2025/1/31/q4-report</link>
+      <description>2024 was a banner year for Law enforcement agency actions against 
+ransomware and cybercrime groups. Will the new administration ensure this 
+momentum continues?</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2025/1/31/q4-report</guid>
+      <pubDate>Tue, 04 Feb 2025 16:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The organizational structure of ransomware threat actor groups is evolving before our eyes</title>
+      <link>https://www.coveware.com/blog/2025/4/29/the-organizational-structure-of-ransomware-threat-actor-groups-is-evolving-before-our-eyes</link>
+      <description>The Ransomware-as-a-service (RaaS) model has not recovered from law 
+enforcement disruption, and the entrance of novice actors along with 
+non-Russian state-linked cybercriminals has led to uncertain outcomes for 
+victims.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2025/4/29/the-organizational-structure-of-ransomware-threat-actor-groups-is-evolving-before-our-eyes</guid>
+      <pubDate>Thu, 01 May 2025 18:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Targeted social engineering is en vogue as ransom payment sizes increase</title>
+      <link>https://www.coveware.com/blog/2025/7/21/targeted-social-engineering-is-en-vogue-as-ransom-payment-sizes-increase</link>
+      <description>Several ransomware groups used highly targeted social engineering tactics 
+to create a major impact across several industry sectors in Q2 2025.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2025/7/21/targeted-social-engineering-is-en-vogue-as-ransom-payment-sizes-increase</guid>
+      <pubDate>Wed, 23 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insider Threats Loom while Ransom Payment Rates Plummet</title>
+      <link>https://www.coveware.com/blog/2025/10/24/insider-threats-loom-while-ransom-payment-rates-plummet</link>
+      <description>The percentage of companies choosing to pay ransoms dropped significantly, 
+while threat actors shift their tactics in response to decreasing profits.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2025/10/24/insider-threats-loom-while-ransom-payment-rates-plummet</guid>
+      <pubDate>Fri, 24 Oct 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obscura Ransomware: A Case Study in Ransomware Data Loss</title>
+      <link>https://www.coveware.com/blog/2025/11/18/obscura-ransomware-data-loss-validation</link>
+      <description>Discover how Obscura ransomware corrupts encrypted files beyond recovery, 
+and why technical validation is key to smart ransom response decisions</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2025/11/18/obscura-ransomware-data-loss-validation</guid>
+      <pubDate>Wed, 19 Nov 2025 17:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nitrogen Ransomware: ESXi malware has a bug!</title>
+      <link>https://www.coveware.com/blog/2026/2/2/nitrogen-ransomware-esxi-malware-has-a-bug</link>
+      <description>Nitrogen ransomware was derived from the previously leaked Conti 2 builder 
+code, and is similar to Nitrogen ransomware, but a coding mistake in the 
+ESXi malware causes it to encrypt all the files with the wrong public key, 
+irrevocably corrupting them. This means that even the threat actor is 
+incapable of decrypting them, and that victims that are without viable 
+backups have no ability to recover their ESXi encrypted servers. Paying a 
+ransom will not assist these victims, as the decryption key/ tool will not 
+work.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2026/2/2/nitrogen-ransomware-esxi-malware-has-a-bug</guid>
+      <pubDate>Mon, 02 Feb 2026 17:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Zero-Day Downstream Mass Data Extortion Campaigns are Losing Their Bite</title>
+      <link>https://www.coveware.com/blog/2026/2/3/mass-data-exfiltration-campaigns-lose-their-edge-in-q4-2025</link>
+      <description>Are we seeing the extinction of mass data exfiltration campaigns? The stats 
+demonstrate these attacks are losing their efficacy.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2026/2/3/mass-data-exfiltration-campaigns-lose-their-edge-in-q4-2025</guid>
+      <pubDate>Wed, 04 Feb 2026 00:59:44 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

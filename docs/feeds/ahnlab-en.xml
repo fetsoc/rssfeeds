@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AhnLab Security Emergency Response Center (EN)</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml</link>
+    <description>Generated feed (passthrough_feed)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 13:08:43 +0000</lastBuildDate>
+    <item>
+      <title>Remcos RAT Being Distributed to Korean Users</title>
+      <link>https://asec.ahnlab.com/en/92160/</link>
+      <description>AhnLab SEcurity intelligence Center (ASEC) has confirmed the RAT distribution of the Remcos RAT targeting users in South Korea. While the original distribution pages remain unknown, the malware appears to masquerade as VeraCrypt installers or software associated with illegal gambling websites. &amp;#160; 1. Malware Distribution One of the initial malware samples displays an interface labeled [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92160/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2025 APT Group Trends</title>
+      <link>https://asec.ahnlab.com/en/92184/</link>
+      <description>&amp;#160; Key APT Group Trends by Region &amp;#160; 1) North Korea &amp;#160; North Korean state‑sponsored threat groups have increasingly relied on fake IT employment schemes, actively exploiting legitimate hiring platforms and fabricated identities to infiltrate corporate environments. These actors frequently take advantage of remote‑work infrastructures to obtain elevated access and conduct long‑term social engineering operations [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92184/</guid>
+      <pubDate>Sun, 18 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proxyware Disguised as Notepad++ Tool</title>
+      <link>https://asec.ahnlab.com/en/92183/</link>
+      <description>AhnLab SEcurity intelligence Center(ASEC) is monitoring Proxyjacking attacks and continuously disclosing distribution cases and IoCs identified in South Korea. The threat actor Larva‑25012, known for deploying Proxyware, has recently begun using malware disguised as a Notepad++ installer. In addition, the attacker is actively changing techniques to evade detection—such as injecting Proxyware into the Windows Explorer [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92183/</guid>
+      <pubDate>Sun, 18 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2025 Security Issues in Korean &amp; Global Financial Sector</title>
+      <link>https://asec.ahnlab.com/en/92207/</link>
+      <description>This report comprehensively covers real-world cyber threats and security issues that have occurred in the financial industry in Korea and worldwide. It includes an analysis of malware and phishing cases targeting the financial industry, a list of the top 10 malware strains targeting the industry, and statistics on the sectors of Korean accounts leaked on [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92207/</guid>
+      <pubDate>Tue, 20 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web  Issues Week 3, January 2026</title>
+      <link>https://asec.ahnlab.com/en/92258/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, January 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Qilin Ransomware Targets Korean Specialist in Semiconductor/Display Components &amp;#38; Surface Treatment U.S. DOJ: Access Broker &amp;#8220;r1z&amp;#8221; Pleads Guilty Qilin Ransomware Targets Vietnam’s National Airlines</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92258/</guid>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detection of Recent RMM Distribution Cases Using AhnLab EDR</title>
+      <link>https://asec.ahnlab.com/en/92319/</link>
+      <description>AhnLab SEcurity intelligence Center (ASEC) has recently observed an increase in attack cases exploiting Remote Monitoring and Management (RMM) tools. Whereas attackers previously exploited remote control tools during the process of seizing control after initial penetration, they now increasingly leverage RMM tools even during the initial distribution phase across diverse attack scenarios. This article covers [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92319/</guid>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, January 2026</title>
+      <link>https://asec.ahnlab.com/en/92387/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, January 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Ransomware Group 0APT and BravoX Identified [1], [2] RAMP Cybercrime Forum Domains Seized by FBI and DOJ World Leaks Targets U.S. Global Sportswear Company in Ransomware Attack</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92387/</guid>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, Fabruary 2026</title>
+      <link>https://asec.ahnlab.com/en/92483/</link>
+      <description>ASEC Blog publishes&amp;#160;Ransom &amp;#38; Dark Web Issues Week 1, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Qilin Targets South Korean Public Broadcaster with Ransomware Confidential Military Data from U.S. Aerospace Composites Manufacturer Sold on BreachForums ShinyHunters Leaks Data from Two Prestigious U.S. Private Universities</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92483/</guid>
+      <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Phishing Email Trends Report</title>
+      <link>https://asec.ahnlab.com/en/92621/</link>
+      <description>This report provides the distribution quantity, statistics, trends, and case information on phishing emails and email threats collected and analyzed for one month in January 2026. The following are some statistics and cases included in the original report. 1) Phishing Email Threat Statistics In January 2026, the most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92621/</guid>
+      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/92620/</link>
+      <description>This report provides the number of affected systems confirmed during&amp;#160;January 2026, DLS-based ransomware-related statistics, and notable ransomware issues in Korea and abroad. Below is a summary of some information. &amp;#160; The statistics on the number of ransomware samples and affected systems were based on the diagnostic names assigned by AhnLab, and the statistics on ransomware-affected [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92620/</guid>
+      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web  Issues Week 2, February 2026</title>
+      <link>https://asec.ahnlab.com/en/92536/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, February 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Beast, Ransomware Attack Targeting a South Korean Aerospace Component Manufacturer RipperSec, Claims of DDoS Attacks Targeting South Korean Exhibition Centers, Military Training Grounds, Associations, and Defense-related Companies [1], [2], [3], [4] NoName05716, Claims of DDoS Attacks Targeting the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92536/</guid>
+      <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 APT Group Trends Report</title>
+      <link>https://asec.ahnlab.com/en/92627/</link>
+      <description>&amp;#160; Key APT Groups &amp;#160; Sandworm attempted to destroy OT and IT equipment using DynoWiper after exploiting a vulnerable configuration of FortiGate, targeting at least 30 energy facilities, including wind and solar power plants in Poland, by the end of December 2025. They directly damaged RTUs, IEDs, and serial devices or manipulated settings to cause [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92627/</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Security Issues in Korean &amp; Global Financial Sector</title>
+      <link>https://asec.ahnlab.com/en/92626/</link>
+      <description>This report comprehensively addresses actual cyber threats and related security issues that have occurred in domestic and international financial sector companies. It includes an analysis of malware and phishing cases disseminated targeting the financial sector, presents the top 10 major malware aimed at the financial sector, and provides statistics on industries of domestic accounts leaked [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92626/</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/92646/</link>
+      <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, Fabruary 2026</title>
+      <link>https://asec.ahnlab.com/en/92636/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Anubis and The Gentlemen launch ransomware attacks targeting a South Korean plastics manufacturer and an IT consulting company [1], [2] Emergence of the new ransomware group Payload ShinyHunters claims data breach involving a well-known Canadian apparel manufacturer</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92636/</guid>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Threat Trend Report on APT Attacks (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/92685/</link>
+      <description>Overview &amp;#160; Ahnlabs is monitoring APT (Advanced Persistent Threat) attacks in South Korea by utilizing their own infrastructure. This report covers the classification, statistics, and features of APT attacks in South Korea that were identified in January 2026. Figure 1. Statistics of APT attacks in South Korea in January 2026 Most of the APT attacks [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92685/</guid>
+      <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, Fabruary 2026</title>
+      <link>https://asec.ahnlab.com/en/92706/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Source code of a South Korean accounting automation solution provider sold on BreachForums Beast ransomware attack targeting a South Korean pharmaceutical company and battery safety component manufacturer [1], [2] Atomsilo resumes activity and discloses new victim</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92706/</guid>
+      <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>복호화 가능성이 존재하는 Green Blood 랜섬웨어 분석</title>
+      <link>https://asec.ahnlab.com/en/92974/</link>
+      <description>Green Blood 랜섬웨어 그룹은 2026년 1월부터 활동이 확인된 신규 랜섬웨어 그룹으로, Golang 기반의 랜섬웨어 페이로드를 운영하는 것이 특징이다. 이들은 남아시아와 아프리카, 남미 일부 국가를 중심으로 공격을 전개하고 있으며, 다른 랜섬웨어 그룹과 마찬가지로 감염된 시스템의 파일을 암호화하고 피해 기업의 민감 정보를 탈취하는 이중 갈취 방식을 사용한다. 또한 몸값이 지불되지 않을 경우 복호화 키를 영구적으로 파기하겠다는 협박성 [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92974/</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92815/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Morpheus Launches Ransomware Attack on South Korean Plating Company Ailock Resumes Activity and Republishes Previous Ransomware Victims Pro-Iranian and Pro-Islamist Hacktivist Groups Launch Cyber Attacks on Middle Eastern and Pro-Western Targets [1], [2]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92815/</guid>
+      <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
+      <link>https://asec.ahnlab.com/en/92997/</link>
+      <description>The Green Blood ransomware group, which has been active since January 2026, has been targeting countries in South Asia, Africa, and parts of South America, and is characterized by its Golang-based ransomware payload. In this post, we analyze the main characteristics of the Green Blood ransomware, its encryption method, and the technical reasons why it [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92997/</guid>
+      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 Phishing Email Trends Report</title>
+      <link>https://asec.ahnlab.com/en/92907/</link>
+      <description>This report provides statistics, trends, and case information regarding the distribution volume and attachment threats of phishing emails collected and analyzed during the month of February 2026. The report below contains some statistical data and cases included in the original content. 1) Phishing Email Threat Statistics The most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92907/</guid>
+      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 Security Issues Related to the Korean &amp; Global Financial Sector</title>
+      <link>https://asec.ahnlab.com/en/92903/</link>
+      <description>This report comprehensively covers actual cyber threats and related security issues targeting financial institutions in South Korea and abroad. It includes analysis of malware and phishing cases distributed targeting the financial sector, presents the Top 10 major malware targeting the financial sector, and provides statistics on the industry sectors of South Korean accounts leaked via [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92903/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/92902/</link>
+      <description>This report provides statistics, trends, and case information regarding the no. of malware distribution cases, distribution methods, and disguise techniques for Infostealer collected and analyzed during the month of February 2026. Below is a summary of the report&amp;#8217;s original content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab SEcurity intelligence Center (ASEC) operates various systems [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92902/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 APT Group Trends Report</title>
+      <link>https://asec.ahnlab.com/en/92906/</link>
+      <description>Key APT Groups &amp;#160; Among the activities of APT groups in February 2026, attacks by APT28, Lotus Blossom, TA-RedAnt (APT37), UAT-8616, UNC3886, and UNC6201 were particularly prominent. &amp;#160; Lotus Blossom exploited the Notepad++ supply chain infrastructure to inject malicious executables into legitimate update processes, combining DLL sideloading with multi-stage loaders to deploy the Chrysalis backdoor [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92906/</guid>
+      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 2, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92888/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Qilin ransomware attack targeting a well-known dermatology clinic in South Korea and the Korean branch of a global advertising company [1], [2] KillSec and Everest ransomware attacks targeting a South Korean exhibition management platform and an elevator manufacturer [1], [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92888/</guid>
+      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winos4.0 Malware Disguised as KakaoTalk Installer</title>
+      <link>https://asec.ahnlab.com/en/92971/</link>
+      <description>Distribution Method &amp;#8211; SEO Poisoning Typically, people perceive the sites that appear at the top of Google search results as the &amp;#8220;most authoritative and official&amp;#8221; sites. however, threat actors are playing on the psychology of such users, manipulating the search engine&amp;#8217;s algorithms to place malicious sites at the top. SEO poisoning is an attack technique [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92971/</guid>
+      <pubDate>Sun, 15 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92978/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Threat Actor CipherForce Claims Cyberattack on South Korean Job Portal New Threat Actor Loki Emerges, Leaks US Citizens&amp;#8217; Personal Data Cybercrime Forum LeakBase Shut Down Again by Russian Authorities</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92978/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 APT Attack Trends Report (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/92972/</link>
+      <description>Overview &amp;#160; AhnLab utilizes its infrastructure to monitor for Advanced Persistent Threat (APT) attacks in South Korea. This report covers the classification and statistics on APT attacks on South Korea targets identified during the month of February 2026, and introduces the features of each type.&amp;#160; Figure 1. Statistics on APT attacks in Korea in February [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Targeting MS‑SQL Servers to Deploy the ICE Cloud Scanner (Larva-26002)</title>
+      <link>https://asec.ahnlab.com/en/92988/</link>
+      <description>AhnLab SEcurity intelligence Center (ASEC) has confirmed that the Larva-26002 threat actor continues to target improperly managed MS-SQL servers in 2026. The Larva-26002 threat actor has distributed Trigona and Mimic ransomware in the past, and has since seized control of infected systems and installed scanners. The latest confirmed attack utilizes the ICE Cloud Client, a [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92988/</guid>
+      <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, March 2026</title>
+      <link>https://asec.ahnlab.com/en/93059/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Japanese Automaker Suffers Personal Data Breach via Unauthorized External Access INC Ransom Targets South Korean Steel Manufacturer in Ransomware Attack LeakBase Forum Administrator Arrested in Russia</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93059/</guid>
+      <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

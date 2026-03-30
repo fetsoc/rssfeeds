@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ANY.RUN Cybersecurity Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml</link>
+    <description>Generated feed (fix_feed)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 13:08:40 +0000</lastBuildDate>
+    <item>
+      <title>ANY.RUN at RootedCON 2026: Meeting Security Teams and Showcasing New Capabilities</title>
+      <link>https://any.run/cybersecurity-blog/anyrun-rootedcon-2026/</link>
+      <description>&lt;p&gt;From March 5 to March 7, the&amp;#160;ANY.RUN&amp;#160;team attended&amp;#160;RootedCON&amp;#160;2026 in Madrid and&amp;#160;showcase&amp;#160;some of&amp;#160;our&amp;#160;latest capabilities developed for modern SOC environments at the conference expo.&amp;#160; The event&amp;#160;provided&amp;#160;a great opportunity&amp;#160;to meet&amp;#160;our existing clients&amp;#160;and&amp;#160;connect&amp;#160;with security teams exploring advanced threat detection&amp;#160;solutions.&amp;#160; Meeting the Community and Partners&amp;#160; RootedCON&amp;#160;is&amp;#160;one of the largest cybersecurity conferences in Europe, bringing together thousands of security researchers, SOC [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/anyrun-rootedcon-2026/" rel="nofollow"&gt;ANY.RUN at RootedCON 2026: Meeting Security Teams and Showcasing New Capabilities &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-rootedcon-2026/</guid>
+      <pubDate>Mon, 16 Mar 2026 10:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lazarus, AI, and Trust Abuse: Top Enterprise Cybersecurity Risks 2026</title>
+      <link>https://any.run/cybersecurity-blog/enterprise-cybersecurity-risks-2026/</link>
+      <description>&lt;p&gt;As&amp;#160;part of&amp;#160;a&amp;#160;recent&amp;#160;live expert panel,&amp;#160;ANY.RUN&amp;#160;together with&amp;#160;threat researcher and ethical hacker Mauro Eldritch&amp;#160;explored biggest security risks companies should be prepared for&amp;#160;in 2026.&amp;#160; The discussion covered several relevant cases, from the Lazarus IT&amp;#160;Workers&amp;#160;operation to the rapid rise of AI-driven phishing&amp;#160;attacks, and&amp;#160;examined the common thread behind them: trust abuse.&amp;#160; Below are the key takeaways for&amp;#160;those&amp;#160;seeking a clearer view of [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/enterprise-cybersecurity-risks-2026/" rel="nofollow"&gt;Lazarus, AI, and Trust Abuse: Top Enterprise Cybersecurity Risks 2026 &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/enterprise-cybersecurity-risks-2026/</guid>
+      <pubDate>Tue, 17 Mar 2026 09:47:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Reduce MTTR in Your SOC with Better Threat Intelligence</title>
+      <link>https://any.run/cybersecurity-blog/reduce-soc-mttr-with-ti/</link>
+      <description>&lt;p&gt;MTTR&amp;#160;is&amp;#160;where&amp;#160;strategy&amp;#160;meets&amp;#160;reality.&amp;#160;In security operations, it is the margin between a contained incident and a catastrophic breach.&amp;#160; You can have perfect detection coverage, cutting-edge telemetry, and a wall of dashboards glowing like a spaceship cockpit. But if your team takes too long to respond, the attacker still wins the clock. Reducing&amp;#160;Mean&amp;#160;Time&amp;#160;to&amp;#160;Respond&amp;#160;is&amp;#160;not&amp;#160;about&amp;#160;shaving&amp;#160;seconds&amp;#160;for&amp;#160;vanity&amp;#160;metrics. It&amp;#160;is&amp;#160;about&amp;#160;compressing&amp;#160;the&amp;#160;window&amp;#160;in&amp;#160;which&amp;#160;damage&amp;#160;happens. And&amp;#160;the&amp;#160;fastest&amp;#160;way&amp;#160;to&amp;#160;do&amp;#160;that&amp;#160;is&amp;#160;not&amp;#160;more&amp;#160;alerts,&amp;#160;but&amp;#160;better&amp;#160;intelligence.&amp;#160; Key Takeaways&amp;#160; Beyond the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/reduce-soc-mttr-with-ti/" rel="nofollow"&gt;How to Reduce MTTR in Your SOC with Better Threat Intelligence&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/reduce-soc-mttr-with-ti/</guid>
+      <pubDate>Wed, 18 Mar 2026 10:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ready for macOS Threats: Expanding Your SOC’s Cross-Platform Analysis with ANY.RUN</title>
+      <link>https://any.run/cybersecurity-blog/anyrun-macos-sandbox/</link>
+      <description>&lt;p&gt;Enterprise security teams are no longer defending a single-platform environment. They are expected&amp;#160;to&amp;#160;investigate threats&amp;#160;across multiple platforms every day,&amp;#160;often under constant pressure to move faster and make the right call early.&amp;#160;When analysis workflows are split across different tools and environments, triage slows down, investigations take longer, and&amp;#160;business&amp;#160;risks&amp;#160;grow.&amp;#160; To help SOC and MSSP teams handle cross-platform threats [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/anyrun-macos-sandbox/" rel="nofollow"&gt;Ready for macOS Threats: Expanding Your SOC’s Cross-Platform Analysis with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-macos-sandbox/</guid>
+      <pubDate>Thu, 19 Mar 2026 13:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN Enters IT-Harvest’s 2026 Cyber 150 for Fast Growth and Industry Impact</title>
+      <link>https://any.run/cybersecurity-blog/anyrun-harvest-cyber-150-2026/</link>
+      <description>&lt;p&gt;We’re&amp;#160;thrilled to announce that&amp;#160;ANY.RUN&amp;#160;has once again been recognized in IT-Harvest’s 2026 Cyber 150, a list of the fastest-growing cybersecurity companies. Receiving this recognition&amp;#160;for the second year in a row&amp;#160;makes this moment especially meaningful and reflects the strong progress our company made over the past year.&amp;#160; It also points to a broader shift in the market. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/anyrun-harvest-cyber-150-2026/" rel="nofollow"&gt;ANY.RUN Enters IT-Harvest’s 2026 Cyber 150 for Fast Growth and Industry Impact &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-harvest-cyber-150-2026/</guid>
+      <pubDate>Fri, 20 Mar 2026 09:57:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN</title>
+      <link>https://any.run/cybersecurity-blog/healthcare-success-story/</link>
+      <description>&lt;p&gt;ANY.RUN&amp;#160;spoke with the Interim CISO&amp;#160;and&amp;#160;Director of Cyber Operations at&amp;#160;Health Shared Services,&amp;#160;who provided&amp;#160;insights into&amp;#160;how their team&amp;#160;addressed&amp;#160;alert fatigue, improved&amp;#160;MTTD and MTTR, and strengthened&amp;#160;their investigation workflow with ANY.RUN.&amp;#160; In this new addition to our&amp;#160;success story series,&amp;#160;we&amp;#160;explore&amp;#160;how the&amp;#160;healthcare&amp;#160;organization’s&amp;#160;SOC team&amp;#160;improved detection, triage, and response efficiency while&amp;#160;maintaining&amp;#160;the existing operational processes.&amp;#160; Organization Overview&amp;#160; Health Shared&amp;#160;Services&amp;#160;is a&amp;#160;healthcare&amp;#160;support organization&amp;#160;based in&amp;#160;Alberta, Canada.&amp;#160;&amp;#160;Its&amp;#160;SOC team&amp;#160;consists of 16 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/healthcare-success-story/" rel="nofollow"&gt;Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/healthcare-success-story/</guid>
+      <pubDate>Tue, 24 Mar 2026 10:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide</title>
+      <link>https://any.run/cybersecurity-blog/kamasers-technical-analysis/</link>
+      <description>&lt;p&gt;DDoS attacks are no longer only an infrastructure problem. They can quickly turn into a business issue, affecting uptime, customer experience, and operational stability. Kamasers is a strong example of this new reality, with broad attack capabilities and resilient command-and-control mechanisms that allow it to remain active under pressure. Let’s explore the Kamasers botnet through [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/kamasers-technical-analysis/" rel="nofollow"&gt;Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/kamasers-technical-analysis/</guid>
+      <pubDate>Wed, 25 Mar 2026 10:20:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN Recognized for Innovations and Market Leadership at Global InfoSec Awards 2026</title>
+      <link>https://any.run/cybersecurity-blog/global-infosec-awards-2026/</link>
+      <description>&lt;p&gt;ANY.RUN has been recognized at Global InfoSec Awards 2026 by Cyber Defense Magazine (CDM), the industry’s leading electronic information security magazine. The award ceremony took place during RSAC™ 2026 conference. We&amp;#8217;re&amp;#160;especially&amp;#160;proud and grateful that our impact for the industry has been&amp;#160;acknowledged&amp;#160;in two categories&amp;#160;at once:&amp;#160; This dual recognition reflects the approach to cybersecurity we&amp;#160;prioritize:&amp;#160;supporting&amp;#160;the full SOC [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/global-infosec-awards-2026/" rel="nofollow"&gt;ANY.RUN Recognized for Innovations and Market Leadership at Global InfoSec Awards 2026  &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/global-infosec-awards-2026/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud</title>
+      <link>https://any.run/cybersecurity-blog/banks-magecart-campaign/</link>
+      <description>&lt;p&gt;A large-scale magecart operation remained active for over 24 months, leveraging an infrastructure of 100+ domains. While the targeted victims are e-commerce websites, the actual pressure falls on banks and payment systems. As&amp;#160;ANY.RUN’s&amp;#160;analysis&amp;#160;shows, threat actors applied multi-step checkout hijacking, payment&amp;#160;page&amp;#160;mimicry,&amp;#160;and&amp;#160;WebSocket-based&amp;#160;exfiltration of card data.&amp;#160; This report provides both&amp;#160;executive-level insights&amp;#160;and&amp;#160;technical&amp;#160;analysis&amp;#160;of the campaign.&amp;#160; Key Takeaways&amp;#160; Campaign Overview&amp;#160; A [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/banks-magecart-campaign/" rel="nofollow"&gt;Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/banks-magecart-campaign/</guid>
+      <pubDate>Thu, 26 Mar 2026 10:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN at RSAC™ 2026: Highlights &amp; Industry Recognition</title>
+      <link>https://any.run/cybersecurity-blog/rsac-2026-highlights/</link>
+      <description>&lt;p&gt;We’ve&amp;#160;just returned from&amp;#160;RSAC™ 2026&amp;#160;in San Francisco, one of the most important cybersecurity events of the year.&amp;#160; As always, the conference brought together security leaders, vendors, and practitioners from around the world. For the&amp;#160;ANY.RUN team, it was a packed few days of meetings with customers and partners, insightful presentations, and strong industry recognition.&amp;#160; ANY.RUN at RSAC [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/rsac-2026-highlights/" rel="nofollow"&gt;ANY.RUN at RSAC™ 2026: Highlights &amp;amp; Industry Recognition&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/rsac-2026-highlights/</guid>
+      <pubDate>Mon, 30 Mar 2026 11:03:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>TrustedSec Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml</link>
+    <description>Generated feed (fix_feed)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 13:08:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated GSA Contractor CUI Protection Requirements</title>
+      <link>https://trustedsec.com/blog/updated-gsa-contractor-cui-protection-requirements</link>
+      <description>&amp;lt;p&amp;gt;CMMC has been getting much of the Controlled Unclassified Information (CUI) attention lately due to the size of the defense industrial base, but General Services Administration (GSA) requirements for protecting CUI are…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/updated-gsa-contractor-cui-protection-requirements</guid>
+      <pubDate>Tue, 17 Feb 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notepad++ Plugins: Plug and Payload</title>
+      <link>https://trustedsec.com/blog/notepad-plugins-plug-and-payload</link>
+      <description>&amp;lt;p&amp;gt;Notepad++ has been in the news recently for a breach of infrastructure associated with the Notepad++ updater. This attack may have allowed an adversary to deliver backdoored updates which could allow arbitrary code…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/notepad-plugins-plug-and-payload</guid>
+      <pubDate>Thu, 19 Feb 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Detection Foundation: Part 1 - The Single-Source Problem</title>
+      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-1-the-single-source-problem</link>
+      <description>&amp;lt;p&amp;gt;The Uncomfortable Truth About Your Telemetry Let me start with an observation that might hit close to home. In my years working Incident Response cases and running Tabletop Exercises, I&amp;amp;#039;ve noticed a pattern that…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-1-the-single-source-problem</guid>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Detection Foundation: Part 2 - Windows Security Events</title>
+      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-2-windows-security-events</link>
+      <description>&amp;lt;p&amp;gt;The Audit Policies Nobody ConfiguresIn Part 1, we looked at why relying on a single telemetry source is a recipe for blind spots. Now let&amp;amp;#039;s get practical. Windows has a rich set of security auditing capabilities…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-2-windows-security-events</guid>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Detection Foundation: Part 3 - PowerShell and Script Logging</title>
+      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-3-powershell-and-script-logging</link>
+      <description>&amp;lt;p&amp;gt;The Second Most Important Data Source You&amp;amp;#039;re Probably Not CapturingIn Part 2, we enabled process creation logging with command lines. That&amp;amp;#039;s a big step forward. But here&amp;amp;#039;s the thing about PowerShell:…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-3-powershell-and-script-logging</guid>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LnkMeMaybe - A Review of CVE-2026-25185</title>
+      <link>https://trustedsec.com/blog/lnkmemaybe-a-review-of-cve-2026-25185</link>
+      <description>&amp;lt;p&amp;gt;A Windows shortcut (.lnk) seems very simple on the surface. It is a file that points somewhere and tells the system to open or execute a resource. A shortcut is relatively easy to overlook and can be spoofed to look…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/lnkmemaybe-a-review-of-cve-2026-25185</guid>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Better Together: Combining Automation and Manual Testing</title>
+      <link>https://trustedsec.com/blog/better-together-combining-automation-and-manual-testing</link>
+      <description>&amp;lt;p&amp;gt;When I started working in mobile application security in 2018, most testing was still largely manual. Since then, the ecosystem has exploded with scanners, frameworks, and automation platforms. With more tools…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/better-together-combining-automation-and-manual-testing</guid>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</title>
+      <link>https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</link>
+      <description>&amp;lt;p&amp;gt;Invisible password sprays. Invisible logins. Full tokens returned.Nyxgeek here. It&amp;amp;#039;s 2026 and I&amp;amp;#039;ve got two more Azure Entra ID sign-in log bypasses to share with you. Don&amp;amp;#039;t get too excited…these bypasses…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</guid>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Detection Foundation: Part 4 - Sysmon</title>
+      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon</link>
+      <description>&amp;lt;p&amp;gt;Filling the Gaps Native Logging Can&amp;amp;#039;tAt this point in our series, we have Windows Security events capturing logon sessions and process creation, and PowerShell logging capturing script execution. That&amp;amp;#039;s a…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon</guid>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Policy as Code: Stop Writing Policies and Start Compiling Them</title>
+      <link>https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</link>
+      <description>&amp;lt;p&amp;gt;The Problem Nobody Wants to Talk AboutLet me paint a picture most security leaders will recognize.You have 30+ policies living as Word documents on SharePoint. Half of them have filenames like…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</guid>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
