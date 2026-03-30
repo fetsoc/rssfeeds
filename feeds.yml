@@ -449,3 +449,27 @@ feeds:
     source_feed_url: "https://g0njxa.medium.com/feed/"
     fixup: "g0njxa"
     max_items: 50
+
+  - id: "bridewell-blog"
+    type: "sitemap_blog"
+    title: "Bridewell Blog"
+    home_url: "https://www.bridewell.com/insights/blogs/"
+    sitemap_url: "https://www.bridewell.com/sitemap/sitemap.xml"
+    include_prefix: "https://www.bridewell.com/insights/blogs/"
+    exclude_exact:
+      - "https://www.bridewell.com/insights/blogs"
+      - "https://www.bridewell.com/insights/blogs/"
+    max_items: 50
+    enrich_candidates: 80
+
+  - id: "obsidian-security-blog"
+    type: "sitemap_blog"
+    title: "Obsidian Security Blog"
+    home_url: "https://www.obsidiansecurity.com/blog/"
+    sitemap_url: "https://www.obsidiansecurity.com/sitemap.xml"
+    include_prefix: "https://www.obsidiansecurity.com/blog/"
+    exclude_exact:
+      - "https://www.obsidiansecurity.com/blog"
+      - "https://www.obsidiansecurity.com/blog/"
+    max_items: 50
+    enrich_candidates: 80
