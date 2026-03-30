@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bridewell Blog</title>
+    <link>https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml</link>
+    <description>Generated feed (sitemap_blog)</description>
+    <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 30 Mar 2026 14:23:09 +0000</lastBuildDate>
+    <item>
+      <title>Advanced Cyber Defence: Using Deception Techniques to Become a Moving Target</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/advanced-cyber-defence-using-deception-techniques-to-become-a-moving-target</link>
+      <description>As more and more people enter the trade on both sides, you have to ensure you’re keeping one step ahead of the competition.  So how do you continue to develop new capabilities that help detect cyber threats?</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/advanced-cyber-defence-using-deception-techniques-to-become-a-moving-target</guid>
+    </item>
+    <item>
+      <title>FileFix – The Evolved ClickFix | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/filefix-the-evolved-clickfix</link>
+      <description>To gain a deeper understanding of FileFix, we conducted analysis of the technique within a sandbox environment to identify detection opportunities for our customers.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/filefix-the-evolved-clickfix</guid>
+    </item>
+    <item>
+      <title>The Booking.com Phishing Campaign Targeting Hotels and Customers | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers</link>
+      <description>Since the start of January, we have observed a resurgence in malicious activity targeting the hotel and retail sector. Discover more as we uncover the phishing campaign.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers</guid>
+    </item>
+    <item>
+      <title>100 Security Experts You Could Follow on Twitter | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</link>
+      <description>Whether you are an industry insider or work in cyber there is an avalanche of information. But this list 100 Security Experts on Twitter will take some beating!</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</guid>
+    </item>
+    <item>
+      <title>Is It Ever Morally Right to Hack? | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/is-it-ever-morally-right-to-hack</link>
+      <description>Ethical Hacking is a term widely used to define IT Security professionals who attempt to break into IT systems to identify weaknesses. Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/is-it-ever-morally-right-to-hack</guid>
+    </item>
+    <item>
+      <title>Global Privacy in Practice: Lessons from 2025 and the Roadmap for 2026 | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/global-privacy-in-practice-lessons-from-2025-and-the-roadmap-for-2026</link>
+      <description>The start of a new year is time for reflection, reset and setting priorities. 2025 left a clear legacy: record-level fines, increasingly coordinated cross-border enforcement and growing focus on how privacy controls operate in practice.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/global-privacy-in-practice-lessons-from-2025-and-the-roadmap-for-2026</guid>
+    </item>
+    <item>
+      <title>Bridewell | CNI Cyber Security Summit Roundup</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/cni-cyber-security-summit-roundup</link>
+      <description>In this blog, will be sharing some of the key talking points from the CNI Cyber Security Summit April 2024.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/cni-cyber-security-summit-roundup</guid>
+    </item>
+    <item>
+      <title>Bridewell | What is an Agentic SOC? Understanding the Evolution Beyond Automation</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/what-is-an-agentic-soc-understanding-the-evolution-beyond-automation</link>
+      <description>What is an Agentic SOC? Understanding the Evolution Beyond Automation. When uptime is non-negotiable and regulatory scrutiny is intense, understanding what an agentic SOC actually delivers becomes essential.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-is-an-agentic-soc-understanding-the-evolution-beyond-automation</guid>
+    </item>
+    <item>
+      <title>Secure by Design, Delivered: A Practitioner’s Playbook for Government Teams | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams</link>
+      <description>This blog distils Secure by Design down into actionable building blocks and provides guidance on how project teams can embed Secure by Design requirements into agile project delivery.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams</guid>
+    </item>
+    <item>
+      <title>Who Needs to Be PCI DSS Compliant?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</link>
+      <description>Who Needs to Be PCI DSS Compliant?</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Copilot and OpenAI ChatGPT: How Can AI Change the Future of Cyber Security?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/microsoft-security-copilot-and-openai-chatgpt-how-ai-is-changing-the-future-of-cyber-security</link>
+      <description>AI has become a hot topic among cyber security professionals in 2023. This conversation has largely been driven by OpenAI’s ChatGPT, which has gained a lot of attention in the tech world for its broad capabilities.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/microsoft-security-copilot-and-openai-chatgpt-how-ai-is-changing-the-future-of-cyber-security</guid>
+    </item>
+    <item>
+      <title>Understanding the Data Use and Access Act 2025</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/understanding-the-data-use-and-access-act-2025</link>
+      <description>Understanding the Data Use and Access Act 2025</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/understanding-the-data-use-and-access-act-2025</guid>
+    </item>
+    <item>
+      <title>CVE-2024-44678: Identified Vulnerability in Gigastone Wi-Fi Range Extenders</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/cve-2024-44678-identified-vulnerability-in-gigastone-wi-fi-range-extenders</link>
+      <description>In this blog, James Smith, Head of Offensive Security runs through the steps he took to identify a number of security issues that you should be aware of if you are using, or planning to use, these devices.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/cve-2024-44678-identified-vulnerability-in-gigastone-wi-fi-range-extenders</guid>
+    </item>
+    <item>
+      <title>Cyber Security Project Management: What is it and Why is it Important?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/cyber-security-project-management-what-is-it-and-why-is-it-important</link>
+      <description>Cyber Security Project Management: What is it and Why is it Important?</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/cyber-security-project-management-what-is-it-and-why-is-it-important</guid>
+    </item>
+    <item>
+      <title>The Coupang Data Breach: What Happened and What Can We Learn From It?| Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/the-coupang-data-breach-what-happened-and-what-can-we-learn-from-it</link>
+      <description>In this blog, we’ll look at what happened during the Coupang data breach as well as what other organisations can learn from how Coupang responded to the incident.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/the-coupang-data-breach-what-happened-and-what-can-we-learn-from-it</guid>
+    </item>
+    <item>
+      <title>Looking At ISO 27001 Certification? Guidance On How To Avoid The Cowboys</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/looking-at-iso-27001-certification-guidance-on-how-to-avoid-the-cowboys</link>
+      <description>The negative statements about ISO 27001 tend not to be against it but rather when individuals have had bad exposure to the standard where it is not implemented effectively</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/looking-at-iso-27001-certification-guidance-on-how-to-avoid-the-cowboys</guid>
+    </item>
+    <item>
+      <title>Defence Cyber Certification (DCC) Explained: A Practical Guide for Defence Suppliers</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/defence-cyber-certification-(dcc)-explained--a-practical-guide-for-defence-suppliers</link>
+      <description>Defence Cyber Certification (DCC) Explained: A Practical Guide for Defence Suppliers</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/defence-cyber-certification-(dcc)-explained--a-practical-guide-for-defence-suppliers</guid>
+    </item>
+    <item>
+      <title>How Does XDR Fuel the Modern SOC</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/extended-detection-and-response-(xdr)-how-does-xdr-fuel-the-modern-soc</link>
+      <description>What is XDR and how is it helping organisations successfully take up Threat Detection and Response services from a SOC? Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/extended-detection-and-response-(xdr)-how-does-xdr-fuel-the-modern-soc</guid>
+    </item>
+    <item>
+      <title>Understanding the CAF-aligned DSPT and Why Objective E Matters</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/understanding-the-caf-aligned-dspt-and-why-objective-e-matters</link>
+      <description>In this blog, we provide an overview of the CAF and DSPT, explain who falls within the scope of the CAF-aligned DSPT, and outline the key submission milestones to help organisations prepare effectively.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/understanding-the-caf-aligned-dspt-and-why-objective-e-matters</guid>
+    </item>
+    <item>
+      <title>ShadowSyndicate: A Global Ransomware-as-a-Service Player?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/shadowsyndicate</link>
+      <description>ShadowSyndicate: SSH</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/shadowsyndicate</guid>
+    </item>
+    <item>
+      <title>Bridewell Con 2023: One Team!</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/bridewellcon-2023-roundup</link>
+      <description>Bridewell Con 2023: One Team!</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/bridewellcon-2023-roundup</guid>
+    </item>
+    <item>
+      <title>Cyber Assessment Framework (CAF) v4.0 Explained</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/cyber-assessment-framework-(caf)-v4.0-explained</link>
+      <description>Cyber Assessment Framework (CAF) v4.0 Explained</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/cyber-assessment-framework-(caf)-v4.0-explained</guid>
+    </item>
+    <item>
+      <title>Bridewell Con 2024: Above and Beyond!</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/bridewellcon-2024-above-and-beyond</link>
+      <description>We met up for our second Bridewell Con – our annual company conference! Building on the success of last year’s inaugural Bridewell Con, this year was bigger and better with new guest speakers, activities and an even bigger Bridewell team.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/bridewellcon-2024-above-and-beyond</guid>
+    </item>
+    <item>
+      <title>BridewellCon 2025: Living the Values!</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/bridewellcon-2025</link>
+      <description>BridewellCon 2025: Living the Values!</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/bridewellcon-2025</guid>
+    </item>
+    <item>
+      <title>Social Engineering (And How To Avoid It) | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/social-engineering-and-how-to-avoid-it</link>
+      <description>Social engineering is basically a way for hackers and criminals to use the people inside your organisation to access the information they want. Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/social-engineering-and-how-to-avoid-it</guid>
+    </item>
+    <item>
+      <title>My Bridewell Academy Journey | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/my-bridewell-academy-journey</link>
+      <description>In this blog, Will Smith, Academy Consultant, shares his insights and experiences from his time in the Bridewell Academy.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/my-bridewell-academy-journey</guid>
+    </item>
+    <item>
+      <title>How to Prepare for The Data (Use and Access) Act 2025 | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/how-to-prepare-for-the-data-(use-and-access)-act-2025</link>
+      <description>This blog outlines what organisations can expect, key dates to be aware of, and practical steps to maximise the opportunities that the Act presents.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/how-to-prepare-for-the-data-(use-and-access)-act-2025</guid>
+    </item>
+    <item>
+      <title>Data Protection in the Automotive Industry</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/data-protection-in-the-automotive-industry</link>
+      <description>In this blog, we’ll look at the types of data processing taking place in the automotive industry today, the challenges they create, and provide recommendations on how to overcome them</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/data-protection-in-the-automotive-industry</guid>
+    </item>
+    <item>
+      <title>Why Do Emergency Service Still Use the POCSAG/FLEX Protocol in 2024?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/why-do-emergency-service-still-use-the-pocsag-flex-protocol-in-2024</link>
+      <description>Why Do Emergency Service Still Use the POCSAG/FLEX Protocol in 2024?</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/why-do-emergency-service-still-use-the-pocsag-flex-protocol-in-2024</guid>
+    </item>
+    <item>
+      <title>Privilege Escalation Vulnerability in Azure Portal Can Lead to Full Tenant Compromise | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/privilege-escalation-vulnerability-in-azure-portal-can-lead-to-full-tenant-compromise</link>
+      <description>In this blog, we talk about a series of misconfigurations and overly trusted behaviours in the Azure Portal allowed attackers to craft malicious links that, when clicked by a user,</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/privilege-escalation-vulnerability-in-azure-portal-can-lead-to-full-tenant-compromise</guid>
+    </item>
+    <item>
+      <title>CVE-2023-50615 – Cross-Site Scripting (XSS) in react-draft-wysiwyg/html-to-draftjs</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/cve-2023-50615-cross-site-scripting-(xss)</link>
+      <description>In this blog, we will tell a tale of a zero-day uncovered in commonly installed code used on websites built using React.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/cve-2023-50615-cross-site-scripting-(xss)</guid>
+    </item>
+    <item>
+      <title>How Can Organisations Protect Their Customers&amp;#39; Personal Data?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/how-can-organisations-protect-their-customers'-personal-data</link>
+      <description>How Can Organisations Protect Their Customers' Personal Data?</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/how-can-organisations-protect-their-customers'-personal-data</guid>
+    </item>
+    <item>
+      <title>Reddit Fined £14.5m Over Children&amp;#39;s Privacy Failures</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/reddit-fined--14.5m-over-children's-privacy-failures</link>
+      <description>Reddit Fined £14.5m Over Children's Privacy Failures</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/reddit-fined--14.5m-over-children's-privacy-failures</guid>
+    </item>
+    <item>
+      <title>Automating Malware Analysis With Cuckoo Sandbox | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/automating-malware-analysis-with-cuckoo-sandbox</link>
+      <description>Having the ability to discover and analyse new malware or attacks is crucial to allow analysts to prevent and remove these threats - cue the Cuckoo Sandbox</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/automating-malware-analysis-with-cuckoo-sandbox</guid>
+    </item>
+    <item>
+      <title>PCI WHY: Why Should I Comply with PCI DSS?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/pci-why-why-should-i-comply-with-pci-dss</link>
+      <description>In our latest blog, we dive into the key reasons your organiSation should consider PCI DSS compliance—even if it’s not being demanded right now. From protecting customer data to reducing the risk of breaches, the benefits are clear.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/pci-why-why-should-i-comply-with-pci-dss</guid>
+    </item>
+    <item>
+      <title>Threat Modelling in an Agile World | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/threat-modelling-in-an-agile-world</link>
+      <description>Threat modelling is common practice for most organisations. They should ideally have application security professionals threat modelling daily. Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/threat-modelling-in-an-agile-world</guid>
+    </item>
+    <item>
+      <title>Uncovering the “Easy Stealer” Infostealer</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/uncovering-the-easy-stealer-infostealer</link>
+      <description>Uncovering the “Easy Stealer” Infostealer</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/uncovering-the-easy-stealer-infostealer</guid>
+    </item>
+    <item>
+      <title>How Physical Security Impacts Your Cyber Security – And Why | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/how-physical-security-impacts-your-cyber-security-and-why</link>
+      <description>The reality is that the physical security of a business does have an impact on your approach to cyber security. Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/how-physical-security-impacts-your-cyber-security-and-why</guid>
+    </item>
+    <item>
+      <title>Who are Dragonforce Ransomware Group? | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/who-are-dragonforce-ransomware-group</link>
+      <description>DragonForce is a relatively new threat actor first identified in 2023. Read our latest insights to discover the latest on the DragonForce Ransomware.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/who-are-dragonforce-ransomware-group</guid>
+    </item>
+    <item>
+      <title>Securing Your Digital Space With a Zero-Trust Security Strategy | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/securing-your-digital-space-with-a-zero-trust-security-strategy</link>
+      <description>The approach to cyber security needs to be driven from the top down with a Zero-Trust security strategy to help achieve the shared goals and be successful. Read on</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/securing-your-digital-space-with-a-zero-trust-security-strategy</guid>
+    </item>
+    <item>
+      <title>Data Privacy and AI: Everything You Need to Know</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/data-privacy-and-ai-everything-you-need-to-know</link>
+      <description>Deploying AI within your organisation may seem simple but, if personal data is involved, its use will likely have a fundamental impact on your data privacy programme.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/data-privacy-and-ai-everything-you-need-to-know</guid>
+    </item>
+    <item>
+      <title>Integrating Risk Management Practices into Compliance Initiatives within CNI</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/integrating-risk-management-practices-into-compliance-initiatives-within-cni</link>
+      <description>Integrating Risk Management Practices into Compliance Initiatives within CNI</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/integrating-risk-management-practices-into-compliance-initiatives-within-cni</guid>
+    </item>
+    <item>
+      <title>What Is Malware as a Service and What Impact Does It Have on the Threat Landscape?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/what-is-malware-as-a-service-and-what-impact-does-it-have-on-the-threat-landscape</link>
+      <description>What Is Malware as a Service and What Impact Does It Have on the Threat Landscape? Jack Jarvis</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-is-malware-as-a-service-and-what-impact-does-it-have-on-the-threat-landscape</guid>
+    </item>
+    <item>
+      <title>https://www.bridewell.com/insights/blogs/detail/nist-cybersecurity-framework-version-2.0-what-are-the-main-changes</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/nist-cybersecurity-framework-version-2.0-what-are-the-main-changes</link>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/nist-cybersecurity-framework-version-2.0-what-are-the-main-changes</guid>
+    </item>
+    <item>
+      <title>CNI Cyber Security Summit 2025 Roundup | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/cni-cyber-security-summit-2025-roundup</link>
+      <description>Read our round up of the CNI Cyber Security Summit 2025, hosted in central London on March 20th, facilitated a wide range of discussions about how we can work together to secure the future of UK CNI.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/cni-cyber-security-summit-2025-roundup</guid>
+    </item>
+    <item>
+      <title>5 Things You Need To Teach Your Staff About Cyber Security | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/5-things-to-teach-your-staff-about-cyber-security</link>
+      <description>Understanding that your employees play a key role in ensuring the security of your computers and networks and why you need to train your staff about Cyber Security.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/5-things-to-teach-your-staff-about-cyber-security</guid>
+    </item>
+    <item>
+      <title>Get GDPR Compliant | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/get-gdpr-compliant</link>
+      <description>Instead of ‘getting GDPR compliant’ the emphasis should move towards a continual set of processes, procedures and supporting technology. Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/get-gdpr-compliant</guid>
+    </item>
+    <item>
+      <title>Threat Advisory: Bridewell Sounds the Alarm on New &amp;#39;I&amp;#39;m Better&amp;#39; Malware Impersonating Popular Online Tools and Video Games</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/threat-advisory-bridewell-malware-impersonating-online-tools-and-video-games</link>
+      <description>Bridewell Cyber Threat Intelligence has identified a previously unreported infostealer, named "I'm Better", that targets valuable information such as cryptocurrency wallets, browser credentials, and session cookies.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/threat-advisory-bridewell-malware-impersonating-online-tools-and-video-games</guid>
+    </item>
+    <item>
+      <title>What is a Threat-Informed Defence Strategy?</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/what-is-a-threat-informed-defence-strategy</link>
+      <description>In this blog, we’ll dive further into how a threat informed defence strategy differs from conventional approaches, how to implement it, and how it benefits your organisation.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-is-a-threat-informed-defence-strategy</guid>
+    </item>
+    <item>
+      <title>What is Operation Technology (OP) Penetration Testing? | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/what-is-operational-technology-penetration-testing</link>
+      <description>What is Operational Technology Penetration Testing?</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-is-operational-technology-penetration-testing</guid>
+    </item>
+  </channel>
+</rss>
