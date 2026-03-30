@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 14:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 15:11:04 +0000</lastBuildDate>
     <item>
       <title>Advanced Cyber Defence: Using Deception Techniques to Become a Moving Target</title>
       <link>https://www.bridewell.com/insights/blogs/detail/advanced-cyber-defence-using-deception-techniques-to-become-a-moving-target</link>
@@ -267,8 +267,9 @@
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-is-malware-as-a-service-and-what-impact-does-it-have-on-the-threat-landscape</guid>
     </item>
     <item>
-      <title>https://www.bridewell.com/insights/blogs/detail/nist-cybersecurity-framework-version-2.0-what-are-the-main-changes</title>
+      <title>NIST Cybersecurity Framework Version 2.0: What Are the Main Changes?</title>
       <link>https://www.bridewell.com/insights/blogs/detail/nist-cybersecurity-framework-version-2.0-what-are-the-main-changes</link>
+      <description>The publication of NIST CSF v2.0 reflects the need for organisations in critical sectors to adapt to the rapidly changing cyber security landscape. Learn more about the changes.</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/nist-cybersecurity-framework-version-2.0-what-are-the-main-changes</guid>
     </item>
     <item>
