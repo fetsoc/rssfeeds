@@ -482,3 +482,10 @@ feeds:
       - "https://www.obsidiansecurity.com/blog/"
     max_items: 50
     enrich_candidates: 80
+
+  - id: "msrc-blog"
+    type: "fix_feed"
+    title: "Microsoft Security Response Center"
+    home_url: "https://msrc.microsoft.com/blog/"
+    source_feed_url: "https://msrc.microsoft.com/blog/feed/"
+    max_items: 50
