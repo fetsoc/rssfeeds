@@ -7,20 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 07:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:01:44 +0000</lastBuildDate>
     <item>
-      <title>March Patch Tuesday visits 15 product families</title>
-      <link>https://www.sophos.com/en-us/blog/march-patch-tuesday-visits-15-product-families</link>
-      <description>&lt;p&gt;Eight Critical-severity bugs – none in Windows – appear in 84-CVE haul&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Patch Tuesday, x-ops, Microsoft, Windows, detection&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/march-patch-tuesday-visits-15-product-families</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android devices ship with firmware-level malware</title>
-      <link>https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware</link>
-      <description>&lt;p&gt;Keenadu malware gives an attacker control over a device but appears to be used primarily to facilitate ad fraud&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Android, Keenadu&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <title>The global CISO landscape: A leadership gap too large to ignore</title>
+      <link>https://www.sophos.com/en-us/blog/2026-ciso-report</link>
+      <description>&lt;p&gt;Why the world needs scalable security leadership — and MSPs and MSSPs are key to delivery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Featured, CISO, Survey&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2026-ciso-report</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>High-Five: Sophos Ranked Number 1 Overall in Endpoint, EDR, XDR, MDR, and Firewall in the G2 Spring 2026 Reports</title>
@@ -34,20 +27,6 @@
       <link>https://www.sophos.com/en-us/blog/oracle-vulnerability-cve-2026-21992-impacts-core-products</link>
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, vulnerability, Oracle&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/oracle-vulnerability-cve-2026-21992-impacts-core-products</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NICKEL ALLEY strategy: Fake it ‘til you make it</title>
-      <link>https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</link>
-      <description>&lt;p&gt;Victimizing software developers via fake companies, jobs, and code repositories to steal cryptocurrency&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; NICKEL ALLEY, Contagious Interview, North Korea, clickfix&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The global CISO landscape: A leadership gap too large to ignore</title>
-      <link>https://www.sophos.com/en-us/blog/2026-ciso-report</link>
-      <description>&lt;p&gt;Why the world needs scalable security leadership — and MSPs and MSSPs are key to delivery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Featured, CISO, Survey&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2026-ciso-report</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -65,11 +44,32 @@
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Where AI in the SOC is actually delivering — and where it isn’t</title>
+      <link>https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</link>
+      <description>&lt;p&gt;“We’ll have a generation of security professionals who can supervise AI but can’t function without it.&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; AI Research, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, AI Cybersecurity, AI RESEARCH, Generative AI, SOC&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
       <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
       <description>&lt;p&gt;A phishing campaign targeting multiple organizations led to RMM installations – but not much else (yet). A threat actor experimenting, or an access-as-a-service attack underway?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; STAC6405, infostealer, RMM, Phishing&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The High Cost of Low Trust: Our Commitment to Radical Transparency</title>
+      <link>https://www.sophos.com/en-us/blog/the-high-cost-of-low-trust-our-commitment-to-radical-transparency</link>
+      <description>&lt;p&gt;Only 5% of organizations fully trust their cybersecurity providers. Let’s do better.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Trust, Trust Center, Privacy&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-high-cost-of-low-trust-our-commitment-to-radical-transparency</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cybersecurity Trust Reality in 2026</title>
+      <link>https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</link>
+      <description>&lt;p&gt;New Sophos survey reveals only 5% of IT leaders say they fully trust their cybersecurity vendors&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Trust, Privacy, Trust Center&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 07:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:01:40 +0000</lastBuildDate>
     <item>
       <title>Remcos RAT Being Distributed to Korean Users</title>
       <link>https://asec.ahnlab.com/en/92160/</link>
@@ -65,17 +65,17 @@
       <pubDate>Wed, 04 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>January 2026 Phishing Email Trends Report</title>
-      <link>https://asec.ahnlab.com/en/92621/</link>
-      <description>This report provides the distribution quantity, statistics, trends, and case information on phishing emails and email threats collected and analyzed for one month in January 2026. The following are some statistics and cases included in the original report. 1) Phishing Email Threat Statistics In January 2026, the most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92621/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>January 2026 Threat Trend Report on Ransomware</title>
       <link>https://asec.ahnlab.com/en/92620/</link>
       <description>This report provides the number of affected systems confirmed during&amp;#160;January 2026, DLS-based ransomware-related statistics, and notable ransomware issues in Korea and abroad. Below is a summary of some information. &amp;#160; The statistics on the number of ransomware samples and affected systems were based on the diagnostic names assigned by AhnLab, and the statistics on ransomware-affected [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92620/</guid>
+      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Phishing Email Trends Report</title>
+      <link>https://asec.ahnlab.com/en/92621/</link>
+      <description>This report provides the distribution quantity, statistics, trends, and case information on phishing emails and email threats collected and analyzed for one month in January 2026. The following are some statistics and cases included in the original report. 1) Phishing Email Threat Statistics In January 2026, the most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92621/</guid>
       <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -100,17 +100,17 @@
       <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, Fabruary 2026</title>
-      <link>https://asec.ahnlab.com/en/92636/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Anubis and The Gentlemen launch ransomware attacks targeting a South Korean plastics manufacturer and an IT consulting company [1], [2] Emergence of the new ransomware group Payload ShinyHunters claims data breach involving a well-known Canadian apparel manufacturer</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92636/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>January 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/92646/</link>
       <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, Fabruary 2026</title>
+      <link>https://asec.ahnlab.com/en/92636/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Anubis and The Gentlemen launch ransomware attacks targeting a South Korean plastics manufacturer and an IT consulting company [1], [2] Emergence of the new ransomware group Payload ShinyHunters claims data breach involving a well-known Canadian apparel manufacturer</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92636/</guid>
       <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,17 +142,17 @@
       <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
-      <link>https://asec.ahnlab.com/en/92997/</link>
-      <description>The Green Blood ransomware group, which has been active since January 2026, has been targeting countries in South Asia, Africa, and parts of South America, and is characterized by its Golang-based ransomware payload. In this post, we analyze the main characteristics of the Green Blood ransomware, its encryption method, and the technical reasons why it [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92997/</guid>
-      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>February 2026 Phishing Email Trends Report</title>
       <link>https://asec.ahnlab.com/en/92907/</link>
       <description>This report provides statistics, trends, and case information regarding the distribution volume and attachment threats of phishing emails collected and analyzed during the month of February 2026. The report below contains some statistical data and cases included in the original content. 1) Phishing Email Threat Statistics The most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92907/</guid>
+      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
+      <link>https://asec.ahnlab.com/en/92997/</link>
+      <description>The Green Blood ransomware group, which has been active since January 2026, has been targeting countries in South Asia, Africa, and parts of South America, and is characterized by its Golang-based ransomware payload. In this post, we analyze the main characteristics of the Green Blood ransomware, its encryption method, and the technical reasons why it [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92997/</guid>
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,17 +191,17 @@
       <pubDate>Sun, 15 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
-      <link>https://asec.ahnlab.com/en/92978/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Threat Actor CipherForce Claims Cyberattack on South Korean Job Portal New Threat Actor Loki Emerges, Leaks US Citizens&amp;#8217; Personal Data Cybercrime Forum LeakBase Shut Down Again by Russian Authorities</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92978/</guid>
-      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>February 2026 APT Attack Trends Report (South Korea)</title>
       <link>https://asec.ahnlab.com/en/92972/</link>
       <description>Overview &amp;#160; AhnLab utilizes its infrastructure to monitor for Advanced Persistent Threat (APT) attacks in South Korea. This report covers the classification and statistics on APT attacks on South Korea targets identified during the month of February 2026, and introduces the features of each type.&amp;#160; Figure 1. Statistics on APT attacks in Korea in February [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92978/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Threat Actor CipherForce Claims Cyberattack on South Korean Job Portal New Threat Actor Loki Emerges, Leaks US Citizens&amp;#8217; Personal Data Cybercrime Forum LeakBase Shut Down Again by Russian Authorities</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92978/</guid>
       <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

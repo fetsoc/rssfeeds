@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 07:06:16 +0000</lastBuildDate>
-    <item>
-      <title>Visibility, Visibility, Visibility: Your Greatest Ally</title>
-      <link>https://www.sonicwall.com/blog/visibility-visibility-visibility-your-greatest-ally</link>
-      <description>SonicWall Partners leverage the visibility delivered by Network Security Management (NSM) to be their greatest ally in maintaining a comprehensive view of every network element that can create disaster for their customers.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/visibility-visibility-visibility-your-greatest-ally</guid>
-    </item>
-    <item>
-      <title>Keep Client Configurations When Upgrading to Next-Gen SonicWall Firewalls</title>
-      <link>https://www.sonicwall.com/blog/keep-client-configurations-when-upgrading-to-next-gen-sonicwall-firewalls</link>
-      <description>As partners migrate their clients from SonicWall Gen 6 firewalls to Gen 7 and Gen 8, maintaining the existing device configurations becomes a key consideration. SonicWall’s Network Security Manager (NSM) includes a powerful migration utility that automatically translates legacy configurations to the new standard, saving time and reducing complexity.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/keep-client-configurations-when-upgrading-to-next-gen-sonicwall-firewalls</guid>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 12:59:50 +0000</lastBuildDate>
     <item>
       <title>Why Firewall Upgrades Matter for MSPs</title>
       <link>https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</link>
@@ -264,6 +252,12 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
     </item>
     <item>
+      <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
+      <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
+      <description>Cyber threats move fast. Learn why detection alone isn’t enough and how automated security response helps stop attacks before they spread.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
+    </item>
+    <item>
       <title>FIPS 140-3 Validation: The Difference Between Proven and Assumed</title>
       <link>https://www.sonicwall.com/blog/fips-140-3-validation-the-difference-between-proven-and-assumed</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/fips-140-3-validation-the-difference-between-proven-and-assumed</guid>
@@ -286,6 +280,12 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <description>The SonicWall Capture Labs threat research team became aware of an out-of-bounds write vulnerability in the Telnet server shipped with GNU Inetutils, assessed its impact and developed mitigation measures. Telnetd hardly needs an introduction. It is one of the oldest and most widely distributed network utilities on Linux systems.
 The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. This vulnerability, classified as a classic buffer overflow (CWE-120), allows an unauthenticated remote attacker to crash the server and potentially execute arbitrary commands. It carries a critical CVSS score of 9.8. Contrary to popular belief that Telnet is dead, it remains hidden within the vital infrastructure that runs the world. Hence, users are strongly encouraged to apply the vendor-provided patch or restrict/disable the telnet access without delay.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</guid>
+    </item>
+    <item>
+      <title>From Threat Report to Protect Report: What It Means for SMBs and Partners</title>
+      <link>https://www.sonicwall.com/blog/from-threat-report-to-protect-report-what-the-2026-sonicwall-cyber-protect-report-means-for-smbs-and-the-partners-who-protect-them</link>
+      <description>Discover how the 2026 Cyber Protect Report shifts focus from threats to outcomes, and what it means for SMBs and partners.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/from-threat-report-to-protect-report-what-the-2026-sonicwall-cyber-protect-report-means-for-smbs-and-the-partners-who-protect-them</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
