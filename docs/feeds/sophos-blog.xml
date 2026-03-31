@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 18:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:53:58 +0000</lastBuildDate>
+    <item>
+      <title>Initial access techniques used by Iran-based threat actors</title>
+      <link>https://www.sophos.com/en-us/blog/initial-access-techniques-used-by-iran-based-threat-actors</link>
+      <description>&lt;p&gt;Analysis of attacks originating from Iran-linked threat groups reveals a preference for certain techniques&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Iran, initial access&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/initial-access-techniques-used-by-iran-based-threat-actors</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>March Patch Tuesday visits 15 product families</title>
       <link>https://www.sophos.com/en-us/blog/march-patch-tuesday-visits-15-product-families</link>
@@ -51,13 +58,6 @@
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
-      <description>&lt;p&gt;Why organizations are choosing Sophos Firewall to reduce exposure and strengthen resilience&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Products&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, G2, Awards&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cybersecurity for Education – Sophos Protected Classroom</title>
       <link>https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</link>
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Education, Endpoint, NDR, MDR&lt;/p&gt;</description>
@@ -65,11 +65,11 @@
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
-      <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
-      <description>&lt;p&gt;A phishing campaign targeting multiple organizations led to RMM installations – but not much else (yet). A threat actor experimenting, or an access-as-a-service attack underway?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; STAC6405, infostealer, RMM, Phishing&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
+      <description>&lt;p&gt;Why organizations are choosing Sophos Firewall to reduce exposure and strengthen resilience&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Products&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, G2, Awards&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
