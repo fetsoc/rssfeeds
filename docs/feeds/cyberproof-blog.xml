@@ -7,13 +7,20 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 01:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:07:48 +0000</lastBuildDate>
     <item>
-      <title>Finding the Right MDR Provider - Our Takeaways from Forrester NowTech</title>
-      <link>https://www.cyberproof.com/blog/finding-an-mdr-provider-our-key-takeaways-from-a-forrester-report/</link>
-      <description>Read about the various factors that organizations should prioritize as they choose MDR services to uphold their security standing.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/finding-an-mdr-provider-our-key-takeaways-from-a-forrester-report/</guid>
-      <pubDate>Wed, 16 Dec 2020 11:33:49 +0000</pubDate>
+      <title>Our Key Takeaways from Forrester’s APAC MSSP Market Research Report</title>
+      <link>https://www.cyberproof.com/blog/our-key-takeaways-from-forresters-apac-mssp-market-research-report/</link>
+      <description>Forrester released a report to help organizations understand the value they can expect MSSPs in Asia Pacific region, including CyberProof as a leader.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/our-key-takeaways-from-forresters-apac-mssp-market-research-report/</guid>
+      <pubDate>Mon, 12 Oct 2020 10:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
+      <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
+      <description>Cyber security threats are expected to be on the rise with threat actors use a wide range of tactics to “hijack” online shoppers and steal consumer data.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</guid>
+      <pubDate>Thu, 05 Nov 2020 11:35:42 +0000</pubDate>
     </item>
     <item>
       <title>Augmenting Security Operations in the Financial Services Industry</title>
@@ -168,13 +175,6 @@
       <description>Forrester released an infographic summarizing the key data collected from customers and vendors about the Managed Detection &amp; Response (MDR) market.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/why-use-an-mdr-provider-forresters-key-findings-about-the-mdr-market/</guid>
       <pubDate>Wed, 04 May 2022 04:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud Security, Ransomware Simulation &amp; More in Our SOC Masterclass</title>
-      <link>https://www.cyberproof.com/blog/cloud-security-ransomware-simulation-more-in-our-soc-masterclass/</link>
-      <description>This blog is a summary of some of the SOC Masterclass' highlights with quotes from our cast of cyber presenters.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/cloud-security-ransomware-simulation-more-in-our-soc-masterclass/</guid>
-      <pubDate>Wed, 11 May 2022 09:06:57 +0000</pubDate>
     </item>
     <item>
       <title>Considering a Career in Cyber Security? Here's What You Need to Know</title>
