@@ -7,19 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 13:04:06 +0000</lastBuildDate>
-    <item>
-      <title>Oracle vulnerability (CVE-2026-21992) impacts core products</title>
-      <link>https://www.sophos.com/en-us/blog/oracle-vulnerability-cve-2026-21992-impacts-core-products</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, vulnerability, Oracle&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/oracle-vulnerability-cve-2026-21992-impacts-core-products</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 18:58:30 +0000</lastBuildDate>
     <item>
       <title>NICKEL ALLEY strategy: Fake it ‘til you make it</title>
       <link>https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</link>
       <description>&lt;p&gt;Victimizing software developers via fake companies, jobs, and code repositories to steal cryptocurrency&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; NICKEL ALLEY, Contagious Interview, North Korea, clickfix&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The global CISO landscape: A leadership gap too large to ignore</title>
+      <link>https://www.sophos.com/en-us/blog/2026-ciso-report</link>
+      <description>&lt;p&gt;Why the world needs scalable security leadership — and MSPs and MSSPs are key to delivery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Featured, CISO, Survey&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2026-ciso-report</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

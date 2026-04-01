@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 13:02:19 +0000</lastBuildDate>
-    <item>
-      <title>Why Firewall Upgrades Matter for MSPs</title>
-      <link>https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</link>
-      <description>Upgrading isn’t just new features. See how SonicWall firewalls give MSPs stronger security, faster performance, and new service revenue.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 18:56:36 +0000</lastBuildDate>
     <item>
       <title>UPGRADE ADVANTAGE:  Cost Savings for MSPs &amp; MSSPs</title>
       <link>https://www.sonicwall.com/blog/upgrade-advantage-cost-savings-for-msps-mssps</link>
@@ -286,6 +280,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/from-threat-report-to-protect-report-what-the-2026-sonicwall-cyber-protect-report-means-for-smbs-and-the-partners-who-protect-them</link>
       <description>Discover how the 2026 Cyber Protect Report shifts focus from threats to outcomes, and what it means for SMBs and partners.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/from-threat-report-to-protect-report-what-the-2026-sonicwall-cyber-protect-report-means-for-smbs-and-the-partners-who-protect-them</guid>
+    </item>
+    <item>
+      <title>Future-Proof Your SMB: Moving from Legacy Firewalls to Active Protection</title>
+      <link>https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</link>
+      <description>Discover why SMBs are choosing active protection over reactive "break-fix" security. Save time with seamless Gen 6 migration tools and the "3 &amp; Free" program.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
