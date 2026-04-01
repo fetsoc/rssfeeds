@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 07:13:32 +0000</lastBuildDate>
-    <item>
-      <title>Lazarus, AI, and Trust Abuse: Top Enterprise Cybersecurity Risks 2026</title>
-      <link>https://any.run/cybersecurity-blog/enterprise-cybersecurity-risks-2026/</link>
-      <description>&lt;p&gt;As&amp;#160;part of&amp;#160;a&amp;#160;recent&amp;#160;live expert panel,&amp;#160;ANY.RUN&amp;#160;together with&amp;#160;threat researcher and ethical hacker Mauro Eldritch&amp;#160;explored biggest security risks companies should be prepared for&amp;#160;in 2026.&amp;#160; The discussion covered several relevant cases, from the Lazarus IT&amp;#160;Workers&amp;#160;operation to the rapid rise of AI-driven phishing&amp;#160;attacks, and&amp;#160;examined the common thread behind them: trust abuse.&amp;#160; Below are the key takeaways for&amp;#160;those&amp;#160;seeking a clearer view of [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/enterprise-cybersecurity-risks-2026/" rel="nofollow"&gt;Lazarus, AI, and Trust Abuse: Top Enterprise Cybersecurity Risks 2026 &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/enterprise-cybersecurity-risks-2026/</guid>
-      <pubDate>Tue, 17 Mar 2026 09:47:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 13:04:01 +0000</lastBuildDate>
     <item>
       <title>How to Reduce MTTR in Your SOC with Better Threat Intelligence</title>
       <link>https://any.run/cybersecurity-blog/reduce-soc-mttr-with-ti/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="/cybersecurity-blog/release-notes-march-2026/" rel="nofollow"&gt;Release Notes: Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-march-2026/</guid>
       <pubDate>Tue, 31 Mar 2026 10:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More</title>
+      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</link>
+      <description>&lt;p&gt;March 2026 brought a wave of cyber attacks that reflected how quickly modern threats can move from subtle early signals to serious business impact. ANY.RUN analysts identified and explored several major threats this month, exposing phishing campaigns, stealthy malware, payment-skimming activity, and resilient botnet infrastructure affecting organizations across industries. From Microsoft 365 token abuse and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/major-cyber-attacks-march-2026/" rel="nofollow"&gt;Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</guid>
+      <pubDate>Wed, 01 Apr 2026 12:08:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

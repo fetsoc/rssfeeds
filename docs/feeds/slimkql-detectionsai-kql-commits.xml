@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 07:11:39 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/hunting-nanoclaw.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/900b8a3f9a2b35802976edc1f3baf4cdbd932209</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/hunting-nanoclaw.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/900b8a3f9a2b35802976edc1f3baf4cdbd932209</guid>
-      <pubDate>Mon, 23 Feb 2026 09:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/arpa-under-siege-cybercriminals-weaponize-the-dns…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/b23c3fcb993a4254afea9268bbd392d9580c7c33</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/arpa-under-siege-cybercriminals-weaponize-the-dns-infrastructure.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/b23c3fcb993a4254afea9268bbd392d9580c7c33</guid>
-      <pubDate>Fri, 27 Feb 2026 17:25:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 13:02:18 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/mde-platform-analyzing-ai-model-provider-usage.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c71d820f23b476e092f3ca8ea5185de645cce7ae</link>
@@ -147,6 +133,20 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/high-fidelity-device-code-phishing-abuse-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/0938d9b535fb5dc26448402acb0575a2db74600a</guid>
       <pubDate>Wed, 25 Mar 2026 15:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/one-click-defenderxdr-axios-supply-chain-compromi…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/f5ec4b4711a0479f21061d1a604226a8450ae95f</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/one-click-defenderxdr-axios-supply-chain-compromise-scan.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f5ec4b4711a0479f21061d1a604226a8450ae95f</guid>
+      <pubDate>Wed, 01 Apr 2026 09:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/axios-compromise-detection-via-3rd-party.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/8343234408bf60592bd8664d3aa7b4eeaa80b2d4</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/axios-compromise-detection-via-3rd-party.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8343234408bf60592bd8664d3aa7b4eeaa80b2d4</guid>
+      <pubDate>Wed, 01 Apr 2026 09:35:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
