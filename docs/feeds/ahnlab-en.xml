@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 07:05:30 +0000</lastBuildDate>
-    <item>
-      <title>Proxyware Disguised as Notepad++ Tool</title>
-      <link>https://asec.ahnlab.com/en/92183/</link>
-      <description>AhnLab SEcurity intelligence Center(ASEC) is monitoring Proxyjacking attacks and continuously disclosing distribution cases and IoCs identified in South Korea. The threat actor Larva‑25012, known for deploying Proxyware, has recently begun using malware disguised as a Notepad++ installer. In addition, the attacker is actively changing techniques to evade detection—such as injecting Proxyware into the Windows Explorer [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92183/</guid>
-      <pubDate>Sun, 18 Jan 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 12:57:58 +0000</lastBuildDate>
     <item>
       <title>December 2025 Security Issues in Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/92207/</link>
@@ -217,6 +210,13 @@
       <description>overview AhnLab SEcurity intelligence Center (ASEC) recently identified a change in the Kimsuky group&amp;#8217;s method of distributing malicious LNK files. the overall attack flow remains the same as before, with a malicious LNK ultimately executing a Python-based backdoor or downloader. however, a structural change was observed in the intermediate execution phase. distinction historical Distribution Method [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93151/</guid>
       <pubDate>Wed, 01 Apr 2026 10:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, April 2026</title>
+      <link>https://asec.ahnlab.com/en/93158/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Ransomware group NetRunner attack against the Indian subsidiary of a South Korean auto parts manufacturer Ransomware group Everest attack against a major Japanese automaker ShinyHunters claims of source code and internal data leak from a U.S. network infrastructure [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93158/</guid>
+      <pubDate>Wed, 01 Apr 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

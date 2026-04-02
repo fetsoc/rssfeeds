@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 07:05:29 +0000</lastBuildDate>
-    <item>
-      <title>Updated GSA Contractor CUI Protection Requirements</title>
-      <link>https://trustedsec.com/blog/updated-gsa-contractor-cui-protection-requirements</link>
-      <description>&amp;lt;p&amp;gt;CMMC has been getting much of the Controlled Unclassified Information (CUI) attention lately due to the size of the defense industrial base, but General Services Administration (GSA) requirements for protecting CUI are…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/updated-gsa-contractor-cui-protection-requirements</guid>
-      <pubDate>Tue, 17 Feb 2026 05:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 12:57:57 +0000</lastBuildDate>
     <item>
       <title>Notepad++ Plugins: Plug and Payload</title>
       <link>https://trustedsec.com/blog/notepad-plugins-plug-and-payload</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;The Problem Nobody Wants to Talk AboutLet me paint a picture most security leaders will recognize.You have 30+ policies living as Word documents on SharePoint. Half of them have filenames like…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</guid>
       <pubDate>Thu, 26 Mar 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reduce Repetition and Free up Time With Mobile File Extractor</title>
+      <link>https://trustedsec.com/blog/reduce-repetition-and-free-up-time-with-mobile-file-extractor</link>
+      <description>&amp;lt;p&amp;gt;If you do the same thing three times, automate it. Introducing Mobile Data Extractor, a Python tool that handles the repetitive work of mobile app data extraction so testers can focus on what matters.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/reduce-repetition-and-free-up-time-with-mobile-file-extractor</guid>
+      <pubDate>Thu, 02 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

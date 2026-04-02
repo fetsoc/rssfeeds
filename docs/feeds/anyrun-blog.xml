@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 07:05:28 +0000</lastBuildDate>
-    <item>
-      <title>How to Reduce MTTR in Your SOC with Better Threat Intelligence</title>
-      <link>https://any.run/cybersecurity-blog/reduce-soc-mttr-with-ti/</link>
-      <description>&lt;p&gt;MTTR&amp;#160;is&amp;#160;where&amp;#160;strategy&amp;#160;meets&amp;#160;reality.&amp;#160;In security operations, it is the margin between a contained incident and a catastrophic breach.&amp;#160; You can have perfect detection coverage, cutting-edge telemetry, and a wall of dashboards glowing like a spaceship cockpit. But if your team takes too long to respond, the attacker still wins the clock. Reducing&amp;#160;Mean&amp;#160;Time&amp;#160;to&amp;#160;Respond&amp;#160;is&amp;#160;not&amp;#160;about&amp;#160;shaving&amp;#160;seconds&amp;#160;for&amp;#160;vanity&amp;#160;metrics. It&amp;#160;is&amp;#160;about&amp;#160;compressing&amp;#160;the&amp;#160;window&amp;#160;in&amp;#160;which&amp;#160;damage&amp;#160;happens. And&amp;#160;the&amp;#160;fastest&amp;#160;way&amp;#160;to&amp;#160;do&amp;#160;that&amp;#160;is&amp;#160;not&amp;#160;more&amp;#160;alerts,&amp;#160;but&amp;#160;better&amp;#160;intelligence.&amp;#160; Key Takeaways&amp;#160; Beyond the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/reduce-soc-mttr-with-ti/" rel="nofollow"&gt;How to Reduce MTTR in Your SOC with Better Threat Intelligence&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/reduce-soc-mttr-with-ti/</guid>
-      <pubDate>Wed, 18 Mar 2026 10:36:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 12:57:56 +0000</lastBuildDate>
     <item>
       <title>Ready for macOS Threats: Expanding Your SOC’s Cross-Platform Analysis with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/anyrun-macos-sandbox/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="/cybersecurity-blog/major-cyber-attacks-march-2026/" rel="nofollow"&gt;Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</guid>
       <pubDate>Wed, 01 Apr 2026 12:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence</title>
+      <link>https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</link>
+      <description>&lt;p&gt;Reaching a&amp;#160;higher&amp;#160;level&amp;#160;of&amp;#160;SOC maturity&amp;#160;takes&amp;#160;better, more consistent decision-making&amp;#160;during malware and phishing investigation.&amp;#160; This requires a shift in how threat intelligence&amp;#160;is used:&amp;#160;not&amp;#160;as a reference point, but as a&amp;#160;core layer in the decision process.&amp;#160; Moving from reactive to confidently proactive security means&amp;#160;establishing&amp;#160;a threat intelligence workflow that: In this model, threat intelligence becomes part of the SOC’s operational fabric.&amp;#160;That’s&amp;#160;what ANY.RUN [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/soc-maturity-with-threat-intelligence/" rel="nofollow"&gt;From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</guid>
+      <pubDate>Thu, 02 Apr 2026 10:22:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
