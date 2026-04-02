@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 18:58:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 01:33:16 +0000</lastBuildDate>
     <item>
       <title>How to Reduce MTTR in Your SOC with Better Threat Intelligence</title>
       <link>https://any.run/cybersecurity-blog/reduce-soc-mttr-with-ti/</link>
