@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 12:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:51:55 +0000</lastBuildDate>
+    <item>
+      <title>Why Firewall Upgrades Matter for MSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</link>
+      <description>Upgrading isn’t just new features. See how SonicWall firewalls give MSPs stronger security, faster performance, and new service revenue.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</guid>
+    </item>
     <item>
       <title>UPGRADE ADVANTAGE:  Cost Savings for MSPs &amp; MSSPs</title>
       <link>https://www.sonicwall.com/blog/upgrade-advantage-cost-savings-for-msps-mssps</link>
@@ -244,12 +250,6 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
       <description>An alert may seem small, but tackling it quickly could be the difference between a good day and a very bad one.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
-    </item>
-    <item>
-      <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
-      <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
-      <description>Cyber threats move fast. Learn why detection alone isn’t enough and how automated security response helps stop attacks before they spread.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
     </item>
     <item>
       <title>FIPS 140-3 Validation: The Difference Between Proven and Assumed</title>

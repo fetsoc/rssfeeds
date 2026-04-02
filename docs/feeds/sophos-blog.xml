@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 12:58:02 +0000</lastBuildDate>
-    <item>
-      <title>NICKEL ALLEY strategy: Fake it ‘til you make it</title>
-      <link>https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</link>
-      <description>&lt;p&gt;Victimizing software developers via fake companies, jobs, and code repositories to steal cryptocurrency&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; NICKEL ALLEY, Contagious Interview, North Korea, clickfix&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/nickel-alley-strategy-fake-it-til-you-make-it</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 18:53:32 +0000</lastBuildDate>
     <item>
       <title>The global CISO landscape: A leadership gap too large to ignore</title>
       <link>https://www.sophos.com/en-us/blog/2026-ciso-report</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon GuardDuty enhances detection efficacy with Sophos threat intelligence</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</link>
+      <description>&lt;p&gt;Amazon has integrated Sophos threat intelligence into Amazon GuardDuty, expanding the breadth and accuracy of malicious threat detection for customers running workloads on Amazon Web Services (AWS).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AWS, Sophos Intelix, amazon, Amazon GuardDuty, Sophos OEM&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

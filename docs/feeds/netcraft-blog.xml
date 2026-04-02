@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 12:56:33 +0000</lastBuildDate>
-    <item>
-      <title>Boxing Clever: Uncovering a $1M Task Scam Cluster Exploiting Major Brands</title>
-      <link>https://www.netcraft.com/blog/boxing-clever-the-million-dollar-task-scam-cluster</link>
-      <description>Netcraft exposes a global task scam cluster exploiting brands like Delta, AMC, and Universal Studios. Using API-driven templates and crypto payments, the fraud has already linked to over $1M in transactions.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/boxing-clever-the-million-dollar-task-scam-cluster</guid>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 18:51:59 +0000</lastBuildDate>
     <item>
       <title>How Hiragana ‘ん’ Is Fooling Users in Phishing Attacks | Netcraft Threat Research</title>
       <link>https://www.netcraft.com/blog/down-the-hiragana-hole-uncovering-a-new-wave-of-lookalike-domains</link>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/excessive-emojis-as-an-ai-indicator</link>
       <description>See how "emoji clues" in code comments and console outputs serve as a indicator for identifying AI-generated phishing scripts and automated threat infrastructure.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/excessive-emojis-as-an-ai-indicator</guid>
+    </item>
+    <item>
+      <title>Ultimate Guide to Digital Risk Protection | Netcraft</title>
+      <link>https://www.netcraft.com/blog/ultimate-guide-to-digital-risk-protection</link>
+      <description>Digital risk protection is no longer a niche function inside cybersecurity - learn what it is, why it matters, and how to stop brand impersonation, phishing, and online threats.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/ultimate-guide-to-digital-risk-protection</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>
