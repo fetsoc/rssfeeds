@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 12:45:51 +0000</lastBuildDate>
-    <item>
-      <title>The global CISO landscape: A leadership gap too large to ignore</title>
-      <link>https://www.sophos.com/en-us/blog/2026-ciso-report</link>
-      <description>&lt;p&gt;Why the world needs scalable security leadership — and MSPs and MSSPs are key to delivery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Featured, CISO, Survey&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2026-ciso-report</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 18:40:17 +0000</lastBuildDate>
     <item>
       <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
       <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
@@ -30,6 +23,13 @@
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Where AI in the SOC is actually delivering — and where it isn’t</title>
+      <link>https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</link>
+      <description>&lt;p&gt;“We’ll have a generation of security professionals who can supervise AI but can’t function without it.&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; AI Research, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, AI Cybersecurity, AI RESEARCH, Generative AI, SOC&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
       <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
       <description>&lt;p&gt;A phishing campaign targeting multiple organizations led to RMM installations – but not much else (yet). A threat actor experimenting, or an access-as-a-service attack underway?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; STAC6405, infostealer, RMM, Phishing&lt;/p&gt;</description>
@@ -37,11 +37,11 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Where AI in the SOC is actually delivering — and where it isn’t</title>
-      <link>https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</link>
-      <description>&lt;p&gt;“We’ll have a generation of security professionals who can supervise AI but can’t function without it.&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; AI Research, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, AI Cybersecurity, AI RESEARCH, Generative AI, SOC&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <title>Axios npm package compromised to deploy malware</title>
+      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Cybersecurity Trust Reality in 2026</title>
@@ -58,18 +58,18 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Axios npm package compromised to deploy malware</title>
-      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Amazon GuardDuty enhances detection efficacy with Sophos threat intelligence</title>
       <link>https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</link>
       <description>&lt;p&gt;Amazon has integrated Sophos threat intelligence into Amazon GuardDuty, expanding the breadth and accuracy of malicious threat detection for customers running workloads on Amazon Web Services (AWS).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AWS, Sophos Intelix, amazon, Amazon GuardDuty, Sophos OEM&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos named a 2026 Gartner® Peer Insights™ Customers' Choice for Managed Detection and Response</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</link>
+      <description>&lt;p&gt;Third consecutive time being named a Customers’ Choice for MDR&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Gartner, Gartner Peer Insights, MDR, Sophos MDR, Third-Party Reviews&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

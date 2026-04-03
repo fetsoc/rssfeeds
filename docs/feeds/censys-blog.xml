@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 12:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 18:39:14 +0000</lastBuildDate>
+    <item>
+      <title>Securing the Signal and Protecting the Grid: Facing the Cybersecurity Risks Across Telecom - Censys</title>
+      <link>https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</link>
+      <description>As 2024 came to a close, the Cybersecurity and Infrastructure Security Agency (CISA), the FBI, the National Security Agency, and partner agencies in New Zealand, Australia, and Canada released a joint statement warning that Salt Typhoon, a Chinese APT group, was targeting major global telecommunications providers. As many as 80 telecommunications companies and internet service […]</description>
+      <guid isPermaLink="false">https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</guid>
+      <pubDate>Mon, 03 Feb 2025 21:34:26 +0000</pubDate>
+    </item>
     <item>
       <title>Unpacking the BADBOX Botnet with Censys - Censys</title>
       <link>https://censys.com/blog/unpacking-the-badbox-botnet/</link>
@@ -161,13 +168,6 @@
       <description>Today, we’re launching the Threat Hunting MCP Server, a new tool that brings Censys data into your existing workflows through a natural language interface. By leveraging the Model Context Protocol (MCP), we’re giving analysts a more conversational, iterative way to track adversary infrastructure from their AI assistant of choice. Reasons to Use the Threat Hunting […]</description>
       <guid isPermaLink="false">https://censys.com/blog/announcing-the-threat-hunting-mcp-server/</guid>
       <pubDate>Fri, 12 Sep 2025 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic IP Blocking with Palo Alto Networks Firewalls and Censys - Censys</title>
-      <link>https://censys.com/blog/dynamic-ip-blocking-with-censys/</link>
-      <description>TL;DR Leverage the Censys Threat Hunting dataset to automatically populate a Palo Alto Networks (PAN‑OS) External Dynamic List (EDL) with fresh malicious IPs. A small Python service fetches indicators from Censys, deduplicates and risk‑scores them, and serves a plain‑text list that PAN‑OS subscribes to on an interval. You get a living, continuously updated block list […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/dynamic-ip-blocking-with-censys/</guid>
-      <pubDate>Wed, 17 Sep 2025 16:57:00 +0000</pubDate>
     </item>
     <item>
       <title>A Look at PolarEdge Adjacent Infrastructure - Censys</title>
