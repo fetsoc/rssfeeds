@@ -7,187 +7,180 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/objective-see.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 18:44:37 +0000</lastBuildDate>
-    <item>
-      <title>Low-Level Process Hunting on macOS</title>
-      <link>https://objective-see.com/blog/blog_0x4A.html</link>
-      <description>Parent-child relationships are one of the simplest and most effective ways to detect malicious activity at the host level ...however on macOS things can get a little complex. Luckily security researcher Jaron Bradley is here to explain exactly what is going on!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x4A.html</guid>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 01:44:15 +0000</lastBuildDate>
     <item>
       <title>CVE-2020–9934: Bypassing TCC for Unauthorized Access</title>
-      <link>https://objective-see.com/blog/blog_0x4C.html</link>
+      <link>https://objective-see.org/blog/blog_0x4C.html</link>
       <description>In this guest blog post, security researcher Matt Shockley describes a lovely security vulnerability he uncovered in macOS. This bug allowed for a complete bypass of TCC's draconian entitlement checks, all without writing a single line of code!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x4C.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4C.html</guid>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2020–9854: "Unauthd"</title>
-      <link>https://objective-see.com/blog/blog_0x4D.html</link>
+      <link>https://objective-see.org/blog/blog_0x4D.html</link>
       <description>Security researcher Ilias Morad, describes an impressive exploit chain, combining three macOS logic bugs he uncovered in macOS. His exploit chain allowed a local user to elevate privileges all the way to ring-0 (kernel)!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x4D.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4D.html</guid>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Office Drama on macOS</title>
-      <link>https://objective-see.com/blog/blog_0x4B.html</link>
+      <link>https://objective-see.org/blog/blog_0x4B.html</link>
       <description>Even wondered how a system can be persistently infected by simply opening a document? In this post, I detail an exploit chain (created by yours truly), that was able fully infect a fully-patched macOS Catalina system, by simply opening a malicious (macro-laced) Office document ...no alerts, prompts, nor other direct user interactions required!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x4B.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4B.html</guid>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple Approved Malware</title>
-      <link>https://objective-see.com/blog/blog_0x4E.html</link>
+      <link>https://objective-see.org/blog/blog_0x4E.html</link>
       <description>Unfortunately we didn't have to wait long before hackers found a way to (ab)use Apple's new notarization service to get their malware approved! In this post, we tear apart an adware campaign that utilized malicious payloads containing Apple's notarization "stamp of approval".</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x4E.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4E.html</guid>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>FinFisher Filleted</title>
-      <link>https://objective-see.com/blog/blog_0x4F.html</link>
+      <link>https://objective-see.org/blog/blog_0x4F.html</link>
       <description>Interested in learning about a macOS cyber-espionage implant ...that leveraged priv-escalation exploits and a kernel-mode rootkit!? In this post, we analyze the macOS version of FinSpy.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x4F.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4F.html</guid>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Property List Parsing Bug(s)</title>
-      <link>https://objective-see.com/blog/blog_0x5A.html</link>
+      <link>https://objective-see.org/blog/blog_0x5A.html</link>
       <description>In this guest blog post, the security researcher behind @OSCartography, describes a bug related to parsing property lists ...a bug that trivial crashed macOS!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x5A.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x5A.html</guid>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Adventures in Anti-Gravity (Part I)</title>
-      <link>https://objective-see.com/blog/blog_0x5B.html</link>
+      <link>https://objective-see.org/blog/blog_0x5B.html</link>
       <description>Here we deconstruct a Mac variant of GravityRAT (the cross-platform spyware, known to target the Indian armed forces).</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x5B.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x5B.html</guid>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Adventures in Anti-Gravity (Part II)</title>
-      <link>https://objective-see.com/blog/blog_0x5C.html</link>
+      <link>https://objective-see.org/blog/blog_0x5C.html</link>
       <description>Here we continue to deconstruct a Mac variant of GravityRAT (the cross-platform spyware, known to target the Indian armed forces), focusing on its Electron component.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x5C.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x5C.html</guid>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Detecting SSH Activity via Process Monitoring</title>
-      <link>https://objective-see.com/blog/blog_0x5D.html</link>
+      <link>https://objective-see.org/blog/blog_0x5D.html</link>
       <description>In this guest blog post, the noted Mac security researcher/author Jaron Bradley explains how to detect (potentially malicious) SSH activity...via process monitoring and the analysis of process hierarchies.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x5D.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x5D.html</guid>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Mac Malware of 2020</title>
-      <link>https://objective-see.com/blog/blog_0x5F.html</link>
+      <link>https://objective-see.org/blog/blog_0x5F.html</link>
       <description>Our annual report on all the Mac malware of the year - including samples for download, infection vectors, persistence mechanisms, payloads and more!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x5F.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x5F.html</guid>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Discharging ElectroRAT</title>
-      <link>https://objective-see.com/blog/blog_0x61.html</link>
+      <link>https://objective-see.org/blog/blog_0x61.html</link>
       <description>The first (macOS) malware of 2021 is an insidious remote access tool (RAT), containing a variety of embedded payload to extend its functionality.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x61.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x61.html</guid>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Arm'd &amp; Dangerous</title>
-      <link>https://objective-see.com/blog/blog_0x62.html</link>
+      <link>https://objective-see.org/blog/blog_0x62.html</link>
       <description>Apple's new M1 systems offer a myriad of benefits, that malware authors are now leveraging. Here, we detail the first malicious program, compiled to natively target Apple Silicon (M1/arm64)!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x62.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x62.html</guid>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Creating Shield</title>
-      <link>https://objective-see.com/blog/blog_0x63.html</link>
+      <link>https://objective-see.org/blog/blog_0x63.html</link>
       <description>In this guest blog post, the Mac security researcher Csaba Fitzl, descrbibes his journey creating an app to protect against process injection on macOS.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x63.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x63.html</guid>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>All Your Macs Are Belong To Us</title>
-      <link>https://objective-see.com/blog/blog_0x64.html</link>
+      <link>https://objective-see.org/blog/blog_0x64.html</link>
       <description>This is our 100th blog post ...and it's a doozy! Here, we detail a bug that trivially bypasses many core Apple security mechanisms, leaving Mac users at grave risk!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x64.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x64.html</guid>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OSX.Hydromac</title>
-      <link>https://objective-see.com/blog/blog_0x65.html</link>
+      <link>https://objective-see.org/blog/blog_0x65.html</link>
       <description>In this guest blog post, the security researcher Taha Karim of ConfiantIntel, dives into a new macOS adware specimen: Hydromac.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x65.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x65.html</guid>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Made in China: OSX.ZuRu</title>
-      <link>https://objective-see.com/blog/blog_0x66.html</link>
+      <link>https://objective-see.org/blog/blog_0x66.html</link>
       <description>Attackers are leveraging trojanized appplications to spread malware, via sponsored search results.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x66.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x66.html</guid>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Analysis of CVE-2021-30860</title>
-      <link>https://objective-see.com/blog/blog_0x67.html</link>
+      <link>https://objective-see.org/blog/blog_0x67.html</link>
       <description>In this guest blog post, the security researcher Tom McGuire details the flaw and fix of CVE-2021-30860, a zero-click vulnerability, exploited in the wild.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x67.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x67.html</guid>
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Made In America: Green Lambert for OS X</title>
-      <link>https://objective-see.com/blog/blog_0x68.html</link>
+      <link>https://objective-see.org/blog/blog_0x68.html</link>
       <description>In this guest blog post, the security researcher Runa Sandvik analyzes OSX.GreenLambert, a first-stage macOS implant utilized by the CIA.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x68.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x68.html</guid>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OSX.CDDS (MacMa): A Sophisticated Watering Hole Campaign Drops A New macOS Implant!</title>
-      <link>https://objective-see.com/blog/blog_0x69.html</link>
+      <link>https://objective-see.org/blog/blog_0x69.html</link>
       <description>A nationstate attack leverages n-/0-day exploits to persistently infect Apple systems with a new macOS implant.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x69.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x69.html</guid>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Where's the Interpreter!?</title>
-      <link>https://objective-see.com/blog/blog_0x6A.html</link>
+      <link>https://objective-see.org/blog/blog_0x6A.html</link>
       <description>CVE-2021-30853 was able to bypass file quarantine, gatekeeper, &amp; notarization requirements. In this post, we show exactly why!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x6A.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x6A.html</guid>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Mac Malware of 2021</title>
-      <link>https://objective-see.com/blog/blog_0x6B.html</link>
+      <link>https://objective-see.org/blog/blog_0x6B.html</link>
       <description>It's here! Our annual report on all the Mac malware of the year (2021 edition). Besides providing samples for download, we cover infection vectors, persistence mechanisms, payloads and more!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x6B.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x6B.html</guid>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SysJoker, the first (macOS) malware of 2022!</title>
-      <link>https://objective-see.com/blog/blog_0x6C.html</link>
+      <link>https://objective-see.org/blog/blog_0x6C.html</link>
       <description>Here, we analyze the macOS versions of a cross-platform backdoor.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x6C.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x6C.html</guid>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Analyzing OSX.DazzleSpy</title>
-      <link>https://objective-see.com/blog/blog_0x6D.html</link>
+      <link>https://objective-see.org/blog/blog_0x6D.html</link>
       <description>DazzleSpy is a fully-featured cyber-espionage macOS implant, installed via a remote Safari exploit!</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x6D.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x6D.html</guid>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From The DPRK With Love</title>
-      <link>https://objective-see.com/blog/blog_0x6E.html</link>
+      <link>https://objective-see.org/blog/blog_0x6E.html</link>
       <description>A report from the Cybersecurity &amp; Infrastructure Security Agency detailed "[A] North Korean State-Sponsored APT Target[ing] Blockchain Companies." We build upon CISA's report, diving deeper into one of the malicious macOS samples.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x6E.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x6E.html</guid>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SeaFlower 藏海花</title>
-      <link>https://objective-see.com/blog/blog_0x6F.html</link>
+      <link>https://objective-see.org/blog/blog_0x6F.html</link>
       <description>It's not everyday that we get to talk about backdoors targeting iOS users. In this guest blog post, security researcher Taha Karim, details a sophisticated threat targeting iOS web3 users.</description>
-      <guid isPermaLink="false">https://objective-see.com/blog/blog_0x6F.html</guid>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x6F.html</guid>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -345,8 +338,9 @@
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>https://objective-see.org/blog/blog_0x86.html</title>
+      <title>Building a Firewall ...via Endpoint Security!?</title>
       <link>https://objective-see.org/blog/blog_0x86.html</link>
+      <description>You can now build macOS firewalls/network tools via Endpoint Security ...no Network Extension needed! In this post, we reverse macOS 26.4's new ES_EVENT_TYPE_RESERVED_* ES events shows some are network auth/notify hooks.</description>
       <guid isPermaLink="false">https://objective-see.org/blog/blog_0x86.html</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -356,6 +350,13 @@
       <description>In macOS 26.4, Apple added ClickFix protections. In this post, we reverse macOS to uncover exactly how these protections are implemented, and whether we can replicate the same approach in our own tools.</description>
       <guid isPermaLink="false">https://objective-see.org/blog/blog_0x87.html</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Catching macOS Stealers in the Wild</title>
+      <link>https://objective-see.org/blog/blog_0x88.html</link>
+      <description>macOS stealers continue to be a pervasive threat! In this guest blog post, one of our #OBTS student scholars, Pablo Redondo Castro, shares the technical details of a macOS stealer (likely AMOS-related) he analyzed.</description>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x88.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

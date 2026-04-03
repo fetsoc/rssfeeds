@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 18:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 01:54:21 +0000</lastBuildDate>
     <item>
       <title>December 2025 Security Issues in Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/92207/</link>
@@ -198,18 +198,18 @@
       <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of overly advertised apps in mobile app stores</title>
-      <link>https://asec.ahnlab.com/en/93142/</link>
-      <description>AhnLab&amp;#8217;s engine development team found a number of apps on the Google Play Store and Apple App Store that disguised themselves as dealing with topics close to our daily lives, such as government policies and learning apps, and displayed excessive ads. figure 1. Hyped apps circulating on Google Play Store figure 2. Hyped apps circulating [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93142/</guid>
+      <title>Malicious LNK Files Distributing a Python-Based Backdoor and Changes in Distribution Techniques (Kimsuky Group)</title>
+      <link>https://asec.ahnlab.com/en/93151/</link>
+      <description>Overview AhnLab SEcurity intelligence Center (ASEC) recently identified a change in the Kimsuky group&amp;#8217;s method of distributing malicious LNK files. The overall attack flow remains the same as before, with a malicious LNK ultimately executing a Python-based backdoor or downloader. However, a structural change was observed in the intermediate execution phase. &amp;#160; Category Previous Distribution [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93151/</guid>
       <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A malicious LNK that spreads a Python-based backdoor and how it’s spreading (Kimsuky group)</title>
-      <link>https://asec.ahnlab.com/en/93151/</link>
-      <description>overview AhnLab SEcurity intelligence Center (ASEC) recently identified a change in the Kimsuky group&amp;#8217;s method of distributing malicious LNK files. the overall attack flow remains the same as before, with a malicious LNK ultimately executing a Python-based backdoor or downloader. however, a structural change was observed in the intermediate execution phase. distinction historical Distribution Method [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93151/</guid>
-      <pubDate>Wed, 01 Apr 2026 10:00:31 +0000</pubDate>
+      <title>Beware of Apps with Excessive Advertising Distributed via Mobile App Stores</title>
+      <link>https://asec.ahnlab.com/en/93142/</link>
+      <description>AhnLab&amp;#8217;s engine development team found a number of apps on the Google Play Store and Apple App Store that disguised themselves as dealing with topics close to our daily lives, such as government policies and learning apps, and displayed excessive ads. &amp;#160; Figure 1. Hyped apps circulating on Google Play Store Figure 2. Hyped apps [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93142/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 1, April 2026</title>
