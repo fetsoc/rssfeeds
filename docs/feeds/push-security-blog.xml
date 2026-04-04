@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 06:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 12:39:24 +0000</lastBuildDate>
     <item>
       <title>Integrate Push Security and Panther</title>
       <link>https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</link>
@@ -70,13 +70,6 @@
       <description>How Push detects and blocks phishing attempts in the browser – explained in less than two minutes.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser</guid>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we can learn from the ServiceNow/Microsoft disclosure</title>
-      <link>https://pushsecurity.com/blog/learning-from-the-servicenow-disclosure</link>
-      <description>Account takeover on third-party apps is the flavor of the month for security researchers — what can we learn from it?</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/learning-from-the-servicenow-disclosure</guid>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How attackers defeat detections based on page signatures</title>
@@ -357,6 +350,13 @@
       <description>Attackers are impersonating popular developer tools like Claude Code to distribute fake install instructions via malicious search engine ads.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/installfix</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysing the rise in device code phishing attacks in 2026</title>
+      <link>https://pushsecurity.com/blog/device-code-phishing</link>
+      <description>Device code phishing is seeing a huge spike in adoption in 2026, enabling attackers to steal access tokens while bypassing standard access controls.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/device-code-phishing</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
