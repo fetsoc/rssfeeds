@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 18:39:14 +0000</lastBuildDate>
-    <item>
-      <title>Securing the Signal and Protecting the Grid: Facing the Cybersecurity Risks Across Telecom - Censys</title>
-      <link>https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</link>
-      <description>As 2024 came to a close, the Cybersecurity and Infrastructure Security Agency (CISA), the FBI, the National Security Agency, and partner agencies in New Zealand, Australia, and Canada released a joint statement warning that Salt Typhoon, a Chinese APT group, was targeting major global telecommunications providers. As many as 80 telecommunications companies and internet service […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</guid>
-      <pubDate>Mon, 03 Feb 2025 21:34:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 12:41:37 +0000</lastBuildDate>
     <item>
       <title>Unpacking the BADBOX Botnet with Censys - Censys</title>
       <link>https://censys.com/blog/unpacking-the-badbox-botnet/</link>
@@ -154,6 +147,13 @@
       <description>Putting Exploits into Context  Understanding which vulnerabilities matter most can be a daunting task. The new CVE Exploit Context feature in Censys ASM changes that by offering clear, actionable insight into which CVEs are truly dangerous and exploited by attackers in the wild. What Is CVE Exploit Context?  CVE Exploit Context delivers  threat intelligence context on […]</description>
       <guid isPermaLink="false">https://censys.com/blog/asm-cve-exploit-context/</guid>
       <pubDate>Tue, 17 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internet Archaeology: A Decade of Defaced Routers? - Censys</title>
+      <link>https://censys.com/blog/internet-archaeology-a-decade-of-defaced-routers/</link>
+      <description>Executive Summary 330+ Ubiquiti devices currently display a defacement banner suggesting they’ve used default credentials, reused a password, were infected by a worm, or compromised in some other way, with first reports of these banners dating back to 2016. Though these several hundred defaced hosts linger, we observe a 75% decrease in the number of hosts displaying […]</description>
+      <guid isPermaLink="false">https://censys.com/blog/internet-archaeology-a-decade-of-defaced-routers/</guid>
+      <pubDate>Wed, 03 Sep 2025 13:57:00 +0000</pubDate>
     </item>
     <item>
       <title>Announcing the Investigation Manager: A New Way to Hunt for Adversary Infrastructure - Censys</title>
