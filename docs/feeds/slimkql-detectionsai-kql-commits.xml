@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 01:49:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:20:36 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/a-360-surveillance-kql-for-monitoring-potential-r…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/f6d053ece2fd04da7e1a91c01258555ea49278e1</link>
