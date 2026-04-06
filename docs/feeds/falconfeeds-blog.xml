@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 07:22:27 +0000</lastBuildDate>
-    <item>
-      <title>Strategic Threat Assessment: The Qilin Ransomware Cartel (2022–2026)</title>
-      <link>https://falconfeeds.io/blogs/qilin-ransomware-cartel-strategic-threat-assessment-2022-2026</link>
-      <description>A strategic threat assessment of the Qilin ransomware cartel (2022–2026), examining its evolution from Agenda to a Tier-1 extortion syndicate, advanced TTPs, affiliate ecosystem, victimology, and its projected future role in the industrialized global cybercrime economy.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/qilin-ransomware-cartel-strategic-threat-assessment-2022-2026</guid>
-      <pubDate>Fri, 26 Dec 2025 06:06:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 13:03:26 +0000</lastBuildDate>
     <item>
       <title>The Lazarus Constellation: A Comprehensive Intelligence Dossier on the DPRK’s Cyber Warfare Apparatus (2009–2026)</title>
       <link>https://falconfeeds.io/blogs/lazarus-constellation-dprk-cyber-warfare-intelligence-dossier-2009-2026</link>
@@ -357,6 +350,13 @@
       <description>A pro-Palestinian hacktivist group, Conquerors Electronic Army (CEA), targets Israel’s MASAV payment system with DDoS and cyber operations, highlighting the growing role of financial infrastructure disruption in conflict-driven cyber warfare.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/cea-masav-attack-israel-payment-system-hacktivist-ddos-cyber-operations</guid>
       <pubDate>Wed, 25 Mar 2026 06:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Shadows to Sanctions: Unmasking 35 Iranian Cyber Operatives Driving State-Sponsored Warfare</title>
+      <link>https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</link>
+      <description>An intelligence-driven analysis exposing 35 Iranian cyber operatives, front companies, and state-linked networks tied to IRGC and MOIS operations, based on DOJ indictments, OFAC sanctions, FBI advisories, and private-sector threat intelligence.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</guid>
+      <pubDate>Mon, 06 Apr 2026 10:24:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
