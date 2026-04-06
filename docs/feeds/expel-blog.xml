@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 13:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 18:46:51 +0000</lastBuildDate>
     <item>
       <title>Expel Quarterly Threat Report, volume I: Q3 2024 by the numbers</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</link>
@@ -191,13 +191,6 @@
       <pubDate>Fri, 10 Jan 2025 18:50:08 +0000</pubDate>
     </item>
     <item>
-      <title>Patch Tuesday roundup for January 2025</title>
-      <link>https://expel.com/blog/patch-tuesday-roundup-for-january-2025/</link>
-      <description>The January 2025 edition of Patch Tuesday is live, including 159 published CVEs from Microsoft. Here are our top takeaways.</description>
-      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-january-2025/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:16:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Cloud security: alerts vs. on-prem alerts (part I)</title>
       <link>https://expel.com/blog/cloud-security-alerts-vs-on-prem-alerts-part-i/</link>
       <description>This is part one of a two-part blog on cloud security alerts, including what makes them unique and best practices for management.</description>
@@ -343,6 +336,13 @@
       <description>Meet our newest Expletive, MDR Manager Irving Bailiff. He's our newest hire at Expel, and has thoughts on the state of our handbook.</description>
       <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-irving-b-mdr-manager/</guid>
       <pubDate>Tue, 01 Apr 2025 13:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of cloud resources (part II): Demystifying cloud security tools</title>
+      <link>https://expel.com/blog/comparison-of-cloud-resources-part-ii/</link>
+      <description>This is part two of our four-part blog series on comparing cloud resources. Part two defines the types of tools used for cloud security.</description>
+      <guid isPermaLink="false">https://expel.com/blog/comparison-of-cloud-resources-part-ii/</guid>
+      <pubDate>Thu, 03 Apr 2025 14:11:30 +0000</pubDate>
     </item>
     <item>
       <title>Key findings generation with GenAI</title>
