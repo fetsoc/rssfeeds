@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 12:41:37 +0000</lastBuildDate>
-    <item>
-      <title>Unpacking the BADBOX Botnet with Censys - Censys</title>
-      <link>https://censys.com/blog/unpacking-the-badbox-botnet/</link>
-      <description>Executive Summary: BADBOX is a newly discovered botnet targeting both off-brand and well-known Android devices—often with malware that potentially came pre-installed from the factory or further down in the supply chain. Over 190,000 infected devices have been observed so far, including higher-end models like Yandex 4K QLED TVs. Using Censys, I identified a suspicious SSL/TLS […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/unpacking-the-badbox-botnet/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:05:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 19:02:26 +0000</lastBuildDate>
     <item>
       <title>The Lurking Threat of Edge Security Products - Censys</title>
       <link>https://censys.com/blog/the-lurking-threat-of-edge-security-products/</link>
@@ -147,6 +140,13 @@
       <description>Putting Exploits into Context  Understanding which vulnerabilities matter most can be a daunting task. The new CVE Exploit Context feature in Censys ASM changes that by offering clear, actionable insight into which CVEs are truly dangerous and exploited by attackers in the wild. What Is CVE Exploit Context?  CVE Exploit Context delivers  threat intelligence context on […]</description>
       <guid isPermaLink="false">https://censys.com/blog/asm-cve-exploit-context/</guid>
       <pubDate>Tue, 17 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing ASM Use Cases to Life with an MCP Server - Censys</title>
+      <link>https://censys.com/blog/asm-mcp-server-use-cases/</link>
+      <description>Censys recently released an MCP Server for Censys Attack Surface Management (ASM) to bring AI tooling and access to Censys ASM data. This release offers a new way to put your ASM data to work inside the AI assistant or copilot of your choice. Instead of digging through dashboards or manually pivoting across tools, you can […]</description>
+      <guid isPermaLink="false">https://censys.com/blog/asm-mcp-server-use-cases/</guid>
+      <pubDate>Wed, 03 Sep 2025 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Internet Archaeology: A Decade of Defaced Routers? - Censys</title>

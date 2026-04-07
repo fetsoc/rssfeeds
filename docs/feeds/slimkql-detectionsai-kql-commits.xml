@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 13:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:01:40 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/oauth-ms-phish-targeting-docusign-users.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/bdb36c4d202bdb12c6595caeefe652433c89356e</link>
