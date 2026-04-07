@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 07:09:28 +0000</lastBuildDate>
-    <item>
-      <title>Future-Proofing with SonicWall: Upgrade Advantage</title>
-      <link>https://www.sonicwall.com/blog/upgrade-advantage-future-proofing-for-partners-msps-and-mssps</link>
-      <description>Discover how SonicWall upgrades deliver stronger security today while positioning partners for resilience, growth, and long-term customer loyalty.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-future-proofing-for-partners-msps-and-mssps</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 13:04:25 +0000</lastBuildDate>
     <item>
       <title>Upgrade Advantage: More Value, Less Effort for MSPs</title>
       <link>https://www.sonicwall.com/blog/upgrade-advantage-more-value-less-effort-for-partners-msps-mssps</link>
@@ -275,6 +269,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</link>
       <description>Discover why SMBs are choosing active protection over reactive "break-fix" security. Save time with seamless Gen 6 migration tools and the "3 &amp; Free" program.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</guid>
+    </item>
+    <item>
+      <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
+      <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>
+      <description>Credential compromise is one of the most common causes of data breaches. Learn how stolen credentials are used in attacks and how Zero Trust access helps stop them.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</guid>
     </item>
     <item>
       <title>GPT Academic Pickle Deserialization Remote Code Execution (CVE-2026-0763)</title>

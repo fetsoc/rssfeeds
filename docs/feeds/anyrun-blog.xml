@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 07:12:34 +0000</lastBuildDate>
-    <item>
-      <title>Ready for macOS Threats: Expanding Your SOC’s Cross-Platform Analysis with ANY.RUN</title>
-      <link>https://any.run/cybersecurity-blog/anyrun-macos-sandbox/</link>
-      <description>&lt;p&gt;Enterprise security teams are no longer defending a single-platform environment. They are expected&amp;#160;to&amp;#160;investigate threats&amp;#160;across multiple platforms every day,&amp;#160;often under constant pressure to move faster and make the right call early.&amp;#160;When analysis workflows are split across different tools and environments, triage slows down, investigations take longer, and&amp;#160;business&amp;#160;risks&amp;#160;grow.&amp;#160; To help SOC and MSSP teams handle cross-platform threats [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/anyrun-macos-sandbox/" rel="nofollow"&gt;Ready for macOS Threats: Expanding Your SOC’s Cross-Platform Analysis with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-macos-sandbox/</guid>
-      <pubDate>Thu, 19 Mar 2026 13:10:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 13:05:27 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN Enters IT-Harvest’s 2026 Cyber 150 for Fast Growth and Industry Impact</title>
       <link>https://any.run/cybersecurity-blog/anyrun-harvest-cyber-150-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="/cybersecurity-blog/soc-maturity-with-threat-intelligence/" rel="nofollow"&gt;From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</guid>
       <pubDate>Thu, 02 Apr 2026 10:22:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild</title>
+      <link>https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</link>
+      <description>&lt;p&gt;For years, macOS environments carried an aura of relative safety. Not immunity, but lower priority in the threat landscape. That&amp;#160;perception&amp;#160;has aged about as well as an unpatched server.&amp;#160;&amp;#160;The reality in 2026 is&amp;#160;very different. Apple devices now make up a significant share of corporate endpoints.&amp;#160;And they sit in the hands of the people attackers most want [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/macos-clickfix-amos-attack/" rel="nofollow"&gt;ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</guid>
+      <pubDate>Tue, 07 Apr 2026 10:50:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,19 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 07:12:38 +0000</lastBuildDate>
-    <item>
-      <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
-      <description>&lt;p&gt;Why organizations are choosing Sophos Firewall to reduce exposure and strengthen resilience&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Products&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, G2, Awards&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 13:05:31 +0000</lastBuildDate>
     <item>
       <title>Cybersecurity for Education – Sophos Protected Classroom</title>
       <link>https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</link>
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Education, Endpoint, NDR, MDR&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
+      <description>&lt;p&gt;Why organizations are choosing Sophos Firewall to reduce exposure and strengthen resilience&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Products&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, G2, Awards&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -37,17 +37,17 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Axios npm package compromised to deploy malware</title>
-      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Cybersecurity Trust Reality in 2026</title>
       <link>https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</link>
       <description>&lt;p&gt;New Sophos survey reveals only 5% of IT leaders say they fully trust their cybersecurity vendors&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Trust, Privacy, Trust Center&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axios npm package compromised to deploy malware</title>
+      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
