@@ -7,49 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/upguard-news.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 01:51:09 +0000</lastBuildDate>
-    <item>
-      <title>Data breach reported for Charlottesville Settlement Company | UpGuard</title>
-      <link>https://www.upguard.com/news/charlottesville-settlement-data-breach-2026-03-20</link>
-      <description>A data breach involving Charlottesville Settlement was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/charlottesville-settlement-data-breach-2026-03-20</guid>
-      <pubDate>Sun, 22 Mar 2026 22:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Freedom Mobile Data Breach | UpGuard</title>
-      <link>https://www.upguard.com/news/freedom-mobile-data-breach-2026-03-20</link>
-      <description>A data breach involving Freedom Mobile was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/freedom-mobile-data-breach-2026-03-20</guid>
-      <pubDate>Sun, 22 Mar 2026 22:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>APT Iran Claims Data Breach on Lockheed Martin | UpGuard</title>
-      <link>https://www.upguard.com/news/lockheed-martin-data-breach-2026-03-24</link>
-      <description>A data breach involving Lockheed Martin was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/lockheed-martin-data-breach-2026-03-24</guid>
-      <pubDate>Wed, 25 Mar 2026 23:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trio-Tech International Investigating Ransomware Attack | UpGuard</title>
-      <link>https://www.upguard.com/news/trio-tech-international-data-breach-2026-03-24</link>
-      <description>A data breach involving Trio-Tech International was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/trio-tech-international-data-breach-2026-03-24</guid>
-      <pubDate>Wed, 25 Mar 2026 23:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data breach reported for Chapel Hill Presbyterian Church | UpGuard</title>
-      <link>https://www.upguard.com/news/chapel-hill-church-data-breach-2026-03-24</link>
-      <description>A data breach involving Chapel Hill Church was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/chapel-hill-church-data-breach-2026-03-24</guid>
-      <pubDate>Wed, 25 Mar 2026 23:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scioto County (Ohio) Investigating Cyberattack | UpGuard</title>
-      <link>https://www.upguard.com/news/scioto-county-ohio-data-breach-2026-03-24</link>
-      <description>A data breach involving Scioto County Ohio was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/scioto-county-ohio-data-breach-2026-03-24</guid>
-      <pubDate>Wed, 25 Mar 2026 23:39:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 07:11:01 +0000</lastBuildDate>
     <item>
       <title>Data breach reported for Hightower Holding | UpGuard</title>
       <link>https://www.upguard.com/news/hightower-advisors-data-breach-2026-03-25</link>
@@ -357,6 +315,48 @@
       <description>A data breach involving Statistics South Africa was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
       <guid isPermaLink="false">https://www.upguard.com/news/statistics-south-africa-data-breach-2026-03-31</guid>
       <pubDate>Wed, 01 Apr 2026 23:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estes Forwarding Worldwide data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/estes-forwarding-worldwide-data-breach-2026-04-07</link>
+      <description>A data breach involving Estes Forwarding Worldwide was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/estes-forwarding-worldwide-data-breach-2026-04-07</guid>
+      <pubDate>Wed, 08 Apr 2026 06:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Orleans Saints hit by data breach – medium-severity incident reported | UpGuard</title>
+      <link>https://www.upguard.com/news/new-orleans-saints-data-breach-2026-04-07</link>
+      <description>A data breach involving New Orleans Saints was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/new-orleans-saints-data-breach-2026-04-07</guid>
+      <pubDate>Wed, 08 Apr 2026 06:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toyo Tire data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/toyo-tire-data-breach-2026-04-07</link>
+      <description>A data breach involving Toyo Tire was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/toyo-tire-data-breach-2026-04-07</guid>
+      <pubDate>Wed, 08 Apr 2026 06:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elliott C Dale, MD data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/elliott-c-dale-md-data-breach-2026-04-07</link>
+      <description>A data breach involving Elliott C Dale, MD was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/elliott-c-dale-md-data-breach-2026-04-07</guid>
+      <pubDate>Wed, 08 Apr 2026 06:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crunchyroll data breach exposes 1.2 million user email addresses | UpGuard</title>
+      <link>https://www.upguard.com/news/crunchyroll-data-breach-2026-04-07</link>
+      <description>A data breach involving Crunchyroll was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/crunchyroll-data-breach-2026-04-07</guid>
+      <pubDate>Wed, 08 Apr 2026 06:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>T-Mobile data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/t-mobile-data-breach-2026-04-07</link>
+      <description>A data breach involving T-Mobile was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/t-mobile-data-breach-2026-04-07</guid>
+      <pubDate>Wed, 08 Apr 2026 06:15:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
