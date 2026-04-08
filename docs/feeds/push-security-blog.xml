@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 07:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:06:42 +0000</lastBuildDate>
     <item>
       <title>Integrate Push Security and Panther</title>
       <link>https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</link>
@@ -212,13 +212,6 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Scattered Spider target aviation &amp; insurance firms</title>
-      <link>https://pushsecurity.com/blog/key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms</link>
-      <description>Scattered Spider continues to dominate the headlines, with attacks on aviation and insurance companies worldwide.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/key-takeaways-from-the-scattered-spider-attacks-on-insurance-firms</guid>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Block URL obfuscation in the browser with Push</title>
       <link>https://pushsecurity.com/blog/detecting-phishing-pages-using-obfuscated-url-destinations</link>
       <description>Push now blocks URL schema obfuscation, countering a common technique used by attackers to bypass URL detections for phishing pages and malicious IPs.</description>
@@ -357,6 +350,13 @@
       <description>Device code phishing is seeing a huge spike in adoption in 2026, enabling attackers to steal access tokens while bypassing standard access controls.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/device-code-phishing</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: How to use Push to protect users from browser threats</title>
+      <link>https://pushsecurity.com/blog/guide-how-to-use-push-controls-to-protect-your-users-from-modern-attacks</link>
+      <description>How to use in-browser controls to stop browser-based attacks before compromise can occur</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/guide-how-to-use-push-controls-to-protect-your-users-from-modern-attacks</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

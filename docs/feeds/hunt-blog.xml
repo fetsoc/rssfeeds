@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 07:08:45 +0000</lastBuildDate>
-    <item>
-      <title>Paste.ee Abuse Uncovered: XWorm &amp; AsyncRAT Infrastructure</title>
-      <link>https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure</link>
-      <description>See how attackers abuse paste.ee to deliver XWorm and AsyncRAT, using obfuscated scripts and globally distributed C2 infrastructure.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/pasteee-xworm-asyncrat-infrastructure</guid>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 13:04:33 +0000</lastBuildDate>
     <item>
       <title>Introducing Hunt 2.2: AttackCapture™ Zip Extraction, Smarter SQL, IP History Consolidation, and more</title>
       <link>https://hunt.io/blog/introducing-hunt-2-2</link>
@@ -357,6 +350,13 @@
       <description>The axios npm maintainer account was hijacked to push two malicious versions. Inside: an obfuscated postinstall dropper, three platform-specific RATs, self-destructing cleanup, and C2 infrastructure linked to TA444/BlueNoroff</description>
       <guid isPermaLink="false">https://hunt.io/blog/axios-supply-chain-attack-ta444-bluenoroff</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canis C2 Exposed: Previously Undocumented Cross-Platform Surveillance Framework Targeting Japan</title>
+      <link>https://hunt.io/blog/canis-c2-exposed-cross-platform-surveillance-framework-japan</link>
+      <description>An exposed API on a Japanese phishing server revealed Canis C2, a previously undocumented surveillance framework targeting Android, iOS, Windows, Linux, and macOS.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/canis-c2-exposed-cross-platform-surveillance-framework-japan</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

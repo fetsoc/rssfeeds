@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 07:11:03 +0000</lastBuildDate>
-    <item>
-      <title>Cybersecurity for Education – Sophos Protected Classroom</title>
-      <link>https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Education, Endpoint, NDR, MDR&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cybersecurity-for-education-sophos-protected-classroom</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 13:06:56 +0000</lastBuildDate>
     <item>
       <title>Sophos Firewall ranked the #1 overall firewall solution in G2’s Spring 2026 reports</title>
       <link>https://www.sophos.com/en-us/blog/sophos-firewall-ranked-the-1-overall-firewall-solution-in-g2-s-spring-2026-reports</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Third consecutive time being named a Customers’ Choice for MDR&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Gartner, Gartner Peer Insights, MDR, Sophos MDR, Third-Party Reviews&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is compliance complexity outpacing IT capacity?</title>
+      <link>https://www.sophos.com/en-us/blog/is-compliance-complexity-outpacing-IT-capacity-survey</link>
+      <description>&lt;p&gt;No matter the country, industry, or company size, IT and cybersecurity teams report a heavy regulatory load and worry about staying aligned with requirements&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; PRODUCTS &amp;amp; SERVICES, surveys, Compliance, GDPR compliance, regulatory compliance&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/is-compliance-complexity-outpacing-IT-capacity-survey</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

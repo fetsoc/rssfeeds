@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 07:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:05:22 +0000</lastBuildDate>
     <item>
       <title>The False Positive Tax: How Bad Automation Destroys Security Program Credibility</title>
       <link>https://www.netcraft.com/blog/the-false-positive-tax-how-bad-automation-destroys-security-program-credibility</link>

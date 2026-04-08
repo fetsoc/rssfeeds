@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 07:11:02 +0000</lastBuildDate>
-    <item>
-      <title>ANY.RUN Enters IT-Harvest’s 2026 Cyber 150 for Fast Growth and Industry Impact</title>
-      <link>https://any.run/cybersecurity-blog/anyrun-harvest-cyber-150-2026/</link>
-      <description>&lt;p&gt;We’re&amp;#160;thrilled to announce that&amp;#160;ANY.RUN&amp;#160;has once again been recognized in IT-Harvest’s 2026 Cyber 150, a list of the fastest-growing cybersecurity companies. Receiving this recognition&amp;#160;for the second year in a row&amp;#160;makes this moment especially meaningful and reflects the strong progress our company made over the past year.&amp;#160; It also points to a broader shift in the market. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/anyrun-harvest-cyber-150-2026/" rel="nofollow"&gt;ANY.RUN Enters IT-Harvest’s 2026 Cyber 150 for Fast Growth and Industry Impact &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-harvest-cyber-150-2026/</guid>
-      <pubDate>Fri, 20 Mar 2026 09:57:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 13:06:53 +0000</lastBuildDate>
     <item>
       <title>Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/healthcare-success-story/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="/cybersecurity-blog/macos-clickfix-amos-attack/" rel="nofollow"&gt;ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</guid>
       <pubDate>Tue, 07 Apr 2026 10:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Phishing Detection That Works: 3 Steps for CISOs</title>
+      <link>https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</link>
+      <description>&lt;p&gt;90% of attacks&amp;#160;start with&amp;#160;phishing.&amp;#160;For CISOs, the real&amp;#160;pain begins when the SOC cannot quickly tell whether a suspicious alert is just&amp;#160;noise or the&amp;#160;start of credential theft, account compromise, malware delivery, or wider business disruption.&amp;#160; Modern&amp;#160;phishing&amp;#160;campaigns are designed to create exactly that uncertainty. QR codes, redirect chains, CAPTCHAs,&amp;#160;phishing&amp;#160;kits, and AI-generated lures can all hide the real&amp;#160;objective&amp;#160;until late [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="/cybersecurity-blog/phishing-detection-steps-for-cisos/" rel="nofollow"&gt;Building Phishing Detection That Works: 3 Steps for CISOs &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</guid>
+      <pubDate>Wed, 08 Apr 2026 11:12:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
