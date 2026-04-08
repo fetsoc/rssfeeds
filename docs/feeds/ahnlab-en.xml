@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 13:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:12:02 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web  Issues Week 3, January 2026</title>
       <link>https://asec.ahnlab.com/en/92258/</link>
@@ -72,17 +72,17 @@
       <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>January 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/92646/</link>
-      <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, Fabruary 2026</title>
       <link>https://asec.ahnlab.com/en/92636/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Anubis and The Gentlemen launch ransomware attacks targeting a South Korean plastics manufacturer and an IT consulting company [1], [2] Emergence of the new ransomware group Payload ShinyHunters claims data breach involving a well-known Canadian apparel manufacturer</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92636/</guid>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/92646/</link>
+      <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
       <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
