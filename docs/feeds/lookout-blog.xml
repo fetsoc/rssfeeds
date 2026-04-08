@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 19:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 01:49:30 +0000</lastBuildDate>
     <item>
       <title>Lookout Expands Protection Following Google’s Disruption of the IPIDEA Proxy Network</title>
       <link>https://security.lookout.com/blog/lookout-expands-protection</link>
