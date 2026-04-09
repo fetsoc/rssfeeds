@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 13:06:13 +0000</lastBuildDate>
-    <item>
-      <title>Atomgate Strengthens Security Through SonicWall Upgrades</title>
-      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-atomgate-uses-education-and-partnership-to-drive-successful-sonicwall-upgrades</link>
-      <description>See how Atomgate uses education, testing and partnership to drive smart firewall upgrades and long-term customer trust.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-atomgate-uses-education-and-partnership-to-drive-successful-sonicwall-upgrades</guid>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 18:57:04 +0000</lastBuildDate>
     <item>
       <title>Apograph Delivers Security with SonicWall Advantage</title>
       <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</link>
@@ -173,12 +167,6 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <guid isPermaLink="false">https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</guid>
     </item>
     <item>
-      <title>SonicWall Named Leader in 2026 GigaOm Firewall Radar</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
-      <description>SonicWall is named a Leader and Fast Mover in the 2026 GigaOm Radar for Enterprise Firewalls, highlighting innovation and proven threat protection.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
-    </item>
-    <item>
       <title>SecureFirst Partner Program Updates for 2026</title>
       <link>https://www.sonicwall.com/blog/the-securefirst-partner-program-is-evolving</link>
       <description>SonicWall updates its SecureFirst Partner Program with new specializations, role-based accreditations and expanded opportunities for partners.</description>
@@ -286,6 +274,18 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/supporting-partners-and-customers-through-a-smarter-stronger-knowledge-base</link>
       <description>Discover how SonicWall's KCS-certified knowledge base delivers 5,000+ articles to help partners and customers resolve issues quickly and confidently.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/supporting-partners-and-customers-through-a-smarter-stronger-knowledge-base</guid>
+    </item>
+    <item>
+      <title>n8n Expression Sandbox Bypass RCE - CVE-2026-1470</title>
+      <link>https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</link>
+      <description>Critical CVSS 9.9 RCE vulnerability in n8n AI workflow automation via expression sandbox bypass. SonicWall IPS signatures IPS:21799 and IPS:22086 available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</guid>
+    </item>
+    <item>
+      <title>SonicWall Named Leader in 2026 GigaOm Firewall Radar</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
+      <description>SonicWall is named a Leader and Fast Mover in the 2026 GigaOm Radar for Enterprise Firewalls, highlighting innovation and proven threat protection.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
