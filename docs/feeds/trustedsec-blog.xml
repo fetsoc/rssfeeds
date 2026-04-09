@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 07:15:01 +0000</lastBuildDate>
-    <item>
-      <title>Building a Detection Foundation: Part 1 - The Single-Source Problem</title>
-      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-1-the-single-source-problem</link>
-      <description>&amp;lt;p&amp;gt;The Uncomfortable Truth About Your Telemetry Let me start with an observation that might hit close to home. In my years working Incident Response cases and running Tabletop Exercises, I&amp;amp;#039;ve noticed a pattern that…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-1-the-single-source-problem</guid>
-      <pubDate>Tue, 24 Feb 2026 05:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 13:07:16 +0000</lastBuildDate>
     <item>
       <title>Building a Detection Foundation: Part 2 - Windows Security Events</title>
       <link>https://trustedsec.com/blog/building-a-detection-foundation-part-2-windows-security-events</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;From Data Sources to DetectionWe&amp;amp;#039;ve covered a lot of ground in this series: Windows Security events for logon tracking and process execution; PowerShell logging for script visibility; Sysmon for network…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-5-correlation-in-practice</guid>
       <pubDate>Tue, 07 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IAM the Captain Now – Hijacking Azure Identity Access</title>
+      <link>https://trustedsec.com/blog/iam-the-captain-now-hijacking-azure-identity-access</link>
+      <description>&amp;lt;p&amp;gt;I decided to spend some research time diving in depth into Identity and Access Management (IAM) within Microsoft Azure. I am going to show you within this blog how IAM permissions can be abused within an Azure…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/iam-the-captain-now-hijacking-azure-identity-access</guid>
+      <pubDate>Thu, 09 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

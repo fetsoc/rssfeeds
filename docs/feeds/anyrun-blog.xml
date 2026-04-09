@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 07:15:00 +0000</lastBuildDate>
-    <item>
-      <title>Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN</title>
-      <link>https://any.run/cybersecurity-blog/healthcare-success-story/</link>
-      <description>&lt;p&gt;ANY.RUN&amp;#160;spoke with the Interim CISO&amp;#160;and&amp;#160;Director of Cyber Operations at&amp;#160;Health Shared Services,&amp;#160;who provided&amp;#160;insights into&amp;#160;how their team&amp;#160;addressed&amp;#160;alert fatigue, improved&amp;#160;MTTD and MTTR, and strengthened&amp;#160;their investigation workflow with ANY.RUN.&amp;#160; In this new addition to our&amp;#160;success story series,&amp;#160;we&amp;#160;explore&amp;#160;how the&amp;#160;healthcare&amp;#160;organization’s&amp;#160;SOC team&amp;#160;improved detection, triage, and response efficiency while&amp;#160;maintaining&amp;#160;the existing operational processes.&amp;#160; Organization Overview&amp;#160; Health Shared&amp;#160;Services&amp;#160;is a&amp;#160;healthcare&amp;#160;support organization&amp;#160;based in&amp;#160;Alberta, Canada.&amp;#160;&amp;#160;Its&amp;#160;SOC team&amp;#160;consists of 16 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/healthcare-success-story/" rel="nofollow"&gt;Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/healthcare-success-story/</guid>
-      <pubDate>Tue, 24 Mar 2026 10:15:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 13:07:16 +0000</lastBuildDate>
     <item>
       <title>Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide</title>
       <link>https://any.run/cybersecurity-blog/kamasers-technical-analysis/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/" rel="nofollow"&gt;Building Phishing Detection That Works: 3 Steps for CISOs &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</guid>
       <pubDate>Wed, 08 Apr 2026 11:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing</title>
+      <link>https://any.run/cybersecurity-blog/german-industries-attack-cases/</link>
+      <description>&lt;p&gt;Germany’s economy is a precision machine: finance fuels it, manufacturing builds it, telecom connects it, IT&amp;#160;optimizes&amp;#160;it, and healthcare sustains it.&amp;#160;The country sits at the crossroads of industrial power and digital transformation, making it irresistibly attractive to attackers. In this article, we explore real-world attacks targeting five critical German industries, analyzed by ANY.RUN’s analysts using Interactive [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/german-industries-attack-cases/" rel="nofollow"&gt;How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/german-industries-attack-cases/</guid>
+      <pubDate>Thu, 09 Apr 2026 11:52:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
