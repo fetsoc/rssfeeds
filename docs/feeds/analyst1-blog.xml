@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 13:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:33:05 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -76,13 +76,6 @@
       <description>Jon DiMaggio takes on the role of Chief Security Strategist at Analyst1, spearheading research and strategy for the leading threat intelligence firm.</description>
       <guid isPermaLink="false">https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</guid>
       <pubDate>Wed, 11 Nov 2020 01:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom Mafia - Analysis of the World's First Ransomware Cartel | Analyst1</title>
-      <link>https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</link>
-      <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
-      <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
       <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
@@ -155,6 +148,13 @@
       <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
     </item>
     <item>
+      <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
+      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
+      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
+      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
+      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
+    </item>
+    <item>
       <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
       <link>https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</link>
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
@@ -197,6 +197,13 @@
       <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
+      <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
+      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
+      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>What Is Lateral Movement in Cybersecurity?</title>
       <link>https://analyst1.com/what-is-lateral-movement/</link>
       <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
@@ -230,13 +237,6 @@
       <description>Discover why choosing U.S.-made cybersecurity tools is vital for data security, quality control, and addressing geopolitical risks.</description>
       <guid isPermaLink="false">https://analyst1.com/why-made-in-the-usa-matters-in-cybersecurity/</guid>
       <pubDate>Wed, 06 Dec 2023 14:38:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Resilience 2024 | Analyst1</title>
-      <link>https://analyst1.com/cyber-resilience-2024/</link>
-      <description>At its core, cyber resilience refers to an organization’s ability to continuously deliver its intended outcomes despite adverse cyber events. It’s not simply defending against attacks; it involves preparing for, responding to, and recovering from them in a way that minimizes impact and maintains business continuity. In 2024, the concept of cyber resilience will transcend […]</description>
-      <guid isPermaLink="false">https://analyst1.com/cyber-resilience-2024/</guid>
-      <pubDate>Mon, 22 Jan 2024 13:17:08 +0000</pubDate>
     </item>
     <item>
       <title>What is MITRE ATT&amp;CK? | Analyst1</title>
@@ -295,18 +295,18 @@
       <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
     </item>
     <item>
+      <title>Analyst1 Unveils v2.10.0 Release, Delivering Expanded Integrations and Enhancements for Threat Intelligence Operations | Analyst1</title>
+      <link>https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</link>
+      <description>Are you attending Black Hat and looking to have a one-on-one conversation about all things cybersecurity? Don't miss this exclusive opportunity to connect with our experienced team and gain valuable insights into the latest threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</guid>
+      <pubDate>Fri, 10 Jan 2025 19:00:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
       <link>https://analyst1.com/threat-intelligence-lifecycle-3/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-3/</guid>
       <pubDate>Thu, 16 Jan 2025 19:02:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1's Buyers Guide to Threat Intelligence Platforms | Analyst1</title>
-      <link>https://analyst1.com/analyst1s-buyers-guide-to-threat-intelligence-platforms/</link>
-      <description>Discover how to choose the right threat intelligence platform with Analyst1’s comprehensive buyer’s guide. Make smarter cybersecurity choices</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1s-buyers-guide-to-threat-intelligence-platforms/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
