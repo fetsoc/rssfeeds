@@ -7,12 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 01:34:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:15:00 +0000</lastBuildDate>
     <item>
       <title>Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/healthcare-success-story/</link>
       <description>&lt;p&gt;ANY.RUN&amp;#160;spoke with the Interim CISO&amp;#160;and&amp;#160;Director of Cyber Operations at&amp;#160;Health Shared Services,&amp;#160;who provided&amp;#160;insights into&amp;#160;how their team&amp;#160;addressed&amp;#160;alert fatigue, improved&amp;#160;MTTD and MTTR, and strengthened&amp;#160;their investigation workflow with ANY.RUN.&amp;#160; In this new addition to our&amp;#160;success story series,&amp;#160;we&amp;#160;explore&amp;#160;how the&amp;#160;healthcare&amp;#160;organization’s&amp;#160;SOC team&amp;#160;improved detection, triage, and response efficiency while&amp;#160;maintaining&amp;#160;the existing operational processes.&amp;#160; Organization Overview&amp;#160; Health Shared&amp;#160;Services&amp;#160;is a&amp;#160;healthcare&amp;#160;support organization&amp;#160;based in&amp;#160;Alberta, Canada.&amp;#160;&amp;#160;Its&amp;#160;SOC team&amp;#160;consists of 16 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/healthcare-success-story/" rel="nofollow"&gt;Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/healthcare-success-story/" rel="nofollow"&gt;Canada-Based Organization Health Shared Services Accelerates SOC Investigations with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/healthcare-success-story/</guid>
       <pubDate>Tue, 24 Mar 2026 10:15:41 +0000</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <title>Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide</title>
       <link>https://any.run/cybersecurity-blog/kamasers-technical-analysis/</link>
       <description>&lt;p&gt;DDoS attacks are no longer only an infrastructure problem. They can quickly turn into a business issue, affecting uptime, customer experience, and operational stability. Kamasers is a strong example of this new reality, with broad attack capabilities and resilient command-and-control mechanisms that allow it to remain active under pressure. Let’s explore the Kamasers botnet through [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/kamasers-technical-analysis/" rel="nofollow"&gt;Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kamasers-technical-analysis/" rel="nofollow"&gt;Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/kamasers-technical-analysis/</guid>
       <pubDate>Wed, 25 Mar 2026 10:20:25 +0000</pubDate>
     </item>
@@ -28,7 +28,7 @@
       <title>ANY.RUN Recognized for Innovations and Market Leadership at Global InfoSec Awards 2026</title>
       <link>https://any.run/cybersecurity-blog/global-infosec-awards-2026/</link>
       <description>&lt;p&gt;ANY.RUN has been recognized at Global InfoSec Awards 2026 by Cyber Defense Magazine (CDM), the industry’s leading electronic information security magazine. The award ceremony took place during RSAC™ 2026 conference. We&amp;#8217;re&amp;#160;especially&amp;#160;proud and grateful that our impact for the industry has been&amp;#160;acknowledged&amp;#160;in two categories&amp;#160;at once:&amp;#160; This dual recognition reflects the approach to cybersecurity we&amp;#160;prioritize:&amp;#160;supporting&amp;#160;the full SOC [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/global-infosec-awards-2026/" rel="nofollow"&gt;ANY.RUN Recognized for Innovations and Market Leadership at Global InfoSec Awards 2026  &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/global-infosec-awards-2026/" rel="nofollow"&gt;ANY.RUN Recognized for Innovations and Market Leadership at Global InfoSec Awards 2026  &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/global-infosec-awards-2026/</guid>
       <pubDate>Thu, 26 Mar 2026 06:28:07 +0000</pubDate>
     </item>
@@ -36,7 +36,7 @@
       <title>Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud</title>
       <link>https://any.run/cybersecurity-blog/banks-magecart-campaign/</link>
       <description>&lt;p&gt;A large-scale magecart operation remained active for over 24 months, leveraging an infrastructure of 100+ domains. While the targeted victims are e-commerce websites, the actual pressure falls on banks and payment systems. As&amp;#160;ANY.RUN’s&amp;#160;analysis&amp;#160;shows, threat actors applied multi-step checkout hijacking, payment&amp;#160;page&amp;#160;mimicry,&amp;#160;and&amp;#160;WebSocket-based&amp;#160;exfiltration of card data.&amp;#160; This report provides both&amp;#160;executive-level insights&amp;#160;and&amp;#160;technical&amp;#160;analysis&amp;#160;of the campaign.&amp;#160; Key Takeaways&amp;#160; Campaign Overview&amp;#160; A [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/banks-magecart-campaign/" rel="nofollow"&gt;Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/banks-magecart-campaign/" rel="nofollow"&gt;Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/banks-magecart-campaign/</guid>
       <pubDate>Thu, 26 Mar 2026 10:32:47 +0000</pubDate>
     </item>
@@ -44,7 +44,7 @@
       <title>ANY.RUN at RSAC™ 2026: Highlights &amp; Industry Recognition</title>
       <link>https://any.run/cybersecurity-blog/rsac-2026-highlights/</link>
       <description>&lt;p&gt;We’ve&amp;#160;just returned from&amp;#160;RSAC™ 2026&amp;#160;in San Francisco, one of the most important cybersecurity events of the year.&amp;#160; As always, the conference brought together security leaders, vendors, and practitioners from around the world. For the&amp;#160;ANY.RUN team, it was a packed few days of meetings with customers and partners, insightful presentations, and strong industry recognition.&amp;#160; ANY.RUN at RSAC [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/rsac-2026-highlights/" rel="nofollow"&gt;ANY.RUN at RSAC™ 2026: Highlights &amp;amp; Industry Recognition&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/rsac-2026-highlights/" rel="nofollow"&gt;ANY.RUN at RSAC™ 2026: Highlights &amp;amp; Industry Recognition&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/rsac-2026-highlights/</guid>
       <pubDate>Mon, 30 Mar 2026 11:03:00 +0000</pubDate>
     </item>
@@ -52,7 +52,7 @@
       <title>Release Notes: Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections</title>
       <link>https://any.run/cybersecurity-blog/release-notes-march-2026/</link>
       <description>&lt;p&gt;March was a packed month for&amp;#160;ANY.RUN.&amp;#160;We rolled out major product improvements that help security teams investigate phishing inside encrypted traffic, expand cross-platform analysis with macOS, and bring Windows Server into the&amp;#160;sandbox&amp;#160;workflow. At the same time, our detection team continued to strengthen threat coverage with new&amp;#160;behavior&amp;#160;signatures, Suricata rules, and fresh threat intelligence reports focused on active [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/release-notes-march-2026/" rel="nofollow"&gt;Release Notes: Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-march-2026/" rel="nofollow"&gt;Release Notes: Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-march-2026/</guid>
       <pubDate>Tue, 31 Mar 2026 10:24:19 +0000</pubDate>
     </item>
@@ -60,7 +60,7 @@
       <title>Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</link>
       <description>&lt;p&gt;March 2026 brought a wave of cyber attacks that reflected how quickly modern threats can move from subtle early signals to serious business impact. ANY.RUN analysts identified and explored several major threats this month, exposing phishing campaigns, stealthy malware, payment-skimming activity, and resilient botnet infrastructure affecting organizations across industries. From Microsoft 365 token abuse and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/major-cyber-attacks-march-2026/" rel="nofollow"&gt;Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/" rel="nofollow"&gt;Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</guid>
       <pubDate>Wed, 01 Apr 2026 12:08:31 +0000</pubDate>
     </item>
@@ -68,7 +68,7 @@
       <title>From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence</title>
       <link>https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</link>
       <description>&lt;p&gt;Reaching a&amp;#160;higher&amp;#160;level&amp;#160;of&amp;#160;SOC maturity&amp;#160;takes&amp;#160;better, more consistent decision-making&amp;#160;during malware and phishing investigation.&amp;#160; This requires a shift in how threat intelligence&amp;#160;is used:&amp;#160;not&amp;#160;as a reference point, but as a&amp;#160;core layer in the decision process.&amp;#160; Moving from reactive to confidently proactive security means&amp;#160;establishing&amp;#160;a threat intelligence workflow that: In this model, threat intelligence becomes part of the SOC’s operational fabric.&amp;#160;That’s&amp;#160;what ANY.RUN [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/soc-maturity-with-threat-intelligence/" rel="nofollow"&gt;From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/" rel="nofollow"&gt;From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</guid>
       <pubDate>Thu, 02 Apr 2026 10:22:54 +0000</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <title>ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild</title>
       <link>https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</link>
       <description>&lt;p&gt;For years, macOS environments carried an aura of relative safety. Not immunity, but lower priority in the threat landscape. That&amp;#160;perception&amp;#160;has aged about as well as an unpatched server.&amp;#160;&amp;#160;The reality in 2026 is&amp;#160;very different. Apple devices now make up a significant share of corporate endpoints.&amp;#160;And they sit in the hands of the people attackers most want [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/macos-clickfix-amos-attack/" rel="nofollow"&gt;ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild&lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/" rel="nofollow"&gt;ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</guid>
       <pubDate>Tue, 07 Apr 2026 10:50:07 +0000</pubDate>
     </item>
@@ -84,7 +84,7 @@
       <title>Building Phishing Detection That Works: 3 Steps for CISOs</title>
       <link>https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</link>
       <description>&lt;p&gt;90% of attacks&amp;#160;start with&amp;#160;phishing.&amp;#160;For CISOs, the real&amp;#160;pain begins when the SOC cannot quickly tell whether a suspicious alert is just&amp;#160;noise or the&amp;#160;start of credential theft, account compromise, malware delivery, or wider business disruption.&amp;#160; Modern&amp;#160;phishing&amp;#160;campaigns are designed to create exactly that uncertainty. QR codes, redirect chains, CAPTCHAs,&amp;#160;phishing&amp;#160;kits, and AI-generated lures can all hide the real&amp;#160;objective&amp;#160;until late [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="/cybersecurity-blog/phishing-detection-steps-for-cisos/" rel="nofollow"&gt;Building Phishing Detection That Works: 3 Steps for CISOs &lt;/a&gt; appeared first on &lt;a href="/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/" rel="nofollow"&gt;Building Phishing Detection That Works: 3 Steps for CISOs &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</guid>
       <pubDate>Wed, 08 Apr 2026 11:12:04 +0000</pubDate>
     </item>
