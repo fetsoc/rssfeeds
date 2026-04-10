@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 12:55:23 +0000</lastBuildDate>
-    <item>
-      <title>January 2026 Phishing Email Trends Report</title>
-      <link>https://asec.ahnlab.com/en/92621/</link>
-      <description>This report provides the distribution quantity, statistics, trends, and case information on phishing emails and email threats collected and analyzed for one month in January 2026. The following are some statistics and cases included in the original report. 1) Phishing Email Threat Statistics In January 2026, the most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92621/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 18:49:05 +0000</lastBuildDate>
     <item>
       <title>January 2026 Threat Trend Report on Ransomware</title>
       <link>https://asec.ahnlab.com/en/92620/</link>
@@ -193,7 +186,7 @@
     <item>
       <title>Q1 2026 Vulnerability Trends Report</title>
       <link>https://asec.ahnlab.com/en/93285/</link>
-      <description>overview this report focuses on the top high-risk vulnerabilities that were disclosed or confirmed exploited in Q1 2026 and analyzes overall vulnerability trends for the period. Key characteristics of Q1 include an increase in remote code execution and authentication bypass family vulnerabilities, accelerated threat propagation due to early disclosure of exploit PoCs, and the potential [&amp;#8230;]</description>
+      <description>Vulnerability Trends Summary for Q1 2026. Overview. q1 2026 saw a number of high-risk vulnerabilities reported with either public disclosures or confirmed exploits. an increase in remote code execution and authentication bypass family vulnerabilities was observed. Early publication of PoCs accelerated threat propagation. the potential for chain attacks through the perimeter and middle layers expanded. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93285/</guid>
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
@@ -203,6 +196,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Emergence of New Ransomware Group &amp;#8216;KryBit&amp;#8217; Gunra, Ransomware Attack Targeting South Korean Pharmaceutical Company DragonForce, Ransomware Attack Targeting Egyptian Generic Drug Developer and Manufacturer</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93259/</guid>
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/93293/</link>
+      <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93293/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>LOLBins – Analyzing attack techniques with MSBuild</title>

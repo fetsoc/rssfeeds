@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 12:54:11 +0000</lastBuildDate>
-    <item>
-      <title>Breaking Down Nation State Attacks on Supply Chains</title>
-      <link>https://www.darktrace.com/blog/breaking-down-nation-state-attacks-on-supply-chains</link>
-      <description>Explore how nation-state supply chain attacks like 3CX, NotPetya, and SolarWinds exploited trusted providers to cause global disruption, highlighting the urgent need for robust security measures.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/breaking-down-nation-state-attacks-on-supply-chains</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 18:47:22 +0000</lastBuildDate>
     <item>
       <title>Botnet and Remote Desktop Protocol Attacks</title>
       <link>https://www.darktrace.com/blog/botnet-malware-remote-desktop-protocol-rdp-attack</link>
@@ -349,6 +342,13 @@
       <description>While the 2016 U.S. election was roiled by fears over election tampering, it generated discussion on the intersection of cyber-security &amp; voting.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/2016-the-year-of-election-tampering</guid>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging SOC &amp; IR with Automated Threat Investigations</title>
+      <link>https://www.darktrace.com/blog/bringing-together-soc-and-ir-teams-with-automated-threat-investigations-for-the-hybrid-world</link>
+      <description>Discover how Darktrace unifies SOC and IR teams with automated forensic investigations across hybrid environments, accelerating response and improving visibility.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/bringing-together-soc-and-ir-teams-with-automated-threat-investigations-for-the-hybrid-world</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI-powered security for a rapidly growing grocery enterprise</title>
