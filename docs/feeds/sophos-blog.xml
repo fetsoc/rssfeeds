@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 18:49:07 +0000</lastBuildDate>
-    <item>
-      <title>Where AI in the SOC is actually delivering — and where it isn’t</title>
-      <link>https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</link>
-      <description>&lt;p&gt;“We’ll have a generation of security professionals who can supervise AI but can’t function without it.&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; AI Research, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, AI Cybersecurity, AI RESEARCH, Generative AI, SOC&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/where-ai-in-the-soc-is-actually-delivering</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident responders, s'il vous plait: Invites lead to odd malware events</title>
-      <link>https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</link>
-      <description>&lt;p&gt;A phishing campaign targeting multiple organizations led to RMM installations – but not much else (yet). A threat actor experimenting, or an access-as-a-service attack underway?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; STAC6405, infostealer, RMM, Phishing&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/incident-responders-s-il-vous-plait</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 01:37:31 +0000</lastBuildDate>
     <item>
       <title>The High Cost of Low Trust: Our Commitment to Radical Transparency</title>
       <link>https://www.sophos.com/en-us/blog/the-high-cost-of-low-trust-our-commitment-to-radical-transparency</link>
@@ -30,17 +16,17 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Axios npm package compromised to deploy malware</title>
-      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Cybersecurity Trust Reality in 2026</title>
       <link>https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</link>
       <description>&lt;p&gt;New Sophos survey reveals only 5% of IT leaders say they fully trust their cybersecurity vendors&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services, Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Trust, Privacy, Trust Center&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-cybersecurity-trust-reality-in-2026</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axios npm package compromised to deploy malware</title>
+      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -65,10 +51,24 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The vulnerability flood is here. Here’s what it means – and how to prepare</title>
+      <link>https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</link>
+      <description>&lt;p&gt;We can&amp;apos;t control the pace of AI-driven vulnerability discovery, but we can control how fast we respond.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; LLM, AI, Exploit, vulnerability, Active Adversary, Pacific Rim&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>We let OpenClaw loose on an internal network. Here’s what it found</title>
-      <link>https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-here-s-what-it-found</link>
+      <link>https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</link>
       <description>&lt;p&gt;Following our article on the challenges posed by agentic AI, we gave OpenClaw access to one of our legacy networks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; OpenClaw, LLM, AI, penetration testing, Red Team, CISO, Sophos X-Ops&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-here-s-what-it-found</guid>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Reader zero-day vulnerability in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, vulnerability, Adobe Reader&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
