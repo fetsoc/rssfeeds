@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 06:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 12:40:15 +0000</lastBuildDate>
     <item>
       <title>Botnet and Remote Desktop Protocol Attacks</title>
       <link>https://www.darktrace.com/blog/botnet-malware-remote-desktop-protocol-rdp-attack</link>
