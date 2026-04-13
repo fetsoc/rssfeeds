@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 07:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:08:13 +0000</lastBuildDate>
     <item>
       <title>Integrate Push Security and Panther</title>
       <link>https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</link>

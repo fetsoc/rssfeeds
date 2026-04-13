@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 07:06:22 +0000</lastBuildDate>
-    <item>
-      <title>Unpacking the BADBOX Botnet with Censys - Censys</title>
-      <link>https://censys.com/blog/unpacking-the-badbox-botnet/</link>
-      <description>Executive Summary: BADBOX is a newly discovered botnet targeting both off-brand and well-known Android devices—often with malware that potentially came pre-installed from the factory or further down in the supply chain. Over 190,000 infected devices have been observed so far, including higher-end models like Yandex 4K QLED TVs. Using Censys, I identified a suspicious SSL/TLS […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/unpacking-the-badbox-botnet/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:05:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 13:07:28 +0000</lastBuildDate>
     <item>
       <title>The Lurking Threat of Edge Security Products - Censys</title>
       <link>https://censys.com/blog/the-lurking-threat-of-edge-security-products/</link>
@@ -147,6 +140,13 @@
       <description>Putting Exploits into Context  Understanding which vulnerabilities matter most can be a daunting task. The new CVE Exploit Context feature in Censys ASM changes that by offering clear, actionable insight into which CVEs are truly dangerous and exploited by attackers in the wild. What Is CVE Exploit Context?  CVE Exploit Context delivers  threat intelligence context on […]</description>
       <guid isPermaLink="false">https://censys.com/blog/asm-cve-exploit-context/</guid>
       <pubDate>Tue, 17 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Questions to Insights: The ASM MCP Server - Censys</title>
+      <link>https://censys.com/blog/asm-mcp-server/</link>
+      <description>Investigations, Now With Context One of the hardest parts of managing an attack surface is maintaining visibility over assets and risks while keeping the investigative thread alive. Analysts today spend hours jumping between dashboards, APIs, and multiple security tools just to stitch context together. The new Censys ASM MCP Server changes that. It makes ASM queries […]</description>
+      <guid isPermaLink="false">https://censys.com/blog/asm-mcp-server/</guid>
+      <pubDate>Thu, 28 Aug 2025 20:46:00 +0000</pubDate>
     </item>
     <item>
       <title>Bringing ASM Use Cases to Life with an MCP Server - Censys</title>

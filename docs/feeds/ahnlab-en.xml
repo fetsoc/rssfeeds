@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 07:54:02 +0000</lastBuildDate>
-    <item>
-      <title>January 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/92646/</link>
-      <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, Fabruary 2026</title>
-      <link>https://asec.ahnlab.com/en/92636/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Anubis and The Gentlemen launch ransomware attacks targeting a South Korean plastics manufacturer and an IT consulting company [1], [2] Emergence of the new ransomware group Payload ShinyHunters claims data breach involving a well-known Canadian apparel manufacturer</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92636/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 13:08:24 +0000</lastBuildDate>
     <item>
       <title>January 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/92685/</link>
@@ -189,6 +175,20 @@
       <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
+      <link>https://asec.ahnlab.com/en/93336/</link>
+      <description>Overview. ASEC analyzed the statistics of attacks against Linux SSH servers in Q1 2026 based on honeypot logs. The P2PInfect worm dominated, accounting for 70.3% of all attack sources, and DDoS bots such as Mirai, XMRig, Prometei, and CoinMiner were identified as the main threats. Purpose and Scope. the purpose of this report is to [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93336/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q1 2026 malware statistics report for Windows web servers</title>
+      <link>https://asec.ahnlab.com/en/93335/</link>
+      <description>Description. AhnLab SEcurity intelligence Center (ASEC) analyzed the attack status and malware statistics of Windows web servers in the first quarter of 2026 based on AhnLab Smart Defense (ASD) logs. the analysis covers Internet Information Services (IIS) and Apache Tomcat web servers in Windows environments. command execution through the web shell is the main path [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93335/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q1 2026 Malware Statistics Report for Windows Database Servers</title>
