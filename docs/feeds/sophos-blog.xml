@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 13:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 19:06:56 +0000</lastBuildDate>
     <item>
       <title>The High Cost of Low Trust: Our Commitment to Radical Transparency</title>
       <link>https://www.sophos.com/en-us/blog/the-high-cost-of-low-trust-our-commitment-to-radical-transparency</link>
@@ -51,13 +51,6 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The vulnerability flood is here. Here’s what it means – and how to prepare</title>
-      <link>https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</link>
-      <description>&lt;p&gt;We can&amp;apos;t control the pace of AI-driven vulnerability discovery, but we can control how fast we respond.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; LLM, AI, Exploit, vulnerability, Active Adversary, Pacific Rim&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>We let OpenClaw loose on an internal network. Here’s what it found</title>
       <link>https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</link>
       <description>&lt;p&gt;Following our article on the challenges posed by agentic AI, we gave OpenClaw access to one of our legacy networks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; OpenClaw, LLM, AI, penetration testing, Red Team, CISO, Sophos X-Ops&lt;/p&gt;</description>
@@ -69,6 +62,13 @@
       <link>https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</link>
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, vulnerability, Adobe Reader&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The vulnerability flood is here. Here’s what it means – and how to prepare</title>
+      <link>https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</link>
+      <description>&lt;p&gt;We can&amp;apos;t control the pace of AI-driven vulnerability discovery, but we can control how fast we respond.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; LLM, AI, Exploit, vulnerability, Active Adversary, Pacific Rim&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
