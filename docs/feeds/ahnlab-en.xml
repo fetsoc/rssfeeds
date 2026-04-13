@@ -7,47 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 01:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:54:02 +0000</lastBuildDate>
     <item>
-      <title>January 2026 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/92620/</link>
-      <description>This report provides the number of affected systems confirmed during&amp;#160;January 2026, DLS-based ransomware-related statistics, and notable ransomware issues in Korea and abroad. Below is a summary of some information. &amp;#160; The statistics on the number of ransomware samples and affected systems were based on the diagnostic names assigned by AhnLab, and the statistics on ransomware-affected [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92620/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web  Issues Week 2, February 2026</title>
-      <link>https://asec.ahnlab.com/en/92536/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, February 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Beast, Ransomware Attack Targeting a South Korean Aerospace Component Manufacturer RipperSec, Claims of DDoS Attacks Targeting South Korean Exhibition Centers, Military Training Grounds, Associations, and Defense-related Companies [1], [2], [3], [4] NoName05716, Claims of DDoS Attacks Targeting the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92536/</guid>
-      <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>January 2026 APT Group Trends Report</title>
-      <link>https://asec.ahnlab.com/en/92627/</link>
-      <description>&amp;#160; Key APT Groups &amp;#160; Sandworm attempted to destroy OT and IT equipment using DynoWiper after exploiting a vulnerable configuration of FortiGate, targeting at least 30 energy facilities, including wind and solar power plants in Poland, by the end of December 2025. They directly damaged RTUs, IEDs, and serial devices or manipulated settings to cause [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92627/</guid>
-      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>January 2026 Security Issues in Korean &amp; Global Financial Sector</title>
-      <link>https://asec.ahnlab.com/en/92626/</link>
-      <description>This report comprehensively addresses actual cyber threats and related security issues that have occurred in domestic and international financial sector companies. It includes an analysis of malware and phishing cases disseminated targeting the financial sector, presents the top 10 major malware aimed at the financial sector, and provides statistics on industries of domestic accounts leaked [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92626/</guid>
-      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+      <title>January 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/92646/</link>
+      <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, Fabruary 2026</title>
       <link>https://asec.ahnlab.com/en/92636/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, Fabruary 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Anubis and The Gentlemen launch ransomware attacks targeting a South Korean plastics manufacturer and an IT consulting company [1], [2] Emergence of the new ransomware group Payload ShinyHunters claims data breach involving a well-known Canadian apparel manufacturer</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92636/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>January 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/92646/</link>
-      <description>This report provides statistics, trends, and case information regarding the distribution quantity, distribution methods, and obfuscation techniques of Infostealer malware collected and analyzed during the month of January 2026. Below is a summary of the original report content. &amp;#160; 1) Data Sources and Collection Methods&amp;#160; AhnLab Security Intelligence Center (ASEC) operates various systems that can [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92646/</guid>
       <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +189,34 @@
       <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q1 2026 Malware Statistics Report for Windows Database Servers</title>
+      <link>https://asec.ahnlab.com/en/93333/</link>
+      <description>Description. analysis of ASEC&amp;#8217;s ASD logs for Q1 2026 showed a consistent trend of attacks against MS-SQL and MySQL. the number of attacks tended to decrease temporarily in February before increasing again in March. Purpose and Scope. this report summarizes the statistics of attacks targeting MS-SQL and MySQL servers installed on Windows and the malware [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93333/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Breach Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93325/</link>
+      <description>Alerts this report is based on reports of data breaches and the sale of initial access rights posted on deep web-dark web forums. some parts of the report contain information that cannot be fully verified as factual due to the nature of the source. Major Issues Multiple breach claims by ShinyHunters. a wide range of [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93325/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Threat Actor Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93324/</link>
+      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Issue Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93323/</link>
+      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

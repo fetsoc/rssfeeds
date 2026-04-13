@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 01:59:26 +0000</lastBuildDate>
-    <item>
-      <title>The Lazarus Constellation: A Comprehensive Intelligence Dossier on the DPRK’s Cyber Warfare Apparatus (2009–2026)</title>
-      <link>https://falconfeeds.io/blogs/lazarus-constellation-dprk-cyber-warfare-intelligence-dossier-2009-2026</link>
-      <description>A comprehensive intelligence dossier on the Lazarus Group (2009–2026), analyzing North Korea’s cyber warfare apparatus, its hybrid espionage–crime mandate, major financial thefts, AI-enabled tradecraft, organizational structure under the RGB, and the group’s strategic role in funding Pyongyang’s military and WMD programs</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/lazarus-constellation-dprk-cyber-warfare-intelligence-dossier-2009-2026</guid>
-      <pubDate>Fri, 26 Dec 2025 07:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Akira Ransomware Syndicate: A Comprehensive Strategic Assessment, Operational Analysis, and Threat Trajectory (2023–2026)</title>
-      <link>https://falconfeeds.io/blogs/akira-ransomware-strategic-operational-threat-analysis-2023-2026</link>
-      <description>A deep-dive intelligence assessment of the Akira ransomware syndicate (2023–2026), tracing its post-Conti origins, RaaS business model, Rust-based malware evolution, ESXi and Nutanix AHV targeting, double-extortion economics, and the future threat trajectory facing global enterprises.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/akira-ransomware-strategic-operational-threat-analysis-2023-2026</guid>
-      <pubDate>Wed, 07 Jan 2026 07:43:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 07:53:58 +0000</lastBuildDate>
     <item>
       <title>The Shadow Web: How Private Messaging Apps Are Becoming the New Threat Actor Playground</title>
       <link>https://falconfeeds.io/blogs/shadow-web-private-messaging-apps-cybercrime-threat-actors</link>
@@ -357,6 +343,20 @@
       <description>An intelligence-driven analysis exposing 35 Iranian cyber operatives, front companies, and state-linked networks tied to IRGC and MOIS operations, based on DOJ indictments, OFAC sanctions, FBI advisories, and private-sector threat intelligence.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</guid>
       <pubDate>Mon, 06 Apr 2026 10:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Phantom Claude: A macOS Infostealer Campaign Exploiting Anthropic’s Brand Identity</title>
+      <link>https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</link>
+      <description>A sophisticated macOS infostealer campaign dubbed “Operation Phantom Claude” is exploiting trust in Anthropic’s Claude AI, using fake branding, Cloudflare infrastructure, and multi-stage loaders to deliver credential-stealing malware. FalconFeeds intelligence reveals a coordinated attack targeting macOS users with advanced evasion techniques and AI-themed social engineering.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</guid>
+      <pubDate>Mon, 13 Apr 2026 04:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>MicroStealer / SparkStealer: Large-Scale Gaming-Themed Credential Theft Infrastructure Uncovered</title>
+      <link>https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</link>
+      <description>FalconFeeds reveals a large-scale MicroStealer and SparkStealer campaign abusing Minecraft-themed domains to target gamers via fake mods and server links, enabling credential theft, wallet exfiltration, and account compromise.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</guid>
+      <pubDate>Mon, 13 Apr 2026 06:01:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
