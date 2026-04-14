@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/todyl-threat-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 19:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:53:17 +0000</lastBuildDate>
     <item>
       <title>The Soze Syndicate - Business Email Compromise Campaign | Todyl</title>
       <link>https://www.todyl.com/threat-research/the-soze-syndicate</link>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 19:06:57 +0000</lastBuildDate>
-    <item>
-      <title>Better OAuth Security for your Core SaaS Applications</title>
-      <link>https://www.obsidiansecurity.com/blog/better-oauth-security-for-core-saas-applications</link>
-      <description>Improve OAuth security for critical SaaS applications. Discover best practices for token management, scope control, and integration protection.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/better-oauth-security-for-core-saas-applications</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 01:54:25 +0000</lastBuildDate>
     <item>
       <title>Behind the breach: ShinyHunters' 2026 voice phishing campaign</title>
       <link>https://www.obsidiansecurity.com/blog/behind-the-breach-shinyhunters-2026-voice-phishing-campaign</link>
@@ -61,6 +55,12 @@
       <link>https://www.obsidiansecurity.com/blog/are-your-servicenow-lists-publicly-exposing-data</link>
       <description>Audit ServiceNow ACLs to prevent data exposure. Learn how misconfigured access controls can leak sensitive information and how to secure your instance.</description>
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/are-your-servicenow-lists-publicly-exposing-data</guid>
+    </item>
+    <item>
+      <title>The Architecture Gap No AI Agent Security Tool Is Built to Close</title>
+      <link>https://www.obsidiansecurity.com/blog/architecture-gap-agent-security</link>
+      <description>Every agent security tool on the market is watching agent behavior. That's not where the risk lives. Here's the layer the entire market is missing.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/architecture-gap-agent-security</guid>
     </item>
     <item>
       <title>Life of a Phish</title>
