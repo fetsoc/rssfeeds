@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 07:22:52 +0000</lastBuildDate>
-    <item>
-      <title>Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide</title>
-      <link>https://any.run/cybersecurity-blog/kamasers-technical-analysis/</link>
-      <description>&lt;p&gt;DDoS attacks are no longer only an infrastructure problem. They can quickly turn into a business issue, affecting uptime, customer experience, and operational stability. Kamasers is a strong example of this new reality, with broad attack capabilities and resilient command-and-control mechanisms that allow it to remain active under pressure. Let’s explore the Kamasers botnet through [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kamasers-technical-analysis/" rel="nofollow"&gt;Kamasers Analysis: A Multi-Vector DDoS Botnet Targeting Organizations Worldwide &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/kamasers-technical-analysis/</guid>
-      <pubDate>Wed, 25 Mar 2026 10:20:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 13:10:57 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN Recognized for Innovations and Market Leadership at Global InfoSec Awards 2026</title>
       <link>https://any.run/cybersecurity-blog/global-infosec-awards-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/german-industries-attack-cases/" rel="nofollow"&gt;How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/german-industries-attack-cases/</guid>
       <pubDate>Thu, 09 Apr 2026 11:52:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Trust Becomes a Weapon: Google Cloud Storage Phishing Deploying Remcos RAT</title>
+      <link>https://any.run/cybersecurity-blog/phishing-google-drive-remcos/</link>
+      <description>&lt;p&gt;Modern phishing campaigns increasingly abuse legitimate services. Cloud platforms, file-sharing tools, trusted domains, and widely used SaaS applications are now part of the attacker’s toolkit. Instead of breaking trust, attackers borrow it.&amp;#160; This shift creates&amp;#160;a dangerous&amp;#160;asymmetry. Security controls often whitelist or inherently trust these services, while users are far less likely to question them. The [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-google-drive-remcos/" rel="nofollow"&gt;When Trust Becomes a Weapon: Google Cloud Storage Phishing Deploying Remcos RAT&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-google-drive-remcos/</guid>
+      <pubDate>Tue, 14 Apr 2026 11:04:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

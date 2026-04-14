@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 07:21:44 +0000</lastBuildDate>
-    <item>
-      <title>Apograph Delivers Security with SonicWall Advantage</title>
-      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</link>
-      <description>See how Apograph uses SonicWall firewalls, NSM, and Cloud Secure Edge to protect clients, cut costs, and make upgrades sustainable.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 13:09:09 +0000</lastBuildDate>
     <item>
       <title>Apex Computing Strengthens Security Through SonicWall Upgrades</title>
       <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apex-computing-uses-proactive-firewall-upgrades-to-protect-clients-and-prevent-disruptions</link>
@@ -286,6 +280,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
       <description>SonicWall is named a Leader and Fast Mover in the 2026 GigaOm Radar for Enterprise Firewalls, highlighting innovation and proven threat protection.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
+    </item>
+    <item>
+      <title>VPN Vulnerabilities Lead to Breaches – How to Eliminate Risk</title>
+      <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
+      <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>

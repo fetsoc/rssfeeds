@@ -7,31 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/koi-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 07:21:47 +0000</lastBuildDate>
-    <item>
-      <title>WhiteCobra's Playbook Exposed</title>
-      <link>https://www.koi.ai/blog/whitecobra-vscode-cursor-extensions-malware</link>
-      <description>WhiteCobra’s critical mistake exposed its entire 24-extension campaign, targeting VS Code and Cursor users with stealthy persistent malware.</description>
-      <guid isPermaLink="false">https://www.koi.ai/blog/whitecobra-vscode-cursor-extensions-malware</guid>
-    </item>
-    <item>
-      <title>When Chrome Extensions Turn Against Us: The Cyberhaven Breach and Beyond</title>
-      <link>https://www.koi.ai/blog/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond</link>
-      <description>Chrome extensions turned malicious in the Cyberhaven breach, exposing user data and highlighting new threats lurking in trusted add-ons.</description>
-      <guid isPermaLink="false">https://www.koi.ai/blog/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond</guid>
-    </item>
-    <item>
-      <title>When Both Marketplaces Fall: The Cross-Platform Extension Malware Campaign</title>
-      <link>https://www.koi.ai/blog/when-both-marketplaces-fall-the-cross-platform-extension-malware-campaign</link>
-      <description>When both marketplaces fall, a cross-platform extension malware campaign exposes systemic trust failures across browsers globally!</description>
-      <guid isPermaLink="false">https://www.koi.ai/blog/when-both-marketplaces-fall-the-cross-platform-extension-malware-campaign</guid>
-    </item>
-    <item>
-      <title>When Claude Becomes a Cyber-Weapon: The AI Arms Race Has Begun</title>
-      <link>https://www.koi.ai/blog/when-anthropic-claude-becomes-a-cyber-weapon-the-ai-arms-race-has-begun</link>
-      <description>AI like Claude can be repurposed as a cyber-weapon, fueling an escalating arms race in digital security and AI-driven attacks.</description>
-      <guid isPermaLink="false">https://www.koi.ai/blog/when-anthropic-claude-becomes-a-cyber-weapon-the-ai-arms-race-has-begun</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 13:09:13 +0000</lastBuildDate>
     <item>
       <title>VSCode Extension Trivia: Real or Cake?</title>
       <link>https://www.koi.ai/blog/vscode-extension-trivia-real-or-cake</link>
@@ -105,6 +81,12 @@
       <guid isPermaLink="false">https://www.koi.ai/blog/owasp-agentic-ai-top-10-a-practical-security-guide</guid>
     </item>
     <item>
+      <title>Open Sesame: How a Fail-Open Bug in Open VSX's New Scanner Let Malware Walk Right In</title>
+      <link>https://www.koi.ai/blog/open-sesame-how-a-fail-open-bug-in-open-vsxs-new-scanner-let-malware-walk-right-in</link>
+      <description>Open VSX's new pre-publish scanning pipeline had a fail-open bug. Flood the publish endpoint, the scanner skips, and your malicious extension goes live - marked as PASSED. Fixed within three days of our report.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/open-sesame-how-a-fail-open-bug-in-open-vsxs-new-scanner-let-malware-walk-right-in</guid>
+    </item>
+    <item>
       <title>How 2.5 Billion Weekly Downloads Were Compromised in npm's Largest Supply Chain Attack</title>
       <link>https://www.koi.ai/blog/npm-supply-chain-attack-package-poisoner</link>
       <description>npm’s largest supply chain attack compromised 2.5 billion weekly downloads, exposing countless projects to risk and widespread vulnerabilities.</description>
@@ -176,6 +158,11 @@
       <guid isPermaLink="false">https://www.koi.ai/blog/glassworm-returns-new-wave-openvsx-malware-expose-attacker-infrastructure</guid>
     </item>
     <item>
+      <title>https://www.koi.ai/blog/glassworm-hits-mcp-5th-wave-with-new-delivery-techniques</title>
+      <link>https://www.koi.ai/blog/glassworm-hits-mcp-5th-wave-with-new-delivery-techniques</link>
+      <guid isPermaLink="false">https://www.koi.ai/blog/glassworm-hits-mcp-5th-wave-with-new-delivery-techniques</guid>
+    </item>
+    <item>
       <title>GlassWorm Goes Native: Same Infrastructure, Hardened Delivery</title>
       <link>https://www.koi.ai/blog/glassworm-goes-native-same-infrastructure-hardened-delivery</link>
       <description>GlassWorm upgrades its malware tactics by delivering native payloads with hardened infrastructure, increasing risks for enterprises.</description>
@@ -216,6 +203,11 @@
       <link>https://www.koi.ai/blog/brew-hijack-serving-malware</link>
       <description>Brew Hijack exposed 50,000 users by delivering malware through Homebrew’s Core Tap, highlighting risks in popular package managers.</description>
       <guid isPermaLink="false">https://www.koi.ai/blog/brew-hijack-serving-malware</guid>
+    </item>
+    <item>
+      <title>axios Compromised: A Supply Chain Attack on npm's Most Popular HTTP Client</title>
+      <link>https://www.koi.ai/blog/axios-compromised-a-supply-chain-attack-on-npms-most-popular-http-client</link>
+      <guid isPermaLink="false">https://www.koi.ai/blog/axios-compromised-a-supply-chain-attack-on-npms-most-popular-http-client</guid>
     </item>
     <item>
       <title>Amazon’s AI Assistant Almost Nuked A Million Developer’s Production Environments</title>
@@ -305,6 +297,13 @@
       <description>Technical analysis of the Trust Wallet Chrome extension attack reveals what the news got wrong - and how a simple policy would have prevented $7M in losses.</description>
       <guid isPermaLink="false">https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve</guid>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShadowPrompt: How Any Website Could Have Hijacked Claude's Chrome Extension</title>
+      <link>https://www.koi.ai/blog/shadowprompt-how-any-website-could-have-hijacked-anthropic-claude-chrome-extension</link>
+      <description>We found a vulnerability in Claude's Chrome Extension that let any website silently inject prompts into your AI-powered browser session. By chaining a wildcard origin allowlist with a DOM-based XSS in a CAPTCHA subdomain, an attacker could steal credentials, read your email, and act as you - all from an invisible iframe.</description>
+      <guid isPermaLink="false">https://www.koi.ai/blog/shadowprompt-how-any-website-could-have-hijacked-anthropic-claude-chrome-extension</guid>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ClawHavoc: 341 Malicious Clawed Skills Found by the Bot They Were Targeting</title>

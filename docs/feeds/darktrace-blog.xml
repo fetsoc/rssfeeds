@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 07:21:44 +0000</lastBuildDate>
-    <item>
-      <title>Botnet and Remote Desktop Protocol Attacks</title>
-      <link>https://www.darktrace.com/blog/botnet-malware-remote-desktop-protocol-rdp-attack</link>
-      <description>Understand the connection between botnet malware and RDP attacks, and how to safeguard your network from potential threats.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/botnet-malware-remote-desktop-protocol-rdp-attack</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 13:09:08 +0000</lastBuildDate>
     <item>
       <title>Boosting Security with Azure Virtual Network TAP Traffic Mirroring</title>
       <link>https://www.darktrace.com/blog/boosting-security-with-azure-virtual-network-tap-traffic-mirroring</link>
@@ -354,6 +347,13 @@
       <title>AI-powered security for a rapidly growing grocery enterprise</title>
       <link>https://www.darktrace.com/blog/ai-powered-security-for-a-rapidly-growing-grocery-enterprise</link>
       <guid isPermaLink="false">https://www.darktrace.com/blog/ai-powered-security-for-a-rapidly-growing-grocery-enterprise</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 MCP Risks CISO’s Should Consider and How to Prepare</title>
+      <link>https://www.darktrace.com/blog/7-mcp-risks-cisos-should-consider-and-how-to-prepare</link>
+      <description>As Model Context Protocol (MCP) becomes the control plane for autonomous AI agents, it creates a new and largely ungoverned security attack surface. This article outlines the key MCP risks CISOs must address and why governance and visibility are now essential.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/7-mcp-risks-cisos-should-consider-and-how-to-prepare</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
