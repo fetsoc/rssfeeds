@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 13:10:57 +0000</lastBuildDate>
-    <item>
-      <title>Building a Detection Foundation: Part 2 - Windows Security Events</title>
-      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-2-windows-security-events</link>
-      <description>&amp;lt;p&amp;gt;The Audit Policies Nobody ConfiguresIn Part 1, we looked at why relying on a single telemetry source is a recipe for blind spots. Now let&amp;amp;#039;s get practical. Windows has a rich set of security auditing capabilities…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-2-windows-security-events</guid>
-      <pubDate>Thu, 05 Mar 2026 05:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 19:05:04 +0000</lastBuildDate>
     <item>
       <title>Building a Detection Foundation: Part 3 - PowerShell and Script Logging</title>
       <link>https://trustedsec.com/blog/building-a-detection-foundation-part-3-powershell-and-script-logging</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;I decided to spend some research time diving in depth into Identity and Access Management (IAM) within Microsoft Azure. I am going to show you within this blog how IAM permissions can be abused within an Azure…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/iam-the-captain-now-hijacking-azure-identity-access</guid>
       <pubDate>Thu, 09 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking Self-Hosted LLMs for Offensive Security</title>
+      <link>https://trustedsec.com/blog/benchmarking-self-hosted-llms-for-offensive-security</link>
+      <description>&amp;lt;p&amp;gt;We put LLMs to the test—let&amp;#039;s find out how good AI is at hacking! We walk through six simple challenges with intentionally naïve setups to test how capable each model is at single-step exploit validation.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/benchmarking-self-hosted-llms-for-offensive-security</guid>
+      <pubDate>Tue, 14 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
