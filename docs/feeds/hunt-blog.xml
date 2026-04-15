@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 07:21:02 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Hunt 2.2: AttackCapture™ Zip Extraction, Smarter SQL, IP History Consolidation, and more</title>
-      <link>https://hunt.io/blog/introducing-hunt-2-2</link>
-      <description>Explore Hunt 2.2: Auto-unpack zips in AttackCapture™, smarter SQL with WHOIS and Nmap, and full IP history consolidation, track abused hosting with Host Radar, and more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-2</guid>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 13:06:41 +0000</lastBuildDate>
     <item>
       <title>Fast and Curious: Red Teaming, Race Cars, and Hunt.io with Justin Elze</title>
       <link>https://hunt.io/blog/trustedsec-cto-interview-justin-elze</link>
@@ -357,6 +350,13 @@
       <description>An exposed API on a Japanese phishing server revealed Canis C2, a previously undocumented surveillance framework targeting Android, iOS, Windows, Linux, and macOS.</description>
       <guid isPermaLink="false">https://hunt.io/blog/canis-c2-exposed-cross-platform-surveillance-framework-japan</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exposing Russian Malicious Infrastructure: 1,250+ C2 Servers Mapped Across 165 Providers</title>
+      <link>https://hunt.io/blog/russian-malicious-infrastructure-c2-servers-mapped</link>
+      <description>Hunt.io mapped 1,250+ active C2 servers across 165 Russian providers. See which networks dominate malicious hosting and what malware families drive it.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/russian-malicious-infrastructure-c2-servers-mapped</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

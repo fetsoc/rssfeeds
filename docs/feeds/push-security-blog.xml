@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 07:26:17 +0000</lastBuildDate>
-    <item>
-      <title>Integrate Push Security and Panther</title>
-      <link>https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</link>
-      <description>Push is excited to partner with Panther, bringing our unique browser telemetry to your SIEM.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/combining-the-powers-of-push-and-panther-to-stop-identity-attacks</guid>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 13:09:26 +0000</lastBuildDate>
     <item>
       <title>Stop identity attacks with Push's security controls</title>
       <link>https://pushsecurity.com/blog/introducing-set-and-forget-controls-that-stop-real-world-identity-attacks</link>
@@ -357,6 +350,13 @@
       <description>How to use in-browser controls to stop browser-based attacks before compromise can occur</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/guide-how-to-use-push-controls-to-protect-your-users-from-modern-attacks</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyzing browser sync attacks and how to stop them</title>
+      <link>https://pushsecurity.com/blog/browser-sync-attacks-where-personal-account-hacks-lead-to-corporate-breaches</link>
+      <description>Browser sync attacks result in business credentials being compromised via personal account and device breaches. Here's what you need to know.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/browser-sync-attacks-where-personal-account-hacks-lead-to-corporate-breaches</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

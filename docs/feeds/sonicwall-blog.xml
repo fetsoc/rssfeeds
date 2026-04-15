@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 07:24:50 +0000</lastBuildDate>
-    <item>
-      <title>MH Enterprise Builds Trust Through SonicWall Upgrades</title>
-      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-mhe-turns-trust-into-cybersecurity-success</link>
-      <description>Discover how MH Enterprise uses trust and partnership to modernize networks, expand managed services, and deliver stronger protection.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-mhe-turns-trust-into-cybersecurity-success</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 13:07:42 +0000</lastBuildDate>
     <item>
       <title>Visions of Cyberattacks: How SonicSentry Solves the 3 AM Problem</title>
       <link>https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</link>
@@ -280,6 +274,11 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
       <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
+    </item>
+    <item>
+      <title>ACRStealer The Silent Golang Threat Behind Credential and Wallet Theft</title>
+      <link>https://www.sonicwall.com/blog/acrstealer-the-silent-golang-threat</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/acrstealer-the-silent-golang-threat</guid>
     </item>
     <item>
       <title>Microsoft Security Bulletin Coverage for April 2026</title>
