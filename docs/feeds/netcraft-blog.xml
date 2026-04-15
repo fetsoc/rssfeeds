@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 13:07:47 +0000</lastBuildDate>
-    <item>
-      <title>From Bots to Inboxes: The 2025 Shift in Phishing Infrastructure</title>
-      <link>https://www.netcraft.com/blog/from-bots-to-inboxes-how-phishing-infrastructure-is-shifting-in-2025</link>
-      <description>Phishing is moving from encrypted platforms like Telegram back to email. Learn why cybercriminals are shifting tactics — and how to protect your business in 2025.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/from-bots-to-inboxes-how-phishing-infrastructure-is-shifting-in-2025</guid>
-    </item>
-    <item>
-      <title>Lighthouse &amp; Lucid: Netcraft Exposes 17,500+ Phishing-as-a-Service Domains</title>
-      <link>https://www.netcraft.com/blog/inside-the-lighthouse-and-lucid-phaas-campaigns-targeting-316-global-brands</link>
-      <description>Netcraft uncovers 17,500+ phishing domains linked to the Lighthouse and Lucid PhaaS platforms, targeting 316 brands across 74 countries. Learn how automation and intelligence help disrupt these evolving threats.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/inside-the-lighthouse-and-lucid-phaas-campaigns-targeting-316-global-brands</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 19:13:23 +0000</lastBuildDate>
     <item>
       <title>The Comprehensive Guide to Brand Protection in 2026</title>
       <link>https://www.netcraft.com/blog/the-comprehensive-guide-to-brand-protection-7-proven-ways-to-protect-your-brand-in-2026</link>
@@ -261,6 +249,12 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/excessive-emojis-as-an-ai-indicator</guid>
     </item>
     <item>
+      <title>March 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/march-2026-web-server-survey</link>
+      <description>In the March 2026 survey we received responses from 1,427,812,919 sites across 297,642,950 domains and 14,225,050 web-facing computers. This reflec...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/march-2026-web-server-survey</guid>
+    </item>
+    <item>
       <title>Ultimate Guide to Digital Risk Protection | Netcraft</title>
       <link>https://www.netcraft.com/blog/ultimate-guide-to-digital-risk-protection</link>
       <description>Digital risk protection is no longer a niche function inside cybersecurity - learn what it is, why it matters, and how to stop brand impersonation, phishing, and online threats.</description>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/digital-risk-protection-vendor-rfp-guide</link>
       <description>This cybersecurity procurement guide outlines how to structure an RFP process to find the best digital risk protection vendor, and includes a downloadable vendor questionnaire.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/digital-risk-protection-vendor-rfp-guide</guid>
+    </item>
+    <item>
+      <title>A Decade of Proactive Protection: Netcraft &amp; NCSC Partnership</title>
+      <link>https://www.netcraft.com/blog/a-decade-of-proactive-protection-netcraft-and-ncsc</link>
+      <description>Explore how Netcraft and the UK’s NCSC have reduced phishing in the UK by up to 80% over a decade—through rapid takedowns, proactive detection, and ACD 2.0 innovation</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/a-decade-of-proactive-protection-netcraft-and-ncsc</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>
