@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 19:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 01:50:21 +0000</lastBuildDate>
     <item>
       <title>What IT Needs to Know about OT/IoT Security Threats in 2020</title>
       <link>https://www.nozominetworks.com/blog/what-it-needs-to-know-about-ot-io-security-threats-in-2020</link>
@@ -199,12 +199,6 @@
       <link>https://www.nozominetworks.com/blog/enhancing-threat-intelligence-with-the-mitre-attck-framework</link>
       <description>MITRE ATT&amp;CK tactics and techniques are increasingly becoming a standard that helps provide OT and IoT threat intelligence.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/enhancing-threat-intelligence-with-the-mitre-attck-framework</guid>
-    </item>
-    <item>
-      <title>Detecting New OT Threats: How To Do It Proactively</title>
-      <link>https://www.nozominetworks.com/blog/detecting-new-ot-threats-how-to-do-it-proactively</link>
-      <description>This blog post discusses various challenges that cybersecurity companies face when they need to detect new previously unknown threats and suggests possible solutions to this problem featuring our bleeding-edge technologies.</description>
-      <guid isPermaLink="false">https://www.nozominetworks.com/blog/detecting-new-ot-threats-how-to-do-it-proactively</guid>
     </item>
     <item>
       <title>Demonstrating the Link Between Functional Safety and ICS Security</title>
