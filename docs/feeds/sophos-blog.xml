@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 19:15:25 +0000</lastBuildDate>
-    <item>
-      <title>Axios npm package compromised to deploy malware</title>
-      <link>https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, Axios&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/axios-npm-package-compromised-to-deploy-malware</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 02:03:23 +0000</lastBuildDate>
     <item>
       <title>The High Cost of Low Trust: Our Commitment to Radical Transparency</title>
       <link>https://www.sophos.com/en-us/blog/the-high-cost-of-low-trust-our-commitment-to-radical-transparency</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Following our article on the challenges posed by agentic AI, we gave OpenClaw access to one of our legacy networks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; OpenClaw, LLM, AI, penetration testing, Red Team, CISO, Sophos X-Ops&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secure by Design: Building cybersecurity into the foundation</title>
+      <link>https://www.sophos.com/en-us/blog/building-cybersecurity-into-the-foundation</link>
+      <description>&lt;p&gt;An explainer of why this philosophy matters and how it reduces attack surface from the inside&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights, Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Secure by Design, Thought Leadership&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-cybersecurity-into-the-foundation</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
