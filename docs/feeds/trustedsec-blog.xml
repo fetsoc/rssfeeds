@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 07:23:42 +0000</lastBuildDate>
-    <item>
-      <title>Building a Detection Foundation: Part 3 - PowerShell and Script Logging</title>
-      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-3-powershell-and-script-logging</link>
-      <description>&amp;lt;p&amp;gt;The Second Most Important Data Source You&amp;amp;#039;re Probably Not CapturingIn Part 2, we enabled process creation logging with command lines. That&amp;amp;#039;s a big step forward. But here&amp;amp;#039;s the thing about PowerShell:…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-3-powershell-and-script-logging</guid>
-      <pubDate>Tue, 10 Mar 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 13:16:58 +0000</lastBuildDate>
     <item>
       <title>LnkMeMaybe - A Review of CVE-2026-25185</title>
       <link>https://trustedsec.com/blog/lnkmemaybe-a-review-of-cve-2026-25185</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;We put LLMs to the test—let&amp;#039;s find out how good AI is at hacking! We walk through six simple challenges with intentionally naïve setups to test how capable each model is at single-step exploit validation.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/benchmarking-self-hosted-llms-for-offensive-security</guid>
       <pubDate>Tue, 14 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dungeons and Daemons</title>
+      <link>https://trustedsec.com/blog/dungeons-and-daemons</link>
+      <description>&amp;lt;p&amp;gt;Play Roll for Initiative. Hack the Planet.Dungeons &amp;amp;amp; Daemons is a cybersecurity RPG that drops you into the boots of a Red Team operator on a live engagement. Your mission: infiltrate a corporate facility,…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/dungeons-and-daemons</guid>
+      <pubDate>Thu, 16 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 07:23:41 +0000</lastBuildDate>
-    <item>
-      <title>Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud</title>
-      <link>https://any.run/cybersecurity-blog/banks-magecart-campaign/</link>
-      <description>&lt;p&gt;A large-scale magecart operation remained active for over 24 months, leveraging an infrastructure of 100+ domains. While the targeted victims are e-commerce websites, the actual pressure falls on banks and payment systems. As&amp;#160;ANY.RUN’s&amp;#160;analysis&amp;#160;shows, threat actors applied multi-step checkout hijacking, payment&amp;#160;page&amp;#160;mimicry,&amp;#160;and&amp;#160;WebSocket-based&amp;#160;exfiltration of card data.&amp;#160; This report provides both&amp;#160;executive-level insights&amp;#160;and&amp;#160;technical&amp;#160;analysis&amp;#160;of the campaign.&amp;#160; Key Takeaways&amp;#160; Campaign Overview&amp;#160; A [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/banks-magecart-campaign/" rel="nofollow"&gt;Active Magecart Campaign Targets Spain, Steals Card Data via Hijacked eStores for Bank Fraud &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/banks-magecart-campaign/</guid>
-      <pubDate>Thu, 26 Mar 2026 10:32:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 13:16:58 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN at RSAC™ 2026: Highlights &amp; Industry Recognition</title>
       <link>https://any.run/cybersecurity-blog/rsac-2026-highlights/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/chile-cybersecurity-framework-law/" rel="nofollow"&gt;Chile’s Cybersecurity Framework Law: How SOCs Achieve Compliance and Response Readiness&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/chile-cybersecurity-framework-law/</guid>
       <pubDate>Wed, 15 Apr 2026 11:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>BlobPhish: The Phantom Phishing Campaign Hiding in Browser Memory</title>
+      <link>https://any.run/cybersecurity-blog/evasive-blob-phishing-detection/</link>
+      <description>&lt;p&gt;ANY.RUN has&amp;#160;observed&amp;#160;a sustained surge in a credential-phishing campaign active since 2024. This campaign, dubbed&amp;#160;BlobPhish, introduces a&amp;#160;sneaky&amp;#160;twist: instead of delivering phishing pages via traditional HTTP requests, it generates them directly inside the victim’s browser using blob objects. The result is a phishing payload that lives entirely in memory, leaving little to no trace in logs, caches, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/evasive-blob-phishing-detection/" rel="nofollow"&gt;BlobPhish: The Phantom Phishing Campaign Hiding in Browser Memory&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/evasive-blob-phishing-detection/</guid>
+      <pubDate>Thu, 16 Apr 2026 10:55:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
