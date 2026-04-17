@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 07:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:03:23 +0000</lastBuildDate>
     <item>
       <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
       <link>https://asec.ahnlab.com/en/92997/</link>
@@ -39,7 +39,7 @@
     <item>
       <title>February 2026 APT Group Trends Report</title>
       <link>https://asec.ahnlab.com/en/92906/</link>
-      <description>Key APT Groups &amp;#160; Among the activities of APT groups in February 2026, attacks by APT28, Lotus Blossom, TA-RedAnt (APT37), UAT-8616, UNC3886, and UNC6201 were particularly prominent. &amp;#160; Lotus Blossom exploited the Notepad++ supply chain infrastructure to inject malicious executables into legitimate update processes, combining DLL sideloading with multi-stage loaders to deploy the Chrysalis backdoor [&amp;#8230;]</description>
+      <description>Purpose and Scope. this report summarizes major APT group activity in February 2026. the analysis covers supply chain compromises, zero-day exploits, network segregation bypass, and backup and network infrastructure compromises. the major groups included in the report are APT28, Lotus Blossom, TA-RedAnt (APT37), UAT-8616, UNC3886, and UNC6201. Major APT groups by region. Lotus Blossom exploited [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92906/</guid>
       <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
     </item>
@@ -67,7 +67,7 @@
     <item>
       <title>February 2026 APT Attack Trends Report (South Korea)</title>
       <link>https://asec.ahnlab.com/en/92972/</link>
-      <description>Overview &amp;#160; AhnLab utilizes its infrastructure to monitor for Advanced Persistent Threat (APT) attacks in South Korea. This report covers the classification and statistics on APT attacks on South Korea targets identified during the month of February 2026, and introduces the features of each type.&amp;#160; Figure 1. Statistics on APT attacks in Korea in February [&amp;#8230;]</description>
+      <description>Overview. ahnLab monitored APT attacks against domestic targets during the month of February 2026 through its infrastructure. this report summarizes the classification, statistics, and features of each type of domestic APT attacks identified during the period. APT Domestic Attack Trends. we found that most of the infiltrations were carried out through spear phishing emails. in [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
       <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
     </item>
@@ -128,6 +128,13 @@
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Q1 2026 Attack Technique Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93278/</link>
+      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>March 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/93293/</link>
       <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
@@ -142,11 +149,11 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+      <title>March 2026 Ransomware Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93359/</link>
+      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
@@ -188,13 +195,6 @@
       <link>https://asec.ahnlab.com/en/93323/</link>
       <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Ransomware Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93359/</link>
-      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

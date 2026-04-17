@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/upguard-news.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 07:24:09 +0000</lastBuildDate>
-    <item>
-      <title>Data breach reported for Mark Leyden &amp; Associates | UpGuard</title>
-      <link>https://www.upguard.com/news/mlassoc-com-data-breach-2026-03-25</link>
-      <description>A data breach involving mlassoc.com was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/mlassoc-com-data-breach-2026-03-25</guid>
-      <pubDate>Thu, 26 Mar 2026 05:56:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch Ministry of Finance Investigating Cyberattack | UpGuard</title>
-      <link>https://www.upguard.com/news/government-nl-data-breach-2026-03-25</link>
-      <description>A data breach involving government.nl was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/government-nl-data-breach-2026-03-25</guid>
-      <pubDate>Mon, 30 Mar 2026 00:23:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 13:03:21 +0000</lastBuildDate>
     <item>
       <title>Data breach reported for Quatrro Business Support Services | UpGuard</title>
       <link>https://www.upguard.com/news/qbss-data-breach-2026-03-25</link>
@@ -357,6 +343,20 @@
       <description>A data breach involving TruView BSI was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
       <guid isPermaLink="false">https://www.upguard.com/news/truview-bsi-data-breach-2026-04-17</guid>
       <pubDate>Fri, 17 Apr 2026 07:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phoenix Art Museum data breach: names and Social Security numbers compromised | UpGuard</title>
+      <link>https://www.upguard.com/news/phoenix-art-museum-data-breach-2026-04-17</link>
+      <description>A data breach involving Phoenix Art Museum was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/phoenix-art-museum-data-breach-2026-04-17</guid>
+      <pubDate>Fri, 17 Apr 2026 07:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conrad Capital Management data breach exposes Social Security numbers and financial data | UpGuard</title>
+      <link>https://www.upguard.com/news/conrad-capital-management-data-breach-2026-04-17</link>
+      <description>A data breach involving Conrad Capital Management was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/conrad-capital-management-data-breach-2026-04-17</guid>
+      <pubDate>Fri, 17 Apr 2026 07:29:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
