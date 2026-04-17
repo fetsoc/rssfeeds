@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 01:54:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:23:57 +0000</lastBuildDate>
     <item>
       <title>Stop identity attacks with Push's security controls</title>
       <link>https://pushsecurity.com/blog/introducing-set-and-forget-controls-that-stop-real-world-identity-attacks</link>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 01:54:59 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, March 2026</title>
-      <link>https://asec.ahnlab.com/en/92815/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Morpheus Launches Ransomware Attack on South Korean Plating Company Ailock Resumes Activity and Republishes Previous Ransomware Victims Pro-Iranian and Pro-Islamist Hacktivist Groups Launch Cyber Attacks on Middle Eastern and Pro-Western Targets [1], [2]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92815/</guid>
-      <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 07:24:11 +0000</lastBuildDate>
     <item>
       <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
       <link>https://asec.ahnlab.com/en/92997/</link>
@@ -25,7 +18,7 @@
     <item>
       <title>February 2026 Phishing Email Trends Report</title>
       <link>https://asec.ahnlab.com/en/92907/</link>
-      <description>This report provides statistics, trends, and case information regarding the distribution volume and attachment threats of phishing emails collected and analyzed during the month of February 2026. The report below contains some statistical data and cases included in the original content. 1) Phishing Email Threat Statistics The most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
+      <description>Statistics on Attachment Threats Types in February 2026, the highest percentage of phishing email attachment threats is FakePage (42%). threat actors sophisticatedly mimic login pages and advertisement pages with HTML and other scripts to trick users into entering data and sending it to a C2 server or to a fake site. another popular method is [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92907/</guid>
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
     </item>
@@ -135,13 +128,6 @@
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>March 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/93293/</link>
       <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
@@ -156,11 +142,11 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>March 2026 Ransomware Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93359/</link>
-      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+      <title>Q1 2026 Attack Technique Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93278/</link>
+      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
@@ -205,11 +191,25 @@
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>March 2026 Ransomware Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93359/</link>
+      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, April 2026</title>
       <link>https://asec.ahnlab.com/en/93410/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Emergence of New Ransomware Groups: TiMC, BlackWater, and Lamashtu [1], [2], [3] NoName05716 Claims DDoS Attacks on South Korean Public &amp;#38; Private Sectors [1], [2], [3] VECT &amp;#38; TeamPCP Campaign: Supply Chain Attack Exploiting Global Travel Platform</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93410/</guid>
       <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Security Issues in the Korean &amp; Global Financial Sector</title>
+      <link>https://asec.ahnlab.com/en/93421/</link>
+      <description>Content. a number of malware samples including phishing, web shell, droppers, backdoor malware, downloaders, Infostealer, and CoinMiner targeting the financial sector have been distributed. we observed a number of cases where Korean disguised attachment names and HTML/JS execution methods were utilized to propagate phishing. account compromise campaigns through the Telegram API were confirmed, with approximately [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93421/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>March 2026 Threat Trend Report on APT Groups</title>
