@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 19:04:31 +0000</lastBuildDate>
-    <item>
-      <title>복호화 가능성이 존재하는 Green Blood 랜섬웨어 분석</title>
-      <link>https://asec.ahnlab.com/en/92974/</link>
-      <description>Green Blood 랜섬웨어 그룹은 2026년 1월부터 활동이 확인된 신규 랜섬웨어 그룹으로, Golang 기반의 랜섬웨어 페이로드를 운영하는 것이 특징이다. 이들은 남아시아와 아프리카, 남미 일부 국가를 중심으로 공격을 전개하고 있으며, 다른 랜섬웨어 그룹과 마찬가지로 감염된 시스템의 파일을 암호화하고 피해 기업의 민감 정보를 탈취하는 이중 갈취 방식을 사용한다. 또한 몸값이 지불되지 않을 경우 복호화 키를 영구적으로 파기하겠다는 협박성 [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92974/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 01:54:59 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 1, March 2026</title>
       <link>https://asec.ahnlab.com/en/92815/</link>
@@ -23,17 +16,17 @@
       <pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>February 2026 Phishing Email Trends Report</title>
-      <link>https://asec.ahnlab.com/en/92907/</link>
-      <description>This report provides statistics, trends, and case information regarding the distribution volume and attachment threats of phishing emails collected and analyzed during the month of February 2026. The report below contains some statistical data and cases included in the original content. 1) Phishing Email Threat Statistics The most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92907/</guid>
-      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
       <link>https://asec.ahnlab.com/en/92997/</link>
       <description>The Green Blood ransomware group, which has been active since January 2026, has been targeting countries in South Asia, Africa, and parts of South America, and is characterized by its Golang-based ransomware payload. In this post, we analyze the main characteristics of the Green Blood ransomware, its encryption method, and the technical reasons why it [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92997/</guid>
+      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 Phishing Email Trends Report</title>
+      <link>https://asec.ahnlab.com/en/92907/</link>
+      <description>This report provides statistics, trends, and case information regarding the distribution volume and attachment threats of phishing emails collected and analyzed during the month of February 2026. The report below contains some statistical data and cases included in the original content. 1) Phishing Email Threat Statistics The most prevalent threat type among phishing email attachments [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92907/</guid>
       <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -72,17 +65,17 @@
       <pubDate>Sun, 15 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>February 2026 APT Attack Trends Report (South Korea)</title>
-      <link>https://asec.ahnlab.com/en/92972/</link>
-      <description>Overview &amp;#160; AhnLab utilizes its infrastructure to monitor for Advanced Persistent Threat (APT) attacks in South Korea. This report covers the classification and statistics on APT attacks on South Korea targets identified during the month of February 2026, and introduces the features of each type.&amp;#160; Figure 1. Statistics on APT attacks in Korea in February [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
-      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
       <link>https://asec.ahnlab.com/en/92978/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Threat Actor CipherForce Claims Cyberattack on South Korean Job Portal New Threat Actor Loki Emerges, Leaks US Citizens&amp;#8217; Personal Data Cybercrime Forum LeakBase Shut Down Again by Russian Authorities</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92978/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2026 APT Attack Trends Report (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/92972/</link>
+      <description>Overview &amp;#160; AhnLab utilizes its infrastructure to monitor for Advanced Persistent Threat (APT) attacks in South Korea. This report covers the classification and statistics on APT attacks on South Korea targets identified during the month of February 2026, and introduces the features of each type.&amp;#160; Figure 1. Statistics on APT attacks in Korea in February [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
       <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,6 +135,13 @@
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Q1 2026 Attack Technique Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93278/</link>
+      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>March 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/93293/</link>
       <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
@@ -154,27 +154,6 @@
       <description>Overview In recent years, cyber threat actors have consistently attempted to exploit living off the land binaries (LOLBins) built into systems to bypass detection by security products. Such attack methods effectively evade traditional signature-based detection by not distributing a separate malicious file, but instead relying on tools trusted by the operating system.Among them, MSBuild.exe is [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93290/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Threat Actor Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93324/</link>
-      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Issue Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93323/</link>
-      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>March 2026 Ransomware Trends Report</title>
@@ -212,11 +191,32 @@
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>March 2026 Dark Web Threat Actor Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93324/</link>
+      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Issue Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93323/</link>
+      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, April 2026</title>
       <link>https://asec.ahnlab.com/en/93410/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Emergence of New Ransomware Groups: TiMC, BlackWater, and Lamashtu [1], [2], [3] NoName05716 Claims DDoS Attacks on South Korean Public &amp;#38; Private Sectors [1], [2], [3] VECT &amp;#38; TeamPCP Campaign: Supply Chain Attack Exploiting Global Travel Platform</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93410/</guid>
       <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Threat Trend Report on APT Groups</title>
+      <link>https://asec.ahnlab.com/en/93416/</link>
+      <description>Purpose and Scope. this report analyzes the strategies, techniques, and impacts of APT groups believed to be state-sponsored. it excludes financial crimes groups from its scope and organizes major threat behaviors by ATIP&amp;#8217;s representative names. the activities of 13 APT groups were aggregated based on publicly available data for the most recent month. Leading APT [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93416/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
