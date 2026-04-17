@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 02:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:49:18 +0000</lastBuildDate>
     <item>
       <title>The Lurking Threat of Edge Security Products - Censys</title>
       <link>https://censys.com/blog/the-lurking-threat-of-edge-security-products/</link>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 13:03:22 +0000</lastBuildDate>
-    <item>
-      <title>LnkMeMaybe - A Review of CVE-2026-25185</title>
-      <link>https://trustedsec.com/blog/lnkmemaybe-a-review-of-cve-2026-25185</link>
-      <description>&amp;lt;p&amp;gt;A Windows shortcut (.lnk) seems very simple on the surface. It is a file that points somewhere and tells the system to open or execute a resource. A shortcut is relatively easy to overlook and can be spoofed to look…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/lnkmemaybe-a-review-of-cve-2026-25185</guid>
-      <pubDate>Thu, 12 Mar 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 18:50:15 +0000</lastBuildDate>
     <item>
       <title>Better Together: Combining Automation and Manual Testing</title>
       <link>https://trustedsec.com/blog/better-together-combining-automation-and-manual-testing</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Play Roll for Initiative. Hack the Planet.Dungeons &amp;amp;amp; Daemons is a cybersecurity RPG that drops you into the boots of a Red Team operator on a live engagement. Your mission: infiltrate a corporate facility,…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/dungeons-and-daemons</guid>
       <pubDate>Thu, 16 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mythos, Memory Loss, and the Part InfoSec Keeps Missing</title>
+      <link>https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</link>
+      <description>&amp;lt;p&amp;gt;InfoSec has a bad habit of acting like history started this morning. Something new lands, the industry loses its mind for a week, vendors start talking like the old rules no longer apply, and half the industry suddenly…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</guid>
+      <pubDate>Fri, 17 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

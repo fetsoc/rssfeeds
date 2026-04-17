@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 13:03:19 +0000</lastBuildDate>
-    <item>
-      <title>The Shadow Web: How Private Messaging Apps Are Becoming the New Threat Actor Playground</title>
-      <link>https://falconfeeds.io/blogs/shadow-web-private-messaging-apps-cybercrime-threat-actors</link>
-      <description>An in-depth cyber threat intelligence analysis of the Shadow Web, examining how ransomware groups and APT actors are migrating from Tor to encrypted messaging apps like Telegram, Signal, Session, and Matrix—reshaping cybercrime operations, C2 infrastructure, and CTI visibility in 2024–2025.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/shadow-web-private-messaging-apps-cybercrime-threat-actors</guid>
-      <pubDate>Wed, 07 Jan 2026 09:59:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 18:50:12 +0000</lastBuildDate>
     <item>
       <title>From Code to Culture: How Threat Actor Communities Evolve on Telegram and Dark Web Forums</title>
       <link>https://falconfeeds.io/blogs/from-code-to-culture-threat-actor-communities-telegram-dark-web-forums</link>
@@ -357,6 +350,13 @@
       <description>FalconFeeds reveals a large-scale MicroStealer and SparkStealer campaign abusing Minecraft-themed domains to target gamers via fake mods and server links, enabling credential theft, wallet exfiltration, and account compromise.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</guid>
       <pubDate>Mon, 13 Apr 2026 06:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNC1069: DPRK’s Deepfake-Driven Cyber Campaign Targeting Crypto and Software Supply Chains</title>
+      <link>https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</link>
+      <description>UNC1069, a DPRK-linked threat actor tied to the Reconnaissance General Bureau, is leveraging deepfake-driven social engineering and supply chain attacks—including npm compromise—to target crypto and developer ecosystems, marking a new evolution in North Korean cyber operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</guid>
+      <pubDate>Fri, 17 Apr 2026 15:06:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
