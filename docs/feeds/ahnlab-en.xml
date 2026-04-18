@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 01:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:01:03 +0000</lastBuildDate>
     <item>
       <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
       <link>https://asec.ahnlab.com/en/92997/</link>
