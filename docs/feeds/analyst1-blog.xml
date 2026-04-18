@@ -7,13 +7,20 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 12:43:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 18:37:23 +0000</lastBuildDate>
     <item>
       <title>Analyst1 Wages War on Cybercrime with Next Generation Threat Intelligence Platform | Analyst1</title>
       <link>https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</link>
       <description>Empower analysts, revolutionize cybersecurity defense. Analyst1: the next-gen threat intelligence platform. Take action, boost security posture!</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</guid>
       <pubDate>Tue, 11 Aug 2020 01:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defense Innovation Unit (DIU) Chooses Analyst1 to Aid in its Transformation of Cyber Defense Operations | Analyst1</title>
+      <link>https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</link>
+      <description>Defense Innovation Unit selects Analyst1 to transform cyber defense operations. Gain insights, enhance threat detection, and strengthen national security.</description>
+      <guid isPermaLink="false">https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</guid>
+      <pubDate>Thu, 13 Aug 2020 01:01:13 +0000</pubDate>
     </item>
     <item>
       <title>SC Media Group Test Review | Analyst1</title>
@@ -163,13 +170,6 @@
       <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-2/</link>
-      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 2. Listen to Jon tell his story with additional details only found in the audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-2/</guid>
-      <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
-    </item>
-    <item>
       <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
       <link>https://analyst1.com/what-is-intelligence-analyst/</link>
       <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
@@ -191,13 +191,6 @@
       <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
-      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
-      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
-    </item>
-    <item>
       <title>What Is Lateral Movement in Cybersecurity?</title>
       <link>https://analyst1.com/what-is-lateral-movement/</link>
       <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
@@ -217,13 +210,6 @@
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
       <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
-      <link>https://analyst1.com/cyber-threat-intelligence-best-practices/</link>
-      <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
-      <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
-      <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
     </item>
     <item>
       <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
@@ -266,6 +252,13 @@
       <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
       <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is it time to replace your legacy TIP? | Analyst1</title>
+      <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
+      <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
+      <guid isPermaLink="false">https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</guid>
+      <pubDate>Thu, 23 May 2024 17:59:37 +0000</pubDate>
     </item>
     <item>
       <title>Why SOAR is Not a Replacement for a TIP | Analyst1</title>
@@ -331,11 +324,11 @@
       <pubDate>Mon, 10 Feb 2025 21:01:33 +0000</pubDate>
     </item>
     <item>
-      <title>Leveraging Intelligence-Driven Threat Management for Financial Organizations | Analyst1</title>
-      <link>https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</link>
+      <title>A Step Above: Why Analyst1 is CISA's Threat Intelligence Platform of Choice | Analyst1</title>
+      <link>https://analyst1.com/a-step-above-why-analyst1-is-cisas-threat-intelligence-platform-of-choice/</link>
       <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
-      <guid isPermaLink="false">https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</guid>
-      <pubDate>Wed, 12 Feb 2025 21:48:24 +0000</pubDate>
+      <guid isPermaLink="false">https://analyst1.com/a-step-above-why-analyst1-is-cisas-threat-intelligence-platform-of-choice/</guid>
+      <pubDate>Thu, 20 Feb 2025 09:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Launches A1Defender Partner Program to Empower Channel Partners with Advanced Threat Intelligence | Analyst1</title>
@@ -357,6 +350,13 @@
       <description>Explore practical threat analysis techniques in this white paper to help your security team detect, prioritize, and neutralize cyber threats before they escalate. Download the white paper today.</description>
       <guid isPermaLink="false">https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</guid>
       <pubDate>Mon, 19 May 2025 18:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leading University Protects Its Research with Help From Analyst1 | Analyst1</title>
+      <link>https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</link>
+      <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
+      <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
+      <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
