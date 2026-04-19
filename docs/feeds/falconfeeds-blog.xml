@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 12:44:28 +0000</lastBuildDate>
-    <item>
-      <title>From Code to Culture: How Threat Actor Communities Evolve on Telegram and Dark Web Forums</title>
-      <link>https://falconfeeds.io/blogs/from-code-to-culture-threat-actor-communities-telegram-dark-web-forums</link>
-      <description>Explore how cybercriminal communities evolved from reputation-driven Dark Web forums to Telegram’s fast, chaotic “shadow web.” Learn how Old Guard ransomware groups and New Wave collectives like The Com and Scattered Spider build trust, recruit talent, and compete—where culture now matters as much as code.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/from-code-to-culture-threat-actor-communities-telegram-dark-web-forums</guid>
-      <pubDate>Fri, 09 Jan 2026 14:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fractured Allegiances: Strategic CTI Analysis of Internecine Conflict in the Cybercriminal Underground</title>
-      <link>https://falconfeeds.io/blogs/fractured-allegiances-internecine-conflict-cybercriminal-underground</link>
-      <description>A strategic CTI deep-dive into infighting across the cybercriminal underground—how betrayal, exit scams, geopolitics, and ego fracture ransomware syndicates and dark web forums. Learn why conflicts like the Conti leaks and Babuk source code spill create actionable “digital exhaust” that defenders and law enforcement can exploit for attribution, disruption, and detections.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/fractured-allegiances-internecine-conflict-cybercriminal-underground</guid>
-      <pubDate>Fri, 09 Jan 2026 14:59:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 18:40:10 +0000</lastBuildDate>
     <item>
       <title>From Breaches to Influence: The Weaponization of Leaked Data in Modern Information Warfare</title>
       <link>https://falconfeeds.io/blogs/weaponization-of-leaked-data-information-warfare</link>
@@ -357,6 +343,20 @@
       <description>UNC1069, a DPRK-linked threat actor tied to the Reconnaissance General Bureau, is leveraging deepfake-driven social engineering and supply chain attacks—including npm compromise—to target crypto and developer ecosystems, marking a new evolution in North Korean cyber operations.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</guid>
       <pubDate>Fri, 17 Apr 2026 15:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Storm Team: Hacktivism at Scale in the Iran–Israel Cyber Conflict and Middle East Critical Infrastructure Threat Landscape</title>
+      <link>https://falconfeeds.io/blogs/dark-storm-team-iran-israel-cyber-conflict-middle-east-critical-infrastructure-threat</link>
+      <description>An in-depth FalconFeeds analysis of Dark Storm Team’s role in the Iran–Israel cyber conflict, exposing its threat to Middle East governments, critical infrastructure, and Abraham Accords-aligned states.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/dark-storm-team-iran-israel-cyber-conflict-middle-east-critical-infrastructure-threat</guid>
+      <pubDate>Sun, 19 Apr 2026 15:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commercial Satellite Intelligence as a Geopolitical Weapon: Satellite Navigation, GPS Warfare &amp; the Iran - U.S. Conflict</title>
+      <link>https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</link>
+      <description>An in-depth analysis of how satellite navigation, GPS jamming, spoofing, and China’s BeiDou system became strategic weapons in the Iran–U.S. conflict, disrupting shipping, oil flows, and regional power dynamics.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</guid>
+      <pubDate>Sun, 19 Apr 2026 15:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
