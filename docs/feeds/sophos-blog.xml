@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 13:14:09 +0000</lastBuildDate>
-    <item>
-      <title>Amazon GuardDuty enhances detection efficacy with Sophos threat intelligence</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</link>
-      <description>&lt;p&gt;Amazon has integrated Sophos threat intelligence into Amazon GuardDuty, expanding the breadth and accuracy of malicious threat detection for customers running workloads on Amazon Web Services (AWS).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AWS, Sophos Intelix, amazon, Amazon GuardDuty, Sophos OEM&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-amazon-guardduty</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Apr 2026 19:00:55 +0000</lastBuildDate>
     <item>
       <title>Sophos named a 2026 Gartner® Peer Insights™ Customers' Choice for Managed Detection and Response</title>
       <link>https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Following a long-established pattern, the fourth month of the year is one of the cruelest&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; X-ops, Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Patch Tuesday&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v22 MR1 is now available</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr1-is-now-available</link>
+      <description>&lt;p&gt;Check out the full release notes for more details and a list of fixes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, network, v22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr1-is-now-available</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
