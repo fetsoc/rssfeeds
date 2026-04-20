@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 07:55:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:12:56 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/defenderxdr-cloudflare-win--r-clickfix-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/3a25b98a6741bf2e623dcbc399bc8b7ebb4420b9</link>
