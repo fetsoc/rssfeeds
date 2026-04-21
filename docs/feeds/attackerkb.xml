@@ -7,16 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 01:56:10 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-10035</title>
-      <link>https://attackerkb.com/assessments/17eca967-23dd-4d68-ba3f-93fd48496dbd</link>
-      <description>Attacker Value: 5/5
-
-Based on writing the Rapid7 Analysis, I have rated the Attacker Value as Very High, a file transfer solution is a very high value target for an attacker, and this vulnerability is unauthenticated RCE. However, based on our analysis, the attacker will require knowledge or a specific private key to correctly sign a payload in order to exploit successfully, I have added the Difficult to weaponize tag. For an attacker who can satisfy the private key requirement, exploitability would be Very High, but for all other attackers the exploitability is Very Low.</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/17eca967-23dd-4d68-ba3f-93fd48496dbd</guid>
-      <pubDate>Wed, 24 Sep 2025 15:52:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 07:29:19 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-20363</title>
       <link>https://attackerkb.com/assessments/5fc0cb55-5f93-4116-8e0a-0c39251010ab</link>
@@ -638,6 +629,17 @@ CVE-2026-3055 — Detection &amp; Recon Analysis&#13;
 | What is not proven | Exploitability, memory disc…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/08504ef9-4df4-4807-bd4a-5d494cdae1ef</guid>
       <pubDate>Sat, 28 Mar 2026 17:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-33032</title>
+      <link>https://attackerkb.com/assessments/6d026fd1-d067-4060-8fde-11bf5c6acfd5</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5 | MITRE: Initial Access
+
+CVE-2026-33032 is a missing authentication bug affecting the 'Nginx UI' 3rd-party management tool for the Nginx web server; as a result of missing authentication controls, an unauthenticated attacker who exploits CVE-2026-27944 to leak backup information can access a Model Context Protocol (MCP) server that can perform privileged operations on managed Nginx web servers. Systems are vulnerable in the default IP allowlist configuration, which allows any remote IP to access MCP functionality. Exploitation of both vulnerabilities results in full attacker control of the managed Nginx service. &#13;
+&#13;
+T…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/6d026fd1-d067-4060-8fde-11bf5c6acfd5</guid>
+      <pubDate>Tue, 21 Apr 2026 03:11:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,6 +7,78 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 01:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:29:24 +0000</lastBuildDate>
+    <item>
+      <title>Incident Response in the AI Threat Era: What Boards Must Re-Evaluate in 2026</title>
+      <link>https://www.sygnia.co/blog/incident-response-ai-threat-era/</link>
+      <description>&lt;p&gt;Explore how AI-driven cyber threats are reshaping board-level risk decisions and what executives must re-evaluate for incident response in 2026.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-ai-threat-era/"&gt;Incident Response in the AI Threat Era: What Boards Must Re-Evaluate in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-ai-threat-era/</guid>
+      <pubDate>Sun, 08 Mar 2026 09:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exfiltration in Plain Sight: SafePay’s OneDrive Play</title>
+      <link>https://www.sygnia.co/blog/safepay-onedrive-exfiltration-technique/</link>
+      <description>&lt;p&gt;Discover how SafePay’s rapid, high-pressure ransomware campaigns unfold, and what Sygnia learned while investigating a real-world double extortion attack that put a global organization to the test.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/safepay-onedrive-exfiltration-technique/"&gt;Exfiltration in Plain Sight: SafePay’s OneDrive Play&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/safepay-onedrive-exfiltration-technique/</guid>
+      <pubDate>Tue, 10 Mar 2026 08:41:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Commit Away from Theft: When Supply Chain Attacks Hit the Crypto Ecosystem</title>
+      <link>https://www.sygnia.co/blog/when-supply-chain-attacks-hit-the-crypto-ecosystem/</link>
+      <description>&lt;p&gt;Explore patterns observed across real-world crypto incidents and controlled adversary exercises, along with a containment-first defense roadmap built on lessons learned from those cases.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/when-supply-chain-attacks-hit-the-crypto-ecosystem/"&gt;One Commit Away from Theft: When Supply Chain Attacks Hit the Crypto Ecosystem&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/when-supply-chain-attacks-hit-the-crypto-ecosystem/</guid>
+      <pubDate>Tue, 17 Mar 2026 15:53:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lessons from the Stryker Incident</title>
+      <link>https://www.sygnia.co/threat-reports-and-advisories/identity-control-plane-attack-stryker/</link>
+      <description>&lt;p&gt;The Stryker incident demonstrates how attackers can leverage Microsoft Entra ID and Intune as destructive control planes, wiping devices and disrupting operations without deploying malware. This advisory outlines the key tactics observed and provides practical steps to reduce risk and strengthen resilience.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/identity-control-plane-attack-stryker/"&gt;Lessons from the Stryker Incident&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/identity-control-plane-attack-stryker/</guid>
+      <pubDate>Sun, 22 Mar 2026 12:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Leverage an Incident Response Retainer</title>
+      <link>https://www.sygnia.co/blog/why-incident-response-retainers-fail/</link>
+      <description>&lt;p&gt;Discover how to get the most from an incident response retainer, and what sets apart a provider that can respond effectively when your organization is under real pressure.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/why-incident-response-retainers-fail/"&gt;How to Leverage an Incident Response Retainer&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/why-incident-response-retainers-fail/</guid>
+      <pubDate>Tue, 24 Mar 2026 08:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Tale of Two Incidents: Same Threat Actor, Different Outcomes</title>
+      <link>https://www.sygnia.co/webinars/a-tale-of-two-incidents/</link>
+      <description>&lt;p&gt;Join Sygnia for a webinar on two nearly identical cyberattacks against global enterprises with dramatically different outcomes. See firsthand how basic security best practices can mean the difference between swift containment and catastrophic compromise. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/a-tale-of-two-incidents/"&gt;A Tale of Two Incidents: Same Threat Actor, Different Outcomes&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/a-tale-of-two-incidents/</guid>
+      <pubDate>Mon, 30 Mar 2026 13:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISO Survey 2026: The State of Incident Response Readiness</title>
+      <link>https://www.sygnia.co/guides-and-tools/ciso-survey-2026/</link>
+      <description>&lt;p&gt;Benchmark your readiness against 600 peers and gain data-driven insights into how ready organizations truly are to manage a significant cyberattack.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/ciso-survey-2026/"&gt;CISO Survey 2026: The State of Incident Response Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/ciso-survey-2026/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>73% of CISOs Unprepared for the Next Big Cyber Attack, Incident Response Readiness Report Reveals</title>
+      <link>https://www.sygnia.co/press-release/sygnia-released-ciso-survey-2026/</link>
+      <description>&lt;p&gt;Benchmark your readiness against 600 peers and gain data-driven insights into how ready organizations truly are to manage a significant cyberattack.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-released-ciso-survey-2026/"&gt;73% of CISOs Unprepared for the Next Big Cyber Attack, Incident Response Readiness Report Reveals&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-released-ciso-survey-2026/</guid>
+      <pubDate>Thu, 09 Apr 2026 13:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Mythos Effect: Preparing for AI-Accelerated Exploitation</title>
+      <link>https://www.sygnia.co/threat-reports-and-advisories/mythos-effect-ai-accelerated-exploitation-vulnerability-management/</link>
+      <description>&lt;p&gt;How Vulnerability Management Programs Must Evolve&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/mythos-effect-ai-accelerated-exploitation-vulnerability-management/"&gt;The Mythos Effect: Preparing for AI-Accelerated Exploitation&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/mythos-effect-ai-accelerated-exploitation-vulnerability-management/</guid>
+      <pubDate>Fri, 17 Apr 2026 10:19:43 +0000</pubDate>
+    </item>
   </channel>
 </rss>
