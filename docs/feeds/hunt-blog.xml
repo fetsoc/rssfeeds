@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 13:05:59 +0000</lastBuildDate>
-    <item>
-      <title>Fast and Curious: Red Teaming, Race Cars, and Hunt.io with Justin Elze</title>
-      <link>https://hunt.io/blog/trustedsec-cto-interview-justin-elze</link>
-      <description>TrustedSec CTO Justin Elze shares red teaming insights, offensive tooling tips, and how he uses Hunt.io and AttackCapture™, plus his passion for race car data.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/trustedsec-cto-interview-justin-elze</guid>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 19:01:19 +0000</lastBuildDate>
     <item>
       <title>Cobalt Strike Operators Leverage PowerShell Loaders Across Chinese, Russian, and Global Infrastructure</title>
       <link>https://hunt.io/blog/cobaltstrike-powershell-loader-chinese-russian-infrastructure</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io mapped 1,250+ active C2 servers across 165 Russian providers. See which networks dominate malicious hosting and what malware families drive it.</description>
       <guid isPermaLink="false">https://hunt.io/blog/russian-malicious-infrastructure-c2-servers-mapped</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DinDoor Backdoor: Deno Runtime Abuse and 20 Active C2 Servers</title>
+      <link>https://hunt.io/blog/dindoor-deno-runtime-backdoor-msi-analysis</link>
+      <description>Learn how DinDoor abuses the Deno runtime to evade detection, with a full breakdown of two MSI samples, decoded campaign metadata, and a Hunt.io query that identifies 20 active servers.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/dindoor-deno-runtime-backdoor-msi-analysis</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
