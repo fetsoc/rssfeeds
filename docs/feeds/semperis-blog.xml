@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/semperis-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 19:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:55:58 +0000</lastBuildDate>
+    <item>
+      <title>CISA’s Ransomware Guidance Is Reminder to Include AD in Recovery Plan - Semperis</title>
+      <link>https://www.semperis.com/blog/cisas-ransomware-guidance-is-reminder-to-include-ad-in-recovery-plan/</link>
+      <description>Any ransomware recovery plan needs to include regular file backups and encrypted data with offline copies, as the Cybersecurity and Infrastructure Security Agency (CISA) recently reminded as part of the organization’s campaign to drive awareness of its ransomware guidance and resources. The guidance includes best practices and checklists to help companies formulate their cyberattack response plans. And while backups are fundamental to any recovery plan, those backups won’t save an organization if the malicious attack...</description>
+      <guid isPermaLink="false">https://www.semperis.com/blog/cisas-ransomware-guidance-is-reminder-to-include-ad-in-recovery-plan/</guid>
+      <pubDate>Mon, 22 Feb 2021 21:36:36 +0000</pubDate>
+    </item>
     <item>
       <title>Semperis Identity Attack Watch: February 2021 - Semperis</title>
       <link>https://www.semperis.com/blog/semperis-identity-attack-watch-february-2021/</link>
@@ -336,13 +343,6 @@
       <description>Cyberattacks by ransomware gangs Vice Society, LockBit, and Sandworm hit Ukraine, schools. Get AD security news in Attack Watch.</description>
       <guid isPermaLink="false">https://www.semperis.com/blog/identity-attack-watch-january-2023/</guid>
       <pubDate>Tue, 31 Jan 2023 15:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Can K-12 Schools Defend Against Ransomware? - Semperis</title>
-      <link>https://www.semperis.com/blog/how-can-k-12-schools-defend-against-ransomware/</link>
-      <description>K-12 schools Active Directory are increasingly targeted by cyberattackers. Here are important tips for ransomware protection.</description>
-      <guid isPermaLink="false">https://www.semperis.com/blog/how-can-k-12-schools-defend-against-ransomware/</guid>
-      <pubDate>Thu, 02 Feb 2023 19:23:32 +0000</pubDate>
     </item>
     <item>
       <title>3 Steps to Protect AD from Wiperware - Semperis</title>
