@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 19:04:54 +0000</lastBuildDate>
-    <item>
-      <title>Analysis of the Decryptable Green Blood v2.0 Ransomware</title>
-      <link>https://asec.ahnlab.com/en/92997/</link>
-      <description>The Green Blood ransomware group, which has been active since January 2026, has been targeting countries in South Asia, Africa, and parts of South America, and is characterized by its Golang-based ransomware payload. In this post, we analyze the main characteristics of the Green Blood ransomware, its encryption method, and the technical reasons why it [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92997/</guid>
-      <pubDate>Mon, 09 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 01:54:51 +0000</lastBuildDate>
     <item>
       <title>February 2026 Phishing Email Trends Report</title>
       <link>https://asec.ahnlab.com/en/92907/</link>
@@ -217,6 +210,13 @@
       <description>Purpose and Scope. this report analyzes the strategies, techniques, and impacts of APT groups believed to be state-sponsored. it excludes financial crimes groups from its scope and organizes major threat behaviors by ATIP&amp;#8217;s representative names. the activities of 13 APT groups were aggregated based on publicly available data for the most recent month. Leading APT [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93416/</guid>
       <pubDate>Thu, 16 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Phishing Email Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93465/</link>
+      <description>Statistics on Attachment Threats Types. trojans accounted for the largest share of attachment-based threats in March 2026 at 21%. phishing (FakePage) came in at 15%, with a significant month-over-month decrease in share from 42% to 15%, but a slight decrease in volume. downloaders were identified at 9% and droppers at 7%. trojans continue to circulate [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93465/</guid>
+      <pubDate>Tue, 21 Apr 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

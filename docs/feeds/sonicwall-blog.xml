@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 19:02:48 +0000</lastBuildDate>
-    <item>
-      <title>Visions of Cyberattacks: How SonicSentry Solves the 3 AM Problem</title>
-      <link>https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</link>
-      <description>Cyberattacks don’t sleep. See how SonicSentry SOC stopped a brute force attack at 3 a.m. on Christmas morning.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 01:53:17 +0000</lastBuildDate>
     <item>
       <title>Unified Firewall Analytics with SonicWall NSM</title>
       <link>https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</link>
@@ -229,12 +223,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</guid>
     </item>
     <item>
-      <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
-      <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>
-      <description>Credential compromise is one of the most common causes of data breaches. Learn how stolen credentials are used in attacks and how Zero Trust access helps stop them.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</guid>
-    </item>
-    <item>
       <title>GPT Academic Pickle Deserialization Remote Code Execution (CVE-2026-0763)</title>
       <link>https://www.sonicwall.com/blog/gpt-academic-pickle-deserialization-remote-code-execution</link>
       <description>SonicWall Capture Labs analyzes CVE-2026-0763, a critical CVSS 9.8 unauthenticated remote code execution vulnerability in GPT Academic v3.91 and earlier. The flaw chains a TAR symlink path traversal in the upload handler with unsafe pickle deserialization in the Social Helper plugin, allowing attackers to execute arbitrary commands without authentication. IPS signature 22081 provides protection.</description>
@@ -270,12 +258,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
     </item>
     <item>
-      <title>VPN Vulnerabilities Lead to Breaches – How to Eliminate Risk</title>
-      <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
-      <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
-    </item>
-    <item>
       <title>ACRStealer The Silent Golang Threat Behind Credential and Wallet Theft</title>
       <link>https://www.sonicwall.com/blog/acrstealer-the-silent-golang-threat</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/acrstealer-the-silent-golang-threat</guid>
@@ -284,6 +266,24 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <title>Microsoft Security Bulletin Coverage for April 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-april-2026</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-april-2026</guid>
+    </item>
+    <item>
+      <title>User Clicks Lead to Breaches – How Zero Trust Stops Execution-Based Attacks</title>
+      <link>https://www.sonicwall.com/blog/a-click-shouldn-t-lead-to-a-breach</link>
+      <description>Phishing links and malicious files remain a leading cause of ransomware. Learn how Zero Trust access helps prevent user-initiated attacks from becoming breaches.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-click-shouldn-t-lead-to-a-breach</guid>
+    </item>
+    <item>
+      <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
+      <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>
+      <description>Credential compromise is one of the most common causes of data breaches. Learn how stolen credentials are used in attacks and how Zero Trust access helps stop them.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</guid>
+    </item>
+    <item>
+      <title>VPN Vulnerabilities Lead to Breaches – How to Eliminate Risk</title>
+      <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
+      <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>

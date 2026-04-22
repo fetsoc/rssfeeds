@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 19:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:53:21 +0000</lastBuildDate>
     <item>
       <title>How Do You Know? Answers to help the board understand the value of your security program</title>
       <link>https://cymulate.com/blog/ctem-cisos-communicating-security/</link>
