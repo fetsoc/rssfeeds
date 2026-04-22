@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 13:10:45 +0000</lastBuildDate>
-    <item>
-      <title>Release Notes: Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections</title>
-      <link>https://any.run/cybersecurity-blog/release-notes-march-2026/</link>
-      <description>&lt;p&gt;March was a packed month for&amp;#160;ANY.RUN.&amp;#160;We rolled out major product improvements that help security teams investigate phishing inside encrypted traffic, expand cross-platform analysis with macOS, and bring Windows Server into the&amp;#160;sandbox&amp;#160;workflow. At the same time, our detection team continued to strengthen threat coverage with new&amp;#160;behavior&amp;#160;signatures, Suricata rules, and fresh threat intelligence reports focused on active [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-march-2026/" rel="nofollow"&gt;Release Notes: Cross-Platform Threat Analysis with macOS, SSL Decryption, and 1,300+ New Detections &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-march-2026/</guid>
-      <pubDate>Tue, 31 Mar 2026 10:24:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 19:12:26 +0000</lastBuildDate>
     <item>
       <title>Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/" rel="nofollow"&gt;New Lazarus APT Campaign: “Mach-O Man” macOS Malware Kit Hits Businesses&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/</guid>
       <pubDate>Tue, 21 Apr 2026 08:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>More Attack Context for Faster Triage, Response, and Hunting. Now Available to Every SOC</title>
+      <link>https://any.run/cybersecurity-blog/expanded-free-ti-plan/</link>
+      <description>&lt;p&gt;ANY.RUN has expanded access to Threat Intelligence capabilities for SOC and MSSP teams, backed by live attack data from 15,000 organizations.&amp;#160; Here’s&amp;#160;how your team can test&amp;#160;TI&amp;#8217;s impact on triage&amp;#160;quality, response&amp;#160;speed, and threat hunting workflows.&amp;#160; See&amp;#160;How&amp;#160;Threat Intelligence&amp;#160;Accelerates Your SOC&amp;#160; ANY.RUN now&amp;#160;offers&amp;#160;20&amp;#160;premium&amp;#160;requests in&amp;#160;Threat Intelligence Lookup&amp;#160;and&amp;#160;YARA Search&amp;#160;as part of the&amp;#160;Free plan.&amp;#160;&amp;#160; You can&amp;#160;get&amp;#160;immediate threat context for&amp;#160;over 40 types [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/expanded-free-ti-plan/" rel="nofollow"&gt;More Attack Context for Faster Triage, Response, and Hunting. Now Available to Every SOC &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/expanded-free-ti-plan/</guid>
+      <pubDate>Wed, 22 Apr 2026 13:14:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
