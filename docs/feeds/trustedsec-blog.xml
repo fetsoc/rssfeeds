@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 07:28:31 +0000</lastBuildDate>
-    <item>
-      <title>Better Together: Combining Automation and Manual Testing</title>
-      <link>https://trustedsec.com/blog/better-together-combining-automation-and-manual-testing</link>
-      <description>&amp;lt;p&amp;gt;When I started working in mobile application security in 2018, most testing was still largely manual. Since then, the ecosystem has exploded with scanners, frameworks, and automation platforms. With more tools…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/better-together-combining-automation-and-manual-testing</guid>
-      <pubDate>Tue, 17 Mar 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 13:09:51 +0000</lastBuildDate>
     <item>
       <title>Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</title>
       <link>https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;InfoSec has a bad habit of acting like history started this morning. Something new lands, the industry loses its mind for a week, vendors start talking like the old rules no longer apply, and half the industry suddenly…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</guid>
       <pubDate>Fri, 17 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kerberos with Titanis</title>
+      <link>https://trustedsec.com/blog/kerberos-with-titanis</link>
+      <description>&amp;lt;p&amp;gt;In this article, I’ll walk you through the basics of Kerberos, how to use Titanis for the different parts, and how to mitigate some problems.Titanis SetupI use Titanis tools throughout this article to demonstrate…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/kerberos-with-titanis</guid>
+      <pubDate>Thu, 23 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

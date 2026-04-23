@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 07:28:36 +0000</lastBuildDate>
-    <item>
-      <title>Sophos named a 2026 Gartner® Peer Insights™ Customers' Choice for Managed Detection and Response</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</link>
-      <description>&lt;p&gt;Third consecutive time being named a Customers’ Choice for MDR&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Gartner, Gartner Peer Insights, MDR, Sophos MDR, Third-Party Reviews&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-gartner-peer-insights-mdr</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 13:09:55 +0000</lastBuildDate>
     <item>
       <title>Is compliance complexity outpacing IT capacity?</title>
       <link>https://www.sophos.com/en-us/blog/is-compliance-complexity-outpacing-it-capacity</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Check out the full release notes for more details and a list of fixes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, network, v22&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr1-is-now-available</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening authentication with passkeys: A CISO playbook</title>
+      <link>https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook</link>
+      <description>&lt;p&gt;Our passkey rollout took three tries. Here&amp;apos;s a playbook to make your implementation smoother.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Security Operations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; CISO, playbook, toolkit, passkeys&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

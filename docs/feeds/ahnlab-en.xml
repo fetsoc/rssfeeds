@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 07:28:32 +0000</lastBuildDate>
-    <item>
-      <title>February 2026 Security Issues Related to the Korean &amp; Global Financial Sector</title>
-      <link>https://asec.ahnlab.com/en/92903/</link>
-      <description>This report comprehensively covers actual cyber threats and related security issues targeting financial institutions in South Korea and abroad. It includes analysis of malware and phishing cases distributed targeting the financial sector, presents the Top 10 major malware targeting the financial sector, and provides statistics on the industry sectors of South Korean accounts leaked via [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92903/</guid>
-      <pubDate>Tue, 10 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 13:09:53 +0000</lastBuildDate>
     <item>
       <title>February 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/92902/</link>
@@ -135,6 +128,13 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>March 2026 Ransomware Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93359/</link>
+      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
       <link>https://asec.ahnlab.com/en/93336/</link>
       <description>Overview. ASEC analyzed the statistics of attacks against Linux SSH servers in Q1 2026 based on honeypot logs. The P2PInfect worm dominated, accounting for 70.3% of all attack sources, and DDoS bots such as Mirai, XMRig, Prometei, and CoinMiner were identified as the main threats. Purpose and Scope. the purpose of this report is to [&amp;#8230;]</description>
@@ -177,13 +177,6 @@
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>March 2026 Ransomware Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93359/</link>
-      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, April 2026</title>
       <link>https://asec.ahnlab.com/en/93410/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Emergence of New Ransomware Groups: TiMC, BlackWater, and Lamashtu [1], [2], [3] NoName05716 Claims DDoS Attacks on South Korean Public &amp;#38; Private Sectors [1], [2], [3] VECT &amp;#38; TeamPCP Campaign: Supply Chain Attack Exploiting Global Travel Platform</description>
@@ -217,6 +210,13 @@
       <description>Statistics on Attachment Threats Types. trojans accounted for the largest share of attachment-based threats in March 2026 at 21%. phishing (FakePage) came in at 15%, with a significant month-over-month decrease in share from 42% to 15%, but a slight decrease in volume. downloaders were identified at 9% and droppers at 7%. trojans continue to circulate [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93465/</guid>
       <pubDate>Tue, 21 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, April 2026</title>
+      <link>https://asec.ahnlab.com/en/93472/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ShinyHunters Claims Data Breach Involving Major U.S. Convenience Store Chain ShinyHunters Claims Theft of Internal Data and Source Code from U.S. Software Development Firm Emergence of New Data Extortion Group: Prinz Eugen</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93472/</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

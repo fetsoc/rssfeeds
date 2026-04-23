@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 07:28:35 +0000</lastBuildDate>
-    <item>
-      <title>Incident Response in the AI Threat Era: What Boards Must Re-Evaluate in 2026</title>
-      <link>https://www.sygnia.co/blog/incident-response-ai-threat-era/</link>
-      <description>&lt;p&gt;Explore how AI-driven cyber threats are reshaping board-level risk decisions and what executives must re-evaluate for incident response in 2026.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-ai-threat-era/"&gt;Incident Response in the AI Threat Era: What Boards Must Re-Evaluate in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-ai-threat-era/</guid>
-      <pubDate>Sun, 08 Mar 2026 09:57:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exfiltration in Plain Sight: SafePay’s OneDrive Play</title>
-      <link>https://www.sygnia.co/blog/safepay-onedrive-exfiltration-technique/</link>
-      <description>&lt;p&gt;Discover how SafePay’s rapid, high-pressure ransomware campaigns unfold, and what Sygnia learned while investigating a real-world double extortion attack that put a global organization to the test.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/safepay-onedrive-exfiltration-technique/"&gt;Exfiltration in Plain Sight: SafePay’s OneDrive Play&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/safepay-onedrive-exfiltration-technique/</guid>
-      <pubDate>Tue, 10 Mar 2026 08:41:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 13:09:54 +0000</lastBuildDate>
     <item>
       <title>One Commit Away from Theft: When Supply Chain Attacks Hit the Crypto Ecosystem</title>
       <link>https://www.sygnia.co/blog/when-supply-chain-attacks-hit-the-crypto-ecosystem/</link>
@@ -79,6 +63,22 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/mythos-effect-ai-accelerated-exploitation-vulnerability-management/"&gt;The Mythos Effect: Preparing for AI-Accelerated Exploitation&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/mythos-effect-ai-accelerated-exploitation-vulnerability-management/</guid>
       <pubDate>Fri, 17 Apr 2026 10:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 Gartner® Market Guide for Cybersecurity Incident Response Retainer Services</title>
+      <link>https://www.sygnia.co/blog/2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/</link>
+      <description>&lt;p&gt;As cyber threats grow in complexity and regulatory pressure intensifies, cybersecurity incident response retainers (CIRR) are no longer viewed as emergency services, but as a core component of cyber resilience programs.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/"&gt;2026 Gartner® Market Guide for Cybersecurity Incident Response Retainer Services&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/</guid>
+      <pubDate>Thu, 23 Apr 2026 11:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Recognized in 2026 Gartner® Market Guide for Cybersecurity Incident Response Retainer Services</title>
+      <link>https://www.sygnia.co/press-release/sygnia-recognized-in-2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/</link>
+      <description>&lt;p&gt;As incident response shifts from reactive DFIR to full lifecycle resilience, organizations turn to Sygnia to prepare, respond, and recover with speed and precision.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-recognized-in-2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/"&gt;Sygnia Recognized in 2026 Gartner® Market Guide for Cybersecurity Incident Response Retainer Services&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-recognized-in-2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/</guid>
+      <pubDate>Thu, 23 Apr 2026 11:57:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
