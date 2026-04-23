@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 07:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:08:40 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -48,6 +48,13 @@
       <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
       <guid isPermaLink="false">https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</guid>
       <pubDate>Wed, 30 Sep 2020 09:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligent Cyber Threat Response | Analyst1</title>
+      <link>https://analyst1.com/intelligent-cyber-threat-response-2/</link>
+      <description>Bridge the gap between cyber threats and actionable intelligence with Analyst1: Simplifying cybersecurity, empowering analysts, and deploying integrations.</description>
+      <guid isPermaLink="false">https://analyst1.com/intelligent-cyber-threat-response-2/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
       <title>What is the Next Cybersecurity Fable? - Analyst1</title>
@@ -282,6 +289,13 @@
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-1/</link>
+      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-1/</guid>
+      <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence Lifecycle | Analyst1</title>
       <link>https://analyst1.com/threat-intelligence-lifecycle-2/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
@@ -302,13 +316,6 @@
       <pubDate>Thu, 16 Jan 2025 19:02:58 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1's Buyers Guide to Threat Intelligence Platforms | Analyst1</title>
-      <link>https://analyst1.com/analyst1s-buyers-guide-to-threat-intelligence-platforms/</link>
-      <description>Discover how to choose the right threat intelligence platform with Analyst1’s comprehensive buyer’s guide. Make smarter cybersecurity choices</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1s-buyers-guide-to-threat-intelligence-platforms/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:42:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
       <link>https://analyst1.com/threat-intelligence-lifecycle-iv/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
@@ -321,13 +328,6 @@
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-v/</guid>
       <pubDate>Mon, 10 Feb 2025 21:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leveraging Intelligence-Driven Threat Management for Financial Organizations | Analyst1</title>
-      <link>https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</link>
-      <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
-      <guid isPermaLink="false">https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</guid>
-      <pubDate>Wed, 12 Feb 2025 21:48:24 +0000</pubDate>
     </item>
     <item>
       <title>A Step Above: Why Analyst1 is CISA's Threat Intelligence Platform of Choice | Analyst1</title>

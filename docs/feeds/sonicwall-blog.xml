@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 13:08:46 +0000</lastBuildDate>
-    <item>
-      <title>Living Off Legit Tools: Stealthy Installation of Remote Monitoring Agents Using SmartScreen Bypass</title>
-      <link>https://www.sonicwall.com/blog/living-off-legit-tools-stealthy-installation-of-remote-monitoring-agents-using-smartscreen-bypass</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/living-off-legit-tools-stealthy-installation-of-remote-monitoring-agents-using-smartscreen-bypass</guid>
-    </item>
-    <item>
-      <title>React2Shell (CVE-2025-55182) Critical Unauthenticated RCE</title>
-      <link>https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</guid>
-    </item>
-    <item>
-      <title>FlowiseAI Flowise RCE via CustomMCP Node CVE-2025-59528</title>
-      <link>https://www.sonicwall.com/blog/flowiseai-custom-mcp-node-remote-code-execution-</link>
-      <description>Critical CVSS 10.0 RCE vulnerability in FlowiseAI Flowise CustomMCP node enables unauthenticated code execution. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/flowiseai-custom-mcp-node-remote-code-execution-</guid>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 19:07:52 +0000</lastBuildDate>
     <item>
       <title>Microsoft Security Bulletin Coverage for February 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-february-2026</link>
@@ -278,6 +262,24 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
       <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
+    </item>
+    <item>
+      <title>Firewall Security Assessment Reporting: How SonicWall NSM Strengthens Your Network Security Posture</title>
+      <link>https://www.sonicwall.com/blog/how-firewall-security-assessment-reporting-strengthens-your-network-security-posture</link>
+      <description>Discover how firewall security assessment reporting with SonicWall NSM 3.5 surfaces threat trends, network health gaps, and productivity risks — in one report.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-firewall-security-assessment-reporting-strengthens-your-network-security-posture</guid>
+    </item>
+    <item>
+      <title>Finding Vulnerabilities at Scale: How SonicWall Built an AI-Assisted Security Pipeline for Large C Codebases</title>
+      <link>https://www.sonicwall.com/blog/finding-vulnerabilities-at-scale-how-sonicwall-built-an-ai-assisted-security-pipeline-for-large-c-codebases</link>
+      <description>Learn how SonicWall built an AI‑assisted, multi‑stage security pipeline to find real vulnerabilities at scale in large C codebases—where architecture, not models, does the heavy lifting.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/finding-vulnerabilities-at-scale-how-sonicwall-built-an-ai-assisted-security-pipeline-for-large-c-codebases</guid>
+    </item>
+    <item>
+      <title>Ghost CMS Content API Blind SQL Injection - CVE-2026-26980</title>
+      <link>https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</link>
+      <description>Critical CVSS 9.4 unauthenticated blind SQL injection in Ghost CMS Content API (v3.24.0-6.19.0) enables full database read. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
