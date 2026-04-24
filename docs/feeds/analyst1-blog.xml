@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 19:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:58:44 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -190,6 +190,13 @@
       <pubDate>Thu, 11 May 2023 11:53:34 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware Resources | Analyst1</title>
+      <link>https://analyst1.com/ransomware-resources/</link>
+      <description>Discover a collection of insightful resources on ransomware, including gripping origin stories and comprehensive reports. Explore the world of cyber warfare.</description>
+      <guid isPermaLink="false">https://analyst1.com/ransomware-resources/</guid>
+      <pubDate>Fri, 26 May 2023 18:12:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Operations Analyst Job Description &amp; Career Insights</title>
       <link>https://analyst1.com/operations-analyst-job-description/</link>
       <description>What does an operations analyst do? Find a detailed operations analyst job description + skills needed, career path, salary info and leading platform.</description>
@@ -253,13 +260,6 @@
       <pubDate>Wed, 07 Feb 2024 16:46:53 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Recognized as One of the Fastest-Growing Private Companies in the Mid-Atlantic Region by Inc. Magazine 2024 | Analyst1</title>
-      <link>https://analyst1.com/analyst1-recognized-as-one-of-the-fastest-growing-private-companies-in-the-mid-atlantic-region-by-inc-magazine-2024/</link>
-      <description>Are you attending Black Hat and looking to have a one-on-one conversation about all things cybersecurity? Don't miss this exclusive opportunity to connect with our experienced team and gain valuable insights into the latest threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-recognized-as-one-of-the-fastest-growing-private-companies-in-the-mid-atlantic-region-by-inc-magazine-2024/</guid>
-      <pubDate>Thu, 29 Feb 2024 18:32:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Infiltrating ransomware gangs on the dark web - A 60 Minutes Overtime Special | Analyst1</title>
       <link>https://analyst1.com/infiltrating-ransomware-gangs-on-the-dark-web-a-60-minutes-overtime-special/</link>
       <description>Explore the rise and fall of Lockbit, the world's most notorious ransomware gang, through the lens of cybersecurity experts at Analyst1.</description>
@@ -302,13 +302,6 @@
       <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Unveils v2.10.0 Release, Delivering Expanded Integrations and Enhancements for Threat Intelligence Operations | Analyst1</title>
-      <link>https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</link>
-      <description>Are you attending Black Hat and looking to have a one-on-one conversation about all things cybersecurity? Don't miss this exclusive opportunity to connect with our experienced team and gain valuable insights into the latest threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</guid>
-      <pubDate>Fri, 10 Jan 2025 19:00:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
       <link>https://analyst1.com/threat-intelligence-lifecycle-3/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
@@ -328,6 +321,13 @@
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-v/</guid>
       <pubDate>Mon, 10 Feb 2025 21:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leveraging Intelligence-Driven Threat Management for Financial Organizations | Analyst1</title>
+      <link>https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</link>
+      <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
+      <guid isPermaLink="false">https://analyst1.com/leveraging-intelligence-driven-threat-management-for-financial-organizations/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:48:24 +0000</pubDate>
     </item>
     <item>
       <title>A Step Above: Why Analyst1 is CISA's Threat Intelligence Platform of Choice | Analyst1</title>

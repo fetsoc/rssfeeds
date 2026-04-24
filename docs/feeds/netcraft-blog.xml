@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 19:07:55 +0000</lastBuildDate>
-    <item>
-      <title>When Student Code Becomes a Phishing Kit: The Hidden Risks of Website Cloning Tutorials</title>
-      <link>https://www.netcraft.com/blog/for-education-purposes-only-when-web-design-lessons-teach-phishing</link>
-      <description>Netcraft research reveals how online coding tutorials and student “website clone” projects can unintentionally create fully functional phishing kits mimicking brands like Amazon and Instagram. Learn how innocent exercises become cybercrime tools—and what educators can do to prevent it.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/for-education-purposes-only-when-web-design-lessons-teach-phishing</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 01:58:12 +0000</lastBuildDate>
     <item>
       <title>Retro Phishing Returns: Basic Auth URLs Target Japanese Banks</title>
       <link>https://www.netcraft.com/blog/retro-phishing-basic-auth-urls-make-a-comeback-in-japan</link>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/fibergrid-inside-the-bulletproof-host</link>
       <description>Netcraft uncovers Fibergrid, a bulletproof hosting provider enabling 16,000+ fake shops. Learn how stolen IP space, shell companies, and global infrastructure power large-scale fraud, and where it can be disrupted.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/fibergrid-inside-the-bulletproof-host</guid>
+    </item>
+    <item>
+      <title>Digital Risk Protection vs Brand Protection</title>
+      <link>https://www.netcraft.com/blog/drps-vs-brand-protection</link>
+      <description>Learn the key differences between DRPs vs brand protection — and how modern SOCs stop attacks in real time.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/drps-vs-brand-protection</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>

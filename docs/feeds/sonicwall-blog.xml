@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 19:07:52 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for February 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-february-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-february-2026</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 01:58:08 +0000</lastBuildDate>
     <item>
       <title>Securing the Digital Classroom: A Layered Cybersecurity Approach for K-12 Schools</title>
       <link>https://www.sonicwall.com/blog/securing-the-digital-classroom-a-layered-cybersecurity-approach-for-k-12-schools</link>
@@ -280,6 +275,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</link>
       <description>Critical CVSS 9.4 unauthenticated blind SQL injection in Ghost CMS Content API (v3.24.0-6.19.0) enables full database read. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</guid>
+    </item>
+    <item>
+      <title>What Are PoPs and Why Do They Matter for Zero Trust Security?</title>
+      <link>https://www.sonicwall.com/blog/zero-trust-enforcement-happens-around-the-world</link>
+      <description>Points of Presences (PoPs) are the backbone of cloud-delivered security. Learn what PoPs are, why they matter, and how CSE's new PoP Management gives your team full visibility and control.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/zero-trust-enforcement-happens-around-the-world</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
