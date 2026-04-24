@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 07:53:13 +0000</lastBuildDate>
-    <item>
-      <title>Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More</title>
-      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</link>
-      <description>&lt;p&gt;March 2026 brought a wave of cyber attacks that reflected how quickly modern threats can move from subtle early signals to serious business impact. ANY.RUN analysts identified and explored several major threats this month, exposing phishing campaigns, stealthy malware, payment-skimming activity, and resilient botnet infrastructure affecting organizations across industries. From Microsoft 365 token abuse and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/" rel="nofollow"&gt;Major Cyber Attacks in March 2026: OAuth Phishing, SVG Smuggling, Magecart, and More &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-march-2026/</guid>
-      <pubDate>Wed, 01 Apr 2026 12:08:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 13:06:13 +0000</lastBuildDate>
     <item>
       <title>From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence</title>
       <link>https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/expanded-free-ti-plan/" rel="nofollow"&gt;More Attack Context for Faster Triage, Response, and Hunting. Now Available to Every SOC &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/expanded-free-ti-plan/</guid>
       <pubDate>Wed, 22 Apr 2026 13:14:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside agenteV2: How Brazilian Attackers Use Fake Court Summons to Steal Banking Credentials in Real Time</title>
+      <link>https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/</link>
+      <description>&lt;p&gt;Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher &amp;#38; threat hunter. You can find Moises on LinkedIn and X. A new phishing campaign targeting Brazilian users&amp;#160;demonstrates&amp;#160;how modern financial malware has evolved from simple credential theft into full-scale, operator-driven fraud platforms. Disguised as a judicial summons,&amp;#160;this campaign leverages social engineering, multi-stage malware delivery, and real-time [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/" rel="nofollow"&gt;Inside agenteV2: How Brazilian Attackers Use Fake Court Summons to Steal Banking Credentials in Real Time &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/</guid>
+      <pubDate>Fri, 24 Apr 2026 11:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

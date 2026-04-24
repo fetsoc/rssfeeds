@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 07:51:36 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/defenderxdr-cloudflare-win--r-clickfix-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/3a25b98a6741bf2e623dcbc399bc8b7ebb4420b9</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/defenderxdr-cloudflare-win--r-clickfix-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3a25b98a6741bf2e623dcbc399bc8b7ebb4420b9</guid>
-      <pubDate>Tue, 17 Mar 2026 04:29:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 13:04:44 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/the-ultimate-claw-agent-hunting-query.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/08f7b53ea20e8427bb1f36e09e8fda92799057f4</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/symleak-detection-via-git-clone-ntlm-hash-disclosure.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/fce0513b603f25462e83122f61de99d851da48c0</guid>
       <pubDate>Sun, 19 Apr 2026 07:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/bitwarden-cli-compromised-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/62f013cdcb79003af39249507f83bb709c82ae1f</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/bitwarden-cli-compromised-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/62f013cdcb79003af39249507f83bb709c82ae1f</guid>
+      <pubDate>Fri, 24 Apr 2026 09:22:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
