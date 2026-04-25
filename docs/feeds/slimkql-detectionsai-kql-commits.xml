@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 12:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 18:39:37 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/detecting-svg-payload-phishing-campaign.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/854feeba4f571c4a2eb42e3cf228734de5961c35</link>
