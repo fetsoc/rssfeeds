@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 01:48:26 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/the-ultimate-claw-agent-hunting-query.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/08f7b53ea20e8427bb1f36e09e8fda92799057f4</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/the-ultimate-claw-agent-hunting-query.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/08f7b53ea20e8427bb1f36e09e8fda92799057f4</guid>
-      <pubDate>Tue, 17 Mar 2026 15:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 07:05:03 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/detecting-svg-payload-phishing-campaign.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/854feeba4f571c4a2eb42e3cf228734de5961c35</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/bitwarden-cli-compromised-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/62f013cdcb79003af39249507f83bb709c82ae1f</guid>
       <pubDate>Fri, 24 Apr 2026 09:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/monitoring-claude-cowork-on-microsoft-365.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/c50995179be9f88e03471017464f5b361adc9ba4</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/monitoring-claude-cowork-on-microsoft-365.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c50995179be9f88e03471017464f5b361adc9ba4</guid>
+      <pubDate>Sat, 25 Apr 2026 04:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
