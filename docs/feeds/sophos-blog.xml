@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 18:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 01:49:46 +0000</lastBuildDate>
+    <item>
+      <title>Is compliance complexity outpacing IT capacity?</title>
+      <link>https://www.sophos.com/en-us/blog/is-compliance-complexity-outpacing-it-capacity</link>
+      <description>&lt;p&gt;No matter the country, industry, or company size, IT and cybersecurity teams report a heavy regulatory load and worry about staying aligned with requirements&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; CISO, Compliance&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/is-compliance-complexity-outpacing-it-capacity</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Adobe Reader zero-day vulnerability in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</link>
@@ -63,13 +70,6 @@
       <description>&lt;p&gt;Our passkey rollout took three tries. Here&amp;apos;s a playbook to make your implementation smoother.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Security Operations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; CISO, playbook, toolkit, passkeys&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supply chain attacks hit Checkmarx and Bitwarden developer tools</title>
-      <link>https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools</link>
-      <description>&lt;p&gt;Two supply chain attacks, same day, same command-and-control domain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Supply chain, Sophos X-Ops, pipeline, Bitwarden, Checkmarx&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
