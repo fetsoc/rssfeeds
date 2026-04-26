@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 12:48:15 +0000</lastBuildDate>
-    <item>
-      <title>Add files via upload</title>
-      <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/299a3f40f609d28881e09a67098dd0de87e135af</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/299a3f40f609d28881e09a67098dd0de87e135af</guid>
-      <pubDate>Mon, 16 Mar 2026 06:29:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 18:40:54 +0000</lastBuildDate>
     <item>
       <title>Add files via upload</title>
       <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/1bde6205f0bb80aeefe00a29b3bfc47d6658147b</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/76de88f9df44cea7a82e7811851324ea4693fa66</guid>
       <pubDate>Sat, 25 Apr 2026 02:35:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add files via upload</title>
+      <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/a7433f67c96df10e39871da6fbaf960349ad4654</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/a7433f67c96df10e39871da6fbaf960349ad4654</guid>
+      <pubDate>Sun, 26 Apr 2026 15:40:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
