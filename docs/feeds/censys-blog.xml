@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 01:48:43 +0000</lastBuildDate>
-    <item>
-      <title>The Lurking Threat of Edge Security Products - Censys</title>
-      <link>https://censys.com/blog/the-lurking-threat-of-edge-security-products/</link>
-      <description>The internet is dark and full of terrors, a fact that has been driven home in the last few weeks by the steady stream of serious vulnerabilities in edge security products. The same products that are meant to protect networks from threats have become favorite targets for attackers, who are often finding them to be […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/the-lurking-threat-of-edge-security-products/</guid>
-      <pubDate>Thu, 20 Feb 2025 20:29:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Apr 2026 12:48:53 +0000</lastBuildDate>
     <item>
       <title>Investigating the Vast World of ICS Coverage: Part 1 - Censys</title>
       <link>https://censys.com/blog/investigating-the-vast-world-of-ics-coverage-part-1/</link>
@@ -140,6 +133,13 @@
       <description>Introduction A previously unexplored concept of threat infrastructure is their time to live, or TTL. In an ever changing world, understanding how quickly threat infrastructure remains online, disappears, or moves is incredibly useful for defenders and researchers. Given the unique perspective of Censys, which is continuously scanning entities on the Internet, we are able with […]</description>
       <guid isPermaLink="false">https://censys.com/blog/2025-state-of-the-internet-c2-time-to-live/</guid>
       <pubDate>Wed, 06 Aug 2025 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025 State of the Internet Report: Summary and Conclusions - Censys</title>
+      <link>https://censys.com/blog/2025-state-of-the-internet-report-summary-and-conclusions/</link>
+      <description>Introduction This week marks the conclusion of our 2025 State of the Internet Report series, where we examined various aspects of malicious infrastructure on the Internet. Using our comprehensive map of the Internet, we explored coordinated C2 takedowns, malware linked to the Democratic People’s Republic of Korea (DPRK)’s fraudulent employment operations, lifespans of C2 servers […]</description>
+      <guid isPermaLink="false">https://censys.com/blog/2025-state-of-the-internet-report-summary-and-conclusions/</guid>
+      <pubDate>Mon, 25 Aug 2025 22:31:00 +0000</pubDate>
     </item>
     <item>
       <title>From Questions to Insights: The ASM MCP Server - Censys</title>
