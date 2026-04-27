@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 08:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:22:21 +0000</lastBuildDate>
     <item>
       <title>Enhancing Threat Intelligence for Carbine Loader Crypto-jacking</title>
       <link>https://www.team-cymru.com/post/enriching-threat-intelligence-for-the-carbine-loader-crypto-jacking-campaign</link>

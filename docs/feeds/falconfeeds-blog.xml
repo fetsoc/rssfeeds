@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 08:11:09 +0000</lastBuildDate>
-    <item>
-      <title>From Breaches to Influence: The Weaponization of Leaked Data in Modern Information Warfare</title>
-      <link>https://falconfeeds.io/blogs/weaponization-of-leaked-data-information-warfare</link>
-      <description>Explore how hack-and-leak operations transform data breaches into narrative weapons. A deep dive into modern information warfare, dark PR, and influence-driven cyber conflict.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/weaponization-of-leaked-data-information-warfare</guid>
-      <pubDate>Sat, 17 Jan 2026 08:48:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 13:23:59 +0000</lastBuildDate>
     <item>
       <title>From Script Kiddie to Threat Actor: The Evolutionary Lifecycle of Targeted Campaign Operators</title>
       <link>https://falconfeeds.io/blogs/script-kiddie-to-threat-actor-evolution</link>
@@ -357,6 +350,13 @@
       <description>An in-depth analysis of how satellite navigation, GPS jamming, spoofing, and China’s BeiDou system became strategic weapons in the Iran–U.S. conflict, disrupting shipping, oil flows, and regional power dynamics.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</guid>
       <pubDate>Sun, 19 Apr 2026 15:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Falcon Feeds Stands Out as the Ultimate One-Stop CTI Feed Solution for Modern Security Operations Centers</title>
+      <link>https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</link>
+      <description>Discover why Falcon Feeds is the ultimate one-stop CTI solution for SOC teams with real-time threat intelligence, faster detection, and simplified security operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</guid>
+      <pubDate>Mon, 27 Apr 2026 08:20:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
