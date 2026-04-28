@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 08:14:36 +0000</lastBuildDate>
-    <item>
-      <title>From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence</title>
-      <link>https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</link>
-      <description>&lt;p&gt;Reaching a&amp;#160;higher&amp;#160;level&amp;#160;of&amp;#160;SOC maturity&amp;#160;takes&amp;#160;better, more consistent decision-making&amp;#160;during malware and phishing investigation.&amp;#160; This requires a shift in how threat intelligence&amp;#160;is used:&amp;#160;not&amp;#160;as a reference point, but as a&amp;#160;core layer in the decision process.&amp;#160; Moving from reactive to confidently proactive security means&amp;#160;establishing&amp;#160;a threat intelligence workflow that: In this model, threat intelligence becomes part of the SOC’s operational fabric.&amp;#160;That’s&amp;#160;what ANY.RUN [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/" rel="nofollow"&gt;From Reactive to Proactive: 5 Steps to SOC Maturity with Threat Intelligence &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-maturity-with-threat-intelligence/</guid>
-      <pubDate>Thu, 02 Apr 2026 10:22:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 19:25:01 +0000</lastBuildDate>
     <item>
       <title>ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild</title>
       <link>https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/" rel="nofollow"&gt;Inside agenteV2: How Brazilian Attackers Use Fake Court Summons to Steal Banking Credentials in Real Time &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/</guid>
       <pubDate>Fri, 24 Apr 2026 11:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing-to-RMM Attacks: The Remote Access Blind Spot CISOs Can’t Ignore</title>
+      <link>https://any.run/cybersecurity-blog/rmm-blind-spot-for-cisos/</link>
+      <description>&lt;p&gt;CISOs are under pressure to prove that their security programs can detect threats early, reduce business risk, and support fast, confident response. But that becomes harder when attackers stop relying on obviously malicious tools. In recent phishing-to-RMM campaigns observed by ANY.RUN analysts, threat actors are using fake Microsoft, Adobe, and OneDrive pages to deliver legitimate [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/rmm-blind-spot-for-cisos/" rel="nofollow"&gt;Phishing-to-RMM Attacks: The Remote Access Blind Spot CISOs Can’t Ignore &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/rmm-blind-spot-for-cisos/</guid>
+      <pubDate>Tue, 28 Apr 2026 12:01:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

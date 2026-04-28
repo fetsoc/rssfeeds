@@ -7,19 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 08:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:24:00 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
       <description>Analyst1 offers insights and the latest trends in cybersecurity. Access Analyst1 Case Studies, Datasheets, Digital Reports, White Papers, and other resources today!</description>
       <guid isPermaLink="false">https://analyst1.com/resources/</guid>
-    </item>
-    <item>
-      <title>Analyst1 Wages War on Cybercrime with Next Generation Threat Intelligence Platform | Analyst1</title>
-      <link>https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</link>
-      <description>Empower analysts, revolutionize cybersecurity defense. Analyst1: the next-gen threat intelligence platform. Take action, boost security posture!</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</guid>
-      <pubDate>Tue, 11 Aug 2020 01:01:49 +0000</pubDate>
     </item>
     <item>
       <title>Defense Innovation Unit (DIU) Chooses Analyst1 to Aid in its Transformation of Cyber Defense Operations | Analyst1</title>
@@ -155,13 +148,6 @@
       <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
     </item>
     <item>
-      <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
-      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
-      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
-      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
-    </item>
-    <item>
       <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
       <link>https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</link>
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
@@ -274,13 +260,6 @@
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
-      <title>Is it time to replace your legacy TIP? | Analyst1</title>
-      <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
-      <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
-      <guid isPermaLink="false">https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</guid>
-      <pubDate>Thu, 23 May 2024 17:59:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Threat Actors Matter | Analyst1</title>
       <link>https://analyst1.com/why-threat-actors-matter/</link>
       <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
@@ -295,6 +274,13 @@
       <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
+      <link>https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</link>
+      <description>Understanding why threat intelligence should play into corporate risk management is a key that every organization needs to have.</description>
+      <guid isPermaLink="false">https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</guid>
+      <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
       <link>https://analyst1.com/threat-intelligence-lifecycle-1/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
@@ -307,6 +293,13 @@
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
       <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyst1 Unveils v2.10.0 Release, Delivering Expanded Integrations and Enhancements for Threat Intelligence Operations | Analyst1</title>
+      <link>https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</link>
+      <description>Are you attending Black Hat and looking to have a one-on-one conversation about all things cybersecurity? Don't miss this exclusive opportunity to connect with our experienced team and gain valuable insights into the latest threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</guid>
+      <pubDate>Fri, 10 Jan 2025 19:00:54 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
@@ -356,6 +349,13 @@
       <description>April 02, 2025 – Arlington, VA — Analyst1, a leading provider of threat intelligence operations platforms, has announced the release of version 2.11.0, delivering powerful new capabilities designed to streamline threat intelligence workflows, strengthen data accountability, and boost analyst productivity across the board. Bulk Actions, Enhanced Control With v2.11.0, Analyst1 introduces bulk update and deletion […]</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-game-changing-intelligence-management-features-in-v2-11-0-release/</guid>
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Actionable Cyber Threat Analysis Techniques You Need to Know | Analyst1</title>
+      <link>https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</link>
+      <description>Explore practical threat analysis techniques in this white paper to help your security team detect, prioritize, and neutralize cyber threats before they escalate. Download the white paper today.</description>
+      <guid isPermaLink="false">https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</guid>
+      <pubDate>Mon, 19 May 2025 18:49:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
