@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 13:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:12:48 +0000</lastBuildDate>
+    <item>
+      <title>Fast and Curious: Red Teaming, Race Cars, and Hunt.io with Justin Elze</title>
+      <link>https://hunt.io/blog/trustedsec-cto-interview-justin-elze</link>
+      <description>TrustedSec CTO Justin Elze shares red teaming insights, offensive tooling tips, and how he uses Hunt.io and AttackCapture™, plus his passion for race car data.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/trustedsec-cto-interview-justin-elze</guid>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cobalt Strike Operators Leverage PowerShell Loaders Across Chinese, Russian, and Global Infrastructure</title>
       <link>https://hunt.io/blog/cobaltstrike-powershell-loader-chinese-russian-infrastructure</link>
@@ -163,13 +170,6 @@
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Top 15 ThreatFox Alternatives for IOC &amp; Malware Tracking in 2026</title>
-      <link>https://hunt.io/blog/threatfox-alternatives</link>
-      <description>Discover 15 powerful ThreatFox alternatives to improve IOC intelligence, malware tracking, and threat visibility across modern security operations.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/threatfox-alternatives</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</title>
       <link>https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</link>
       <description>Hunt.io maps phishing campaigns using shared ZIP payload infrastructure targeting financial institutions and government organizations across Asia. Learn more.</description>
@@ -296,13 +296,6 @@
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Practical Guide to Uncovering Malicious Infrastructure With Hunt.io</title>
-      <link>https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</link>
-      <description>Learn how to track and map adversary infrastructure using Hunt, pivoting from a single IP to uncover hidden connections through infrastructure overlaps and key intelligence indicators.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Operation Roundish: Uncovering an APT28 Roundcube Exploitation Toolkit Targeting Ukraine</title>
       <link>https://hunt.io/blog/operation-roundish-apt28-roundcube-exploitation</link>
       <description>Hunt.io investigation uncovered Operation Roundish, an APT28 toolkit used to exploit Roundcube webmail and target Ukrainian government systems. Learn more.</description>
@@ -357,6 +350,13 @@
       <description>Learn how DinDoor abuses the Deno runtime to evade detection, with a full breakdown of two MSI samples, decoded campaign metadata, and a Hunt.io query that identifies 20 active servers.</description>
       <guid isPermaLink="false">https://hunt.io/blog/dindoor-deno-runtime-backdoor-msi-analysis</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xlabs_v1 DDoS-for-Hire Operation Exposed: How an Operator's Debug Build Unraveled a Commercial Game-Server Botnet</title>
+      <link>https://hunt.io/blog/xlabs-v1-ddos-for-hire-operation-exposed</link>
+      <description>A publicly exposed debug build unraveled xlabs_v1, a commercial game-server DDoS-for-hire botnet with 21 flood variants running on bulletproof infrastructure.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/xlabs-v1-ddos-for-hire-operation-exposed</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
