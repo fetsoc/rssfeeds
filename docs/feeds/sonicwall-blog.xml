@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 19:23:18 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Named to CRN 2026 Security 100 List</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-recognized-on-crn-s-2026-security-100-list</link>
-      <description>SonicWall earns a spot on CRN’s 2026 Security 100 list, recognizing top channel-focused security vendors driving partner success.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-recognized-on-crn-s-2026-security-100-list</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 02:10:57 +0000</lastBuildDate>
     <item>
       <title>Goodbye VPNs, Hello Cloud-Delivered Zero Trust - NULL</title>
       <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</link>
@@ -282,6 +276,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/seven-sins-one-firewall-turning-the-2026-cyber-protect-report-into-policy</link>
       <description>Our threat data shows organizations make the same cyber mistakes over and over. Here are the steps you can take to overcome them.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/seven-sins-one-firewall-turning-the-2026-cyber-protect-report-into-policy</guid>
+    </item>
+    <item>
+      <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
+      <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
+      <description>Cyber threats move fast. Learn why detection alone isn’t enough and how automated security response helps stop attacks before they spread.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 19:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:12:28 +0000</lastBuildDate>
     <item>
       <title>Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</title>
       <link>https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</link>
