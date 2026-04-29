@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 08:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:28:20 +0000</lastBuildDate>
     <item>
       <title>Goodbye VPNs, Hello Cloud-Delivered Zero Trust - NULL</title>
       <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</link>
