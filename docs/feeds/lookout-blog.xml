@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 02:10:59 +0000</lastBuildDate>
-    <item>
-      <title>Lookout and Jamf: Defending Against Mobile Threats</title>
-      <link>https://security.lookout.com/blog/lookout-and-jamf-defending-against-mobile-threats</link>
-      <description>I’m pleased to share that Jamf and Lookout have formed a partnership to integrate Jamf Pro with Lookout Mobile Endpoint Security.</description>
-      <guid isPermaLink="false">https://security.lookout.com/blog/lookout-and-jamf-defending-against-mobile-threats</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 08:04:33 +0000</lastBuildDate>
     <item>
       <title>Understanding the LLM Mobile Landscape in Enterprise Technology</title>
       <link>https://security.lookout.com/blog/llm</link>
@@ -192,6 +186,12 @@
       <link>https://security.lookout.com/blog/apple-lockdown-mode</link>
       <description>We welcome the introduction of Lockdown Mode by Apple as an additional feature. However, we need to keep in mind that the mobile attack surface is quite complex.</description>
       <guid isPermaLink="false">https://security.lookout.com/blog/apple-lockdown-mode</guid>
+    </item>
+    <item>
+      <title>Android and The Sideloading Security Gap</title>
+      <link>https://security.lookout.com/blog/android-and-the-sideloading-security-gap</link>
+      <description>For years, debates about Android security have essentially focused on the wrong questions. Is the operating system secure enough? Are mobile exploits becoming more sophisticated? Are app stores doing enough to screen malicious software?</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/android-and-the-sideloading-security-gap</guid>
     </item>
     <item>
       <title>Protecting the Human Layer: Lookout Smishing AI Takes on Next-Gen Social Engineering Threats</title>

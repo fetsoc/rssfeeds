@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 02:12:28 +0000</lastBuildDate>
-    <item>
-      <title>ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild</title>
-      <link>https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</link>
-      <description>&lt;p&gt;For years, macOS environments carried an aura of relative safety. Not immunity, but lower priority in the threat landscape. That&amp;#160;perception&amp;#160;has aged about as well as an unpatched server.&amp;#160;&amp;#160;The reality in 2026 is&amp;#160;very different. Apple devices now make up a significant share of corporate endpoints.&amp;#160;And they sit in the hands of the people attackers most want [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/" rel="nofollow"&gt;ClickFix Meets AI: A Multi-Platform Attack Targeting macOS in the Wild&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/macos-clickfix-amos-attack/</guid>
-      <pubDate>Tue, 07 Apr 2026 10:50:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 08:06:20 +0000</lastBuildDate>
     <item>
       <title>Building Phishing Detection That Works: 3 Steps for CISOs</title>
       <link>https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/rmm-blind-spot-for-cisos/" rel="nofollow"&gt;Phishing-to-RMM Attacks: The Remote Access Blind Spot CISOs Can’t Ignore &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/rmm-blind-spot-for-cisos/</guid>
       <pubDate>Tue, 28 Apr 2026 12:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Margin vs. Madness: Fixing MSSP Top 5 Operational Nightmares</title>
+      <link>https://any.run/cybersecurity-blog/mssp-pains-solved-by-ti/</link>
+      <description>&lt;p&gt;Leading a managed security services provider has never been a comfortable job.&amp;#160;And it&amp;#160;isn’t&amp;#160;now, though the&amp;#160;demand for MSSPs has never been higher. The global threat landscape is expanding faster than most enterprise security teams can keep pace with, and organizations across every sector are turning to managed providers to fill the gap.&amp;#160;&amp;#160; For MSSP leaders, this [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-pains-solved-by-ti/" rel="nofollow"&gt;Margin vs. Madness: Fixing MSSP Top 5 Operational Nightmares&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-pains-solved-by-ti/</guid>
+      <pubDate>Wed, 29 Apr 2026 07:29:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
