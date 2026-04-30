@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 02:13:00 +0000</lastBuildDate>
-    <item>
-      <title>The Signal in the Silence: Strategic Implications of Iran’s 2026 Internet Blackout for Cyber Threat Intelligence and Narrative Control</title>
-      <link>https://falconfeeds.io/blogs/the-signal-in-the-silence-irans-2026-internet-blackout-cti-narrative-control</link>
-      <description>A strategic deep dive into Iran’s January 8, 2026 internet blackout—how enforced “silence” boosts CTI signal, complicates attribution, and enables narrative control via the NIN.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-signal-in-the-silence-irans-2026-internet-blackout-cti-narrative-control</guid>
-      <pubDate>Tue, 20 Jan 2026 11:11:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 08:09:34 +0000</lastBuildDate>
     <item>
       <title>Proxy Networks and the Rise of Disposable Infrastructure-as-a-Service (IaaS)</title>
       <link>https://falconfeeds.io/blogs/proxy-networks-and-the-rise-of-disposable-iaas</link>
@@ -357,6 +350,13 @@
       <description>Explore how Starlink is reshaping modern conflict through battlefield connectivity, drone operations, and geopolitical power shifts across Ukraine and Iran, highlighting the risks of private control over critical wartime infrastructure.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/commercial-satellite-internet-modern-conflict-starlink-satcom-geopolitical-power</guid>
       <pubDate>Wed, 29 Apr 2026 06:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing Under Siege: Ransomware Convergence on Industrial Targets</title>
+      <link>https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</link>
+      <description>Explore the 20 April 2026 ransomware surge where INC RANSOM, CoinbaseCartel, CHAOS, and The Gentlemen targeted global manufacturing, exposing risks to industrial and supply-chain organizations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</guid>
+      <pubDate>Thu, 30 Apr 2026 07:35:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
