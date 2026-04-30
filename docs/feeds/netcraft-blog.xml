@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 13:25:44 +0000</lastBuildDate>
-    <item>
-      <title>Retro Phishing Returns: Basic Auth URLs Target Japanese Banks</title>
-      <link>https://www.netcraft.com/blog/retro-phishing-basic-auth-urls-make-a-comeback-in-japan</link>
-      <description>Netcraft uncovers a phishing campaign targeting GMO Aozora Bank using legacy Basic Authentication URLs. Learn how this outdated technique is being revived to deceive users and what organizations can do to defend against it.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/retro-phishing-basic-auth-urls-make-a-comeback-in-japan</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 19:12:35 +0000</lastBuildDate>
     <item>
       <title>Tax Refund &amp; Road Toll Smishing Scams Surge Ahead of IRS Deadline</title>
       <link>https://www.netcraft.com/blog/taxpayers-drivers-targeted-in-refund-and-road-toll-smishing-scams</link>
@@ -277,6 +271,12 @@
       <link>https://www.netcraft.com/blog/drps-vs-brand-protection</link>
       <description>Learn the key differences between DRPs vs brand protection — and how modern SOCs stop attacks in real time.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/drps-vs-brand-protection</guid>
+    </item>
+    <item>
+      <title>Phishing Takedown Speed: Why Time-to-Resolution Matters Most</title>
+      <link>https://www.netcraft.com/blog/phishing-takedown</link>
+      <description>Phishing takedown volume shows breadth of visibility. Time-to-resolution shows impact. Learn how to measure whether your program is actively reducing risk.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/phishing-takedown</guid>
     </item>
     <item>
       <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>

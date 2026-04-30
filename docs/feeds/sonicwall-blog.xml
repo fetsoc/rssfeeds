@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 13:25:41 +0000</lastBuildDate>
-    <item>
-      <title>Goodbye VPNs, Hello Cloud-Delivered Zero Trust - NULL</title>
-      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</guid>
-    </item>
-    <item>
-      <title>Goodbye VPNs: Embrace Cloud-Delivered Zero Trust</title>
-      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</link>
-      <description>Move beyond legacy VPNs. Discover how SonicWall Cloud Secure Edge delivers simplified, secure Zero Trust access for hybrid workforces.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 19:12:31 +0000</lastBuildDate>
     <item>
       <title>Securing the Future: Simplified Management, Scalable Growth, and Built-In Compliance for K-12</title>
       <link>https://www.sonicwall.com/blog/securing-the-future-simplified-management-scalable-growth-and-built-in-compliance-for-k-12</link>
@@ -282,6 +271,18 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
       <description>Cyber threats move fast. Learn why detection alone isn’t enough and how automated security response helps stop attacks before they spread.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
+    </item>
+    <item>
+      <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
+      <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
+      <description>Critical CVSS 9.8 unauthenticated RCE in Langflow AI via build_public_tmp endpoint passes user input to exec() without sandboxing. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</guid>
+    </item>
+    <item>
+      <title>All-Port TLS Inspection: SonicWall RFDPI and DPI-SSL Explained</title>
+      <link>https://www.sonicwall.com/blog/threats-don-t-follow-port-rules-sonicwall-s-inspection-engine-does-</link>
+      <description>Over 90% of traffic is encrypted. Threats run on port 4444, 8443, or wherever they choose. See how SonicWall RFDPI and DPI-SSL inspect every port, every session.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/threats-don-t-follow-port-rules-sonicwall-s-inspection-engine-does-</guid>
     </item>
     <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>

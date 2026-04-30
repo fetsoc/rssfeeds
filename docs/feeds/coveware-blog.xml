@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/coveware-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 13:27:08 +0000</lastBuildDate>
-    <item>
-      <title>Ransomware Threat Actors Pivot from Big Game to Big Shame Hunting</title>
-      <link>https://www.coveware.com/blog/2022/5/3/ransomware-threat-actors-pivot-from-big-game-to-big-shame-hunting</link>
-      <description>Less Victims of Ransomware are Paying, even as Cybercriminals Shift from 
-Big Game to Big Shame Hunting</description>
-      <guid isPermaLink="false">https://www.coveware.com/blog/2022/5/3/ransomware-threat-actors-pivot-from-big-game-to-big-shame-hunting</guid>
-      <pubDate>Tue, 03 May 2022 22:51:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 19:14:08 +0000</lastBuildDate>
     <item>
       <title>HSGAC Hearing Recap: Ransomware Attacks and Ransom Payments Enabled by Cryptocurrency</title>
       <link>https://www.coveware.com/blog/ransomware-attacks-and-ransom-payments-enabled-by-cryptocurrency</link>
@@ -177,6 +169,16 @@ work.</description>
 demonstrate these attacks are losing their efficacy.</description>
       <guid isPermaLink="false">https://www.coveware.com/blog/2026/2/3/mass-data-exfiltration-campaigns-lose-their-edge-in-q4-2025</guid>
       <pubDate>Wed, 04 Feb 2026 00:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch management goes from hard, to ludicrous in the agentic AI era</title>
+      <link>https://www.coveware.com/blog/2026/4/27/patch-management-goes-from-hard-to-ludicrous-in-the-agentic-ai-era</link>
+      <description>The release of agentic AI is compressing the nature of patch management and 
+how defenders must prepare for the future of cyber attacks. This is 
+increasing pressure on patch velocity, compensating controls, and 
+dependency visibility.</description>
+      <guid isPermaLink="false">https://www.coveware.com/blog/2026/4/27/patch-management-goes-from-hard-to-ludicrous-in-the-agentic-ai-era</guid>
+      <pubDate>Thu, 30 Apr 2026 17:24:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
