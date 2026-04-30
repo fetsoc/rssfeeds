@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 08:09:37 +0000</lastBuildDate>
-    <item>
-      <title>Building Phishing Detection That Works: 3 Steps for CISOs</title>
-      <link>https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</link>
-      <description>&lt;p&gt;90% of attacks&amp;#160;start with&amp;#160;phishing.&amp;#160;For CISOs, the real&amp;#160;pain begins when the SOC cannot quickly tell whether a suspicious alert is just&amp;#160;noise or the&amp;#160;start of credential theft, account compromise, malware delivery, or wider business disruption.&amp;#160; Modern&amp;#160;phishing&amp;#160;campaigns are designed to create exactly that uncertainty. QR codes, redirect chains, CAPTCHAs,&amp;#160;phishing&amp;#160;kits, and AI-generated lures can all hide the real&amp;#160;objective&amp;#160;until late [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/" rel="nofollow"&gt;Building Phishing Detection That Works: 3 Steps for CISOs &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-detection-steps-for-cisos/</guid>
-      <pubDate>Wed, 08 Apr 2026 11:12:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 13:27:07 +0000</lastBuildDate>
     <item>
       <title>How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing</title>
       <link>https://any.run/cybersecurity-blog/german-industries-attack-cases/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-pains-solved-by-ti/" rel="nofollow"&gt;Margin vs. Madness: Fixing MSSP Top 5 Operational Nightmares&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-pains-solved-by-ti/</guid>
       <pubDate>Wed, 29 Apr 2026 07:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Release Notes: Expanded Threat Intelligence Access, AI Assisted Search 1,770 New Detections and More</title>
+      <link>https://any.run/cybersecurity-blog/release-notes-april-2026/</link>
+      <description>&lt;p&gt;April brought several updates across ANY.RUN’s Threat Intelligence and detection coverage.&amp;#160; The biggest change is expanded access to Threat Intelligence: Free plan users now get&amp;#160;20 premium requests in TI Lookup and YARA Search. This gives security teams a practical way to check suspicious indicators, explore related sandbox sessions, and&amp;#160;validate&amp;#160;malware or phishing activity using real attack [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-april-2026/" rel="nofollow"&gt;Release Notes: Expanded Threat Intelligence Access, AI Assisted Search 1,770 New Detections and More&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-april-2026/</guid>
+      <pubDate>Thu, 30 Apr 2026 11:57:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

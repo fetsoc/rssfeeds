@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 08:09:38 +0000</lastBuildDate>
-    <item>
-      <title>Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</title>
-      <link>https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</link>
-      <description>&amp;lt;p&amp;gt;Invisible password sprays. Invisible logins. Full tokens returned.Nyxgeek here. It&amp;amp;#039;s 2026 and I&amp;amp;#039;ve got two more Azure Entra ID sign-in log bypasses to share with you. Don&amp;amp;#039;t get too excited…these bypasses…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</guid>
-      <pubDate>Thu, 19 Mar 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 13:27:07 +0000</lastBuildDate>
     <item>
       <title>Building a Detection Foundation: Part 4 - Sysmon</title>
       <link>https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;In this article, I’ll walk you through the basics of Kerberos, how to use Titanis for the different parts, and how to mitigate some problems.Titanis SetupI use Titanis tools throughout this article to demonstrate…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/kerberos-with-titanis</guid>
       <pubDate>Thu, 23 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARP Around and Find Out: Hijacking GPO UNC Paths for Code Execution and NTLM Relay</title>
+      <link>https://trustedsec.com/blog/arp-around-and-find-out-hijacking-gpo-unc-paths-for-code-execution-and-ntlm-relay</link>
+      <description>&amp;lt;p&amp;gt;TL;DR - If you have WriteGPLink on an Active Directory Organizational Unit (OU) and you’re on the same network segment as a computer within that OU, you can abuse that permission to link an existing Group Policy Objects…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/arp-around-and-find-out-hijacking-gpo-unc-paths-for-code-execution-and-ntlm-relay</guid>
+      <pubDate>Thu, 30 Apr 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

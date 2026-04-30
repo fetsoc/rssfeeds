@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 08:09:41 +0000</lastBuildDate>
-    <item>
-      <title>Adobe Reader zero-day vulnerability in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, vulnerability, Adobe Reader&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/adobe-reader-zero-day-vulnerability-in-active-exploitation</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 13:27:11 +0000</lastBuildDate>
     <item>
       <title>The vulnerability flood is here. Here’s what it means – and how to prepare</title>
       <link>https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Two supply chain attacks, same day, same command-and-control domain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Supply chain, Sophos X-Ops, pipeline, Bitwarden, Checkmarx&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Mini Shai-Hulud' supply chain attack targets SAP npm packages</title>
+      <link>https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, SAP&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

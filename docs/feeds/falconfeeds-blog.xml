@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 08:09:34 +0000</lastBuildDate>
-    <item>
-      <title>Proxy Networks and the Rise of Disposable Infrastructure-as-a-Service (IaaS)</title>
-      <link>https://falconfeeds.io/blogs/proxy-networks-and-the-rise-of-disposable-iaas</link>
-      <description>Explore how cybercriminals are replacing bulletproof hosting with disposable IaaS—residential proxies, IAB access, stolen cloud credentials, and anti-detect browsers—making attacks faster, cheaper, and harder to stop.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/proxy-networks-and-the-rise-of-disposable-iaas</guid>
-      <pubDate>Fri, 30 Jan 2026 03:11:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Cyber Forensics Trap: When Attribution Becomes a Weapon</title>
-      <link>https://falconfeeds.io/blogs/the-cyber-forensics-trap-when-attribution-becomes-a-weapon</link>
-      <description>Cyber attribution is no longer just forensics—it’s a battlefield. This blog examines how false-flag operations, ORB networks, and code mimicry enable plausible misattribution, exploit analyst biases, and escalate geopolitical risk, and why defenders must shift to probabilistic, confidence-based attribution.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-cyber-forensics-trap-when-attribution-becomes-a-weapon</guid>
-      <pubDate>Fri, 30 Jan 2026 03:30:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 13:27:04 +0000</lastBuildDate>
     <item>
       <title>Threat Intel in the Age of Data Localization Laws: A Borderless Discipline in a Bordered World</title>
       <link>https://falconfeeds.io/blogs/threat-intel-in-the-age-of-data-localization-laws</link>
@@ -357,6 +343,20 @@
       <description>Explore the 20 April 2026 ransomware surge where INC RANSOM, CoinbaseCartel, CHAOS, and The Gentlemen targeted global manufacturing, exposing risks to industrial and supply-chain organizations.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</guid>
       <pubDate>Thu, 30 Apr 2026 07:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>HexagonalRodent: DPRK AI-Powered Crypto Theft Campaign Using LinkedIn Lures to Target Web3 Develop</title>
+      <link>https://falconfeeds.io/blogs/hexagonalrodent-dprk-ai-crypto-theft-linkedin-malware-web3-targeting</link>
+      <description>Explore how HexagonalRodent used AI-powered LinkedIn phishing and malware to steal $12M from Web3 developers, revealing new tactics in DPRK crypto theft operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/hexagonalrodent-dprk-ai-crypto-theft-linkedin-malware-web3-targeting</guid>
+      <pubDate>Thu, 30 Apr 2026 09:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vidar &amp; StrelaStealer IOC Alert: Fresh Infrastructure Signals Active Credential Theft Campaigns</title>
+      <link>https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</link>
+      <description>Discover new IOCs linked to Vidar and StrelaStealer, revealing active infrastructure, phishing distribution, and immediate risks to organizations worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</guid>
+      <pubDate>Thu, 30 Apr 2026 09:59:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
