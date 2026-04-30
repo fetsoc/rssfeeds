@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 19:15:35 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-20363</title>
-      <link>https://attackerkb.com/assessments/5fc0cb55-5f93-4116-8e0a-0c39251010ab</link>
-      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Initial Access
-
-CVE-2025-20363 is a heap-based buffer overflow affecting many popular Cisco products: Cisco ASA, FTD, IOS, IOS XE, and IOS XR. When Cisco ASA or FTD are exploited, credentials are not required; when Cisco IOS, IOS XE, or IOS XR are exploited, low-privilege credentials are required. In all scenarios, the result is root-level RCE on the affected system. The CVE entry for CVE-2025-20363 lists over 2,500 versions affected.&#13;
-&#13;
-Cisco is a huge target for threat actors, as their products are popular. In particular, unauthenticated root-level remote code execution on Cisco ASA is a bit of a holy grail…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/5fc0cb55-5f93-4116-8e0a-0c39251010ab</guid>
-      <pubDate>Thu, 25 Sep 2025 22:10:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 02:13:02 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-20333</title>
       <link>https://attackerkb.com/assessments/8c7829c3-f04c-425b-8853-97fc96b5d416</link>
@@ -640,6 +629,17 @@ CVE-2026-33032 is a missing authentication bug affecting the 'Nginx UI' 3rd-part
 T…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/6d026fd1-d067-4060-8fde-11bf5c6acfd5</guid>
       <pubDate>Tue, 21 Apr 2026 03:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41940</title>
+      <link>https://attackerkb.com/assessments/7f5d684f-adb4-453b-a82f-85a97848e5cf</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+On April 28, 2026, cPanel issued a security update to fix a critical vulnerability affecting the cPanel &amp; WHM and WP Squared products. CVE-2026-41940, the identifier subsequently assigned on April 29, 2026, has a CVSS score of 9.8. Exploitation permits unauthenticated remote attackers to bypass authentication and gain unauthorized administrative access to the affected systems. &#13;
+&#13;
+cPanel &amp; WHM is web hosting control panel software used to manage websites and servers. WHM provides root-level administration, while cPanel acts as the user-facing interface. Successful exploitation of CVE-2026-4194…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/7f5d684f-adb4-453b-a82f-85a97848e5cf</guid>
+      <pubDate>Wed, 29 Apr 2026 20:16:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

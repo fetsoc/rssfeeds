@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 19:15:42 +0000</lastBuildDate>
-    <item>
-      <title>Advanced Cyber Defence: Using Deception Techniques to Become a Moving Target</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/advanced-cyber-defence-using-deception-techniques-to-become-a-moving-target</link>
-      <description>As more and more people enter the trade on both sides, you have to ensure you’re keeping one step ahead of the competition.  So how do you continue to develop new capabilities that help detect cyber threats?</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/advanced-cyber-defence-using-deception-techniques-to-become-a-moving-target</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 02:13:09 +0000</lastBuildDate>
     <item>
       <title>FileFix – The Evolved ClickFix | Bridewell</title>
       <link>https://www.bridewell.com/insights/blogs/detail/filefix-the-evolved-clickfix</link>
@@ -181,6 +175,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/why-do-emergency-service-still-use-the-pocsag-flex-protocol-in-2024</link>
       <description>Why Do Emergency Service Still Use the POCSAG/FLEX Protocol in 2024?</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/why-do-emergency-service-still-use-the-pocsag-flex-protocol-in-2024</guid>
+    </item>
+    <item>
+      <title>Bridewell | Generative AI for Critical Infrastructure: Where It Helps (and Where It Doesn&amp;#39;t)</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/generative-ai-for-critical-infrastructure-where-it-helps-and-where-it-doesn't</link>
+      <description>AI critical infrastructure applications require pragmatism about what works in OT contexts. Generative AI delivers value through context, coordination, and compliance support.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/generative-ai-for-critical-infrastructure-where-it-helps-and-where-it-doesn't</guid>
     </item>
     <item>
       <title>Privilege Escalation Vulnerability in Azure Portal Can Lead to Full Tenant Compromise | Bridewell</title>

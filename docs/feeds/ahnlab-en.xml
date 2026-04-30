@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 19:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:13:04 +0000</lastBuildDate>
     <item>
       <title>February 2026 APT Group Trends Report</title>
       <link>https://asec.ahnlab.com/en/92906/</link>
@@ -30,17 +30,17 @@
       <pubDate>Sun, 15 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
-      <link>https://asec.ahnlab.com/en/92978/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Threat Actor CipherForce Claims Cyberattack on South Korean Job Portal New Threat Actor Loki Emerges, Leaks US Citizens&amp;#8217; Personal Data Cybercrime Forum LeakBase Shut Down Again by Russian Authorities</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92978/</guid>
-      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>February 2026 APT Attack Trends Report (South Korea)</title>
       <link>https://asec.ahnlab.com/en/92972/</link>
       <description>Overview. ahnLab monitored APT attacks against domestic targets during the month of February 2026 through its infrastructure. this report summarizes the classification, statistics, and features of each type of domestic APT attacks identified during the period. APT Domestic Attack Trends. we found that most of the infiltrations were carried out through spear phishing emails. in [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
+      <link>https://asec.ahnlab.com/en/92978/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; New Threat Actor CipherForce Claims Cyberattack on South Korean Job Portal New Threat Actor Loki Emerges, Leaks US Citizens&amp;#8217; Personal Data Cybercrime Forum LeakBase Shut Down Again by Russian Authorities</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/92978/</guid>
       <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -121,6 +121,27 @@
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>March 2026 Dark Web Threat Actor Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93324/</link>
+      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Issue Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93323/</link>
+      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Ransomware Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93359/</link>
+      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
       <link>https://asec.ahnlab.com/en/93336/</link>
       <description>Overview. ASEC analyzed the statistics of attacks against Linux SSH servers in Q1 2026 based on honeypot logs. The P2PInfect worm dominated, accounting for 70.3% of all attack sources, and DDoS bots such as Mirai, XMRig, Prometei, and CoinMiner were identified as the main threats. Purpose and Scope. the purpose of this report is to [&amp;#8230;]</description>
@@ -146,27 +167,6 @@
       <link>https://asec.ahnlab.com/en/93325/</link>
       <description>Alerts this report is based on reports of data breaches and the sale of initial access rights posted on deep web-dark web forums. some parts of the report contain information that cannot be fully verified as factual due to the nature of the source. Major Issues Multiple breach claims by ShinyHunters. a wide range of [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93325/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Threat Actor Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93324/</link>
-      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Issue Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93323/</link>
-      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Ransomware Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93359/</link>
-      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
