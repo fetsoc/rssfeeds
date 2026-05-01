@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 08:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 13:02:43 +0000</lastBuildDate>
     <item>
       <title>Building a Detection Foundation: Part 4 - Sysmon</title>
       <link>https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon</link>
