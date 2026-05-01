@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 13:01:13 +0000</lastBuildDate>
-    <item>
-      <title>Securing the Future: Simplified Management, Scalable Growth, and Built-In Compliance for K-12</title>
-      <link>https://www.sonicwall.com/blog/securing-the-future-simplified-management-scalable-growth-and-built-in-compliance-for-k-12</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/securing-the-future-simplified-management-scalable-growth-and-built-in-compliance-for-k-12</guid>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 19:01:27 +0000</lastBuildDate>
     <item>
       <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
       <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
@@ -297,6 +292,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Learn how reporting can help you tell your MSP story effectively so your customers experience your true value.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/turning-security-into-a-story-how-msps-use-reporting-to-drive-retention-and-revenue</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is a Virtual Firewall? Cloud &amp; VM Security Explained</title>
+      <link>https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</link>
+      <description>Learn how virtual firewalls secure east-west traffic across VMware, AWS, Azure, and Kubernetes—where traditional edge firewalls fall short.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 13:01:17 +0000</lastBuildDate>
-    <item>
-      <title>Tax Refund &amp; Road Toll Smishing Scams Surge Ahead of IRS Deadline</title>
-      <link>https://www.netcraft.com/blog/taxpayers-drivers-targeted-in-refund-and-road-toll-smishing-scams</link>
-      <description>Threat actors deployed over 850 fake tax and toll websites to steal personal and financial data from U.S. and international victims. Netcraft uncovers the latest smishing campaign targeting taxpayers and drivers ahead of the October 15 IRS extension deadline.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/taxpayers-drivers-targeted-in-refund-and-road-toll-smishing-scams</guid>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 19:01:32 +0000</lastBuildDate>
     <item>
       <title>Disrupting Phone Scams at Scale with Netcraft Automation</title>
       <link>https://www.netcraft.com/blog/disrupting-phone-number-scams-at-scale-why-it-matters-and-how-to-do-it-right</link>
@@ -312,6 +306,13 @@
       <description>In the May 2025 survey we received responses from 1,227,232,638 sites across 277,546,948 domains and 13,470,692 web-facing computers. This reflects...</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/may-2025-web-server-survey</guid>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
+      <link>https://www.netcraft.com/blog/digital-risk-management-framework</link>
+      <description>Learn how to reduce exposure windows and boost cyber resilience with a 4-layer active defense framework for 2026 digital risk management.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/digital-risk-management-framework</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
