@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 18:48:54 +0000</lastBuildDate>
-    <item>
-      <title>The vulnerability flood is here. Here’s what it means – and how to prepare</title>
-      <link>https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</link>
-      <description>&lt;p&gt;We can&amp;apos;t control the pace of AI-driven vulnerability discovery, but we can control how fast we respond.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; LLM, AI, Exploit, vulnerability, Active Adversary, Pacific Rim&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/vulnerability-flood-is-here</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 02:08:39 +0000</lastBuildDate>
     <item>
       <title>We let OpenClaw loose on an internal network. Here’s what it found</title>
       <link>https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, SAP&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, Linux, Copy Fail&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
