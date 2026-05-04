@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 08:20:43 +0000</lastBuildDate>
-    <item>
-      <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
-      <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a Critical authentication bypass vulnerability in GNU –a Unix-like operating system, assessed their impact, and developed mitigation measures. GNU is a collection of many programs: applications, libraries, developer tools, even games.
-This critical authentication bypass vulnerability in GNU inetutils-telnetd allows unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation, identified as CVE-2026-24061, affecting versions 1.9.3 up to and including version 2.7. With a CVSS score of 9.8 (Critical) due to its low attack complexity, high impact, and the fact that it affects core application functionality. As described in PoC, the impact of an argument injection can result into Remote Code Execution. The root issue is argument injection through unsafe string interpolation of client-controlled data. Hence, all organizations that use GNU instances are strongly encouraged to update their instances to the latest patched version as a matter of urgency.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</guid>
-    </item>
-    <item>
-      <title>Uncovering a Recent Pulsar RAT Sample in the Wild</title>
-      <link>https://www.sonicwall.com/blog/uncovering-a-recent-pulsar-rat-sample-in-the-wild</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/uncovering-a-recent-pulsar-rat-sample-in-the-wild</guid>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 13:35:21 +0000</lastBuildDate>
     <item>
       <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
       <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
@@ -299,6 +287,19 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Learn how virtual firewalls secure east-west traffic across VMware, AWS, Azure, and Kubernetes—where traditional edge firewalls fall short.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Long Time Ago in a Galaxy Far, Far Away…Cybersecurity Was Already Hard</title>
+      <link>https://www.sonicwall.com/blog/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall Gen 6 End of Life: The Credential Visibility Gap Putting Your Network at Risk</title>
+      <link>https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</link>
+      <description>1 in 10 SonicWall devices running Credential Auditor found bad credentials — and Gen 6 firewalls can’t run it. Learn why upgrading to Gen 7 is a critical security decision, not just a hardware refresh.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
