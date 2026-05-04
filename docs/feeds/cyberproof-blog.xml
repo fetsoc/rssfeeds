@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 07:24:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:22:18 +0000</lastBuildDate>
+    <item>
+      <title>How to Prioritize Your 2021 Cyber Security Budget – 5 Tips for CISOs</title>
+      <link>https://www.cyberproof.com/blog/how-to-prioritize-your-2021-cyber-security-budget-5-tips-for-cisos/</link>
+      <description>CyberProof CEO, Tony Velleca, shared tips for CISOs on how they can reduce security risks in turbulent times with a limited cyber security budget.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-to-prioritize-your-2021-cyber-security-budget-5-tips-for-cisos/</guid>
+      <pubDate>Mon, 14 Sep 2020 08:48:06 +0000</pubDate>
+    </item>
     <item>
       <title>Our Key Takeaways from Forrester’s APAC MSSP Market Research Report</title>
       <link>https://www.cyberproof.com/blog/our-key-takeaways-from-forresters-apac-mssp-market-research-report/</link>
@@ -84,13 +91,6 @@
       <description>To remain competitive, organizations relying on OT ecosystems must adopt new technologies – integrating innovations with legacy systems.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/how-to-develop-a-converged-it-ot-soc/</guid>
       <pubDate>Wed, 15 Sep 2021 00:58:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why a Use Case Factory is Essential to Your Cyber Security Strategy</title>
-      <link>https://www.cyberproof.com/blog/why-a-use-case-factory-is-essential-to-your-cyber-security-strategy/</link>
-      <description>Many view a use case as a detection scenario for cyber security threats in a SIEM platform. But the reality is that a use case involves much more.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-a-use-case-factory-is-essential-to-your-cyber-security-strategy/</guid>
-      <pubDate>Mon, 27 Sep 2021 02:54:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Your Cyber Security Strategy Must Include a Use Case Factory, P2</title>
