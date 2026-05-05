@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 07:59:29 +0000</lastBuildDate>
-    <item>
-      <title>Building a Detection Foundation: Part 4 - Sysmon</title>
-      <link>https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon</link>
-      <description>&amp;lt;p&amp;gt;Filling the Gaps Native Logging Can&amp;amp;#039;tAt this point in our series, we have Windows Security events capturing logon sessions and process creation, and PowerShell logging capturing script execution. That&amp;amp;#039;s a…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/building-a-detection-foundation-part-4-sysmon</guid>
-      <pubDate>Tue, 24 Mar 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 13:23:04 +0000</lastBuildDate>
     <item>
       <title>Policy as Code: Stop Writing Policies and Start Compiling Them</title>
       <link>https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;TL;DR - If you have WriteGPLink on an Active Directory Organizational Unit (OU) and you’re on the same network segment as a computer within that OU, you can abuse that permission to link an existing Group Policy Objects…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/arp-around-and-find-out-hijacking-gpo-unc-paths-for-code-execution-and-ntlm-relay</guid>
       <pubDate>Thu, 30 Apr 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Defensive Stack is Exposed: LLMs, Reverse Engineering, and the End of Opaque Defense</title>
+      <link>https://trustedsec.com/blog/the-defensive-stack-is-exposed</link>
+      <description>&amp;lt;p&amp;gt;Everyone is talking about LLMs finding zero days. That is not the only story. The story is what happens when you point these models at the defensive tools organizations depend on for first line defense. AI is changing…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/the-defensive-stack-is-exposed</guid>
+      <pubDate>Tue, 05 May 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

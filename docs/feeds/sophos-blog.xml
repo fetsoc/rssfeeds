@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 07:59:32 +0000</lastBuildDate>
-    <item>
-      <title>We let OpenClaw loose on an internal network. Here’s what it found</title>
-      <link>https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</link>
-      <description>&lt;p&gt;Following our article on the challenges posed by agentic AI, we gave OpenClaw access to one of our legacy networks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; OpenClaw, LLM, AI, penetration testing, Red Team, CISO, Sophos X-Ops&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/we-let-openclaw-loose-on-an-internal-network-heres-what-it-found</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secure by Design: Building cybersecurity into the foundation</title>
-      <link>https://www.sophos.com/en-us/blog/building-cybersecurity-into-the-foundation</link>
-      <description>&lt;p&gt;An explainer of why this philosophy matters and how it reduces attack surface from the inside&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights, Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Secure by Design, Thought Leadership&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-cybersecurity-into-the-foundation</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 13:23:10 +0000</lastBuildDate>
     <item>
       <title>QEMU abused to evade detection and enable ransomware delivery</title>
       <link>https://www.sophos.com/en-us/blog/qemu-abused-to-evade-detection-and-enable-ransomware-delivery</link>
@@ -63,6 +49,20 @@
       <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, SAP&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI just became the world's most dangerous exploit writer. Here's why Sophos Endpoint is built to stop it.</title>
+      <link>https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</link>
+      <description>&lt;p&gt;AI-generated zero-days are here. Sophos Endpoint was architected to stop exploits that have never been seen before — blocking the techniques every attack must use, at the moment of execution, with no signature, no cloud lookup, and no configuration required.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Endpoint, Sophos Endpoint, AI, Exploits, Zero Days, Mythos&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI finds the vulnerabilities, but exploiting them is a different problem.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</link>
+      <description>&lt;p&gt;How Sophos Endpoint defends in the AI era, and what the public record on Mythos shows.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Mythos, Sophos Endpoint, Endpoint, Exploits, Zero Days, AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>

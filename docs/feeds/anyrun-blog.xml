@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 07:59:28 +0000</lastBuildDate>
-    <item>
-      <title>How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing</title>
-      <link>https://any.run/cybersecurity-blog/german-industries-attack-cases/</link>
-      <description>&lt;p&gt;Germany’s economy is a precision machine: finance fuels it, manufacturing builds it, telecom connects it, IT&amp;#160;optimizes&amp;#160;it, and healthcare sustains it.&amp;#160;The country sits at the crossroads of industrial power and digital transformation, making it irresistibly attractive to attackers. In this article, we explore real-world attacks targeting five critical German industries, analyzed by ANY.RUN’s analysts using Interactive [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/german-industries-attack-cases/" rel="nofollow"&gt;How Phishing Is Targeting Germany’s Economy: Active Threats from Finance to Manufacturing&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/german-industries-attack-cases/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:52:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 13:23:04 +0000</lastBuildDate>
     <item>
       <title>When Trust Becomes a Weapon: Google Cloud Storage Phishing Deploying Remcos RAT</title>
       <link>https://any.run/cybersecurity-blog/phishing-google-drive-remcos/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-april-2026/" rel="nofollow"&gt;Release Notes: Expanded Threat Intelligence Access, AI Assisted Search 1,770 New Detections and More&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-april-2026/</guid>
       <pubDate>Thu, 30 Apr 2026 11:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know</title>
+      <link>https://any.run/cybersecurity-blog/us-fake-invitation-phishing/</link>
+      <description>&lt;p&gt;A new large-scale phishing campaign is targeting U.S. organizations with fake event invitations that lead to credential theft, OTP interception, or RMM tool installation. ANY.RUN researchers found that the campaign uses a repeatable phishing framework to create event-themed lure pages at scale. Some pages steal email credentials and OTP codes, while others deliver legitimate remote [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-fake-invitation-phishing/" rel="nofollow"&gt;New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-fake-invitation-phishing/</guid>
+      <pubDate>Tue, 05 May 2026 12:59:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
