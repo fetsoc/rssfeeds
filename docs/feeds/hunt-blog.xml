@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 13:20:25 +0000</lastBuildDate>
-    <item>
-      <title>Cobalt Strike Operators Leverage PowerShell Loaders Across Chinese, Russian, and Global Infrastructure</title>
-      <link>https://hunt.io/blog/cobaltstrike-powershell-loader-chinese-russian-infrastructure</link>
-      <description>Our threat hunters uncovered a PowerShell loader hosted by Chinese and Russian providers, linked to active Cobalt Strike infrastructure.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/cobaltstrike-powershell-loader-chinese-russian-infrastructure</guid>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 19:07:34 +0000</lastBuildDate>
     <item>
       <title>Announcing Hunt 2.3: Improved Threat Hunting Experience &amp; SSO Availability</title>
       <link>https://hunt.io/blog/announcing-hunt-2-3</link>
@@ -357,6 +350,13 @@
       <description>A publicly exposed debug build unraveled xlabs_v1, a commercial game-server DDoS-for-hire botnet with 21 flood variants running on bulletproof infrastructure.</description>
       <guid isPermaLink="false">https://hunt.io/blog/xlabs-v1-ddos-for-hire-operation-exposed</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iranian-Nexus Operation Against Oman's Government: 12 Ministries Hit and 26,000 Citizen Records Exposed</title>
+      <link>https://hunt.io/blog/iranian-nexus-oman-government-intrusion</link>
+      <description>An exposed UAE-hosted VPS revealed an Iranian-nexus operation against Oman's government, with 26,000 citizen records pulled from the Justice Ministry.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/iranian-nexus-oman-government-intrusion</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
