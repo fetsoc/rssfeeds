@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 19:18:56 +0000</lastBuildDate>
-    <item>
-      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
-      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
-      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 02:06:15 +0000</lastBuildDate>
     <item>
       <title>PARTNER POWER NEWS - February 2026: Pipeline. Margin. Recurring Revenue. | SonicWall</title>
       <link>https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</link>
@@ -300,6 +294,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>1 in 10 SonicWall devices running Credential Auditor found bad credentials — and Gen 6 firewalls can’t run it. Learn why upgrading to Gen 7 is a critical security decision, not just a hardware refresh.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partner Power News - May 2026: Protection. Transition. Scale. | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</link>
+      <description>Turn insight into action with Partner Power News May 2026. Cyber Protect insights, product transitions, EPSS on Gen 7 TZ, SaaS milestones, and new enablement resources to scale impact and pipeline.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
