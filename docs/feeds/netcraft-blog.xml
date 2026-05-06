@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 13:50:08 +0000</lastBuildDate>
-    <item>
-      <title>Disrupting Phone Scams at Scale with Netcraft Automation</title>
-      <link>https://www.netcraft.com/blog/disrupting-phone-number-scams-at-scale-why-it-matters-and-how-to-do-it-right</link>
-      <description>Stop phone number scams before they spread. Learn how Netcraft’s automated takedowns disrupt impersonation attacks fast across 70+ global carriers.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/disrupting-phone-number-scams-at-scale-why-it-matters-and-how-to-do-it-right</guid>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 19:32:05 +0000</lastBuildDate>
     <item>
       <title>Why Manual Scam Takedowns Fall Short</title>
       <link>https://www.netcraft.com/blog/why-one-and-done-is-not-enough-the-cat-and-mouse-effect-of-manual-scam-takedowns</link>
@@ -313,6 +307,13 @@
       <description>Learn how to reduce exposure windows and boost cyber resilience with a 4-layer active defense framework for 2026 digital risk management.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/digital-risk-management-framework</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best Anti-Phishing Software in 2026</title>
+      <link>https://www.netcraft.com/blog/6-best-anti-phishing-software</link>
+      <description>Explore the top anti-phishing tools for 2026, the capabilities that matter, and how leading solutions compare across detection, visibility, and disruption.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/6-best-anti-phishing-software</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

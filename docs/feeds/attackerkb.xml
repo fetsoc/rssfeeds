@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 13:51:33 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-20333</title>
-      <link>https://attackerkb.com/assessments/8c7829c3-f04c-425b-8853-97fc96b5d416</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5
-
-This is an authentication bypass affecting Cisco Adaptive Security Appliance (ASA) and Cisco Firepower Threat Defense (FTD) appliances. It is known to be exploited in -the-wild, and has been chained with an separate RCE vulnerability, CVE-2025-20333 (according to CISA), to allow a remote unauthenticated attacker achieve unauthenticated RCE against a target device.  &#13;
-&#13;
-According to the vendor advisory, a device is not vulnerable in a default configuration, but rather vulnerable in one of several configuration. However these configuration are likely very common in an enterprise setting, e.g. an…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/8c7829c3-f04c-425b-8853-97fc96b5d416</guid>
-      <pubDate>Fri, 26 Sep 2025 08:27:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 19:33:46 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-20362</title>
       <link>https://attackerkb.com/assessments/8b78ecbf-ee77-4eb8-9310-4820e99d14a8</link>
@@ -640,6 +629,21 @@ On April 28, 2026, cPanel issued a security update to fix a critical vulnerabili
 cPanel &amp; WHM is web hosting control panel software used to manage websites and servers. WHM provides root-level administration, while cPanel acts as the user-facing interface. Successful exploitation of CVE-2026-4194…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/7f5d684f-adb4-453b-a82f-85a97848e5cf</guid>
       <pubDate>Wed, 29 Apr 2026 20:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment d02266f3</title>
+      <link>https://attackerkb.com/assessments/d02266f3-1379-44e1-8a86-784db6e7b39c</link>
+      <description>Attacker Value: 3/5 | Exploitability: 4/5
+
+As we can see patch diffing, the vulnerability is in the error message display on the oauth/oob endpoint. While dorking I found the payload that was exposed by mistake:&#13;
+&#13;
+&#13;
+http://localhost:8080/auth/realms/master/protocol/openid-connect/oauth/oob?error=%3Ca%20href=%22javascript%26%00colon;alert(document.domain)%22%3EReturn%20to%20application%3C/a%3E&#13;
+&#13;
+&#13;
+More payloads can be extracted from the patch test suite at services/src/test/java/org/keycloak/theme/KeycloakSanitizerTest.java.</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/d02266f3-1379-44e1-8a86-784db6e7b39c</guid>
+      <pubDate>Wed, 06 May 2026 14:18:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

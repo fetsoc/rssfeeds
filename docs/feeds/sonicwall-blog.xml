@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 13:50:03 +0000</lastBuildDate>
-    <item>
-      <title>PARTNER POWER NEWS - February 2026: Pipeline. Margin. Recurring Revenue. | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</link>
-      <description>Explore the February 2026 Partner Power News for insights on accelerating pipeline growth, boosting margin, and driving recurring revenue in today’s security market. With customers rapidly reassessing risk and investing in trusted security advisors, discover partner strategies to lead with confidence and convert rising demand into measurable business growth.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</guid>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 19:32:01 +0000</lastBuildDate>
     <item>
       <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
       <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
@@ -301,6 +295,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Turn insight into action with Partner Power News May 2026. Cyber Protect insights, product transitions, EPSS on Gen 7 TZ, SaaS milestones, and new enablement resources to scale impact and pipeline.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
+      <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-death-of-the-firewall</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
