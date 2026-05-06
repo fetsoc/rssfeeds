@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 08:13:03 +0000</lastBuildDate>
-    <item>
-      <title>When Trust Becomes a Weapon: Google Cloud Storage Phishing Deploying Remcos RAT</title>
-      <link>https://any.run/cybersecurity-blog/phishing-google-drive-remcos/</link>
-      <description>&lt;p&gt;Modern phishing campaigns increasingly abuse legitimate services. Cloud platforms, file-sharing tools, trusted domains, and widely used SaaS applications are now part of the attacker’s toolkit. Instead of breaking trust, attackers borrow it.&amp;#160; This shift creates&amp;#160;a dangerous&amp;#160;asymmetry. Security controls often whitelist or inherently trust these services, while users are far less likely to question them. The [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-google-drive-remcos/" rel="nofollow"&gt;When Trust Becomes a Weapon: Google Cloud Storage Phishing Deploying Remcos RAT&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-google-drive-remcos/</guid>
-      <pubDate>Tue, 14 Apr 2026 11:04:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 13:51:35 +0000</lastBuildDate>
     <item>
       <title>Chile’s Cybersecurity Framework Law: How SOCs Achieve Compliance and Response Readiness</title>
       <link>https://any.run/cybersecurity-blog/chile-cybersecurity-framework-law/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-fake-invitation-phishing/" rel="nofollow"&gt;New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-fake-invitation-phishing/</guid>
       <pubDate>Tue, 05 May 2026 12:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>How CISOs Reduce Cyber Risk with MITRE ATT&amp;CK</title>
+      <link>https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</link>
+      <description>&lt;p&gt;Nowadays&amp;#160;CISOs&amp;#160;face escalating threats that outpace traditional defenses. The strategy is evolving from compliance-driven checklists to a threat-informed approach. MITRE ATT&amp;#38;CK provides a globally accessible knowledge base of real-world adversary tactics, techniques, and procedures (TTPs), enabling organizations to understand, prioritize, and counter actual attacker behaviors rather than abstract controls.&amp;#160;&amp;#160;This shift helps align security efforts with business [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/" rel="nofollow"&gt;How CISOs Reduce Cyber Risk with MITRE ATT&amp;amp;CK &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</guid>
+      <pubDate>Wed, 06 May 2026 09:31:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
