@@ -7,7 +7,21 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 02:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:12:53 +0000</lastBuildDate>
+    <item>
+      <title>Returning to the Office? 7 Data Hygiene and Security Monitoring Tips</title>
+      <link>https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</link>
+      <description>As the workforce starts to return on-site, it is time to review basic data hygiene and security monitoring issues to bear in mind in the current reality.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</guid>
+      <pubDate>Thu, 11 Jun 2020 07:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does Your Cyber Security Strategy Include a Perimeter Defense?</title>
+      <link>https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</link>
+      <description>Establishing a perimeter defense is especially important when it comes to areas where sensitive data - a high-value resource - is stored.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</guid>
+      <pubDate>Wed, 29 Jul 2020 10:10:01 +0000</pubDate>
+    </item>
     <item>
       <title>How to Prioritize Your 2021 Cyber Security Budget – 5 Tips for CISOs</title>
       <link>https://www.cyberproof.com/blog/how-to-prioritize-your-2021-cyber-security-budget-5-tips-for-cisos/</link>
@@ -58,13 +72,6 @@
       <pubDate>Mon, 15 Feb 2021 03:19:27 +0000</pubDate>
     </item>
     <item>
-      <title>7 Tips to Securing Office 365</title>
-      <link>https://www.cyberproof.com/blog/7-tips-to-securing-office-365/</link>
-      <description>Find out how to incorporate various security tools and use cases into your Microsoft 365 platform, in order to minimize risk.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/7-tips-to-securing-office-365/</guid>
-      <pubDate>Mon, 10 May 2021 03:04:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Protecting Your Organization from Ransomware and Cyber Extortion</title>
       <link>https://www.cyberproof.com/blog/protecting-your-organization-from-ransomware-and-cyber-extortion/</link>
       <description>Read more about the different kinds of cyber extortion and what you can do to protect your organization</description>
@@ -112,20 +119,6 @@
       <description>As consumers in India shop for Diwali, retailers have reason for concern, as a surge in online shopping also means an increase in cyber security threats.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/tips-to-protect-your-data-throughout-the-diwali-shopping-season/</guid>
       <pubDate>Thu, 28 Oct 2021 07:13:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Your SOC Measure Up? A “Sneak Peek” into the SANS SOC Survey</title>
-      <link>https://www.cyberproof.com/blog/does-your-soc-measure-up-a-sneak-peek-into-the-sans-soc-survey/</link>
-      <description>We partnered with SANS to provide this year’s SANS Institute SOC Survey. This survey shares topics including SOC staffing, technology, funding, and more.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/does-your-soc-measure-up-a-sneak-peek-into-the-sans-soc-survey/</guid>
-      <pubDate>Sun, 14 Nov 2021 06:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberProof’s SOC Masterclass - A 360° Look into SOC Operations</title>
-      <link>https://www.cyberproof.com/blog/cyberproofs-soc-masterclass-a-360-look-into-soc-operations/</link>
-      <description>A summary of the highlights from the SOC Masterclass. This 2-day virtual event was designed for security operations leaders looking to optimize their SOC.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/cyberproofs-soc-masterclass-a-360-look-into-soc-operations/</guid>
-      <pubDate>Mon, 22 Nov 2021 06:40:25 +0000</pubDate>
     </item>
     <item>
       <title>Holiday Season Cyber Threats</title>
@@ -189,6 +182,13 @@
       <description>With our expanded customer base and service offerings, our site required a facelift. Have a look at our new site!</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/protecting-enterprises-as-they-migrate-to-the-cloud-and-beyond/</guid>
       <pubDate>Thu, 04 Aug 2022 08:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why data protection is essential for your business</title>
+      <link>https://www.cyberproof.com/blog/why-data-protection-is-essential-for-your-business/</link>
+      <description>Prashanth Nagendran shares insights on prioritizing security operations to safeguard and ensure customer data in your organisation.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-data-protection-is-essential-for-your-business/</guid>
+      <pubDate>Wed, 09 Nov 2022 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The real cost of stolen data</title>
