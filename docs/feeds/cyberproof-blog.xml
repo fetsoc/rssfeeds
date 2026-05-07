@@ -7,7 +7,21 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 08:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:48:37 +0000</lastBuildDate>
+    <item>
+      <title>8 Tips for Spotting Fake News</title>
+      <link>https://www.cyberproof.com/blog/8-tips-for-spotting-fake-news/</link>
+      <description>Fake news during COVID-19 is causing harm to social cohesion, creating political tension, and more, but it's easy to spot once you know how it works.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/8-tips-for-spotting-fake-news/</guid>
+      <pubDate>Sun, 10 May 2020 03:36:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Take On Forrester's New Research Around Managed Security Services</title>
+      <link>https://www.cyberproof.com/blog/forresters-new-recommendations-for-choosing-mss/</link>
+      <description>Forrester outlines the critical role of Managed Security Services for their customers, recognizing CyberProof as one of the pure-play providers.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/forresters-new-recommendations-for-choosing-mss/</guid>
+      <pubDate>Thu, 21 May 2020 06:04:27 +0000</pubDate>
+    </item>
     <item>
       <title>Returning to the Office? 7 Data Hygiene and Security Monitoring Tips</title>
       <link>https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</link>
@@ -28,13 +42,6 @@
       <description>CyberProof CEO, Tony Velleca, shared tips for CISOs on how they can reduce security risks in turbulent times with a limited cyber security budget.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/how-to-prioritize-your-2021-cyber-security-budget-5-tips-for-cisos/</guid>
       <pubDate>Mon, 14 Sep 2020 08:48:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Key Takeaways from Forrester’s APAC MSSP Market Research Report</title>
-      <link>https://www.cyberproof.com/blog/our-key-takeaways-from-forresters-apac-mssp-market-research-report/</link>
-      <description>Forrester released a report to help organizations understand the value they can expect MSSPs in Asia Pacific region, including CyberProof as a leader.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/our-key-takeaways-from-forresters-apac-mssp-market-research-report/</guid>
-      <pubDate>Mon, 12 Oct 2020 10:17:51 +0000</pubDate>
     </item>
     <item>
       <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
@@ -100,25 +107,11 @@
       <pubDate>Wed, 15 Sep 2021 00:58:07 +0000</pubDate>
     </item>
     <item>
-      <title>Why Your Cyber Security Strategy Must Include a Use Case Factory, P2</title>
-      <link>https://www.cyberproof.com/blog/why-your-cyber-security-strategy-must-include-a-use-case-factory-p2/</link>
-      <description>In part 1 of this blog series, we discussed the skills and requirements for building a use case factory. In part 2, we delve into the development process.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-your-cyber-security-strategy-must-include-a-use-case-factory-p2/</guid>
-      <pubDate>Mon, 04 Oct 2021 02:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Exchange’s Basic Authentication – Know Your Weaknesses</title>
       <link>https://www.cyberproof.com/blog/microsoft-exchanges-basic-authentication-know-your-weaknesses/</link>
       <description>Basic Authentication poses a risk to your organization’s data and the number of threats that exploit Basic Authentication continues to increase.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/microsoft-exchanges-basic-authentication-know-your-weaknesses/</guid>
       <pubDate>Mon, 18 Oct 2021 09:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diwali Shopping Season - Must-Know Tips to Protect Your Data &amp; Company</title>
-      <link>https://www.cyberproof.com/blog/tips-to-protect-your-data-throughout-the-diwali-shopping-season/</link>
-      <description>As consumers in India shop for Diwali, retailers have reason for concern, as a surge in online shopping also means an increase in cyber security threats.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/tips-to-protect-your-data-throughout-the-diwali-shopping-season/</guid>
-      <pubDate>Thu, 28 Oct 2021 07:13:04 +0000</pubDate>
     </item>
     <item>
       <title>Holiday Season Cyber Threats</title>
@@ -203,6 +196,13 @@
       <description>The American Chamber of Commerce hosted our President, Yuval Wollman for a fireside chat on the changing threat landscape in cybersecurity.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/cybersecurity-new-threats-new-models-interview-with-yuval-wollman/</guid>
       <pubDate>Tue, 13 Dec 2022 07:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 New Year’s resolutions for cybersecurity professionals</title>
+      <link>https://www.cyberproof.com/blog/8-new-years-resolutions-for-cybersecurity-professionals/</link>
+      <description>As increasing numbers of security professionals experience stress, fatigue, and burnout, it's important they prioritize their mental health.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/8-new-years-resolutions-for-cybersecurity-professionals/</guid>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Interview: What can we do to boost gender diversity in cybersecurity?</title>

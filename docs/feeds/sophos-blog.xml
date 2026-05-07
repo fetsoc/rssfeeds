@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 08:22:48 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft addresses 163 CVEs, 88 advisories for April Patch Tuesday</title>
-      <link>https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday</link>
-      <description>&lt;p&gt;Following a long-established pattern, the fourth month of the year is one of the cruelest&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; X-ops, Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Patch Tuesday&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v22 MR1 is now available</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr1-is-now-available</link>
-      <description>&lt;p&gt;Check out the full release notes for more details and a list of fixes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firewall, network, v22&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr1-is-now-available</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 13:48:55 +0000</lastBuildDate>
     <item>
       <title>Strengthening authentication with passkeys: A CISO playbook</title>
       <link>https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook</link>
@@ -70,6 +56,20 @@
       <description>&lt;p&gt;Prevent more. Respond faster. Spend smarter.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; incident response, Security Services Retainer&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-security-services-retainer</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donuts and Beagles: Fake Claude site spreads backdoor</title>
+      <link>https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor</link>
+      <description>&lt;p&gt;A malicious imitation of Anthropic’s Claude site leads to DLL sideloading – and a backdoor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Claude, Beagle, Backdoor, malvertising, AI, DONUT, DLL sideloading, Sophos X-Ops&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI-accelerated threat discovery is reshaping network security</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ai-network-security</link>
+      <description>&lt;p&gt;As vulnerabilities are discovered faster than ever, organizations must rethink how they reduce exposure and contain risk at the network edge.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, AI, Mythos&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-network-security</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

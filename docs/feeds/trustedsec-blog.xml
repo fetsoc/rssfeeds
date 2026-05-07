@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 08:22:46 +0000</lastBuildDate>
-    <item>
-      <title>Policy as Code: Stop Writing Policies and Start Compiling Them</title>
-      <link>https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</link>
-      <description>&amp;lt;p&amp;gt;The Problem Nobody Wants to Talk AboutLet me paint a picture most security leaders will recognize.You have 30+ policies living as Word documents on SharePoint. Half of them have filenames like…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</guid>
-      <pubDate>Thu, 26 Mar 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 13:48:51 +0000</lastBuildDate>
     <item>
       <title>Reduce Repetition and Free up Time With Mobile File Extractor</title>
       <link>https://trustedsec.com/blog/reduce-repetition-and-free-up-time-with-mobile-file-extractor</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Everyone is talking about LLMs finding zero days. That is not the only story. The story is what happens when you point these models at the defensive tools organizations depend on for first line defense. AI is changing…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/the-defensive-stack-is-exposed</guid>
       <pubDate>Tue, 05 May 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GRC in an AI World - Staying in the Fast Lane Without Losing the Race!</title>
+      <link>https://trustedsec.com/blog/grc-in-an-ai-world</link>
+      <description>&amp;lt;p&amp;gt;Artificial Intelligence (AI) is the new buzz word on the streets. It’s becoming “the best thing since sliced bread” in the IT world and is being used by everyone from executives to employees, students, and even young…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/grc-in-an-ai-world</guid>
+      <pubDate>Thu, 07 May 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
