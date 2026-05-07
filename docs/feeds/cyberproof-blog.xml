@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 13:48:37 +0000</lastBuildDate>
-    <item>
-      <title>8 Tips for Spotting Fake News</title>
-      <link>https://www.cyberproof.com/blog/8-tips-for-spotting-fake-news/</link>
-      <description>Fake news during COVID-19 is causing harm to social cohesion, creating political tension, and more, but it's easy to spot once you know how it works.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/8-tips-for-spotting-fake-news/</guid>
-      <pubDate>Sun, 10 May 2020 03:36:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Take On Forrester's New Research Around Managed Security Services</title>
-      <link>https://www.cyberproof.com/blog/forresters-new-recommendations-for-choosing-mss/</link>
-      <description>Forrester outlines the critical role of Managed Security Services for their customers, recognizing CyberProof as one of the pure-play providers.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/forresters-new-recommendations-for-choosing-mss/</guid>
-      <pubDate>Thu, 21 May 2020 06:04:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 19:36:46 +0000</lastBuildDate>
     <item>
       <title>Returning to the Office? 7 Data Hygiene and Security Monitoring Tips</title>
       <link>https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</link>
@@ -77,6 +63,13 @@
       <description>CyberProof uses Microsoft Sentinel SIEM to pinpoint customer-specific IOCs. Discover how this powerful tool helps prevent potential cyber threats.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/leveraging-microsoft-sentinel-siem-to-identify-customer-specific-iocs/</guid>
       <pubDate>Mon, 15 Feb 2021 03:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wargames – Reducing Cyber Risk with Cyber Attack Simulations</title>
+      <link>https://www.cyberproof.com/blog/wargames-reducing-cyber-risk-with-cyber-attack-simulations/</link>
+      <description>In this blog, read about how wargaming can refine the collaboration capabilities and cyber resilience within your security team</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/wargames-reducing-cyber-risk-with-cyber-attack-simulations/</guid>
+      <pubDate>Thu, 04 Mar 2021 08:54:33 +0000</pubDate>
     </item>
     <item>
       <title>Protecting Your Organization from Ransomware and Cyber Extortion</title>
@@ -231,6 +224,13 @@
       <description>In this blog, we’ll explore Aneesh Jayakumar's daily routine and gain insight into his perspectives on the challenges leading a security operations team.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/a-day-in-the-life-of-a-soc-manager-interview-with-aneesh-jayakumar/</guid>
       <pubDate>Mon, 27 Mar 2023 05:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitigating cloud transformation risk with cloud-native solutions</title>
+      <link>https://www.cyberproof.com/blog/mitigating-cloud-transformation-risk-with-cloud-native-solutions/</link>
+      <description>CyberProof's CEO discusses rising cyberattacks, evolving technology, and digital transformation of enterprise IT environments.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/mitigating-cloud-transformation-risk-with-cloud-native-solutions/</guid>
+      <pubDate>Wed, 10 May 2023 04:52:23 +0000</pubDate>
     </item>
     <item>
       <title>Using Handlebars to get the exact output structures you want from GPT4</title>
