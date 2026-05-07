@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 19:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:08:17 +0000</lastBuildDate>
     <item>
       <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
       <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
