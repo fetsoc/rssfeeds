@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 02:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:22:46 +0000</lastBuildDate>
     <item>
       <title>Policy as Code: Stop Writing Policies and Start Compiling Them</title>
       <link>https://trustedsec.com/blog/policy-as-code-stop-writing-policies-and-start-compiling-them</link>

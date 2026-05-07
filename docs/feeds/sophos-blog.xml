@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 02:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:22:48 +0000</lastBuildDate>
     <item>
       <title>Microsoft addresses 163 CVEs, 88 advisories for April Patch Tuesday</title>
       <link>https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday</link>
@@ -44,6 +44,13 @@
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</link>
+      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, Linux, Copy Fail&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AI just became the world's most dangerous exploit writer. Here's why Sophos Endpoint is built to stop it.</title>
       <link>https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</link>
       <description>&lt;p&gt;AI-generated zero-days are here. Sophos Endpoint was architected to stop exploits that have never been seen before — blocking the techniques every attack must use, at the moment of execution, with no signature, no cloud lookup, and no configuration required.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Endpoint, Sophos Endpoint, AI, Exploits, Zero Days, Mythos&lt;/p&gt;</description>
@@ -55,13 +62,6 @@
       <link>https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</link>
       <description>&lt;p&gt;How Sophos Endpoint defends in the AI era, and what the public record on Mythos shows.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Mythos, Sophos Endpoint, Endpoint, Exploits, Zero Days, AI&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>
-      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, Linux, Copy Fail&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
