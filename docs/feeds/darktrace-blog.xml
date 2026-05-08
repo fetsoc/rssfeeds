@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 07:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:14:16 +0000</lastBuildDate>
     <item>
       <title>Boosting Security with Azure Virtual Network TAP Traffic Mirroring</title>
       <link>https://www.darktrace.com/blog/boosting-security-with-azure-virtual-network-tap-traffic-mirroring</link>

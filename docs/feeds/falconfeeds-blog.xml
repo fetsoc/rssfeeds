@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 07:20:56 +0000</lastBuildDate>
-    <item>
-      <title>Global South, Global Threat: Rising Cybercriminal Syndicates in Under-Tracked Regions</title>
-      <link>https://falconfeeds.io/blogs/global-south-global-threat-rising-cybercriminal-syndicates-under-tracked-regions</link>
-      <description>Western CTI often fixates on the “Big 4” nation-states, but cybercriminal syndicates across LATAM, SEA, and Sub-Saharan Africa are rapidly industrializing fraud, malware, and money laundering—exposing a growing global visibility gap.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/global-south-global-threat-rising-cybercriminal-syndicates-under-tracked-regions</guid>
-      <pubDate>Mon, 09 Feb 2026 06:10:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 13:15:59 +0000</lastBuildDate>
     <item>
       <title>Threat Actor Genealogy: Mapping the Lineage Between Ransomware Groups, Access Brokers, and Initial Loader Crews</title>
       <link>https://falconfeeds.io/blogs/threat-actor-genealogy-lineage-ransomware-iabs-initial-loader-crews</link>
@@ -357,6 +350,13 @@
       <description>Learn how attackers impersonating LiveDNS Ltd are using typosquatted domains and fake renewal emails to steal payment information from Israeli domain owners.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/livedns-phishing-campaign-typosquatting-israeli-domain-users</guid>
       <pubDate>Fri, 08 May 2026 06:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazil 2026: Mapping Pre-Election Disinformation Infrastructure and Narrative Seeding</title>
+      <link>https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</link>
+      <description>Explore how narrative seeding and disinformation infrastructure are emerging ahead of the 2026 Brazilian presidential election through coordinated activity across X, TikTok, and Google Trends.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</guid>
+      <pubDate>Fri, 08 May 2026 12:22:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
