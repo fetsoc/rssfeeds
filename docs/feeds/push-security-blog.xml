@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 13:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 19:08:19 +0000</lastBuildDate>
     <item>
       <title>5 reasons why Push Security shouldn’t exist</title>
       <link>https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</link>
@@ -140,20 +140,6 @@
       <description>Consent phishing is where attackers trick users into authorizing access for malicious OAuth apps. Here's how attackers are using this technique in the wild.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/how-consent-phishing-is-evolving</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating a recent malvertising campaign against Onfido</title>
-      <link>https://pushsecurity.com/blog/investigating-a-recent-malvertising-campaign-targeting-onfido-customers</link>
-      <description>We recently investigated a malvertising campaign using Evilginx to target Onfido customers via Google ads.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/investigating-a-recent-malvertising-campaign-targeting-onfido-customers</guid>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Push Security Advisor Network (PSAN)</title>
-      <link>https://pushsecurity.com/blog/introducing-the-push-security-advisor-network-psan</link>
-      <description>Introducing a new era of partner-first phishing protection and identity security.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-the-push-security-advisor-network-psan</guid>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Navigating the 2025 HIPAA Security Rule changes</title>
@@ -357,6 +343,20 @@
       <description>We got an inside look at a phishing panel used in criminal campaigns linked to operators like ShinyHunters and BlackFile. Here’s what we found.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/inside-criminal-phishing-panel</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Browser &amp; Identity Attacks Matrix</title>
+      <link>https://pushsecurity.com/blog/introducing-the-browser-and-identity-attacks-matrix</link>
+      <description>We're re-releasing the SaaS attack matrix as the Browser &amp; Identity Attacks Matrix. Here's why we've decided to make the change and what it means.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-the-browser-and-identity-attacks-matrix</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How three techniques are behind ShinyHunters' 2026 campaigns</title>
+      <link>https://pushsecurity.com/blog/analyzing-the-instructure-breach</link>
+      <description>ShinyHunters' breach of Instructure is the latest in a long series of attacks. Here's our view of the big picture.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/analyzing-the-instructure-breach</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
