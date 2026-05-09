@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 19:06:52 +0000</lastBuildDate>
-    <item>
-      <title>Secure by Default: Built-In Cybersecurity Strategy</title>
-      <link>https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</link>
-      <description>Why Secure by Default goes beyond Secure by Design—reducing misconfiguration, complexity and risk through a unified security services platform.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</guid>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 02:08:53 +0000</lastBuildDate>
     <item>
       <title>Scam Alerts Deceiving Users to Download Harmful Android Applications</title>
       <link>https://www.sonicwall.com/blog/scam-alerts-deceiving-users-to-download-harmful-android-applications</link>
@@ -307,6 +301,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Critical CVSS 9.8 unauthenticated RCE in Google Mesop AI Sandbox /exec-py endpoint allows arbitrary Python execution. SonicWall IPS signature available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ransomware Chimera That Does Everything</title>
+      <link>https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</link>
+      <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
