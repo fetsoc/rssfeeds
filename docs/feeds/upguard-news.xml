@@ -7,147 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/upguard-news.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 02:30:33 +0000</lastBuildDate>
-    <item>
-      <title>Goulston &amp; Storrs data breach exposes expired driver’s licenses | UpGuard</title>
-      <link>https://www.upguard.com/news/goulston-storrs-data-breach-2026-04-20</link>
-      <description>A data breach involving Goulston &amp; Storrs was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/goulston-storrs-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockland Trust data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/rockland-trust-data-breach-2026-04-20</link>
-      <description>A data breach involving Rockland Trust was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/rockland-trust-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Markowitz Ringel Trusty + Hartog data breach exposes Social Security numbers | UpGuard</title>
-      <link>https://www.upguard.com/news/markowitz-ringel-trusty-hartog-data-breach-2026-04-20</link>
-      <description>A data breach involving Markowitz Ringel Trusty + Hartog was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/markowitz-ringel-trusty-hartog-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mazzola Mardon, P.C. data breach exposes names of affected individuals | UpGuard</title>
-      <link>https://www.upguard.com/news/mazzola-mardon-p-c-data-breach-2026-04-20</link>
-      <description>A data breach involving Mazzola Mardon, P.C. was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/mazzola-mardon-p-c-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hoshino data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/hoshino-data-breach-2026-04-20</link>
-      <description>A data breach involving Hoshino was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/hoshino-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scarsdale Investment Group, data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/scarsdale-investment-group-data-breach-2026-04-20</link>
-      <description>A data breach involving Scarsdale Investment Group, was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/scarsdale-investment-group-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auto Vista data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/auto-vista-data-breach-2026-04-20</link>
-      <description>A data breach involving Auto Vista was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/auto-vista-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grinex.io data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/grinex-io-data-breach-2026-04-20</link>
-      <description>A data breach involving grinex.io was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/grinex-io-data-breach-2026-04-20</guid>
-      <pubDate>Tue, 21 Apr 2026 06:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vercel data breach: ShinyHunters claims theft of internal database and secrets | UpGuard</title>
-      <link>https://www.upguard.com/news/vercel-data-breach-2026-04-21</link>
-      <description>A data breach involving Vercel was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/vercel-data-breach-2026-04-21</guid>
-      <pubDate>Thu, 23 Apr 2026 06:54:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Law Offices of Alan M. Cohen data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/law-offices-of-alan-m-cohen-data-breach-2026-04-26</link>
-      <description>A data breach involving Law Offices of Alan M. Cohen was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/law-offices-of-alan-m-cohen-data-breach-2026-04-26</guid>
-      <pubDate>Wed, 29 Apr 2026 02:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seabury data breach exposes Social Security numbers of over 1,700 individuals | UpGuard</title>
-      <link>https://www.upguard.com/news/seabury-data-breach-2026-04-26</link>
-      <description>A data breach involving Seabury was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/seabury-data-breach-2026-04-26</guid>
-      <pubDate>Wed, 29 Apr 2026 02:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>LPL Financial Holdings data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/lpl-financial-holdings-data-breach-2026-04-26</link>
-      <description>A data breach involving LPL Financial Holdings was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/lpl-financial-holdings-data-breach-2026-04-26</guid>
-      <pubDate>Wed, 29 Apr 2026 02:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auto Auction of New England data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/auto-auction-of-new-england-data-breach-2026-04-26</link>
-      <description>A data breach involving Auto Auction of New England was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/auto-auction-of-new-england-data-breach-2026-04-26</guid>
-      <pubDate>Wed, 29 Apr 2026 02:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Murray's Cheese data breach exposes Social Security numbers and health info | UpGuard</title>
-      <link>https://www.upguard.com/news/murray-s-cheese-data-breach-2026-04-26</link>
-      <description>A data breach involving Murray's Cheese was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/murray-s-cheese-data-breach-2026-04-26</guid>
-      <pubDate>Wed, 29 Apr 2026 02:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Universal Pure data breach exposes names and Social Security numbers | UpGuard</title>
-      <link>https://www.upguard.com/news/universal-pure-data-breach-2026-04-26</link>
-      <description>A data breach involving Universal Pure was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/universal-pure-data-breach-2026-04-26</guid>
-      <pubDate>Wed, 29 Apr 2026 02:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elementary Data data breach: supply chain attack compromises PyPI package | UpGuard</title>
-      <link>https://www.upguard.com/news/elementary-data-data-breach-2026-04-30</link>
-      <description>A data breach involving Elementary Data was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/elementary-data-data-breach-2026-04-30</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sandhills Medical Foundation, data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/sandhills-medical-foundation-data-breach-2026-04-30</link>
-      <description>A data breach involving Sandhills Medical Foundation, was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/sandhills-medical-foundation-data-breach-2026-04-30</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK Biobank data breach exposes health data of 500,000 volunteers | UpGuard</title>
-      <link>https://www.upguard.com/news/uk-biobank-data-breach-2026-04-30</link>
-      <description>A data breach involving UK Biobank was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/uk-biobank-data-breach-2026-04-30</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShinyHunters claims Asian Football Confederation data breach affecting 150,000 players | UpGuard</title>
-      <link>https://www.upguard.com/news/asian-football-confederation-data-breach-2026-04-30</link>
-      <description>A data breach involving Asian Football Confederation was reported in April 2026. See incident details, impact, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/asian-football-confederation-data-breach-2026-04-30</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amtrak data breach exposes over 2 million customer records | UpGuard</title>
-      <link>https://www.upguard.com/news/amtrak-data-breach-2026-04-30</link>
-      <description>A data breach involving Amtrak was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/amtrak-data-breach-2026-04-30</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 09:28:32 +0000</lastBuildDate>
     <item>
       <title>Johnson data breach exposes names and Social Security numbers | UpGuard</title>
       <link>https://www.upguard.com/news/johnson-data-breach-2026-04-30</link>
@@ -357,6 +217,146 @@
       <description>A data breach involving Suncoast One Title &amp; Closings was reported in May 2026. See incident details, impact, and recommended security measures.</description>
       <guid isPermaLink="false">https://www.upguard.com/news/punta-gorda-port-charlotte-north-port-fl-data-breach-2026-05-07</guid>
       <pubDate>Fri, 08 May 2026 00:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mizzou data breach: ShinyHunters claims attack on Canvas platform | UpGuard</title>
+      <link>https://www.upguard.com/news/mizzou-data-breach-2026-05-10</link>
+      <description>A data breach involving Mizzou was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/mizzou-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Oklahoma data breach: ShinyHunters claims attack on Canvas platform | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-oklahoma-data-breach-2026-05-10</link>
+      <description>A data breach involving University of Oklahoma was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-oklahoma-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims Indiana University data breach affecting Canvas users | UpGuard</title>
+      <link>https://www.upguard.com/news/indiana-university-data-breach-2026-05-10</link>
+      <description>A data breach involving Indiana University was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/indiana-university-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims Canvas data breach affecting students and faculty | UpGuard</title>
+      <link>https://www.upguard.com/news/canvas-data-breach-2026-05-10</link>
+      <description>A data breach involving Canvas was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/canvas-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Houston data breach: ShinyHunters claims attack on Canvas LMS | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-houston-data-breach-2026-05-10</link>
+      <description>A data breach involving University of Houston was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-houston-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Illinois Urbana-Champaign data breach: ShinyHunters claims attack via Canvas system | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-illinois-urbana-champaign-data-breach-2026-05-10</link>
+      <description>A data breach involving University of Illinois Urbana-Champaign was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-illinois-urbana-champaign-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:40:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims University of California data breach following Canvas platform hack | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-california-data-breach-2026-05-10</link>
+      <description>A data breach involving University of California was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-california-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>MESA Products hit by data breach – medium-severity incident reported | UpGuard</title>
+      <link>https://www.upguard.com/news/mesa-products-data-breach-2026-05-10</link>
+      <description>A data breach involving MESA Products was reported in March 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/mesa-products-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:48:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas Tech University hit by data breach involving ShinyHunters | UpGuard</title>
+      <link>https://www.upguard.com/news/texas-tech-university-data-breach-2026-05-10</link>
+      <description>A data breach involving Texas Tech University was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/texas-tech-university-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 05:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tilburg University data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/tilburg-university-data-breach-2026-05-10</link>
+      <description>A data breach involving Tilburg University was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/tilburg-university-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 06:37:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Houston ISD data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/houston-isd-data-breach-2026-05-10</link>
+      <description>A data breach involving Houston ISD was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/houston-isd-data-breach-2026-05-10</guid>
+      <pubDate>Mon, 11 May 2026 06:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Penn data breach: 306,000 records compromised in ShinyHunters attack | UpGuard</title>
+      <link>https://www.upguard.com/news/penn-data-breach-2026-05-11</link>
+      <description>A data breach involving Penn was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/penn-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims St. Petersburg College data breach affecting student and staff accounts | UpGuard</title>
+      <link>https://www.upguard.com/news/st-petersburg-college-data-breach-2026-05-11</link>
+      <description>A data breach involving St. Petersburg College was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/st-petersburg-college-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harvard University data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/harvard-university-data-breach-2026-05-11</link>
+      <description>A data breach involving Harvard University was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/harvard-university-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of California, Berkeley data breach: 600,000 records reportedly stolen | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-california-berkeley-data-breach-2026-05-11</link>
+      <description>A data breach involving University of California, Berkeley was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-california-berkeley-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims Liberty University data breach affecting student and staff information | UpGuard</title>
+      <link>https://www.upguard.com/news/liberty-university-data-breach-2026-05-11</link>
+      <description>A data breach involving Liberty University was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/liberty-university-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duke University data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/duke-university-data-breach-2026-05-11</link>
+      <description>A data breach involving Duke University was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/duke-university-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Toronto data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-toronto-data-breach-2026-05-11</link>
+      <description>A data breach involving University of Toronto was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-toronto-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:48:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Minnesota data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/university-of-minnesota-data-breach-2026-05-11</link>
+      <description>A data breach involving University of Minnesota was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/university-of-minnesota-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:52:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShinyHunters claims Utah data breach affecting student personal information | UpGuard</title>
+      <link>https://www.upguard.com/news/utah-data-breach-2026-05-11</link>
+      <description>A data breach involving Utah was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/utah-data-breach-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 07:55:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

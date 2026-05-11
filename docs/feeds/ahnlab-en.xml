@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 02:30:44 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 2, March 2026</title>
-      <link>https://asec.ahnlab.com/en/92888/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, March 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Qilin ransomware attack targeting a well-known dermatology clinic in South Korea and the Korean branch of a global advertising company [1], [2] KillSec and Everest ransomware attacks targeting a South Korean exhibition management platform and an elevator manufacturer [1], [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92888/</guid>
-      <pubDate>Wed, 11 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winos4.0 Malware Disguised as KakaoTalk Installer</title>
-      <link>https://asec.ahnlab.com/en/92971/</link>
-      <description>Distribution Method &amp;#8211; SEO Poisoning Typically, people perceive the sites that appear at the top of Google search results as the &amp;#8220;most authoritative and official&amp;#8221; sites. however, threat actors are playing on the psychology of such users, manipulating the search engine&amp;#8217;s algorithms to place malicious sites at the top. SEO poisoning is an attack technique [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92971/</guid>
-      <pubDate>Sun, 15 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>February 2026 APT Attack Trends Report (South Korea)</title>
-      <link>https://asec.ahnlab.com/en/92972/</link>
-      <description>Overview. ahnLab monitored APT attacks against domestic targets during the month of February 2026 through its infrastructure. this report summarizes the classification, statistics, and features of each type of domestic APT attacks identified during the period. APT Domestic Attack Trends. we found that most of the infiltrations were carried out through spear phishing emails. in [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/92972/</guid>
-      <pubDate>Wed, 18 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 09:28:34 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, March 2026</title>
       <link>https://asec.ahnlab.com/en/92978/</link>
@@ -217,6 +196,27 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Guatemalan Government Agency Data Sold on DarkForums BlackWater Ransomware Attack Targets Chinese Auto Parts Manufacturer Japanese Fintech Firm Suffers Unauthorized GitHub Access</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93616/</guid>
       <pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web Threat Actor Trend Report, April 2026</title>
+      <link>https://asec.ahnlab.com/en/93634/</link>
+      <description>Notes the April 2026 Dark Web Threat Actor Trend Report summarizes trends in hacktivists and threat actors operating on the deep web and dark web. due to the nature of the sources, some of the information is difficult to fully verify as factual. Major Issues NoName05716 claimed repeated DDoS attacks against dozens of organizations, including [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93634/</guid>
+      <pubDate>Sun, 10 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2026 Dark Web Issue Trend Report</title>
+      <link>https://asec.ahnlab.com/en/93633/</link>
+      <description>Notes the April 2026 Dark Web Issue Trend Report summarizes the Major Issues that occurred on the deep web and dark web. due to the nature of the sources, some of the information is difficult to fully verify. Major Issues BreachForums continued its relaunch with a new domain and repeated operational update announcements. at the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93633/</guid>
+      <pubDate>Sun, 10 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/93628/</link>
+      <description>Notes the April 2026 Dark Web Breach Incident Trend Report is compiled from data breach cases posted on the deep web and dark web forums. some information is included in cases where it is difficult to fully verify the factuality of the information due to the nature of the source. Major Issues data breaches and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93628/</guid>
+      <pubDate>Sun, 10 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
