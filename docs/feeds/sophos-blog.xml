@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 14:40:07 +0000</lastBuildDate>
-    <item>
-      <title>Supply chain attacks hit Checkmarx and Bitwarden developer tools</title>
-      <link>https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools</link>
-      <description>&lt;p&gt;Two supply chain attacks, same day, same command-and-control domain&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Supply chain, Sophos X-Ops, pipeline, Bitwarden, Checkmarx&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Mini Shai-Hulud' supply chain attack targets SAP npm packages</title>
-      <link>https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, NPM, SAP&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 May 2026 19:31:29 +0000</lastBuildDate>
     <item>
       <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>
       <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</link>
@@ -30,17 +16,17 @@
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI just became the world's most dangerous exploit writer. Here's why Sophos Endpoint is built to stop it.</title>
-      <link>https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</link>
-      <description>&lt;p&gt;AI-generated zero-days are here. Sophos Endpoint was architected to stop exploits that have never been seen before — blocking the techniques every attack must use, at the moment of execution, with no signature, no cloud lookup, and no configuration required.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Endpoint, Sophos Endpoint, AI, Exploits, Zero Days, Mythos&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI finds the vulnerabilities, but exploiting them is a different problem.</title>
       <link>https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</link>
       <description>&lt;p&gt;How Sophos Endpoint defends in the AI era, and what the public record on Mythos shows.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Mythos, Sophos Endpoint, Endpoint, Exploits, Zero Days, AI&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI just became the world's most dangerous exploit writer. Here's why Sophos Endpoint is built to stop it.</title>
+      <link>https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</link>
+      <description>&lt;p&gt;AI-generated zero-days are here. Sophos Endpoint was architected to stop exploits that have never been seen before — blocking the techniques every attack must use, at the moment of execution, with no signature, no cloud lookup, and no configuration required.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Endpoint, Sophos Endpoint, AI, Exploits, Zero Days, Mythos&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-zero-days-sophos-endpoint</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,6 +56,20 @@
       <description>&lt;p&gt;Sophos recognized across four leadership categories: Overall, Product, Innovation, and Market&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; MDR, KuppingerCole&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-leader-kuppingercole-mdr-2026</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware: AI changes the writer. It doesn't change the math.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ransomware-ai</link>
+      <description>&lt;p&gt;Why most endpoint protection still treats ransomware as just another piece of malware, and what changes when you watch the data instead of the attacker.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Ransomware, Endpoint, Sophos Endpoint, EDR, AI, artificial intelligence&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ransomware-ai</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.5-Cyber is here. What it means for defenders operating at the frontier.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-chatgpt-cyber</link>
+      <description>&lt;p&gt;OpenAI’s May 7 release of GPT-5.5 and the limited preview of GPT-5.5-Cyber put frontier AI in verified defenders’ hands. As a member of the Trusted Access for Cyber program, Sophos is using these models to sharpen what we already operate: an agentic SOC that resolves more than half of cases without a human, and an endpoint architecture purpose-built to stop AI-generated zero-days.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ChatGPT, AI, artificial intelligence&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-chatgpt-cyber</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
