@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 14:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:31:42 +0000</lastBuildDate>
     <item>
       <title>5 reasons why Push Security shouldn’t exist</title>
       <link>https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</link>
@@ -345,18 +345,18 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing the Browser &amp; Identity Attacks Matrix</title>
-      <link>https://pushsecurity.com/blog/introducing-the-browser-and-identity-attacks-matrix</link>
-      <description>We're re-releasing the SaaS attack matrix as the Browser &amp; Identity Attacks Matrix. Here's why we've decided to make the change and what it means.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-the-browser-and-identity-attacks-matrix</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How three techniques are behind ShinyHunters' 2026 campaigns</title>
       <link>https://pushsecurity.com/blog/analyzing-the-instructure-breach</link>
       <description>ShinyHunters' breach of Instructure is the latest in a long series of attacks. Here's our view of the big picture.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/analyzing-the-instructure-breach</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we built an agentic threat hunting pipeline at Push</title>
+      <link>https://pushsecurity.com/blog/can-ai-replace-a-threat-researcher-what-we-learned-building-an-agentic-threat-hunting-pipeline</link>
+      <description>How we built an end-to-end threat hunting and detection engineering capability at Push that uses AI agents as a force multiplier.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/can-ai-replace-a-threat-researcher-what-we-learned-building-an-agentic-threat-hunting-pipeline</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

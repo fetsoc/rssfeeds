@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 14:00:39 +0000</lastBuildDate>
-    <item>
-      <title>Announcing Hunt 2.3: Improved Threat Hunting Experience &amp; SSO Availability</title>
-      <link>https://hunt.io/blog/announcing-hunt-2-3</link>
-      <description>Hunt 2.3 is here: analyst-driven insights, easier pivots, better phishing workflows, and full SSO support for enterprise teams.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-3</guid>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 19:29:29 +0000</lastBuildDate>
     <item>
       <title>Threat Hunting at Scale: Explore 10.6B URLs to Find Payloads, C2s, and Exposed Assets with URLx</title>
       <link>https://hunt.io/blog/threat-hunting-with-urlx</link>
@@ -357,6 +350,13 @@
       <description>An exposed UAE-hosted VPS revealed an Iranian-nexus operation against Oman's government, with 26,000 citizen records pulled from the Justice Ministry.</description>
       <guid isPermaLink="false">https://hunt.io/blog/iranian-nexus-oman-government-intrusion</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-32975: The Open Directory Behind the KACE SMA Breach and 60+ Downstream Victims</title>
+      <link>https://hunt.io/blog/cve-2025-32975-quest-kace-sma-open-directory-60-victims</link>
+      <description>Hunt.io captured an open directory exposing the attacker's complete post-exploitation toolkit and a 512 MB database dump from an MSP managing 60+ client organizations - all staged three days after CVE-2025-32975 exploitation began.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/cve-2025-32975-quest-kace-sma-open-directory-60-victims</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
