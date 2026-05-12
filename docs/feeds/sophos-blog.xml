@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 08:31:04 +0000</lastBuildDate>
-    <item>
-      <title>Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)</title>
-      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</link>
-      <description>&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; advisory, Linux, Copy Fail&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 14:04:06 +0000</lastBuildDate>
     <item>
       <title>AI finds the vulnerabilities, but exploiting them is a different problem.</title>
       <link>https://www.sophos.com/en-us/blog/sophos-endpoint-mythos-ai</link>
@@ -53,7 +46,7 @@
     <item>
       <title>Sophos named a Leader in the KuppingerCole Analysts Leadership Compass for Managed Detection and Response 2026</title>
       <link>https://www.sophos.com/en-us/blog/sophos-leader-kuppingercole-mdr-2026</link>
-      <description>&lt;p&gt;Sophos recognized across four leadership categories: Overall, Product, Innovation, and Market&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; MDR, KuppingerCole&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sophos recognized across four leadership categories: Overall, Product, Innovation, and Market.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; MDR, KuppingerCole&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-leader-kuppingercole-mdr-2026</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;OpenAI’s May 7 release of GPT-5.5 and the limited preview of GPT-5.5-Cyber put frontier AI in verified defenders’ hands. As a member of the Trusted Access for Cyber program, Sophos is using these models to sharpen what we already operate: an agentic SOC that resolves more than half of cases without a human, and an endpoint architecture purpose-built to stop AI-generated zero-days.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ChatGPT, AI, artificial intelligence&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-chatgpt-cyber</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Identity Security 2026: Identity is the new perimeter</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</link>
+      <description>&lt;p&gt;Discover the causes and consequences of identity threats based on a survey of 5,000 organizations across 17 countries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; identity, Identity Security, Ransomware&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

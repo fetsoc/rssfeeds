@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 08:31:00 +0000</lastBuildDate>
-    <item>
-      <title>Chile’s Cybersecurity Framework Law: How SOCs Achieve Compliance and Response Readiness</title>
-      <link>https://any.run/cybersecurity-blog/chile-cybersecurity-framework-law/</link>
-      <description>&lt;p&gt;In Chile, cybersecurity compliance is becoming an operational issue, not just a legal one. Under the new Cybersecurity Framework Law, organizations must show they have real capabilities for threat detection, incident analysis, and response. For many teams, that exposes a serious gap between regulatory expectations and day-to-day security operations.&amp;#160; Key Takeaways&amp;#160; The Regulatory&amp;#160;Shift&amp;#160; Chile has [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/chile-cybersecurity-framework-law/" rel="nofollow"&gt;Chile’s Cybersecurity Framework Law: How SOCs Achieve Compliance and Response Readiness&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/chile-cybersecurity-framework-law/</guid>
-      <pubDate>Wed, 15 Apr 2026 11:18:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 14:04:00 +0000</lastBuildDate>
     <item>
       <title>BlobPhish: The Phantom Phishing Campaign Hiding in Browser Memory</title>
       <link>https://any.run/cybersecurity-blog/evasive-blob-phishing-detection/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/" rel="nofollow"&gt;How CISOs Reduce Cyber Risk with MITRE ATT&amp;amp;CK &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</guid>
       <pubDate>Wed, 06 May 2026 09:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN &amp; Elastic Security: Bring Threat Intelligence into Detection and Investigation Workflows</title>
+      <link>https://any.run/cybersecurity-blog/anyrun-elastic-security/</link>
+      <description>&lt;p&gt;Security teams&amp;#160;don’t&amp;#160;lack data. They lack&amp;#160;timely, usable intelligence. Analysts spend too much time&amp;#160;validating&amp;#160;indicators, switching between tools, and figuring out what&amp;#160;actually matters. This introduces delays and puts organizations at risk of a missed incident.&amp;#160;&amp;#160; ANY.RUN&amp;#160;solves this by bringing real-time, behavior-validated threat intelligence from ANY.RUN integrated into&amp;#160;Elastic Security,&amp;#160;where&amp;#160;SOC&amp;#160;and MSSP teams detect emerging cyberattacks earlier and respond faster without [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-elastic-security/" rel="nofollow"&gt;ANY.RUN &amp;amp; Elastic Security: Bring Threat Intelligence into Detection and Investigation Workflows      &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-elastic-security/</guid>
+      <pubDate>Tue, 12 May 2026 11:15:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
