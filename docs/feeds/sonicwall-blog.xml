@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 02:14:22 +0000</lastBuildDate>
-    <item>
-      <title>Scam Alerts Deceiving Users to Download Harmful Android Applications</title>
-      <link>https://www.sonicwall.com/blog/scam-alerts-deceiving-users-to-download-harmful-android-applications</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/scam-alerts-deceiving-users-to-download-harmful-android-applications</guid>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 08:29:29 +0000</lastBuildDate>
     <item>
       <title>Why Your "Unmovable" Assets Need Zero Trust Access with SMA 1000</title>
       <link>https://www.sonicwall.com/blog/why-your-unmovable-assets-need-zero-trust-access-with-sma-1000</link>
@@ -308,6 +303,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Virtual Firewalls Are Now Essential: Key Trends Driving Adoption</title>
+      <link>https://www.sonicwall.com/blog/key-trends-and-drivers-shaping-the-adoption-of-virtual-firewalls</link>
+      <description>Cloud migration, hybrid work, Zero Trust, and AI-driven threats are forcing IT teams to rethink network security. Here are the key trends making virtual firewalls indispensable — and what IT admins need to know now.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/key-trends-and-drivers-shaping-the-adoption-of-virtual-firewalls</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
