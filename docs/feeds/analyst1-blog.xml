@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 19:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:37:12 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -20,13 +20,6 @@
       <description>Empower analysts, revolutionize cybersecurity defense. Analyst1: the next-gen threat intelligence platform. Take action, boost security posture!</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</guid>
       <pubDate>Tue, 11 Aug 2020 01:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defense Innovation Unit (DIU) Chooses Analyst1 to Aid in its Transformation of Cyber Defense Operations | Analyst1</title>
-      <link>https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</link>
-      <description>Defense Innovation Unit selects Analyst1 to transform cyber defense operations. Gain insights, enhance threat detection, and strengthen national security.</description>
-      <guid isPermaLink="false">https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</guid>
-      <pubDate>Thu, 13 Aug 2020 01:01:13 +0000</pubDate>
     </item>
     <item>
       <title>SC Media Group Test Review | Analyst1</title>
@@ -99,6 +92,13 @@
       <pubDate>Fri, 14 May 2021 01:01:34 +0000</pubDate>
     </item>
     <item>
+      <title>New Ransomware Turns to Disruption and Sabotage | Analyst1</title>
+      <link>https://analyst1.com/new-ransomware-turns-to-disruption-and-sabotage/</link>
+      <description>New Ransomware: RyukRans - a destructive variant that overwrites victim data. Explore the implications of this emerging cyber threat on Analyst1.</description>
+      <guid isPermaLink="false">https://analyst1.com/new-ransomware-turns-to-disruption-and-sabotage/</guid>
+      <pubDate>Tue, 01 Jun 2021 01:01:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Be the 1 to Put Skin in the Game | Analyst1</title>
       <link>https://analyst1.com/be-the-1-to-put-skin-in-the-game/</link>
       <description>Discover the rewards and challenges of working at a small, agile company. Experience the excitement of taking initiative and swarming problems.</description>
@@ -111,13 +111,6 @@
       <description>Discover the power of sharing knowledge with Analyst1 - a balanced approach using Slack and Confluence. Put skin in the game and own the results.</description>
       <guid isPermaLink="false">https://analyst1.com/be-the-1-to-put-skin-in-the-game-2/</guid>
       <pubDate>Mon, 21 Jun 2021 01:01:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Absolute Ransom: Nation-State Ransomware | Analyst1</title>
-      <link>https://analyst1.com/absolute-ransom-nation-state-ransomware/</link>
-      <description>Uncover the alleged ties between Russian government and ransomware attacks. Explore Absolute Ransom: Nation-State Ransomware for the truth.</description>
-      <guid isPermaLink="false">https://analyst1.com/absolute-ransom-nation-state-ransomware/</guid>
-      <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
     </item>
     <item>
       <title>Dark Web - Justice League | Analyst1</title>
@@ -134,11 +127,11 @@
       <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
     </item>
     <item>
-      <title>A Behind the Scenes Look into Investigating Conti Leaks | Analyst1</title>
-      <link>https://analyst1.com/a-behind-the-scenes-look-into-investigating-conti-leaks/</link>
-      <description>Uncover Conti leaks, delve into the investigation, and explore the shocking revelations behind one of the most successful ransomware gangs.</description>
-      <guid isPermaLink="false">https://analyst1.com/a-behind-the-scenes-look-into-investigating-conti-leaks/</guid>
-      <pubDate>Mon, 21 Mar 2022 01:01:35 +0000</pubDate>
+      <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
+      <link>https://analyst1.com/north-korea-intelligence-assessment-2022/</link>
+      <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
+      <guid isPermaLink="false">https://analyst1.com/north-korea-intelligence-assessment-2022/</guid>
+      <pubDate>Tue, 22 Feb 2022 01:01:46 +0000</pubDate>
     </item>
     <item>
       <title>Why North Korea Steals Money | Analyst1</title>
@@ -169,13 +162,6 @@
       <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
-      <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
-      <link>https://analyst1.com/what-is-intelligence-analyst/</link>
-      <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-intelligence-analyst/</guid>
-      <pubDate>Thu, 11 May 2023 11:53:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransomware Resources | Analyst1</title>
       <link>https://analyst1.com/ransomware-resources/</link>
       <description>Discover a collection of insightful resources on ransomware, including gripping origin stories and comprehensive reports. Explore the world of cyber warfare.</description>
@@ -190,11 +176,18 @@
       <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
-      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
-      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
+      <title>What Is Lateral Movement in Cybersecurity?</title>
+      <link>https://analyst1.com/what-is-lateral-movement/</link>
+      <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
+      <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
+      <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
+      <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
+      <guid isPermaLink="false">https://analyst1.com/global-cyberattack-on-the-us-government/</guid>
+      <pubDate>Wed, 13 Sep 2023 20:32:03 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
@@ -209,6 +202,13 @@
       <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
       <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
       <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
+      <link>https://analyst1.com/why-made-in-the-usa-matters-in-cybersecurity/</link>
+      <description>Discover why choosing U.S.-made cybersecurity tools is vital for data security, quality control, and addressing geopolitical risks.</description>
+      <guid isPermaLink="false">https://analyst1.com/why-made-in-the-usa-matters-in-cybersecurity/</guid>
+      <pubDate>Wed, 06 Dec 2023 14:38:48 +0000</pubDate>
     </item>
     <item>
       <title>What is MITRE ATT&amp;CK? | Analyst1</title>
@@ -260,11 +260,25 @@
       <pubDate>Thu, 15 Aug 2024 15:08:16 +0000</pubDate>
     </item>
     <item>
+      <title>Why SOAR is Not a Replacement for a TIP | Analyst1</title>
+      <link>https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</link>
+      <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
+      <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
+      <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
       <link>https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</link>
       <description>Understanding why threat intelligence should play into corporate risk management is a key that every organization needs to have.</description>
       <guid isPermaLink="false">https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</guid>
       <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence Lifecycle | Analyst1</title>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-1/</link>
+      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-1/</guid>
+      <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
@@ -302,6 +316,13 @@
       <pubDate>Fri, 31 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Threat Intelligence Lifecycle | Analyst1</title>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-v/</link>
+      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-v/</guid>
+      <pubDate>Mon, 10 Feb 2025 21:01:33 +0000</pubDate>
+    </item>
+    <item>
       <title>A Step Above: Why Analyst1 is CISA's Threat Intelligence Platform of Choice | Analyst1</title>
       <link>https://analyst1.com/a-step-above-why-analyst1-is-cisas-threat-intelligence-platform-of-choice/</link>
       <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
@@ -323,39 +344,18 @@
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Named to Inc. 5000 Mid-Atlantic Fastest-Growing Companies List for Second Consecutive Year | Analyst1</title>
-      <link>https://analyst1.com/analyst1-named-to-inc-5000-mid-atlantic-fastest-growing-companies-list-for-second-consecutive-year/</link>
-      <description>Cybersecurity Leader Secures #86 Spot in 2025 Rankings, Highlighting Continued Growth and Innovation Analyst1, a leading provider of advanced threat intelligence and cybersecurity solutions, today announced it has been named to the Inc. 5000 Regionals: Mid-Atlantic list of the fastest-growing private companies for the second consecutive year, ranking #86 in the 2025 list. This achievement […]</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-named-to-inc-5000-mid-atlantic-fastest-growing-companies-list-for-second-consecutive-year/</guid>
-      <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
+      <title>5 Actionable Cyber Threat Analysis Techniques You Need to Know | Analyst1</title>
+      <link>https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</link>
+      <description>Explore practical threat analysis techniques in this white paper to help your security team detect, prioritize, and neutralize cyber threats before they escalate. Download the white paper today.</description>
+      <guid isPermaLink="false">https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</guid>
+      <pubDate>Mon, 19 May 2025 18:49:48 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Unveils Version 2.12.0: Enhanced Intelligence Access, Streamlined Workflows, and Broader MITRE ATT&amp;CK Integration  | Analyst1</title>
-      <link>https://analyst1.com/analyst1-unveils-version-2-12-0/</link>
-      <description>Analyst1 Unveils Version 2.12.0: Enhanced Intelligence Access, Streamlined Workflows, and Broader MITRE ATT&amp;CK Integration. Learn more today.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-version-2-12-0/</guid>
-      <pubDate>Wed, 13 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remember the Hive…I Mean Hunters International: Trying to Frame the Group Dynamics of Ransomware Gang Turnover | Analyst1</title>
-      <link>https://analyst1.com/remember-the-hivei-mean-hunters-international-trying-to-frame-the-group-dynamics-of-ransomware-gang-turnover/</link>
-      <description>This article dives into ransomware gangs now offering legal assistance as a support options to their crimes. Check it out today!</description>
-      <guid isPermaLink="false">https://analyst1.com/remember-the-hivei-mean-hunters-international-trying-to-frame-the-group-dynamics-of-ransomware-gang-turnover/</guid>
-      <pubDate>Thu, 11 Sep 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1 Unveils Version 2.12.2 with AI-Powered Summaries, Enhanced Indicator Tagging, and Expanded Security Updates  | Analyst1</title>
-      <link>https://analyst1.com/analyst1-unveils-version-2-12-2-with-ai-powered-summaries-enhanced-indicator-tagging-and-expanded-security-updates/</link>
-      <description>Analyst1 Unveils Version 2.12.0: Enhanced Intelligence Access, Streamlined Workflows, and Broader MITRE ATT&amp;CK Integration. Learn more today.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-version-2-12-2-with-ai-powered-summaries-enhanced-indicator-tagging-and-expanded-security-updates/</guid>
-      <pubDate>Thu, 18 Sep 2025 18:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Devman's RaaS Launch: The Affiliate Who Aims to Become the Boss</title>
-      <link>https://analyst1.com/devmans-raas-launch-the-affiliate-who-aims-to-become-the-boss/</link>
-      <description>Jon DiMaggio interviews the new affiliate who aims to be the boss: Devman. Dive into the exploration of this new syndicate now.</description>
-      <guid isPermaLink="false">https://analyst1.com/devmans-raas-launch-the-affiliate-who-aims-to-become-the-boss/</guid>
-      <pubDate>Wed, 15 Oct 2025 15:02:37 +0000</pubDate>
+      <title>Leading University Protects Its Research with Help From Analyst1 | Analyst1</title>
+      <link>https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</link>
+      <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
+      <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
+      <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
