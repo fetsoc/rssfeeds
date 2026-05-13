@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 19:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:30:06 +0000</lastBuildDate>
     <item>
       <title>Introducing the Sophos Security Services Retainer</title>
       <link>https://www.sophos.com/en-us/blog/sophos-security-services-retainer</link>
@@ -65,7 +65,7 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inside the lethal trifecta: Blast radius reduction in AI agent deployments</title>
+      <title>Operating inside the lethal trifecta: Blast radius reduction in AI agent deployments</title>
       <link>https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</link>
       <description>&lt;p&gt;Seven things security teams can start doing today to reduce risk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, CISO, risk&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</guid>
