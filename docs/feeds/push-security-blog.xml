@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 14:13:04 +0000</lastBuildDate>
-    <item>
-      <title>5 reasons why Push Security shouldn’t exist</title>
-      <link>https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</link>
-      <description>Breaking down common misconceptions about identity threats and controls like MFA, SSO, passkeys, password managers, and more.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</guid>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 19:49:50 +0000</lastBuildDate>
     <item>
       <title>Analyzing AitM phish kits and the ways they evade detection</title>
       <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection</link>
@@ -356,6 +349,13 @@
       <link>https://pushsecurity.com/blog/how-to-avoid-the-browser-security-buyers-trap</link>
       <description>Securing the browser vs. securing the organization via the browser — what's the difference?</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/how-to-avoid-the-browser-security-buyers-trap</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 things Omdia's latest report tells us about the SEB market</title>
+      <link>https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market</link>
+      <description>Unpacking the latest research report from Omdia and what it means for the secure enterprise browser market.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
