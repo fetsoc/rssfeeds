@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 08:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:13:13 +0000</lastBuildDate>
     <item>
       <title>New Lazarus APT Campaign: “Mach-O Man” macOS Malware Kit Hits Businesses</title>
       <link>https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/</link>
@@ -83,7 +83,7 @@
     <item>
       <title>New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/soc-ready-reporting/</link>
-      <description>&lt;p&gt;Successful SOC operations&amp;#160;require&amp;#160;more than&amp;#160;accurate&amp;#160;detections.&amp;#160;Instant access to context, clear conclusions,&amp;#160;and&amp;#160;operationally relevant insights allow incidents to move&amp;#160;across&amp;#160;workflows&amp;#160;without delays:&amp;#160; Making&amp;#160;ANY.RUN’s Interactive Sandbox&amp;#160;a part of your standard&amp;#160;SOC&amp;#160;workflow&amp;#160;helps&amp;#160;eliminate&amp;#160;bottlenecks that&amp;#160;occur along the incident&amp;#160;lifecycle by contributing to the optimization of each&amp;#160;process, decision,&amp;#160;and&amp;#160;report.&amp;#160; SOC-ready Tier 1 reports turn&amp;#160;complex sandboxing&amp;#160;analysis into&amp;#160;structured, decision-ready&amp;#160;intelligence&amp;#160;for&amp;#160;faster, efficient&amp;#160;triage, escalation, response,&amp;#160;and&amp;#160;reporting.&amp;#160; Executive Summary&amp;#160; Challenges&amp;#160;SOC Teams Face Today&amp;#160;&amp;#160; With SOC teams [&amp;#8230;]&lt;/p&gt;
+      <description>&lt;p&gt;Successful SOC operations&amp;#160;require&amp;#160;more than&amp;#160;accurate&amp;#160;detections.&amp;#160;Instant access to context, clear conclusions,&amp;#160;and&amp;#160;operationally relevant insights allow incidents to move&amp;#160;across&amp;#160;workflows&amp;#160;without delays:&amp;#160; Making ANY.RUN’s Interactive Sandbox a part of your standard SOC workflow helps eliminate bottlenecks that occur along the incident lifecycle by contributing to the optimization of each process, decision, and report. SOC-ready Tier 1 reports turn&amp;#160;complex sandboxing&amp;#160;analysis into&amp;#160;structured, decision-ready&amp;#160;intelligence&amp;#160;for&amp;#160;faster, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-ready-reporting/" rel="nofollow"&gt;New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-ready-reporting/</guid>
       <pubDate>Wed, 13 May 2026 08:02:03 +0000</pubDate>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 08:38:07 +0000</lastBuildDate>
-    <item>
-      <title>The Cyber Cold War 2.0: Mapping Nation-State Influence Through Coordinated Threat Campaigns</title>
-      <link>https://falconfeeds.io/blogs/cyber-cold-war-2-0-nation-state-influence-coordinated-threat-campaigns</link>
-      <description>Cyber Cold War 2.0 is here: how CRINK states use coordinated cyber campaigns—pre-positioning, hybrid sabotage, and AI-driven cognitive ops—to shape global power through 2030.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-cold-war-2-0-nation-state-influence-coordinated-threat-campaigns</guid>
-      <pubDate>Mon, 09 Feb 2026 06:48:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 14:13:11 +0000</lastBuildDate>
     <item>
       <title>Diplomacy Disrupted: The Cyber Siege on International Negotiations, Peace Talks, and Summits</title>
       <link>https://falconfeeds.io/blogs/diplomacy-disrupted-cyber-siege-international-negotiations-peace-talks-summits</link>
@@ -357,6 +350,13 @@
       <description>Explore how NoName057(16) evolved beyond DDoS attacks into a geopolitical pressure instrument, synchronizing cyber disruption with political events across Europe and NATO-aligned states.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/beyond-ddos-noname05716-geopolitical-pressure-analysis</guid>
       <pubDate>Wed, 13 May 2026 05:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-8302: China-Linked APT Deploying Shared Malware Arsenal Against Governments Across Three Continents</title>
+      <link>https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</link>
+      <description>Explore how UAT-8302 leverages shared malware ecosystems, custom implants, and stealth persistence techniques to target government entities across multiple continents.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</guid>
+      <pubDate>Wed, 13 May 2026 10:13:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

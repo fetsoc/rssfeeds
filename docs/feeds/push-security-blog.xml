@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 08:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:13:04 +0000</lastBuildDate>
     <item>
       <title>5 reasons why Push Security shouldn’t exist</title>
       <link>https://pushsecurity.com/blog/5-reasons-why-push-security-shouldnt-exist</link>
@@ -119,13 +119,6 @@
       <description>We're back with part 2 of our research into OpenAI Operator to share our findings on how it can be used to automate identity attacks.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/5-ways-attackers-can-use-computer-using-agents-to-automate-identity-attacks</guid>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enforce strong passwords at the point of login</title>
-      <link>https://pushsecurity.com/blog/introducing-strong-password-enforcement</link>
-      <description>Detects when employees have weak, reused, or stolen passwords and guide them to update their password using in-browser messaging on any app.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-strong-password-enforcement</guid>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dissecting a recent MailChimp phishing attack</title>
@@ -357,6 +350,13 @@
       <description>How we built an end-to-end threat hunting and detection engineering capability at Push that uses AI agents as a force multiplier.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/can-ai-replace-a-threat-researcher-what-we-learned-building-an-agentic-threat-hunting-pipeline</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to avoid the browser security buyer's trap</title>
+      <link>https://pushsecurity.com/blog/how-to-avoid-the-browser-security-buyers-trap</link>
+      <description>Securing the browser vs. securing the organization via the browser — what's the difference?</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/how-to-avoid-the-browser-security-buyers-trap</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
