@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 19:48:36 +0000</lastBuildDate>
-    <item>
-      <title>October 2025 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/october-2025-web-server-survey</link>
-      <description>In the October 2025 survey we received responses from 1,354,989,060 sites across 287,483,538 domains and 13,889,556 web-facing computers. This refl...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/october-2025-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 02:31:18 +0000</lastBuildDate>
     <item>
       <title>6 Best Brand Protection Platforms for 2025: Safeguard Your Online Reputation</title>
       <link>https://www.netcraft.com/blog/6-best-brand-protection-platforms-for-defending-your-company-s-online-reputation</link>
@@ -253,6 +247,12 @@
       <link>https://www.netcraft.com/blog/drps-vs-brand-protection</link>
       <description>Learn the key differences between DRPs vs brand protection — and how modern SOCs stop attacks in real time.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/drps-vs-brand-protection</guid>
+    </item>
+    <item>
+      <title>April 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/april-2026-web-server-survey</link>
+      <description>In the April 2026 survey we received responses from 1,433,742,238 sites across 299,194,059 domains and 14,198,148 web-facing computers. This reflec...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/april-2026-web-server-survey</guid>
     </item>
     <item>
       <title>Phishing Takedown Speed: Why Time-to-Resolution Matters Most</title>
