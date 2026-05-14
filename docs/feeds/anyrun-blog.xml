@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 08:32:15 +0000</lastBuildDate>
-    <item>
-      <title>New Lazarus APT Campaign: “Mach-O Man” macOS Malware Kit Hits Businesses</title>
-      <link>https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/</link>
-      <description>&lt;p&gt;Editor’s note:&amp;#160;The research is authored by Mauro Eldritch, offensive security expert and a founder of BCA LTD, a company dedicated to threat intelligence and hunting. You can&amp;#160;find Mauro on X.&amp;#160; The recent wave of&amp;#160;ClickFix attacks&amp;#160;has introduced several new ways to compromise users,&amp;#160;establishing&amp;#160;itself as a technique that is likely here to stay. We have&amp;#160;observed&amp;#160;Lazarus Group using [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/" rel="nofollow"&gt;New Lazarus APT Campaign: “Mach-O Man” macOS Malware Kit Hits Businesses&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/</guid>
-      <pubDate>Tue, 21 Apr 2026 08:49:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 13:53:28 +0000</lastBuildDate>
     <item>
       <title>More Attack Context for Faster Triage, Response, and Hunting. Now Available to Every SOC</title>
       <link>https://any.run/cybersecurity-blog/expanded-free-ti-plan/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-ready-reporting/" rel="nofollow"&gt;New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-ready-reporting/</guid>
       <pubDate>Wed, 13 May 2026 08:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>LATAM Under Siege: Agent Tesla’s 18-Month Credential Theft Campaign Against Chilean Enterprises</title>
+      <link>https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</link>
+      <description>&lt;p&gt;Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher &amp;#38; threat hunter. You can find Moises on LinkedIn and X. Credential&amp;#160;theft&amp;#160;malware rarely announces itself with ransomware-level noise. Instead, it&amp;#160;operates&amp;#160;like a silent siphon hidden inside everyday business workflows: invoices, payroll files, purchase orders, procurement requests. Agent Tesla campaigns are especially dangerous because they target the operational [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/" rel="nofollow"&gt;LATAM Under Siege: Agent Tesla&amp;#8217;s 18-Month Credential Theft Campaign Against Chilean Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</guid>
+      <pubDate>Thu, 14 May 2026 11:55:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
