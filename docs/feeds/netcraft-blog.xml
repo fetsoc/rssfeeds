@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 13:52:06 +0000</lastBuildDate>
-    <item>
-      <title>6 Best Brand Protection Platforms for 2025: Safeguard Your Online Reputation</title>
-      <link>https://www.netcraft.com/blog/6-best-brand-protection-platforms-for-defending-your-company-s-online-reputation</link>
-      <description>Explore the top 6 brand protection platforms for 2025. Compare features, integrations, and performance to find the best software to defend your company’s online reputation from phishing, impersonation, and counterfeit threats.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/6-best-brand-protection-platforms-for-defending-your-company-s-online-reputation</guid>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 19:29:38 +0000</lastBuildDate>
     <item>
       <title>Recent Cryptocurrency Investment Scam Campaigns: AI Themes, Cloaking &amp; Industrialized Fraud</title>
       <link>https://www.netcraft.com/blog/recent-cryptocurrency-investment-scam-campaigns-cloaking-ai-themes-and-the-industrialization-of-fraud</link>
@@ -315,6 +309,13 @@
       <description>Netcraft uncovered Booking.com impersonation pages hosted on Webflow subdomains, leveraging SEO poisoning, lookalike domains, and static phishing infrastructure to target travel-related searches.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/booking-dot-com-lookalike-pages-hosted-on-webflow-subdomains</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why DMCA Takedowns Don’t Stop Phishing</title>
+      <link>https://www.netcraft.com/blog/dmca-takedown-vs-technical-disruption</link>
+      <description>Traditional DMCA takedowns move too slowly to stop AI-generated phishing. Learn why technical disruption closes the victimization window faster.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/dmca-takedown-vs-technical-disruption</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

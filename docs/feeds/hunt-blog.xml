@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 13:50:52 +0000</lastBuildDate>
-    <item>
-      <title>Threat Hunting at Scale: Explore 10.6B URLs to Find Payloads, C2s, and Exposed Assets with URLx</title>
-      <link>https://hunt.io/blog/threat-hunting-with-urlx</link>
-      <description>Explore 10.6B structured URLs with URLx. Find malware payloads, C2 paths, phishing campaigns, and exposed assets, fast.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/threat-hunting-with-urlx</guid>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 19:28:51 +0000</lastBuildDate>
     <item>
       <title>Eggs, Alerts, and Adversaries: Talking with Jose Hernandez from Splunk</title>
       <link>https://hunt.io/blog/splunk-interview-jose-hernandez</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io captured an open directory exposing the attacker's complete post-exploitation toolkit and a 512 MB database dump from an MSP managing 60+ client organizations - all staged three days after CVE-2025-32975 exploitation began.</description>
       <guid isPermaLink="false">https://hunt.io/blog/cve-2025-32975-quest-kace-sma-open-directory-60-victims</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How TeamPCP's Python Toolkit Survives a C2 Takedown: FIRESCALE, GitHub, and the Victim's Own Account</title>
+      <link>https://hunt.io/blog/teampcp-python-toolkit-firescale-github-c2-takedown</link>
+      <description>Hunt.io analyzes the 13-file Python toolkit TeamPCP deploys after a supply chain compromise, documenting FIRESCALE, victim-hosted exfiltration, and infrastructure pivots that prior vendor reporting missed.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/teampcp-python-toolkit-firescale-github-c2-takedown</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

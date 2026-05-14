@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 13:52:01 +0000</lastBuildDate>
-    <item>
-      <title>Boosting Security with Azure Virtual Network TAP Traffic Mirroring</title>
-      <link>https://www.darktrace.com/blog/boosting-security-with-azure-virtual-network-tap-traffic-mirroring</link>
-      <description>Discover why Darktrace is a launch partner for the Public Preview of Microsoft Azure Virtual Network Terminal Access Point (TAP).</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/boosting-security-with-azure-virtual-network-tap-traffic-mirroring</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 19:29:34 +0000</lastBuildDate>
     <item>
       <title>BlackMatter's Smash-and-Grab Ransom Attack Incident Analysis</title>
       <link>https://www.darktrace.com/blog/blackmatters-smash-and-grab-tactics-and-the-need-for-respond</link>
@@ -355,6 +348,13 @@
       <description>As Model Context Protocol (MCP) becomes the control plane for autonomous AI agents, it creates a new and largely ungoverned security attack surface. This article outlines the key MCP risks CISOs must address and why governance and visibility are now essential.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/7-mcp-risks-cisos-should-consider-and-how-to-prepare</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor</title>
+      <link>https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor</link>
+      <description>Darktrace researchers identified a Twill Typhoon–linked China‑nexus campaign targeting APJ customers. The activity observed includes CDN impersonation, legitimate binaries, and DLL sideloading to deploy a modular .NET RAT.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
