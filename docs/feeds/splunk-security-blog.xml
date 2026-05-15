@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/splunk-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 13:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 19:25:41 +0000</lastBuildDate>
     <item>
       <title>Assigning Role Based Permissions in Splunk Enterprise Security | Splunk</title>
       <link>https://www.splunk.com/en_us/blog/security/assigning-role-based.html</link>
