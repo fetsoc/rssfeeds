@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 19:32:06 +0000</lastBuildDate>
-    <item>
-      <title>FileFix – The Evolved ClickFix | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/filefix-the-evolved-clickfix</link>
-      <description>To gain a deeper understanding of FileFix, we conducted analysis of the technique within a sandbox environment to identify detection opportunities for our customers.</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/filefix-the-evolved-clickfix</guid>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 02:31:51 +0000</lastBuildDate>
     <item>
       <title>The Booking.com Phishing Campaign Targeting Hotels and Customers | Bridewell</title>
       <link>https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers</link>
@@ -175,6 +169,11 @@
       <link>https://www.bridewell.com/insights/blogs/detail/why-do-emergency-service-still-use-the-pocsag-flex-protocol-in-2024</link>
       <description>Why Do Emergency Service Still Use the POCSAG/FLEX Protocol in 2024?</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/why-do-emergency-service-still-use-the-pocsag-flex-protocol-in-2024</guid>
+    </item>
+    <item>
+      <title>Tycoon 2FA Strikes Back: Why a Global Takedown Only Lasted 2 Weeks | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/tycoon-2fa-strikes-back--why-a-global-takedown-only-lasted-2-weeks</link>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/tycoon-2fa-strikes-back--why-a-global-takedown-only-lasted-2-weeks</guid>
     </item>
     <item>
       <title>Bridewell | Generative AI for Critical Infrastructure: Where It Helps (and Where It Doesn&amp;#39;t)</title>

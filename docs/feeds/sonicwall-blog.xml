@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 19:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:29:42 +0000</lastBuildDate>
     <item>
       <title>PDF-Borne Living-off-the-Land Attacks with RMM Abuse</title>
       <link>https://www.sonicwall.com/blog/pdf-borne-living-off-the-land-attacks-with-rmm-abuse</link>
