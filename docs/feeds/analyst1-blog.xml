@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 08:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:48:34 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -43,11 +43,11 @@
       <pubDate>Wed, 30 Sep 2020 09:09:32 +0000</pubDate>
     </item>
     <item>
-      <title>Disinformation Campaigns: The New Cyber Attack and Weapon of Mass Distraction | Analyst1</title>
-      <link>https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</link>
-      <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
-      <guid isPermaLink="false">https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</guid>
-      <pubDate>Wed, 30 Sep 2020 09:09:47 +0000</pubDate>
+      <title>Intelligent Cyber Threat Response | Analyst1</title>
+      <link>https://analyst1.com/intelligent-cyber-threat-response-2/</link>
+      <description>Bridge the gap between cyber threats and actionable intelligence with Analyst1: Simplifying cybersecurity, empowering analysts, and deploying integrations.</description>
+      <guid isPermaLink="false">https://analyst1.com/intelligent-cyber-threat-response-2/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
       <title>What is the Next Cybersecurity Fable? - Analyst1</title>
@@ -78,11 +78,11 @@
       <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
-      <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
-      <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
-      <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
-      <guid isPermaLink="false">https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</guid>
-      <pubDate>Fri, 14 May 2021 01:01:34 +0000</pubDate>
+      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
+      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
+      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
+      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
+      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
       <title>New Ransomware Turns to Disruption and Sabotage | Analyst1</title>
@@ -169,18 +169,18 @@
       <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
     </item>
     <item>
-      <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
-      <link>https://analyst1.com/what-is-intelligence-analyst/</link>
-      <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-intelligence-analyst/</guid>
-      <pubDate>Thu, 11 May 2023 11:53:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransomware Resources | Analyst1</title>
       <link>https://analyst1.com/ransomware-resources/</link>
       <description>Discover a collection of insightful resources on ransomware, including gripping origin stories and comprehensive reports. Explore the world of cyber warfare.</description>
       <guid isPermaLink="false">https://analyst1.com/ransomware-resources/</guid>
       <pubDate>Fri, 26 May 2023 18:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operations Analyst Job Description &amp; Career Insights</title>
+      <link>https://analyst1.com/operations-analyst-job-description/</link>
+      <description>What does an operations analyst do? Find a detailed operations analyst job description + skills needed, career path, salary info and leading platform.</description>
+      <guid isPermaLink="false">https://analyst1.com/operations-analyst-job-description/</guid>
+      <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
       <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
@@ -244,6 +244,13 @@
       <description>Explore the rise and fall of Lockbit, the world's most notorious ransomware gang, through the lens of cybersecurity experts at Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/infiltrating-ransomware-gangs-on-the-dark-web-a-60-minutes-overtime-special/</guid>
       <pubDate>Thu, 02 May 2024 21:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Evolving Cyber Threat Landscape | Analyst1</title>
+      <link>https://analyst1.com/the-evolving-cyber-threat-landscape/</link>
+      <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
+      <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
+      <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
       <title>10 Reasons You Need a TIP Now | Analyst1</title>
@@ -323,13 +330,6 @@
       <pubDate>Fri, 31 Jan 2025 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Threat Intelligence Lifecycle | Analyst1</title>
-      <link>https://analyst1.com/threat-intelligence-lifecycle-v/</link>
-      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-v/</guid>
-      <pubDate>Mon, 10 Feb 2025 21:01:33 +0000</pubDate>
-    </item>
-    <item>
       <title>A Step Above: Why Analyst1 is CISA's Threat Intelligence Platform of Choice | Analyst1</title>
       <link>https://analyst1.com/a-step-above-why-analyst1-is-cisas-threat-intelligence-platform-of-choice/</link>
       <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
@@ -351,11 +351,11 @@
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Leading University Protects Its Research with Help From Analyst1 | Analyst1</title>
-      <link>https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</link>
-      <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
-      <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
+      <title>5 Actionable Cyber Threat Analysis Techniques You Need to Know | Analyst1</title>
+      <link>https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</link>
+      <description>Explore practical threat analysis techniques in this white paper to help your security team detect, prioritize, and neutralize cyber threats before they escalate. Download the white paper today.</description>
+      <guid isPermaLink="false">https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</guid>
+      <pubDate>Mon, 19 May 2025 18:49:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
