@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 02:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:42:35 +0000</lastBuildDate>
     <item>
       <title>Malicious LNK Files Distributing a Python-Based Backdoor and Changes in Distribution Techniques (Kimsuky Group)</title>
       <link>https://asec.ahnlab.com/en/93151/</link>
@@ -51,13 +51,6 @@
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>March 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/93293/</link>
       <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
@@ -70,6 +63,27 @@
       <description>Overview In recent years, cyber threat actors have consistently attempted to exploit living off the land binaries (LOLBins) built into systems to bypass detection by security products. Such attack methods effectively evade traditional signature-based detection by not distributing a separate malicious file, but instead relying on tools trusted by the operating system.Among them, MSBuild.exe is [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93290/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q1 2026 Attack Technique Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93278/</link>
+      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Threat Actor Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93324/</link>
+      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Dark Web Issue Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93323/</link>
+      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>March 2026 Ransomware Trends Report</title>
@@ -104,20 +118,6 @@
       <link>https://asec.ahnlab.com/en/93325/</link>
       <description>Alerts this report is based on reports of data breaches and the sale of initial access rights posted on deep web-dark web forums. some parts of the report contain information that cannot be fully verified as factual due to the nature of the source. Major Issues Multiple breach claims by ShinyHunters. a wide range of [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93325/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Threat Actor Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93324/</link>
-      <description>Alerts this report is a compilation of trends centered on hacktivists operating on the deep web and dark web. some alleged attacks are labeled as observations due to limited independent technical verification. Major Issues Handala&amp;#8217;s multi-pronged offensive stood out. The group used a combination of psychological warfare and subversive attacks, including a claimed FBI-linked domain [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93324/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Dark Web Issue Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93323/</link>
-      <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
