@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 02:31:38 +0000</lastBuildDate>
-    <item>
-      <title>Returning to the Office? 7 Data Hygiene and Security Monitoring Tips</title>
-      <link>https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</link>
-      <description>As the workforce starts to return on-site, it is time to review basic data hygiene and security monitoring issues to bear in mind in the current reality.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</guid>
-      <pubDate>Thu, 11 Jun 2020 07:23:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 13:05:50 +0000</lastBuildDate>
     <item>
       <title>Does Your Cyber Security Strategy Include a Perimeter Defense?</title>
       <link>https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</link>
@@ -147,6 +140,13 @@
       <description>Forrester released an infographic summarizing the key data collected from customers and vendors about the Managed Detection &amp; Response (MDR) market.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/why-use-an-mdr-provider-forresters-key-findings-about-the-mdr-market/</guid>
       <pubDate>Wed, 04 May 2022 04:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why It’s Great to Work for an MDR Provider</title>
+      <link>https://www.cyberproof.com/blog/why-its-great-to-work-for-an-mdr-provider/</link>
+      <description>Here’s some of what our global team has to say about why they love working in the cybersecurity industry in general, and at CyberProof in particular.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-its-great-to-work-for-an-mdr-provider/</guid>
+      <pubDate>Thu, 19 May 2022 02:05:11 +0000</pubDate>
     </item>
     <item>
       <title>Considering a Career in Cyber Security? Here's What You Need to Know</title>
