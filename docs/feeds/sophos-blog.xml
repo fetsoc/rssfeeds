@@ -7,12 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 02:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:14:08 +0000</lastBuildDate>
     <item>
-      <title>How AI-accelerated threat discovery is reshaping network security</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-ai-network-security</link>
-      <description>&lt;p&gt;As vulnerabilities are discovered faster than ever, organizations must rethink how they reduce exposure and contain risk at the network edge.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, AI, Mythos, Firewall, Sophos Firewall&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-network-security</guid>
+      <title>Donuts and Beagles: Fake Claude site spreads backdoor</title>
+      <link>https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor</link>
+      <description>&lt;p&gt;A malicious imitation of Anthropic’s Claude site leads to DLL sideloading – and a backdoor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Claude, Beagle, Backdoor, malvertising, AI, DONUT, DLL sideloading, Sophos X-Ops&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,17 +44,17 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The State of Identity Security 2026: Identity is the new perimeter</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</link>
-      <description>&lt;p&gt;Discover the causes and consequences of identity threats based on a survey of 5,000 organizations across 17 countries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; identity, Identity Security, Ransomware&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos Endpoint in action: Blocking a novel supply chain attack</title>
       <link>https://www.sophos.com/en-us/blog/sophos-supply-chain-attack</link>
       <description>&lt;p&gt;How the unique anti-exploitation capabilities included with Sophos Endpoint blocked a supply chain attack.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Endpoint, Sophos Endpoint, Exploits&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-supply-chain-attack</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Identity Security 2026: Identity is the new perimeter</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</link>
+      <description>&lt;p&gt;Discover the causes and consequences of identity threats based on a survey of 5,000 organizations across 17 countries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; identity, Identity Security, Ransomware&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
