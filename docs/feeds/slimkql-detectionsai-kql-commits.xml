@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 13:02:48 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/axios-compromise-detection-via-3rd-party.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/8343234408bf60592bd8664d3aa7b4eeaa80b2d4</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/axios-compromise-detection-via-3rd-party.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8343234408bf60592bd8664d3aa7b4eeaa80b2d4</guid>
-      <pubDate>Wed, 01 Apr 2026 09:35:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 18:57:05 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/visualize-vpn-linked-spray-attempts.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/79577b817340ff1d9b40b4599577a0a11c02e163</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/catch-them-if-you-can.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3c6cc466b43e1896e3f5f69988a615b6b181dd64</guid>
       <pubDate>Sun, 10 May 2026 15:33:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/miniplasma-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/74b81bb876466cc165f46abfae2008793084aff0</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/miniplasma-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/74b81bb876466cc165f46abfae2008793084aff0</guid>
+      <pubDate>Sun, 17 May 2026 14:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
