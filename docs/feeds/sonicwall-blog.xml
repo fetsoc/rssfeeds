@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 14:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:34:23 +0000</lastBuildDate>
     <item>
       <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
       <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
@@ -294,17 +294,17 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DS-Lite, v6plus, DHCPv6 Prefix Delegation: SonicOS 8 IPv6 Transition Mechanisms Explained</title>
-      <link>https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</link>
-      <description>Learn how SonicOS 8 supports DS-Lite, v6plus Static IP Address Service, DHCPv6 Prefix Delegation, and configurable Interface Identifiers for IPv6-primary ISP networks without additional CPE hardware.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SFP, SFP+, SFP28, QSFP+, QSFP28: Choosing the Right Transceiver for Your SonicWall Deployment</title>
       <link>https://www.sonicwall.com/blog/the-small-components-behind-the-high-performance-of-sonicwall-connectivity</link>
       <description>Learn how SFP, SFP+, SFP28, QSFP+, and QSFP28 transceivers work, when to use each module, and how to validate compatibility across SonicWall firewall and switch platforms.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-small-components-behind-the-high-performance-of-sonicwall-connectivity</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DS-Lite, v6plus, DHCPv6 Prefix Delegation: SonicOS 8 IPv6 Transition Mechanisms Explained</title>
+      <link>https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</link>
+      <description>Learn how SonicOS 8 supports DS-Lite, v6plus Static IP Address Service, DHCPv6 Prefix Delegation, and configurable Interface Identifiers for IPv6-primary ISP networks without additional CPE hardware.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
