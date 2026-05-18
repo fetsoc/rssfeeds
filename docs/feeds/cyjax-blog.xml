@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 09:44:01 +0000</lastBuildDate>
-    <item>
-      <title>Alert Fatigue in Cybersecurity: What Is It and how do we manage it? - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cybersecurity-alert-fatigue</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybersecurity-alert-fatigue</guid>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 14:57:30 +0000</lastBuildDate>
     <item>
       <title>Cybercriminals targeting the legal sector - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cybercriminals-targeting-the-legal-sector</link>
@@ -266,6 +261,13 @@
       <link>https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign</guid>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CYJAX Launches Compromised Device Alerting to Detect Threats Earlier  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</link>
+      <description>Detect compromised devices before attackers act. CYJAX’s new alerting identifies stealer malware infections and exposed credentials in near real time.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

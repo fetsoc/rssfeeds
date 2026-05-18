@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 09:45:32 +0000</lastBuildDate>
-    <item>
-      <title>Lessons from the Stryker Incident</title>
-      <link>https://www.sygnia.co/threat-reports-and-advisories/identity-control-plane-attack-stryker/</link>
-      <description>&lt;p&gt;The Stryker incident demonstrates how attackers can leverage Microsoft Entra ID and Intune as destructive control planes, wiping devices and disrupting operations without deploying malware. This advisory outlines the key tactics observed and provides practical steps to reduce risk and strengthen resilience.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/identity-control-plane-attack-stryker/"&gt;Lessons from the Stryker Incident&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/identity-control-plane-attack-stryker/</guid>
-      <pubDate>Sun, 22 Mar 2026 12:58:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Leverage an Incident Response Retainer</title>
-      <link>https://www.sygnia.co/blog/why-incident-response-retainers-fail/</link>
-      <description>&lt;p&gt;Discover how to get the most from an incident response retainer, and what sets apart a provider that can respond effectively when your organization is under real pressure.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/why-incident-response-retainers-fail/"&gt;How to Leverage an Incident Response Retainer&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/why-incident-response-retainers-fail/</guid>
-      <pubDate>Tue, 24 Mar 2026 08:47:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 14:59:01 +0000</lastBuildDate>
     <item>
       <title>A Tale of Two Incidents: Same Threat Actor, Different Outcomes</title>
       <link>https://www.sygnia.co/webinars/a-tale-of-two-incidents/</link>
@@ -79,6 +63,22 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/ciso-survey-webinar-2026/"&gt;Breach Ready: Close Your Incident Response Gaps&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/webinars/ciso-survey-webinar-2026/</guid>
       <pubDate>Thu, 30 Apr 2026 10:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Risk and Private Equity: How Threat Intelligence Protects Large Investment Portfolios</title>
+      <link>https://www.sygnia.co/blog/cyber-risk-private-equity-threat-intelligence/</link>
+      <description>&lt;p&gt;Explore how leading PE firms are shifting from reactive cyber incident response to continuous portfolio-wide risk visibility, using threat intelligence to protect enterprise value, reduce deal friction, and prevent a single breach from cascading across the entire portfolio.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/cyber-risk-private-equity-threat-intelligence/"&gt;Cyber Risk and Private Equity: How Threat Intelligence Protects Large Investment Portfolios&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/cyber-risk-private-equity-threat-intelligence/</guid>
+      <pubDate>Tue, 12 May 2026 11:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Incident Response Plan Mistakes That Lead to Failures</title>
+      <link>https://www.sygnia.co/blog/incident-response-plan-mistakes/</link>
+      <description>&lt;p&gt;Learn the 8 critical incident response mistakes that leave 73% of organizations unprepared, and how to close the execution gaps that turn manageable cyber incidents into full-scale business crises.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-plan-mistakes/"&gt;8 Incident Response Plan Mistakes That Lead to Failures&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-plan-mistakes/</guid>
+      <pubDate>Tue, 12 May 2026 13:58:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

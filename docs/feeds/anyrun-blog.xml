@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 09:45:30 +0000</lastBuildDate>
-    <item>
-      <title>More Attack Context for Faster Triage, Response, and Hunting. Now Available to Every SOC</title>
-      <link>https://any.run/cybersecurity-blog/expanded-free-ti-plan/</link>
-      <description>&lt;p&gt;ANY.RUN has expanded access to Threat Intelligence capabilities for SOC and MSSP teams, backed by live attack data from 15,000 organizations.&amp;#160; Here’s&amp;#160;how your team can test&amp;#160;TI&amp;#8217;s impact on triage&amp;#160;quality, response&amp;#160;speed, and threat hunting workflows.&amp;#160; See&amp;#160;How&amp;#160;Threat Intelligence&amp;#160;Accelerates Your SOC&amp;#160; ANY.RUN now&amp;#160;offers&amp;#160;20&amp;#160;premium&amp;#160;requests in&amp;#160;Threat Intelligence Lookup&amp;#160;and&amp;#160;YARA Search&amp;#160;as part of the&amp;#160;Free plan.&amp;#160;&amp;#160; You can&amp;#160;get&amp;#160;immediate threat context for&amp;#160;over 40 types [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/expanded-free-ti-plan/" rel="nofollow"&gt;More Attack Context for Faster Triage, Response, and Hunting. Now Available to Every SOC&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/expanded-free-ti-plan/</guid>
-      <pubDate>Wed, 22 Apr 2026 13:14:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 14:58:57 +0000</lastBuildDate>
     <item>
       <title>Inside agenteV2: How Brazilian Attackers Use Fake Court Summons to Steal Banking Credentials in Real Time</title>
       <link>https://any.run/cybersecurity-blog/brazilian-banking-phishing-campaign/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/" rel="nofollow"&gt;LATAM Under Siege: Agent Tesla&amp;#8217;s 18-Month Credential Theft Campaign Against Chilean Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</guid>
       <pubDate>Thu, 14 May 2026 11:55:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN Turns 10: Special Offers for Stronger Security Operations</title>
+      <link>https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</link>
+      <description>&lt;p&gt;Ten years in cybersecurity is a long journey. Threats have changed, attacks have become harder to spot, and security teams now need answers faster than ever.&amp;#160; ANY.RUN&amp;#160;has grown with those teams.&amp;#160; What started as an interactive sandbox is now a trusted&amp;#160;company with&amp;#160;threat analysis and intelligence&amp;#160;solution&amp;#160;used by 15,000+ organizations, 600,000 security professionals, and teams at Fortune [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/" rel="nofollow"&gt;ANY.RUN Turns 10: Special Offers for Stronger Security Operations&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</guid>
+      <pubDate>Mon, 18 May 2026 10:57:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 09:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:59:01 +0000</lastBuildDate>
     <item>
       <title>Donuts and Beagles: Fake Claude site spreads backdoor</title>
       <link>https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor</link>
@@ -37,13 +37,6 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Operating inside the lethal trifecta: Blast radius reduction in AI agent deployments</title>
-      <link>https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</link>
-      <description>&lt;p&gt;Seven things security teams can start doing today to reduce risk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, CISO, risk&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos Endpoint in action: Blocking a novel supply chain attack</title>
       <link>https://www.sophos.com/en-us/blog/sophos-supply-chain-attack</link>
       <description>&lt;p&gt;How the unique anti-exploitation capabilities included with Sophos Endpoint blocked a supply chain attack.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Endpoint, Sophos Endpoint, Exploits&lt;/p&gt;</description>
@@ -55,6 +48,13 @@
       <link>https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</link>
       <description>&lt;p&gt;Discover the causes and consequences of identity threats based on a survey of 5,000 organizations across 17 countries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; identity, Identity Security, Ransomware&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operating inside the lethal trifecta: Blast radius reduction in AI agent deployments</title>
+      <link>https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</link>
+      <description>&lt;p&gt;Seven things security teams can start doing today to reduce risk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, CISO, risk&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
