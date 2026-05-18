@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 18:58:12 +0000</lastBuildDate>
-    <item>
-      <title>Malicious LNK Files Distributing a Python-Based Backdoor and Changes in Distribution Techniques (Kimsuky Group)</title>
-      <link>https://asec.ahnlab.com/en/93151/</link>
-      <description>Overview AhnLab SEcurity intelligence Center (ASEC) recently identified a change in the Kimsuky group&amp;#8217;s method of distributing malicious LNK files. The overall attack flow remains the same as before, with a malicious LNK ultimately executing a Python-based backdoor or downloader. However, a structural change was observed in the intermediate execution phase. &amp;#160; Category Previous Distribution [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93151/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 02:38:51 +0000</lastBuildDate>
     <item>
       <title>Beware of Apps with Excessive Advertising Distributed via Mobile App Stores</title>
       <link>https://asec.ahnlab.com/en/93142/</link>
@@ -51,6 +44,13 @@
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Q1 2026 Attack Technique Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93278/</link>
+      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>March 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/93293/</link>
       <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
@@ -62,13 +62,6 @@
       <link>https://asec.ahnlab.com/en/93290/</link>
       <description>Overview In recent years, cyber threat actors have consistently attempted to exploit living off the land binaries (LOLBins) built into systems to bypass detection by security products. Such attack methods effectively evade traditional signature-based detection by not distributing a separate malicious file, but instead relying on tools trusted by the operating system.Among them, MSBuild.exe is [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93290/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Coinbase Claims Data Leak of South Korean Medical Ultrasound Equipment Manufacturer Emergence of New Data Extortion Group &amp;#8216;Leak Bazaar&amp;#8217; Hasan&amp;#8217;s BreachForums and TeamPCP Host Large-Scale Supply Chain Attack Competition Using Shaid-Hulud Worm</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93712/</guid>
       <pubDate>Wed, 13 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2026 Threat Trend Report on APT Groups</title>
+      <link>https://asec.ahnlab.com/en/93744/</link>
+      <description>Purpose and Scope this report covers cyber espionage and covert sabotage activities by Region-led threat groups believed to be supported by the Region. it excludes cybercrime groups that operate for financial gain. based on publicly available analysis over the past month, we categorized threat actors according to the names of their representatives in the ATIP. [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93744/</guid>
+      <pubDate>Sun, 17 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

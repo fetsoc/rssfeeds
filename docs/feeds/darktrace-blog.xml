@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 18:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 02:37:16 +0000</lastBuildDate>
     <item>
       <title>BlackMatter's Smash-and-Grab Ransom Attack Incident Analysis</title>
       <link>https://www.darktrace.com/blog/blackmatters-smash-and-grab-tactics-and-the-need-for-respond</link>
