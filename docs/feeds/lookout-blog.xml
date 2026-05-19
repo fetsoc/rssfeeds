@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 14:42:06 +0000</lastBuildDate>
-    <item>
-      <title>Understanding the LLM Mobile Landscape in Enterprise Technology</title>
-      <link>https://security.lookout.com/blog/llm</link>
-      <description>Learn how threat actors can manipulate LLM technology to create convincing social engineering schemes, and how you can protect your organization.</description>
-      <guid isPermaLink="false">https://security.lookout.com/blog/llm</guid>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 19:49:05 +0000</lastBuildDate>
     <item>
       <title>What Is a Large Language Model (LLM)?</title>
       <link>https://security.lookout.com/blog/large-language-model</link>
@@ -37,6 +31,12 @@
       <link>https://security.lookout.com/blog/it-modernization</link>
       <description>IT cloud modernization is a great way to drive sales growth, have the edge over your competitors, and boost your employees’ productivity while enabling greater collaboration.</description>
       <guid isPermaLink="false">https://security.lookout.com/blog/it-modernization</guid>
+    </item>
+    <item>
+      <title>Is Your Mobile Security Stuck in the Past?</title>
+      <link>https://security.lookout.com/blog/is-your-mobile-security-stuck-in-the-past</link>
+      <description>Modern mobile threats have moved beyond the device. If your strategy hasn’t evolved, your risk exposure has.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/is-your-mobile-security-stuck-in-the-past</guid>
     </item>
     <item>
       <title>Holiday Season Cyber Attack Patterns: How They Impact Enterprise Operations</title>
