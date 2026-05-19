@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 02:37:57 +0000</lastBuildDate>
-    <item>
-      <title>Beware of Apps with Excessive Advertising Distributed via Mobile App Stores</title>
-      <link>https://asec.ahnlab.com/en/93142/</link>
-      <description>AhnLab&amp;#8217;s engine development team found a number of apps on the Google Play Store and Apple App Store that disguised themselves as dealing with topics close to our daily lives, such as government policies and learning apps, and displayed excessive ads. &amp;#160; Figure 1. Hyped apps circulating on Google Play Store Figure 2. Hyped apps [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93142/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 09:31:22 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 1, April 2026</title>
       <link>https://asec.ahnlab.com/en/93158/</link>
@@ -217,6 +210,13 @@
       <description>Purpose and Scope this report covers cyber espionage and covert sabotage activities by Region-led threat groups believed to be supported by the Region. it excludes cybercrime groups that operate for financial gain. based on publicly available analysis over the past month, we categorized threat actors according to the names of their representatives in the ATIP. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93744/</guid>
       <pubDate>Sun, 17 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/93750/</link>
+      <description>Content this report summarizes the trends of new Infostealers collected during the month of April 2026, including distribution channels, malware distribution, malware quantity, detection quantity, and disguised targets. the data collected is based on ASEC&amp;#8217;s Automated Data Collection System, Email Honeypot System, and AhnLab product detection results. Purpose and Scope the report covers Infostealers Disguised [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93750/</guid>
+      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
