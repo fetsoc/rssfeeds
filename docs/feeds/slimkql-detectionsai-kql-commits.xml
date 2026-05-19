@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 09:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:42:03 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/m365-connector-for-claude-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/80449b304e39baff8996effdd78d1ef0281940fb</link>

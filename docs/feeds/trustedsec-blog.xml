@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 09:31:20 +0000</lastBuildDate>
-    <item>
-      <title>IAM the Captain Now – Hijacking Azure Identity Access</title>
-      <link>https://trustedsec.com/blog/iam-the-captain-now-hijacking-azure-identity-access</link>
-      <description>&amp;lt;p&amp;gt;I decided to spend some research time diving in depth into Identity and Access Management (IAM) within Microsoft Azure. I am going to show you within this blog how IAM permissions can be abused within an Azure…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/iam-the-captain-now-hijacking-azure-identity-access</guid>
-      <pubDate>Thu, 09 Apr 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 14:43:35 +0000</lastBuildDate>
     <item>
       <title>Benchmarking Self-Hosted LLMs for Offensive Security</title>
       <link>https://trustedsec.com/blog/benchmarking-self-hosted-llms-for-offensive-security</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Ready to ditch passwords for good, but not sure where to start? Introducing Passkey Path, a choose-your-own-adventure guide to transitioning from passwords to passkeys, built for every role in your organization.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/finding-your-way-on-the-passkey-path</guid>
       <pubDate>Thu, 14 May 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coverage-Driven Sustained Testing (CDST): A Graph-Oriented Model for Open-Ended Agentic Workflows</title>
+      <link>https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</link>
+      <description>&amp;lt;p&amp;gt;1.1 IntroductionRalph is a solid tool that makes agents do…more. It&amp;amp;#039;s defined as: an autonomous AI agent loop that runs repeatedly until all PRD items are complete. The purpose is for it to handle bigger plans and…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</guid>
+      <pubDate>Tue, 19 May 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

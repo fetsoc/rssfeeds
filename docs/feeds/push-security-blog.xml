@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 09:31:09 +0000</lastBuildDate>
-    <item>
-      <title>Analyzing AitM phish kits and the ways they evade detection</title>
-      <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection</link>
-      <description>Taking a closer look at the steps that AitM phishing kits take to hide from the prying eyes of security teams and threat intelligence vendors.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection</guid>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 14:43:23 +0000</lastBuildDate>
     <item>
       <title>Detect cloned login pages used in phishing attacks</title>
       <link>https://pushsecurity.com/blog/introducing-cloned-login-page-detection</link>
@@ -357,6 +350,13 @@
       <description>Unpacking the latest research report from Omdia and what it means for the secure enterprise browser market.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 things we learned from our conversation with John Hammond</title>
+      <link>https://pushsecurity.com/blog/7-things-we-learned-from-john-hammond</link>
+      <description>Here are 7 things we learned from our conversation with John Hammond on the "Why the browser is the new battleground" webinar.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-we-learned-from-john-hammond</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
