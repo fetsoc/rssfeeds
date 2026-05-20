@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 02:36:41 +0000</lastBuildDate>
-    <item>
-      <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
-      <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
-      <description>CVE-2026-27702 is a critical (CVSS 9.9) remote code execution vulnerability in Budibase versions prior to 3.30.4. Attackers can inject malicious JavaScript through view filter values, which are passed unsanitized to eval() via the in-memory view subsystem in cloud mode. SonicWall Capture Labs provides threat analysis, exploitation details, IPS signature protection (IPS: 22007), and remediation guidance.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</guid>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 08:56:38 +0000</lastBuildDate>
     <item>
       <title>SecureFirst Partner Program Updates for 2026</title>
       <link>https://www.sonicwall.com/blog/the-securefirst-partner-program-is-evolving</link>
@@ -285,6 +279,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Key Features of Virtual Firewalls: What You Need to Know</title>
+      <link>https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</link>
+      <description>Discover the 8 essential features of virtual firewalls, from policy-based filtering and DNS security to malware protection and seamless cloud integration. Learn how these capabilities protect modern hybrid and cloud environments.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Virtual Firewalls Are Now Essential: Key Trends Driving Adoption</title>

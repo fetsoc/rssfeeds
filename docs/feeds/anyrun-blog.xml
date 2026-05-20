@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 02:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:58:27 +0000</lastBuildDate>
     <item>
       <title>Phishing-to-RMM Attacks: The Remote Access Blind Spot CISOs Can’t Ignore</title>
       <link>https://any.run/cybersecurity-blog/rmm-blind-spot-for-cisos/</link>

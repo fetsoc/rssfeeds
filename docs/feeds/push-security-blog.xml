@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 02:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:58:11 +0000</lastBuildDate>
     <item>
       <title>Detect cloned login pages used in phishing attacks</title>
       <link>https://pushsecurity.com/blog/introducing-cloned-login-page-detection</link>
