@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 08:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:42:33 +0000</lastBuildDate>
     <item>
       <title>Thousands of Fake Hotel Domains Used in Massive Phishing Campaign</title>
       <link>https://www.netcraft.com/blog/thousands-of-domains-target-hotel-guests-in-massive-phishing-campaign</link>

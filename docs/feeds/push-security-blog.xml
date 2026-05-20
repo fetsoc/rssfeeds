@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 08:58:11 +0000</lastBuildDate>
-    <item>
-      <title>Detect cloned login pages used in phishing attacks</title>
-      <link>https://pushsecurity.com/blog/introducing-cloned-login-page-detection</link>
-      <description>We've added cloned login page detection, providing yet another layer of protection against phishing attacks.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-cloned-login-page-detection</guid>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 14:43:24 +0000</lastBuildDate>
     <item>
       <title>Preventing account takeover with Push</title>
       <link>https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</link>
@@ -357,6 +350,13 @@
       <description>Here are 7 things we learned from our conversation with John Hammond on the "Why the browser is the new battleground" webinar.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-we-learned-from-john-hammond</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 things we learned from our conversation with Troy Hunt</title>
+      <link>https://pushsecurity.com/blog/7-things-we-learned-from-troy-hunt</link>
+      <description>Here are 7 things we learned from our conversation with Troy Hunt on the "Yes, you've been pwned" webinar.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-we-learned-from-troy-hunt</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

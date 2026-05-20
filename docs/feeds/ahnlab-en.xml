@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 08:58:28 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, April 2026</title>
-      <link>https://asec.ahnlab.com/en/93158/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Ransomware group NetRunner attack against the Indian subsidiary of a South Korean auto parts manufacturer Ransomware group Everest attack against a major Japanese automaker ShinyHunters claims of source code and internal data leak from a U.S. network infrastructure [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93158/</guid>
-      <pubDate>Wed, 01 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 14:43:40 +0000</lastBuildDate>
     <item>
       <title>BreachForums analyzes data breach incident (“Doomsday The Story of James”)</title>
       <link>https://asec.ahnlab.com/en/93168/</link>
@@ -37,13 +30,6 @@
       <pubDate>Wed, 08 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>March 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/93293/</link>
       <description>Description. this report analyzes Infostealer distribution trends and cases collected during the month of March 2026. It is based on data collected through ASEC&amp;#8217;s automated collection and analysis system and ATIP&amp;#8217;s real-time IOC service. Purpose and Scope. the purpose of the analysis is to identify trends in the volume, distribution methods, and disguising techniques. the [&amp;#8230;]</description>
@@ -55,6 +41,13 @@
       <link>https://asec.ahnlab.com/en/93290/</link>
       <description>Overview In recent years, cyber threat actors have consistently attempted to exploit living off the land binaries (LOLBins) built into systems to bypass detection by security products. Such attack methods effectively evade traditional signature-based detection by not distributing a separate malicious file, but instead relying on tools trusted by the operating system.Among them, MSBuild.exe is [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93290/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q1 2026 Attack Technique Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93278/</link>
+      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>Content this report summarizes the trends of new Infostealers collected during the month of April 2026, including distribution channels, malware distribution, malware quantity, detection quantity, and disguised targets. the data collected is based on ASEC&amp;#8217;s Automated Data Collection System, Email Honeypot System, and AhnLab product detection results. Purpose and Scope the report covers Infostealers Disguised [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93750/</guid>
       <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After two years, Telegram smishing is back, and account takeovers are here to stay</title>
+      <link>https://asec.ahnlab.com/en/93790/</link>
+      <description>Following the Telegram account takeover campaign in 2024, a smishing attack has recently been identified that uses Telegram security issues to steal users&amp;#8217; account information. threat actors hijack Telegram accounts by tricking users into entering their phone numbers and login codes on phishing sites. once an account is compromised, it can lead to personal information [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93790/</guid>
+      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

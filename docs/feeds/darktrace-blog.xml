@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 08:56:37 +0000</lastBuildDate>
-    <item>
-      <title>BlackMatter's Smash-and-Grab Ransom Attack Incident Analysis</title>
-      <link>https://www.darktrace.com/blog/blackmatters-smash-and-grab-tactics-and-the-need-for-respond</link>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/blackmatters-smash-and-grab-tactics-and-the-need-for-respond</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 14:42:29 +0000</lastBuildDate>
     <item>
       <title>How Darktrace Detected Black Basta Ransomware</title>
       <link>https://www.darktrace.com/blog/black-basta-old-dogs-with-new-tricks</link>
@@ -355,6 +349,13 @@
       <description>Darktrace researchers identified a Twill Typhoon–linked China‑nexus campaign targeting APJ customers. The activity observed includes CDN impersonation, legitimate binaries, and DLL sideloading to deploy a modular .NET RAT.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Insider Threats: How Generative AI is Changing Insider Risk</title>
+      <link>https://www.darktrace.com/blog/ai-insider-threats-how-generative-ai-is-changing-insider-risk</link>
+      <description>The blog examines how AI has changed the paradigm of understanding, and dealing with, insider threats. It also explores a defense-in-depth approach and discusses what CISOs and SOC leaders can do to protect their organization from AI insider threats.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-insider-threats-how-generative-ai-is-changing-insider-risk</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
