@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 14:42:33 +0000</lastBuildDate>
-    <item>
-      <title>Thousands of Fake Hotel Domains Used in Massive Phishing Campaign</title>
-      <link>https://www.netcraft.com/blog/thousands-of-domains-target-hotel-guests-in-massive-phishing-campaign</link>
-      <description>A Russian-speaking threat actor has registered 4,300+ domains in a sophisticated phishing campaign impersonating major travel brands like Airbnb and Booking.com to steal travelers’ payment data. Learn how Netcraft uncovered the operation.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/thousands-of-domains-target-hotel-guests-in-massive-phishing-campaign</guid>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 20:04:16 +0000</lastBuildDate>
     <item>
       <title>Hurricane Melissa Relief Scams: How Criminals Exploit Disaster</title>
       <link>https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</link>
@@ -317,6 +311,13 @@
       <description>Learn what a digital risk protection program covers, how it works, and how it differs from internal security and fraud tools.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/digital-risk-protection-program</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>World Cup Scams Reveal a Dangerous Domain Protection Gap</title>
+      <link>https://www.netcraft.com/blog/world-cup-domain-protection</link>
+      <description>Thousands of fake World Cup domains were registered months before kickoff. Learn how domain aging helps attackers build trust before phishing sites go live.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/world-cup-domain-protection</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
