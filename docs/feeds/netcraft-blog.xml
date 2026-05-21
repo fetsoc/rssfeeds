@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 14:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:45:27 +0000</lastBuildDate>
     <item>
       <title>Hurricane Melissa Relief Scams: How Criminals Exploit Disaster</title>
       <link>https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</link>
@@ -243,13 +243,6 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/phishing-takedown</guid>
     </item>
     <item>
-      <title>Recruitment Scams on the Rise: How Threat Actors Exploit Job Seekers</title>
-      <link>https://www.netcraft.com/blog/diving-into-the-talent-pool-threat-actors-target-job-seekers-with-complex-recruitment-scams</link>
-      <description>Netcraft uncovers complex recruitment scams impersonating employers, agencies, and even governments. Learn how these threat actors operate and how to protect yourself and your team.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/diving-into-the-talent-pool-threat-actors-target-job-seekers-with-complex-recruitment-scams</guid>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Forrester Total Economic Impact Study, commissioned by Netcraft</title>
       <link>https://www.netcraft.com/blog/cut-risk-boost-roi-what-forrester-found-when-they-studied-netcraft-clients</link>
       <description>Discover how Netcraft’s Brand Protection platform delivers 323% ROI, faster threat mitigation, and major time savings—validated by Forrester’s TEI study.</description>
@@ -318,6 +311,13 @@
       <description>Thousands of fake World Cup domains were registered months before kickoff. Learn how domain aging helps attackers build trust before phishing sites go live.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/world-cup-domain-protection</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 72-Hour Problem with DMCA Takedowns</title>
+      <link>https://www.netcraft.com/blog/dmca-takedowns-72-hour-problem</link>
+      <description>Phishing attacks succeed in hours, but DMCA workflows can take days. Explore the operational risks of takedown delays and why security teams need faster disruption methods.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/dmca-takedowns-72-hour-problem</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
