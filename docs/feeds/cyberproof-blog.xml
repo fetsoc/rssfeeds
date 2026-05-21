@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 14:43:27 +0000</lastBuildDate>
-    <item>
-      <title>Does Your Cyber Security Strategy Include a Perimeter Defense?</title>
-      <link>https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</link>
-      <description>Establishing a perimeter defense is especially important when it comes to areas where sensitive data - a high-value resource - is stored.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</guid>
-      <pubDate>Wed, 29 Jul 2020 10:10:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 02:39:06 +0000</lastBuildDate>
     <item>
       <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
       <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
@@ -147,6 +140,13 @@
       <description>Here’s some of what our global team has to say about why they love working in the cybersecurity industry in general, and at CyberProof in particular.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/why-its-great-to-work-for-an-mdr-provider/</guid>
       <pubDate>Thu, 19 May 2022 02:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberNews: Quick Response as Important as Threat Prevention</title>
+      <link>https://www.cyberproof.com/blog/why-having-procedures-to-quickly-respond-to-attacks-is-as-important-as-threat-prevention/</link>
+      <description>CyberNews interviewed our CEO, Tony Velecca about cybersecurity, threats, and measures that enterprises should implement.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/why-having-procedures-to-quickly-respond-to-attacks-is-as-important-as-threat-prevention/</guid>
+      <pubDate>Wed, 01 Jun 2022 07:37:37 +0000</pubDate>
     </item>
     <item>
       <title>Considering a Career in Cyber Security? Here's What You Need to Know</title>
