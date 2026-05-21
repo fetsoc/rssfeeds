@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 09:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:48:36 +0000</lastBuildDate>
     <item>
       <title>Preventing account takeover with Push</title>
       <link>https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</link>
@@ -156,13 +156,6 @@
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Push Detections: Equipping SecOps and IR teams</title>
-      <link>https://pushsecurity.com/blog/introducing-push-detections</link>
-      <description>We’re launching a new Detections capability, enabling security teams to more effectively investigate and triage alerts, and build more effective workflows.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-push-detections</guid>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How the browser became the main cyber battleground</title>
       <link>https://pushsecurity.com/blog/how-the-browser-became-the-main-cyber-battleground</link>
       <description>How attacks have moved away from endpoints and internal networks to the browser — a blind spot for traditional security tools.</description>
@@ -196,13 +189,6 @@
       <description>How browser data can improve detection fidelity and reduce alert fatigue, enabling SecOps teams to save time and detect more attacks.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/fixing-secops-alert-fatigue-with-browser-telemetry</guid>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detect ClickFix-style attacks in the browser</title>
-      <link>https://pushsecurity.com/blog/introducing-malicious-copy-paste-detection</link>
-      <description>Push now detects malware delivery in the browser, supporting a layered defense against endpoint attacks.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/introducing-malicious-copy-paste-detection</guid>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Analyzing the latest Sneaky2FA BITB phishing page</title>
@@ -357,6 +343,20 @@
       <description>Here are 7 things we learned from our conversation with Troy Hunt on the "Yes, you've been pwned" webinar.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-we-learned-from-troy-hunt</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise browser vs. browser extension solution analysis</title>
+      <link>https://pushsecurity.com/blog/enterprise-browser-vs-browser-extension-which-should-your-security-team-choose</link>
+      <description>If you're building a shortlist of browser security vendors, do you need a full-stack enterprise browser, or browser security extension?</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/enterprise-browser-vs-browser-extension-which-should-your-security-team-choose</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 things we learned from our conversation with Matt Johansen</title>
+      <link>https://pushsecurity.com/blog/7-things-we-learned-from-matt-johansen</link>
+      <description>What we learned from sitting down with Matt Johansen to discuss the difference between security theater and security that actually works.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-we-learned-from-matt-johansen</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

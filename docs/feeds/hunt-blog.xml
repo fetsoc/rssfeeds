@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 08:59:36 +0000</lastBuildDate>
-    <item>
-      <title>Eggs, Alerts, and Adversaries: Talking with Jose Hernandez from Splunk</title>
-      <link>https://hunt.io/blog/splunk-interview-jose-hernandez</link>
-      <description>Splunk’s Jose Hernandez talks building detections, curious hires, Hunt.io in action, and balancing threat research with chickens and family life.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/splunk-interview-jose-hernandez</guid>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 14:46:35 +0000</lastBuildDate>
     <item>
       <title>Announcing Hunt 2.4</title>
       <link>https://hunt.io/blog/announcing-hunt-2-4</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io analyzes the 13-file Python toolkit TeamPCP deploys after a supply chain compromise, documenting FIRESCALE, victim-hosted exfiltration, and infrastructure pivots that prior vendor reporting missed.</description>
       <guid isPermaLink="false">https://hunt.io/blog/teampcp-python-toolkit-firescale-github-c2-takedown</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Middle East Malicious Infrastructure Report: 1,350+ C2 Servers Mapped Across 98 Providers</title>
+      <link>https://hunt.io/blog/middle-east-malicious-infrastructure-report</link>
+      <description>We mapped 1,350+ active C2 servers across 98 Middle East providers. Here's what the infrastructure data reveals about the region's threat landscape.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/middle-east-malicious-infrastructure-report</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

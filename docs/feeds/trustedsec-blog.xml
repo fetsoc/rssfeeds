@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 09:02:06 +0000</lastBuildDate>
-    <item>
-      <title>Benchmarking Self-Hosted LLMs for Offensive Security</title>
-      <link>https://trustedsec.com/blog/benchmarking-self-hosted-llms-for-offensive-security</link>
-      <description>&amp;lt;p&amp;gt;We put LLMs to the test—let&amp;#039;s find out how good AI is at hacking! We walk through six simple challenges with intentionally naïve setups to test how capable each model is at single-step exploit validation.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/benchmarking-self-hosted-llms-for-offensive-security</guid>
-      <pubDate>Tue, 14 Apr 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 14:48:45 +0000</lastBuildDate>
     <item>
       <title>Dungeons and Daemons</title>
       <link>https://trustedsec.com/blog/dungeons-and-daemons</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;1.1 IntroductionRalph is a solid tool that makes agents do…more. It&amp;amp;#039;s defined as: an autonomous AI agent loop that runs repeatedly until all PRD items are complete. The purpose is for it to handle bigger plans and…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</guid>
       <pubDate>Tue, 19 May 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shai-Hulud Is Back, and This Time It Ate the Whole Ecosystem</title>
+      <link>https://trustedsec.com/blog/shai-hulud-is-back</link>
+      <description>&amp;lt;p&amp;gt;Same worm, different wave. In our new blog, Director of Security Intelligence Carlos Perez covers Shai-Hulud, how this supply-chain malware can eat your whole ecosystem, and what you can do to protect your data.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/shai-hulud-is-back</guid>
+      <pubDate>Thu, 21 May 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
