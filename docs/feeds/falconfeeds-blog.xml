@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 08:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Hacktivism as Statecraft: When Geopolitical Flashpoints Ignite State-Aligned Cyber Militias</title>
-      <link>https://falconfeeds.io/blogs/hacktivism-as-statecraft-geopolitical-flashpoints-state-aligned-cyber-militias</link>
-      <description>Hacktivism is evolving into a tool of statecraft, as geopolitical crises fuel state-aligned cyber militias that act as proxies for coercion, signaling, and “gray zone” conflict. This blog analyzes models like Killnet, Anonymous Sudan, and DragonForce Malaysia, tracing how deniable cyber campaigns—from L7 DDoS to critical infrastructure disruption—are reshaping attribution, international norms, and global cyber stability.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/hacktivism-as-statecraft-geopolitical-flashpoints-state-aligned-cyber-militias</guid>
-      <pubDate>Mon, 16 Feb 2026 05:47:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 14:24:00 +0000</lastBuildDate>
     <item>
       <title>Digital Embargoes: Can Cyber Sanctions Deter State-Backed Threat Actors?</title>
       <link>https://falconfeeds.io/blogs/digital-embargoes-can-cyber-sanctions-deter-state-backed-threat-actors</link>
@@ -357,6 +350,13 @@
       <description>Explore the 2026 GitHub breach linked to TeamPCP and LAPSUS$, alongside DPRK-linked GitHub abuse campaigns targeting developers and software ecosystems.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/github-under-siege-teampcp-lapsus-lazarus-developer-ecosystem-abuse</guid>
       <pubDate>Fri, 22 May 2026 08:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>KEYMOUS+: Inside the North African Hacktivist-DDoS Empire Driving Global Cyber Disruption</title>
+      <link>https://falconfeeds.io/blogs/keymous-plus-hacktivist-ddos-empire-global-cyber-disruption</link>
+      <description>Explore how KEYMOUS+ became one of the world’s most active hacktivist DDoS actors through global disruption campaigns, alliance networks, and DDoS-for-hire infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/keymous-plus-hacktivist-ddos-empire-global-cyber-disruption</guid>
+      <pubDate>Fri, 22 May 2026 11:34:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
