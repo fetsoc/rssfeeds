@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 02:40:26 +0000</lastBuildDate>
-    <item>
-      <title>Diplomacy Disrupted: The Cyber Siege on International Negotiations, Peace Talks, and Summits</title>
-      <link>https://falconfeeds.io/blogs/diplomacy-disrupted-cyber-siege-international-negotiations-peace-talks-summits</link>
-      <description>Diplomacy is no longer protected by distance, pouches, or protocol—today’s summits and peace talks run on cloud tools, mobile devices, and host networks that are constantly targeted by state-backed cyber espionage and mercenary operators. This blog examines how attackers weaponize summit infrastructure, deploy spyware, and use social engineering to steal negotiation strategies, intercept private communications, and gain real-time decision advantage—reshaping the future of international diplomacy.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/diplomacy-disrupted-cyber-siege-international-negotiations-peace-talks-summits</guid>
-      <pubDate>Mon, 16 Feb 2026 04:50:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 08:52:29 +0000</lastBuildDate>
     <item>
       <title>Hacktivism as Statecraft: When Geopolitical Flashpoints Ignite State-Aligned Cyber Militias</title>
       <link>https://falconfeeds.io/blogs/hacktivism-as-statecraft-geopolitical-flashpoints-state-aligned-cyber-militias</link>
@@ -357,6 +350,13 @@
       <description>Explore how UAT-8302 leverages shared malware ecosystems, custom implants, and stealth persistence techniques to target government entities across multiple continents.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</guid>
       <pubDate>Wed, 13 May 2026 10:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Under Siege: TeamPCP, LAPSUS$ &amp; DPRK-Linked Abuse Converge on the Developer Ecosystem</title>
+      <link>https://falconfeeds.io/blogs/github-under-siege-teampcp-lapsus-lazarus-developer-ecosystem-abuse</link>
+      <description>Explore the 2026 GitHub breach linked to TeamPCP and LAPSUS$, alongside DPRK-linked GitHub abuse campaigns targeting developers and software ecosystems.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/github-under-siege-teampcp-lapsus-lazarus-developer-ecosystem-abuse</guid>
+      <pubDate>Fri, 22 May 2026 08:10:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 02:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:52:36 +0000</lastBuildDate>
     <item>
       <title>Ransomware: AI changes the writer. It doesn't change the math.</title>
       <link>https://www.sophos.com/en-us/blog/sophos-ransomware-ai</link>
@@ -58,17 +58,17 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub internal repositories breached</title>
-      <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
-      <description>&lt;p&gt;A malicious VS Code extension led to cloned private repositories, reportedly offered for sale on a criminal forum&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; GitHub, Supply chain&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/github-internal-repositories-breached</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos Firewall and Synchronized Security</title>
       <link>https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</link>
       <description>&lt;p&gt;Synchronized Security is a unique capability you won’t get anywhere else.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, Firewall, Synchronized Security&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub internal repositories breached</title>
+      <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
+      <description>&lt;p&gt;A malicious VS Code extension led to cloned private repositories, reportedly offered for sale on a criminal forum&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; GitHub, Supply chain&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/github-internal-repositories-breached</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
