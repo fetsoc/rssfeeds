@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 02:16:03 +0000</lastBuildDate>
-    <item>
-      <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
-      <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
-      <description>Cyber security threats are expected to be on the rise with threat actors use a wide range of tactics to “hijack” online shoppers and steal consumer data.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</guid>
-      <pubDate>Thu, 05 Nov 2020 11:35:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 19:05:56 +0000</lastBuildDate>
     <item>
       <title>Augmenting Security Operations in the Financial Services Industry</title>
       <link>https://www.cyberproof.com/blog/augmenting-security-operations-in-the-financial-services-industry/</link>
@@ -140,6 +133,13 @@
       <description>Here’s some of what our global team has to say about why they love working in the cybersecurity industry in general, and at CyberProof in particular.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/why-its-great-to-work-for-an-mdr-provider/</guid>
       <pubDate>Thu, 19 May 2022 02:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s Hot at Infosecurity Europe</title>
+      <link>https://www.cyberproof.com/blog/whats-hot-at-infosecurity-europe/</link>
+      <description>Infosec, a wonderful opportunity to see how the industry has progressed &amp; learn about emerging threats and trends. Join CyberProof at Stand T25.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/whats-hot-at-infosecurity-europe/</guid>
+      <pubDate>Thu, 26 May 2022 04:18:05 +0000</pubDate>
     </item>
     <item>
       <title>CyberNews: Quick Response as Important as Threat Prevention</title>
