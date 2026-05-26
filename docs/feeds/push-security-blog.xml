@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 02:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:40:56 +0000</lastBuildDate>
     <item>
       <title>Preventing account takeover with Push</title>
       <link>https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</link>

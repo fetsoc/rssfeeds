@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 02:32:02 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/admin-consent-for-m365-connector-for-claude.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/aae8af12a65ddff4b7fea491c98edbeedcd920c1</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/admin-consent-for-m365-connector-for-claude.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/aae8af12a65ddff4b7fea491c98edbeedcd920c1</guid>
-      <pubDate>Mon, 06 Apr 2026 16:33:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 09:39:27 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/defenderxdr-bluehammer-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/4d186d375dc8d23e313d7a0fb1de655845a4adc9</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/kongtukes-unmasked--defenderxdr-detection-of-evolved-modelorat.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/920f948393e39fb6ac1f2f6857c1fb59fb163332</guid>
       <pubDate>Thu, 21 May 2026 15:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/cloudflare-eviltokens-gotta-catchem-all.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/24371716375a83f4fb44016e05f9c4e68ac8a8fd</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cloudflare-eviltokens-gotta-catchem-all.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/24371716375a83f4fb44016e05f9c4e68ac8a8fd</guid>
+      <pubDate>Tue, 26 May 2026 05:57:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

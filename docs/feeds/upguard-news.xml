@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/upguard-news.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 02:33:30 +0000</lastBuildDate>
-    <item>
-      <title>albertarepublicans.com security incident exposes names and addresses of three million Albertans | UpGuard</title>
-      <link>https://www.upguard.com/news/albertarepublicans-com-data-breach-2026-05-05</link>
-      <description>A data leak involving albertarepublicans.com was reported in April 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/albertarepublicans-com-data-breach-2026-05-05</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mitchell County, North Carolina data breach exposes protected health information | UpGuard</title>
-      <link>https://www.upguard.com/news/mitchell-county-north-carolina-data-breach-2026-05-05</link>
-      <description>A data breach involving Mitchell County, North Carolina was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/mitchell-county-north-carolina-data-breach-2026-05-05</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ida Crown Jewish Academy data breach: what happened and what's at risk | UpGuard</title>
-      <link>https://www.upguard.com/news/ida-crown-jewish-academy-data-breach-2026-05-05</link>
-      <description>A data breach involving Ida Crown Jewish Academy was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
-      <guid isPermaLink="false">https://www.upguard.com/news/ida-crown-jewish-academy-data-breach-2026-05-05</guid>
-      <pubDate>Thu, 07 May 2026 01:35:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 09:41:08 +0000</lastBuildDate>
     <item>
       <title>Arcana Mental Health data breach: what happened and what's at risk | UpGuard</title>
       <link>https://www.upguard.com/news/arcana-mental-health-data-breach-2026-05-05</link>
@@ -357,6 +336,27 @@
       <description>A data breach involving rarichmond.com was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
       <guid isPermaLink="false">https://www.upguard.com/news/rarichmond-com-data-breach-2026-05-25</guid>
       <pubDate>Tue, 26 May 2026 02:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Station Casinos data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/station-casinos-data-breach-2026-05-25</link>
+      <description>A data breach involving Station Casinos was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/station-casinos-data-breach-2026-05-25</guid>
+      <pubDate>Tue, 26 May 2026 05:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Barnhart data breach: what happened and what's at risk | UpGuard</title>
+      <link>https://www.upguard.com/news/barnhart-data-breach-2026-05-25</link>
+      <description>A data breach involving Barnhart was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/barnhart-data-breach-2026-05-25</guid>
+      <pubDate>Tue, 26 May 2026 05:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eversource Energy data breach: names and Social Security numbers compromised | UpGuard</title>
+      <link>https://www.upguard.com/news/eversource-energy-data-breach-2026-05-25</link>
+      <description>A data breach involving Eversource Energy was reported in May 2026. See incident details, impact on customers, and recommended security measures.</description>
+      <guid isPermaLink="false">https://www.upguard.com/news/eversource-energy-data-breach-2026-05-25</guid>
+      <pubDate>Tue, 26 May 2026 05:36:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
