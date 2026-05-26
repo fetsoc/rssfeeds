@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 19:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 02:32:02 +0000</lastBuildDate>
     <item>
       <title>Update EvilTokensApril1stWeek.csv</title>
       <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/1392bcc284b5e935e1012ce87ce093ccf058ef02</link>
