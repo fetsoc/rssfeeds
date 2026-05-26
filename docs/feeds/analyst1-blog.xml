@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 09:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:07:25 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -43,13 +43,6 @@
       <pubDate>Wed, 30 Sep 2020 09:09:32 +0000</pubDate>
     </item>
     <item>
-      <title>Disinformation Campaigns: The New Cyber Attack and Weapon of Mass Distraction | Analyst1</title>
-      <link>https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</link>
-      <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
-      <guid isPermaLink="false">https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</guid>
-      <pubDate>Wed, 30 Sep 2020 09:09:47 +0000</pubDate>
-    </item>
-    <item>
       <title>Intelligent Cyber Threat Response | Analyst1</title>
       <link>https://analyst1.com/intelligent-cyber-threat-response-2/</link>
       <description>Bridge the gap between cyber threats and actionable intelligence with Analyst1: Simplifying cybersecurity, empowering analysts, and deploying integrations.</description>
@@ -83,13 +76,6 @@
       <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
       <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
       <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
-      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
-      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
-      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
       <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
@@ -162,11 +148,18 @@
       <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 1 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-1/</link>
-      <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
-      <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
+      <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
+      <link>https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</link>
+      <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</guid>
+      <pubDate>Thu, 12 Jan 2023 19:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-2/</link>
+      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 2. Listen to Jon tell his story with additional details only found in the audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-2/</guid>
+      <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
     </item>
     <item>
       <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
@@ -202,6 +195,13 @@
       <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
       <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
       <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
+      <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
+      <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
+      <guid isPermaLink="false">https://analyst1.com/global-cyberattack-on-the-us-government/</guid>
+      <pubDate>Wed, 13 Sep 2023 20:32:03 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
