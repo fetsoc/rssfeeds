@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 09:41:09 +0000</lastBuildDate>
-    <item>
-      <title>Dungeons and Daemons</title>
-      <link>https://trustedsec.com/blog/dungeons-and-daemons</link>
-      <description>&amp;lt;p&amp;gt;Play Roll for Initiative. Hack the Planet.Dungeons &amp;amp;amp; Daemons is a cybersecurity RPG that drops you into the boots of a Red Team operator on a live engagement. Your mission: infiltrate a corporate facility,…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/dungeons-and-daemons</guid>
-      <pubDate>Thu, 16 Apr 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 14:51:26 +0000</lastBuildDate>
     <item>
       <title>Mythos, Memory Loss, and the Part InfoSec Keeps Missing</title>
       <link>https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Same worm, different wave. In our new blog, Director of Security Intelligence Carlos Perez covers Shai-Hulud, how this supply-chain malware can eat your whole ecosystem, and what you can do to protect your data.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/shai-hulud-is-back</guid>
       <pubDate>Thu, 21 May 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PCI DSS, Telephone Payments, and the Problems With VoIP</title>
+      <link>https://trustedsec.com/blog/pci-dss-telephone-payments-and-the-problems-with-voip</link>
+      <description>&amp;lt;p&amp;gt;Merchants have been accepting payment cards over telephones for a long time, but changing interpretations of VoIP guidance have led to confusion about which PCI DSS requirements apply to telephone-based payment…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/pci-dss-telephone-payments-and-the-problems-with-voip</guid>
+      <pubDate>Tue, 26 May 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
