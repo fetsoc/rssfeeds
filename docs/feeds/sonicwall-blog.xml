@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 20:06:39 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Earns 5-Star Rating in 2026 CRN Partner Guide</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</link>
-      <description>SonicWall’s SecureFirst Partner Program earns a 5-Star rating in the 2026 CRN Partner Program Guide, recognizing exceptional partner enablement.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</guid>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 02:41:55 +0000</lastBuildDate>
     <item>
       <title>The Why and What of FIPS 140-3 Validation in Modern Cybersecurity</title>
       <link>https://www.sonicwall.com/blog/the-why-and-what-of-fips-140-3-validation-in-modern-cybersecurity</link>
@@ -309,6 +303,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>High-severity CVSS 8.6 SSRF in self-hosted Next.js servers via crafted WebSocket upgrade requests. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extend Firewall Security to Remote Workers with SonicWall CSE</title>
+      <link>https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</link>
+      <description>Discover how SonicWall CSE delivers enterprise-grade network protection to remote and hybrid workers, including content filtering, malicious domain blocking, and sandbox analysis.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Indicator of Compromise IP Protection in SonicOS 8: How It Works and Why It Matters</title>
