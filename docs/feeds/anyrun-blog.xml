@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 09:35:42 +0000</lastBuildDate>
-    <item>
-      <title>Release Notes: Expanded Threat Intelligence Access, AI Assisted Search 1,770 New Detections and More</title>
-      <link>https://any.run/cybersecurity-blog/release-notes-april-2026/</link>
-      <description>&lt;p&gt;April brought several updates across ANY.RUN’s Threat Intelligence and detection coverage.&amp;#160; The biggest change is expanded access to Threat Intelligence: Free plan users now get&amp;#160;20 premium requests in TI Lookup and YARA Search. This gives security teams a practical way to check suspicious indicators, explore related sandbox sessions, and&amp;#160;validate&amp;#160;malware or phishing activity using real attack [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-april-2026/" rel="nofollow"&gt;Release Notes: Expanded Threat Intelligence Access, AI Assisted Search 1,770 New Detections and More&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-april-2026/</guid>
-      <pubDate>Thu, 30 Apr 2026 11:57:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 15:01:11 +0000</lastBuildDate>
     <item>
       <title>New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know</title>
       <link>https://any.run/cybersecurity-blog/us-fake-invitation-phishing/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/" rel="nofollow"&gt;Major Cyber Attacks in May 2026: Fake Invitations, Agent Tesla, BlobPhish, and More&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/</guid>
       <pubDate>Tue, 26 May 2026 11:51:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside ANY.RUN’s 10-Year Evolution: An Interview with CEO Aleksey Lapshin</title>
+      <link>https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/</link>
+      <description>&lt;p&gt;What happens when a malware analyst decides to build a product he always wished he had? The case of ANY.RUN tells us that ten years later it may turn into an industry-standard solution, adopted by 74 Fortune 100 companies.&amp;#160; Celebrating a decade of&amp;#160;ANY.RUN, CEO Aleksey Lapshin shared his perspective on the evolution of the company, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/" rel="nofollow"&gt;Inside ANY.RUN’s 10-Year Evolution: An Interview with CEO Aleksey Lapshin&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/</guid>
+      <pubDate>Wed, 27 May 2026 11:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
