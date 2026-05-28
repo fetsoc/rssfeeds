@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 02:30:48 +0000</lastBuildDate>
-    <item>
-      <title>March 2026 Ransomware Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93359/</link>
-      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 09:51:32 +0000</lastBuildDate>
     <item>
       <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
       <link>https://asec.ahnlab.com/en/93336/</link>
@@ -210,6 +203,13 @@
       <description>ahnLab recently confirmed the distribution of malicious files disguised as security emails from a major credit card company in Korea. this attack has a similar flow to the Kimsuky group&amp;#8217;s past malicious LNK distribution case of disguising password files, but it is characterized by a change in the command execution of the initial LNK file. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93855/</guid>
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93881/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
