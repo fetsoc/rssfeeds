@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 15:35:49 +0000</lastBuildDate>
-    <item>
-      <title>The State of Identity Security 2026: Identity is the new perimeter</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</link>
-      <description>&lt;p&gt;Discover the causes and consequences of identity threats based on a survey of 5,000 organizations across 17 countries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; identity, Identity Security, Ransomware&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-identity-security-2026</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operating inside the lethal trifecta: Blast radius reduction in AI agent deployments</title>
-      <link>https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</link>
-      <description>&lt;p&gt;Seven things security teams can start doing today to reduce risk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, CISO, risk&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 20:13:29 +0000</lastBuildDate>
     <item>
       <title>Sophos Endpoint in action: Blocking a novel supply chain attack</title>
       <link>https://www.sophos.com/en-us/blog/sophos-supply-chain-attack</link>
@@ -70,6 +56,20 @@
       <description>&lt;p&gt;Strong endpoint protection remains critical. But in today’s AI-driven threat environment, it&amp;apos;s most powerful when it&amp;apos;s part of a broader, coordinated defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Gartner, Gartner Magic Quadrant, Endpoint, Sophos Endpoint&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/gartner-epp-mq-17</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Encore Performance: Sophos ranked #1 Overall in Endpoint, EDR, XDR, MDR, and Firewall for the 2nd consecutive time in the G2 Summer 2026 Reports</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</link>
+      <description>&lt;p&gt;Ranked #1 in 67 global reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canvas attack aftermath: What risks come next?</title>
+      <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
+      <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; cyberattack, ShinyHunters, GOLD CRYSTAL, Canvas&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

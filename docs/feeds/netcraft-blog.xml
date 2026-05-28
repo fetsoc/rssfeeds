@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 15:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:11:49 +0000</lastBuildDate>
     <item>
       <title>Hurricane Melissa Relief Scams: How Criminals Exploit Disaster</title>
       <link>https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</link>
@@ -249,13 +249,6 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/eviltokens-and-oauth-abuse</guid>
     </item>
     <item>
-      <title>Haozi’s Plug-and-Play Phishing Service Enables $280K in Fraud</title>
-      <link>https://www.netcraft.com/blog/haozi-s-plug-and-play-phishing-as-a-service-has-facilitated-280-000-of-criminal-transactions</link>
-      <description>Discover how the Haozi Phishing-as-a-Service group is fueling cybercrime with user-friendly kits, turnkey admin panels, and a $280K+ ad-driven ecosystem—all while offering customer support via Telegram.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/haozi-s-plug-and-play-phishing-as-a-service-has-facilitated-280-000-of-criminal-transactions</guid>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>May 2025 Web Server Survey | Netcraft</title>
       <link>https://www.netcraft.com/blog/may-2025-web-server-survey</link>
       <description>In the May 2025 survey we received responses from 1,227,232,638 sites across 277,546,948 domains and 13,470,692 web-facing computers. This reflects...</description>
@@ -317,6 +310,13 @@
       <description>Netcraft research reveals how threat actors are exploiting the 2026 FIFA World Cup through fake ticket sales, betting scams, phishing, and fraudulent hospitality sites.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/2026-world-cup-scams-targeting-fans</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
+      <link>https://www.netcraft.com/blog/dmarc-problem-detecting-lookalike-phishing-infrastructure</link>
+      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/dmarc-problem-detecting-lookalike-phishing-infrastructure</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
