@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 20:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 02:29:49 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -134,18 +134,18 @@
       <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
     </item>
     <item>
+      <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
+      <link>https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</link>
+      <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
+      <guid isPermaLink="false">https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</guid>
+      <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Why North Korea Steals Money | Analyst1</title>
       <link>https://analyst1.com/why-north-korea-steals-money/</link>
       <description>Discover how North Korea steals money through cyberattacks, cryptocurrency theft, and ransomware. Uncover their motives, spending habits, and global response.</description>
       <guid isPermaLink="false">https://analyst1.com/why-north-korea-steals-money/</guid>
       <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
-      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
-      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
-      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
     </item>
     <item>
       <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
@@ -169,6 +169,13 @@
       <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
     </item>
     <item>
+      <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
+      <link>https://analyst1.com/what-is-intelligence-analyst/</link>
+      <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-intelligence-analyst/</guid>
+      <pubDate>Thu, 11 May 2023 11:53:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransomware Resources | Analyst1</title>
       <link>https://analyst1.com/ransomware-resources/</link>
       <description>Discover a collection of insightful resources on ransomware, including gripping origin stories and comprehensive reports. Explore the world of cyber warfare.</description>
@@ -190,6 +197,13 @@
       <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
     </item>
     <item>
+      <title>What Is Lateral Movement in Cybersecurity?</title>
+      <link>https://analyst1.com/what-is-lateral-movement/</link>
+      <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
+      <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
       <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
@@ -202,13 +216,6 @@
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
       <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
-      <link>https://analyst1.com/cyber-threat-intelligence-best-practices/</link>
-      <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
-      <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
-      <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
     </item>
     <item>
       <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
@@ -253,13 +260,6 @@
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
-      <title>10 Reasons You Need a TIP Now | Analyst1</title>
-      <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
-      <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
-      <guid isPermaLink="false">https://analyst1.com/10-reasons-you-need-a-tip-now/</guid>
-      <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Is it time to replace your legacy TIP? | Analyst1</title>
       <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
       <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
@@ -279,6 +279,13 @@
       <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
       <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
       <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
+      <link>https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</link>
+      <description>Understanding why threat intelligence should play into corporate risk management is a key that every organization needs to have.</description>
+      <guid isPermaLink="false">https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</guid>
+      <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
@@ -349,13 +356,6 @@
       <description>April 02, 2025 – Arlington, VA — Analyst1, a leading provider of threat intelligence operations platforms, has announced the release of version 2.11.0, delivering powerful new capabilities designed to streamline threat intelligence workflows, strengthen data accountability, and boost analyst productivity across the board. Bulk Actions, Enhanced Control With v2.11.0, Analyst1 introduces bulk update and deletion […]</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-game-changing-intelligence-management-features-in-v2-11-0-release/</guid>
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leading University Protects Its Research with Help From Analyst1 | Analyst1</title>
-      <link>https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</link>
-      <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
-      <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

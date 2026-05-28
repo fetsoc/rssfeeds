@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 20:08:51 +0000</lastBuildDate>
-    <item>
-      <title>Q1 2026 Attack Technique Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93278/</link>
-      <description>overview The cyber attack landscape in Q1 2026 was characterized by a step change from traditional mass-automated threats, with accelerated penetration rates driven by the use of AI, identity-centric attacks, exploitation of supply chain and SaaS linkages, and a combination of social engineering and vulnerability exploitation. threat actors are no longer relying on a single [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93278/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 02:30:48 +0000</lastBuildDate>
     <item>
       <title>March 2026 Ransomware Trends Report</title>
       <link>https://asec.ahnlab.com/en/93359/</link>
@@ -217,6 +210,13 @@
       <description>ahnLab recently confirmed the distribution of malicious files disguised as security emails from a major credit card company in Korea. this attack has a similar flow to the Kimsuky group&amp;#8217;s past malicious LNK distribution case of disguising password files, but it is characterized by a change in the command execution of the initial LNK file. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93855/</guid>
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
+      <link>https://asec.ahnlab.com/en/93875/</link>
+      <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
