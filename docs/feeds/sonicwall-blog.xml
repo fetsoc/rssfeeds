@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 14:45:35 +0000</lastBuildDate>
-    <item>
-      <title>Deno Runtime Exploited: The Emerging Threat You Can’t Ignore</title>
-      <link>https://www.sonicwall.com/blog/deno-runtime-exploited-the-emerging-threat-you-can-t-ignore</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/deno-runtime-exploited-the-emerging-threat-you-can-t-ignore</guid>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 20:10:50 +0000</lastBuildDate>
     <item>
       <title>An In-Depth Look at Scarface Stealer</title>
       <link>https://www.sonicwall.com/blog/an-in-depth-look-at-scarface-stealer</link>
@@ -318,6 +313,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</link>
       <description>Critical CVSS 9.8 unauthenticated RCE in H2O-3 ImportSQLTable abuses PostgreSQL JDBC socketFactory and Spring gadget. SonicWall IPS signature available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Key Benefits of Virtual Firewalls for Cloud and Hybrid Environments</title>
+      <link>https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</link>
+      <description>Discover the 8 core benefits of virtual firewalls, from east-west traffic inspection to cloud compatibility. Learn how SonicWall virtual firewalls secure modern distributed and multi-cloud environments.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
