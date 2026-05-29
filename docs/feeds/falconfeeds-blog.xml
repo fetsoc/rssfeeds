@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 02:35:47 +0000</lastBuildDate>
-    <item>
-      <title>Intelligence Report: Cyber Warfare &amp; Information Operations in the Iran–Israel Conflict</title>
-      <link>https://falconfeeds.io/blogs/iran-israel-conflict-cyber-warfare-information-operations-2026</link>
-      <description>Iran–Israel conflict intelligence report analyzing February 2026 escalation-driven cyber warfare and information operations, including state and proxy attacks on critical infrastructure plus pro-Iran Telegram/X propaganda using bots, recycled footage, and AI-generated misinformation to shape regional and global narratives.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-israel-conflict-cyber-warfare-information-operations-2026</guid>
-      <pubDate>Tue, 03 Mar 2026 10:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Shadows: Investigating Claims of Betrayal and Intelligence Leaks in Khamenei’s Death</title>
-      <link>https://falconfeeds.io/blogs/khamenei-death-claims-betrayal-intelligence-leaks-analysis</link>
-      <description>Investigate unverified claims surrounding Ayatollah Ali Khamenei’s reported death—alleged leaks, insider betrayal, and HUMINT-driven failures behind a high-stakes strike.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/khamenei-death-claims-betrayal-intelligence-leaks-analysis</guid>
-      <pubDate>Tue, 03 Mar 2026 13:37:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 09:41:32 +0000</lastBuildDate>
     <item>
       <title>Handala: The Silent Weapon of Tehran’s Cyber Shadow War</title>
       <link>https://falconfeeds.io/blogs/handala-silent-weapon-tehrans-cyber-shadow-war</link>
@@ -357,6 +343,20 @@
       <description>Explore the Shai-Hulud campaign that evolved from an npm worm into a cross-ecosystem threat compromising npm and PyPI through CI/CD abuse and stolen developer credentials.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/shai-hulud-npm-pypi-supply-chain-worm-analysis</guid>
       <pubDate>Mon, 25 May 2026 10:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>SideWinder: The India-Linked APT Expanding from South Asia to Global Strategic Infrastructure</title>
+      <link>https://falconfeeds.io/blogs/sidewinder-decade-adaptive-espionage-south-asia-nuclear-infrastructure</link>
+      <description>Explore the evolution of SideWinder from a South Asian espionage actor to a global cyber threat targeting governments, maritime infrastructure, and nuclear facilities.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/sidewinder-decade-adaptive-espionage-south-asia-nuclear-infrastructure</guid>
+      <pubDate>Fri, 29 May 2026 05:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semiconductor Sanctions &amp; the Cyber Espionage Nexus: How Export Controls Are Reshaping Global Cyber Conflict</title>
+      <link>https://falconfeeds.io/blogs/semiconductor-sanctions-cyber-espionage-export-controls-geopolitics</link>
+      <description>Explore how semiconductor export controls, sanctions, and cyber espionage are converging to reshape global technological competition, targeting chip manufacturers, supply chains, and critical intellectual property.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/semiconductor-sanctions-cyber-espionage-export-controls-geopolitics</guid>
+      <pubDate>Fri, 29 May 2026 08:59:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
