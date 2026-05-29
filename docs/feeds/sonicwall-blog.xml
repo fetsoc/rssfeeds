@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 20:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 02:34:04 +0000</lastBuildDate>
     <item>
       <title>Deno Runtime Exploited: The Emerging Threat You Can’t Ignore</title>
       <link>https://www.sonicwall.com/blog/deno-runtime-exploited-the-emerging-threat-you-can-t-ignore</link>
