@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 20:10:50 +0000</lastBuildDate>
-    <item>
-      <title>An In-Depth Look at Scarface Stealer</title>
-      <link>https://www.sonicwall.com/blog/an-in-depth-look-at-scarface-stealer</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/an-in-depth-look-at-scarface-stealer</guid>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 02:27:26 +0000</lastBuildDate>
     <item>
       <title>Michael Crean Discusses Iran Cyber Threats on Fox News</title>
       <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
@@ -251,6 +246,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</link>
       <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ransomware Chimera That Does Everything</title>
+      <link>https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</link>
+      <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
