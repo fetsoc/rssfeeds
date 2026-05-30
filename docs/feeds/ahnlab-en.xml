@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 08:20:53 +0000</lastBuildDate>
-    <item>
-      <title>Q1 2026 Malware Statistics Report for Linux SSH Servers</title>
-      <link>https://asec.ahnlab.com/en/93336/</link>
-      <description>Overview. ASEC analyzed the statistics of attacks against Linux SSH servers in Q1 2026 based on honeypot logs. The P2PInfect worm dominated, accounting for 70.3% of all attack sources, and DDoS bots such as Mirai, XMRig, Prometei, and CoinMiner were identified as the main threats. Purpose and Scope. the purpose of this report is to [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93336/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 13:09:42 +0000</lastBuildDate>
     <item>
       <title>Statistical Report on Malware Targeting Windows Web Servers in Q1 2026</title>
       <link>https://asec.ahnlab.com/en/93335/</link>
@@ -48,6 +41,13 @@
       <link>https://asec.ahnlab.com/en/93323/</link>
       <description>Alert this report is a summary of deep web and dark web source-based material and contains some facts that cannot be fully verified due to the nature of the sources. Major Issues BreachForums&amp;#8217; internal collapse and attempts to rebuild were observed. trust was undermined by the betrayal of moderators and the movement of funds, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93323/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Ransomware Trends Report</title>
+      <link>https://asec.ahnlab.com/en/93359/</link>
+      <description>Purpose and Scope. this report summarizes the number of ransomware samples, number of affected systems, DLS-based statistics, and major Korean &amp;#038; Global ransomware issues identified during the month of March 2026. Key statistics. ransomware sample counts and victimized systems statistics were aggregated by detection name assigned by AhnLab. statistics on targeted businesses were calculated based [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93359/</guid>
       <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -205,17 +205,17 @@
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
-      <link>https://asec.ahnlab.com/en/93875/</link>
-      <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
       <link>https://asec.ahnlab.com/en/93881/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
+      <link>https://asec.ahnlab.com/en/93875/</link>
+      <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
       <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
