@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 13:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 19:05:20 +0000</lastBuildDate>
     <item>
       <title>Iranian Threat Actor MERCURY Exploits Log4j 2 Vulnerabilities</title>
       <link>https://threatmon.io/iranian-threat-actor-mercury-exploits-log4j-2-vulnerabilities-in-unpatched-systems/</link>

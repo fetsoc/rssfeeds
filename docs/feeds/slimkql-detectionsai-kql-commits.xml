@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 13:20:39 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/cve-2026-33829-snipping-tool-ntlm-leak.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/78dcc30df9ab066857a0360457488d0de5c444e7</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve-2026-33829-snipping-tool-ntlm-leak.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/78dcc30df9ab066857a0360457488d0de5c444e7</guid>
-      <pubDate>Wed, 15 Apr 2026 18:57:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 19:05:13 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/hunting-redsun.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/ff58ce235c951e0cfec5332d8ee540aa288af9b4</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve-2026-48095-surface-attack-area.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/564eba1c79ba44847f478f8b618c8a5cd950417d</guid>
       <pubDate>Thu, 28 May 2026 06:04:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/high-precision-teams-impersonation-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/29f79133bb7ed60eb48b08936c2be0d757fbb9ae</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/high-precision-teams-impersonation-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/29f79133bb7ed60eb48b08936c2be0d757fbb9ae</guid>
+      <pubDate>Sun, 31 May 2026 14:07:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
