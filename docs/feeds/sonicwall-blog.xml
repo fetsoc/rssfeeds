@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 17:22:35 +0000</lastBuildDate>
-    <item>
-      <title>All-Port TLS Inspection: SonicWall RFDPI and DPI-SSL Explained</title>
-      <link>https://www.sonicwall.com/blog/threats-don-t-follow-port-rules-sonicwall-s-inspection-engine-does-</link>
-      <description>Over 90% of traffic is encrypted. Threats run on port 4444, 8443, or wherever they choose. See how SonicWall RFDPI and DPI-SSL inspect every port, every session.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/threats-don-t-follow-port-rules-sonicwall-s-inspection-engine-does-</guid>
-    </item>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for May 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 21:23:24 +0000</lastBuildDate>
     <item>
       <title>Recognizing Outstanding Performance in 2022 | SonicWall</title>
       <link>https://www.sonicwall.com/blog/recognizing-outstanding-partner-and-distributor-performance-in-2022</link>
@@ -167,6 +156,18 @@
       <link>https://www.sonicwall.com/blog/cybersecurity-education-with-sonicwall-university</link>
       <description>Because our goal is to outwit highly knowledgeable criminals, one of our greatest assets in this ongoing battle is cybersecurity education.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/cybersecurity-education-with-sonicwall-university</guid>
+    </item>
+    <item>
+      <title>Better Together: The Role of Women in Securing Our World</title>
+      <link>https://www.sonicwall.com/blog/better-together-the-role-of-women-in-securing-our-world</link>
+      <description>For Cybersecurity Awareness Month, stop and learn about the role of women in cybersecurity and the importance of being aware and proactive.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/better-together-the-role-of-women-in-securing-our-world</guid>
+    </item>
+    <item>
+      <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
+      <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Security as a Story: Using Reporting to Prove Your Value as an MSP</title>
