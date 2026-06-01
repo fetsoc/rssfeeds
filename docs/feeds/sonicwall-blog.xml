@@ -7,160 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 11:13:24 +0000</lastBuildDate>
-    <item>
-      <title>Michael Crean Discusses Iran Cyber Threats on Fox News</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
-      <description>SonicWall SVP Michael Crean appeared on Fox News to discuss Iran-linked cyber activity and the Stryker attack. Watch the full interview.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</guid>
-    </item>
-    <item>
-      <title>The SonicSentry SOC in Action in the Morning</title>
-      <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
-      <description>An alert may seem small, but tackling it quickly could be the difference between a good day and a very bad one.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
-    </item>
-    <item>
-      <title>FIPS 140-3 Validation: The Difference Between Proven and Assumed</title>
-      <link>https://www.sonicwall.com/blog/fips-140-3-validation-the-difference-between-proven-and-assumed</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/fips-140-3-validation-the-difference-between-proven-and-assumed</guid>
-    </item>
-    <item>
-      <title>Juniper JunOS OS Evolved Pre-authenticated Remote Code Execution (CVE-2026-21902)</title>
-      <link>https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a severe unauthenticated Incorrect Permission Assignment for Critical Resource vulnerability in Juniper Networks Junos OS Evolved (PTX Series), assessed their impact, and developed mitigation measures. Juniper PTX Series routers are high-performance core and peering routers built for high throughput, low latency, and scale. They are commonly used by internet service providers, telecommunication services, and cloud network applications.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</guid>
-    </item>
-    <item>
-      <title>Partner Power News - March Momentum: Driving Growth &amp; Secure Access for MSPs | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news---march-2026-outcomes-acceleration-opportunity</link>
-      <description>Boost MSP success with modern cybersecurity, secure‑by‑default strategies, SonicWall firewall leadership, and new SecureFirst Partner Program updates driving growth.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news---march-2026-outcomes-acceleration-opportunity</guid>
-    </item>
-    <item>
-      <title>Three Decades for a 3-Line Fix: The Critical telnetd Bug Hiding in Plain Sight (CVE-2026-32746)</title>
-      <link>https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</link>
-      <description>The SonicWall Capture Labs threat research team became aware of an out-of-bounds write vulnerability in the Telnet server shipped with GNU Inetutils, assessed its impact and developed mitigation measures. Telnetd hardly needs an introduction. It is one of the oldest and most widely distributed network utilities on Linux systems.
-The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. This vulnerability, classified as a classic buffer overflow (CWE-120), allows an unauthenticated remote attacker to crash the server and potentially execute arbitrary commands. It carries a critical CVSS score of 9.8. Contrary to popular belief that Telnet is dead, it remains hidden within the vital infrastructure that runs the world. Hence, users are strongly encouraged to apply the vendor-provided patch or restrict/disable the telnet access without delay.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</guid>
-    </item>
-    <item>
-      <title>From Threat Report to Protect Report: What It Means for SMBs and Partners</title>
-      <link>https://www.sonicwall.com/blog/from-threat-report-to-protect-report-what-the-2026-sonicwall-cyber-protect-report-means-for-smbs-and-the-partners-who-protect-them</link>
-      <description>Discover how the 2026 Cyber Protect Report shifts focus from threats to outcomes, and what it means for SMBs and partners.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/from-threat-report-to-protect-report-what-the-2026-sonicwall-cyber-protect-report-means-for-smbs-and-the-partners-who-protect-them</guid>
-    </item>
-    <item>
-      <title>Future-Proof Your SMB: Moving from Legacy Firewalls to Active Protection</title>
-      <link>https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</link>
-      <description>Discover why SMBs are choosing active protection over reactive "break-fix" security. Save time with seamless Gen 6 migration tools and the "3 &amp; Free" program.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-good-enough-isn-t-enough-moving-from-legacy-to-active-protection-in-2026</guid>
-    </item>
-    <item>
-      <title>GPT Academic Pickle Deserialization Remote Code Execution (CVE-2026-0763)</title>
-      <link>https://www.sonicwall.com/blog/gpt-academic-pickle-deserialization-remote-code-execution</link>
-      <description>SonicWall Capture Labs analyzes CVE-2026-0763, a critical CVSS 9.8 unauthenticated remote code execution vulnerability in GPT Academic v3.91 and earlier. The flaw chains a TAR symlink path traversal in the upload handler with unsafe pickle deserialization in the Social Helper plugin, allowing attackers to execute arbitrary commands without authentication. IPS signature 22081 provides protection.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/gpt-academic-pickle-deserialization-remote-code-execution</guid>
-    </item>
-    <item>
-      <title>Manage Firewalls, APs &amp; Switches in One Platform</title>
-      <link>https://www.sonicwall.com/blog/now-unified-manage-firewalls-aps-and-switches-in-one-platform</link>
-      <description>Manage firewalls, access points, and switches in one platform. Simplify operations, improve visibility, and scale faster with SonicWall Unified Management.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/now-unified-manage-firewalls-aps-and-switches-in-one-platform</guid>
-    </item>
-    <item>
-      <title>Unpacking the Nursultan Client PyInstaller Telegram Malware</title>
-      <link>https://www.sonicwall.com/blog/unpacking-the-nursultan-telegram-malware</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/unpacking-the-nursultan-telegram-malware</guid>
-    </item>
-    <item>
-      <title>How SonicWall's Knowledge Base Powers Faster, Smarter Customer Support</title>
-      <link>https://www.sonicwall.com/blog/supporting-partners-and-customers-through-a-smarter-stronger-knowledge-base</link>
-      <description>Discover how SonicWall's KCS-certified knowledge base delivers 5,000+ articles to help partners and customers resolve issues quickly and confidently.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/supporting-partners-and-customers-through-a-smarter-stronger-knowledge-base</guid>
-    </item>
-    <item>
-      <title>n8n Expression Sandbox Bypass RCE - CVE-2026-1470</title>
-      <link>https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</link>
-      <description>Critical CVSS 9.9 RCE vulnerability in n8n AI workflow automation via expression sandbox bypass. SonicWall IPS signatures IPS:21799 and IPS:22086 available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</guid>
-    </item>
-    <item>
-      <title>SonicWall Named Leader in 2026 GigaOm Firewall Radar</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
-      <description>SonicWall is named a Leader and Fast Mover in the 2026 GigaOm Radar for Enterprise Firewalls, highlighting innovation and proven threat protection.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
-    </item>
-    <item>
-      <title>ACRStealer The Silent Golang Threat Behind Credential and Wallet Theft</title>
-      <link>https://www.sonicwall.com/blog/acrstealer-the-silent-golang-threat</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/acrstealer-the-silent-golang-threat</guid>
-    </item>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for April 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-april-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-april-2026</guid>
-    </item>
-    <item>
-      <title>User Clicks Lead to Breaches – How Zero Trust Stops Execution-Based Attacks</title>
-      <link>https://www.sonicwall.com/blog/a-click-shouldn-t-lead-to-a-breach</link>
-      <description>Phishing links and malicious files remain a leading cause of ransomware. Learn how Zero Trust access helps prevent user-initiated attacks from becoming breaches.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-click-shouldn-t-lead-to-a-breach</guid>
-    </item>
-    <item>
-      <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
-      <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>
-      <description>Credential compromise is one of the most common causes of data breaches. Learn how stolen credentials are used in attacks and how Zero Trust access helps stop them.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</guid>
-    </item>
-    <item>
-      <title>VPN Vulnerabilities Lead to Breaches – How to Eliminate Risk</title>
-      <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
-      <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
-    </item>
-    <item>
-      <title>Firewall Security Assessment Reporting: How SonicWall NSM Strengthens Your Network Security Posture</title>
-      <link>https://www.sonicwall.com/blog/how-firewall-security-assessment-reporting-strengthens-your-network-security-posture</link>
-      <description>Discover how firewall security assessment reporting with SonicWall NSM 3.5 surfaces threat trends, network health gaps, and productivity risks — in one report.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-firewall-security-assessment-reporting-strengthens-your-network-security-posture</guid>
-    </item>
-    <item>
-      <title>Finding Vulnerabilities at Scale: How SonicWall Built an AI-Assisted Security Pipeline for Large C Codebases</title>
-      <link>https://www.sonicwall.com/blog/finding-vulnerabilities-at-scale-how-sonicwall-built-an-ai-assisted-security-pipeline-for-large-c-codebases</link>
-      <description>Learn how SonicWall built an AI‑assisted, multi‑stage security pipeline to find real vulnerabilities at scale in large C codebases—where architecture, not models, does the heavy lifting.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/finding-vulnerabilities-at-scale-how-sonicwall-built-an-ai-assisted-security-pipeline-for-large-c-codebases</guid>
-    </item>
-    <item>
-      <title>Ghost CMS Content API Blind SQL Injection - CVE-2026-26980</title>
-      <link>https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</link>
-      <description>Critical CVSS 9.4 unauthenticated blind SQL injection in Ghost CMS Content API (v3.24.0-6.19.0) enables full database read. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</guid>
-    </item>
-    <item>
-      <title>What Are PoPs and Why Do They Matter for Zero Trust Security?</title>
-      <link>https://www.sonicwall.com/blog/zero-trust-enforcement-happens-around-the-world</link>
-      <description>Points of Presences (PoPs) are the backbone of cloud-delivered security. Learn what PoPs are, why they matter, and how CSE's new PoP Management gives your team full visibility and control.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/zero-trust-enforcement-happens-around-the-world</guid>
-    </item>
-    <item>
-      <title>Take Action on the 7 Deadly Cyber Sins With the 2026 SonicWall Protect Report</title>
-      <link>https://www.sonicwall.com/blog/seven-sins-one-firewall-turning-the-2026-cyber-protect-report-into-policy</link>
-      <description>Our threat data shows organizations make the same cyber mistakes over and over. Here are the steps you can take to overcome them.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/seven-sins-one-firewall-turning-the-2026-cyber-protect-report-into-policy</guid>
-    </item>
-    <item>
-      <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
-      <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
-      <description>Cyber threats move fast. Learn why detection alone isn’t enough and how automated security response helps stop attacks before they spread.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
-    </item>
-    <item>
-      <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
-      <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in Langflow AI via build_public_tmp endpoint passes user input to exec() without sandboxing. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 17:22:35 +0000</lastBuildDate>
     <item>
       <title>All-Port TLS Inspection: SonicWall RFDPI and DPI-SSL Explained</title>
       <link>https://www.sonicwall.com/blog/threats-don-t-follow-port-rules-sonicwall-s-inspection-engine-does-</link>
@@ -171,6 +18,155 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <title>Microsoft Security Bulletin Coverage for May 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</guid>
+    </item>
+    <item>
+      <title>Recognizing Outstanding Performance in 2022 | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/recognizing-outstanding-partner-and-distributor-performance-in-2022</link>
+      <description>Announcing the 2023 SonicWall Partner Awards for outstanding performance by SonicWall distributors and partners globally.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/recognizing-outstanding-partner-and-distributor-performance-in-2022</guid>
+    </item>
+    <item>
+      <title>New “Reward for Value” for Channel Partners | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/new-reward-value-channel-partners</link>
+      <description>Learn more about the “Reward for Value” program as well as SonicWall's other partnering engines like Incentives, Enablement, Support and Services.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/new-reward-value-channel-partners</guid>
+    </item>
+    <item>
+      <title>SonicWall Takes Firewalls, SonicOS and Cloud Analytics to Elite Levels</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-delivers-more-speed-security-across-entire-portfolio</link>
+      <description>SonicWall Cloud Analytics provides extensive drill-down investigative and forensic capabilities for deep security data analysis.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-delivers-more-speed-security-across-entire-portfolio</guid>
+    </item>
+    <item>
+      <title>Upgrade Your SonicWall Next-Generation Firewall with ‘3 &amp; Free’ Program</title>
+      <link>https://www.sonicwall.com/blog/upgrade-your-sonicwall-next-generation-firewall-with-3-free-program</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-your-sonicwall-next-generation-firewall-with-3-free-program</guid>
+    </item>
+    <item>
+      <title>Black Hat USA 2017: Build Your Arsenal with SonicWall Capture</title>
+      <link>https://www.sonicwall.com/blog/black-hat-usa-2017-build-your-arsenal-with-sonicwall-capture</link>
+      <description>At Black Hat USA 2017, SonicWall's team of experts will be in booth 554 July 26-27 to demonstrate deployment of Capture using real malware samples.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/black-hat-usa-2017-build-your-arsenal-with-sonicwall-capture</guid>
+    </item>
+    <item>
+      <title>SonicWall Unveils Boundless 2020, Company’s Largest Ever Global Virtual Experience</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-unveils-boundless-2020-companys-largest-global-virtual-experience</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-unveils-boundless-2020-companys-largest-global-virtual-experience</guid>
+    </item>
+    <item>
+      <title>SonicWall MSSP Program: Filling the Cyber Security Skills Gap</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-mssp-program-blueprint-for-filling-the-cyber-security-skills-gap</link>
+      <description>Recognizing that time to revenue is critical, our MSSP program offers MSS blueprints to help Partners jumpstart their managed security service offerings quickly and cost effectively.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-mssp-program-blueprint-for-filling-the-cyber-security-skills-gap</guid>
+    </item>
+    <item>
+      <title>New SonicWall SecureFirst Partner Program | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/new-sonicwall-securefirst-partner-program</link>
+      <description>Learn more about SonicWall's new SecureFirst Partner Program, an all-around network security solution for our valued channel partners.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/new-sonicwall-securefirst-partner-program</guid>
+    </item>
+    <item>
+      <title>SonicWall CEO Bill Conner Joins Cyber Security Panel on Capitol Hill</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-joins-cyber-security-panel-on-capitol-hill</link>
+      <description>On March 6, cyber security experts and policymakers will come together in a panel discussion featuring Congressman Lamar Smith, SonicWall CEO Bill Conner and the Honorable Secretary Michael Chertoff, to address the current threat landscape and its impact on the U.S. economy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-joins-cyber-security-panel-on-capitol-hill</guid>
+    </item>
+    <item>
+      <title>A New Era of Partnering to Win</title>
+      <link>https://www.sonicwall.com/blog/a-new-era-of-partnering-to-win</link>
+      <description>SonicWall Partners are at the core of our success. We're continually improving products, services, support, and brand awareness.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-new-era-of-partnering-to-win</guid>
+    </item>
+    <item>
+      <title>SonicWall and our Channel Partners Team to Deliver Security Services</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-and-channel-partners-team-to-deliver-new-security-professional-services</link>
+      <description>The program identifies and showcases SonicWall SecureFirst channel partners who have a security focused professional services practice.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-and-channel-partners-team-to-deliver-new-security-professional-services</guid>
+    </item>
+    <item>
+      <title>Sneak Peak: 2018 SonicWall Cyber Threat Report | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/sneak-peak-2018-sonicwall-cyber-threat-report</link>
+      <description>The cyber security industry relies on perpetual cadence of collaboration, research, analysis and review. For SonicWall, that comes via our in-depth cyber threat report. This year, we’re excited to announce that we will publish the 2018 SonicWall Cyber Threat Report on Tuesday, March 6.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sneak-peak-2018-sonicwall-cyber-threat-report</guid>
+    </item>
+    <item>
+      <title>Cybersecurity for SMBs: Bundled Network Security Delivers Cost-Effective Protection</title>
+      <link>https://www.sonicwall.com/blog/cybersecurity-for-smbs-bundled-network-security-delivers-cost-effective-protection</link>
+      <description>SMB cyber security available in cost-effective bundles. Tailored for growing businesses and small offices.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/cybersecurity-for-smbs-bundled-network-security-delivers-cost-effective-protection</guid>
+    </item>
+    <item>
+      <title>‘3 &amp; Free’ Promotion: The Easiest Way to Upgrade Your SonicWall Firewall for Free</title>
+      <link>https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</guid>
+    </item>
+    <item>
+      <title>‘3 &amp; Free’ Promotion: The Easiest Way to Upgrade Your SonicWall Firewall for Free</title>
+      <link>https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</guid>
+    </item>
+    <item>
+      <title>SonicWall Network Security Administrator Course | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/new-cyber-security-certification-sonicwall-network-security-administrator-course</link>
+      <description>Based on student feedback and market requirements, SonicWall’s Education Services Organization is introducing the SonicWall Network Security Administrator (SNSA) course; a completely new training course and certification exam that will replace the Network Security Basic Administration (NSBA) class.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/new-cyber-security-certification-sonicwall-network-security-administrator-course</guid>
+    </item>
+    <item>
+      <title>CEO Bill Conner Wins SC Media 2017 Reboot Leadership Award</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-wins-inaugural-sc-media-2017-reboot-leadership-award</link>
+      <description>Bill Conner is the recipient of the inaugural SC Media Reboot Leadership Award. He is one of only six honored in the publication’s top management category.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-wins-inaugural-sc-media-2017-reboot-leadership-award</guid>
+    </item>
+    <item>
+      <title>Channel Partner Award Winners at EMEA PEAK16 | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/channel-partner-award-winners-emea-peak16</link>
+      <description>At EMEA PEAK16, SonicWall announced channel partner award winners and new investments to further align with customer needs and partner engagement models.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/channel-partner-award-winners-emea-peak16</guid>
+    </item>
+    <item>
+      <title>Switch to SonicWall: 8 Reasons to Trade In Your Old Firewall</title>
+      <link>https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall</guid>
+    </item>
+    <item>
+      <title>Passate a SonicWall: 8 motivi per permutare i vecchi firewall</title>
+      <link>https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall-it</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall-it</guid>
+    </item>
+    <item>
+      <title>SonicWall Wraps a Winning Streak in the Cyber Arms Race at RSA 2017</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-is-on-a-winning-streak-at-rsa-2017</link>
+      <description>All of the innovation to get ahead of the cyber arms race SonicWall is delivering to the marketplace has resulted in four awards.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-is-on-a-winning-streak-at-rsa-2017</guid>
+    </item>
+    <item>
+      <title>EMEA Peak16: Come for Knowledge and Leave with Power | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</link>
+      <description>SonicWAll Security EMEA Peak16 details for our partners how to architect and deliver the security solutions that turn "non" into "yes".</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</guid>
+    </item>
+    <item>
+      <title>SonicWall Simplifies Day-to-Day Operations for MSSPs</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-simplifies-day-to-day-operations-for-mssps</link>
+      <description>MSSP operations, security and customer management streamlined by SonicWall.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-simplifies-day-to-day-operations-for-mssps</guid>
+    </item>
+    <item>
+      <title>Advanced Security Training: New SonicWall Network Security Professional (SNSP) Course &amp; Certification</title>
+      <link>https://www.sonicwall.com/blog/advanced-security-training-new-sonicwall-network-security-professional-snsp-course-certification</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/advanced-security-training-new-sonicwall-network-security-professional-snsp-course-certification</guid>
+    </item>
+    <item>
+      <title>How to Use Threat Intelligence to Stop Cyber Attacks | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/how-to-use-threat-intelligence-to-stop-cyber-attacks</link>
+      <description>Within the SonicWall Security Center, the highly interactive threat meters provide real-time threat intelligence about today’s most critical attack trends.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-to-use-threat-intelligence-to-stop-cyber-attacks</guid>
+    </item>
+    <item>
+      <title>Focused Cybersecurity Education with SonicWall University</title>
+      <link>https://www.sonicwall.com/blog/cybersecurity-education-with-sonicwall-university</link>
+      <description>Because our goal is to outwit highly knowledgeable criminals, one of our greatest assets in this ongoing battle is cybersecurity education.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/cybersecurity-education-with-sonicwall-university</guid>
     </item>
     <item>
       <title>Security as a Story: Using Reporting to Prove Your Value as an MSP</title>

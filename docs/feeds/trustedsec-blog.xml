@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 11:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:25:09 +0000</lastBuildDate>
     <item>
       <title>Mythos, Memory Loss, and the Part InfoSec Keeps Missing</title>
       <link>https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</link>
@@ -74,7 +74,7 @@
     <item>
       <title>PCI DSS, Telephone Payments, and the Problems With VoIP</title>
       <link>https://trustedsec.com/blog/pci-dss-telephone-payments-and-the-problems-with-voip</link>
-      <description>&amp;lt;p&amp;gt;Merchants have been accepting payment cards over telephones for a long time, but changing interpretations of VoIP guidance have led to confusion about which PCI DSS requirements apply to telephone-based payment…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Turns out your VoIP system has some opinions about your PCI DSS compliance. Director of Advisory Services Chris Camejo breaks down who&amp;#039;s affected and how to reduce your compliance burden.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/pci-dss-telephone-payments-and-the-problems-with-voip</guid>
       <pubDate>Tue, 26 May 2026 04:00:00 +0000</pubDate>
     </item>
