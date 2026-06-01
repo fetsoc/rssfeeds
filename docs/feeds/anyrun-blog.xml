@@ -7,12 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 02:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:14:56 +0000</lastBuildDate>
     <item>
       <title>New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know</title>
       <link>https://any.run/cybersecurity-blog/us-fake-invitation-phishing/</link>
       <description>&lt;p&gt;A new large-scale phishing campaign is targeting U.S. organizations with fake event invitations that lead to credential theft, OTP interception, or RMM tool installation. ANY.RUN researchers found that the campaign uses a repeatable phishing framework to create event-themed lure pages at scale. Some pages steal email credentials and OTP codes, while others deliver legitimate remote [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-fake-invitation-phishing/" rel="nofollow"&gt;New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-fake-invitation-phishing/"&gt;New Phishing Campaign Targets US with Credential Theft: What CISOs Need to Know&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-fake-invitation-phishing/</guid>
       <pubDate>Tue, 05 May 2026 12:59:53 +0000</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <title>How CISOs Reduce Cyber Risk with MITRE ATT&amp;CK</title>
       <link>https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</link>
       <description>&lt;p&gt;Nowadays&amp;#160;CISOs&amp;#160;face escalating threats that outpace traditional defenses. The strategy is evolving from compliance-driven checklists to a threat-informed approach. MITRE ATT&amp;#38;CK provides a globally accessible knowledge base of real-world adversary tactics, techniques, and procedures (TTPs), enabling organizations to understand, prioritize, and counter actual attacker behaviors rather than abstract controls.&amp;#160;&amp;#160;This shift helps align security efforts with business [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/" rel="nofollow"&gt;How CISOs Reduce Cyber Risk with MITRE ATT&amp;amp;CK &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/"&gt;How CISOs Reduce Cyber Risk with MITRE ATT&amp;amp;CK &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</guid>
       <pubDate>Wed, 06 May 2026 09:31:54 +0000</pubDate>
     </item>
@@ -28,7 +28,7 @@
       <title>ANY.RUN &amp; Elastic Security: Bring Threat Intelligence into Detection and Investigation Workflows</title>
       <link>https://any.run/cybersecurity-blog/anyrun-elastic-security/</link>
       <description>&lt;p&gt;Security teams&amp;#160;don’t&amp;#160;lack data. They lack&amp;#160;timely, usable intelligence. Analysts spend too much time&amp;#160;validating&amp;#160;indicators, switching between tools, and figuring out what&amp;#160;actually matters. This introduces delays and puts organizations at risk of a missed incident.&amp;#160;&amp;#160; ANY.RUN&amp;#160;solves this by bringing real-time, behavior-validated threat intelligence from ANY.RUN integrated into&amp;#160;Elastic Security,&amp;#160;where&amp;#160;SOC&amp;#160;and MSSP teams detect emerging cyberattacks earlier and respond faster without [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-elastic-security/" rel="nofollow"&gt;ANY.RUN &amp;amp; Elastic Security: Bring Threat Intelligence into Detection and Investigation Workflows      &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-elastic-security/"&gt;ANY.RUN &amp;amp; Elastic Security: Bring Threat Intelligence into Detection and Investigation Workflows      &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-elastic-security/</guid>
       <pubDate>Tue, 12 May 2026 11:15:30 +0000</pubDate>
     </item>
@@ -36,7 +36,7 @@
       <title>New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/soc-ready-reporting/</link>
       <description>&lt;p&gt;Successful SOC operations&amp;#160;require&amp;#160;more than&amp;#160;accurate&amp;#160;detections.&amp;#160;Instant access to context, clear conclusions,&amp;#160;and&amp;#160;operationally relevant insights allow incidents to move&amp;#160;across&amp;#160;workflows&amp;#160;without delays:&amp;#160; Making ANY.RUN’s Interactive Sandbox a part of your standard SOC workflow helps eliminate bottlenecks that occur along the incident lifecycle by contributing to the optimization of each process, decision, and report. SOC-ready Tier 1 reports turn&amp;#160;complex sandboxing&amp;#160;analysis into&amp;#160;structured, decision-ready&amp;#160;intelligence&amp;#160;for&amp;#160;faster, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-ready-reporting/" rel="nofollow"&gt;New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-ready-reporting/"&gt;New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-ready-reporting/</guid>
       <pubDate>Wed, 13 May 2026 08:02:03 +0000</pubDate>
     </item>
@@ -44,7 +44,7 @@
       <title>LATAM Under Siege: Agent Tesla’s 18-Month Credential Theft Campaign Against Chilean Enterprises</title>
       <link>https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</link>
       <description>&lt;p&gt;Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher &amp;#38; threat hunter. You can find Moises on LinkedIn and X. Credential&amp;#160;theft&amp;#160;malware rarely announces itself with ransomware-level noise. Instead, it&amp;#160;operates&amp;#160;like a silent siphon hidden inside everyday business workflows: invoices, payroll files, purchase orders, procurement requests. Agent Tesla campaigns are especially dangerous because they target the operational [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/" rel="nofollow"&gt;LATAM Under Siege: Agent Tesla&amp;#8217;s 18-Month Credential Theft Campaign Against Chilean Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/"&gt;LATAM Under Siege: Agent Tesla&amp;#8217;s 18-Month Credential Theft Campaign Against Chilean Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</guid>
       <pubDate>Thu, 14 May 2026 11:55:31 +0000</pubDate>
     </item>
@@ -52,7 +52,7 @@
       <title>ANY.RUN Turns 10: Special Offers for Stronger Security Operations</title>
       <link>https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</link>
       <description>&lt;p&gt;Ten years in cybersecurity is a long journey. Threats have changed, attacks have become harder to spot, and security teams now need answers faster than ever.&amp;#160; ANY.RUN&amp;#160;has grown with those teams.&amp;#160; What started as an interactive sandbox is now a trusted&amp;#160;company with&amp;#160;threat analysis and intelligence&amp;#160;solution&amp;#160;used by 15,000+ organizations, 600,000 security professionals, and teams at Fortune [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/" rel="nofollow"&gt;ANY.RUN Turns 10: Special Offers for Stronger Security Operations&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/"&gt;ANY.RUN Turns 10: Special Offers for Stronger Security Operations&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</guid>
       <pubDate>Mon, 18 May 2026 10:57:53 +0000</pubDate>
     </item>
@@ -60,7 +60,7 @@
       <title>Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026</title>
       <link>https://any.run/cybersecurity-blog/social-engineering-attacks-2026/</link>
       <description>&lt;p&gt;Your employees are not falling for “bad grammar” phishing anymore. They are being pulled into fake Microsoft logins, banking pages, AI tool instructions, real OAuth flows, and event invitations that look close enough to daily work to pass without alarm.&amp;#160; For CISOs, that is the real social engineering problem in 2026: attacks are no longer [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/social-engineering-attacks-2026/" rel="nofollow"&gt;Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/social-engineering-attacks-2026/"&gt;Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/social-engineering-attacks-2026/</guid>
       <pubDate>Tue, 19 May 2026 11:08:08 +0000</pubDate>
     </item>
@@ -68,7 +68,7 @@
       <title>How Can MSSPs Scale Threat Detection Without Burning Out Their Analysts?</title>
       <link>https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/</link>
       <description>&lt;p&gt;Scaling threat detection as an MSSP doesn&amp;#8217;t mean hiring more analysts — it means enabling the analysts you already have to handle more clients, more alerts, and more complex threats without burning out. The practical path forward combines three capabilities: continuous real-time intelligence that keeps detection systems current automatically, instant IOC investigation that cuts triage [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/" rel="nofollow"&gt;How Can MSSPs Scale Threat Detection Without Burning Out Their Analysts?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/"&gt;How Can MSSPs Scale Threat Detection Without Burning Out Their Analysts?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/</guid>
       <pubDate>Wed, 20 May 2026 12:49:41 +0000</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <title>Major Cyber Attacks in May 2026: Fake Invitations, Agent Tesla, BlobPhish, and More</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/</link>
       <description>&lt;p&gt;May 2026 showed how fast routine business activity can turn into real security exposure.&amp;#160;ANY.RUN&amp;#160;observed&amp;#160;phishing campaigns, fileless malware delivery, credential theft, OTP interception, and remote access abuse targeting organizations across industries.&amp;#160; From fake invitations and banking portals to compromised B2B websites and Word Online lures, the month’s attacks had one thing in common: they were built [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/" rel="nofollow"&gt;Major Cyber Attacks in May 2026: Fake Invitations, Agent Tesla, BlobPhish, and More&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/"&gt;Major Cyber Attacks in May 2026: Fake Invitations, Agent Tesla, BlobPhish, and More&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/</guid>
       <pubDate>Tue, 26 May 2026 11:51:43 +0000</pubDate>
     </item>
@@ -84,7 +84,7 @@
       <title>Inside ANY.RUN’s 10-Year Evolution: An Interview with CEO Aleksey Lapshin</title>
       <link>https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/</link>
       <description>&lt;p&gt;What happens when a malware analyst decides to build a product he always wished he had? The case of ANY.RUN tells us that ten years later it may turn into an industry-standard solution, adopted by 74 Fortune 100 companies.&amp;#160; Celebrating a decade of&amp;#160;ANY.RUN, CEO Aleksey Lapshin shared his perspective on the evolution of the company, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/" rel="nofollow"&gt;Inside ANY.RUN’s 10-Year Evolution: An Interview with CEO Aleksey Lapshin&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog" rel="nofollow"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/"&gt;Inside ANY.RUN’s 10-Year Evolution: An Interview with CEO Aleksey Lapshin&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/ceo-interview-anyrun-10-years/</guid>
       <pubDate>Wed, 27 May 2026 11:25:21 +0000</pubDate>
     </item>
