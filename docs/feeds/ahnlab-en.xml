@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 21:25:07 +0000</lastBuildDate>
-    <item>
-      <title>Statistical Report on Malware Targeting Windows Web Servers in Q1 2026</title>
-      <link>https://asec.ahnlab.com/en/93335/</link>
-      <description>Description. AhnLab SEcurity intelligence Center (ASEC) analyzed the attack status and malware statistics of Windows web servers in the first quarter of 2026 based on AhnLab Smart Defense (ASD) logs. the analysis covers Internet Information Services (IIS) and Apache Tomcat web servers in Windows environments. command execution through the web shell is the main path [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93335/</guid>
-      <pubDate>Sun, 12 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 02:51:47 +0000</lastBuildDate>
     <item>
       <title>Statistics Report on Malware Targeting Windows Database Servers in Q1 2026</title>
       <link>https://asec.ahnlab.com/en/93333/</link>
@@ -175,6 +168,13 @@
       <description>Following the Telegram account takeover campaign in 2024, a smishing attack has recently been identified that uses Telegram security issues to steal users&amp;#8217; account information. threat actors hijack Telegram accounts by tricking users into entering their phone numbers and login codes on phishing sites. once an account is compromised, it can lead to personal information [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93790/</guid>
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto Guest at Dawn Endpoint (Midnight) ransomware analysis</title>
+      <link>https://asec.ahnlab.com/en/93932/</link>
+      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
