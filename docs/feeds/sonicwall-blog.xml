@@ -7,121 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 16:10:35 +0000</lastBuildDate>
-    <item>
-      <title>New “Reward for Value” for Channel Partners | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/new-reward-value-channel-partners</link>
-      <description>Learn more about the “Reward for Value” program as well as SonicWall's other partnering engines like Incentives, Enablement, Support and Services.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/new-reward-value-channel-partners</guid>
-    </item>
-    <item>
-      <title>SonicWall Takes Firewalls, SonicOS and Cloud Analytics to Elite Levels</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-delivers-more-speed-security-across-entire-portfolio</link>
-      <description>SonicWall Cloud Analytics provides extensive drill-down investigative and forensic capabilities for deep security data analysis.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-delivers-more-speed-security-across-entire-portfolio</guid>
-    </item>
-    <item>
-      <title>Upgrade Your SonicWall Next-Generation Firewall with ‘3 &amp; Free’ Program</title>
-      <link>https://www.sonicwall.com/blog/upgrade-your-sonicwall-next-generation-firewall-with-3-free-program</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-your-sonicwall-next-generation-firewall-with-3-free-program</guid>
-    </item>
-    <item>
-      <title>Black Hat USA 2017: Build Your Arsenal with SonicWall Capture</title>
-      <link>https://www.sonicwall.com/blog/black-hat-usa-2017-build-your-arsenal-with-sonicwall-capture</link>
-      <description>At Black Hat USA 2017, SonicWall's team of experts will be in booth 554 July 26-27 to demonstrate deployment of Capture using real malware samples.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/black-hat-usa-2017-build-your-arsenal-with-sonicwall-capture</guid>
-    </item>
-    <item>
-      <title>SonicWall Unveils Boundless 2020, Company’s Largest Ever Global Virtual Experience</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-unveils-boundless-2020-companys-largest-global-virtual-experience</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-unveils-boundless-2020-companys-largest-global-virtual-experience</guid>
-    </item>
-    <item>
-      <title>SonicWall MSSP Program: Filling the Cyber Security Skills Gap</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-mssp-program-blueprint-for-filling-the-cyber-security-skills-gap</link>
-      <description>Recognizing that time to revenue is critical, our MSSP program offers MSS blueprints to help Partners jumpstart their managed security service offerings quickly and cost effectively.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-mssp-program-blueprint-for-filling-the-cyber-security-skills-gap</guid>
-    </item>
-    <item>
-      <title>New SonicWall SecureFirst Partner Program | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/new-sonicwall-securefirst-partner-program</link>
-      <description>Learn more about SonicWall's new SecureFirst Partner Program, an all-around network security solution for our valued channel partners.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/new-sonicwall-securefirst-partner-program</guid>
-    </item>
-    <item>
-      <title>SonicWall CEO Bill Conner Joins Cyber Security Panel on Capitol Hill</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-joins-cyber-security-panel-on-capitol-hill</link>
-      <description>On March 6, cyber security experts and policymakers will come together in a panel discussion featuring Congressman Lamar Smith, SonicWall CEO Bill Conner and the Honorable Secretary Michael Chertoff, to address the current threat landscape and its impact on the U.S. economy.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-joins-cyber-security-panel-on-capitol-hill</guid>
-    </item>
-    <item>
-      <title>A New Era of Partnering to Win</title>
-      <link>https://www.sonicwall.com/blog/a-new-era-of-partnering-to-win</link>
-      <description>SonicWall Partners are at the core of our success. We're continually improving products, services, support, and brand awareness.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-new-era-of-partnering-to-win</guid>
-    </item>
-    <item>
-      <title>SonicWall and our Channel Partners Team to Deliver Security Services</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-and-channel-partners-team-to-deliver-new-security-professional-services</link>
-      <description>The program identifies and showcases SonicWall SecureFirst channel partners who have a security focused professional services practice.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-and-channel-partners-team-to-deliver-new-security-professional-services</guid>
-    </item>
-    <item>
-      <title>Sneak Peak: 2018 SonicWall Cyber Threat Report | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/sneak-peak-2018-sonicwall-cyber-threat-report</link>
-      <description>The cyber security industry relies on perpetual cadence of collaboration, research, analysis and review. For SonicWall, that comes via our in-depth cyber threat report. This year, we’re excited to announce that we will publish the 2018 SonicWall Cyber Threat Report on Tuesday, March 6.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sneak-peak-2018-sonicwall-cyber-threat-report</guid>
-    </item>
-    <item>
-      <title>Cybersecurity for SMBs: Bundled Network Security Delivers Cost-Effective Protection</title>
-      <link>https://www.sonicwall.com/blog/cybersecurity-for-smbs-bundled-network-security-delivers-cost-effective-protection</link>
-      <description>SMB cyber security available in cost-effective bundles. Tailored for growing businesses and small offices.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cybersecurity-for-smbs-bundled-network-security-delivers-cost-effective-protection</guid>
-    </item>
-    <item>
-      <title>‘3 &amp; Free’ Promotion: The Easiest Way to Upgrade Your SonicWall Firewall for Free</title>
-      <link>https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</guid>
-    </item>
-    <item>
-      <title>‘3 &amp; Free’ Promotion: The Easiest Way to Upgrade Your SonicWall Firewall for Free</title>
-      <link>https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-and-free-promotion-how-to-upgrade-your-sonicwall-firewall-for-free</guid>
-    </item>
-    <item>
-      <title>SonicWall Network Security Administrator Course | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/new-cyber-security-certification-sonicwall-network-security-administrator-course</link>
-      <description>Based on student feedback and market requirements, SonicWall’s Education Services Organization is introducing the SonicWall Network Security Administrator (SNSA) course; a completely new training course and certification exam that will replace the Network Security Basic Administration (NSBA) class.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/new-cyber-security-certification-sonicwall-network-security-administrator-course</guid>
-    </item>
-    <item>
-      <title>CEO Bill Conner Wins SC Media 2017 Reboot Leadership Award</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-wins-inaugural-sc-media-2017-reboot-leadership-award</link>
-      <description>Bill Conner is the recipient of the inaugural SC Media Reboot Leadership Award. He is one of only six honored in the publication’s top management category.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-ceo-bill-conner-wins-inaugural-sc-media-2017-reboot-leadership-award</guid>
-    </item>
-    <item>
-      <title>Channel Partner Award Winners at EMEA PEAK16 | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/channel-partner-award-winners-emea-peak16</link>
-      <description>At EMEA PEAK16, SonicWall announced channel partner award winners and new investments to further align with customer needs and partner engagement models.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/channel-partner-award-winners-emea-peak16</guid>
-    </item>
-    <item>
-      <title>Switch to SonicWall: 8 Reasons to Trade In Your Old Firewall</title>
-      <link>https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall</guid>
-    </item>
-    <item>
-      <title>Passate a SonicWall: 8 motivi per permutare i vecchi firewall</title>
-      <link>https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall-it</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/switch-to-sonicwall-8-reasons-to-trade-in-your-old-firewall-it</guid>
-    </item>
-    <item>
-      <title>SonicWall Wraps a Winning Streak in the Cyber Arms Race at RSA 2017</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-is-on-a-winning-streak-at-rsa-2017</link>
-      <description>All of the innovation to get ahead of the cyber arms race SonicWall is delivering to the marketplace has resulted in four awards.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-is-on-a-winning-streak-at-rsa-2017</guid>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 20:37:25 +0000</lastBuildDate>
     <item>
       <title>EMEA Peak16: Come for Knowledge and Leave with Power | SonicWall Blog</title>
       <link>https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</link>
@@ -158,17 +44,125 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/better-together-the-role-of-women-in-securing-our-world</guid>
     </item>
     <item>
+      <title>SonicWall Underwent Rigorous Testing to Attain Common Criteria Certification</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-underwent-rigorous-testing-to-attain-common-criteria-certification</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-underwent-rigorous-testing-to-attain-common-criteria-certification</guid>
+    </item>
+    <item>
+      <title>Fortifying Closed Networks: SonicWall’s Approach to Secure Isolation</title>
+      <link>https://www.sonicwall.com/blog/fortifying-closed-networks-sonicwalls-approach-to-secure-isolation</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/fortifying-closed-networks-sonicwalls-approach-to-secure-isolation</guid>
+    </item>
+    <item>
+      <title>Sonic Boom: Getting to Know the New SonicWall</title>
+      <link>https://www.sonicwall.com/blog/sonic-boom-getting-to-know-the-new-sonicwall</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonic-boom-getting-to-know-the-new-sonicwall</guid>
+    </item>
+    <item>
+      <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
+      <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
+      <description>Upgrade now with our 3 &amp; Free Promotion - time to trade in a legacy or competitor appliance and purchase our 3-Year EPSS.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</guid>
+    </item>
+    <item>
+      <title>How the All-New SecureFirst Partner Program Puts Partners First</title>
+      <link>https://www.sonicwall.com/blog/how-the-all-new-securefirst-partner-program-puts-partners-first</link>
+      <description>Discover SonicWall's Enhanced SecureFirst Partner Program, designed for mutual growth and success. Join our vibrant partner community today!</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-the-all-new-securefirst-partner-program-puts-partners-first</guid>
+    </item>
+    <item>
+      <title>The SonicWall Partner Awards: Celebrating Partner Excellence in 2023</title>
+      <link>https://www.sonicwall.com/blog/the-sonicwall-partner-awards-celebrating-partner-excellence-in-2023</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-sonicwall-partner-awards-celebrating-partner-excellence-in-2023</guid>
+    </item>
+    <item>
+      <title>3 &amp; Free with Cloud Secure Edge: The Time to Upgrade is Now</title>
+      <link>https://www.sonicwall.com/blog/3-free-with-cloud-secure-edge-the-time-to-upgrade-is-now</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-free-with-cloud-secure-edge-the-time-to-upgrade-is-now</guid>
+    </item>
+    <item>
+      <title>3 &amp; Free Promotion: How to Upgrade to a Gen 7 NSsp Firewall for Free</title>
+      <link>https://www.sonicwall.com/blog/3-free-promotion-how-to-upgrade-to-a-gen-7-nssp-firewall-for-free</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-free-promotion-how-to-upgrade-to-a-gen-7-nssp-firewall-for-free</guid>
+    </item>
+    <item>
+      <title>it-SA 2019: SonicWall’s Integrated Cybersecurity Platform</title>
+      <link>https://www.sonicwall.com/blog/it-sa-2019-sonicwalls-integrated-cybersecurity-platform</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/it-sa-2019-sonicwalls-integrated-cybersecurity-platform</guid>
+    </item>
+    <item>
+      <title>Wind River VxWorks and URGENT/11: Patch Now</title>
+      <link>https://www.sonicwall.com/blog/wind-river-vxworks-and-urgent-11-patch-now</link>
+      <description>What is URGENT/11 and how does it impact devices that rely on Wind River VxWorks? SonicWall CTO John Gmuender explains why you should patch SonicOS.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/wind-river-vxworks-and-urgent-11-patch-now</guid>
+    </item>
+    <item>
+      <title>Goodbye VPNs: Embrace Cloud-Delivered Zero Trust</title>
+      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</link>
+      <description>Move beyond legacy VPNs. Discover how SonicWall Cloud Secure Edge delivers simplified, secure Zero Trust access for hybrid workforces.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</guid>
+    </item>
+    <item>
+      <title>Better Network Management: Latest Features in Network Security Manager 2.5</title>
+      <link>https://www.sonicwall.com/blog/better-network-management-latest-features-in-network-security-manager-2-5</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/better-network-management-latest-features-in-network-security-manager-2-5</guid>
+    </item>
+    <item>
+      <title>Secure Access Unlocked: Exploring WNM 4.5 and Service Provider Monthly Program</title>
+      <link>https://www.sonicwall.com/blog/secure-access-unlocked-exploring-wnm-4-5-and-service-provider-monthly-program</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-access-unlocked-exploring-wnm-4-5-and-service-provider-monthly-program</guid>
+    </item>
+    <item>
+      <title>SonicWall TZ80: Future-Proofing Network Security for SOHO, IoT and Remote Work Environments</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-tz80-future-proofing-network-security-for-soho-iot-and-remote-work-environments</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-tz80-future-proofing-network-security-for-soho-iot-and-remote-work-environments</guid>
+    </item>
+    <item>
+      <title>Why Customers and Managed Security Partners Trust and Enjoy Network Security Manager</title>
+      <link>https://www.sonicwall.com/blog/why-customers-and-managed-security-partners-trust-and-enjoy-network-security-manager</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-customers-and-managed-security-partners-trust-and-enjoy-network-security-manager</guid>
+    </item>
+    <item>
+      <title>Why Policy Deployment Speed Matters for Security</title>
+      <link>https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</link>
+      <description>Without rapid deployment, even the best policies fall short. Discover how SonicWall NSM enables centralized, fast firewall policy enforcement.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</guid>
+    </item>
+    <item>
+      <title>SMA 1000 v12.5.0: Secure Access Gets Smarter</title>
+      <link>https://www.sonicwall.com/blog/secure-remote-access-for-your-business-with-sonicwall-sma-1000</link>
+      <description>Discover what’s new in SonicWall SMA 1000 v12.5.0 — with IPv6 support, simplified licensing, and smarter alerts for secure, scalable remote access.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-remote-access-for-your-business-with-sonicwall-sma-1000</guid>
+    </item>
+    <item>
+      <title>SonicWall CSE Adds On-Prem Active Directory Support</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-now-supports-on-prem-active-directory-authentication</link>
+      <description>SonicWall Cloud Secure Edge now supports on-prem Active Directory, enabling secure access and zero-trust adoption without immediate cloud migration.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-now-supports-on-prem-active-directory-authentication</guid>
+    </item>
+    <item>
+      <title>NSM 3.2 Launches Unified Firewall Management</title>
+      <link>https://www.sonicwall.com/blog/unified-firewall-management-in-sonicwall-unified-management</link>
+      <description>Discover NSM 3.2 — the next evolution in SonicWall Unified Management, simplifying firewall control for MSPs, MSSPs and IT admins.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/unified-firewall-management-in-sonicwall-unified-management</guid>
+    </item>
+    <item>
+      <title>Goodbye VPNs, Hello Cloud-Delivered Zero Trust - NULL</title>
+      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Security as a Story: Using Reporting to Prove Your Value as an MSP</title>
-      <link>https://www.sonicwall.com/blog/turning-security-into-a-story-how-msps-use-reporting-to-drive-retention-and-revenue</link>
-      <description>Learn how reporting can help you tell your MSP story effectively so your customers experience your true value.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/turning-security-into-a-story-how-msps-use-reporting-to-drive-retention-and-revenue</guid>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <title>Smarter Network Management With NSM 3.0 and NSa Firewalls</title>
+      <link>https://www.sonicwall.com/blog/stronger-protection-lower-costs-superior-management-with-sonicwall</link>
+      <description>Explore how NSM 3.0 and NSa firewalls help businesses and MSSPs simplify operations, strengthen security and lower total cost of ownership.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stronger-protection-lower-costs-superior-management-with-sonicwall</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Is a Virtual Firewall? Cloud &amp; VM Security Explained</title>

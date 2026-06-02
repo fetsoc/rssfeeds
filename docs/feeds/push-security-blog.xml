@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 16:12:28 +0000</lastBuildDate>
-    <item>
-      <title>Preventing account takeover with Push</title>
-      <link>https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</link>
-      <description>How Push stops attackers from using identity attack tools and techniques to compromise your employee user accounts.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/how-to-prevent-account-takeover-with-push</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 20:40:17 +0000</lastBuildDate>
     <item>
       <title>Using Push data to quantify identity vulnerabilities</title>
       <link>https://pushsecurity.com/blog/how-many-vulnerable-identities-do-you-have</link>
@@ -357,6 +350,13 @@
       <description>What we learned from sitting down with Matt Johansen to discuss the difference between security theater and security that actually works.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/7-things-we-learned-from-matt-johansen</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How browser visibility and control can achieve AI compliance</title>
+      <link>https://pushsecurity.com/blog/browser-visibility-and-control-can-achieve-ai-compliance</link>
+      <description>AI regulations across the US, EU, and UK are converging on obligations that most organizations can't meet without browser visibility into AI tool use.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/browser-visibility-and-control-can-achieve-ai-compliance</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

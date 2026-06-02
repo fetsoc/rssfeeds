@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 16:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 20:37:30 +0000</lastBuildDate>
     <item>
       <title>Hurricane Melissa Relief Scams: How Criminals Exploit Disaster</title>
       <link>https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</link>
@@ -249,11 +249,10 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/eviltokens-and-oauth-abuse</guid>
     </item>
     <item>
-      <title>May 2025 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/may-2025-web-server-survey</link>
-      <description>In the May 2025 survey we received responses from 1,227,232,638 sites across 277,546,948 domains and 13,470,692 web-facing computers. This reflects...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/may-2025-web-server-survey</guid>
-      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <title>Camera-First Phishing: How Fraudsters Use Browser Permissions to Harvest Identity Data</title>
+      <link>https://www.netcraft.com/blog/how-camera-first-phishing-turns-payment-verification-into-surveillance</link>
+      <description>A newly observed phishing campaign impersonates payment verification to harvest selfies, videos, location data, and device information. Learn how camera-first phishing turns browser permissions into a powerful collection channel.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/how-camera-first-phishing-turns-payment-verification-into-surveillance</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
