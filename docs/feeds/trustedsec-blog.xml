@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 10:09:43 +0000</lastBuildDate>
-    <item>
-      <title>Mythos, Memory Loss, and the Part InfoSec Keeps Missing</title>
-      <link>https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</link>
-      <description>&amp;lt;p&amp;gt;InfoSec has a bad habit of acting like history started this morning. Something new lands, the industry loses its mind for a week, vendors start talking like the old rules no longer apply, and half the industry suddenly…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/mythos-memory-loss-and-the-part-infosec-keeps-missing</guid>
-      <pubDate>Fri, 17 Apr 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 16:12:40 +0000</lastBuildDate>
     <item>
       <title>Kerberos with Titanis</title>
       <link>https://trustedsec.com/blog/kerberos-with-titanis</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Turns out your VoIP system has some opinions about your PCI DSS compliance. Director of Advisory Services Chris Camejo breaks down who&amp;#039;s affected and how to reduce your compliance burden.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/pci-dss-telephone-payments-and-the-problems-with-voip</guid>
       <pubDate>Tue, 26 May 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CMMC Conditional Status - Contracting Without Compliance</title>
+      <link>https://trustedsec.com/blog/cmmc-conditional-status</link>
+      <description>&amp;lt;p&amp;gt;The CMMC rollout is progressing. Contracts that require a CMMC Level 2 (Self) self-assessment have been circulating since the start of Phase 1 in November 2025, and contracts that require CMMC Level 2 (C3PAO) audits…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-conditional-status</guid>
+      <pubDate>Tue, 02 Jun 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
