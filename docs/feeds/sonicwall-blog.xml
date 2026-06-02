@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 02:50:05 +0000</lastBuildDate>
-    <item>
-      <title>Recognizing Outstanding Performance in 2022 | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/recognizing-outstanding-partner-and-distributor-performance-in-2022</link>
-      <description>Announcing the 2023 SonicWall Partner Awards for outstanding performance by SonicWall distributors and partners globally.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/recognizing-outstanding-partner-and-distributor-performance-in-2022</guid>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 10:08:43 +0000</lastBuildDate>
     <item>
       <title>New “Reward for Value” for Channel Partners | SonicWall Blog</title>
       <link>https://www.sonicwall.com/blog/new-reward-value-channel-partners</link>
@@ -320,6 +314,13 @@
       <description>Discover the 8 core benefits of virtual firewalls, from east-west traffic inspection to cloud compatibility. Learn how SonicWall virtual firewalls secure modern distributed and multi-cloud environments.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall NSM Configuration Auditor: Audit Your Firewall in Seconds</title>
+      <link>https://www.sonicwall.com/blog/is-your-firewall-optimized-how-to-audit-your-sonicwall-firewall-configuration-in-seconds</link>
+      <description>Discover how the SonicWall NSM 4.0 Configuration Auditor Report helps IT teams automatically assess firewall configurations, reduce risk, and enforce best practices at scale.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/is-your-firewall-optimized-how-to-audit-your-sonicwall-firewall-configuration-in-seconds</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 02:51:42 +0000</lastBuildDate>
-    <item>
-      <title>Handala: The Silent Weapon of Tehran’s Cyber Shadow War</title>
-      <link>https://falconfeeds.io/blogs/handala-silent-weapon-tehrans-cyber-shadow-war</link>
-      <description>Handala has shifted from a pro-Palestinian “hacktivist” brand into a covert, Tehran-aligned cyber persona—using high-visibility breaches, timed leaks, and psychological messaging to pressure Israel and Western targets while preserving plausible deniability.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/handala-silent-weapon-tehrans-cyber-shadow-war</guid>
-      <pubDate>Wed, 04 Mar 2026 07:01:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 10:09:41 +0000</lastBuildDate>
     <item>
       <title>Inside the Middle East’s Cyber Shadow War: Mapping 72+ Pro-Iran and Anti-Iran Groups</title>
       <link>https://falconfeeds.io/blogs/inside-middle-east-cyber-shadow-war-pro-iran-anti-iran-threat-actor-mapping</link>
@@ -357,6 +350,13 @@
       <description>Explore how semiconductor export controls, sanctions, and cyber espionage are converging to reshape global technological competition, targeting chip manufacturers, supply chains, and critical intellectual property.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/semiconductor-sanctions-cyber-espionage-export-controls-geopolitics</guid>
       <pubDate>Fri, 29 May 2026 08:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIFA World Cup 2026: Mapping the Global Cyber Scam Ecosystem Targeting Fans</title>
+      <link>https://falconfeeds.io/blogs/fifa-world-cup-2026-global-cyber-scam-ecosystem-analysis</link>
+      <description>Explore the cyber scam landscape surrounding the FIFA World Cup 2026, including phishing domains, ticket fraud, crypto scams, fake streaming platforms, and social engineering campaigns targeting fans worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fifa-world-cup-2026-global-cyber-scam-ecosystem-analysis</guid>
+      <pubDate>Tue, 02 Jun 2026 06:05:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
