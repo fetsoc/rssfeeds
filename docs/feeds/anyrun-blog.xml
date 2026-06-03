@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 03:00:25 +0000</lastBuildDate>
-    <item>
-      <title>How CISOs Reduce Cyber Risk with MITRE ATT&amp;CK</title>
-      <link>https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</link>
-      <description>&lt;p&gt;Nowadays&amp;#160;CISOs&amp;#160;face escalating threats that outpace traditional defenses. The strategy is evolving from compliance-driven checklists to a threat-informed approach. MITRE ATT&amp;#38;CK provides a globally accessible knowledge base of real-world adversary tactics, techniques, and procedures (TTPs), enabling organizations to understand, prioritize, and counter actual attacker behaviors rather than abstract controls.&amp;#160;&amp;#160;This shift helps align security efforts with business [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/"&gt;How CISOs Reduce Cyber Risk with MITRE ATT&amp;amp;CK &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mitre-ciso-risk-reduction/</guid>
-      <pubDate>Wed, 06 May 2026 09:31:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 10:49:42 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN &amp; Elastic Security: Bring Threat Intelligence into Detection and Investigation Workflows</title>
       <link>https://any.run/cybersecurity-blog/anyrun-elastic-security/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/monoglyphrat-attacks-us-enterprise/"&gt;From Fake Purchase Orders to Remote Access: Analyzing the JS.MonoGlyphRAT Threat to US Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/monoglyphrat-attacks-us-enterprise/</guid>
       <pubDate>Tue, 02 Jun 2026 10:34:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Release Notes: Decision-Ready SOC Reporting, Elastic Security Integration, and 1400+ Threat Coverage Updates</title>
+      <link>https://any.run/cybersecurity-blog/release-notes-may-2026/</link>
+      <description>&lt;p&gt;Security leaders are under growing pressure to reduce the time between threat detection and response without adding more complexity to already overloaded SOC workflows. ANY.RUN’s May updates help teams act on security risks more efficiently, improve consistency across investigations, and maintain stronger protection as attacker tactics continue to evolve. Discover the updates your team can [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-may-2026/"&gt;Release Notes: Decision-Ready SOC Reporting, Elastic Security Integration, and 1400+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-may-2026/</guid>
+      <pubDate>Wed, 03 Jun 2026 10:22:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
