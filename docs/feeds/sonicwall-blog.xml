@@ -7,17 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 16:28:16 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Underwent Rigorous Testing to Attain Common Criteria Certification</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-underwent-rigorous-testing-to-attain-common-criteria-certification</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-underwent-rigorous-testing-to-attain-common-criteria-certification</guid>
-    </item>
-    <item>
-      <title>Fortifying Closed Networks: SonicWall’s Approach to Secure Isolation</title>
-      <link>https://www.sonicwall.com/blog/fortifying-closed-networks-sonicwalls-approach-to-secure-isolation</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/fortifying-closed-networks-sonicwalls-approach-to-secure-isolation</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 20:49:11 +0000</lastBuildDate>
     <item>
       <title>Sonic Boom: Getting to Know the New SonicWall</title>
       <link>https://www.sonicwall.com/blog/sonic-boom-getting-to-know-the-new-sonicwall</link>
@@ -145,6 +135,34 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/simple-tips-for-network-sanity</guid>
     </item>
     <item>
+      <title>Everything Old Is New Again: Remote Access Comes Full Circle</title>
+      <link>https://www.sonicwall.com/blog/everything-old-is-new-again-remote-access-comes-full-circle</link>
+      <description>The ideals of Zero-Trust Architecture have been around for a lot longer than you may think. So why are we only now seeing widespread adoption?</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/everything-old-is-new-again-remote-access-comes-full-circle</guid>
+    </item>
+    <item>
+      <title>How MSSPs &amp; Artificial Intelligence Can Mitigate Zero-Day Threats</title>
+      <link>https://www.sonicwall.com/blog/how-mssps-artificial-intelligence-can-mitigate-zero-day-threats</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-mssps-artificial-intelligence-can-mitigate-zero-day-threats</guid>
+    </item>
+    <item>
+      <title>Why 5G Needs to Start with Secure Network Access</title>
+      <link>https://www.sonicwall.com/blog/why-5g-needs-to-start-with-secure-network-access</link>
+      <description>5G comes with enormous possibilities — and increased risks. Here’s what you need to consider when securing your network in preparation for this game-changing technology.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-5g-needs-to-start-with-secure-network-access</guid>
+    </item>
+    <item>
+      <title>How SonicWall ZTNA protects against Log4j (Log4Shell)</title>
+      <link>https://www.sonicwall.com/blog/how-sonicwall-ztna-protects-against-log4j-log4shell</link>
+      <description>The Apache Log4j vulnerability affects millions of devices. But with SonicWall Cloud Edge zero trust architecture (ZTNA), it can be stopped.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-sonicwall-ztna-protects-against-log4j-log4shell</guid>
+    </item>
+    <item>
+      <title>Why SDP Matters in Zero Trust</title>
+      <link>https://www.sonicwall.com/blog/why-sdp-matters-in-zero-trust</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-sdp-matters-in-zero-trust</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -177,26 +195,6 @@
       <description>SonicOS 7.3.3 delivers Generative AI content filtering, default-on credential auditing, DTLS VPN support, and more for GEN7 appliances. Here is what MSPs and channel partners need to know before upgrading.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Long Time Ago in a Galaxy Far, Far Away…Cybersecurity Was Already Hard</title>
-      <link>https://www.sonicwall.com/blog/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Gen 6 End of Life: The Credential Visibility Gap Putting Your Network at Risk</title>
-      <link>https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</link>
-      <description>1 in 10 SonicWall devices running Credential Auditor found bad credentials — and Gen 6 firewalls can’t run it. Learn why upgrading to Gen 7 is a critical security decision, not just a hardware refresh.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partner Power News - May 2026: Protection. Transition. Scale. | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</link>
-      <description>Turn insight into action with Partner Power News May 2026. Cyber Protect insights, product transitions, EPSS on Gen 7 TZ, SaaS milestones, and new enablement resources to scale impact and pipeline.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Virtual Firewall vs. Physical Firewall: How to Choose the Right Protection for Cloud, On-Premises, and Hybrid Networks</title>
