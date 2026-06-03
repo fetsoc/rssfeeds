@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 10:49:46 +0000</lastBuildDate>
-    <item>
-      <title>CISO Survey 2026: The State of Incident Response Readiness</title>
-      <link>https://www.sygnia.co/guides-and-tools/ciso-survey-2026/</link>
-      <description>&lt;p&gt;Benchmark your readiness against 600 peers and gain data-driven insights into how ready organizations truly are to manage a significant cyberattack.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/ciso-survey-2026/"&gt;CISO Survey 2026: The State of Incident Response Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/ciso-survey-2026/</guid>
-      <pubDate>Tue, 31 Mar 2026 13:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>73% of CISOs Unprepared for the Next Big Cyber Attack, Incident Response Readiness Report Reveals</title>
-      <link>https://www.sygnia.co/press-release/sygnia-released-ciso-survey-2026/</link>
-      <description>&lt;p&gt;Benchmark your readiness against 600 peers and gain data-driven insights into how ready organizations truly are to manage a significant cyberattack.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-released-ciso-survey-2026/"&gt;73% of CISOs Unprepared for the Next Big Cyber Attack, Incident Response Readiness Report Reveals&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-released-ciso-survey-2026/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:25:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 16:30:07 +0000</lastBuildDate>
     <item>
       <title>The Mythos Effect: Preparing for AI-Accelerated Exploitation</title>
       <link>https://www.sygnia.co/threat-reports-and-advisories/mythos-effect-ai-accelerated-exploitation-vulnerability-management/</link>
@@ -79,6 +63,22 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/"&gt;Sygnia Appoints Ran Buck as Chief Revenue Officer to Accelerate Global Growth&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/</guid>
       <pubDate>Thu, 14 May 2026 10:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident Response Metrics That Actually Matter to Boards (And the Ones That Don’t)</title>
+      <link>https://www.sygnia.co/blog/incident-response-metrics-that-matter/</link>
+      <description>&lt;p&gt;Learn which incident response metrics boards actually need to make decisions, and which ones create false confidence.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-metrics-that-matter/"&gt;Incident Response Metrics That Actually Matter to Boards (And the Ones That Don&amp;#8217;t)&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-metrics-that-matter/</guid>
+      <pubDate>Wed, 27 May 2026 10:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of Cyber Attacks Affecting OT Organizations</title>
+      <link>https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/</link>
+      <description>&lt;p&gt;Join us for a practical session based on Sygnia’s field experience across dozens of industrial and OT-centric incidents.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/"&gt;The Anatomy of Cyber Attacks Affecting OT Organizations&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/</guid>
+      <pubDate>Tue, 02 Jun 2026 14:26:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

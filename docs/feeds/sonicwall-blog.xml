@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 10:48:14 +0000</lastBuildDate>
-    <item>
-      <title>Better Together: The Role of Women in Securing Our World</title>
-      <link>https://www.sonicwall.com/blog/better-together-the-role-of-women-in-securing-our-world</link>
-      <description>For Cybersecurity Awareness Month, stop and learn about the role of women in cybersecurity and the importance of being aware and proactive.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/better-together-the-role-of-women-in-securing-our-world</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 16:28:16 +0000</lastBuildDate>
     <item>
       <title>SonicWall Underwent Rigorous Testing to Attain Common Criteria Certification</title>
       <link>https://www.sonicwall.com/blog/sonicwall-underwent-rigorous-testing-to-attain-common-criteria-certification</link>
@@ -175,6 +169,13 @@
       <link>https://www.sonicwall.com/blog/one-engine-is-never-enough-sonicwall-runs-several-</link>
       <description>Single antivirus engines miss 2-15% of novel malware. Learn how SonicWall’s multi-engine cloud AV architecture (Gateway AV, Capture ATP, Capture Client, and MDR) delivers layered protection across gateway, sandbox, and endpoint.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/one-engine-is-never-enough-sonicwall-runs-several-</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicOS 7.3.3 for GEN7: What MSPs and Channel Partners Need to Know</title>
+      <link>https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</link>
+      <description>SonicOS 7.3.3 delivers Generative AI content filtering, default-on credential auditing, DTLS VPN support, and more for GEN7 appliances. Here is what MSPs and channel partners need to know before upgrading.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
