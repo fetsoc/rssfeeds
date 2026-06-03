@@ -7,36 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 20:37:25 +0000</lastBuildDate>
-    <item>
-      <title>EMEA Peak16: Come for Knowledge and Leave with Power | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</link>
-      <description>SonicWAll Security EMEA Peak16 details for our partners how to architect and deliver the security solutions that turn "non" into "yes".</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</guid>
-    </item>
-    <item>
-      <title>SonicWall Simplifies Day-to-Day Operations for MSSPs</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-simplifies-day-to-day-operations-for-mssps</link>
-      <description>MSSP operations, security and customer management streamlined by SonicWall.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-simplifies-day-to-day-operations-for-mssps</guid>
-    </item>
-    <item>
-      <title>Advanced Security Training: New SonicWall Network Security Professional (SNSP) Course &amp; Certification</title>
-      <link>https://www.sonicwall.com/blog/advanced-security-training-new-sonicwall-network-security-professional-snsp-course-certification</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/advanced-security-training-new-sonicwall-network-security-professional-snsp-course-certification</guid>
-    </item>
-    <item>
-      <title>How to Use Threat Intelligence to Stop Cyber Attacks | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/how-to-use-threat-intelligence-to-stop-cyber-attacks</link>
-      <description>Within the SonicWall Security Center, the highly interactive threat meters provide real-time threat intelligence about today’s most critical attack trends.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-to-use-threat-intelligence-to-stop-cyber-attacks</guid>
-    </item>
-    <item>
-      <title>Focused Cybersecurity Education with SonicWall University</title>
-      <link>https://www.sonicwall.com/blog/cybersecurity-education-with-sonicwall-university</link>
-      <description>Because our goal is to outwit highly knowledgeable criminals, one of our greatest assets in this ongoing battle is cybersecurity education.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cybersecurity-education-with-sonicwall-university</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 02:59:14 +0000</lastBuildDate>
     <item>
       <title>Better Together: The Role of Women in Securing Our World</title>
       <link>https://www.sonicwall.com/blog/better-together-the-role-of-women-in-securing-our-world</link>
@@ -152,6 +123,34 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</guid>
     </item>
     <item>
+      <title>Details Matter: Why Threat Headlines Shouldn’t Direct Your Strategy</title>
+      <link>https://www.sonicwall.com/blog/details-matter-why-threat-headlines-shouldnt-direct-your-strategy</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/details-matter-why-threat-headlines-shouldnt-direct-your-strategy</guid>
+    </item>
+    <item>
+      <title>Vintage Bugs: Data Shows Old Vulnerabilities Still Menace Small Businesses</title>
+      <link>https://www.sonicwall.com/blog/data-shows-old-vulnerabilities-still-menace-small-businesses</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/data-shows-old-vulnerabilities-still-menace-small-businesses</guid>
+    </item>
+    <item>
+      <title>Understanding CVE-2024-38063: How SonicWall Prevents Exploitation</title>
+      <link>https://www.sonicwall.com/blog/understanding-cve-2024-38063-how-sonicwall-prevents-exploitation</link>
+      <description>The SonicWall firewall protects against CVE-2024-38063 by blocking malicious IPv6 fragmented packets by default.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-cve-2024-38063-how-sonicwall-prevents-exploitation</guid>
+    </item>
+    <item>
+      <title>SonicWall Capture ATP Stands Up Against Malware Test | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-capture-atp-malware-test</link>
+      <description>Learn how SonicWall Capture ATP Service eliminates malware through the technology chain from the internet to the end-point.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-capture-atp-malware-test</guid>
+    </item>
+    <item>
+      <title>Patch Tuesday, Exploit Wednesday and Uninstall Thursday</title>
+      <link>https://www.sonicwall.com/blog/simple-tips-for-network-sanity</link>
+      <description>There is an old saying: Patch Tuesday, Exploit Wednesday, and Uninstall Thursday. Should you patch on Tuesday? Yes, and any day Microsoft releases a patch.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/simple-tips-for-network-sanity</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -165,11 +164,11 @@
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Is a Virtual Firewall? Cloud &amp; VM Security Explained</title>
-      <link>https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</link>
-      <description>Learn how virtual firewalls secure east-west traffic across VMware, AWS, Azure, and Kubernetes—where traditional edge firewalls fall short.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <title>Managed Firewalls: The Upgrade You’re Overdue For</title>
+      <link>https://www.sonicwall.com/blog/are-you-leaving-the-front-door-unlocked-why-you-need-a-managed-firewall</link>
+      <description>Firewall breaches often come down to human error. Learn how managed firewall services can help reduce risk and ease the burden.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/are-you-leaving-the-front-door-unlocked-why-you-need-a-managed-firewall</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Multi-Engine Cloud AV Is the Only Reliable Defense Against Modern Malware | SonicWall</title>

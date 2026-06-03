@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 20:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:00:27 +0000</lastBuildDate>
     <item>
       <title>May’s Patch Tuesday hauls out 132 CVEs</title>
       <link>https://www.sophos.com/en-us/blog/may-patch-tuesday-hauls-out-132-cves</link>
@@ -51,18 +51,6 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub internal repositories breached</title>
-      <link>https://www.sophos.com/blog/github-internal-repositories-breached</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/github-internal-repositories-breached</guid>
-      <pubDate>Wed, 27 May 2026 02:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gartner EPP MQ-17</title>
-      <link>https://www.sophos.com/blog/gartner-epp-mq-17</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/gartner-epp-mq-17</guid>
-      <pubDate>Wed, 27 May 2026 23:08:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Encore Performance: Sophos ranked #1 Overall in Endpoint, EDR, XDR, MDR, and Firewall for the 2nd consecutive time in the G2 Summer 2026 Reports</title>
       <link>https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</link>
       <description>&lt;p&gt;Ranked #1 in 67 global reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;</description>
@@ -77,23 +65,11 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Canvas attack aftermath: What risks come next</title>
-      <link>https://www.sophos.com/blog/canvas-attack-aftermath-what-risks-come-next</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/canvas-attack-aftermath-what-risks-come-next</guid>
-      <pubDate>Thu, 28 May 2026 18:50:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Pointing a Cursor at evading detection</title>
       <link>https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection</link>
       <description>&lt;p&gt;AI accelerated tool development and testing, but humans drove the workflow&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, EDR&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pointing a Cursor at evading detection</title>
-      <link>https://www.sophos.com/blog/pointing-a-cursor-at-evading-detection</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/pointing-a-cursor-at-evading-detection</guid>
-      <pubDate>Tue, 02 Jun 2026 19:06:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
