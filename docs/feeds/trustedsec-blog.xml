@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 09:46:59 +0000</lastBuildDate>
-    <item>
-      <title>Kerberos with Titanis</title>
-      <link>https://trustedsec.com/blog/kerberos-with-titanis</link>
-      <description>&amp;lt;p&amp;gt;In this article, I’ll walk you through the basics of Kerberos, how to use Titanis for the different parts, and how to mitigate some problems.Titanis SetupI use Titanis tools throughout this article to demonstrate…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/kerberos-with-titanis</guid>
-      <pubDate>Thu, 23 Apr 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 14:42:30 +0000</lastBuildDate>
     <item>
       <title>ARP Around and Find Out: Hijacking GPO UNC Paths for Code Execution and NTLM Relay</title>
       <link>https://trustedsec.com/blog/arp-around-and-find-out-hijacking-gpo-unc-paths-for-code-execution-and-ntlm-relay</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;The CMMC rollout is progressing. Contracts that require a CMMC Level 2 (Self) self-assessment have been circulating since the start of Phase 1 in November 2025, and contracts that require CMMC Level 2 (C3PAO) audits…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-conditional-status</guid>
       <pubDate>Tue, 02 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Privileged Roles Nobody Talks About</title>
+      <link>https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</link>
+      <description>&amp;lt;p&amp;gt;Part 1: Why Your MDM Platform is a Tier 0 AssetThis is Part 1 of a two-part series on Intune security hardening. This post covers what we have seen in real world attacks as well as attack paths our Pentest Team has…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</guid>
+      <pubDate>Thu, 04 Jun 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
