@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 14:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:01:34 +0000</lastBuildDate>
     <item>
       <title>Why AMOS matters: The macOS malware stealing data at scale</title>
       <link>https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale</link>
@@ -23,17 +23,17 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sophos Firewall and Synchronized Security</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</link>
-      <description>&lt;p&gt;Synchronized Security is a unique capability you won’t get anywhere else.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, Firewall, Synchronized Security&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GitHub internal repositories breached.</title>
       <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
       <description>&lt;p&gt;A malicious VS Code extension led to cloned private repositories, reportedly offered for sale on a criminal forum&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; GitHub, Supply chain&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/github-internal-repositories-breached</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall and Synchronized Security</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</link>
+      <description>&lt;p&gt;Synchronized Security is a unique capability you won’t get anywhere else.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, Firewall, Synchronized Security&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,17 +44,17 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Canvas attack aftermath: What risks come next?</title>
-      <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
-      <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; cyberattack, ShinyHunters, GOLD CRYSTAL, Canvas&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Encore Performance: Sophos ranked #1 Overall in Endpoint, EDR, XDR, MDR, and Firewall for the 2nd consecutive time in the G2 Summer 2026 Reports</title>
       <link>https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</link>
       <description>&lt;p&gt;Ranked #1 in 67 global reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canvas attack aftermath: What risks come next?</title>
+      <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
+      <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; cyberattack, ShinyHunters, GOLD CRYSTAL, Canvas&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

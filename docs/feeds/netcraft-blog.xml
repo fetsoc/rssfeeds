@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 14:41:07 +0000</lastBuildDate>
-    <item>
-      <title>Hurricane Melissa Relief Scams: How Criminals Exploit Disaster</title>
-      <link>https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</link>
-      <description>After Hurricane Melissa hit Jamaica, cybercriminals launched fake charity sites. Learn how Netcraft uncovers and blocks disaster-themed scams.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/hurricane-melissa-jamaica-relief-scams</guid>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 19:59:16 +0000</lastBuildDate>
     <item>
       <title>Shared Document Spam Delivers Remote Access Tool</title>
       <link>https://www.netcraft.com/blog/shared-document-spam-delivers-remote-access-tool</link>
@@ -253,6 +247,12 @@
       <link>https://www.netcraft.com/blog/how-camera-first-phishing-turns-payment-verification-into-surveillance</link>
       <description>A newly observed phishing campaign impersonates payment verification to harvest selfies, videos, location data, and device information. Learn how camera-first phishing turns browser permissions into a powerful collection channel.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/how-camera-first-phishing-turns-payment-verification-into-surveillance</guid>
+    </item>
+    <item>
+      <title>The Evolution of Phishing: Email &gt; Social Media Impersonation</title>
+      <link>https://www.netcraft.com/blog/social-media-impersonation-how-phishing-evolved-as-email-defenses-improved</link>
+      <description>Social media impersonation is reshaping phishing. Learn why attackers are shifting beyond email and how security teams can improve phishing detection.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/social-media-impersonation-how-phishing-evolved-as-email-defenses-improved</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
