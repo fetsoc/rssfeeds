@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 14:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:47:22 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -168,6 +168,17 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</guid>
     </item>
     <item>
+      <title>Save On Modern, Cloud-Delivered Access and Say Goodbye to Legacy VPNs</title>
+      <link>https://www.sonicwall.com/blog/save-on-modern-cloud-delivered-access-and-say-goodbye-to-legacy-vpns</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/save-on-modern-cloud-delivered-access-and-say-goodbye-to-legacy-vpns</guid>
+    </item>
+    <item>
+      <title>Third-Party ICSA Testing – Perfect Score Number 4</title>
+      <link>https://www.sonicwall.com/blog/third-party-icsa-testing-perfect-score-number-4</link>
+      <description>SonicWall Capture ATP with RTDMI identified all malicious samples with no false positives — four times in a row.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/third-party-icsa-testing-perfect-score-number-4</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -195,25 +206,11 @@
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Virtual Firewall vs. Physical Firewall: How to Choose the Right Protection for Cloud, On-Premises, and Hybrid Networks</title>
-      <link>https://www.sonicwall.com/blog/virtual-vs-physical-firewalls-a-practical-guide-for-modern-networks</link>
-      <description>Virtual firewalls deliver cloud agility. Physical firewalls deliver throughput and control. Learn the differences, use cases, and how to deploy both together.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/virtual-vs-physical-firewalls-a-practical-guide-for-modern-networks</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
       <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
       <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-death-of-the-firewall</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ransomware Chimera That Does Everything</title>
-      <link>https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</link>
-      <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Ransomware Chimera That Does Everything</title>
