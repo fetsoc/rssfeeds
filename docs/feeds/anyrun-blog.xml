@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 09:36:12 +0000</lastBuildDate>
-    <item>
-      <title>New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN</title>
-      <link>https://any.run/cybersecurity-blog/soc-ready-reporting/</link>
-      <description>&lt;p&gt;Successful SOC operations&amp;#160;require&amp;#160;more than&amp;#160;accurate&amp;#160;detections.&amp;#160;Instant access to context, clear conclusions,&amp;#160;and&amp;#160;operationally relevant insights allow incidents to move&amp;#160;across&amp;#160;workflows&amp;#160;without delays:&amp;#160; Making ANY.RUN’s Interactive Sandbox a part of your standard SOC workflow helps eliminate bottlenecks that occur along the incident lifecycle by contributing to the optimization of each process, decision, and report. SOC-ready Tier 1 reports turn&amp;#160;complex sandboxing&amp;#160;analysis into&amp;#160;structured, decision-ready&amp;#160;intelligence&amp;#160;for&amp;#160;faster, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-ready-reporting/"&gt;New SOC-Ready Reporting for Faster Triage, Escalation, and Incident Response with ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-ready-reporting/</guid>
-      <pubDate>Wed, 13 May 2026 08:02:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 14:31:22 +0000</lastBuildDate>
     <item>
       <title>LATAM Under Siege: Agent Tesla’s 18-Month Credential Theft Campaign Against Chilean Enterprises</title>
       <link>https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/"&gt;Q1 2026 Cyber Risk Report: Insights from 2.1 Million Malware and Phishing Investigations &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/</guid>
       <pubDate>Thu, 04 Jun 2026 11:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leader in Malware Analysis: ANY.RUN Named Top Vendor in G2 Summer 2026 Awards</title>
+      <link>https://any.run/cybersecurity-blog/g2-summer-awards-2026/</link>
+      <description>&lt;p&gt;We are proud to announce that&amp;#160;ANY.RUN&amp;#160;has earned the title of&amp;#160;Momentum Leader&amp;#160;and ranked&amp;#160;#1 in the Relationship Index&amp;#160;in the latest G2 Summer Reports. Reflecting real security teams’ actual experience, these rankings once again prove how critical ANY.RUN’s solutions are for daily SOC operations in modern enterprises.&amp;#160; Why ANY.RUN’s Momentum Leader Title Matters for Your Team&amp;#160; G2 awards [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/g2-summer-awards-2026/"&gt;Leader in Malware Analysis: ANY.RUN Named Top Vendor in G2 Summer 2026 Awards&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/g2-summer-awards-2026/</guid>
+      <pubDate>Fri, 05 Jun 2026 10:43:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
