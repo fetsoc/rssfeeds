@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 02:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:34:35 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -202,13 +202,6 @@
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mesop AI Sandbox Unauthenticated RCE - CVE-2026-33057</title>
-      <link>https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in Google Mesop AI Sandbox /exec-py endpoint allows arbitrary Python execution. SonicWall IPS signature available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
       <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
       <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
@@ -303,6 +296,13 @@
       <link>https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</link>
       <description>Discover the 8 core benefits of virtual firewalls, from east-west traffic inspection to cloud compatibility. Learn how SonicWall virtual firewalls secure modern distributed and multi-cloud environments.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stateful vs Stateless Firewall: Key Differences in Virtual Firewalls | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/stateful-vs-stateless-firewall-what-is-the-difference-in-virtual-environments-</link>
+      <description>Discover how stateful and stateless firewalls differ in virtual environments. Learn which inspection method best fits your cloud security architecture with SonicWall.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stateful-vs-stateless-firewall-what-is-the-difference-in-virtual-environments-</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
