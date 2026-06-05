@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 19:59:13 +0000</lastBuildDate>
-    <item>
-      <title>Sonic Boom: Getting to Know the New SonicWall</title>
-      <link>https://www.sonicwall.com/blog/sonic-boom-getting-to-know-the-new-sonicwall</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonic-boom-getting-to-know-the-new-sonicwall</guid>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 02:41:20 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -168,6 +163,11 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-confusing-demos-with-pocs-your-pipeline-depends-on-it</guid>
     </item>
     <item>
+      <title>Microsoft Security Bulletin Coverage for May 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -200,13 +200,6 @@
       <description>Virtual firewalls deliver cloud agility. Physical firewalls deliver throughput and control. Learn the differences, use cases, and how to deploy both together.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/virtual-vs-physical-firewalls-a-practical-guide-for-modern-networks</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How SonicWall's Hybrid Mesh Firewall Aligns with Gartner's CSMA Framework</title>
-      <link>https://www.sonicwall.com/blog/embracing-the-future-of-security-gartner-s-csma-meets-sonicwall-s-hybrid-mesh-firewall-hmf-on-sonicwall-unified-management</link>
-      <description>Discover how SonicWall Unified Management enables a Hybrid Mesh Firewall architecture that maps directly to Gartner's Cybersecurity Mesh Architecture principles for distributed, cloud-ready security.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/embracing-the-future-of-security-gartner-s-csma-meets-sonicwall-s-hybrid-mesh-firewall-hmf-on-sonicwall-unified-management</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mesop AI Sandbox Unauthenticated RCE - CVE-2026-33057</title>
@@ -275,6 +268,13 @@
       <link>https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</link>
       <description>High-severity CVSS 8.6 SSRF in self-hosted Next.js servers via crafted WebSocket upgrade requests. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NGINX Rewrite Module Heap Overflow RCE - CVE-2026-42945</title>
+      <link>https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</link>
+      <description>Critical CVSS 9.2 heap buffer overflow in the NGINX rewrite module enables unauthenticated remote code execution. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

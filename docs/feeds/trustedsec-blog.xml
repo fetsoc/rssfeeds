@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 20:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:42:45 +0000</lastBuildDate>
     <item>
       <title>ARP Around and Find Out: Hijacking GPO UNC Paths for Code Execution and NTLM Relay</title>
       <link>https://trustedsec.com/blog/arp-around-and-find-out-hijacking-gpo-unc-paths-for-code-execution-and-ntlm-relay</link>
