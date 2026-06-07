@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 19:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 02:49:23 +0000</lastBuildDate>
     <item>
       <title>Why AMOS matters: The macOS malware stealing data at scale</title>
       <link>https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale</link>
@@ -44,6 +44,12 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gartner EPP MQ-17</title>
+      <link>https://www.sophos.com/blog/gartner-epp-mq-17</link>
+      <guid isPermaLink="false">https://www.sophos.com/blog/gartner-epp-mq-17</guid>
+      <pubDate>Wed, 27 May 2026 23:08:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Canvas attack aftermath: What risks come next?</title>
       <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
       <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; cyberattack, ShinyHunters, GOLD CRYSTAL, Canvas&lt;/p&gt;</description>
@@ -58,6 +64,12 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Canvas attack aftermath: What risks come next</title>
+      <link>https://www.sophos.com/blog/canvas-attack-aftermath-what-risks-come-next</link>
+      <guid isPermaLink="false">https://www.sophos.com/blog/canvas-attack-aftermath-what-risks-come-next</guid>
+      <pubDate>Thu, 28 May 2026 18:50:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Pointing a Cursor at evading detection</title>
       <link>https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection</link>
       <description>&lt;p&gt;AI accelerated tool development and testing, but humans drove the workflow&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, EDR&lt;/p&gt;</description>
@@ -65,11 +77,23 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pointing a Cursor at evading detection</title>
+      <link>https://www.sophos.com/blog/pointing-a-cursor-at-evading-detection</link>
+      <guid isPermaLink="false">https://www.sophos.com/blog/pointing-a-cursor-at-evading-detection</guid>
+      <pubDate>Tue, 02 Jun 2026 19:06:54 +0000</pubDate>
+    </item>
+    <item>
       <title>You do surprise me.exe: An unexpected executable in Hola Browser</title>
       <link>https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</link>
       <description>&lt;p&gt;Following a certification test, Sophos X-Ops found an unexpected guest had hitched a ride&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Crypto mining, Supply chain&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You do surprise me.exe: An unexpected executable in Hola Browser</title>
+      <link>https://www.sophos.com/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</link>
+      <guid isPermaLink="false">https://www.sophos.com/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</guid>
+      <pubDate>Thu, 04 Jun 2026 11:52:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
