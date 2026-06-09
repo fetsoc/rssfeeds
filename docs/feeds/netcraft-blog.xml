@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 14:32:00 +0000</lastBuildDate>
-    <item>
-      <title>Shared Document Spam Delivers Remote Access Tool</title>
-      <link>https://www.netcraft.com/blog/shared-document-spam-delivers-remote-access-tool</link>
-      <description>A fake document-sharing campaign delivers a signed remote access tool via Google Drive, granting attackers full control of victims’ systems.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/shared-document-spam-delivers-remote-access-tool</guid>
-    </item>
-    <item>
-      <title>Best Practices for Financial Services Cybersecurity</title>
-      <link>https://www.netcraft.com/blog/solving-digital-brand-risks-the-definitive-financial-sector-playbook</link>
-      <description>Explore the different cyber threats financial institutions face on a daily basis and how to mitigate them on this blog from Netcraft.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/solving-digital-brand-risks-the-definitive-financial-sector-playbook</guid>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 20:02:53 +0000</lastBuildDate>
     <item>
       <title>2025 Black Friday Fake Shops: Faster, Smarter, More Deceptive</title>
       <link>https://www.netcraft.com/blog/inside-the-2025-fake-shop-shift-less-noise-more-deception</link>
@@ -255,6 +243,12 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/social-media-impersonation-how-phishing-evolved-as-email-defenses-improved</guid>
     </item>
     <item>
+      <title>June 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/june-2026-web-server-survey</link>
+      <description>In the June 2026 survey we received responses from 1,489,396,284 sites across 304,146,307 domains and 14,653,771 web-facing computers. This reflect...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/june-2026-web-server-survey</guid>
+    </item>
+    <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
       <link>https://www.netcraft.com/blog/digital-risk-management-framework</link>
       <description>Learn how to reduce exposure windows and boost cyber resilience with a 4-layer active defense framework for 2026 digital risk management.</description>
@@ -316,6 +310,13 @@
       <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/dmarc-problem-detecting-lookalike-phishing-infrastructure</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/may-2026-web-server-survey</link>
+      <description>In the May 2026 survey we received responses from 1,468,295,818 sites across 302,162,421 domains and 14,571,917 web-facing computers. This reflects...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/may-2026-web-server-survey</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
