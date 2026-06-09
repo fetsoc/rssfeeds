@@ -7,13 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 02:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:33:35 +0000</lastBuildDate>
     <item>
-      <title>Augmenting Security Operations in the Financial Services Industry</title>
-      <link>https://www.cyberproof.com/blog/augmenting-security-operations-in-the-financial-services-industry/</link>
-      <description>Discover how Financial Services firms can enhance their SOC through multiple methods. Learn more about augmenting cybersecurity defences today.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/augmenting-security-operations-in-the-financial-services-industry/</guid>
-      <pubDate>Mon, 11 Jan 2021 10:16:28 +0000</pubDate>
+      <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
+      <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
+      <description>Cyber security threats are expected to be on the rise with threat actors use a wide range of tactics to “hijack” online shoppers and steal consumer data.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</guid>
+      <pubDate>Thu, 05 Nov 2020 11:35:42 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Azure Sentinel SIEM: Multi-tenancy Deployment (Pt.1)</title>
@@ -49,13 +49,6 @@
       <description>Read more about the different kinds of cyber extortion and what you can do to protect your organization</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/protecting-your-organization-from-ransomware-and-cyber-extortion/</guid>
       <pubDate>Thu, 20 May 2021 05:36:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberProof Introduces the “Hybrid SOC Approach” at InfoSecurity Europe</title>
-      <link>https://www.cyberproof.com/blog/cyberproof-introduces-the-hybrid-soc-approach-at-infosecurity-europe/</link>
-      <description>Jaimon Thomas and Sinu Peter presented at InfoSecurity Europe on the topic of “Smarter Security Operations with a Hybrid SOC”, here are some key points.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/cyberproof-introduces-the-hybrid-soc-approach-at-infosecurity-europe/</guid>
-      <pubDate>Mon, 26 Jul 2021 05:49:14 +0000</pubDate>
     </item>
     <item>
       <title>5 Tips to Leverage Your Endpoint Detection &amp; Response (EDR) Investment</title>
@@ -168,6 +161,13 @@
       <description>Prashanth Nagendran shares insights on prioritizing security operations to safeguard and ensure customer data in your organisation.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/why-data-protection-is-essential-for-your-business/</guid>
       <pubDate>Wed, 09 Nov 2022 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Cyber Health Strategies We Can All Be Thankful For</title>
+      <link>https://www.cyberproof.com/blog/5-cyber-health-strategies-we-can-all-be-thankful-for/</link>
+      <description>This Thanksgiving, along with the roasted turkey, take a moment to give thanks for some basic, yet incredible ways cyber health strategies keep us safe.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/5-cyber-health-strategies-we-can-all-be-thankful-for/</guid>
+      <pubDate>Thu, 24 Nov 2022 11:33:00 +0000</pubDate>
     </item>
     <item>
       <title>The real cost of stolen data</title>

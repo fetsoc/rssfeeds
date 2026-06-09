@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 09:28:38 +0000</lastBuildDate>
-    <item>
-      <title>LATAM Under Siege: Agent Tesla’s 18-Month Credential Theft Campaign Against Chilean Enterprises</title>
-      <link>https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</link>
-      <description>&lt;p&gt;Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher &amp;#38; threat hunter. You can find Moises on LinkedIn and X. Credential&amp;#160;theft&amp;#160;malware rarely announces itself with ransomware-level noise. Instead, it&amp;#160;operates&amp;#160;like a silent siphon hidden inside everyday business workflows: invoices, payroll files, purchase orders, procurement requests. Agent Tesla campaigns are especially dangerous because they target the operational [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/"&gt;LATAM Under Siege: Agent Tesla&amp;#8217;s 18-Month Credential Theft Campaign Against Chilean Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/agent-tesla-latam-enterprise/</guid>
-      <pubDate>Thu, 14 May 2026 11:55:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 14:33:45 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN Turns 10: Special Offers for Stronger Security Operations</title>
       <link>https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/g2-summer-awards-2026/"&gt;Leader in Malware Analysis: ANY.RUN Named Top Vendor in G2 Summer 2026 Awards&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/g2-summer-awards-2026/</guid>
       <pubDate>Fri, 05 Jun 2026 10:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protecting 50,000 Users: How ANY.RUN Drives Incident Prevention at UMass Boston</title>
+      <link>https://any.run/cybersecurity-blog/umass-boston-success-story/</link>
+      <description>&lt;p&gt;Securing a university means defending a highly open environment, where thousands of users, devices, and external connections create constant exposure to risk. We had a unique opportunity to get an inside look at how these operations are run at a powerhouse R1 institution, the University of Massachusetts Boston.&amp;#160;&amp;#160;&amp;#160; We sat down with Daniel Mayer, Endpoint [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/umass-boston-success-story/"&gt;Protecting 50,000 Users: How ANY.RUN Drives Incident Prevention at UMass Boston&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/umass-boston-success-story/</guid>
+      <pubDate>Tue, 09 Jun 2026 10:06:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

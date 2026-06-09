@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 09:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:31:55 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -179,6 +179,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/third-party-icsa-testing-perfect-score-number-4</guid>
     </item>
     <item>
+      <title>Partner Power News - June 2026: Fresh Insights, New Releases &amp; More Ways to Win | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</link>
+      <description>Explore June 2026 Partner Power News: Gen 8 releases, Zero Trust innovations, MDF resources, success stories, expert insights, and upcoming events to help you win.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -225,13 +231,6 @@
       <description>Discover how AI-powered firewalls and SonicWall's Unified Management platform are redefining network security for enterprises and MSPs in 2024 and beyond.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-firewall-is-not-dead-how-ai-gives-it-a-co-pilot</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SFP, SFP+, SFP28, QSFP+, QSFP28: Choosing the Right Transceiver for Your SonicWall Deployment</title>
-      <link>https://www.sonicwall.com/blog/the-small-components-behind-the-high-performance-of-sonicwall-connectivity</link>
-      <description>Learn how SFP, SFP+, SFP28, QSFP+, and QSFP28 transceivers work, when to use each module, and how to validate compatibility across SonicWall firewall and switch platforms.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-small-components-behind-the-high-performance-of-sonicwall-connectivity</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DS-Lite, v6plus, DHCPv6 Prefix Delegation: SonicOS 8 IPv6 Transition Mechanisms Explained</title>
