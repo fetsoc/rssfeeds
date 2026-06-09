@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 20:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:28:33 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -206,13 +206,6 @@
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
-      <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-death-of-the-firewall</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Ransomware Chimera That Does Everything</title>
       <link>https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</link>
       <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
@@ -224,6 +217,13 @@
       <link>https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</link>
       <description>Discover the 8 essential features of virtual firewalls, from policy-based filtering and DNS security to malware protection and seamless cloud integration. Learn how these capabilities protect modern hybrid and cloud environments.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Firewall Is Not Dead: How AI Makes It Smarter | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/the-firewall-is-not-dead-how-ai-gives-it-a-co-pilot</link>
+      <description>Discover how AI-powered firewalls and SonicWall's Unified Management platform are redefining network security for enterprises and MSPs in 2024 and beyond.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-firewall-is-not-dead-how-ai-gives-it-a-co-pilot</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
