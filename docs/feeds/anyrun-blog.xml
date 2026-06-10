@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 09:44:47 +0000</lastBuildDate>
-    <item>
-      <title>ANY.RUN Turns 10: Special Offers for Stronger Security Operations</title>
-      <link>https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</link>
-      <description>&lt;p&gt;Ten years in cybersecurity is a long journey. Threats have changed, attacks have become harder to spot, and security teams now need answers faster than ever.&amp;#160; ANY.RUN&amp;#160;has grown with those teams.&amp;#160; What started as an interactive sandbox is now a trusted&amp;#160;company with&amp;#160;threat analysis and intelligence&amp;#160;solution&amp;#160;used by 15,000+ organizations, 600,000 security professionals, and teams at Fortune [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/"&gt;ANY.RUN Turns 10: Special Offers for Stronger Security Operations&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/anyrun-10th-anniversary-offers/</guid>
-      <pubDate>Mon, 18 May 2026 10:57:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 15:00:07 +0000</lastBuildDate>
     <item>
       <title>Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026</title>
       <link>https://any.run/cybersecurity-blog/social-engineering-attacks-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/umass-boston-success-story/"&gt;Protecting 50,000 Users: How ANY.RUN Drives Incident Prevention at UMass Boston&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/umass-boston-success-story/</guid>
       <pubDate>Tue, 09 Jun 2026 10:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligence-Driven Threat Hunting: How SOCs Find What Alerts Miss</title>
+      <link>https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/</link>
+      <description>&lt;p&gt;Talk to any threat hunter long enough, and beneath the polished case studies and conference talks, the same frustrations surface. Hunting is supposed to be proactive. In practice, it often feels reactive. You are chasing whispers of activity through log noise, querying SIEM fields that barely reflect real attacker&amp;#160;behavior&amp;#160;and writing detections against technique descriptions that [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/"&gt;Intelligence-Driven Threat Hunting: How SOCs Find What Alerts Miss&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/</guid>
+      <pubDate>Wed, 10 Jun 2026 12:49:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

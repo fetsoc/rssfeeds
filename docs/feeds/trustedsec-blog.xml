@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 09:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:00:08 +0000</lastBuildDate>
     <item>
       <title>The Defensive Stack is Exposed: LLMs, Reverse Engineering, and the End of Opaque Defense</title>
       <link>https://trustedsec.com/blog/the-defensive-stack-is-exposed</link>

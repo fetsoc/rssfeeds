@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 09:43:23 +0000</lastBuildDate>
-    <item>
-      <title>Cybercriminals targeting the legal sector - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cybercriminals-targeting-the-legal-sector</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybercriminals-targeting-the-legal-sector</guid>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 14:58:26 +0000</lastBuildDate>
     <item>
       <title>Cybercriminal Forums and the Russian Language Scene - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cybercriminal-forums-and-the-russian-language-scene</link>
@@ -108,6 +103,12 @@
       <title>Bridging the Gap: How CISOs Can Strengthen Relationships with the Board - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board</guid>
+    </item>
+    <item>
+      <title>Board-Level Cyber Reporting: What CEOs, CFOs, and CISOs Need to Get Right in 2026  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/board-level-cyber-reporting-what-ceos-cfos-and-cisos-need-to-get-right-in-2026</link>
+      <description>Cyber reporting to the board has a consistency problem: updates arrive regularly but rarely deliver the forward-looking intelligence executives need to act. This piece breaks down why the disconnect exists, how it affects CEOs, CFOs, and CISOs differently, and what decision-ready threat intelligence should actually look like at board level.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/board-level-cyber-reporting-what-ceos-cfos-and-cisos-need-to-get-right-in-2026</guid>
     </item>
     <item>
       <title>Beyond the Threats: The People of CYJAX - CYJAX</title>
