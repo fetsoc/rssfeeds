@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 20:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:41:24 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -185,6 +185,11 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
     </item>
     <item>
+      <title>Microsoft Security Bulletin Coverage for June 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -238,12 +243,6 @@
       <description>Learn how SonicOS 8 supports DS-Lite, v6plus Static IP Address Service, DHCPv6 Prefix Delegation, and configurable Interface Identifiers for IPv6-primary ISP networks without additional CPE hardware.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adversary in the Middle Attacks - Abusing Trust via Weaponized PDFs</title>
-      <link>https://www.sonicwall.com/blog/adversary-in-the-middle-attacks---abusing-trust-via-weaponized-pdfs</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/adversary-in-the-middle-attacks---abusing-trust-via-weaponized-pdfs</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Next.js WebSocket Upgrade Handler SSRF - CVE-2026-44578</title>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 20:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:42:06 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -54,6 +54,13 @@
       <link>https://analyst1.com/intelligent-cyber-threat-response-2/</link>
       <description>Bridge the gap between cyber threats and actionable intelligence with Analyst1: Simplifying cybersecurity, empowering analysts, and deploying integrations.</description>
       <guid isPermaLink="false">https://analyst1.com/intelligent-cyber-threat-response-2/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is the Next Cybersecurity Fable? - Analyst1</title>
+      <link>https://analyst1.com/what-is-the-next-cybersecurity-fable/</link>
+      <description>Discover the next cybersecurity fable and learn how to fight back against cyber threats. Explore the world of hackers and the battle for online security.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-the-next-cybersecurity-fable/</guid>
       <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
@@ -127,13 +134,6 @@
       <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
     </item>
     <item>
-      <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
-      <link>https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</link>
-      <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</guid>
-      <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
-    </item>
-    <item>
       <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
       <link>https://analyst1.com/north-korea-intelligence-assessment-2022/</link>
       <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
@@ -197,18 +197,25 @@
       <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
+      <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
+      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
+      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Lateral Movement in Cybersecurity?</title>
+      <link>https://analyst1.com/what-is-lateral-movement/</link>
+      <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
+      <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
       <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/global-cyberattack-on-the-us-government/</guid>
       <pubDate>Wed, 13 Sep 2023 20:32:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
-      <link>https://analyst1.com/spear-phishing-vs-phishing/</link>
-      <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
-      <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
-      <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
     </item>
     <item>
       <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
@@ -253,18 +260,11 @@
       <pubDate>Thu, 02 May 2024 21:40:42 +0000</pubDate>
     </item>
     <item>
-      <title>10 Reasons You Need a TIP Now | Analyst1</title>
-      <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
-      <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
-      <guid isPermaLink="false">https://analyst1.com/10-reasons-you-need-a-tip-now/</guid>
-      <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is it time to replace your legacy TIP? | Analyst1</title>
-      <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
-      <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
-      <guid isPermaLink="false">https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</guid>
-      <pubDate>Thu, 23 May 2024 17:59:37 +0000</pubDate>
+      <title>The Evolving Cyber Threat Landscape | Analyst1</title>
+      <link>https://analyst1.com/the-evolving-cyber-threat-landscape/</link>
+      <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
+      <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
+      <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
       <title>Why Threat Actors Matter | Analyst1</title>
@@ -272,13 +272,6 @@
       <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
       <guid isPermaLink="false">https://analyst1.com/why-threat-actors-matter/</guid>
       <pubDate>Thu, 15 Aug 2024 15:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why SOAR is Not a Replacement for a TIP | Analyst1</title>
-      <link>https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</link>
-      <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
-      <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
@@ -293,6 +286,13 @@
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-1/</guid>
       <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence Lifecycle | Analyst1</title>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-2/</link>
+      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
+      <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Unveils v2.10.0 Release, Delivering Expanded Integrations and Enhancements for Threat Intelligence Operations | Analyst1</title>

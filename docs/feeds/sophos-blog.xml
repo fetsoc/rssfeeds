@@ -7,91 +7,67 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 20:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:43:04 +0000</lastBuildDate>
     <item>
       <title>WantToCry ransomware remotely encrypts files</title>
       <link>https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files</link>
-      <description>&lt;p&gt;Brute-force attempts against SMB services can be early signs of an attack&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Ransomware, WantToCry, SMB&lt;/p&gt;</description>
+      <description>&lt;p&gt;Brute-force attempts against SMB services can be early signs of an attack&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sophos Firewall and Synchronized Security</title>
       <link>https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</link>
-      <description>&lt;p&gt;Synchronized Security is a unique capability you won’t get anywhere else.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, Firewall, Synchronized Security&lt;/p&gt;</description>
+      <description>&lt;p&gt;Synchronized Security is a unique capability you won’t get anywhere else.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>GitHub internal repositories breached.</title>
       <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
-      <description>&lt;p&gt;A malicious VS Code extension led to cloned private repositories, reportedly offered for sale on a criminal forum&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; GitHub, Supply chain&lt;/p&gt;</description>
+      <description>&lt;p&gt;A malicious VS Code extension led to cloned private repositories, reportedly offered for sale on a criminal forum&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/github-internal-repositories-breached</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sophos named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection for the 17th consecutive report</title>
       <link>https://www.sophos.com/en-us/blog/gartner-epp-mq-17</link>
-      <description>&lt;p&gt;Strong endpoint protection remains critical. But in today’s AI-driven threat environment, it&amp;apos;s most powerful when it&amp;apos;s part of a broader, coordinated defense.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Gartner, Gartner Magic Quadrant, Endpoint, Sophos Endpoint&lt;/p&gt;</description>
+      <description>&lt;p&gt;Strong endpoint protection remains critical. But in today’s AI-driven threat environment, it&amp;apos;s most powerful when it&amp;apos;s part of a broader, coordinated defense.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/gartner-epp-mq-17</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gartner EPP MQ-17</title>
-      <link>https://www.sophos.com/blog/gartner-epp-mq-17</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/gartner-epp-mq-17</guid>
-      <pubDate>Wed, 27 May 2026 23:08:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Canvas attack aftermath: What risks come next?</title>
       <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
-      <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Sophos Insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; cyberattack, ShinyHunters, GOLD CRYSTAL, Canvas&lt;/p&gt;</description>
+      <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Encore Performance: Sophos ranked #1 Overall in Endpoint, EDR, XDR, MDR, and Firewall for the 2nd consecutive time in the G2 Summer 2026 Reports</title>
       <link>https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</link>
-      <description>&lt;p&gt;Ranked #1 in 67 global reports&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ranked #1 in 67 global reports&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-g2-summer-2026</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Canvas attack aftermath: What risks come next</title>
-      <link>https://www.sophos.com/blog/canvas-attack-aftermath-what-risks-come-next</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/canvas-attack-aftermath-what-risks-come-next</guid>
-      <pubDate>Thu, 28 May 2026 18:50:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Pointing a Cursor at evading detection</title>
       <link>https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection</link>
-      <description>&lt;p&gt;AI accelerated tool development and testing, but humans drove the workflow&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI, EDR&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI accelerated tool development and testing, but humans drove the workflow&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pointing a Cursor at evading detection</title>
-      <link>https://www.sophos.com/blog/pointing-a-cursor-at-evading-detection</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/pointing-a-cursor-at-evading-detection</guid>
-      <pubDate>Tue, 02 Jun 2026 19:06:54 +0000</pubDate>
-    </item>
-    <item>
       <title>You do surprise me.exe: An unexpected executable in Hola Browser</title>
       <link>https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</link>
-      <description>&lt;p&gt;Following a certification test, Sophos X-Ops found an unexpected guest had hitched a ride&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Threat Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Crypto mining, Supply chain&lt;/p&gt;</description>
+      <description>&lt;p&gt;Following a certification test, Sophos X-Ops found an unexpected guest had hitched a ride&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>You do surprise me.exe: An unexpected executable in Hola Browser</title>
-      <link>https://www.sophos.com/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</link>
-      <guid isPermaLink="false">https://www.sophos.com/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser</guid>
-      <pubDate>Thu, 04 Jun 2026 11:52:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos Workspace Protection update</title>
       <link>https://www.sophos.com/en-us/blog/sophos-workspace-protection-update</link>
-      <description>&lt;p&gt;Learn more and share your feedback with the team on the Sophos Workspace Protection Community.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Categories:&lt;/strong&gt; Products &amp;amp; Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; network, Workspace Protection&lt;/p&gt;</description>
+      <description>&lt;p&gt;Learn more and share your feedback with the team on the Sophos Workspace Protection Community.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-workspace-protection-update</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
