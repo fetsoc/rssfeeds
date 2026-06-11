@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 10:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 15:40:06 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -190,6 +190,11 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
     </item>
     <item>
+      <title>Tracking Havoc Malware Activity and Evasion Techniques</title>
+      <link>https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -224,13 +229,6 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>8 Key Features of Virtual Firewalls: What You Need to Know</title>
-      <link>https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</link>
-      <description>Discover the 8 essential features of virtual firewalls, from policy-based filtering and DNS security to malware protection and seamless cloud integration. Learn how these capabilities protect modern hybrid and cloud environments.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Firewall Is Not Dead: How AI Makes It Smarter | SonicWall</title>
       <link>https://www.sonicwall.com/blog/the-firewall-is-not-dead-how-ai-gives-it-a-co-pilot</link>
       <description>Discover how AI-powered firewalls and SonicWall's Unified Management platform are redefining network security for enterprises and MSPs in 2024 and beyond.</description>
@@ -238,11 +236,11 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DS-Lite, v6plus, DHCPv6 Prefix Delegation: SonicOS 8 IPv6 Transition Mechanisms Explained</title>
-      <link>https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</link>
-      <description>Learn how SonicOS 8 supports DS-Lite, v6plus Static IP Address Service, DHCPv6 Prefix Delegation, and configurable Interface Identifiers for IPv6-primary ISP networks without additional CPE hardware.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/bridging-ipv4-and-ipv6-native-connectivity-for-modern-isp-networks</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <title>Cyber Hygiene Fundamentals: Passwords, MFA, and Zero Trust in 2026</title>
+      <link>https://www.sonicwall.com/blog/cyber-hygiene-101-the-big-fundamentals</link>
+      <description>Weak passwords and outdated network access are still the most common entry points for attackers. Here is what good cyber hygiene actually looks like for small businesses in 2026.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/cyber-hygiene-101-the-big-fundamentals</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Next.js WebSocket Upgrade Handler SSRF - CVE-2026-44578</title>

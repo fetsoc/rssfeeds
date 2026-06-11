@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 10:15:53 +0000</lastBuildDate>
-    <item>
-      <title>The Defensive Stack is Exposed: LLMs, Reverse Engineering, and the End of Opaque Defense</title>
-      <link>https://trustedsec.com/blog/the-defensive-stack-is-exposed</link>
-      <description>&amp;lt;p&amp;gt;Everyone is talking about LLMs finding zero days. That is not the only story. The story is what happens when you point these models at the defensive tools organizations depend on for first line defense. AI is changing…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/the-defensive-stack-is-exposed</guid>
-      <pubDate>Tue, 05 May 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 15:41:45 +0000</lastBuildDate>
     <item>
       <title>GRC in an AI World - Staying in the Fast Lane Without Losing the Race!</title>
       <link>https://trustedsec.com/blog/grc-in-an-ai-world</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Whether it be the advent of AI technologies, new Red-Team techniques and exploits, or new patches and emergent defensive technologies, it’s pretty clear to all of us operating within technology fields that the landscape…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/how-to-train-your-dragons-analysts</guid>
       <pubDate>Tue, 09 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hardening Intune: The Implementation Guide</title>
+      <link>https://trustedsec.com/blog/hardening-intune-the-implementation-guide</link>
+      <description>&amp;lt;p&amp;gt;Part 2: Step-by-Step Configuration for Every ControlThis is Part 2 of a two-part series on Intune security hardening. Part 1 covers the attacks we have seen against this types of platforms, why platform administration…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/hardening-intune-the-implementation-guide</guid>
+      <pubDate>Thu, 11 Jun 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
