@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 02:54:17 +0000</lastBuildDate>
-    <item>
-      <title>Ryuk Ransomware Targeting Major Companies | Expert Analysis</title>
-      <link>https://www.darktrace.com/blog/big-game-hunting-how-ryuk-ransomware-takes-down-its-imposing-targets</link>
-      <description>Discover how Ryuk ransomware targets major companies with AI-powered tools to detect unusual activity. Learn the threats behind Autonomous Response technology.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/big-game-hunting-how-ryuk-ransomware-takes-down-its-imposing-targets</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unsupervised Machine Learning and JA3 for Enhanced Security</title>
-      <link>https://www.darktrace.com/blog/beyond-the-hash-how-unsupervised-machine-learning-unlocks-the-true-power-of-ja3</link>
-      <description>Unlock the true power of Darktrace's algorithms. Learn how JA3 enhances cybersecurity defenses with unique TLS/SSL fingerprints &amp; unsupervised machine learning.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-the-hash-how-unsupervised-machine-learning-unlocks-the-true-power-of-ja3</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 10:14:42 +0000</lastBuildDate>
     <item>
       <title>Detecting Adversary-in-the-Middle Attacks and Phishing with Darktrace</title>
       <link>https://www.darktrace.com/blog/beyond-mfa-detecting-adversary-in-the-middle-attacks-and-phishing-with-darktrace</link>
@@ -337,13 +323,6 @@
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Chinese APT Campaign Targets Entities with Updated FDMTP Backdoor</title>
-      <link>https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor</link>
-      <description>Darktrace researchers identified a Twill Typhoon–linked China‑nexus campaign targeting APJ customers. The activity observed includes CDN impersonation, legitimate binaries, and DLL sideloading to deploy a modular .NET RAT.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/chinese-apt-campaign-targets-entities-with-updated-fdmtp-backdoor</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI Insider Threats: How Generative AI is Changing Insider Risk</title>
       <link>https://www.darktrace.com/blog/ai-insider-threats-how-generative-ai-is-changing-insider-risk</link>
       <description>The blog examines how AI has changed the paradigm of understanding, and dealing with, insider threats. It also explores a defense-in-depth approach and discusses what CISOs and SOC leaders can do to protect their organization from AI insider threats.</description>
@@ -356,6 +335,27 @@
       <description>How SOCs are using AI to become proactive, frontline defenders and strategic business enablers that drive resilience, innovation, and growth</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/always-on-always-defending-inside-the-ai-driven-soc</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CastleLoader &amp; CastleRAT: Behind TAG150’s Modular Malware Delivery System</title>
+      <link>https://www.darktrace.com/blog/castleloader-castlerat-behind-tag150s-modular-malware-delivery-system</link>
+      <description>* AG-150, a MaaS operator active since March 2025, uses CastleLoader and CastleRAT in multi-stage attacks. Learn how Darktrace detected and blocked early attack activity.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/castleloader-castlerat-behind-tag150s-modular-malware-delivery-system</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Darktrace’s Detection of Unattributed Ransomware</title>
+      <link>https://www.darktrace.com/blog/better-the-devil-you-know</link>
+      <description>Leveraging anomaly-based detection, we successfully identified an ongoing ransomware attack on the network of a customer and the activity that preceded it.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/better-the-devil-you-know</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of an Insider Breach From a Contractor's Laptop</title>
+      <link>https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</link>
+      <description>Hear from a guest author how Darktrace identified an insider breach from a contractor's laptop, scanned the device, and removed the malware quickly.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

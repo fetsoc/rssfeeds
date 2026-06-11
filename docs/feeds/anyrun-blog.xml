@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 02:55:24 +0000</lastBuildDate>
-    <item>
-      <title>Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026</title>
-      <link>https://any.run/cybersecurity-blog/social-engineering-attacks-2026/</link>
-      <description>&lt;p&gt;Your employees are not falling for “bad grammar” phishing anymore. They are being pulled into fake Microsoft logins, banking pages, AI tool instructions, real OAuth flows, and event invitations that look close enough to daily work to pass without alarm.&amp;#160; For CISOs, that is the real social engineering problem in 2026: attacks are no longer [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/social-engineering-attacks-2026/"&gt;Top 5 Phishing-Driven Social Engineering Attacks on Companies in 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/social-engineering-attacks-2026/</guid>
-      <pubDate>Tue, 19 May 2026 11:08:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 10:15:53 +0000</lastBuildDate>
     <item>
       <title>How Can MSSPs Scale Threat Detection Without Burning Out Their Analysts?</title>
       <link>https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/"&gt;Intelligence-Driven Threat Hunting: How SOCs Find What Alerts Miss&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/</guid>
       <pubDate>Wed, 10 Jun 2026 12:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Infosecurity Europe to CONFidence and C1b3rWall: What Security Teams Are Prioritizing in 2026</title>
+      <link>https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/</link>
+      <description>&lt;p&gt;Three cities, three cybersecurity conferences, and plenty of conversations with security professionals across Europe.&amp;#160; Over the past few weeks, the ANY.RUN team joined Infosecurity Europe in London, CONFidence Conference in Kraków, and C1b3rWall Congress in Ávila. While every event had its own focus, the discussions pointed in the same direction: security teams need faster investigations, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/"&gt;From Infosecurity Europe to CONFidence and C1b3rWall: What Security Teams Are Prioritizing in 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/</guid>
+      <pubDate>Thu, 11 Jun 2026 08:31:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
