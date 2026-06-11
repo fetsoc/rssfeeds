@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 15:41:47 +0000</lastBuildDate>
-    <item>
-      <title>Sophos Firewall and Synchronized Security</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</link>
-      <description>&lt;p&gt;Synchronized Security is a unique capability you won’t get anywhere else.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-and-synchronized-security</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 20:13:57 +0000</lastBuildDate>
     <item>
       <title>GitHub internal repositories breached.</title>
       <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
@@ -69,6 +62,13 @@
       <link>https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</link>
       <description>&lt;p&gt;How AI is rewriting vulnerability research, and how our program has adapted&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
+      <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

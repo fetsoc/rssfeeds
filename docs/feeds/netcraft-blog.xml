@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 15:40:09 +0000</lastBuildDate>
-    <item>
-      <title>2025 Black Friday Fake Shops: Faster, Smarter, More Deceptive</title>
-      <link>https://www.netcraft.com/blog/inside-the-2025-fake-shop-shift-less-noise-more-deception</link>
-      <description>Black Friday fake shops surge sharply in early November. Netcraft uncovers the 2025 shift: fewer totals, smarter tactics, global targeting, and AI-driven deception.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/inside-the-2025-fake-shop-shift-less-noise-more-deception</guid>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 20:12:54 +0000</lastBuildDate>
     <item>
       <title>November 2025 Web Server Survey | Netcraft</title>
       <link>https://www.netcraft.com/blog/november-2025-web-server-survey</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/june-2026-web-server-survey</link>
       <description>In the June 2026 survey we received responses from 1,489,396,284 sites across 304,146,307 domains and 14,653,771 web-facing computers. This reflect...</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/june-2026-web-server-survey</guid>
+    </item>
+    <item>
+      <title>Consumer Scam Reports Show Who’s Fighting Back</title>
+      <link>https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</link>
+      <description>Scam loss reports from Singapore, Australia, and the U.S. reveal a clear divide: countries pairing fraud statistics with active controls are better equipped to disrupt scams.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
