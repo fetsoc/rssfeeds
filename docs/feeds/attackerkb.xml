@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 10:00:39 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-61882</title>
-      <link>https://attackerkb.com/assessments/a5a4a6ba-7379-4404-9a90-2a9a0345575e</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5
-
-The exploit for this was leaked, and has been available on VirusTotal since 3 Oct 2025 (both exp.py and server.py). A port of the leaked exploit is also on GitHub.&#13;
-&#13;
-As there is publicly available exploit code, exploitability for the vuln is now Very High. We know that a ransomware group has used this exploit already as a zero day to exploit victims in a ransomware campaign, so the attacker value here is also Very High. The exploit itself achieves unauthenticated RCE as the oracle user (so not root), but this should not be a mitigating factor in its impact. Broad exploitation is now likely to…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/a5a4a6ba-7379-4404-9a90-2a9a0345575e</guid>
-      <pubDate>Tue, 07 Oct 2025 13:03:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 14:46:35 +0000</lastBuildDate>
     <item>
       <title>Assessment 85091c37</title>
       <link>https://attackerkb.com/assessments/85091c37-0bbd-4d19-980b-5acc68a9fc7a</link>
@@ -660,6 +649,15 @@ SHA-256: 1fe9c2c2e4b390f01d2bb7d90b5d219dbe85fdd42321f247a295d532c9b387d2&#13;
 SHA-384…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/b2d36809-3cec-435a-beca-e1b03211a456</guid>
       <pubDate>Fri, 12 Jun 2026 04:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 2c7e26e8</title>
+      <link>https://attackerkb.com/assessments/2c7e26e8-d603-448d-ad8c-bcd1526a5e78</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5
+
+</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/2c7e26e8-d603-448d-ad8c-bcd1526a5e78</guid>
+      <pubDate>Fri, 12 Jun 2026 13:54:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 09:59:31 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/bitwarden-cli-compromised-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/62f013cdcb79003af39249507f83bb709c82ae1f</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/bitwarden-cli-compromised-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/62f013cdcb79003af39249507f83bb709c82ae1f</guid>
-      <pubDate>Fri, 24 Apr 2026 09:22:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 14:44:58 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/monitoring-claude-cowork-on-microsoft-365.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c50995179be9f88e03471017464f5b361adc9ba4</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/agent-365--local-ai-agent-installation-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/6c92c5372042f74f6e7f1e950415549e3b81ce29</guid>
       <pubDate>Thu, 11 Jun 2026 16:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/agent-365--detecting-autonomous-agents-awaiting-c…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/9497e246669e3ce0fd197ad508327096907e6efb</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/agent-365--detecting-autonomous-agents-awaiting-commands.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/9497e246669e3ce0fd197ad508327096907e6efb</guid>
+      <pubDate>Fri, 12 Jun 2026 14:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

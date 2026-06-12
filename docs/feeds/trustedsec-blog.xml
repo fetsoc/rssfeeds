@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 10:00:41 +0000</lastBuildDate>
-    <item>
-      <title>GRC in an AI World - Staying in the Fast Lane Without Losing the Race!</title>
-      <link>https://trustedsec.com/blog/grc-in-an-ai-world</link>
-      <description>&amp;lt;p&amp;gt;Artificial Intelligence (AI) is the new buzz word on the streets. It’s becoming “the best thing since sliced bread” in the IT world and is being used by everyone from executives to employees, students, and even young…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/grc-in-an-ai-world</guid>
-      <pubDate>Thu, 07 May 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 14:46:36 +0000</lastBuildDate>
     <item>
       <title>Slamming the Door on Quick Assist Tech Support Scams and Abuse</title>
       <link>https://trustedsec.com/blog/slamming-the-door-on-quick-assist-tech-support-scams-and-abuse</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Part 2: Step-by-Step Configuration for Every ControlThis is Part 2 of a two-part series on Intune security hardening. Part 1 covers the attacks we have seen against this types of platforms, why platform administration…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/hardening-intune-the-implementation-guide</guid>
       <pubDate>Thu, 11 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JS-Tap v3: Endpoint Post-Exploitation With JavaScript Implants</title>
+      <link>https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</link>
+      <description>&amp;lt;p&amp;gt;When I first wrote JS-Tap, the goal was to provide red teamers with a generic JavaScript payload that works without prior knowledge of a web application and without an authenticated user running it. Instrument the…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</guid>
+      <pubDate>Fri, 12 Jun 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 09:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:39:27 +0000</lastBuildDate>
     <item>
       <title>Clickfix on macOS: AppleScript Stealer, Terminal Phishing, and C2 Infrastructure</title>
       <link>https://hunt.io/blog/macos-clickfix-applescript-terminal-phishing</link>
