@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 02:48:40 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-41244</title>
-      <link>https://attackerkb.com/assessments/32dc9ce8-8cb7-46d4-90fb-d47e97fbf84f</link>
-      <description>Attacker Value: 3/5 | Exploitability: 2/5
-
-A local privilege escalation in VMware guest service discovery (open-vm-tools / VMware Aria Operations SDMP). A logic flaw in version-discovery handling uses overly-broad regexes and allows execution of attacker-controlled binaries from user-writable paths (e.g., /tmp), enabling an unprivileged guest user to get code executed in a privileged context.&#13;
-&#13;
-Exploitation is only possible if the target VM is managed by VMware Aria Operations and has the proprietary SDMP service enabled. This prevents arbitrary exploitation across all systems merely running VMware Tools.  The presence of the Aria Ope…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/32dc9ce8-8cb7-46d4-90fb-d47e97fbf84f</guid>
-      <pubDate>Tue, 30 Sep 2025 11:43:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 10:00:39 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-61882</title>
       <link>https://attackerkb.com/assessments/a5a4a6ba-7379-4404-9a90-2a9a0345575e</link>
@@ -648,6 +637,29 @@ The full chain is described in this Github advisory.&#13;
 I have submitted a Metasploit module that fully automates this at…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/1ff7fe81-9ca7-4362-97cc-9d14c9ed26c9</guid>
       <pubDate>Sun, 07 Jun 2026 11:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment b2d36809</title>
+      <link>https://attackerkb.com/assessments/b2d36809-3cec-435a-beca-e1b03211a456</link>
+      <description>Exploitability: 5/5 | MITRE: Initial Access
+
+✔ Verificado con las advertencias de 58&#13;
+Sistemas de firmas: v1, v2&#13;
+&#13;
+Signer Certificate&#13;
+Asunto: CN=Swish,OU=ITC,O=InMobi pvt. ltd.,L=Bangalore,ST=Karnataka,C=91&#13;
+Emisor: CN=Swish,OU=ITC,O=InMobi pvt. ltd.,L=Bangalore,ST=Karnataka,C=91&#13;
+Fecha de emisión: Fri Jul 23 09:04:44 EST 2021&#13;
+Fecha de caducidad: Sun Jun 29 09:04:44 EST 2121&#13;
+Tipo: X.509, Versión: 3, Vigencia: Válida&#13;
+Número de serie: 68f3b1c1&#13;
+Sumas de comprobación&#13;
+MD5: 351dd32288c3d8d657946621ee06bff4&#13;
+SHA-1: 5c6167aaa3524b8ba3bdf313b66bfdf8ad8306be&#13;
+SHA-256: 1fe9c2c2e4b390f01d2bb7d90b5d219dbe85fdd42321f247a295d532c9b387d2&#13;
+SHA-384…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b2d36809-3cec-435a-beca-e1b03211a456</guid>
+      <pubDate>Fri, 12 Jun 2026 04:16:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
