@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 08:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 13:44:49 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, April 2026</title>
       <link>https://asec.ahnlab.com/en/93410/</link>
@@ -135,17 +135,17 @@
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93803/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Crypto Guest at Dawn Endpoint (Midnight) ransomware analysis</title>
       <link>https://asec.ahnlab.com/en/93932/</link>
       <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93803/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -170,17 +170,17 @@
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
-      <link>https://asec.ahnlab.com/en/93875/</link>
-      <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
       <link>https://asec.ahnlab.com/en/93881/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
+      <link>https://asec.ahnlab.com/en/93875/</link>
+      <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
       <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
