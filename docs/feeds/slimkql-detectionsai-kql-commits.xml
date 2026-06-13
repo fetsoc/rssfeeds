@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 02:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 08:49:13 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/monitoring-claude-cowork-on-microsoft-365.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c50995179be9f88e03471017464f5b361adc9ba4</link>
