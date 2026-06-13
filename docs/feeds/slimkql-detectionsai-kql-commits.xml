@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 13:43:20 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/monitoring-exploitation-of-windows-shell-cve-2026…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/f9a6b34ef171760a55f51f70c50c79dee723abe4</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/monitoring-exploitation-of-windows-shell-cve-2026-32202.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f9a6b34ef171760a55f51f70c50c79dee723abe4</guid>
-      <pubDate>Tue, 28 Apr 2026 14:50:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 19:17:06 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/exo-retirement-of-legacy-tls-versions-for-pop-and…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/c201e620b5f717edb262288e332910dea833873f</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/rise-in-kali365-de-domains.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/809056b171678143e6af26ccc363c2cda7ec1d15</guid>
       <pubDate>Sat, 13 Jun 2026 12:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/cve202641089-cvss-98-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/f2fe759c90cb50852b22bf2dca40818140ca2c41</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve202641089-cvss-98-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f2fe759c90cb50852b22bf2dca40818140ca2c41</guid>
+      <pubDate>Sat, 13 Jun 2026 17:07:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
