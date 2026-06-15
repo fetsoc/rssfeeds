@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 02:57:19 +0000</lastBuildDate>
-    <item>
-      <title>Inside the Middle East’s Cyber Shadow War: Mapping 72+ Pro-Iran and Anti-Iran Groups</title>
-      <link>https://falconfeeds.io/blogs/inside-middle-east-cyber-shadow-war-pro-iran-anti-iran-threat-actor-mapping</link>
-      <description>Geopolitical analysis of the Middle East cyber threat landscape (18 Jan–3 Mar 2026), mapping 72+ groups by alignment—Pro-Iran, Anti-Iran, neutral, and criminal brokers—using FalconFeeds.io, dark web, and Telegram OSINT.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/inside-middle-east-cyber-shadow-war-pro-iran-anti-iran-threat-actor-mapping</guid>
-      <pubDate>Wed, 04 Mar 2026 11:14:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>DieNet: The DDoS Shock Troops of Iran’s Hybrid War</title>
-      <link>https://falconfeeds.io/blogs/dienet-ddos-shock-troops-of-irans-hybrid-war</link>
-      <description>DieNet is a pro-Iran hacktivist-style collective driving DDoS “theater” in the Iran–Israel conflict—using outages, defacements, and Telegram propaganda to amplify geopolitical flashpoints and pressure Israel-aligned targets.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/dienet-ddos-shock-troops-of-irans-hybrid-war</guid>
-      <pubDate>Wed, 04 Mar 2026 12:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel’s BadeSaba Hack: How a Prayer App Became a Psychological Weapon</title>
-      <link>https://falconfeeds.io/blogs/israels-badesaba-hack-how-a-prayer-app-became-a-psychological-weapon</link>
-      <description>Israel’s alleged BadeSaba Calendar compromise shows how a trusted prayer app can be turned into a mass PSYOP channel—pushing regime-undermining notifications at peak tension (28 Feb 2026) and redefining “everyday apps” as battlefield infrastructure.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/israels-badesaba-hack-how-a-prayer-app-became-a-psychological-weapon</guid>
-      <pubDate>Wed, 04 Mar 2026 12:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mapping the Cyber Battlefield: Threat Actor Activity Across the Middle East</title>
-      <link>https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity</link>
-      <description>Middle East cyber threats mapped across Israel, Kuwait, Jordan, Saudi Arabia, Oman, Bahrain, and Qatar—threat actors, targeting trends, and MITRE ATT&amp;CK TTPs, explained in a defender-focused investigative format.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity</guid>
-      <pubDate>Thu, 05 Mar 2026 07:11:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 11:51:37 +0000</lastBuildDate>
     <item>
       <title>Military, Kinetic, and Maritime Security Developments in the Iran–Israel War</title>
       <link>https://falconfeeds.io/blogs/iran-israel-war-military-escalation-maritime-security-strait-of-hormuz</link>
@@ -357,6 +329,34 @@
       <description>Explore the cyber scam landscape surrounding the FIFA World Cup 2026, including phishing domains, ticket fraud, crypto scams, fake streaming platforms, and social engineering campaigns targeting fans worldwide.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/fifa-world-cup-2026-global-cyber-scam-ecosystem-analysis</guid>
       <pubDate>Tue, 02 Jun 2026 06:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Breach to Influence: The Convergence of Cyber Espionage, Ransomware, and Strategic Narrative Warfare</title>
+      <link>https://falconfeeds.io/blogs/cyber-espionage-ransomware-narrative-warfare-convergence-analysis</link>
+      <description>Explore how cyber espionage, ransomware, and influence operations are converging through hack-and-leak campaigns, turning stolen data into a powerful tool for narrative warfare and geopolitical pressure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-espionage-ransomware-narrative-warfare-convergence-analysis</guid>
+      <pubDate>Mon, 15 Jun 2026 03:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Without Borders: The Rise of Transnational Cybercrime Alliances</title>
+      <link>https://falconfeeds.io/blogs/transnational-cybercrime-alliances-borderless-threat-actor-networks</link>
+      <description>Explore how transnational cybercrime alliances exploit jurisdictional gaps, global infrastructure, and cyber-enabled fraud to operate across borders and challenge traditional law enforcement frameworks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/transnational-cybercrime-alliances-borderless-threat-actor-networks</guid>
+      <pubDate>Mon, 15 Jun 2026 03:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Reconnaissance Era: How Threat Actors Profile Organizations Before the First Phish</title>
+      <link>https://falconfeeds.io/blogs/new-reconnaissance-era-osint-threat-actor-target-profiling</link>
+      <description>Explore how threat actors use OSINT, AI-powered reconnaissance, and breach intelligence to profile organizations and employees before launching targeted phishing and cyber intrusion campaigns.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/new-reconnaissance-era-osint-threat-actor-target-profiling</guid>
+      <pubDate>Mon, 15 Jun 2026 04:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Next Billion Devices: How Connected Infrastructure Is Reshaping Threat Intelligence</title>
+      <link>https://falconfeeds.io/blogs/connected-infrastructure-iot-threat-intelligence-next-billion-devices</link>
+      <description>Explore how billions of IoT devices, connected infrastructure, and edge computing are reshaping threat intelligence, expanding attack surfaces, and creating new cybersecurity challenges worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/connected-infrastructure-iot-threat-intelligence-next-billion-devices</guid>
+      <pubDate>Mon, 15 Jun 2026 04:44:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
