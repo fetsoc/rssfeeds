@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 11:49:56 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/exo-retirement-of-legacy-tls-versions-for-pop-and…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/c201e620b5f717edb262288e332910dea833873f</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/exo-retirement-of-legacy-tls-versions-for-pop-and-imap-connections.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c201e620b5f717edb262288e332910dea833873f</guid>
-      <pubDate>Wed, 29 Apr 2026 15:19:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 17:11:18 +0000</lastBuildDate>
     <item>
       <title>Update exo-retirement-of-legacy-tls-versions-for-pop-and-imap-connect…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/528da2287d0e734f35ddc1dcc1e53f04087966a0</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve202641089-cvss-98-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f2fe759c90cb50852b22bf2dca40818140ca2c41</guid>
       <pubDate>Sat, 13 Jun 2026 17:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rename external-copilot-prompt-attack-detection-.kql to KQL/external-…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/39fbc6705ea7393013d184a69c619991b715f24c</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Rename external-copilot-prompt-attack-detection-.kql to KQL/external-copilot-prompt-attack-detection-.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/39fbc6705ea7393013d184a69c619991b715f24c</guid>
+      <pubDate>Mon, 15 Jun 2026 15:52:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

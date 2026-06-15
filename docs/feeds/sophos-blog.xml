@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 11:51:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:12:38 +0000</lastBuildDate>
     <item>
       <title>GitHub internal repositories breached.</title>
       <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
@@ -58,17 +58,17 @@
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bug bounties in the Mythos era</title>
-      <link>https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</link>
-      <description>&lt;p&gt;How AI is rewriting vulnerability research, and how our program has adapted&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
       <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
       <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug bounties in the Mythos era</title>
+      <link>https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</link>
+      <description>&lt;p&gt;How AI is rewriting vulnerability research, and how our program has adapted&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
