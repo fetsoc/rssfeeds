@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 10:58:57 +0000</lastBuildDate>
-    <item>
-      <title>Slamming the Door on Quick Assist Tech Support Scams and Abuse</title>
-      <link>https://trustedsec.com/blog/slamming-the-door-on-quick-assist-tech-support-scams-and-abuse</link>
-      <description>&amp;lt;p&amp;gt;Tech support scams are simple by design—just a trusted tool and a convincing story. We break down Microsoft Windows Quick Assist as an attack vector, detection strategies, and how to close the door for good.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/slamming-the-door-on-quick-assist-tech-support-scams-and-abuse</guid>
-      <pubDate>Tue, 12 May 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 16:29:59 +0000</lastBuildDate>
     <item>
       <title>Finding Your Way on the Passkey Path</title>
       <link>https://trustedsec.com/blog/finding-your-way-on-the-passkey-path</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;When I first wrote JS-Tap, the goal was to provide red teamers with a generic JavaScript payload that works without prior knowledge of a web application and without an authenticated user running it. Instrument the…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</guid>
       <pubDate>Fri, 12 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JQ for Hackers</title>
+      <link>https://trustedsec.com/blog/jq-for-hackers</link>
+      <description>&amp;lt;p&amp;gt;When I was first introduced to jq, it was overwhelming and confusing. I tried to just wing it, not realizing it was a very complex and powerful program. With more and more tools outputting JSON, I figured it was time to…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/jq-for-hackers</guid>
+      <pubDate>Tue, 16 Jun 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
