@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 20:54:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:57:42 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -195,6 +195,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</guid>
     </item>
     <item>
+      <title>Beyond the CVE: Why Secure by Design and Automated Patching Are Redefining Cybersecurity | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</link>
+      <description>Discover why CVE count is not the right measure of security. Learn how SonicWall's Secure by Design approach, automated patching, and 99.9% upgrade success rate protect customers and MSPs at scale.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -241,13 +247,6 @@
       <description>Weak passwords and outdated network access are still the most common entry points for attackers. Here is what good cyber hygiene actually looks like for small businesses in 2026.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/cyber-hygiene-101-the-big-fundamentals</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js WebSocket Upgrade Handler SSRF - CVE-2026-44578</title>
-      <link>https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</link>
-      <description>High-severity CVSS 8.6 SSRF in self-hosted Next.js servers via crafted WebSocket upgrade requests. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NGINX Rewrite Module Heap Overflow RCE - CVE-2026-42945</title>

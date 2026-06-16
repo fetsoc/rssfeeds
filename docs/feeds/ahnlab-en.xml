@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 20:55:40 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, April 2026</title>
-      <link>https://asec.ahnlab.com/en/93410/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, April 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Emergence of New Ransomware Groups: TiMC, BlackWater, and Lamashtu [1], [2], [3] NoName05716 Claims DDoS Attacks on South Korean Public &amp;#38; Private Sectors [1], [2], [3] VECT &amp;#38; TeamPCP Campaign: Supply Chain Attack Exploiting Global Travel Platform</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93410/</guid>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 02:58:49 +0000</lastBuildDate>
     <item>
       <title>March 2026 Security Issues in the Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/93421/</link>
@@ -135,17 +128,17 @@
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93803/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Crypto Guest at Dawn Endpoint (Midnight) ransomware analysis</title>
       <link>https://asec.ahnlab.com/en/93932/</link>
       <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93803/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, June 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Black X Ransomware Attacks on Korean and U.S. Organizations Data from South Korean Education Platform Leaked on BreachForums by Hasan Breach of French Secure Government Messaging Data Discovered on PwnForums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94088/</guid>
       <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Threat Trend Report on APT Groups</title>
+      <link>https://asec.ahnlab.com/en/94145/</link>
+      <description>Purpose and Scope The May 2026 APT Trends report identified supply chain attacks, developer environment attacks, automated Initial Breach, and exploitation of runtime environments as key developments. Lazarus, Famous Chollima, Gamaredon, MuddyWater, and Nimbus Manticore are of particular concern. Status of Major APT Groups by Region North Korea The Lazarus group exploited Git Hooks (Git [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94145/</guid>
+      <pubDate>Mon, 15 Jun 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
