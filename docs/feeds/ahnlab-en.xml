@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 02:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:58:58 +0000</lastBuildDate>
     <item>
       <title>March 2026 Security Issues in the Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/93421/</link>
@@ -128,7 +128,7 @@
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto Guest at Dawn Endpoint (Midnight) ransomware analysis</title>
+      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
       <link>https://asec.ahnlab.com/en/93932/</link>
       <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
@@ -184,6 +184,13 @@
       <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>May 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94028/</link>
+      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>May 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94034/</link>
       <description>Notes the May 2026 Dark Web Issue Trend Report summarizes the Major Issues that occurred on the deep web and dark web. it stated that due to the nature of the sources, some of the information cannot be fully verified for factual accuracy. Major Issues Hasan&amp;#8217;s BreachForums experienced a moderator split, with HasanBroker being ousted [&amp;#8230;]</description>
@@ -195,13 +202,6 @@
       <link>https://asec.ahnlab.com/en/94033/</link>
       <description>Notes the May 2026 Dark Web Threat Actor Trend Report summarizes the trends of threat actors and hacktivists operating on the deep web and dark web. some statements are not factually verifiable. Major Issues hacktivist activity targeting the South Korean Region was concentrated. some hacktivist groups claimed DDoS attacks against the website of the South [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94033/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94028/</link>
-      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

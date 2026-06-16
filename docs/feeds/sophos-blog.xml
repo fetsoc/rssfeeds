@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 02:58:49 +0000</lastBuildDate>
-    <item>
-      <title>GitHub internal repositories breached.</title>
-      <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
-      <description>&lt;p&gt;A malicious VS Code extension led to cloned private repositories, reportedly offered for sale on a criminal forum&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/github-internal-repositories-breached</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos named a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection for the 17th consecutive report</title>
-      <link>https://www.sophos.com/en-us/blog/gartner-epp-mq-17</link>
-      <description>&lt;p&gt;Strong endpoint protection remains critical. But in today’s AI-driven threat environment, it&amp;apos;s most powerful when it&amp;apos;s part of a broader, coordinated defense.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/gartner-epp-mq-17</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 10:59:01 +0000</lastBuildDate>
     <item>
       <title>Canvas attack aftermath: What risks come next?</title>
       <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
@@ -58,6 +44,13 @@
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Bug bounties in the Mythos era</title>
+      <link>https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</link>
+      <description>&lt;p&gt;How AI is rewriting vulnerability research, and how our program has adapted&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
       <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
       <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
@@ -65,11 +58,18 @@
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bug bounties in the Mythos era</title>
-      <link>https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</link>
-      <description>&lt;p&gt;How AI is rewriting vulnerability research, and how our program has adapted&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</guid>
+      <title>June Patch Tuesday smashes past 500-CVE mark</title>
+      <link>https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</link>
+      <description>&lt;p&gt;209 patches + 388 advisories = welcome to summer 2026&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A needle in a stack of needles: Hunting infostealers with AI</title>
+      <link>https://www.sophos.com/en-us/blog/a-needle-in-a-stack-of-needles-hunting-infostealers-with-ai</link>
+      <description>&lt;p&gt;The sheer number of events and alerts can be overwhelming, but multi-layered pipelines can filter out the noise&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/a-needle-in-a-stack-of-needles-hunting-infostealers-with-ai</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 02:58:48 +0000</lastBuildDate>
-    <item>
-      <title>How Can MSSPs Scale Threat Detection Without Burning Out Their Analysts?</title>
-      <link>https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/</link>
-      <description>&lt;p&gt;Scaling threat detection as an MSSP doesn&amp;#8217;t mean hiring more analysts — it means enabling the analysts you already have to handle more clients, more alerts, and more complex threats without burning out. The practical path forward combines three capabilities: continuous real-time intelligence that keeps detection systems current automatically, instant IOC investigation that cuts triage [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/"&gt;How Can MSSPs Scale Threat Detection Without Burning Out Their Analysts?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-growth-guide-ti-feeds/</guid>
-      <pubDate>Wed, 20 May 2026 12:49:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 10:58:56 +0000</lastBuildDate>
     <item>
       <title>Major Cyber Attacks in May 2026: Fake Invitations, Agent Tesla, BlobPhish, and More</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/"&gt;From Infosecurity Europe to CONFidence and C1b3rWall: What Security Teams Are Prioritizing in 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/</guid>
       <pubDate>Thu, 11 Jun 2026 08:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Standard for URL Analysis: Closing Phishing Blind Spots with In-Browser Data Inspection</title>
+      <link>https://any.run/cybersecurity-blog/in-browser-data-inspection/</link>
+      <description>&lt;p&gt;Modern URL phishing relies on dynamic pages, credential harvesting flows, client-side scripts, and layered redirect chains. But most SOC workflows are still built around static analysis, making them blind to most of these tactics.  ANY.RUN changes this forever with in-browser data inspection.  The&amp;#160;new technology&amp;#160;takes URL analysis to the next level by bringing static and dynamic analysis into one single workflow.&amp;#160;Now, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/in-browser-data-inspection/"&gt;The New Standard for URL Analysis: Closing Phishing Blind Spots with In-Browser Data Inspection &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/in-browser-data-inspection/</guid>
+      <pubDate>Tue, 16 Jun 2026 10:11:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
