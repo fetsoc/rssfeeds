@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 14:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:08:28 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/miniplasma-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/74b81bb876466cc165f46abfae2008793084aff0</link>

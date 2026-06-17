@@ -7,16 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 14:57:26 +0000</lastBuildDate>
-    <item>
-      <title>Assessment eb9d84e4</title>
-      <link>https://attackerkb.com/assessments/eb9d84e4-ac80-431b-8b5b-08b4975744b3</link>
-      <description>Attacker Value: 5/5 | Exploitability: 3/5
-
-Kaspersky Labs discovered this 0-day in Chrome Browser and reported it to Google. The 0-day was abused as part of a targeted campaign, as described in their blog: https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/eb9d84e4-ac80-431b-8b5b-08b4975744b3</guid>
-      <pubDate>Wed, 29 Oct 2025 12:50:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 20:09:34 +0000</lastBuildDate>
     <item>
       <title>Assessment a51ed820</title>
       <link>https://attackerkb.com/assessments/a51ed820-f8e9-48cc-9d26-a77f78eacbdb</link>
@@ -673,6 +664,20 @@ LAB8:&#13;
             (short )((longlong)piVar16 + 0x642) = (short …</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/b0417cef-dad8-4373-9328-025324ecb785</guid>
       <pubDate>Wed, 17 Jun 2026 11:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 8a1c104a</title>
+      <link>https://attackerkb.com/assessments/8a1c104a-8938-471c-815c-3d239334b434</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Execution
+
+Well, it took a while for the vendor to fix this one. But today, I received the notification that the vulnerability report on their side was finally closed.&#13;
+So here are the details for this CVE which boils down to a traditional RCE ;-)&#13;
+&#13;
+Centreon is a platform designed to monitor your cloud and on-premises infrastructure.&#13;
+The platform has multiple command injection vulnerability using the temporary directory and scp settings on the backup configuration page of the Centreon web application.&#13;
+Injecting a malicious payload at the backup temp directory or scp parameters will trigger this vulner…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/8a1c104a-8938-471c-815c-3d239334b434</guid>
+      <pubDate>Wed, 17 Jun 2026 16:56:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
