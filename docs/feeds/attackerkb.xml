@@ -7,16 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 10:30:39 +0000</lastBuildDate>
-    <item>
-      <title>Assessment 85091c37</title>
-      <link>https://attackerkb.com/assessments/85091c37-0bbd-4d19-980b-5acc68a9fc7a</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
-
-</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/85091c37-0bbd-4d19-980b-5acc68a9fc7a</guid>
-      <pubDate>Sun, 26 Oct 2025 23:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 14:57:26 +0000</lastBuildDate>
     <item>
       <title>Assessment eb9d84e4</title>
       <link>https://attackerkb.com/assessments/eb9d84e4-ac80-431b-8b5b-08b4975744b3</link>
@@ -658,6 +649,30 @@ SHA-384…</description>
 </description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/2c7e26e8-d603-448d-ad8c-bcd1526a5e78</guid>
       <pubDate>Fri, 12 Jun 2026 13:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-47291</title>
+      <link>https://attackerkb.com/assessments/b0417cef-dad8-4373-9328-025324ecb785</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Execution
+
+CVE-2026-47291 HTTP.sys PoC&#13;
+&#13;
+ Vulnerable code:&#13;
+c&#13;
+ if ((DAT0 &amp; 1) != 0) {&#13;
+            locale8 = (int )(piVar16 + 0x10);&#13;
+            locale0 = (char )ppuVar3;&#13;
+            WPPSFqII(0x408,0x10b,&amp;WPP35392aa6288d35088b5e7b5e64cc7a3bTraceguids,piVar16);&#13;
+          }&#13;
+          if ((ushort )((longlong)piVar16 + 0x642) &lt; (ushort )(piVar16 + 400)) {&#13;
+LAB8:&#13;
+            ppuVar1 = ppuVar3 + 4;&#13;
+            (undefined )&#13;
+             ((longlong )(piVar16 + 0x192) + (ulonglong)(ushort )((longlong)piVar16 + 0x642)  8&#13;
+             ) = ppuVar3;&#13;
+            (short )((longlong)piVar16 + 0x642) = (short …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b0417cef-dad8-4373-9328-025324ecb785</guid>
+      <pubDate>Wed, 17 Jun 2026 11:48:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

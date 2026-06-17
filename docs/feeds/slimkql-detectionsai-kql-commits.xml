@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 10:28:58 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/detecting-lpe-associated-with-either-dirtyfrag-or…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/5200e88ecc0a56ab7e79ee9d7f3c0d13fa796fbc</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detecting-lpe-associated-with-either-dirtyfrag-or-copyfail.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/5200e88ecc0a56ab7e79ee9d7f3c0d13fa796fbc</guid>
-      <pubDate>Sat, 09 May 2026 14:58:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/catch-them-if-you-can.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/3c6cc466b43e1896e3f5f69988a615b6b181dd64</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/catch-them-if-you-can.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3c6cc466b43e1896e3f5f69988a615b6b181dd64</guid>
-      <pubDate>Sun, 10 May 2026 15:33:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 14:56:17 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/miniplasma-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/74b81bb876466cc165f46abfae2008793084aff0</link>
@@ -147,6 +133,20 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/teams--zoom-turn-relay-abuse-monitoring.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8c63633a4cc7eac0e53dc7cf68eb7802a748e143</guid>
       <pubDate>Tue, 16 Jun 2026 16:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update teams--zoom-turn-relay-abuse-monitoring.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/21f6c910a8cbb01cc5aecc407488c0a4a3fcfedf</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update teams--zoom-turn-relay-abuse-monitoring.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/21f6c910a8cbb01cc5aecc407488c0a4a3fcfedf</guid>
+      <pubDate>Wed, 17 Jun 2026 12:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/edrchoker-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/d4c2ee0a875539093d0c406edff6c4999e642da4</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/edrchoker-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/d4c2ee0a875539093d0c406edff6c4999e642da4</guid>
+      <pubDate>Wed, 17 Jun 2026 13:29:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
