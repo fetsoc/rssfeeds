@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 20:42:05 +0000</lastBuildDate>
-    <item>
-      <title>November 2025 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/november-2025-web-server-survey</link>
-      <description>In the November 2025 survey we received responses from 1,366,582,597 sites across 288,926,456 domains and 14,008,584 web-facing computers. This ref...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/november-2025-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 02:54:31 +0000</lastBuildDate>
     <item>
       <title>Fake Investment Platform Reputation Laundering: Felix Markets</title>
       <link>https://www.netcraft.com/blog/fake-investment-platform-reputation-laundering-felix-markets</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</link>
       <description>Scam loss reports from Singapore, Australia, and the U.S. reveal a clear divide: countries pairing fraud statistics with active controls are better equipped to disrupt scams.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</guid>
+    </item>
+    <item>
+      <title>Why Detection Alone Isn’t Enough in Brand Protection</title>
+      <link>https://www.netcraft.com/blog/brand-protection-detection</link>
+      <description>Why brand protection fails after detection. Learn why alerts don’t reduce harm and how validation and takedowns limit brand risk.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/brand-protection-detection</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
