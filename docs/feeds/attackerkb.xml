@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 20:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:51:33 +0000</lastBuildDate>
     <item>
       <title>Assessment a51ed820</title>
       <link>https://attackerkb.com/assessments/a51ed820-f8e9-48cc-9d26-a77f78eacbdb</link>
@@ -666,9 +666,9 @@ LAB8:&#13;
       <pubDate>Wed, 17 Jun 2026 11:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>Assessment 8a1c104a</title>
+      <title>CVE-2025-5965</title>
       <link>https://attackerkb.com/assessments/8a1c104a-8938-471c-815c-3d239334b434</link>
-      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Execution
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Discovery
 
 Well, it took a while for the vendor to fix this one. But today, I received the notification that the vulnerability report on their side was finally closed.&#13;
 So here are the details for this CVE which boils down to a traditional RCE ;-)&#13;
