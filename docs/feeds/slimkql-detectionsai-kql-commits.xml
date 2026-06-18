@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 14:58:54 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/miniplasma-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/74b81bb876466cc165f46abfae2008793084aff0</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/miniplasma-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/74b81bb876466cc165f46abfae2008793084aff0</guid>
-      <pubDate>Sun, 17 May 2026 14:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/detecting-teams-impersonation-via-rmm-exfiltratio…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/ab4b72069cf13a8ad5594e9e910456d467f19eee</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detecting-teams-impersonation-via-rmm-exfiltration.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/ab4b72069cf13a8ad5594e9e910456d467f19eee</guid>
-      <pubDate>Mon, 18 May 2026 14:26:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 20:17:37 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/email-bombing-and-teams-impersonation-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/1268f6e51d9f7bf7ae40122c13fcb3473a3f015e</link>
@@ -147,6 +133,20 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/edrchoker-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/d4c2ee0a875539093d0c406edff6c4999e642da4</guid>
       <pubDate>Wed, 17 Jun 2026 13:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/reduce-unnecessary-inbound-internet-exposure-on-i…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/c78e992febb24e172f0c57bd64faea51e0c27870</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/reduce-unnecessary-inbound-internet-exposure-on-internet-facing-devices.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c78e992febb24e172f0c57bd64faea51e0c27870</guid>
+      <pubDate>Thu, 18 Jun 2026 15:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update reduce-unnecessary-inbound-internet-exposure-on-internet-facin…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/661ce07b6492d52d29ebcbe540434f215da3b30b</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update reduce-unnecessary-inbound-internet-exposure-on-internet-facing-devices.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/661ce07b6492d52d29ebcbe540434f215da3b30b</guid>
+      <pubDate>Thu, 18 Jun 2026 17:01:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 14:58:59 +0000</lastBuildDate>
-    <item>
-      <title>Fake Investment Platform Reputation Laundering: Felix Markets</title>
-      <link>https://www.netcraft.com/blog/fake-investment-platform-reputation-laundering-felix-markets</link>
-      <description>Learn how Felix Markets posed as a regulated forex broker, exploited fake authorities, copied legal documents, and used sports sponsorship to appear legitimate.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/fake-investment-platform-reputation-laundering-felix-markets</guid>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 20:17:43 +0000</lastBuildDate>
     <item>
       <title>Ultimate Fraud Prevention: How Banks Can Stop Scam Websites Fast</title>
       <link>https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/brand-protection-detection</link>
       <description>Why brand protection fails after detection. Learn why alerts don’t reduce harm and how validation and takedowns limit brand risk.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/brand-protection-detection</guid>
+    </item>
+    <item>
+      <title>10 Real Phishing Websites (Screenshots Included)</title>
+      <link>https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</link>
+      <description>Explore 10 real phishing website examples identified by Netcraft researchers. Learn how attackers impersonate trusted brands and the warning signs that may reveal a phishing site.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 14:58:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:17:37 +0000</lastBuildDate>
     <item>
       <title>What IT Needs to Know about OT/IoT Security Threats in 2020</title>
       <link>https://www.nozominetworks.com/blog/what-it-needs-to-know-about-ot-io-security-threats-in-2020</link>
@@ -175,6 +175,12 @@
       <link>https://www.nozominetworks.com/blog/hard-lessons-from-the-oldsmar-water-facility-cyberattack-hack</link>
       <description>The TeamViewer app was used to remotely access Oldsmar’s water treatment system. This is a wakeup call for water districts everywhere.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/hard-lessons-from-the-oldsmar-water-facility-cyberattack-hack</guid>
+    </item>
+    <item>
+      <title>Handala's Water Play: What the Breach Was, What It Wasn't, and What Utilities Should be Doing Anyway</title>
+      <link>https://www.nozominetworks.com/blog/handalas-water-play-what-the-breach-was-what-it-wasnt-and-what-utilities-should-be-doing-anyway</link>
+      <description>Iran targeted Handala's water system for a cyber attack. What happened, what was learned, and what utilities should be doing to protect system from attacks.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/handalas-water-play-what-the-breach-was-what-it-wasnt-and-what-utilities-should-be-doing-anyway</guid>
     </item>
     <item>
       <title>A Comprehensive Guide to IoT Security</title>
