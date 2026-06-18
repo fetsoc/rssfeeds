@@ -7,31 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 10:10:37 +0000</lastBuildDate>
-    <item>
-      <title>Sygnia Recognized in 2026 Gartner® Market Guide for Cybersecurity Incident Response Retainer Services</title>
-      <link>https://www.sygnia.co/press-release/sygnia-recognized-in-2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/</link>
-      <description>&lt;p&gt;As incident response shifts from reactive DFIR to full lifecycle resilience, organizations turn to Sygnia to prepare, respond, and recover with speed and precision.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-recognized-in-2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/"&gt;Sygnia Recognized in 2026 Gartner® Market Guide for Cybersecurity Incident Response Retainer Services&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-recognized-in-2026-gartner-market-guide-for-cybersecurity-incident-response-retainer-services/</guid>
-      <pubDate>Thu, 23 Apr 2026 07:28:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breach Ready: Close Your Incident Response Gaps</title>
-      <link>https://www.sygnia.co/webinars/ciso-survey-webinar-2026/</link>
-      <description>&lt;p&gt;Join Sygnia IR experts as they discuss how exposed many organizations remain and what survey findings mean for modern incident response readiness.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/ciso-survey-webinar-2026/"&gt;Breach Ready: Close Your Incident Response Gaps&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/webinars/ciso-survey-webinar-2026/</guid>
-      <pubDate>Thu, 30 Apr 2026 10:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Risk and Private Equity: How Threat Intelligence Protects Large Investment Portfolios</title>
-      <link>https://www.sygnia.co/blog/cyber-risk-private-equity-threat-intelligence/</link>
-      <description>&lt;p&gt;Explore how leading PE firms are shifting from reactive cyber incident response to continuous portfolio-wide risk visibility, using threat intelligence to protect enterprise value, reduce deal friction, and prevent a single breach from cascading across the entire portfolio.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/cyber-risk-private-equity-threat-intelligence/"&gt;Cyber Risk and Private Equity: How Threat Intelligence Protects Large Investment Portfolios&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/cyber-risk-private-equity-threat-intelligence/</guid>
-      <pubDate>Tue, 12 May 2026 11:10:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 15:00:33 +0000</lastBuildDate>
     <item>
       <title>8 Incident Response Plan Mistakes That Lead to Failures</title>
       <link>https://www.sygnia.co/blog/incident-response-plan-mistakes/</link>
@@ -79,6 +55,30 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/2026-gartner-hype-cycle-for-cps-security/"&gt;2026 Gartner® Hype Cycle™ for CPS Security&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/2026-gartner-hype-cycle-for-cps-security/</guid>
       <pubDate>Tue, 09 Jun 2026 11:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control</title>
+      <link>https://www.sygnia.co/blog/crypto-security-in-2026/</link>
+      <description>&lt;p&gt;Most crypto breaches occur when attackers reach transaction authority. Learn how to secure identities, infrastructure, and authorization systems.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/crypto-security-in-2026/"&gt;Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/crypto-security-in-2026/</guid>
+      <pubDate>Thu, 18 Jun 2026 11:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Crypto Threat Environment 2026</title>
+      <link>https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/</link>
+      <description>&lt;p&gt;Understanding how crypto breaches occur and what separates organizations that contain them from those that suffer catastrophic losses&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/"&gt;The Crypto Threat Environment 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/</guid>
+      <pubDate>Thu, 18 Jun 2026 11:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto most vulnerable sector with 83% of security leaders indicating exposure to at least one cybersecurity attack in the last 12 months</title>
+      <link>https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/</link>
+      <description>&lt;p&gt;Sygnia's investigation into the $1.5 billion Bybit hack reveals how North Korea's Lazarus Group exploited human risk, social engineering, and crypto infrastructure weaknesses to execute the largest crypto theft in history.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/"&gt;Crypto most vulnerable sector with 83% of security leaders indicating exposure to at least one cybersecurity attack in the last 12 months&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/</guid>
+      <pubDate>Thu, 18 Jun 2026 11:53:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
