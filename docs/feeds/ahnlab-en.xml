@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 02:51:37 +0000</lastBuildDate>
-    <item>
-      <title>March 2026 APT Attack Trends Report (Domestic)</title>
-      <link>https://asec.ahnlab.com/en/93467/</link>
-      <description>Overview ahnLab monitored APT attacks against domestic targets during the month of March 2026. most of the attacks were launched through Spear Phishing emails sent after reconnaissance of specific targets. APT Attack Trends in Korea the majority of distribution vectors were shortcut (.lnk) files, with LNK-based attacks dominating. Type A is to run PowerShell with [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93467/</guid>
-      <pubDate>Sun, 19 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>March 2026 Phishing Email Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93465/</link>
-      <description>Statistics on Attachment Threats Types. trojans accounted for the largest share of attachment-based threats in March 2026 at 21%. phishing (FakePage) came in at 15%, with a significant month-over-month decrease in share from 42% to 15%, but a slight decrease in volume. downloaders were identified at 9% and droppers at 7%. trojans continue to circulate [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93465/</guid>
-      <pubDate>Tue, 21 Apr 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 10:10:35 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 4, April 2026</title>
       <link>https://asec.ahnlab.com/en/93472/</link>
@@ -170,6 +156,13 @@
       <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>May 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94028/</link>
+      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>May 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94034/</link>
       <description>Notes the May 2026 Dark Web Issue Trend Report summarizes the Major Issues that occurred on the deep web and dark web. it stated that due to the nature of the sources, some of the information cannot be fully verified for factual accuracy. Major Issues Hasan&amp;#8217;s BreachForums experienced a moderator split, with HasanBroker being ousted [&amp;#8230;]</description>
@@ -181,13 +174,6 @@
       <link>https://asec.ahnlab.com/en/94033/</link>
       <description>Notes the May 2026 Dark Web Threat Actor Trend Report summarizes the trends of threat actors and hacktivists operating on the deep web and dark web. some statements are not factually verifiable. Major Issues hacktivist activity targeting the South Korean Region was concentrated. some hacktivist groups claimed DDoS attacks against the website of the South [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94033/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94028/</link>
-      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -205,6 +191,13 @@
       <pubDate>Mon, 15 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>May 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94172/</link>
+      <description>Content This report summarizes the distribution channels, number of infostealers, number of detections, target companies, and execution types of new infostealers collected during the month of May 2026. The collected samples were analyzed based on data from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, Email Honeypot system, automated malware C2 analysis system, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94172/</guid>
+      <pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>It looks like a normal resume, but the infection begins the moment it is opened.</title>
       <link>https://asec.ahnlab.com/en/94165/</link>
       <description>Malicious shortcut files disguised as resume files have recently been circulating, requiring corporate users to exercise caution. Threat actors name the files to resemble resume documents containing company names and job titles, and when executed, they display a legitimate decoy file alongside the malicious file to lower the user’s suspicion. The file then downloads additional [&amp;#8230;]</description>
@@ -217,6 +210,13 @@
       <description>Evidence has recently emerged that Malicious Files posing as “Consent Forms for the Collection and Use of Personal Information” have been circulating. Threat actors use file names that are easily mistaken for work documents to trick users into running them. These files are not actual documents but shortcut files; when executed, they collect PC information [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94164/</guid>
       <pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, June 2026</title>
+      <link>https://asec.ahnlab.com/en/94175/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, June 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Sale of Confidencial Defense Industry Documents in South Korea on Spear Forums Ransomware Attack by Qilin Targeting a South Korean Big Data Solution Company Ransomware Attack by Anubis Targeting a South Korean Semiconductor Equipment Parts Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94175/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
