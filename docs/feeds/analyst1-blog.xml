@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 20:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:16:11 +0000</lastBuildDate>
+    <item>
+      <title>Resources | Analyst1</title>
+      <link>https://analyst1.com/resources/</link>
+      <description>Analyst1 offers insights and the latest trends in cybersecurity. Access Analyst1 Case Studies, Datasheets, Digital Reports, White Papers, and other resources today!</description>
+      <guid isPermaLink="false">https://analyst1.com/resources/</guid>
+    </item>
     <item>
       <title>Analyst1 Wages War on Cybercrime with Next Generation Threat Intelligence Platform | Analyst1</title>
       <link>https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</link>
@@ -65,25 +71,11 @@
       <pubDate>Wed, 30 Sep 2020 09:09:59 +0000</pubDate>
     </item>
     <item>
-      <title>Industry Luminary joins Analyst1 as Chief Security Strategist | Analyst1</title>
-      <link>https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</link>
-      <description>Jon DiMaggio takes on the role of Chief Security Strategist at Analyst1, spearheading research and strategy for the leading threat intelligence firm.</description>
-      <guid isPermaLink="false">https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</guid>
-      <pubDate>Wed, 11 Nov 2020 01:01:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom Mafia - Analysis of the World's First Ransomware Cartel | Analyst1</title>
       <link>https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</link>
       <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
       <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
       <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
-      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
-      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
-      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
       <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
@@ -105,6 +97,13 @@
       <description>Discover the rewards and challenges of working at a small, agile company. Experience the excitement of taking initiative and swarming problems.</description>
       <guid isPermaLink="false">https://analyst1.com/be-the-1-to-put-skin-in-the-game/</guid>
       <pubDate>Fri, 18 Jun 2021 01:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Be the 1 to Put Skin in the Game - 2 | Analyst1</title>
+      <link>https://analyst1.com/be-the-1-to-put-skin-in-the-game-2/</link>
+      <description>Discover the power of sharing knowledge with Analyst1 - a balanced approach using Slack and Confluence. Put skin in the game and own the results.</description>
+      <guid isPermaLink="false">https://analyst1.com/be-the-1-to-put-skin-in-the-game-2/</guid>
+      <pubDate>Mon, 21 Jun 2021 01:01:28 +0000</pubDate>
     </item>
     <item>
       <title>Absolute Ransom: Nation-State Ransomware | Analyst1</title>
@@ -191,18 +190,18 @@
       <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
+      <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
+      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
+      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>What Is Lateral Movement in Cybersecurity?</title>
       <link>https://analyst1.com/what-is-lateral-movement/</link>
       <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
       <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
       <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
-      <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
-      <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
-      <guid isPermaLink="false">https://analyst1.com/global-cyberattack-on-the-us-government/</guid>
-      <pubDate>Wed, 13 Sep 2023 20:32:03 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
@@ -261,6 +260,13 @@
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
+      <title>Is it time to replace your legacy TIP? | Analyst1</title>
+      <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
+      <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
+      <guid isPermaLink="false">https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</guid>
+      <pubDate>Thu, 23 May 2024 17:59:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Threat Actors Matter | Analyst1</title>
       <link>https://analyst1.com/why-threat-actors-matter/</link>
       <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
@@ -273,13 +279,6 @@
       <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
       <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
       <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
-      <link>https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</link>
-      <description>Understanding why threat intelligence should play into corporate risk management is a key that every organization needs to have.</description>
-      <guid isPermaLink="false">https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</guid>
-      <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>

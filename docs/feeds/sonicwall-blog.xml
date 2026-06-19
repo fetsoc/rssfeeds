@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 03:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:15:30 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -249,18 +249,18 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Layer 3 vs. Layer 4 vs. Layer 7 Firewalls: Where Do Virtual Firewalls Fit In?</title>
+      <link>https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</link>
+      <description>Understand the differences between Layer 3, Layer 4, and Layer 7 firewalls, and learn where virtual firewalls fit in cloud and hybrid network security architectures.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NGINX Rewrite Module Heap Overflow RCE - CVE-2026-42945</title>
       <link>https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</link>
       <description>Critical CVSS 9.2 heap buffer overflow in the NGINX rewrite module enables unauthenticated remote code execution. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extend Firewall Security to Remote Workers with SonicWall CSE</title>
-      <link>https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</link>
-      <description>Discover how SonicWall CSE delivers enterprise-grade network protection to remote and hybrid workers, including content filtering, malicious domain blocking, and sandbox analysis.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SonicWall Cloud Secure Edge Expands PoP Network</title>
