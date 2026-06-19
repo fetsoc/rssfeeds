@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 14:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:29:29 +0000</lastBuildDate>
     <item>
       <title>What IT Needs to Know about OT/IoT Security Threats in 2020</title>
       <link>https://www.nozominetworks.com/blog/what-it-needs-to-know-about-ot-io-security-threats-in-2020</link>
@@ -179,7 +179,7 @@
     <item>
       <title>Handala's Water Play: What the Breach Was, What It Wasn't, and What Utilities Should be Doing Anyway</title>
       <link>https://www.nozominetworks.com/blog/handalas-water-play-what-the-breach-was-what-it-wasnt-and-what-utilities-should-be-doing-anyway</link>
-      <description>Iran targeted Handala's water system for a cyber attack. What happened, what was learned, and what utilities should be doing to protect system from attacks.</description>
+      <description>Iran targeted Handala's water system for a cyber attack. What happened, what we learned, and what utilities should be doing to protect themselves from attacks.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/handalas-water-play-what-the-breach-was-what-it-wasnt-and-what-utilities-should-be-doing-anyway</guid>
     </item>
     <item>
