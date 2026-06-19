@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 20:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:35:03 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -270,13 +270,6 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Indicator of Compromise IP Protection in SonicOS 8: How It Works and Why It Matters</title>
-      <link>https://www.sonicwall.com/blog/stop-breaches-before-they-escalate-indicator-of-compromise-ip-protection-in-sonicos-8</link>
-      <description>Learn how Indicator of Compromise (IoC) IP Protection in SonicOS 8 automatically blocks malicious IP connections in real time, stopping malware command-and-control before attackers can act. No manual rules. Hourly updates.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-breaches-before-they-escalate-indicator-of-compromise-ip-protection-in-sonicos-8</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>H2O-3 PostgreSQL JDBC socketFactory RCE - CVE-2026-3960</title>
       <link>https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</link>
       <description>Critical CVSS 9.8 unauthenticated RCE in H2O-3 ImportSQLTable abuses PostgreSQL JDBC socketFactory and Spring gadget. SonicWall IPS signature available.</description>
@@ -295,6 +288,13 @@
       <link>https://www.sonicwall.com/blog/stateful-vs-stateless-firewall-what-is-the-difference-in-virtual-environments-</link>
       <description>Discover how stateful and stateless firewalls differ in virtual environments. Learn which inspection method best fits your cloud security architecture with SonicWall.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/stateful-vs-stateless-firewall-what-is-the-difference-in-virtual-environments-</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>File Browser Hook OS Command Injection - CVE-2026-35585</title>
+      <link>https://www.sonicwall.com/blog/file-browser-hook-command-runner-os-command-injection</link>
+      <description>High-severity CVSS 7.2 command injection in File Browser's Command Runner enables authenticated RCE via a crafted filename. SonicWall IPS signature available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/file-browser-hook-command-runner-os-command-injection</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

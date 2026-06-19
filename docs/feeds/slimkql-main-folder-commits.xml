@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 20:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:35:01 +0000</lastBuildDate>
     <item>
       <title>Update README.md</title>
       <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/74371a97c303d442a4a9099fb7579e3f7ceb7a1f</link>
