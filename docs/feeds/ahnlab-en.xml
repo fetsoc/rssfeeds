@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 19:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:41:09 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 1, May 2026</title>
       <link>https://asec.ahnlab.com/en/93616/</link>
@@ -86,17 +86,17 @@
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
-      <link>https://asec.ahnlab.com/en/93932/</link>
-      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
       <link>https://asec.ahnlab.com/en/93803/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
+      <link>https://asec.ahnlab.com/en/93932/</link>
+      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
