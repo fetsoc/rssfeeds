@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 02:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:38:20 +0000</lastBuildDate>
     <item>
       <title>APT Sidewinder Abuses Netlify to Mimic Government and Military Portals in South Asia</title>
       <link>https://hunt.io/blog/apt-sidewinder-netlify-government-phishing</link>
