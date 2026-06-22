@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 16:43:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:37:58 +0000</lastBuildDate>
     <item>
       <title>Coverage-Driven Sustained Testing (CDST): A Graph-Oriented Model for Open-Ended Agentic Workflows</title>
       <link>https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</link>
@@ -74,7 +74,7 @@
     <item>
       <title>Modern Web Application Content Discovery</title>
       <link>https://trustedsec.com/blog/modern-web-application-content-discovery</link>
-      <description>&amp;lt;p&amp;gt;When testing web applications, discovering what functionality is available is key to finding vulnerabilities. Ideally you want to find as many application pages as possible. You can do this by using web‑crawling or…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Staring at a web app with no links and no navigation? In this blog, we break down modern content discovery, from forced browsing and web crawling to Google dorking and GitHub recon.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/modern-web-application-content-discovery</guid>
       <pubDate>Thu, 18 Jun 2026 04:00:00 +0000</pubDate>
     </item>

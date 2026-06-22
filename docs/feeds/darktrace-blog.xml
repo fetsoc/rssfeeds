@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 16:41:50 +0000</lastBuildDate>
-    <item>
-      <title>Detecting Adversary-in-the-Middle Attacks and Phishing with Darktrace</title>
-      <link>https://www.darktrace.com/blog/beyond-mfa-detecting-adversary-in-the-middle-attacks-and-phishing-with-darktrace</link>
-      <description>Learn how Darktrace / EMAIL and Darktrace / IDENTITY detected an adversary-in-the-middle (AiTM) attack that compromised a user’s Office 365 account via a business email compromise (BEC) phishing email</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-mfa-detecting-adversary-in-the-middle-attacks-and-phishing-with-darktrace</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 20:36:25 +0000</lastBuildDate>
     <item>
       <title>Navigating Email Security Gaps Beyond DMARC</title>
       <link>https://www.darktrace.com/blog/beyond-dmarc-navigating-the-gaps-in-email-security</link>
@@ -355,6 +348,12 @@
       <link>https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</link>
       <description>Hear from a guest author how Darktrace identified an insider breach from a contractor's laptop, scanned the device, and removed the malware quickly.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing the Use of Frontier AI in Cybersecurity: Darktrace Joins the OpenAI Daybreak Cyber Partner Program to Explore Defensive AI Integrations</title>
+      <link>https://www.darktrace.com/blog/advancing-the-use-of-frontier-ai-in-cybersecurity-darktrace-joins-the-openai-daybreak-cyber-partner-program-to-explore-defensive-ai-integrations</link>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/advancing-the-use-of-frontier-ai-in-cybersecurity-darktrace-joins-the-openai-daybreak-cyber-partner-program-to-explore-defensive-ai-integrations</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
