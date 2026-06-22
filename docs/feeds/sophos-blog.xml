@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 02:59:03 +0000</lastBuildDate>
-    <item>
-      <title>Canvas attack aftermath: What risks come next?</title>
-      <link>https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</link>
-      <description>&lt;p&gt;The compromise of student data turned a cyber mom into a cyber mama bear&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/canvas-attack-aftermath-what-risks-come-next</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 11:39:36 +0000</lastBuildDate>
     <item>
       <title>Pointing a Cursor at evading detection</title>
       <link>https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Amid discussions about how artificial intelligence can facilitate cybercrime, some threat actors remain skeptical&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Sophos Firewall Config Studio 2.6</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-config-studio-2-6</link>
+      <description>&lt;p&gt;View, edit, compare, analyze, and migrate firewall configurations.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-config-studio-2-6</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
