@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 20:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:34:51 +0000</lastBuildDate>
     <item>
       <title>Coverage-Driven Sustained Testing (CDST): A Graph-Oriented Model for Open-Ended Agentic Workflows</title>
       <link>https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</link>
@@ -67,7 +67,7 @@
     <item>
       <title>JQ for Hackers</title>
       <link>https://trustedsec.com/blog/jq-for-hackers</link>
-      <description>&amp;lt;p&amp;gt;When I was first introduced to jq, it was overwhelming and confusing. I tried to just wing it, not realizing it was a very complex and powerful program. With more and more tools outputting JSON, I figured it was time to…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Grey-bearded hackers and sysadmins still reaching for cut and CSV files, this one&amp;#039;s for you. In this blog, we break down jq and why it&amp;#039;s time to embrace JSON.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/jq-for-hackers</guid>
       <pubDate>Tue, 16 Jun 2026 04:00:00 +0000</pubDate>
     </item>

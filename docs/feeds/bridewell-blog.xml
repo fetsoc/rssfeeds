@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 20:38:03 +0000</lastBuildDate>
-    <item>
-      <title>The Booking.com Phishing Campaign Targeting Hotels and Customers | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers</link>
-      <description>Since the start of January, we have observed a resurgence in malicious activity targeting the hotel and retail sector. Discover more as we uncover the phishing campaign.</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers</guid>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 02:34:58 +0000</lastBuildDate>
     <item>
       <title>100 Security Experts You Could Follow on Twitter | Bridewell</title>
       <link>https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</link>
@@ -240,6 +234,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/who-are-dragonforce-ransomware-group</link>
       <description>DragonForce is a relatively new threat actor first identified in 2023. Read our latest insights to discover the latest on the DragonForce Ransomware.</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/who-are-dragonforce-ransomware-group</guid>
+    </item>
+    <item>
+      <title>CAF Assessment Preparation: Practical Tips from an Assessor | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/how-to-prepare-for-a-caf-assessment--practical-tips-from-an-experienced-assessor</link>
+      <description>Preparing for a CAF assessment? Learn how to manage contributing outcomes, evidence, IGP scoring logic and QA with practical tips from an experienced CAF assessor.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/how-to-prepare-for-a-caf-assessment--practical-tips-from-an-experienced-assessor</guid>
     </item>
     <item>
       <title>Securing Your Digital Space With a Zero-Trust Security Strategy | Bridewell</title>
