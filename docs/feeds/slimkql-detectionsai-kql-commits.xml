@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 09:25:21 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/kongtukes-unmasked--defenderxdr-detection-of-evol…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/920f948393e39fb6ac1f2f6857c1fb59fb163332</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/kongtukes-unmasked--defenderxdr-detection-of-evolved-modelorat.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/920f948393e39fb6ac1f2f6857c1fb59fb163332</guid>
-      <pubDate>Thu, 21 May 2026 15:44:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 14:32:02 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/cloudflare-eviltokens-gotta-catchem-all.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/24371716375a83f4fb44016e05f9c4e68ac8a8fd</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Delete KQL/osint-profile-weekly-osint-highlights-22-june-2026.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/2f667629dcf15cae27cb82e9c65013e32902dd52</guid>
       <pubDate>Tue, 23 Jun 2026 06:18:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/detect-whatsapp-vbscript-campaign.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/722596dee464ed8622d7e28648a6a7ead2b23180</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detect-whatsapp-vbscript-campaign.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/722596dee464ed8622d7e28648a6a7ead2b23180</guid>
+      <pubDate>Tue, 23 Jun 2026 13:28:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

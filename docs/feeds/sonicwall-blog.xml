@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 09:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:32:04 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -249,6 +249,13 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Healthcare Can't Catch a Break From Cyberattacks — And Attackers Know It</title>
+      <link>https://www.sonicwall.com/blog/code-red-healthcare-can-t-pull-the-plug-on-its-cybersecurity-problem</link>
+      <description>Attack volumes dropped across every major industry in 2026 — except healthcare. Here's why threat actors aren't leaving, and what the data says about how they're getting in.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/code-red-healthcare-can-t-pull-the-plug-on-its-cybersecurity-problem</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Layer 3 vs. Layer 4 vs. Layer 7 Firewalls: Where Do Virtual Firewalls Fit In?</title>
       <link>https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</link>
       <description>Understand the differences between Layer 3, Layer 4, and Layer 7 firewalls, and learn where virtual firewalls fit in cloud and hybrid network security architectures.</description>
@@ -268,13 +275,6 @@
       <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>H2O-3 PostgreSQL JDBC socketFactory RCE - CVE-2026-3960</title>
-      <link>https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in H2O-3 ImportSQLTable abuses PostgreSQL JDBC socketFactory and Spring gadget. SonicWall IPS signature available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>8 Key Benefits of Virtual Firewalls for Cloud and Hybrid Environments</title>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 09:25:26 +0000</lastBuildDate>
-    <item>
-      <title>How Do You Know? Answers to help the board understand the value of your security program</title>
-      <link>https://cymulate.com/blog/ctem-cisos-communicating-security/</link>
-      <description>Learn how Continuous Threat Exposure Management (CTEM) enables CISOs to communicate risk, visibility, and protection with clarity and confidence</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/ctem-cisos-communicating-security/</guid>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 14:32:11 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Breakdown September 2023</title>
       <link>https://cymulate.com/blog/cyber-threat-breakdown-september-2023/</link>
@@ -322,6 +316,13 @@
       <description>What were the notable cyber attacks last month? Here is a rundown of cybercriminal activity in September 2020.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/cyberattacks-september-2020/</guid>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes Security Best Practices: Insights from Real-World Attack Simulations</title>
+      <link>https://cymulate.com/blog/kubernetes-security-best-practices/</link>
+      <description>From RBAC exploits to container escapes, real-world attacks reveal cloud-native detection blind spots. Get best practices to reduce Kubernetes risk.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/kubernetes-security-best-practices/</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

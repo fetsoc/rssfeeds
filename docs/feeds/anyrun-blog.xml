@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 09:26:54 +0000</lastBuildDate>
-    <item>
-      <title>From Fake Purchase Orders to Remote Access: Analyzing the JS.MonoGlyphRAT Threat to US Enterprises</title>
-      <link>https://any.run/cybersecurity-blog/monoglyphrat-attacks-us-enterprise/</link>
-      <description>&lt;p&gt;A previously unidentified cyberattack is quietly spreading through US businesses — and most security tools are not catching it. Researchers at ANY.RUN have identified a new backdoor called JS.MonoGlyphRAT, an advanced piece of malware delivered as an ordinary-looking JavaScript file disguised as a purchase order, quote, or business proposal. Once an employee opens the file, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/monoglyphrat-attacks-us-enterprise/"&gt;From Fake Purchase Orders to Remote Access: Analyzing the JS.MonoGlyphRAT Threat to US Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/monoglyphrat-attacks-us-enterprise/</guid>
-      <pubDate>Tue, 02 Jun 2026 10:34:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 14:33:43 +0000</lastBuildDate>
     <item>
       <title>Release Notes: Decision-Ready SOC Reporting, Elastic Security Integration, and 1400+ Threat Coverage Updates</title>
       <link>https://any.run/cybersecurity-blog/release-notes-may-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/best-security-platform/"&gt;The Hacker News Recognizes ANY.RUN as the Best Security Investigation Platform 2026 &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/best-security-platform/</guid>
       <pubDate>Fri, 19 Jun 2026 09:28:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>EvilTokens: How “Ghost” Code Threatens US and European Businesses</title>
+      <link>https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/</link>
+      <description>&lt;p&gt;EvilTokens&amp;#160;can hide serious account takeover risk from your SOC&amp;#160;through “ghost” code that appears only after browser-side decryption.&amp;#160; As a result, static URL analysis may miss the most important part of the attack, leaving teams with incomplete evidence, slower triage, and longer exposure to a potential Microsoft 365 compromise.&amp;#160; Full browser-level inspection&amp;#160;closes this gap by revealing [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/"&gt;EvilTokens: How “Ghost” Code Threatens US and European Businesses&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/</guid>
+      <pubDate>Tue, 23 Jun 2026 11:46:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
