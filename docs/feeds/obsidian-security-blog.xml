@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 14:33:49 +0000</lastBuildDate>
-    <item>
-      <title>Behind The Breach: Self-Service Password Reset (SSPR) Abuse in Azure AD</title>
-      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-self-service-password-reset-azure-ad</link>
-      <description>Investigate Azure AD SSPR abuse in real breaches. Learn how attackers exploit self-service password reset and how to secure this critical feature.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-self-service-password-reset-azure-ad</guid>
-    </item>
-    <item>
-      <title>Behind the Breach: Phishing &amp; Token Compromise in SaaS Environments</title>
-      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-phishing-token-compromise-saas-environments</link>
-      <description>Analyze phishing campaigns targeting SaaS tokens. Understand credential theft techniques, token compromise patterns, and defense strategies.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-phishing-token-compromise-saas-environments</guid>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 19:53:49 +0000</lastBuildDate>
     <item>
       <title>Behind the Breach: Pass-The-Cookie Beyond IdPs</title>
       <link>https://www.obsidiansecurity.com/blog/behind-the-breach-pass-the-cookie-attack</link>
@@ -195,6 +183,12 @@
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-toxic-risk-combinations</guid>
     </item>
     <item>
+      <title>800+ risky agents per organization. Here are three steps to secure them</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-security-three-steps-defense</link>
+      <description>Most organizations have 800+ risky agents operating without security oversight. Here's how continuous discovery, governance, and runtime enforcement close the gap.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-security-three-steps-defense</guid>
+    </item>
+    <item>
       <title>Top AI Agent Security Risks and How to Mitigate Them</title>
       <link>https://www.obsidiansecurity.com/blog/ai-agent-security-risks</link>
       <description>Identify the leading AI agent security risks of 2025 and discover practical steps to mitigate threats to data, models, and infrastructure.</description>
@@ -310,6 +304,13 @@
       <description>Explore the security limits of Okta FastPass. Learn about phishing-resistant authentication, potential weaknesses, and additional protective controls.</description>
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-shield-cracking-the-limits-of-okta-fastpass</guid>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Obsidian Security Found What 700 Companies Couldn't: A SaaS Supply Chain Investigation</title>
+      <link>https://www.obsidiansecurity.com/blog/dais26-saas-supply-chain</link>
+      <description>When the Salesloft-Drift supply chain breach hit 700+ organizations, security teams searched their own logs and missed the full picture. Here's how cross-tenant intelligence changed the investigation.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/dais26-saas-supply-chain</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
