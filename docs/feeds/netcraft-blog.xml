@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 02:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:25:26 +0000</lastBuildDate>
     <item>
       <title>Automated Threat Response at Scale: Netcraft Integrations &amp; APIs</title>
       <link>https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</link>
