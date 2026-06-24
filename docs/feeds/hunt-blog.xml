@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 14:10:28 +0000</lastBuildDate>
-    <item>
-      <title>APT Sidewinder Abuses Netlify to Mimic Government and Military Portals in South Asia</title>
-      <link>https://hunt.io/blog/apt-sidewinder-netlify-government-phishing</link>
-      <description>APT Sidewinder targets South Asian government and military portals using Netlify-hosted phishing pages to harvest credentials. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/apt-sidewinder-netlify-government-phishing</guid>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 19:27:18 +0000</lastBuildDate>
     <item>
       <title>ERMAC V3.0 Banking Trojan: Full Source Code Leak and Infrastructure Analysis</title>
       <link>https://hunt.io/blog/ermac-v3-banking-trojan-source-code-leak</link>
@@ -357,6 +350,13 @@
       <description>Chinese-speaking operators cloned FIFA's World Cup 2026 ticketing site across hundreds of lookalike domains to steal fan logins and card data. Here's how we tracked the whole fleet.</description>
       <guid isPermaLink="false">https://hunt.io/blog/fifa-world-cup-2026-ticket-phishing-kit</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Eastern Europe's C2 Sprawl: 3,900+ Servers, 302 Providers, One Host Doing Half the Work</title>
+      <link>https://hunt.io/blog/eastern-europe-malicious-infrastructure-report</link>
+      <description>Host Radar tracked 3,900+ active C2 servers across 302 Eastern European hosting providers over three months. One Bulgarian host accounts for over half.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/eastern-europe-malicious-infrastructure-report</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
