@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 02:35:26 +0000</lastBuildDate>
-    <item>
-      <title>Military, Kinetic, and Maritime Security Developments in the Iran–Israel War</title>
-      <link>https://falconfeeds.io/blogs/iran-israel-war-military-escalation-maritime-security-strait-of-hormuz</link>
-      <description>An in-depth analysis of the Iran–Israel war, examining military strikes, missile retaliation, proxy activity, and the growing maritime security crisis in the Strait of Hormuz impacting global energy routes and regional stability.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-israel-war-military-escalation-maritime-security-strait-of-hormuz</guid>
-      <pubDate>Thu, 05 Mar 2026 09:01:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Digital Redoubt: Iran’s National Information Network and the Asymmetry of Modern Cyber Conflict</title>
-      <link>https://falconfeeds.io/blogs/the-digital-redoubt-irans-national-information-network-cyber-conflict</link>
-      <description>Iran’s National Information Network (NIN) and internet blackouts are reshaping modern cyber conflict—explore how digital sovereignty, DNS/BGP manipulation, and protocol suppression enable Iran to reduce attack surface, control information, and offset kinetic pressure.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-digital-redoubt-irans-national-information-network-cyber-conflict</guid>
-      <pubDate>Thu, 05 Mar 2026 09:29:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Under Cyber Siege: How Jordan Became a Target of Coordinated Regional Cyber Warfare</title>
-      <link>https://falconfeeds.io/blogs/under-cyber-siege-how-jordan-became-a-target-of-coordinated-regional-cyber-warfare</link>
-      <description>An in-depth analysis of how Jordan became the target of a coordinated regional cyber warfare campaign between 28 February and 5 March 2026, involving multi-actor DDoS attacks, breaches, defacements, and critical infrastructure targeting.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/under-cyber-siege-how-jordan-became-a-target-of-coordinated-regional-cyber-warfare</guid>
-      <pubDate>Fri, 06 Mar 2026 06:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>MuddyWater in the Iran–Israel Cyber War: From PowerShell Scripts to Rust Implants</title>
-      <link>https://falconfeeds.io/blogs/muddywater-in-the-iran-israel-cyber-war-from-powershell-scripts-to-rust-implants</link>
-      <description>An in-depth analysis of MuddyWater’s role in the Iran–Israel cyber war, tracing its evolution from PowerShell-based intrusions to Rust implants, advanced backdoors, and strategic initial-access operations across regional and Western targets.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/muddywater-in-the-iran-israel-cyber-war-from-powershell-scripts-to-rust-implants</guid>
-      <pubDate>Fri, 06 Mar 2026 09:59:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 08:57:42 +0000</lastBuildDate>
     <item>
       <title>Doxxing for Pressure: How Handala RedWanted Platform Escalates the Cyber Conflict</title>
       <link>https://falconfeeds.io/blogs/handala-redwanted-platform-the-convergence-of-doxxing-psychological-warfare-and-kinetic-threat-facilitation</link>
@@ -357,6 +329,34 @@
       <description>Explore how billions of IoT devices, connected infrastructure, and edge computing are reshaping threat intelligence, expanding attack surfaces, and creating new cybersecurity challenges worldwide.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/connected-infrastructure-iot-threat-intelligence-next-billion-devices</guid>
       <pubDate>Mon, 15 Jun 2026 04:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Middle East Cyber Arms Race: Who Is Gaining Strategic Advantage?</title>
+      <link>https://falconfeeds.io/blogs/middle-east-cyber-arms-race-strategic-advantage-analysis</link>
+      <description>Explore the Middle East cyber arms race and how geopolitics, state-sponsored cyber operations, and critical infrastructure threats are reshaping the region's strategic security landscape.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/middle-east-cyber-arms-race-strategic-advantage-analysis</guid>
+      <pubDate>Wed, 24 Jun 2026 04:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Telegram Underground: Mapping Threat Actor Ecosystems in 2026</title>
+      <link>https://falconfeeds.io/blogs/telegram-underground-threat-actor-ecosystems-2026-analysis</link>
+      <description>Explore how Telegram continues to power global cybercrime in 2026, enabling threat actor coordination, underground marketplaces, malware distribution, and resilient criminal ecosystems despite increased enforcement.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/telegram-underground-threat-actor-ecosystems-2026-analysis</guid>
+      <pubDate>Wed, 24 Jun 2026 04:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Threat Actor Works Alone: Understanding the Cybercrime Supply Chain</title>
+      <link>https://falconfeeds.io/blogs/cybercrime-supply-chain-shadow-agents-threat-actor-ecosystem</link>
+      <description>Explore the cybercrime supply chain and how ransomware groups, initial access brokers, malware developers, and shadow agents collaborate to power today's global threat ecosystem.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cybercrime-supply-chain-shadow-agents-threat-actor-ecosystem</guid>
+      <pubDate>Wed, 24 Jun 2026 05:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The First 72 Hours: An Intelligence-Led Analysis of Post-Compromise Behavior and Attacker Velocity</title>
+      <link>https://falconfeeds.io/blogs/first-72-hours-post-compromise-attacker-velocity-analysis</link>
+      <description>Explore how threat actors exploit the first 72 hours after compromise through rapid lateral movement, IAB partnerships, and accelerated ransomware operations that outpace traditional SOC defenses.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/first-72-hours-post-compromise-attacker-velocity-analysis</guid>
+      <pubDate>Wed, 24 Jun 2026 05:59:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
