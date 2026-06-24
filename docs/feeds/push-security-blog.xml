@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 08:57:33 +0000</lastBuildDate>
-    <item>
-      <title>Using Push data to quantify identity vulnerabilities</title>
-      <link>https://pushsecurity.com/blog/how-many-vulnerable-identities-do-you-have</link>
-      <description>Using Push data to calculate how many vulnerable identities the average organization has, and how they lead to different methods of account takeover.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/how-many-vulnerable-identities-do-you-have</guid>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 14:19:09 +0000</lastBuildDate>
     <item>
       <title>How Push detects and blocks phishing attacks in the browser</title>
       <link>https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser</link>
@@ -357,6 +350,13 @@
       <description>AI regulations across the US, EU, and UK are converging on obligations that most organizations can't meet without browser visibility into AI tool use.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/browser-visibility-and-control-can-achieve-ai-compliance</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crossing the chasm with the SANS AI security maturity model</title>
+      <link>https://pushsecurity.com/blog/crossing-the-ai-security-chasm-sans-security-maturity-model</link>
+      <description>Most organizations know they have an AI security problem. A new SANS framework shows why so few are making progress - and what it actually takes to get unstuck.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/crossing-the-ai-security-chasm-sans-security-maturity-model</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

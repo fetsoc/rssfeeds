@@ -7,16 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 08:57:44 +0000</lastBuildDate>
-    <item>
-      <title>Assessment a51ed820</title>
-      <link>https://attackerkb.com/assessments/a51ed820-f8e9-48cc-9d26-a77f78eacbdb</link>
-      <description>Attacker Value: 3/5 | Exploitability: 4/5
-
-</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/a51ed820-f8e9-48cc-9d26-a77f78eacbdb</guid>
-      <pubDate>Thu, 30 Oct 2025 07:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 14:19:22 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-5946</title>
       <link>https://attackerkb.com/assessments/3ae5b43c-a33d-47c0-b4f3-07ae353c1609</link>
@@ -678,6 +669,37 @@ The platform has multiple command injection vulnerability using the temporary di
 Injecting a malicious payload at the backup temp directory or scp parameters will trigger this vulner…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/8a1c104a-8938-471c-815c-3d239334b434</guid>
       <pubDate>Wed, 17 Jun 2026 16:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment d9e28994</title>
+      <link>https://attackerkb.com/assessments/d9e28994-10d8-42f8-9335-e80af7a6157f</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+package j$.util.concurrent;&#13;
+import java.lang.ThreadLocal;&#13;
+import java.util.concurrent.atomic.AtomicLong;&#13;
+import java.util.concurrent.atomic.AtomicInteger;&#13;
+&#13;
+public class ThreadLocalRandom extends Random&#13;
+{&#13;
+/&#13;
+  Field Definitions.&#13;
+ /&#13;
+       long a;&#13;
+       int b;&#13;
+       boolean c;&#13;
+      private static final ThreadLocal d;&#13;
+      private static final AtomicInteger e;&#13;
+      private static final ThreadLocal f;&#13;
+      private static final AtomicLong g;&#13;
+/&#13;
+  Declared Constructors.&#13;
+ /&#13;
+     ThreadLocalRandom() { ... }&#13;
+    static final int a(int) { ... }&#13;
+    static final int b() { ... }&#13;…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/d9e28994-10d8-42f8-9335-e80af7a6157f</guid>
+      <pubDate>Wed, 24 Jun 2026 13:02:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

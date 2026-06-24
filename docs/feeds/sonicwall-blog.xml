@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 08:55:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:17:06 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -201,6 +201,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</guid>
     </item>
     <item>
+      <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
+      <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
+      <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
@@ -275,13 +281,6 @@
       <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Key Benefits of Virtual Firewalls for Cloud and Hybrid Environments</title>
-      <link>https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</link>
-      <description>Discover the 8 core benefits of virtual firewalls, from east-west traffic inspection to cloud compatibility. Learn how SonicWall virtual firewalls secure modern distributed and multi-cloud environments.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stateful vs Stateless Firewall: Key Differences in Virtual Firewalls | SonicWall</title>

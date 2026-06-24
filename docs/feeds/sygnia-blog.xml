@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 08:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:19:54 +0000</lastBuildDate>
     <item>
       <title>8 Incident Response Plan Mistakes That Lead to Failures</title>
       <link>https://www.sygnia.co/blog/incident-response-plan-mistakes/</link>
@@ -57,28 +57,28 @@
       <pubDate>Tue, 09 Jun 2026 11:21:55 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control</title>
-      <link>https://www.sygnia.co/blog/crypto-security-in-2026/</link>
-      <description>&lt;p&gt;Most crypto breaches occur when attackers reach transaction authority. Learn how to secure identities, infrastructure, and authorization systems.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/crypto-security-in-2026/"&gt;Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/crypto-security-in-2026/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:44:47 +0000</pubDate>
-    </item>
-    <item>
       <title>The Crypto Threat Environment 2026</title>
       <link>https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/</link>
       <description>&lt;p&gt;Understanding how crypto breaches occur and what separates organizations that contain them from those that suffer catastrophic losses&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/"&gt;The Crypto Threat Environment 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:48:36 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 18:49:56 +0000</pubDate>
     </item>
     <item>
-      <title>Crypto most vulnerable sector with 83% of security leaders indicating exposure to at least one cybersecurity attack in the last 12 months</title>
+      <title>83% of Crypto Security Leaders Report Cyberattack Exposure as Sygnia Releases Bybit Investigation Findings</title>
       <link>https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/</link>
       <description>&lt;p&gt;Sygnia's investigation into the $1.5 billion Bybit hack reveals how North Korea's Lazarus Group exploited human risk, social engineering, and crypto infrastructure weaknesses to execute the largest crypto theft in history.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/"&gt;Crypto most vulnerable sector with 83% of security leaders indicating exposure to at least one cybersecurity attack in the last 12 months&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/"&gt;83% of Crypto Security Leaders Report Cyberattack Exposure as Sygnia Releases Bybit Investigation Findings&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:53:02 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 07:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control</title>
+      <link>https://www.sygnia.co/blog/crypto-security-in-2026/</link>
+      <description>&lt;p&gt;Most crypto breaches occur when attackers reach transaction authority. Learn how to secure identities, infrastructure, and authorization systems.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/crypto-security-in-2026/"&gt;Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/crypto-security-in-2026/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:48:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
