@@ -7,42 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 19:29:14 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-5946</title>
-      <link>https://attackerkb.com/assessments/3ae5b43c-a33d-47c0-b4f3-07ae353c1609</link>
-      <description>Attacker Value: 4/5 | Exploitability: 4/5 | MITRE: Execution
-
-Centreon is a platform designed to monitor your cloud and on-premises infrastructure.&#13;
-The platform has command injection vulnerability using the broker engine reload setting on the poller configuration page of the Centreon web application. Injecting a malcious payload at the broker engine reload parameter and restarting the poller, triggers this vulnerability.&#13;
-You need have admin access at the Centreon Web application in order to execute this RCE.&#13;
-&#13;
- Demonstration&#13;
-1. Download and install Centreon web application using one of supported install methods.&#13;
-2. When installed, login into Centreo…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/3ae5b43c-a33d-47c0-b4f3-07ae353c1609</guid>
-      <pubDate>Sun, 02 Nov 2025 18:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-12480</title>
-      <link>https://attackerkb.com/assessments/872fea17-4584-4f94-b9dc-3875a890a332</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5
-
-Based on writing the Rapid7 Analysis, I have rated both the Exploitability and Attacker Value as Very High, as the target product is a file sharing solution, and is vulnerable to unauthenticated remote code execution in a default configuration.</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/872fea17-4584-4f94-b9dc-3875a890a332</guid>
-      <pubDate>Tue, 11 Nov 2025 14:22:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-64446</title>
-      <link>https://attackerkb.com/assessments/de356c9b-4b40-4354-894b-f4427f7061fb</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
-
-FortiWeb is a Web Application Firewall (WAF) product that is designed to detect and block malicious traffic to web applications. Exploitation of this vulnerability, now tracked as CVE-2025-64446, allows an attacker with no existing level of access to gain administrator-level access to the FortiWeb Manager panel and websocket command-line interface. Unsurprisingly, this is a critical severity vulnerability, with a CVSS score of 9.1.&#13;
-&#13;
-The vulnerability details were first shared publicly on October 6, 2025, when the cyber deception company Defused published a proof-of-concept exploit on social …</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/de356c9b-4b40-4354-894b-f4427f7061fb</guid>
-      <pubDate>Fri, 14 Nov 2025 18:09:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 02:37:44 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-64446</title>
       <link>https://attackerkb.com/assessments/99da1ce6-0081-41e8-8a62-4ecf729a6586</link>
@@ -700,6 +665,54 @@ public class ThreadLocalRandom extends Random&#13;
     static final int b() { ... }&#13;…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/d9e28994-10d8-42f8-9335-e80af7a6157f</guid>
       <pubDate>Wed, 24 Jun 2026 13:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 208dea8c</title>
+      <link>https://attackerkb.com/assessments/208dea8c-47eb-4e24-9a43-af823f3bd7a1</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+&lt;manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="28" android:versionName="1.13.0" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.inmobi.installer" platformBuildVersionCode="34" platformBuildVersionName="14"&#13;
+    &lt;uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34"/&#13;
+    &lt;uses-permission android:name="android.permission.INSTALLPACKAGES"/&#13;
+    &lt;uses-permission android:name="android.permission.FOREGROUNDSERVICESPECIALUSE"/&#13;
+    &lt;uses-permission android:name="android.permission.POSTNOTIFICATIONS"/&#13;
+    &lt;uses…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/208dea8c-47eb-4e24-9a43-af823f3bd7a1</guid>
+      <pubDate>Wed, 24 Jun 2026 20:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment a4a2ee7d</title>
+      <link>https://attackerkb.com/assessments/a4a2ee7d-279e-40ee-8d93-74a29af27538</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Discovery
+
+&lt;manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" android:sharedUserId="android.uid.phone" android:versionCode="34" android:versionName="14" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.android.stk" platformBuildVersionCode="34" platformBuildVersionName="14"&#13;
+    &lt;uses-sdk android:minSdkVersion="34" android:targetSdkVersion="34"/&#13;
+    &lt;original-package android:name="com.android.stk"/&#13;
+    &lt;uses-permission android:name="android.permission.RECEIVEBOOTCOMPLETED"/&#13;
+    &lt;uses-p…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/a4a2ee7d-279e-40ee-8d93-74a29af27538</guid>
+      <pubDate>Thu, 25 Jun 2026 00:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment c7c1028a</title>
+      <link>https://attackerkb.com/assessments/c7c1028a-a1dc-4c2e-a90f-0abe1e957367</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Exfiltration
+
+Certificate:&#13;
+    Data:&#13;
+        Version: 3 (0x2)&#13;
+        Serial Number:&#13;
+            22:85:26:b0:d1:ef:90:c3:b8:ed:56:8a:49:c3:71:4f:6a:39:50:6b&#13;
+    Signature Algorithm: sha256WithRSAEncryption&#13;
+        Issuer: C=CN, ST=ShangHai, L=ShangHai, O=Longcheer, OU=Longcheer, CN=Longcheer/emailAddress=release@Longcheer.com&#13;
+        Validity&#13;
+            Not Before: Sep 15 07:31:06 2023 GMT&#13;
+            Not After : Jan 31 07:31:06 2051 GMT&#13;
+        Subject: C=CN, ST=ShangHai, L=ShangHai, O=Longcheer, OU=Longcheer, CN=Longcheer/emailAddress=release@Longcheer.com&#13;
+        Subject Public Key Info:&#13;
+   …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/c7c1028a-a1dc-4c2e-a90f-0abe1e957367</guid>
+      <pubDate>Thu, 25 Jun 2026 01:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

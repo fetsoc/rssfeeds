@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 19:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:35:27 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -185,11 +185,6 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
     </item>
     <item>
-      <title>Microsoft Security Bulletin Coverage for June 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
-    </item>
-    <item>
       <title>Tracking Havoc Malware Activity and Evasion Techniques</title>
       <link>https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</guid>
@@ -205,6 +200,11 @@
       <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
       <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Bulletin Coverage for June 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
     </item>
     <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
@@ -232,13 +232,6 @@
       <description>SonicOS 7.3.3 delivers Generative AI content filtering, default-on credential auditing, DTLS VPN support, and more for GEN7 appliances. Here is what MSPs and channel partners need to know before upgrading.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ransomware Chimera That Does Everything</title>
-      <link>https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</link>
-      <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Firewall Is Not Dead: How AI Makes It Smarter | SonicWall</title>
@@ -294,6 +287,13 @@
       <link>https://www.sonicwall.com/blog/file-browser-hook-command-runner-os-command-injection</link>
       <description>High-severity CVSS 7.2 command injection in File Browser's Command Runner enables authenticated RCE via a crafted filename. SonicWall IPS signature available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/file-browser-hook-command-runner-os-command-injection</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
+      <link>https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</link>
+      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

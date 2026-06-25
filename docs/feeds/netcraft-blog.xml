@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 19:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:35:30 +0000</lastBuildDate>
+    <item>
+      <title>Ultimate Fraud Prevention: How Banks Can Stop Scam Websites Fast</title>
+      <link>https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</link>
+      <description>Discover how banks can detect, disrupt, and rapidly remove fake websites. Learn common spoofing tactics, fast takedown steps, and how Netcraft protects your customers.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</guid>
+    </item>
     <item>
       <title>Automated Threat Response at Scale: Netcraft Integrations &amp; APIs</title>
       <link>https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</link>
@@ -241,12 +247,6 @@
       <link>https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</link>
       <description>Explore 10 real phishing website examples identified by Netcraft researchers. Learn how attackers impersonate trusted brands and the warning signs that may reveal a phishing site.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</guid>
-    </item>
-    <item>
-      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
-      <link>https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brand-names-to-drive-casino-traffic</link>
-      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brand-names-to-drive-casino-traffic</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
