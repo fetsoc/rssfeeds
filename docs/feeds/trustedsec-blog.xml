@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 14:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:49:46 +0000</lastBuildDate>
     <item>
       <title>Shai-Hulud Is Back, and This Time It Ate the Whole Ecosystem</title>
       <link>https://trustedsec.com/blog/shai-hulud-is-back</link>
@@ -25,14 +25,14 @@
     <item>
       <title>CMMC Conditional Status - Contracting Without Compliance</title>
       <link>https://trustedsec.com/blog/cmmc-conditional-status</link>
-      <description>&amp;lt;p&amp;gt;The CMMC rollout is progressing. Contracts that require a CMMC Level 2 (Self) self-assessment have been circulating since the start of Phase 1 in November 2025, and contracts that require CMMC Level 2 (C3PAO) audits…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;CMMC Conditional Status gives defense contractors breathing room, exactly 180 days of it. In this blog, we break down who qualifies, what&amp;#039;s required to achieve it, and how to close it out before the deadline.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-conditional-status</guid>
       <pubDate>Tue, 02 Jun 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Privileged Roles Nobody Talks About</title>
       <link>https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</link>
-      <description>&amp;lt;p&amp;gt;Part 1: Why Your MDM Platform is a Tier 0 AssetThis is Part 1 of a two-part series on Intune security hardening. This post covers what we have seen in real world attacks as well as attack paths our Pentest Team has…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;MDM admins can deploy apps, or wipe every device in your fleet. Yet most treat them like standard IT roles. In Part 1 of this blog series, we break down the platform admin blind spot and why it&amp;#039;s worth your attention.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</guid>
       <pubDate>Thu, 04 Jun 2026 04:00:00 +0000</pubDate>
     </item>
@@ -74,7 +74,7 @@
     <item>
       <title>Large Workflows with Local LLMs</title>
       <link>https://trustedsec.com/blog/large-workflows-with-local-llms</link>
-      <description>&amp;lt;p&amp;gt;As it turns out, local LLMs have a few opinions about large workflows. In this blog, we walk through the scaling challenges of local LLMs and the custom Python library he built to wrangle them.&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;As it turns out, local LLMs have a few opinions about large workflows. In this blog, we walk through the scaling challenges of local LLMs and the custom Python library built to wrangle them.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/large-workflows-with-local-llms</guid>
       <pubDate>Thu, 25 Jun 2026 04:00:00 +0000</pubDate>
     </item>

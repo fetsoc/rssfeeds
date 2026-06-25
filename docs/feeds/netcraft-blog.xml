@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 14:13:08 +0000</lastBuildDate>
-    <item>
-      <title>Ultimate Fraud Prevention: How Banks Can Stop Scam Websites Fast</title>
-      <link>https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</link>
-      <description>Discover how banks can detect, disrupt, and rapidly remove fake websites. Learn common spoofing tactics, fast takedown steps, and how Netcraft protects your customers.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/ultimate-fraud-prevention-how-banks-can-instantly-neutralize-scam-websites</guid>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 19:48:44 +0000</lastBuildDate>
     <item>
       <title>Automated Threat Response at Scale: Netcraft Integrations &amp; APIs</title>
       <link>https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</link>
       <description>Explore 10 real phishing website examples identified by Netcraft researchers. Learn how attackers impersonate trusted brands and the warning signs that may reveal a phishing site.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</guid>
+    </item>
+    <item>
+      <title>Bluekit Phishing-as-a-Service: Browser-in-the-Middle (BitM) Analysis</title>
+      <link>https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</link>
+      <description>Netcraft analyzes Bluekit, a Browser-in-the-Middle phishing kit that streams legitimate login pages to victims using rrweb. Learn how it works, why it differs from Evilginx, and the detection opportunities for defenders.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

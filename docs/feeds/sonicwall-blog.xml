@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 14:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:48:39 +0000</lastBuildDate>
     <item>
       <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
       <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
@@ -196,15 +196,15 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</guid>
     </item>
     <item>
+      <title>Microsoft Security Bulletin Coverage for June 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
+    </item>
+    <item>
       <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
       <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
       <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</guid>
-    </item>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for June 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
     </item>
     <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
