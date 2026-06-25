@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 08:50:02 +0000</lastBuildDate>
-    <item>
-      <title>Navigating Email Security Gaps Beyond DMARC</title>
-      <link>https://www.darktrace.com/blog/beyond-dmarc-navigating-the-gaps-in-email-security</link>
-      <description>Discover Darktrace's strategies for navigating email security gaps beyond DMARC. Enhance your defenses with advanced threat detection and mitigation.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-dmarc-navigating-the-gaps-in-email-security</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 14:13:02 +0000</lastBuildDate>
     <item>
       <title>Beyond Discovery: Adding Intelligent Vulnerability Validation to Darktrace / Attack Surface Management</title>
       <link>https://www.darktrace.com/blog/beyond-discovery-adding-intelligent-vulnerability-validation-to-darktrace-attack-surface-management</link>
@@ -354,6 +347,13 @@
       <title>Advancing the Use of Frontier AI in Cybersecurity: Darktrace Joins the OpenAI Daybreak Cyber Partner Program to Explore Defensive AI Integrations</title>
       <link>https://www.darktrace.com/blog/advancing-the-use-of-frontier-ai-in-cybersecurity-darktrace-joins-the-openai-daybreak-cyber-partner-program-to-explore-defensive-ai-integrations</link>
       <guid isPermaLink="false">https://www.darktrace.com/blog/advancing-the-use-of-frontier-ai-in-cybersecurity-darktrace-joins-the-openai-daybreak-cyber-partner-program-to-explore-defensive-ai-integrations</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The curious case of prompt language analysis</title>
+      <link>https://www.darktrace.com/blog/a-new-security-challenge-the-curious-case-of-prompt-language-analysis</link>
+      <description>Prompt analysis is reshaping AI security. Learn why prompts are behavioral signals, not just text, and why context is critical to identifying real enterprise risk.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/a-new-security-challenge-the-curious-case-of-prompt-language-analysis</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

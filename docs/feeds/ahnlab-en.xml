@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 08:51:08 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93616/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Guatemalan Government Agency Data Sold on DarkForums BlackWater Ransomware Attack Targets Chinese Auto Parts Manufacturer Japanese Fintech Firm Suffers Unauthorized GitHub Access</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93616/</guid>
-      <pubDate>Wed, 06 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 14:14:33 +0000</lastBuildDate>
     <item>
       <title>Dark Web Threat Actor Trend Report, April 2026</title>
       <link>https://asec.ahnlab.com/en/93634/</link>
@@ -121,17 +114,17 @@
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93881/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
       <link>https://asec.ahnlab.com/en/93875/</link>
       <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93881/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
       <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected during the month of May 2026, the number of affected systems, statistics on targeted businesses, and major Korean &amp;#038; Global ransomware issues. Statistics on samples and affected systems are based on AhnLab’s detection names, while statistics on targeted businesses are aggregated based [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94185/</guid>
       <pubDate>Thu, 18 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, June 2026</title>
+      <link>https://asec.ahnlab.com/en/94247/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, June 2026 &amp;#160; &amp;#160; &amp;#160; BreachForums, a cybercrime forum, showing signs of admitting to sales and impersonation of its staff Lapsus$ claims to have leaked data from a bank in Myanmar Qilin launches a ransomware attack targeting a law firm in South Korea</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94247/</guid>
+      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 08:51:07 +0000</lastBuildDate>
-    <item>
-      <title>Q1 2026 Cyber Risk Report: Insights from 2.1 Million Malware and Phishing Investigations</title>
-      <link>https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/</link>
-      <description>&lt;p&gt;Based on 2,101,483 malware and phishing investigations from Q1 2026, ANY.RUN&amp;#8216;s Cyber Risk report provides a real-world view of modern attack trends.  It covers&amp;#160;trending malware families,&amp;#160;TTPs, and other&amp;#160;technical observations,&amp;#160;while&amp;#160;also&amp;#160;delivering&amp;#160;executive insights CISOs and&amp;#160;SOC&amp;#160;teams can use to connect attacker behavior to business risk.&amp;#160; Combining data-backed malware trends with strategic guidance for security leaders, the&amp;#160;report&amp;#160;reveals&amp;#160;critical gaps in&amp;#160;detection, response, and visibility that directly&amp;#160;impact&amp;#160;business resilience, and&amp;#160;outlines&amp;#160;solutions organizations can&amp;#160;use [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/"&gt;Q1 2026 Cyber Risk Report: Insights from 2.1 Million Malware and Phishing Investigations &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/</guid>
-      <pubDate>Thu, 04 Jun 2026 11:18:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 14:14:32 +0000</lastBuildDate>
     <item>
       <title>Leader in Malware Analysis: ANY.RUN Named Top Vendor in G2 Summer 2026 Awards</title>
       <link>https://any.run/cybersecurity-blog/g2-summer-awards-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/streamline-your-soc/"&gt;From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/streamline-your-soc/</guid>
       <pubDate>Thu, 25 Jun 2026 08:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN &amp; Torq Integration: Scale Triage &amp; Respond with Confidence</title>
+      <link>https://any.run/cybersecurity-blog/torq-integration/</link>
+      <description>&lt;p&gt;Lack of alert context makes it difficult for Security Operations Centers (SOC) to distinguish actual threats from false positives. ANY.RUN’s integration with the Torq AI SOC Platform bridges this gap by delivering conclusive malware &amp;#38; phishing verdicts and actionable intelligence.   The result for your team is faster incident resolution, reduced alert fatigue, and proactive threat detection.&amp;#160; ANY.RUN &amp;#38; Torq [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/torq-integration/"&gt;ANY.RUN &amp;amp; Torq Integration: Scale Triage &amp;amp; Respond with Confidence&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/torq-integration/</guid>
+      <pubDate>Thu, 25 Jun 2026 11:56:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

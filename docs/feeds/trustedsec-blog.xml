@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 08:51:07 +0000</lastBuildDate>
-    <item>
-      <title>Coverage-Driven Sustained Testing (CDST): A Graph-Oriented Model for Open-Ended Agentic Workflows</title>
-      <link>https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</link>
-      <description>&amp;lt;p&amp;gt;1.1 IntroductionRalph is a solid tool that makes agents do…more. It&amp;amp;#039;s defined as: an autonomous AI agent loop that runs repeatedly until all PRD items are complete. The purpose is for it to handle bigger plans and…&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/coverage-driven-sustained-testing-cdst-agentic-workflows</guid>
-      <pubDate>Tue, 19 May 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 14:14:32 +0000</lastBuildDate>
     <item>
       <title>Shai-Hulud Is Back, and This Time It Ate the Whole Ecosystem</title>
       <link>https://trustedsec.com/blog/shai-hulud-is-back</link>
@@ -46,21 +39,21 @@
     <item>
       <title>How to Train Your (Dragons) Analysts - A TrustedSec Guide to Picking the Perfect Purple Team</title>
       <link>https://trustedsec.com/blog/how-to-train-your-dragons-analysts</link>
-      <description>&amp;lt;p&amp;gt;Whether it be the advent of AI technologies, new Red-Team techniques and exploits, or new patches and emergent defensive technologies, it’s pretty clear to all of us operating within technology fields that the landscape…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Your analysts are your strongest defenders, but do they have what they need to keep up? In this blog, we break down TrustedSec&amp;#039;s Purple Team assessments and how to find the right engagement to develop your team.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/how-to-train-your-dragons-analysts</guid>
       <pubDate>Tue, 09 Jun 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hardening Intune: The Implementation Guide</title>
       <link>https://trustedsec.com/blog/hardening-intune-the-implementation-guide</link>
-      <description>&amp;lt;p&amp;gt;Part 2: Step-by-Step Configuration for Every ControlThis is Part 2 of a two-part series on Intune security hardening. Part 1 covers the attacks we have seen against this types of platforms, why platform administration…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Now that we&amp;#039;ve identified the blind spot, here&amp;#039;s how to fix it. In Part 2 of our blog series, we deliver a phase-based implementation guide to hardening Microsoft Intune across 11 critical controls.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/hardening-intune-the-implementation-guide</guid>
       <pubDate>Thu, 11 Jun 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>JS-Tap v3: Endpoint Post-Exploitation With JavaScript Implants</title>
       <link>https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</link>
-      <description>&amp;lt;p&amp;gt;When I first wrote JS-Tap, the goal was to provide red teamers with a generic JavaScript payload that works without prior knowledge of a web application and without an authenticated user running it. Instrument the…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;JavaScript escaped the browser. JS-Tap v3 followed it. In this blog, we introduce three new beacons targeting the Electron apps, browser extensions, and Node runtimes running on corporate workstations.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</guid>
       <pubDate>Fri, 12 Jun 2026 04:00:00 +0000</pubDate>
     </item>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Staring at a web app with no links and no navigation? In this blog, we break down modern content discovery, from forced browsing and web crawling to Google dorking and GitHub recon.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/modern-web-application-content-discovery</guid>
       <pubDate>Thu, 18 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large Workflows with Local LLMs</title>
+      <link>https://trustedsec.com/blog/large-workflows-with-local-llms</link>
+      <description>&amp;lt;p&amp;gt;As it turns out, local LLMs have a few opinions about large workflows. In this blog, we walk through the scaling challenges of local LLMs and the custom Python library he built to wrangle them.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/large-workflows-with-local-llms</guid>
+      <pubDate>Thu, 25 Jun 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
