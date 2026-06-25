@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 02:37:45 +0000</lastBuildDate>
-    <item>
-      <title>Release Notes: Decision-Ready SOC Reporting, Elastic Security Integration, and 1400+ Threat Coverage Updates</title>
-      <link>https://any.run/cybersecurity-blog/release-notes-may-2026/</link>
-      <description>&lt;p&gt;Security leaders are under growing pressure to reduce the time between threat detection and response without adding more complexity to already overloaded SOC workflows. ANY.RUN’s May updates help teams act on security risks more efficiently, improve consistency across investigations, and maintain stronger protection as attacker tactics continue to evolve. Discover the updates your team can [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-may-2026/"&gt;Release Notes: Decision-Ready SOC Reporting, Elastic Security Integration, and 1400+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-may-2026/</guid>
-      <pubDate>Wed, 03 Jun 2026 10:22:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 08:51:07 +0000</lastBuildDate>
     <item>
       <title>Q1 2026 Cyber Risk Report: Insights from 2.1 Million Malware and Phishing Investigations</title>
       <link>https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/"&gt;EvilTokens: How “Ghost” Code Threatens US and European Businesses&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/</guid>
       <pubDate>Tue, 23 Jun 2026 11:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow</title>
+      <link>https://any.run/cybersecurity-blog/streamline-your-soc/</link>
+      <description>&lt;p&gt;A Security Operations Center rarely struggles because it lacks alerts. It struggles because every alert creates work: validate the indicator, understand the behavior, check whether the threat is known, determine its scope, decide whether to escalate, contain the incident, and make sure the same attack is easier to detect next time. When these steps depend [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/streamline-your-soc/"&gt;From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/streamline-your-soc/</guid>
+      <pubDate>Thu, 25 Jun 2026 08:46:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

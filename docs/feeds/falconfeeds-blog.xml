@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 02:37:43 +0000</lastBuildDate>
-    <item>
-      <title>Doxxing for Pressure: How Handala RedWanted Platform Escalates the Cyber Conflict</title>
-      <link>https://falconfeeds.io/blogs/handala-redwanted-platform-the-convergence-of-doxxing-psychological-warfare-and-kinetic-threat-facilitation</link>
-      <description>An in-depth analysis of Handala’s RedWanted platform, a state-aligned doxxing and bounty website designed to expose Israeli security personnel, amplify psychological pressure, and facilitate real-world targeting.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/handala-redwanted-platform-the-convergence-of-doxxing-psychological-warfare-and-kinetic-threat-facilitation</guid>
-      <pubDate>Fri, 06 Mar 2026 10:44:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 08:51:04 +0000</lastBuildDate>
     <item>
       <title>OilRig in the Iran–Israel Cyber War: From DNS Tunnelling to Persistent State-Sponsored Espionage</title>
       <link>https://falconfeeds.io/blogs/oilrig-in-the-iran-israel-cyber-war-from-dns-tunnelling-to-persistent-state-sponsored-espionage</link>
@@ -357,6 +350,13 @@
       <description>Explore how threat actors exploit the first 72 hours after compromise through rapid lateral movement, IAB partnerships, and accelerated ransomware operations that outpace traditional SOC defenses.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/first-72-hours-post-compromise-attacker-velocity-analysis</guid>
       <pubDate>Wed, 24 Jun 2026 05:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>FortiBleed: How Millions of Fortinet Credentials Became a Cybercriminal Goldmine</title>
+      <link>https://falconfeeds.io/blogs/fortibleed-fortinet-credential-exposure-dataset-analysis</link>
+      <description>Explore the FortiBleed credential exposure campaign, analyzing compromised Fortinet credentials, large-scale password cracking, affected organizations, and enterprise security risks worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fortibleed-fortinet-credential-exposure-dataset-analysis</guid>
+      <pubDate>Thu, 25 Jun 2026 07:15:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
