@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 14:09:47 +0000</lastBuildDate>
-    <item>
-      <title>Assessment fbacb2a6</title>
-      <link>https://attackerkb.com/assessments/fbacb2a6-d1cd-4011-bb3a-f06b1c8306b1</link>
-      <description>Attacker Value: 2/5 | Exploitability: 1/5
-
-Note: The following analysis was written by the original finder, Calum Hutton.&#13;
-&#13;
- Details&#13;
-A malicious client acting as the receiver of an rsync file transfer can trigger an OOB read via a negative array index. The rsync client requires at least read access to the remote rsync module to trigger the issue. &#13;
-&#13;
-The protocol traffic for the following rsync command was captured:&#13;
-&#13;
-rsync -vvr rsync://192.168.178.93/filesanon /tmp/rsync&#13;
-&#13;
-Part of the initial protocol traffic sends the following data from the client (spaces represent null bytes):&#13;
-&#13;
---server --sender -vvre.iLsfxCIvu . filesanon/&#13;
-…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/fbacb2a6-d1cd-4011-bb3a-f06b1c8306b1</guid>
-      <pubDate>Tue, 18 Nov 2025 14:44:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 19:31:52 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-58034</title>
       <link>https://attackerkb.com/assessments/c67a510c-5ac5-43a7-affd-7b7655c4b62f</link>
@@ -715,6 +694,24 @@ Researcher: Independent Security Research, Mexico&#13;
 The Motorola Moto G04s, powered by the Unisoc T606 chipset, contains a high-severity attack chain within its Rescue Party recovery mecha…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/0e5f0b3f-7394-46ad-b3b5-160ee022a28f</guid>
       <pubDate>Fri, 26 Jun 2026 13:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-40003</title>
+      <link>https://attackerkb.com/assessments/487da971-0613-4da1-b586-93cba85b0717</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Credential Access
+
+:&#13;
+&#13;
+CVE-2026-40003: Operation Silent Rescue - Penta Chain&#13;
+Title: Systemic Pre-Installed Backdoors in Unisoc T606/T616 Enable Redundant, Zero-Click, Pre-Auth Takeover with Silent Malware Deployment in LATAM&#13;
+&#13;
+CVSS 3.1: 9.8 Critical AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H &#13;
+CWE: CWE-250, CWE-732, CWE-912, CWE-1220, CWE-276, CWE-269 &#13;
+Affected: Motorola Moto G04s, G24, G34, E24 + all Unisoc T606/T616, Android 11-13, LATAM 2024-2025 &#13;
+Credit: Independent Security Research (Latin America Division) &#13;
+Status: Active Threat. Coordinated disclosure submitted to Rapid7, AttackerKB, CISA, Unisoc PSIRT, Mo…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/487da971-0613-4da1-b586-93cba85b0717</guid>
+      <pubDate>Fri, 26 Jun 2026 18:53:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

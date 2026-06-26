@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberarmor-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 14:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:30:17 +0000</lastBuildDate>
     <item>
       <title>Autumn Dragon: China-nexus APT Group Targets South East Asia</title>
       <link>https://cyberarmor.tech/blog/autumn-dragon-china-nexus-apt-group-targets-south-east-asia</link>
@@ -244,6 +244,13 @@
       <link>https://cyberarmor.tech/blog/reverse-engineering-ethereum-powered-infostealer-blockchain-c2-malware</link>
       <guid isPermaLink="false">https://cyberarmor.tech/blog/reverse-engineering-ethereum-powered-infostealer-blockchain-c2-malware</guid>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Threat Actors Abuse Microsoft's Login Infrastructure to Increase Phishing Success Rates</title>
+      <link>https://cyberarmor.tech/blog/abusing-microsoft-login-infrastructure-for-phishing</link>
+      <description>Threat actors are increasingly abusing Microsoft's legitimate authentication infrastructure to improve phishing success rates, evade detection, and gain access to corporate accounts. Learn how these attacks work and what defenders should monitor.</description>
+      <guid isPermaLink="false">https://cyberarmor.tech/blog/abusing-microsoft-login-infrastructure-for-phishing</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 14:08:25 +0000</lastBuildDate>
-    <item>
-      <title>Elevate Your Network with The Ultimate 3 &amp; Free Promotion</title>
-      <link>https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</link>
-      <description>Upgrade now with our 3 &amp; Free Promotion - time to trade in a legacy or competitor appliance and purchase our 3-Year EPSS.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/elevate-your-network-with-the-ultimate-3-free-promotion</guid>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 19:30:12 +0000</lastBuildDate>
     <item>
       <title>How the All-New SecureFirst Partner Program Puts Partners First</title>
       <link>https://www.sonicwall.com/blog/how-the-all-new-securefirst-partner-program-puts-partners-first</link>
@@ -205,6 +199,12 @@
       <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
       <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</guid>
+    </item>
+    <item>
+      <title>Small Business Cybersecurity Myths: Why Hackers Don't Take Holidays</title>
+      <link>https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</link>
+      <description>It's easy to think that you're safe from a cyber attack on holidays or because you're a small business, but those assumptions are cybersecurity myths, and this blog explains why.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</guid>
     </item>
     <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
