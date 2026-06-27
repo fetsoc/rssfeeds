@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 19:30:12 +0000</lastBuildDate>
-    <item>
-      <title>How the All-New SecureFirst Partner Program Puts Partners First</title>
-      <link>https://www.sonicwall.com/blog/how-the-all-new-securefirst-partner-program-puts-partners-first</link>
-      <description>Discover SonicWall's Enhanced SecureFirst Partner Program, designed for mutual growth and success. Join our vibrant partner community today!</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-the-all-new-securefirst-partner-program-puts-partners-first</guid>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 02:30:42 +0000</lastBuildDate>
     <item>
       <title>The SonicWall Partner Awards: Celebrating Partner Excellence in 2023</title>
       <link>https://www.sonicwall.com/blog/the-sonicwall-partner-awards-celebrating-partner-excellence-in-2023</link>
@@ -273,6 +267,13 @@
       <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</link>
       <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How SonicWall CSE Extends Capture ATP to Remote Users</title>
+      <link>https://www.sonicwall.com/blog/how-sonicwall-cloud-secure-edge-extends-capture-atp-beyond-the-firewall</link>
+      <description>SonicWall CSE's Secure Internet Access capability brings the same Capture ATP file inspection available on your firewall to every device, regardless of location.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-sonicwall-cloud-secure-edge-extends-capture-atp-beyond-the-firewall</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
