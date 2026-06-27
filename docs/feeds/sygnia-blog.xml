@@ -7,6 +7,78 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 02:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:29:58 +0000</lastBuildDate>
+    <item>
+      <title>8 Incident Response Plan Mistakes That Lead to Failures</title>
+      <link>https://www.sygnia.co/blog/incident-response-plan-mistakes/</link>
+      <description>&lt;p&gt;Learn the 8 critical incident response mistakes that leave 73% of organizations unprepared, and how to close the execution gaps that turn manageable cyber incidents into full-scale business crises.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-plan-mistakes/"&gt;8 Incident Response Plan Mistakes That Lead to Failures&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-plan-mistakes/</guid>
+      <pubDate>Tue, 12 May 2026 13:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Appoints Ran Buck as Chief Revenue Officer to Accelerate Global Growth</title>
+      <link>https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/</link>
+      <description>&lt;p&gt;Cyber readiness and response leader expands go-to-market leadership as organizations seek trusted partners across the full lifecycle of cyber incidents&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/"&gt;Sygnia Appoints Ran Buck as Chief Revenue Officer to Accelerate Global Growth&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/</guid>
+      <pubDate>Thu, 14 May 2026 10:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident Response Metrics That Actually Matter to Boards (And the Ones That Don’t)</title>
+      <link>https://www.sygnia.co/blog/incident-response-metrics-that-matter/</link>
+      <description>&lt;p&gt;Learn which incident response metrics boards actually need to make decisions, and which ones create false confidence.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-metrics-that-matter/"&gt;Incident Response Metrics That Actually Matter to Boards (And the Ones That Don&amp;#8217;t)&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-metrics-that-matter/</guid>
+      <pubDate>Wed, 27 May 2026 10:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of Cyber Attacks Affecting OT Organizations</title>
+      <link>https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/</link>
+      <description>&lt;p&gt;Join us for a practical session based on Sygnia’s field experience across dozens of industrial and OT-centric incidents.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/"&gt;The Anatomy of Cyber Attacks Affecting OT Organizations&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/</guid>
+      <pubDate>Tue, 02 Jun 2026 14:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Velvet Ant’s Operation Highland: How a China-Nexus Actor Infiltrated an Internal Network Undetected</title>
+      <link>https://www.sygnia.co/blog/operation-highland-velvet-ant/</link>
+      <description>&lt;p&gt;Discover the detailed forensic investigation by Sygnia into the sophisticated cyber attack by Velvet Ant on a major organization.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/operation-highland-velvet-ant/"&gt;Velvet Ant&amp;#8217;s Operation Highland: How a China-Nexus Actor Infiltrated an Internal Network Undetected&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/operation-highland-velvet-ant/</guid>
+      <pubDate>Mon, 08 Jun 2026 09:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 Gartner® Hype Cycle™ for CPS Security</title>
+      <link>https://www.sygnia.co/guides-and-tools/2026-gartner-hype-cycle-for-cps-security/</link>
+      <description>&lt;p&gt;Gain valuable insights into CPS security innovations, threats, and technology evolution.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/2026-gartner-hype-cycle-for-cps-security/"&gt;2026 Gartner® Hype Cycle™ for CPS Security&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/2026-gartner-hype-cycle-for-cps-security/</guid>
+      <pubDate>Tue, 09 Jun 2026 11:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Crypto Threat Environment 2026</title>
+      <link>https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/</link>
+      <description>&lt;p&gt;Understanding how crypto breaches occur and what separates organizations that contain them from those that suffer catastrophic losses&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/"&gt;The Crypto Threat Environment 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/the-crypto-threat-environment-2026/</guid>
+      <pubDate>Wed, 17 Jun 2026 18:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>83% of Crypto Security Leaders Report Cyberattack Exposure as Sygnia Releases Bybit Investigation Findings</title>
+      <link>https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/</link>
+      <description>&lt;p&gt;Sygnia's investigation into the $1.5 billion Bybit hack reveals how North Korea's Lazarus Group exploited human risk, social engineering, and crypto infrastructure weaknesses to execute the largest crypto theft in history.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/"&gt;83% of Crypto Security Leaders Report Cyberattack Exposure as Sygnia Releases Bybit Investigation Findings&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/bybit-investigation-largest-crypto-heist-lazarus-group/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control</title>
+      <link>https://www.sygnia.co/blog/crypto-security-in-2026/</link>
+      <description>&lt;p&gt;Most crypto breaches occur when attackers reach transaction authority. Learn how to secure identities, infrastructure, and authorization systems.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/crypto-security-in-2026/"&gt;Crypto Security in 2026: Why Transaction Authority Is the Most Important Security Control&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/crypto-security-in-2026/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:48:14 +0000</pubDate>
+    </item>
   </channel>
 </rss>
