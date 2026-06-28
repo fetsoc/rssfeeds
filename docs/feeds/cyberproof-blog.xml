@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 19:08:08 +0000</lastBuildDate>
-    <item>
-      <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
-      <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
-      <description>Cyber security threats are expected to be on the rise with threat actors use a wide range of tactics to “hijack” online shoppers and steal consumer data.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</guid>
-      <pubDate>Thu, 05 Nov 2020 11:35:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Jun 2026 02:44:48 +0000</lastBuildDate>
     <item>
       <title>Microsoft Azure Sentinel SIEM: Multi-tenancy Deployment (Pt.1)</title>
       <link>https://www.cyberproof.com/blog/deploying-microsoft-azure-sentinel-siem-in-a-multi-tenancy-environment-part-1/</link>
@@ -168,6 +161,13 @@
       <description>This Thanksgiving, along with the roasted turkey, take a moment to give thanks for some basic, yet incredible ways cyber health strategies keep us safe.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/5-cyber-health-strategies-we-can-all-be-thankful-for/</guid>
       <pubDate>Thu, 24 Nov 2022 11:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 takeaways from Forrester’s latest privacy report</title>
+      <link>https://www.cyberproof.com/blog/5-takeaways-from-forresters-latest-privacy-report/</link>
+      <description>Forrester released a report that provides insight into cybersecurity challenges, priorities &amp; trends &amp; how they are having an impact on security leaders.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/5-takeaways-from-forresters-latest-privacy-report/</guid>
+      <pubDate>Mon, 28 Nov 2022 14:20:07 +0000</pubDate>
     </item>
     <item>
       <title>The real cost of stolen data</title>
