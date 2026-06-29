@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 10:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:40:06 +0000</lastBuildDate>
     <item>
       <title>Vulnerabilities in BMC Firmware Affect OT/IoT Device Security – Part 2</title>
       <link>https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2</link>
@@ -79,6 +79,12 @@
       <link>https://www.nozominetworks.com/blog/perspectives-early-lead-in-filling-global-ot-security-demand</link>
       <description>OT security is a top priority and buyers are demanding IT/OT converged solutions. Find out why Nozomi Networks is the preferred OT security solution.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/perspectives-early-lead-in-filling-global-ot-security-demand</guid>
+    </item>
+    <item>
+      <title>Nozomi Threat Intelligence: Now with AI-powered Threat Detection to Stop Emerging Threats</title>
+      <link>https://www.nozominetworks.com/blog/nozomi-threat-intelligence-now-with-ai-powered-threat-detection-to-stop-emerging-threats</link>
+      <description>As adversaries use AI to detect and weaponize vulnerabilities in mere hours, defenders must supplement threat intelligence with AI-powered detection of emerging threats before signatures are available.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/nozomi-threat-intelligence-now-with-ai-powered-threat-detection-to-stop-emerging-threats</guid>
     </item>
     <item>
       <title>Nozomi Networks Labs Takes on the Armasuisse ICS and Automotive Hackathons</title>
