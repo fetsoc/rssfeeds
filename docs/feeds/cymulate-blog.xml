@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 02:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:26:44 +0000</lastBuildDate>
+    <item>
+      <title>Remote Working and Cybersecurity Risk</title>
+      <link>https://cymulate.com/blog/cyber-risk-remote-work/</link>
+      <description>Remote work has a great number of benefits, but also comes with significant cybersecurity issues that should be addressed.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/cyber-risk-remote-work/</guid>
+    </item>
     <item>
       <title>How Cymulate Assists With ISO 27001 Certification and Compliance</title>
       <link>https://cymulate.com/blog/cymulate-assists-iso-27001-certification-compliance/</link>
@@ -19,12 +25,6 @@
       <link>https://cymulate.com/blog/email-gateway-attack-simulation/</link>
       <description>What is an email gateway attack simulation? How is that different from phishing testing?” Both are good questions, let’s have a look.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/email-gateway-attack-simulation/</guid>
-    </item>
-    <item>
-      <title>Cyberattacks Are Evolving - BAS Technology Is the Answer</title>
-      <link>https://cymulate.com/blog/cyberattacks-are-evolving-and-so-does-cybersecurity-technology/</link>
-      <description>BAS technology is the latest response to cyberattacks that are becoming more sophisticated. Switch from a reactive to a proactive approach.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyberattacks-are-evolving-and-so-does-cybersecurity-technology/</guid>
     </item>
     <item>
       <title>ChatGPT and Data Leakage: The Hidden Risks of AI-Powered Conversations</title>
