@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 19:07:11 +0000</lastBuildDate>
-    <item>
-      <title>Dark Web Threat Actor Trend Report, April 2026</title>
-      <link>https://asec.ahnlab.com/en/93634/</link>
-      <description>Notes the April 2026 Dark Web Threat Actor Trend Report summarizes trends in hacktivists and threat actors operating on the deep web and dark web. due to the nature of the sources, some of the information is difficult to fully verify as factual. Major Issues NoName05716 claimed repeated DDoS attacks against dozens of organizations, including [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93634/</guid>
-      <pubDate>Sun, 10 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 02:45:50 +0000</lastBuildDate>
     <item>
       <title>April 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/93633/</link>
@@ -79,17 +72,17 @@
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
-      <link>https://asec.ahnlab.com/en/93932/</link>
-      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
       <link>https://asec.ahnlab.com/en/93803/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
+      <link>https://asec.ahnlab.com/en/93932/</link>
+      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -210,6 +203,13 @@
       <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected during the month of May 2026, the number of affected systems, statistics on targeted businesses, and major Korean &amp;#038; Global ransomware issues. Statistics on samples and affected systems are based on AhnLab’s detection names, while statistics on targeted businesses are aggregated based [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94185/</guid>
       <pubDate>Thu, 18 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Threat Trend Report on APT Attacks (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/94271/</link>
+      <description>Overview AhnLab monitored APT (Advanced Persistent Threat) attacks—covert, sustained targeted attacks—using its own infrastructure. This report summarizes the types and statistics on domestic APT attacks identified during the month of May 2026 and discusses the characteristics of each type as well as AhnLab Response Overview. Trends of APT Attacks in South Korea Most of the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94271/</guid>
+      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 4, June 2026</title>
