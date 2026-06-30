@@ -7,6 +7,711 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 20:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:39:58 +0000</lastBuildDate>
+    <item>
+      <title>CVE-2025-58034</title>
+      <link>https://attackerkb.com/assessments/c67a510c-5ac5-43a7-affd-7b7655c4b62f</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5
+
+Based on writing the Rapid7 Analysis, I have rated the exploitability as Very High, as exploitation is trivial and reliable. The Attacker Value is High as you do need an auth bypass to chain to (or other valid admin credentials).&#13;
+&#13;
+While this is authenticated, the auth bypass vulnerability CVE-2025-64446 can be used to create a new local administrator account, making chaining CVE-2025-64446 + CVE-2025-58034 equivalent to unauthenticated RCE.</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/c67a510c-5ac5-43a7-affd-7b7655c4b62f</guid>
+      <pubDate>Wed, 19 Nov 2025 19:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-64446</title>
+      <link>https://attackerkb.com/assessments/250f9ee0-9dde-4922-b731-e35b03ab311c</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
+
+CVE-2025-64446 — LAB-SAFE Proof of Concept  &#13;
+Author: nu11secur1ty  &#13;
+Status: LAB-SAFE / NON-EXPLOITABLE  &#13;
+Purpose: Research, Education &amp; Vendor Reporting Only  &#13;
+&#13;
+---&#13;
+&#13;
+ 🔒 IMPORTANT NOTICE  &#13;
+This README accompanies a LAB‑SAFE, non‑harmful, sanitized PoC designed exclusively for:  &#13;
+- Security research  &#13;
+- Vendor coordination  &#13;
+- Documentation  &#13;
+- Demonstration of non-sensitive behavior&#13;
+&#13;
+All dangerous exploitation steps, privilege‑escalation mechanics, auth‑bypass logic, and sensitive payloads are removed or neutralized to comply with safety and legal guidelines.&#13;
+&#13;
+---&#13;
+&#13;
+ 📌 CVE Desc…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/250f9ee0-9dde-4922-b731-e35b03ab311c</guid>
+      <pubDate>Mon, 24 Nov 2025 10:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2020-2555</title>
+      <link>https://attackerkb.com/assessments/88b29a33-35df-4ca0-85de-db9eb9ca956e</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
+
+Attack Vector&#13;
+- Protocol: T3&#13;
+- Authentication: Not Required&#13;
+- Complexity: Low&#13;
+- Impact: Full System Compromise&#13;
+&#13;
+ Impact&#13;
+&#13;
+- Remote code execution with WebLogic server privileges&#13;
+- Complete system access&#13;
+- Potential domain compromise&#13;
+- Data exfiltration capabilities&#13;
+&#13;
+ Detection&#13;
+&#13;
+Organizations can detect exploitation attempts by monitoring for:&#13;
+- Unusual T3 protocol traffic patterns&#13;
+- Suspicious deserialization events in WebLogic logs&#13;
+- Unexpected process execution from WebLogic JVM&#13;
+&#13;
+ Mitigation&#13;
+&#13;
+ Immediate Actions&#13;
+1. Apply latest Oracle Critical Patch Updates&#13;
+2. Restrict …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/88b29a33-35df-4ca0-85de-db9eb9ca956e</guid>
+      <pubDate>Fri, 28 Nov 2025 22:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-59287</title>
+      <link>https://attackerkb.com/assessments/777017b2-e9b8-4ce7-910f-e1e0855c1ce4</link>
+      <description>Attacker Value: 5/5 | Exploitability: 4/5
+
+In October 2025, Microsoft released a patch for a deserialization vulnerability in Windows Server Update Service (WSUS). WSUS is a centralized Microsoft update distribution service for administrators. The vulnerability allows an unauthenticated attacker to send a request with a deserialized malicious payload, which can reach the vulnerable soapFormatter. The vulnerability can be exploited by a series of requests to WSUS, where the malicious payload is contained in the AuthorizationCookie vulnerability. The vulnerable soapFormatter can be reached by sending a request to /ReportingWebService/Rep…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/777017b2-e9b8-4ce7-910f-e1e0855c1ce4</guid>
+      <pubDate>Thu, 04 Dec 2025 14:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-55182</title>
+      <link>https://attackerkb.com/assessments/0a808ee6-5df2-443a-a634-813dc0946305</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5
+
+Unauthenticated RCE which affects React applications that support React Server Components, and affects multiple downstream frameworks such as Next.js. A target is exploitable in a default configuration if the application supports React Server Components, and even if the application does not explicitly implement any React Server Function endpoints. The vulnerability was originally discovered by Lachlan Davidson, and has been dubbed React2Shell by the finder.&#13;
+&#13;
+While multiple non-viable PoC's were posted shortly after public disclosure on December 3, a validated RCE PoC was posted by maple3142 …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/0a808ee6-5df2-443a-a634-813dc0946305</guid>
+      <pubDate>Fri, 05 Dec 2025 08:52:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 33512c9d</title>
+      <link>https://attackerkb.com/assessments/33512c9d-361d-4b94-9fc5-a185b100e77b</link>
+      <description>Attacker Value: 5/5 | Exploitability: 2/5
+
+Pros:&#13;
+&#13;
+- Gains RCE&#13;
+&#13;
+Cons:&#13;
+&#13;
+- Requires minimagick set as image processor in Active Storage configuration&#13;
+- Requires the application send untrusted user input in transformation method or its arguments</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/33512c9d-361d-4b94-9fc5-a185b100e77b</guid>
+      <pubDate>Mon, 15 Dec 2025 17:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-59718</title>
+      <link>https://attackerkb.com/assessments/a650bbfe-adc4-427f-aec0-0e0ca5a914cf</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+CVE-2025-59718 and CVE-2025-59719 are Improper Verification of Cryptographic Signature vulnerabilities affecting several popular Fortinet products. The affected systems are vulnerable in a non-default configuration. However, Fortinet's advisory notes that the vulnerable configuration is enabled "when an administrator registers the device to FortiCare from the device's GUI", if the administrator doesn't specifically opt out. As such, the vulnerable configuration may be default, depending on how the device is set up. &#13;
+&#13;
+Since the vulnerable configuration is ambiguous, and since exploitation in …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/a650bbfe-adc4-427f-aec0-0e0ca5a914cf</guid>
+      <pubDate>Wed, 17 Dec 2025 22:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-59718</title>
+      <link>https://attackerkb.com/assessments/b1d20c07-db7d-41d0-a688-9ffa9e7c584b</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+CVE-2025-59718 and CVE-2025-59719 are Improper Verification of Cryptographic Signature vulnerabilities affecting several popular Fortinet products. The affected systems are vulnerable in a non-default configuration. However, Fortinet's advisory notes that the vulnerable configuration is enabled "when an administrator registers the device to FortiCare from the device's GUI", if the administrator doesn't specifically opt out. As such, the vulnerable configuration may be default, depending on how the device is set up. &#13;
+&#13;
+Since the vulnerable configuration is ambiguous, and since exploitation of …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b1d20c07-db7d-41d0-a688-9ffa9e7c584b</guid>
+      <pubDate>Wed, 17 Dec 2025 22:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-37164</title>
+      <link>https://attackerkb.com/assessments/a3d628a3-1f3a-432b-bb86-56fe792d2ce9</link>
+      <description>Attacker Value: 4/5 | Exploitability: 4/5 | MITRE: Initial Access
+
+On December 16, 2025, Hewlett Packard Enterprise (HPE) published an advisory for CVE-2025-37164, a CVSS 10.0 vulnerability affecting HPE OneView. The vulnerability, which was reported to HPE by security researcher Nguyen Quoc Khanh, facilitates unauthenticated remote code execution on versions of HPE OneView before 11.0. For more information about the product and advisory, read the Rapid7 Blog.&#13;
+&#13;
+Exploitation against vulnerable instances is straightforward, requiring only a single unauthenticated web request to run arbitrary commands. I've rated &#13;
+'Attacker Value' as 'High', since HPE OneView…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/a3d628a3-1f3a-432b-bb86-56fe792d2ce9</guid>
+      <pubDate>Thu, 18 Dec 2025 20:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-14847</title>
+      <link>https://attackerkb.com/assessments/5191f8b2-9706-4d98-b623-d6c7d8f2be11</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5
+
+CVE-2025-14847 is a remote memory disclosure vulnerability in MongoDB. It allows an unauthenticated attacker to leak the server's heap memory by exploiting the interaction between the OPCOMPRESSED wire protocol message and the BSON parser. The mechanism is functionally similar to "Heartbleed" but specific to MongoDB's handling of compressed data buffers.&#13;
+&#13;
+The vulnerability relies on the server trusting the client's declared uncompressedsize without proper initialization of the allocated memory.&#13;
+&#13;
+Based on the analysis of  a few public POCs: The attacker sends a compressed message (using zli…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/5191f8b2-9706-4d98-b623-d6c7d8f2be11</guid>
+      <pubDate>Mon, 29 Dec 2025 08:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 5c94319d</title>
+      <link>https://attackerkb.com/assessments/5c94319d-044c-484b-b0e3-6bbec52f27d6</link>
+      <description>Attacker Value: 4/5 | Exploitability: 4/5
+
+</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/5c94319d-044c-484b-b0e3-6bbec52f27d6</guid>
+      <pubDate>Sat, 03 Jan 2026 13:24:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-21858</title>
+      <link>https://attackerkb.com/assessments/f061002c-5eae-42e5-959e-77c3823fe68d</link>
+      <description>Attacker Value: 4/5 | Exploitability: 2/5 | MITRE: Initial Access
+
+On November 18, 2025, a patched release was published for a critical unauthenticated file read vulnerability in n8n, a popular piece of automation software. The advisory for this vulnerability, CVE-2026-21858, was subsequently published on January 7, 2026; the vulnerability holds a CVSS score of 10.0. If a server has a custom configured web form that implements file uploads with no validation of content type, an attacker can overwrite an internal JSON object to read arbitrary files and gain administrator access to n8n. In some cases, exploitation will result in remote code execution on the und…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/f061002c-5eae-42e5-959e-77c3823fe68d</guid>
+      <pubDate>Thu, 08 Jan 2026 21:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-22224</title>
+      <link>https://attackerkb.com/assessments/2736ea67-b215-4ed5-b593-3268471a6bb7</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Privilege Escalation
+
+CVE-2025-22224 is an out-of-bounds write in Broadcom VMware ESXi and Workstation, a desirable type of bug attackers use to escape from a virtualized execution context and take over the underlying VMware cluster host. The official advisory for the vulnerability was first published on March 4, 2025, along with advisories for an information leak vulnerability and a sandbox escape vulnerability; all three vulnerabilities were designated to have been observed being leveraged in the wild as zero-day exploits.&#13;
+&#13;
+On January 7, 2026, the security firm Huntress published an excellent technical analysis…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/2736ea67-b215-4ed5-b593-3268471a6bb7</guid>
+      <pubDate>Tue, 13 Jan 2026 01:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-22225</title>
+      <link>https://attackerkb.com/assessments/343a384f-ed08-4f33-b6df-f18fe9f4a11b</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5 | MITRE: Privilege Escalation
+
+CVE-2025-22225 is an arbitrary write vulnerability in Broadcom VMware ESXi and Workstation that can be used for sandbox escape. This bug is a desirable type of vulnerability that attackers can exploit in a chain to assist with escaping from a virtualized execution context and taking over the underlying VMware cluster host. The official advisory for the vulnerability was first published on March 4, 2025, along with advisories for an ASLR information leak vulnerability and a TOCTOU out-of-bounds write vulnerability; all three vulnerabilities were designated to have been observed being leveraged …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/343a384f-ed08-4f33-b6df-f18fe9f4a11b</guid>
+      <pubDate>Tue, 13 Jan 2026 01:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-22226</title>
+      <link>https://attackerkb.com/assessments/32334f78-5c6d-4d74-b8d0-e008f3eb4b1e</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Privilege Escalation
+
+CVE-2025-22226 is an information leak in Broadcom VMware ESXi and Workstation that can be used to defeat the ASLR exploit mitigation. This bug is a desirable type of vulnerability that attackers can exploit in a chain to assist with escaping from a virtualized execution context and taking over the underlying VMware cluster host. The official advisory for the vulnerability was first published on March 4, 2025, along with advisories for a TOCTOU out-of-bounds write vulnerability and a sandbox escape write vulnerability; all three vulnerabilities were designated to have been observed being levera…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/32334f78-5c6d-4d74-b8d0-e008f3eb4b1e</guid>
+      <pubDate>Tue, 13 Jan 2026 01:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-52547</title>
+      <link>https://attackerkb.com/assessments/cdf2788e-efe5-4f2b-9cf6-92f7dbf67ea4</link>
+      <description>Attacker Value: 5/5 | Exploitability: 4/5
+
+The vulnerability represents a weakness in the device's kernel-level code signing enforcement mechanism. Despite having a CVSS score of 6.7 (Medium) due to requiring local high-privilege access, when combined with CVE-2024-52547's command execution capability, it enables complete arbitrary code execution. &#13;
+&#13;
+The Lorex camera implements kernel-level code signing enforcement using files named SigFilePartition, SigFileList, and DataSignature distributed across the filesystem. These files contain lists of protected paths and corresponding cryptographic signatures, preventing the execution of unsi…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/cdf2788e-efe5-4f2b-9cf6-92f7dbf67ea4</guid>
+      <pubDate>Tue, 13 Jan 2026 10:17:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-52548</title>
+      <link>https://attackerkb.com/assessments/fd15bbe9-6551-47e6-87d9-0773820a1dde</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5
+
+The vulnerability exists in the DHIP service over TCP port 80 and affects the configManager.getConfig command handler. With a CVSS score of 7.2 (High), it reflects the significant impact achievable by an authenticated attacker. Lorex remediated this vulnerability in their November 25, 2024 firmware update.&#13;
+&#13;
+The vulnerability occurs in a filter function processing configManager.getConfig requests. When processing the "name" parameter, the function searches for a period character and calculates the string length up to that character. This length is used in a strncpy call to copy the name into …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/fd15bbe9-6551-47e6-87d9-0773820a1dde</guid>
+      <pubDate>Tue, 13 Jan 2026 10:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-52544</title>
+      <link>https://attackerkb.com/assessments/cae49a36-bafb-413e-9aa1-80252280b66c</link>
+      <description>Attacker Value: 2/5 | Exploitability: 3/5
+
+The vulnerability exists in the MulticastaccessInit function, exposed via the DevInit.access command on the DHIP service. This function expects a JSON object containing a "name" string and a "pwd" string. While the code validates that the "name" item is a string type (checking nodetype &amp; 0x10), it fails to perform the same validation on the "pwd" item. The code then passes pwditem-valuestr directly to strncpy. If an attacker provides a non-string type for "pwd" (such as a number), the JSON parsing library stores the value in a different member variable, leaving valuestr as null. This results i…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/cae49a36-bafb-413e-9aa1-80252280b66c</guid>
+      <pubDate>Tue, 13 Jan 2026 10:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-52544</title>
+      <link>https://attackerkb.com/assessments/2d494567-67e1-41ff-be1c-8d57a4ec67c5</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5
+
+The flaw exists in the IQ (Image Quality) service, which normally does not run by default but can be activated by exploiting CVE-2024-52544. The vulnerability received a CVSS score of 6.5 (Medium), acknowledging that while exploitation requires specific conditions, successful exploitation leads to significant information disclosure.&#13;
+&#13;
+The IQ Service uses a custom binary protocol on TCP port 9876. The function MIIQSERVERGetApi handles command ID 6 and reads a 16-bit maxword value from attacker-controlled input data. This value directly controls the output buffer's currlength field via the calc…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/2d494567-67e1-41ff-be1c-8d57a4ec67c5</guid>
+      <pubDate>Tue, 13 Jan 2026 10:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-52545</title>
+      <link>https://attackerkb.com/assessments/54fdc2fb-de98-4d3d-b0a8-dab8809846ee</link>
+      <description>Attacker Value: 4/5 | Exploitability: 4/5
+
+The vulnerability resides in the DP Service listening on TCP port 3500. The login handler function processes authentication requests containing username and password fields delimited by double ampersands ("&amp;&amp;"). Neither field is length-validated before being copied via memcpy into fixed 128-byte stack buffers. An attacker can supply an oversized username or password value to overflow the stack buffer, overwriting the saved return address. Although the non-PIE binary allows predictable code addresses, all addresses contain null bytes (0x00XXXXXX), and full ASLR is enabled. The exploit overcomes…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/54fdc2fb-de98-4d3d-b0a8-dab8809846ee</guid>
+      <pubDate>Tue, 13 Jan 2026 10:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-6235</title>
+      <link>https://attackerkb.com/assessments/9df5c09e-8280-4b8c-a87f-e150926de5e7</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5
+
+This vulnerability was discovered by Rapid7, during root cause analysis of a separate vulnerability (CVE-2024-6235) in Citrix NetScaler Console. NetScaler Console is an enterprise policy management platform frequently deployed at network edges, making it an attractive target for ransomware operators and advanced threat actors. The vulnerability affects NetScaler Console and NetScaler SDX versions 14.1 before 14.1.47.46 and 13.1 before 13.1.58.32.&#13;
+&#13;
+The vulnerability exists in the NetScaler Console download API at the /nitro/v1/download endpoint. The API supports an alternative usage pattern w…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/9df5c09e-8280-4b8c-a87f-e150926de5e7</guid>
+      <pubDate>Tue, 13 Jan 2026 10:42:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-12284</title>
+      <link>https://attackerkb.com/assessments/29f57260-dbd9-4fe0-ab42-76f18d7eb9ee</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5
+
+This vulnerability was also discovered by Rapid7 during analysis of the NetScaler Console platform. Initially, Citrix indicated the issue was already fixed in their latest version and declined to assign a CVE. However, after further investigation in June 2025, the vendor determined the vulnerability is identified as CVE-2024-12284. It affects NetScaler Console and NetScaler Agent versions 14.1 before 14.1-38.53 and 13.1 before 13.1-56.18.&#13;
+&#13;
+The vulnerability is a classic ZipSlip attack targeting the StyleBook import functionality. The StyleBook API, a Python microservice, allows administrator…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/29f57260-dbd9-4fe0-ab42-76f18d7eb9ee</guid>
+      <pubDate>Tue, 13 Jan 2026 10:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2024-55591</title>
+      <link>https://attackerkb.com/assessments/6ef2a59e-244c-4a79-aa0e-f20cd254d364</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+CVE-2024-55591 is a critical severity authentication bypass affecting FortiOS and FortiProxy, facilitating full administrator-level control of the device with no existing level of access. The vulnerability's official advisory was published on January 14, 2025. At the time of publication, the vulnerability was being exploited in the wild, per a zero-day exploitation report by Arctic Wolf. Subsequently, security firm watchTowr published an excellent technical analysis of the vulnerability, which outlines the details of exploitation.&#13;
+&#13;
+The vulnerability is a complex one, encompassing a WebSocket…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/6ef2a59e-244c-4a79-aa0e-f20cd254d364</guid>
+      <pubDate>Wed, 14 Jan 2026 05:45:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 4005a3f2</title>
+      <link>https://attackerkb.com/assessments/4005a3f2-eb8e-4aa5-8832-91761382bc9d</link>
+      <description>MITRE: Initial Access
+
+This vulnerability allows scripting commands to load from SharePoint servers and one drive, when signing into OneDrive the malicious software will load onto the computer during sync operations and land as a vault executable. This vulnerability allows modifying of files and photos and is the attack entry point for creating  a shadow account which then allows authorization for multiple sign ins and unauthorized access to bookmarks, history and credentials. They create scripts and save their commands and scripts inside of SharePoint and use graph connections to control AI services, which they can…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/4005a3f2-eb8e-4aa5-8832-91761382bc9d</guid>
+      <pubDate>Wed, 21 Jan 2026 11:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 5c791ddf</title>
+      <link>https://attackerkb.com/assessments/5c791ddf-b17c-478b-9873-42da3aa2ac90</link>
+      <description>Attacker Value: 2/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+Summary&#13;
+&#13;
+Out of the box, MCPJam runs without auth disabled and on 0.0.0.0, and local auth is not available; it has to be configured to auth to MCPJams servers (https://login.mcpjam.com/)&#13;
+&#13;
+The patch only changes the default listener to run only on localhost, not on 0.0.0.0, meaning that if the user chooses to make it available on all interfaces, it will still be vulnerable.  &#13;
+&#13;
+If adding optional Auth in testing on the latest version the RCE is still achievable without needing auth. Auth appears to be for Cloud Sync of Secrets only not protecting access to the tool or the endpoints. &#13;
+&#13;
+ R…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/5c791ddf-b17c-478b-9873-42da3aa2ac90</guid>
+      <pubDate>Wed, 21 Jan 2026 14:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-1731</title>
+      <link>https://attackerkb.com/assessments/6f193997-3c53-4328-aec1-4120169d18cb</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+On February 6, 2026, BeyondTrust released security advisory BT26-02, disclosing a critical remote code execution vulnerability affecting its Remote Support (RS) and Privileged Remote Access (PRA) products. Reported by Hacktron AI researchers and assigned CVE-2026-1731, exploitation allows unauthenticated, remote attackers to execute arbitrary operating system commands in the context of the site user by sending specially crafted requests. The vulnerability affects Remote Support (RS) versions 25.3.1 and prior, as well as Privileged Remote Access (PRA) versions 24.3.4 and prior. &#13;
+&#13;
+While Beyond…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/6f193997-3c53-4328-aec1-4120169d18cb</guid>
+      <pubDate>Mon, 09 Feb 2026 19:29:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-1281</title>
+      <link>https://attackerkb.com/assessments/d08df0ef-7724-43d2-a20d-5f693f0fbc5a</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+CVE-2026-1281 and CVE-2026-1340 are two very similar critical vulnerabilities affecting Ivanti Endpoint Manager Mobile (EPMM) that were announced on January 29, 2026. The impact of exploitation of the vulnerabilities is unauthenticated root-level remote code execution on a sensitive mobile device endpoint management system, making these bugs valuable to attackers; an attacker that compromises EPMM would typically gain access to a wealth of PII collected from joined mobile endpoints, along with a privileged position over the devices themselves. Notably, at the time of disclosure, Ivanti advised…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/d08df0ef-7724-43d2-a20d-5f693f0fbc5a</guid>
+      <pubDate>Tue, 10 Feb 2026 15:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-1340</title>
+      <link>https://attackerkb.com/assessments/6e8a9b9f-3152-4d71-a1dc-b9f5fb3f5d34</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+CVE-2026-1340 and CVE-2026-1281 are two very similar critical vulnerabilities affecting Ivanti Endpoint Manager Mobile (EPMM) that were announced on January 29, 2026. The impact of exploitation of the vulnerabilities is unauthenticated root-level remote code execution on a sensitive mobile device endpoint management system, making these bugs valuable to attackers; an attacker that compromises EPMM would typically gain access to a wealth of PII collected from joined mobile endpoints, along with a privileged position over the devices themselves. Notably, at the time of disclosure, Ivanti advised…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/6e8a9b9f-3152-4d71-a1dc-b9f5fb3f5d34</guid>
+      <pubDate>Tue, 10 Feb 2026 15:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-40551</title>
+      <link>https://attackerkb.com/assessments/01f60326-9914-4649-aecc-99cc5be5088b</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+CVE-2025-40551 is one of four critical vulnerabilities affecting SolarWinds Web Help Desk that were patched on January 28, 2026.  The vulnerability, which was reported to SolarWinds by Jimi Sebree of Horizon3.ai, is an unsafe deserialization bug, and it facilitates unauthenticated remote code execution on affected Web Help Desk systems. The issue is a patch bypass for a vulnerability that had two prior patch bypasses - CVE-2024-28986, a deserialization security flaw in the AjaxProxy component. This vulnerability, along with patch bypasses, have been added to the CISA KEV catalog.&#13;
+&#13;
+CVE-2025-4…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/01f60326-9914-4649-aecc-99cc5be5088b</guid>
+      <pubDate>Wed, 11 Feb 2026 16:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20127</title>
+      <link>https://attackerkb.com/assessments/beb82649-72ac-41b6-8951-ba28daf1533d</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Impact
+
+CVE-2026-20127 is a critical authentication bypass vulnerability affecting Cisco Catalyst SD‑WAN Controller and Cisco Catalyst SD‑WAN Manager that was patched on February 25, 2026. The vulnerability was originally identified and reported to Cisco by Australian Signals Directorate's Australian Cyber Security Centre as being exploited in the wild. This vulnerability, has been added to the CISA KEV catalog&#13;
+&#13;
+CVE-2026-20127 is an authentication bypass vulnerability affecting Cisco Catalyst SD-WAN Controller and Manager systems. Exploitation allows a remote, unauthenticated attacker to submit spec…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/beb82649-72ac-41b6-8951-ba28daf1533d</guid>
+      <pubDate>Thu, 26 Feb 2026 18:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-28209</title>
+      <link>https://attackerkb.com/assessments/5e8bfd10-1655-4345-80fc-860ce607acdc</link>
+      <description>Attacker Value: 4/5 | Exploitability: 4/5 | MITRE: Execution
+
+A command injection vulnerability exists in FreePBX when using the ElevenLabs Text-to-Speech (TTS) engine. User-controlled input is passed unsanitized to a shell command executed via exec(), allowing authenticated attackers to achieve remote code execution (RCE) on the FreePBX server.&#13;
+The vulnerability can be triggered via an AJAX endpoint in the System Recordings module and affects users with access to the recordings functionality.&#13;
+&#13;
+Affected Product&#13;
+ Product: FreePBX&#13;
+ Module: System Recordings&#13;
+ Driver: ElevenLabs TTS&#13;
+ File:  admin/modules/recordings/drivers/Elevenlabs.php&#13;
+ Function:  …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/5e8bfd10-1655-4345-80fc-860ce607acdc</guid>
+      <pubDate>Fri, 13 Mar 2026 21:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-28287</title>
+      <link>https://attackerkb.com/assessments/5d0cad49-e4f2-4ff2-801f-9cc7bc18947d</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Execution
+
+A command injection vulnerability exists in FreePBX.&#13;
+User-controlled input is passed unsanitized to a shell command executed via exec(), allowing authenticated attackers to achieve remote code execution (RCE) on the FreePBX server. The vulnerability can be triggered via an AJAX endpoint in the System Recordings module and affects users with access to the recordings functionality.&#13;
+&#13;
+Affected Products&#13;
+ Product: FreePBX&#13;
+ Module: System Recordings&#13;
+ File:  admin/modules/recordings/Recordings.class.php&#13;
+ Function:  function fixeRIFF($filename)&#13;
+&#13;
+Tested Versions&#13;
+ FreePBX 17.0.24&#13;
+ FreePBX 17.0…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/5d0cad49-e4f2-4ff2-801f-9cc7bc18947d</guid>
+      <pubDate>Sat, 14 Mar 2026 09:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-3055</title>
+      <link>https://attackerkb.com/assessments/96b6c39a-8c1f-4434-ac7c-c391451f6570</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5 | MITRE: Initial Access
+
+On March 23, 2026, Citrix published a security advisory for a critical vulnerability affecting their NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) products. This vulnerability, CVE-2026-3055, which is classified as an out-of-bounds read and holds a CVSS score of 9.3, allows unauthenticated remote attackers to leak potentially sensitive information from the appliance's memory. The Citrix advisory states that systems configured as a SAML Identity Provider (SAML IDP) are vulnerable, whereas default configurations are unaffected.&#13;
+&#13;
+As of the advisory’s public…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/96b6c39a-8c1f-4434-ac7c-c391451f6570</guid>
+      <pubDate>Tue, 24 Mar 2026 17:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-3055</title>
+      <link>https://attackerkb.com/assessments/08504ef9-4df4-4807-bd4a-5d494cdae1ef</link>
+      <description>MITRE: Initial Access
+
+CVE-2026-3055 — Detection &amp; Recon Analysis&#13;
+---&#13;
+&#13;
+ 1. Executive summary&#13;
+&#13;
+| Aspect | Assessment |&#13;
+|--------|------------|&#13;
+| Purpose | Identify NetScaler ADC/Gateway surfaces that expose SAML/WS-Federation–related HTTP endpoints and return content consistent with Citrix IdP/federation behavior. |&#13;
+| CVE linkage | Template metadata maps to CVE-2026-3055, CWE-125, Citrix bulletin CTX696300, and a CVSS 4.0 score of 9.3 per embedded classification. |&#13;
+| What is proven | Exposure and configuration class (reachable endpoints + response shape). |&#13;
+| What is not proven | Exploitability, memory disc…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/08504ef9-4df4-4807-bd4a-5d494cdae1ef</guid>
+      <pubDate>Sat, 28 Mar 2026 17:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-33032</title>
+      <link>https://attackerkb.com/assessments/6d026fd1-d067-4060-8fde-11bf5c6acfd5</link>
+      <description>Attacker Value: 4/5 | Exploitability: 3/5 | MITRE: Initial Access
+
+CVE-2026-33032 is a missing authentication bug affecting the 'Nginx UI' 3rd-party management tool for the Nginx web server; as a result of missing authentication controls, an unauthenticated attacker who exploits CVE-2026-27944 to leak backup information can access a Model Context Protocol (MCP) server that can perform privileged operations on managed Nginx web servers. Systems are vulnerable in the default IP allowlist configuration, which allows any remote IP to access MCP functionality. Exploitation of both vulnerabilities results in full attacker control of the managed Nginx service. &#13;
+&#13;
+T…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/6d026fd1-d067-4060-8fde-11bf5c6acfd5</guid>
+      <pubDate>Tue, 21 Apr 2026 03:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41940</title>
+      <link>https://attackerkb.com/assessments/7f5d684f-adb4-453b-a82f-85a97848e5cf</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+On April 28, 2026, cPanel issued a security update to fix a critical vulnerability affecting the cPanel &amp; WHM and WP Squared products. CVE-2026-41940, the identifier subsequently assigned on April 29, 2026, has a CVSS score of 9.8. Exploitation permits unauthenticated remote attackers to bypass authentication and gain unauthorized administrative access to the affected systems. &#13;
+&#13;
+cPanel &amp; WHM is web hosting control panel software used to manage websites and servers. WHM provides root-level administration, while cPanel acts as the user-facing interface. Successful exploitation of CVE-2026-4194…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/7f5d684f-adb4-453b-a82f-85a97848e5cf</guid>
+      <pubDate>Wed, 29 Apr 2026 20:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment d02266f3</title>
+      <link>https://attackerkb.com/assessments/d02266f3-1379-44e1-8a86-784db6e7b39c</link>
+      <description>Attacker Value: 3/5 | Exploitability: 4/5
+
+As we can see patch diffing, the vulnerability is in the error message display on the oauth/oob endpoint. While dorking I found the payload that was exposed by mistake:&#13;
+&#13;
+&#13;
+http://localhost:8080/auth/realms/master/protocol/openid-connect/oauth/oob?error=%3Ca%20href=%22javascript%26%00colon;alert(document.domain)%22%3EReturn%20to%20application%3C/a%3E&#13;
+&#13;
+&#13;
+More payloads can be extracted from the patch test suite at services/src/test/java/org/keycloak/theme/KeycloakSanitizerTest.java.</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/d02266f3-1379-44e1-8a86-784db6e7b39c</guid>
+      <pubDate>Wed, 06 May 2026 14:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2014-7235</title>
+      <link>https://attackerkb.com/assessments/4f2b440a-3883-4b8f-99b5-f75a08d80195</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Execution
+
+An authenticated remote code execution (RCE) vulnerability exists in the FreePBX Backup &amp; Restore module due to unsafe use of PHP’s unserialize() function on attacker-controlled data contained within a backup archive.&#13;
+A low-privileged authenticated user with backup/restore permissions can upload a crafted backup file containing a malicious manifest file, resulting in arbitrary code execution on the FreePBX server.&#13;
+&#13;
+ Attack prerequisites&#13;
+ Valid authenticated FreePBX user account&#13;
+ Backup &amp; Restore module enabled&#13;
+ User has either:&#13;
+   Backup &amp; Restore permission, or&#13;
+   Restore-only permiss…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/4f2b440a-3883-4b8f-99b5-f75a08d80195</guid>
+      <pubDate>Sun, 24 May 2026 19:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41679</title>
+      <link>https://attackerkb.com/assessments/1ff7fe81-9ca7-4362-97cc-9d14c9ed26c9</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
+
+Paperclip is an open-source platform for managing and coordinating teams of AI agents. &#13;
+In practical terms, Paperclip is a Node.js server with a web UI that lets you create an AI "company" consisting of multiple agents (CEO, CTO, developers, researchers, marketers, etc.), assign goals, track work, enforce budgets, and review decisions&#13;
+&#13;
+This vulnerability, with a CVE rating of 10, allows an unauthenticated attacker to take over a Paperclip server with only six API calls.&#13;
+The full chain is described in this Github advisory.&#13;
+&#13;
+I have submitted a Metasploit module that fully automates this at…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/1ff7fe81-9ca7-4362-97cc-9d14c9ed26c9</guid>
+      <pubDate>Sun, 07 Jun 2026 11:30:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment b2d36809</title>
+      <link>https://attackerkb.com/assessments/b2d36809-3cec-435a-beca-e1b03211a456</link>
+      <description>Exploitability: 5/5 | MITRE: Initial Access
+
+✔ Verificado con las advertencias de 58&#13;
+Sistemas de firmas: v1, v2&#13;
+&#13;
+Signer Certificate&#13;
+Asunto: CN=Swish,OU=ITC,O=InMobi pvt. ltd.,L=Bangalore,ST=Karnataka,C=91&#13;
+Emisor: CN=Swish,OU=ITC,O=InMobi pvt. ltd.,L=Bangalore,ST=Karnataka,C=91&#13;
+Fecha de emisión: Fri Jul 23 09:04:44 EST 2021&#13;
+Fecha de caducidad: Sun Jun 29 09:04:44 EST 2121&#13;
+Tipo: X.509, Versión: 3, Vigencia: Válida&#13;
+Número de serie: 68f3b1c1&#13;
+Sumas de comprobación&#13;
+MD5: 351dd32288c3d8d657946621ee06bff4&#13;
+SHA-1: 5c6167aaa3524b8ba3bdf313b66bfdf8ad8306be&#13;
+SHA-256: 1fe9c2c2e4b390f01d2bb7d90b5d219dbe85fdd42321f247a295d532c9b387d2&#13;
+SHA-384…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b2d36809-3cec-435a-beca-e1b03211a456</guid>
+      <pubDate>Fri, 12 Jun 2026 04:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 2c7e26e8</title>
+      <link>https://attackerkb.com/assessments/2c7e26e8-d603-448d-ad8c-bcd1526a5e78</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5
+
+</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/2c7e26e8-d603-448d-ad8c-bcd1526a5e78</guid>
+      <pubDate>Fri, 12 Jun 2026 13:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-47291</title>
+      <link>https://attackerkb.com/assessments/b0417cef-dad8-4373-9328-025324ecb785</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Execution
+
+CVE-2026-47291 HTTP.sys PoC&#13;
+&#13;
+ Vulnerable code:&#13;
+c&#13;
+ if ((DAT0 &amp; 1) != 0) {&#13;
+            locale8 = (int )(piVar16 + 0x10);&#13;
+            locale0 = (char )ppuVar3;&#13;
+            WPPSFqII(0x408,0x10b,&amp;WPP35392aa6288d35088b5e7b5e64cc7a3bTraceguids,piVar16);&#13;
+          }&#13;
+          if ((ushort )((longlong)piVar16 + 0x642) &lt; (ushort )(piVar16 + 400)) {&#13;
+LAB8:&#13;
+            ppuVar1 = ppuVar3 + 4;&#13;
+            (undefined )&#13;
+             ((longlong )(piVar16 + 0x192) + (ulonglong)(ushort )((longlong)piVar16 + 0x642)  8&#13;
+             ) = ppuVar3;&#13;
+            (short )((longlong)piVar16 + 0x642) = (short …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b0417cef-dad8-4373-9328-025324ecb785</guid>
+      <pubDate>Wed, 17 Jun 2026 11:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-5965</title>
+      <link>https://attackerkb.com/assessments/8a1c104a-8938-471c-815c-3d239334b434</link>
+      <description>Attacker Value: 4/5 | Exploitability: 5/5 | MITRE: Discovery
+
+Well, it took a while for the vendor to fix this one. But today, I received the notification that the vulnerability report on their side was finally closed.&#13;
+So here are the details for this CVE which boils down to a traditional RCE ;-)&#13;
+&#13;
+Centreon is a platform designed to monitor your cloud and on-premises infrastructure.&#13;
+The platform has multiple command injection vulnerability using the temporary directory and scp settings on the backup configuration page of the Centreon web application.&#13;
+Injecting a malicious payload at the backup temp directory or scp parameters will trigger this vulner…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/8a1c104a-8938-471c-815c-3d239334b434</guid>
+      <pubDate>Wed, 17 Jun 2026 16:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment d9e28994</title>
+      <link>https://attackerkb.com/assessments/d9e28994-10d8-42f8-9335-e80af7a6157f</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+package j$.util.concurrent;&#13;
+import java.lang.ThreadLocal;&#13;
+import java.util.concurrent.atomic.AtomicLong;&#13;
+import java.util.concurrent.atomic.AtomicInteger;&#13;
+&#13;
+public class ThreadLocalRandom extends Random&#13;
+{&#13;
+/&#13;
+  Field Definitions.&#13;
+ /&#13;
+       long a;&#13;
+       int b;&#13;
+       boolean c;&#13;
+      private static final ThreadLocal d;&#13;
+      private static final AtomicInteger e;&#13;
+      private static final ThreadLocal f;&#13;
+      private static final AtomicLong g;&#13;
+/&#13;
+  Declared Constructors.&#13;
+ /&#13;
+     ThreadLocalRandom() { ... }&#13;
+    static final int a(int) { ... }&#13;
+    static final int b() { ... }&#13;…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/d9e28994-10d8-42f8-9335-e80af7a6157f</guid>
+      <pubDate>Wed, 24 Jun 2026 13:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment 208dea8c</title>
+      <link>https://attackerkb.com/assessments/208dea8c-47eb-4e24-9a43-af823f3bd7a1</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Initial Access
+
+&lt;manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="28" android:versionName="1.13.0" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.inmobi.installer" platformBuildVersionCode="34" platformBuildVersionName="14"&#13;
+    &lt;uses-sdk android:minSdkVersion="21" android:targetSdkVersion="34"/&#13;
+    &lt;uses-permission android:name="android.permission.INSTALLPACKAGES"/&#13;
+    &lt;uses-permission android:name="android.permission.FOREGROUNDSERVICESPECIALUSE"/&#13;
+    &lt;uses-permission android:name="android.permission.POSTNOTIFICATIONS"/&#13;
+    &lt;uses…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/208dea8c-47eb-4e24-9a43-af823f3bd7a1</guid>
+      <pubDate>Wed, 24 Jun 2026 20:01:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment a4a2ee7d</title>
+      <link>https://attackerkb.com/assessments/a4a2ee7d-279e-40ee-8d93-74a29af27538</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Discovery
+
+&lt;manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" android:sharedUserId="android.uid.phone" android:versionCode="34" android:versionName="14" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.android.stk" platformBuildVersionCode="34" platformBuildVersionName="14"&#13;
+    &lt;uses-sdk android:minSdkVersion="34" android:targetSdkVersion="34"/&#13;
+    &lt;original-package android:name="com.android.stk"/&#13;
+    &lt;uses-permission android:name="android.permission.RECEIVEBOOTCOMPLETED"/&#13;
+    &lt;uses-p…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/a4a2ee7d-279e-40ee-8d93-74a29af27538</guid>
+      <pubDate>Thu, 25 Jun 2026 00:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment c7c1028a</title>
+      <link>https://attackerkb.com/assessments/c7c1028a-a1dc-4c2e-a90f-0abe1e957367</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Exfiltration
+
+Certificate:&#13;
+    Data:&#13;
+        Version: 3 (0x2)&#13;
+        Serial Number:&#13;
+            22:85:26:b0:d1:ef:90:c3:b8:ed:56:8a:49:c3:71:4f:6a:39:50:6b&#13;
+    Signature Algorithm: sha256WithRSAEncryption&#13;
+        Issuer: C=CN, ST=ShangHai, L=ShangHai, O=Longcheer, OU=Longcheer, CN=Longcheer/emailAddress=release@Longcheer.com&#13;
+        Validity&#13;
+            Not Before: Sep 15 07:31:06 2023 GMT&#13;
+            Not After : Jan 31 07:31:06 2051 GMT&#13;
+        Subject: C=CN, ST=ShangHai, L=ShangHai, O=Longcheer, OU=Longcheer, CN=Longcheer/emailAddress=release@Longcheer.com&#13;
+        Subject Public Key Info:&#13;
+   …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/c7c1028a-a1dc-4c2e-a90f-0abe1e957367</guid>
+      <pubDate>Thu, 25 Jun 2026 01:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2022-38694</title>
+      <link>https://attackerkb.com/assessments/b3ca6492-ecae-4257-82d5-c0358a3a9db5</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Persistence
+
+:&#13;
+&#13;
+---&#13;
+&#13;
+Security Investigation Report: Motorola Moto G04s (Unisoc T606)&#13;
+Date: June 26, 2026  &#13;
+Target Device: Motorola Moto G04s, Model XT2331-4  &#13;
+Chipset: Unisoc T606, Octa-core  &#13;
+ODM: Longcheer  &#13;
+Region Focus: Latin America, Mexico  &#13;
+Investigator: Independent Security Research&#13;
+&#13;
+1. Executive Summary&#13;
+The Motorola Moto G04s contains a critical chain of vulnerabilities stemming from the Unisoc T606 chipset firmware and aggressive pre-installed system applications from Digital Turbine and InMobi. The combination of an unpatchable BootROM exploit CVE-2022-38694, active modem RCE vulner…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/b3ca6492-ecae-4257-82d5-c0358a3a9db5</guid>
+      <pubDate>Fri, 26 Jun 2026 13:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2022-38694</title>
+      <link>https://attackerkb.com/assessments/0e5f0b3f-7394-46ad-b3b5-160ee022a28f</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Persistence
+
+Motorola Moto G04s (Unisoc T606) - "Remote Rescue" Attack Vector: BootROM + WireGuard + MACsec + Persistent Memory Abuse&#13;
+&#13;
+CVE-IDs: CVE-2022-38694, CVE-2025-31718, CVE-2024-43859, CVE-2021-3712  &#13;
+CVSS v3.1: 8.8 (AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) - Critical  &#13;
+Affected: Motorola Moto G04s XT2331-4, Unisoc T606 SoC. High prevalence in Mexico/LATAM  &#13;
+Discovery Date: June 26, 2026  &#13;
+Researcher: Independent Security Research, Mexico&#13;
+&#13;
+1. Executive Summary&#13;
+The Motorola Moto G04s, powered by the Unisoc T606 chipset, contains a high-severity attack chain within its Rescue Party recovery mecha…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/0e5f0b3f-7394-46ad-b3b5-160ee022a28f</guid>
+      <pubDate>Fri, 26 Jun 2026 13:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-40003</title>
+      <link>https://attackerkb.com/assessments/487da971-0613-4da1-b586-93cba85b0717</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Credential Access
+
+:&#13;
+&#13;
+CVE-2026-40003: Operation Silent Rescue - Penta Chain&#13;
+Title: Systemic Pre-Installed Backdoors in Unisoc T606/T616 Enable Redundant, Zero-Click, Pre-Auth Takeover with Silent Malware Deployment in LATAM&#13;
+&#13;
+CVSS 3.1: 9.8 Critical AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H &#13;
+CWE: CWE-250, CWE-732, CWE-912, CWE-1220, CWE-276, CWE-269 &#13;
+Affected: Motorola Moto G04s, G24, G34, E24 + all Unisoc T606/T616, Android 11-13, LATAM 2024-2025 &#13;
+Credit: Independent Security Research (Latin America Division) &#13;
+Status: Active Threat. Coordinated disclosure submitted to Rapid7, AttackerKB, CISA, Unisoc PSIRT, Mo…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/487da971-0613-4da1-b586-93cba85b0717</guid>
+      <pubDate>Fri, 26 Jun 2026 18:53:34 +0000</pubDate>
+    </item>
   </channel>
 </rss>
