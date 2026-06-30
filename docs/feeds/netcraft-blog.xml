@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 14:01:45 +0000</lastBuildDate>
-    <item>
-      <title>Automated Threat Response at Scale: Netcraft Integrations &amp; APIs</title>
-      <link>https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</link>
-      <description>See how Netcraft integrations and APIs power faster detection, automated takedowns, and unified threat response across SIEMs, SOC tools, and internal systems.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/the-fastest-path-to-automated-threat-response-inside-netcrafts-integration-and-api-portfolio</guid>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 19:49:10 +0000</lastBuildDate>
     <item>
       <title>Confluence “RFP” Phishing Scam Uses Weaponized SVGs to Steal Microsoft 365 Credentials</title>
       <link>https://www.netcraft.com/blog/confluence-svg-rfp-phishing-scam</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</link>
       <description>Netcraft analyzes Bluekit, a Browser-in-the-Middle phishing kit that streams legitimate login pages to victims using rrweb. Learn how it works, why it differs from Evilginx, and the detection opportunities for defenders.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</guid>
+    </item>
+    <item>
+      <title>Australia's Scams Prevention Framework: What Banks Must Do Before March 2027</title>
+      <link>https://www.netcraft.com/blog/australia-scams-prevention-framework-what-the-new-obligations-mean-for-banks</link>
+      <description>Australia's Scams Prevention Framework is now law, with sector designations confirmed and codes in final consultation. Here's what banks need to do before the March 2027 deadline.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/australia-scams-prevention-framework-what-the-new-obligations-mean-for-banks</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
