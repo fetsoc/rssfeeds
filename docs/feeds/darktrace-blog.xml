@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 09:32:39 +0000</lastBuildDate>
-    <item>
-      <title>Beyond Discovery: Adding Intelligent Vulnerability Validation to Darktrace / Attack Surface Management</title>
-      <link>https://www.darktrace.com/blog/beyond-discovery-adding-intelligent-vulnerability-validation-to-darktrace-attack-surface-management</link>
-      <description>Darktrace adds exploit prediction assessment to attack surface management with 6.3 update. Learn more about the latest innovations here.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-discovery-adding-intelligent-vulnerability-validation-to-darktrace-attack-surface-management</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 14:14:32 +0000</lastBuildDate>
     <item>
       <title>Behind the Veil: Darktrace's Detection of VPN Exploitation in SaaS Environments</title>
       <link>https://www.darktrace.com/blog/behind-the-veil-darktraces-detection-of-vpn-exploitation-in-saas-environments</link>
@@ -354,6 +347,13 @@
       <link>https://www.darktrace.com/blog/a-new-security-challenge-the-curious-case-of-prompt-language-analysis</link>
       <description>Prompt analysis is reshaping AI security. Learn why prompts are behavioral signals, not just text, and why context is critical to identifying real enterprise risk.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/a-new-security-challenge-the-curious-case-of-prompt-language-analysis</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How security leaders are closing the AI governance gap</title>
+      <link>https://www.darktrace.com/blog/5-ways-ai-is-changing-traditional-security-models-according-to-modern-cisos</link>
+      <description>Why AI is introducing risks that legacy security models can't address and what organizations need to do to govern, secure, and confidently adopt AI at scale</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/5-ways-ai-is-changing-traditional-security-models-according-to-modern-cisos</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

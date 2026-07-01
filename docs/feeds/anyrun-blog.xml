@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 09:34:14 +0000</lastBuildDate>
-    <item>
-      <title>Protecting 50,000 Users: How ANY.RUN Drives Incident Prevention at UMass Boston</title>
-      <link>https://any.run/cybersecurity-blog/umass-boston-success-story/</link>
-      <description>&lt;p&gt;Securing a university means defending a highly open environment, where thousands of users, devices, and external connections create constant exposure to risk. We had a unique opportunity to get an inside look at how these operations are run at a powerhouse R1 institution, the University of Massachusetts Boston.&amp;#160;&amp;#160;&amp;#160; We sat down with Daniel Mayer, Endpoint [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/umass-boston-success-story/"&gt;Protecting 50,000 Users: How ANY.RUN Drives Incident Prevention at UMass Boston&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/umass-boston-success-story/</guid>
-      <pubDate>Tue, 09 Jun 2026 10:06:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 14:16:31 +0000</lastBuildDate>
     <item>
       <title>Intelligence-Driven Threat Hunting: How SOCs Find What Alerts Miss</title>
       <link>https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-manufacturer-security-risk/"&gt;Closing the Supplier Security Gap: How a US Manufacturer Cut Third-Party Risk and Doubled SOC Triage Speed&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-manufacturer-security-risk/</guid>
       <pubDate>Tue, 30 Jun 2026 10:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates</title>
+      <link>https://any.run/cybersecurity-blog/release-notes-june-2026/</link>
+      <description>&lt;p&gt;Phishing pages don&amp;#8217;t sit still anymore. They redirect, load scripts, harvest credentials through dynamic forms, and rebuild their DOM after the initial load — and most URL analysis workflows still only see the finish line, not the race. This June, ANY.RUN closed that gap directly inside the Interactive Sandbox and extended its automation reach with [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-june-2026/"&gt;Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-june-2026/</guid>
+      <pubDate>Wed, 01 Jul 2026 11:31:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
