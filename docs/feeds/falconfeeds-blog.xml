@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 02:48:00 +0000</lastBuildDate>
-    <item>
-      <title>OilRig in the Iran–Israel Cyber War: From DNS Tunnelling to Persistent State-Sponsored Espionage</title>
-      <link>https://falconfeeds.io/blogs/oilrig-in-the-iran-israel-cyber-war-from-dns-tunnelling-to-persistent-state-sponsored-espionage</link>
-      <description>An in-depth analysis of OilRig’s role in the Iran–Israel cyber war, exploring its DNS tunnelling capabilities, persistent espionage operations, and strategic footholds across government, telecom, and critical infrastructure networks.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/oilrig-in-the-iran-israel-cyber-war-from-dns-tunnelling-to-persistent-state-sponsored-espionage</guid>
-      <pubDate>Mon, 09 Mar 2026 06:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Charming Kitten in the Iran–Israel Cyber War From DNS Tunnelling to Persistent State-Sponsored Espionage</title>
-      <link>https://falconfeeds.io/blogs/charming-kitten-in-the-iran-israel-cyber-war</link>
-      <description>An in-depth analysis of Charming Kitten’s role in the Iran–Israel cyber war, examining its social engineering, credential phishing, and human-targeted intelligence operations against policy, media, and strategic networks.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/charming-kitten-in-the-iran-israel-cyber-war</guid>
-      <pubDate>Mon, 09 Mar 2026 07:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exposed Eyes: CCTV Vulnerabilities and Surveillance Threats in the Middle East and India (2025 - 2026)</title>
-      <link>https://falconfeeds.io/blogs/cctv-vulnerability-surveillance-threat-intelligence-middle-east-india-2025-2026</link>
-      <description>An in-depth threat intelligence report on CCTV vulnerabilities across the Middle East and India in 2025–2026, examining exposed Hikvision and Dahua devices, APT activity, and the growing surveillance attack surface.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cctv-vulnerability-surveillance-threat-intelligence-middle-east-india-2025-2026</guid>
-      <pubDate>Tue, 10 Mar 2026 05:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>313 Team and the Iran–Israel Shadow War</title>
-      <link>https://falconfeeds.io/blogs/313-team-iran-israel-shadow-war</link>
-      <description>Discover how 313 Team operates in the Iran–Israel shadow war through pro-Iranian cyber campaigns, DDoS attacks, defacements, and disruptive operations across the Middle East.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/313-team-iran-israel-shadow-war</guid>
-      <pubDate>Tue, 10 Mar 2026 09:47:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 09:34:10 +0000</lastBuildDate>
     <item>
       <title>Technical and Strategic Analysis of the OpenClaw Ecosystem: Security Vulnerabilities, Deployment Risks, and the Evolution of Agentic AI</title>
       <link>https://falconfeeds.io/blogs/openclaw-ecosystem-security-vulnerabilities-deployment-risks-agentic-ai</link>
@@ -357,6 +329,34 @@
       <description>Explore the FortiBleed credential exposure campaign, analyzing compromised Fortinet credentials, large-scale password cracking, affected organizations, and enterprise security risks worldwide.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/fortibleed-fortinet-credential-exposure-dataset-analysis</guid>
       <pubDate>Thu, 25 Jun 2026 07:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors in 2026: The Emerging Groups Every CISO Should Watch</title>
+      <link>https://falconfeeds.io/blogs/threat-actors-2026-emerging-groups-every-ciso-should-watch</link>
+      <description>Explore the emerging cyber threat actors of 2026, including state-sponsored APTs, ransomware groups, and AI-enabled adversaries targeting cloud, identity, and critical infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-2026-emerging-groups-every-ciso-should-watch</guid>
+      <pubDate>Wed, 01 Jul 2026 04:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Cyber Mercenaries: How Private Threat Actors Are Reshaping Global Conflict</title>
+      <link>https://falconfeeds.io/blogs/rise-of-cyber-mercenaries-private-offensive-cyber-actors</link>
+      <description>Explore how cyber mercenaries and commercial surveillance vendors are reshaping global conflict by selling advanced offensive cyber capabilities to governments worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/rise-of-cyber-mercenaries-private-offensive-cyber-actors</guid>
+      <pubDate>Wed, 01 Jul 2026 04:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors vs. Critical Infrastructure: The Strategic Shift from Data Theft to Operational Disruption</title>
+      <link>https://falconfeeds.io/blogs/threat-actors-critical-infrastructure-operational-disruption-analysis</link>
+      <description>Explore how cyber threat actors are shifting from data theft to operational disruption, targeting critical infrastructure through AI-driven attacks, OT compromise, and geopolitical cyber campaigns.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-critical-infrastructure-operational-disruption-analysis</guid>
+      <pubDate>Wed, 01 Jul 2026 05:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Are Training AI Too: What CTI Teams Need to Know</title>
+      <link>https://falconfeeds.io/blogs/threat-actors-training-ai-cti-ai-enabled-cyber-threats</link>
+      <description>Explore how threat actors are using AI, LLMs, and machine learning to automate cyberattacks and what cyber threat intelligence teams need to know to stay ahead.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-training-ai-cti-ai-enabled-cyber-threats</guid>
+      <pubDate>Wed, 01 Jul 2026 05:34:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
