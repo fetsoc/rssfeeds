@@ -7,49 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 14:14:33 +0000</lastBuildDate>
-    <item>
-      <title>The SonicWall Partner Awards: Celebrating Partner Excellence in 2023</title>
-      <link>https://www.sonicwall.com/blog/the-sonicwall-partner-awards-celebrating-partner-excellence-in-2023</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-sonicwall-partner-awards-celebrating-partner-excellence-in-2023</guid>
-    </item>
-    <item>
-      <title>3 &amp; Free with Cloud Secure Edge: The Time to Upgrade is Now</title>
-      <link>https://www.sonicwall.com/blog/3-free-with-cloud-secure-edge-the-time-to-upgrade-is-now</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-free-with-cloud-secure-edge-the-time-to-upgrade-is-now</guid>
-    </item>
-    <item>
-      <title>3 &amp; Free Promotion: How to Upgrade to a Gen 7 NSsp Firewall for Free</title>
-      <link>https://www.sonicwall.com/blog/3-free-promotion-how-to-upgrade-to-a-gen-7-nssp-firewall-for-free</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/3-free-promotion-how-to-upgrade-to-a-gen-7-nssp-firewall-for-free</guid>
-    </item>
-    <item>
-      <title>it-SA 2019: SonicWall’s Integrated Cybersecurity Platform</title>
-      <link>https://www.sonicwall.com/blog/it-sa-2019-sonicwalls-integrated-cybersecurity-platform</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/it-sa-2019-sonicwalls-integrated-cybersecurity-platform</guid>
-    </item>
-    <item>
-      <title>Wind River VxWorks and URGENT/11: Patch Now</title>
-      <link>https://www.sonicwall.com/blog/wind-river-vxworks-and-urgent-11-patch-now</link>
-      <description>What is URGENT/11 and how does it impact devices that rely on Wind River VxWorks? SonicWall CTO John Gmuender explains why you should patch SonicOS.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/wind-river-vxworks-and-urgent-11-patch-now</guid>
-    </item>
-    <item>
-      <title>Goodbye VPNs: Embrace Cloud-Delivered Zero Trust</title>
-      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</link>
-      <description>Move beyond legacy VPNs. Discover how SonicWall Cloud Secure Edge delivers simplified, secure Zero Trust access for hybrid workforces.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust</guid>
-    </item>
-    <item>
-      <title>Better Network Management: Latest Features in Network Security Manager 2.5</title>
-      <link>https://www.sonicwall.com/blog/better-network-management-latest-features-in-network-security-manager-2-5</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/better-network-management-latest-features-in-network-security-manager-2-5</guid>
-    </item>
-    <item>
-      <title>Secure Access Unlocked: Exploring WNM 4.5 and Service Provider Monthly Program</title>
-      <link>https://www.sonicwall.com/blog/secure-access-unlocked-exploring-wnm-4-5-and-service-provider-monthly-program</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-access-unlocked-exploring-wnm-4-5-and-service-provider-monthly-program</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 19:42:17 +0000</lastBuildDate>
     <item>
       <title>SonicWall TZ80: Future-Proofing Network Security for SOHO, IoT and Remote Work Environments</title>
       <link>https://www.sonicwall.com/blog/sonicwall-tz80-future-proofing-network-security-for-soho-iot-and-remote-work-environments</link>
@@ -201,10 +159,45 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</guid>
     </item>
     <item>
+      <title>Cloud Secure Edge: A Year of Growth, Innovation and Game-Changing Security</title>
+      <link>https://www.sonicwall.com/blog/cloud-secure-edge-a-year-of-growth-innovation-and-game-changing-security</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/cloud-secure-edge-a-year-of-growth-innovation-and-game-changing-security</guid>
+    </item>
+    <item>
+      <title>One Year In, SonicWall’s MSS Evolution Is Just Getting Started</title>
+      <link>https://www.sonicwall.com/blog/one-year-in-sonicwall-s-mss-evolution-is-just-getting-started</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/one-year-in-sonicwall-s-mss-evolution-is-just-getting-started</guid>
+    </item>
+    <item>
+      <title>Say Goodbye to Clunky VPNs with SonicWall VPNaaS</title>
+      <link>https://www.sonicwall.com/blog/it-s-time-to-break-up-with-your-vpn</link>
+      <description>Tired of outdated VPNs slowing you down? See how SonicWall Cloud Secure Edge offers safer, simpler remote access that grows with your business.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/it-s-time-to-break-up-with-your-vpn</guid>
+    </item>
+    <item>
+      <title>Modernize Remote Access with VPNaaS from SonicWall</title>
+      <link>https://www.sonicwall.com/blog/is-traditional-vpn-holding-your-enterprise-back-here-s-a-smarter-way-to-secure-remote-access</link>
+      <description>Traditional VPNs are slow, risky and outdated. Discover how SonicWall Cloud Secure Edge makes remote access safer, faster and easier to manage.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/is-traditional-vpn-holding-your-enterprise-back-here-s-a-smarter-way-to-secure-remote-access</guid>
+    </item>
+    <item>
+      <title>What’s New in SonicOS 7.2.0: Smarter Access and Security</title>
+      <link>https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</link>
+      <description>SonicOS 7.2.0 brings smarter authentication, Wi-Fi security, and time syncing to your firewall. See how it helps improve access and control.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</guid>
+    </item>
+    <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
       <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Next Wave in Cybersecurity: Smarter Tools for MSP Growth</title>
+      <link>https://www.sonicwall.com/blog/smarter-security-stronger-with-less-hassle-sonicwall-s-new-tools-for-msp-growth</link>
+      <description>Discover SonicWall’s latest tools for MSPs — powerful, easy-to-use security that scales with your business and cuts through the complexity.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/smarter-security-stronger-with-less-hassle-sonicwall-s-new-tools-for-msp-growth</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Smarter Network Management With NSM 3.0 and NSa Firewalls</title>
@@ -212,6 +205,20 @@
       <description>Explore how NSM 3.0 and NSa firewalls help businesses and MSSPs simplify operations, strengthen security and lower total cost of ownership.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/stronger-protection-lower-costs-superior-management-with-sonicwall</guid>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing SonicWall Unified Management: Smarter Security for MSPs</title>
+      <link>https://www.sonicwall.com/blog/work-smarter-not-harder-introducing-sonicplatform-the-cybersecurity-platform-for-msps</link>
+      <description>SonicWall launches SonicWall Unified Management to help MSPs streamline operations, reduce complexity, and improve security.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/work-smarter-not-harder-introducing-sonicplatform-the-cybersecurity-platform-for-msps</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</link>
+      <description>Surf the cybersecurity wave with killer updates to supercharge your MSP business! From next-gen firewalls to hot promos and can’t-miss events, here’s your fast-track guide to what’s new and ready to boost your growth this month!</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Managed Firewalls: The Upgrade You’re Overdue For</title>

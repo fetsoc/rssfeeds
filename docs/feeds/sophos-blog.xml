@@ -7,20 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 14:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:44:02 +0000</lastBuildDate>
     <item>
       <title>Sophos Workspace Protection update</title>
       <link>https://www.sophos.com/en-us/blog/sophos-workspace-protection-update</link>
       <description>&lt;p&gt;Learn more and share your feedback with the team on the Sophos Workspace Protection Community.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-workspace-protection-update</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
-      <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bug bounties in the Mythos era</title>
@@ -34,6 +27,13 @@
       <link>https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</link>
       <description>&lt;p&gt;209 patches + 388 advisories = welcome to summer 2026&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
+      <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
