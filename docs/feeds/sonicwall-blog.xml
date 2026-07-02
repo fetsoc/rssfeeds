@@ -7,74 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 02:33:51 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall TZ80: Future-Proofing Network Security for SOHO, IoT and Remote Work Environments</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-tz80-future-proofing-network-security-for-soho-iot-and-remote-work-environments</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-tz80-future-proofing-network-security-for-soho-iot-and-remote-work-environments</guid>
-    </item>
-    <item>
-      <title>Why Customers and Managed Security Partners Trust and Enjoy Network Security Manager</title>
-      <link>https://www.sonicwall.com/blog/why-customers-and-managed-security-partners-trust-and-enjoy-network-security-manager</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-customers-and-managed-security-partners-trust-and-enjoy-network-security-manager</guid>
-    </item>
-    <item>
-      <title>Why Policy Deployment Speed Matters for Security</title>
-      <link>https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</link>
-      <description>Without rapid deployment, even the best policies fall short. Discover how SonicWall NSM enables centralized, fast firewall policy enforcement.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</guid>
-    </item>
-    <item>
-      <title>SMA 1000 v12.5.0: Secure Access Gets Smarter</title>
-      <link>https://www.sonicwall.com/blog/secure-remote-access-for-your-business-with-sonicwall-sma-1000</link>
-      <description>Discover what’s new in SonicWall SMA 1000 v12.5.0 — with IPv6 support, simplified licensing, and smarter alerts for secure, scalable remote access.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-remote-access-for-your-business-with-sonicwall-sma-1000</guid>
-    </item>
-    <item>
-      <title>SonicWall CSE Adds On-Prem Active Directory Support</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-now-supports-on-prem-active-directory-authentication</link>
-      <description>SonicWall Cloud Secure Edge now supports on-prem Active Directory, enabling secure access and zero-trust adoption without immediate cloud migration.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-now-supports-on-prem-active-directory-authentication</guid>
-    </item>
-    <item>
-      <title>NSM 3.2 Launches Unified Firewall Management</title>
-      <link>https://www.sonicwall.com/blog/unified-firewall-management-in-sonicwall-unified-management</link>
-      <description>Discover NSM 3.2 — the next evolution in SonicWall Unified Management, simplifying firewall control for MSPs, MSSPs and IT admins.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/unified-firewall-management-in-sonicwall-unified-management</guid>
-    </item>
-    <item>
-      <title>Goodbye VPNs, Hello Cloud-Delivered Zero Trust - NULL</title>
-      <link>https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/goodbye-vpns-hello-cloud-delivered-zero-trust-not-using-this-entry</guid>
-    </item>
-    <item>
-      <title>Details Matter: Why Threat Headlines Shouldn’t Direct Your Strategy</title>
-      <link>https://www.sonicwall.com/blog/details-matter-why-threat-headlines-shouldnt-direct-your-strategy</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/details-matter-why-threat-headlines-shouldnt-direct-your-strategy</guid>
-    </item>
-    <item>
-      <title>Vintage Bugs: Data Shows Old Vulnerabilities Still Menace Small Businesses</title>
-      <link>https://www.sonicwall.com/blog/data-shows-old-vulnerabilities-still-menace-small-businesses</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/data-shows-old-vulnerabilities-still-menace-small-businesses</guid>
-    </item>
-    <item>
-      <title>Understanding CVE-2024-38063: How SonicWall Prevents Exploitation</title>
-      <link>https://www.sonicwall.com/blog/understanding-cve-2024-38063-how-sonicwall-prevents-exploitation</link>
-      <description>The SonicWall firewall protects against CVE-2024-38063 by blocking malicious IPv6 fragmented packets by default.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-cve-2024-38063-how-sonicwall-prevents-exploitation</guid>
-    </item>
-    <item>
-      <title>SonicWall Capture ATP Stands Up Against Malware Test | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-capture-atp-malware-test</link>
-      <description>Learn how SonicWall Capture ATP Service eliminates malware through the technology chain from the internet to the end-point.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-capture-atp-malware-test</guid>
-    </item>
-    <item>
-      <title>Patch Tuesday, Exploit Wednesday and Uninstall Thursday</title>
-      <link>https://www.sonicwall.com/blog/simple-tips-for-network-sanity</link>
-      <description>There is an old saying: Patch Tuesday, Exploit Wednesday, and Uninstall Thursday. Should you patch on Tuesday? Yes, and any day Microsoft releases a patch.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/simple-tips-for-network-sanity</guid>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 08:44:31 +0000</lastBuildDate>
     <item>
       <title>Everything Old Is New Again: Remote Access Comes Full Circle</title>
       <link>https://www.sonicwall.com/blog/everything-old-is-new-again-remote-access-comes-full-circle</link>
@@ -147,16 +80,16 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
     </item>
     <item>
-      <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
-      <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
-      <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</guid>
-    </item>
-    <item>
       <title>Small Business Cybersecurity Myths: Why Hackers Don't Take Holidays</title>
       <link>https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</link>
       <description>It's easy to think that you're safe from a cyber attack on holidays or because you're a small business, but those assumptions are cybersecurity myths, and this blog explains why.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</guid>
+    </item>
+    <item>
+      <title>%%title%% %%page%%</title>
+      <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</link>
+      <description>MITRE ATT&amp;CK helps secure networks against known and emerging threats. Here’s how it works — and how it can help you.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</guid>
     </item>
     <item>
       <title>Cloud Secure Edge: A Year of Growth, Innovation and Game-Changing Security</title>
@@ -185,6 +118,73 @@
       <link>https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</link>
       <description>SonicOS 7.2.0 brings smarter authentication, Wi-Fi security, and time syncing to your firewall. See how it helps improve access and control.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</guid>
+    </item>
+    <item>
+      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
+      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
+      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
+    </item>
+    <item>
+      <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
+      <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</guid>
+    </item>
+    <item>
+      <title>Stop Comparing Features. Start Demanding Outcomes</title>
+      <link>https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</link>
+      <description>Buying more security tools doesn’t guarantee protection. See why outcomes depend on integration, management and continuous delivery.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</guid>
+    </item>
+    <item>
+      <title>SonicWall Earns 5-Star Rating in 2026 CRN Partner Guide</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</link>
+      <description>SonicWall’s SecureFirst Partner Program earns a 5-Star rating in the 2026 CRN Partner Program Guide, recognizing exceptional partner enablement.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</guid>
+    </item>
+    <item>
+      <title>SonicWall Named Leader in 2026 GigaOm Firewall Radar</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
+      <description>SonicWall is named a Leader and Fast Mover in the 2026 GigaOm Radar for Enterprise Firewalls, highlighting innovation and proven threat protection.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</guid>
+    </item>
+    <item>
+      <title>Michael Crean Discusses Iran Cyber Threats on Fox News</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
+      <description>SonicWall SVP Michael Crean appeared on Fox News to discuss Iran-linked cyber activity and the Stryker attack. Watch the full interview.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</guid>
+    </item>
+    <item>
+      <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
+      <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
+      <description>Cyber threats move fast. Learn why detection alone isn’t enough and how automated security response helps stop attacks before they spread.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
+    </item>
+    <item>
+      <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
+      <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
+      <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</guid>
+    </item>
+    <item>
+      <title>AI in Cybersecurity: How SonicWall Balances Innovation and Resilience</title>
+      <link>https://www.sonicwall.com/blog/ai-in-security-and-the-security-of-ai-balancing-innovation-and-resilience</link>
+      <description>Discover how AI is reshaping cybersecurity defense and risk. Learn how SonicWall's RTDMI, DPI, and SAMI help MSPs and enterprises stay secure in an AI-driven threat landscape.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/ai-in-security-and-the-security-of-ai-balancing-innovation-and-resilience</guid>
+    </item>
+    <item>
+      <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>
+      <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-2</link>
+      <description>Capture Client delivers capabilities that are underscored by the ATT&amp;CK framework. Here’s how CISOs can leverage these capabilities to define and implement their security strategy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-2</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Security Architecture with Adversary Frameworks</title>
+      <link>https://www.sonicwall.com/blog/rethinking-security-architecture</link>
+      <description>Explore how combining the Cybersecurity Kill Chain and MITRE ATT&amp;CK helps build resilient security architecture with SonicWall MXDR.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/rethinking-security-architecture</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
@@ -233,6 +233,13 @@
       <description>SonicOS 7.3.3 delivers Generative AI content filtering, default-on credential auditing, DTLS VPN support, and more for GEN7 appliances. Here is what MSPs and channel partners need to know before upgrading.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
+      <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-death-of-the-firewall</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Firewall Is Not Dead: How AI Makes It Smarter | SonicWall</title>
