@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 08:45:40 +0000</lastBuildDate>
-    <item>
-      <title>Shai-Hulud Is Back, and This Time It Ate the Whole Ecosystem</title>
-      <link>https://trustedsec.com/blog/shai-hulud-is-back</link>
-      <description>&amp;lt;p&amp;gt;Same worm, different wave. In our new blog, Director of Security Intelligence Carlos Perez covers Shai-Hulud, how this supply-chain malware can eat your whole ecosystem, and what you can do to protect your data.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/shai-hulud-is-back</guid>
-      <pubDate>Thu, 21 May 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 13:52:28 +0000</lastBuildDate>
     <item>
       <title>PCI DSS, Telephone Payments, and the Problems With VoIP</title>
       <link>https://trustedsec.com/blog/pci-dss-telephone-payments-and-the-problems-with-voip</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;As it turns out, local LLMs have a few opinions about large workflows. In this blog, we walk through the scaling challenges of local LLMs and the custom Python library built to wrangle them.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/large-workflows-with-local-llms</guid>
       <pubDate>Thu, 25 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inheriting the Receipts: Securing the AI Your Company Already Adopted</title>
+      <link>https://trustedsec.com/blog/inheriting-the-receipts-securing-the-ai-your-company-already-adopted</link>
+      <description>&amp;lt;p&amp;gt;The work is not new. The speed is. In this blog, we&amp;#039;re outlining how existing security pillars apply to the AI your organization has already adopted; no new doctrine, new team, or new budget line required.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/inheriting-the-receipts-securing-the-ai-your-company-already-adopted</guid>
+      <pubDate>Thu, 02 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
