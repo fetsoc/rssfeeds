@@ -7,90 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 19:14:59 +0000</lastBuildDate>
-    <item>
-      <title>Everything Old Is New Again: Remote Access Comes Full Circle</title>
-      <link>https://www.sonicwall.com/blog/everything-old-is-new-again-remote-access-comes-full-circle</link>
-      <description>The ideals of Zero-Trust Architecture have been around for a lot longer than you may think. So why are we only now seeing widespread adoption?</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/everything-old-is-new-again-remote-access-comes-full-circle</guid>
-    </item>
-    <item>
-      <title>How MSSPs &amp; Artificial Intelligence Can Mitigate Zero-Day Threats</title>
-      <link>https://www.sonicwall.com/blog/how-mssps-artificial-intelligence-can-mitigate-zero-day-threats</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-mssps-artificial-intelligence-can-mitigate-zero-day-threats</guid>
-    </item>
-    <item>
-      <title>Why 5G Needs to Start with Secure Network Access</title>
-      <link>https://www.sonicwall.com/blog/why-5g-needs-to-start-with-secure-network-access</link>
-      <description>5G comes with enormous possibilities — and increased risks. Here’s what you need to consider when securing your network in preparation for this game-changing technology.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-5g-needs-to-start-with-secure-network-access</guid>
-    </item>
-    <item>
-      <title>How SonicWall ZTNA protects against Log4j (Log4Shell)</title>
-      <link>https://www.sonicwall.com/blog/how-sonicwall-ztna-protects-against-log4j-log4shell</link>
-      <description>The Apache Log4j vulnerability affects millions of devices. But with SonicWall Cloud Edge zero trust architecture (ZTNA), it can be stopped.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-sonicwall-ztna-protects-against-log4j-log4shell</guid>
-    </item>
-    <item>
-      <title>Why SDP Matters in Zero Trust</title>
-      <link>https://www.sonicwall.com/blog/why-sdp-matters-in-zero-trust</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-sdp-matters-in-zero-trust</guid>
-    </item>
-    <item>
-      <title>Stop Confusing Demos with POCs — Your Pipeline Depends on It</title>
-      <link>https://www.sonicwall.com/blog/stop-confusing-demos-with-pocs-your-pipeline-depends-on-it</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-confusing-demos-with-pocs-your-pipeline-depends-on-it</guid>
-    </item>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for May 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-may-2026</guid>
-    </item>
-    <item>
-      <title>Save On Modern, Cloud-Delivered Access and Say Goodbye to Legacy VPNs</title>
-      <link>https://www.sonicwall.com/blog/save-on-modern-cloud-delivered-access-and-say-goodbye-to-legacy-vpns</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/save-on-modern-cloud-delivered-access-and-say-goodbye-to-legacy-vpns</guid>
-    </item>
-    <item>
-      <title>Third-Party ICSA Testing – Perfect Score Number 4</title>
-      <link>https://www.sonicwall.com/blog/third-party-icsa-testing-perfect-score-number-4</link>
-      <description>SonicWall Capture ATP with RTDMI identified all malicious samples with no false positives — four times in a row.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/third-party-icsa-testing-perfect-score-number-4</guid>
-    </item>
-    <item>
-      <title>Partner Power News - June 2026: Fresh Insights, New Releases &amp; More Ways to Win | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</link>
-      <description>Explore June 2026 Partner Power News: Gen 8 releases, Zero Trust innovations, MDF resources, success stories, expert insights, and upcoming events to help you win.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
-    </item>
-    <item>
-      <title>Tracking Havoc Malware Activity and Evasion Techniques</title>
-      <link>https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques</guid>
-    </item>
-    <item>
-      <title>Beyond the CVE: Why Secure by Design and Automated Patching Are Redefining Cybersecurity | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</link>
-      <description>Discover why CVE count is not the right measure of security. Learn how SonicWall's Secure by Design approach, automated patching, and 99.9% upgrade success rate protect customers and MSPs at scale.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</guid>
-    </item>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for June 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-june-2026</guid>
-    </item>
-    <item>
-      <title>Small Business Cybersecurity Myths: Why Hackers Don't Take Holidays</title>
-      <link>https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</link>
-      <description>It's easy to think that you're safe from a cyber attack on holidays or because you're a small business, but those assumptions are cybersecurity myths, and this blog explains why.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</guid>
-    </item>
-    <item>
-      <title>%%title%% %%page%%</title>
-      <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</link>
-      <description>MITRE ATT&amp;CK helps secure networks against known and emerging threats. Here’s how it works — and how it can help you.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</guid>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 02:11:12 +0000</lastBuildDate>
     <item>
       <title>Cloud Secure Edge: A Year of Growth, Innovation and Game-Changing Security</title>
       <link>https://www.sonicwall.com/blog/cloud-secure-edge-a-year-of-growth-innovation-and-game-changing-security</link>
@@ -120,10 +37,73 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</guid>
     </item>
     <item>
+      <title>Wing FTP Server Remote Code Execution: CVE-2025-47812</title>
+      <link>https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812</guid>
+    </item>
+    <item>
+      <title>Oracle Identity Manager Authentication Bypass Vulnerability (CVE-2025-61757)</title>
+      <link>https://www.sonicwall.com/blog/oracle-identity-manager-authentication-bypass-vulnerability-cve-2025-61757-</link>
+      <description>Oracle Identity Manager Authentication Bypass Vulnerability (CVE-2025-61757)</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/oracle-identity-manager-authentication-bypass-vulnerability-cve-2025-61757-</guid>
+    </item>
+    <item>
+      <title>Oracle E-Business Suite Under Siege: Active Exploitation of Dual Zero-Days</title>
+      <link>https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days</guid>
+    </item>
+    <item>
+      <title>Understanding SalatStealer: A Threat Actor’s Golang Stealer Toolset</title>
+      <link>https://www.sonicwall.com/blog/understanding-salatstealer-a-threat-actors-golang-stealer-toolset</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-salatstealer-a-threat-actors-golang-stealer-toolset</guid>
+    </item>
+    <item>
+      <title>React2Shell (CVE-2025-55182) Critical Unauthenticated RCE</title>
+      <link>https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</guid>
+    </item>
+    <item>
+      <title>Hewlett Packard Enterprise (HPE) OneView Software, Remote Code Execution (CVE-2025-37164)</title>
+      <link>https://www.sonicwall.com/blog/maximum-severity-unauthenticated-remote-code-execution-in-hpe-oneview-cve-2025-37164</link>
+      <description>HPE OneView is a software-defined infrastructure management platform that centralizes and automates the monitoring and management of HPE servers, storage, and networking. A potential security vulnerability has been identified in Hewlett Packard Enterprise OneView Software. This vulnerability could be exploited, allowing a remote unauthenticated user to perform remote code execution.
+A critical vulnerability, tracked as CVE-2025-37164, has been discovered in HPE OneView, affecting all versions up to and including v10.20. This flaw enables unauthenticated remote attackers to execute arbitrary code on the server, earning a perfect CVSS score of 10.0. 
+
+References: CVE-2025-37164</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/maximum-severity-unauthenticated-remote-code-execution-in-hpe-oneview-cve-2025-37164</guid>
+    </item>
+    <item>
+      <title>N8n AI Workflow Automation Remote Code Execution Vulnerability (CVE-2025-68613)</title>
+      <link>https://www.sonicwall.com/blog/n8n-ai-workflow-automation-remote-code-execution-vulnerability-cve-2025-68613-</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a Critical Remote Code Execution (RCE) Vulnerability in n8n, a flexible AI workflow automation platform, assessed its impact, and developed mitigation measures. N8N is frequently used to automate repetitive operational tasks and to integrate security tools and SaaS platforms. In simple words, using n8n users build workflows composed of nodes, with each node representing an action such as making an API request, processing data, or sending an email.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/n8n-ai-workflow-automation-remote-code-execution-vulnerability-cve-2025-68613-</guid>
+    </item>
+    <item>
+      <title>Multiple vulnerabilities in SolarWinds Web Help Desk Leading to RCE: CVE-2025-40551</title>
+      <link>https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a critical vulnerability chain in SolarWinds Web Help Desk (WHD), assessed its impact and developed mitigation measures. SolarWinds WHD is an IT Ticketing and Asset Management solution designed for small-to-medium IT teams to automate service requests and track hardware/software inventory.
+The issues, tracked as CVE-2025-40536 (Security Protection Bypass) and CVE-2025-40551 (a deserialization bypass in the AjaxProxy functionality), impact all versions prior to 2026.1. When chained together, these flaws allow unauthenticated remote attackers to execute arbitrary code on the server. Given the widespread use of SolarWinds WHD, organizations are strongly advised to apply the vendor-provided updates as soon as possible.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</guid>
+    </item>
+    <item>
+      <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
+      <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a Critical authentication bypass vulnerability in GNU –a Unix-like operating system, assessed their impact, and developed mitigation measures. GNU is a collection of many programs: applications, libraries, developer tools, even games.
+This critical authentication bypass vulnerability in GNU inetutils-telnetd allows unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation, identified as CVE-2026-24061, affecting versions 1.9.3 up to and including version 2.7. With a CVSS score of 9.8 (Critical) due to its low attack complexity, high impact, and the fact that it affects core application functionality. As described in PoC, the impact of an argument injection can result into Remote Code Execution. The root issue is argument injection through unsafe string interpolation of client-controlled data. Hence, all organizations that use GNU instances are strongly encouraged to update their instances to the latest patched version as a matter of urgency.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</guid>
+    </item>
+    <item>
       <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
       <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
       <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
+    </item>
+    <item>
+      <title>OpenClaw Auth Token Theft Leading to RCE: CVE-2026-25253</title>
+      <link>https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</link>
+      <description>OpenClaw, previously known as Clawdbot and referred to as Moltbot in early versions, is an AI assistant framework that runs locally on macOS, Windows, or Linux. It supports cloud-based models such as Anthropic and OpenAI, as well as local models.
+
+The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. This flaw allows an unauthenticated remote attacker to steal an authentication token, which can then be used to achieve remote code execution, earning a high CVSS score of 8.8. As OpenClaw continues to gain popularity and broader adoption, the risk associated with this vulnerability increases significantly. Users are strongly encouraged to apply the vendor-provided updates without delay.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</guid>
     </item>
     <item>
       <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
@@ -153,6 +133,31 @@
       <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
       <description>SonicWall SVP Michael Crean appeared on Fox News to discuss Iran-linked cyber activity and the Stryker attack. Watch the full interview.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</guid>
+    </item>
+    <item>
+      <title>Juniper JunOS OS Evolved Pre-authenticated Remote Code Execution (CVE-2026-21902)</title>
+      <link>https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a severe unauthenticated Incorrect Permission Assignment for Critical Resource vulnerability in Juniper Networks Junos OS Evolved (PTX Series), assessed their impact, and developed mitigation measures. Juniper PTX Series routers are high-performance core and peering routers built for high throughput, low latency, and scale. They are commonly used by internet service providers, telecommunication services, and cloud network applications.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</guid>
+    </item>
+    <item>
+      <title>Three Decades for a 3-Line Fix: The Critical telnetd Bug Hiding in Plain Sight (CVE-2026-32746)</title>
+      <link>https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</link>
+      <description>The SonicWall Capture Labs threat research team became aware of an out-of-bounds write vulnerability in the Telnet server shipped with GNU Inetutils, assessed its impact and developed mitigation measures. Telnetd hardly needs an introduction. It is one of the oldest and most widely distributed network utilities on Linux systems.
+The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. This vulnerability, classified as a classic buffer overflow (CWE-120), allows an unauthenticated remote attacker to crash the server and potentially execute arbitrary commands. It carries a critical CVSS score of 9.8. Contrary to popular belief that Telnet is dead, it remains hidden within the vital infrastructure that runs the world. Hence, users are strongly encouraged to apply the vendor-provided patch or restrict/disable the telnet access without delay.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</guid>
+    </item>
+    <item>
+      <title>n8n Expression Sandbox Bypass RCE - CVE-2026-1470</title>
+      <link>https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</link>
+      <description>Critical CVSS 9.9 RCE vulnerability in n8n AI workflow automation via expression sandbox bypass. SonicWall IPS signatures IPS:21799 and IPS:22086 available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</guid>
+    </item>
+    <item>
+      <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
+      <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
+      <description>Critical CVSS 9.8 unauthenticated RCE in Langflow AI via build_public_tmp endpoint passes user input to exec() without sandboxing. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</guid>
     </item>
     <item>
       <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
@@ -185,12 +190,6 @@
       <description>Explore how combining the Cybersecurity Kill Chain and MITRE ATT&amp;CK helps build resilient security architecture with SonicWall MXDR.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rethinking-security-architecture</guid>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RSAC 2024: Don’t Call It a Comeback, We’ve Been Here for Years</title>
-      <link>https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/rsac-2024-dont-call-it-a-comeback-weve-been-here-for-years</guid>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Next Wave in Cybersecurity: Smarter Tools for MSP Growth</title>
@@ -270,10 +269,24 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Next.js WebSocket Upgrade Handler SSRF - CVE-2026-44578</title>
+      <link>https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</link>
+      <description>High-severity CVSS 8.6 SSRF in self-hosted Next.js servers via crafted WebSocket upgrade requests. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NGINX Rewrite Module Heap Overflow RCE - CVE-2026-42945</title>
       <link>https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</link>
       <description>Critical CVSS 9.2 heap buffer overflow in the NGINX rewrite module enables unauthenticated remote code execution. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joomla Content Editor Unauthenticated RCE - CVE-2026-48907</title>
+      <link>https://www.sonicwall.com/blog/joomla-content-editor-remote-code-execution</link>
+      <description>Critical CVSS 10.0 unauthenticated RCE in the Joomla Content Editor (JCE) extension allows PHP web shell upload and code execution. SonicWall IPS signature available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/joomla-content-editor-remote-code-execution</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
