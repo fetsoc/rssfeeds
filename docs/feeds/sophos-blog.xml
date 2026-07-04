@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 02:09:54 +0000</lastBuildDate>
-    <item>
-      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
-      <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 08:28:25 +0000</lastBuildDate>
     <item>
       <title>Bug bounties in the Mythos era</title>
       <link>https://www.sophos.com/en-us/blog/bug-bounties-in-the-mythos-era</link>
@@ -27,6 +20,13 @@
       <link>https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</link>
       <description>&lt;p&gt;209 patches + 388 advisories = welcome to summer 2026&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
+      <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
