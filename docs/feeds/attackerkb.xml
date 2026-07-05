@@ -7,45 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 19:00:47 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-58034</title>
-      <link>https://attackerkb.com/assessments/c67a510c-5ac5-43a7-affd-7b7655c4b62f</link>
-      <description>Attacker Value: 4/5 | Exploitability: 5/5
-
-Based on writing the Rapid7 Analysis, I have rated the exploitability as Very High, as exploitation is trivial and reliable. The Attacker Value is High as you do need an auth bypass to chain to (or other valid admin credentials).&#13;
-&#13;
-While this is authenticated, the auth bypass vulnerability CVE-2025-64446 can be used to create a new local administrator account, making chaining CVE-2025-64446 + CVE-2025-58034 equivalent to unauthenticated RCE.</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/c67a510c-5ac5-43a7-affd-7b7655c4b62f</guid>
-      <pubDate>Wed, 19 Nov 2025 19:11:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-64446</title>
-      <link>https://attackerkb.com/assessments/250f9ee0-9dde-4922-b731-e35b03ab311c</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
-
-CVE-2025-64446 — LAB-SAFE Proof of Concept  &#13;
-Author: nu11secur1ty  &#13;
-Status: LAB-SAFE / NON-EXPLOITABLE  &#13;
-Purpose: Research, Education &amp; Vendor Reporting Only  &#13;
-&#13;
----&#13;
-&#13;
- 🔒 IMPORTANT NOTICE  &#13;
-This README accompanies a LAB‑SAFE, non‑harmful, sanitized PoC designed exclusively for:  &#13;
-- Security research  &#13;
-- Vendor coordination  &#13;
-- Documentation  &#13;
-- Demonstration of non-sensitive behavior&#13;
-&#13;
-All dangerous exploitation steps, privilege‑escalation mechanics, auth‑bypass logic, and sensitive payloads are removed or neutralized to comply with safety and legal guidelines.&#13;
-&#13;
----&#13;
-&#13;
- 📌 CVE Desc…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/250f9ee0-9dde-4922-b731-e35b03ab311c</guid>
-      <pubDate>Mon, 24 Nov 2025 10:33:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 02:24:40 +0000</lastBuildDate>
     <item>
       <title>CVE-2020-2555</title>
       <link>https://attackerkb.com/assessments/88b29a33-35df-4ca0-85de-db9eb9ca956e</link>
@@ -712,6 +674,51 @@ Credit: Independent Security Research (Latin America Division) &#13;
 Status: Active Threat. Coordinated disclosure submitted to Rapid7, AttackerKB, CISA, Unisoc PSIRT, Mo…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/487da971-0613-4da1-b586-93cba85b0717</guid>
       <pubDate>Fri, 26 Jun 2026 18:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment f899c698</title>
+      <link>https://attackerkb.com/assessments/f899c698-8fa1-4fb0-a222-3fce50f2f038</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Exfiltration
+
+Detection Rules Summary&#13;
+Rule 1: UnisocT606ProvisioningBypass&#13;
+Severity: CRITICAL&#13;
+&#13;
+Detects hardcoded fscrypt provisioning bypass keys and LCD trigger identifiers that enable the "Fake Patch" engine.&#13;
+&#13;
+Rule 2: UnisocT606BuildPropertySpoofing&#13;
+Severity: CRITICAL&#13;
+&#13;
+Identifies spoofed Android build properties and version skew indicating false security patch claims.&#13;
+&#13;
+Rule 3: UnisocT606LongcheerODMSignature&#13;
+Severity: HIGH&#13;
+&#13;
+Recognizes Longcheer ODM supply chain artifacts and affected device models (Moto G04s, G24, E24).&#13;
+&#13;
+Rule 4: SupplyChainDeceptionIndicators&#13;
+Severity: CRITICAL&#13;
+&#13;
+Detects…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/f899c698-8fa1-4fb0-a222-3fce50f2f038</guid>
+      <pubDate>Sat, 04 Jul 2026 21:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment ec0352aa</title>
+      <link>https://attackerkb.com/assessments/ec0352aa-da69-4719-ad95-420257d9cff1</link>
+      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Exfiltration
+
+Title: com.spreadtrum.ims (Unisoc IMS Stack) — Suspected privileged IMS component with RCE potential Reporter: lexs201992 (lexs201992@gmail.com) Branch: sprd-ims-apk-report SHA256 (artifact reported): 1b938cb3920d601a38e4d80e88c87aaacc56abfa6464f3054de2430172c6f519&#13;
+&#13;
+Summary:&#13;
+&#13;
+com.spreadtrum.ims (Unisoc IMS stack) appears in investigated firmware for Motorola G04s / Unisoc T606 devices.&#13;
+The APK with the above SHA is flagged as HIGH in our assessment due to system privileges and its role in IMS (which can influence telephony/remote-execution surface when vulnerable).&#13;
+Evidence included:&#13;
+&#13;
+…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/ec0352aa-da69-4719-ad95-420257d9cff1</guid>
+      <pubDate>Sat, 04 Jul 2026 21:19:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
