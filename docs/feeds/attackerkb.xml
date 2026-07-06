@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 15:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 19:46:43 +0000</lastBuildDate>
     <item>
       <title>CVE-2020-2555</title>
       <link>https://attackerkb.com/assessments/88b29a33-35df-4ca0-85de-db9eb9ca956e</link>
