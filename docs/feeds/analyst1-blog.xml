@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 10:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 15:22:01 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -27,6 +27,13 @@
       <description>Defense Innovation Unit selects Analyst1 to transform cyber defense operations. Gain insights, enhance threat detection, and strengthen national security.</description>
       <guid isPermaLink="false">https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</guid>
       <pubDate>Thu, 13 Aug 2020 01:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>SC Media Group Test Review | Analyst1</title>
+      <link>https://analyst1.com/sc-media-group-test-review/</link>
+      <description>Discover in-depth test reviews from SC Media Group. Our monthly tests evaluate products based on performance, ease of use, documentation, and value for money.</description>
+      <guid isPermaLink="false">https://analyst1.com/sc-media-group-test-review/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:01 +0000</pubDate>
     </item>
     <item>
       <title>The Coronavirus, Cyberthreats and the 2020 U.S. Election | Analyst1</title>
@@ -71,18 +78,18 @@
       <pubDate>Wed, 11 Nov 2020 01:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom Mafia - Analysis of the World's First Ransomware Cartel | Analyst1</title>
-      <link>https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</link>
-      <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
-      <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
       <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
       <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
       <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
       <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
+      <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
+      <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
+      <guid isPermaLink="false">https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</guid>
+      <pubDate>Fri, 14 May 2021 01:01:34 +0000</pubDate>
     </item>
     <item>
       <title>New Ransomware Turns to Disruption and Sabotage | Analyst1</title>
@@ -99,6 +106,13 @@
       <pubDate>Fri, 18 Jun 2021 01:01:49 +0000</pubDate>
     </item>
     <item>
+      <title>Be the 1 to Put Skin in the Game - 2 | Analyst1</title>
+      <link>https://analyst1.com/be-the-1-to-put-skin-in-the-game-2/</link>
+      <description>Discover the power of sharing knowledge with Analyst1 - a balanced approach using Slack and Confluence. Put skin in the game and own the results.</description>
+      <guid isPermaLink="false">https://analyst1.com/be-the-1-to-put-skin-in-the-game-2/</guid>
+      <pubDate>Mon, 21 Jun 2021 01:01:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Absolute Ransom: Nation-State Ransomware | Analyst1</title>
       <link>https://analyst1.com/absolute-ransom-nation-state-ransomware/</link>
       <description>Uncover the alleged ties between Russian government and ransomware attacks. Explore Absolute Ransom: Nation-State Ransomware for the truth.</description>
@@ -111,13 +125,6 @@
       <description>Uncover the hidden world of Dark Web justice as cybercriminals settle disputes in underground courts. Explore verdicts, high-profile cases, and more.</description>
       <guid isPermaLink="false">https://analyst1.com/dark-web-justice-league/</guid>
       <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
-      <link>https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</link>
-      <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</guid>
-      <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
     </item>
     <item>
       <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
@@ -251,13 +258,6 @@
       <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
       <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is it time to replace your legacy TIP? | Analyst1</title>
-      <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
-      <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
-      <guid isPermaLink="false">https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</guid>
-      <pubDate>Thu, 23 May 2024 17:59:37 +0000</pubDate>
     </item>
     <item>
       <title>Why Threat Actors Matter | Analyst1</title>
