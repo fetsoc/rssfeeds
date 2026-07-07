@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 09:27:56 +0000</lastBuildDate>
-    <item>
-      <title>Modernize Remote Access with VPNaaS from SonicWall</title>
-      <link>https://www.sonicwall.com/blog/is-traditional-vpn-holding-your-enterprise-back-here-s-a-smarter-way-to-secure-remote-access</link>
-      <description>Traditional VPNs are slow, risky and outdated. Discover how SonicWall Cloud Secure Edge makes remote access safer, faster and easier to manage.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/is-traditional-vpn-holding-your-enterprise-back-here-s-a-smarter-way-to-secure-remote-access</guid>
-    </item>
-    <item>
-      <title>What’s New in SonicOS 7.2.0: Smarter Access and Security</title>
-      <link>https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</link>
-      <description>SonicOS 7.2.0 brings smarter authentication, Wi-Fi security, and time syncing to your firewall. See how it helps improve access and control.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/navigate-the-new-unpacking-sonicos-7-2-0</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 14:11:44 +0000</lastBuildDate>
     <item>
       <title>Wing FTP Server Remote Code Execution: CVE-2025-47812</title>
       <link>https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812</link>
@@ -211,6 +199,20 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>SonicWall launches SonicWall Unified Management to help MSPs streamline operations, reduce complexity, and improve security.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/work-smarter-not-harder-introducing-sonicplatform-the-cybersecurity-platform-for-msps</guid>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scale Smarter and Deliver More Value with SonicWall MPSS</title>
+      <link>https://www.sonicwall.com/blog/extend-your-bench-and-offer-proactive-value-with-sonicwall-s-managed-protection-service-suite</link>
+      <description>MPSS helps MSPs monitor, manage, and optimize firewall security while freeing up resources to better serve their customers.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/extend-your-bench-and-offer-proactive-value-with-sonicwall-s-managed-protection-service-suite</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even Enterprise Firewalls Need Powerful, Attentive Management</title>
+      <link>https://www.sonicwall.com/blog/why-your-most-powerful-firewalls-deserve-the-most-attentive-management</link>
+      <description>All firewalls require active management to provide the best threat protection, and that's true for large, enterprise firewalls too.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-your-most-powerful-firewalls-deserve-the-most-attentive-management</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
