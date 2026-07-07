@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 02:24:36 +0000</lastBuildDate>
-    <item>
-      <title>April 2026 Phishing Email Trends Report</title>
-      <link>https://asec.ahnlab.com/en/93706/</link>
-      <description>Statistics on Attachment Threat Types in April 2026, the most common threat in phishing email attachments was Trojan (47%). this type was distributed by disguising itself with a double extension or a legitimate file name to trick the user into executing it and installing malware on the system. they continued to spread through multiple variants [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93706/</guid>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>April 2026 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/93657/</link>
-      <description>Purpose and Scope this report summarizes ransomware-related statistics based on Dedicated Leak Sites (DLS) (ransomware PR sites or PR pages) and Quantity of ransomware damaged systems identified during the month of April 2026. it also provides major ransomware issues in Korea and abroad and Damage Trends by Industry/Region. Key Statistics ransomware Sample Quantity and Damage [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93657/</guid>
-      <pubDate>Mon, 11 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 09:29:31 +0000</lastBuildDate>
     <item>
       <title>April 2026 Security Issues in Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/93805/</link>
@@ -58,17 +44,17 @@
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
-      <link>https://asec.ahnlab.com/en/93932/</link>
-      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
       <link>https://asec.ahnlab.com/en/93803/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Nova Ransomware Attack on South Korean Cosmetics and Chemical Firm CoinbaseCartel, Data Leak Claim Against Open-Source Visualization Platform TeamPCP Claimed Source Code Leak and Sale from Major Developer Platform</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93803/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guest at Midnight: Analysis of EndPoint (Midnight)</title>
+      <link>https://asec.ahnlab.com/en/93932/</link>
+      <description>Summary EndPoint is a ransomware variant formerly known as Midnight, which is believed to be built on the Babuk ransomware framework. It targets not only Windows environments, but also ESXi and NAS environments, and uses a double extortion method that combines file encryption with Data exfiltration threats. Overview Since the Babuk source code leak, several [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93932/</guid>
       <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -114,13 +100,6 @@
       <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>May 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94028/</link>
-      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>May 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94034/</link>
       <description>Notes the May 2026 Dark Web Issue Trend Report summarizes the Major Issues that occurred on the deep web and dark web. it stated that due to the nature of the sources, some of the information cannot be fully verified for factual accuracy. Major Issues Hasan&amp;#8217;s BreachForums experienced a moderator split, with HasanBroker being ousted [&amp;#8230;]</description>
@@ -132,6 +111,13 @@
       <link>https://asec.ahnlab.com/en/94033/</link>
       <description>Notes the May 2026 Dark Web Threat Actor Trend Report summarizes the trends of threat actors and hacktivists operating on the deep web and dark web. some statements are not factually verifiable. Major Issues hacktivist activity targeting the South Korean Region was concentrated. some hacktivist groups claimed DDoS attacks against the website of the South [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94033/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94028/</link>
+      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +203,20 @@
       <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vidar Infostealer Being Spread through Phishing Emails</title>
+      <link>https://asec.ahnlab.com/en/94363/</link>
+      <description>1. Overview First identified in 2018, Vidar operates under a Malware-as-a-Service (MaaS) model and continues to be distributed through various attack cases to this day. AhnLab SEcurity intelligence Center (ASEC) has been monitoring cases of Vidar distribution targeting Korea, and this report summarizes the Vidar distribution cases identified in the first half of 2026.&amp;#160; &amp;#160; [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94363/</guid>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q2 2026 Vulnerability Trends Report</title>
+      <link>https://asec.ahnlab.com/en/94360/</link>
+      <description>Summary of Vulnerability Trends for the Second Quarter of 2026 A total of 20,701 new CVEs were reported in the second quarter of 2026. Of these, 2,317 were “Critical” vulnerabilities with a CVSS score of 9.0 Or higher, accounting for 11.2% Of the total. Medium- and high-risk vulnerabilities, including those rated “High,” accounted for 51.7% [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94360/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 02:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:27:56 +0000</lastBuildDate>
     <item>
       <title>Modernize Remote Access with VPNaaS from SonicWall</title>
       <link>https://www.sonicwall.com/blog/is-traditional-vpn-holding-your-enterprise-back-here-s-a-smarter-way-to-secure-remote-access</link>

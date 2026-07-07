@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 02:23:24 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/high-precision-teams-impersonation-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/29f79133bb7ed60eb48b08936c2be0d757fbb9ae</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/high-precision-teams-impersonation-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/29f79133bb7ed60eb48b08936c2be0d757fbb9ae</guid>
-      <pubDate>Sun, 31 May 2026 14:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/detecting-ntlm-leakage-in-windows-search.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/b3d6623ed1ae067cb2ca7315612ffd9a04a4044e</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detecting-ntlm-leakage-in-windows-search.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/b3d6623ed1ae067cb2ca7315612ffd9a04a4044e</guid>
-      <pubDate>Thu, 04 Jun 2026 17:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/exposure-management-ai-agents-inventory.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/da82f76e62063704f8b85a578226d42e563e2656</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/exposure-management-ai-agents-inventory.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/da82f76e62063704f8b85a578226d42e563e2656</guid>
-      <pubDate>Tue, 09 Jun 2026 09:48:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 09:27:55 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/greatkql-detection-for-greatxml.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/886f4c1e70146ee832c9e947c6f0c0f53a11cbff</link>
@@ -147,6 +126,27 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve202614191--winrar-rce-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/fea2c687e3a63c34ed285239908c8ce102898059</guid>
       <pubDate>Thu, 02 Jul 2026 15:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/mdvm-zero-day-impact-analysis.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/ae0e7da78f3bd20d043a7f29611f9028eb932f77</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/mdvm-zero-day-impact-analysis.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/ae0e7da78f3bd20d043a7f29611f9028eb932f77</guid>
+      <pubDate>Tue, 07 Jul 2026 06:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/high-fidelity-artoken-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/1f71e4087c8f2b2c2e714c4bd105c61931007933</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/high-fidelity-artoken-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/1f71e4087c8f2b2c2e714c4bd105c61931007933</guid>
+      <pubDate>Tue, 07 Jul 2026 06:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/cve-2026-26128-kerberos-reflection-bypass-detecti…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/4d56749311e1040c28392d4920a1c9ee1cf6cbec</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve-2026-26128-kerberos-reflection-bypass-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4d56749311e1040c28392d4920a1c9ee1cf6cbec</guid>
+      <pubDate>Tue, 07 Jul 2026 06:09:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
