@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 19:45:12 +0000</lastBuildDate>
-    <item>
-      <title>One Year In, SonicWall’s MSS Evolution Is Just Getting Started</title>
-      <link>https://www.sonicwall.com/blog/one-year-in-sonicwall-s-mss-evolution-is-just-getting-started</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/one-year-in-sonicwall-s-mss-evolution-is-just-getting-started</guid>
-    </item>
-    <item>
-      <title>Say Goodbye to Clunky VPNs with SonicWall VPNaaS</title>
-      <link>https://www.sonicwall.com/blog/it-s-time-to-break-up-with-your-vpn</link>
-      <description>Tired of outdated VPNs slowing you down? See how SonicWall Cloud Secure Edge offers safer, simpler remote access that grows with your business.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/it-s-time-to-break-up-with-your-vpn</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 02:23:26 +0000</lastBuildDate>
     <item>
       <title>Modernize Remote Access with VPNaaS from SonicWall</title>
       <link>https://www.sonicwall.com/blog/is-traditional-vpn-holding-your-enterprise-back-here-s-a-smarter-way-to-secure-remote-access</link>
@@ -161,6 +150,11 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</guid>
     </item>
     <item>
+      <title>Stop Confusing Demos with POCs — Your Pipeline Depends on It</title>
+      <link>https://www.sonicwall.com/blog/stop-confusing-demos-with-pocs-your-pipeline-depends-on-it</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-confusing-demos-with-pocs-your-pipeline-depends-on-it</guid>
+    </item>
+    <item>
       <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
       <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
       <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
@@ -176,6 +170,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <title>Android Arsink RAT Revisited Targeting User Credentials</title>
       <link>https://www.sonicwall.com/blog/android-arsink-rat-revisited-targeting-user-credentials</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/android-arsink-rat-revisited-targeting-user-credentials</guid>
+    </item>
+    <item>
+      <title>Partner Power News - July 2026: Pricing Updates, Promotions &amp; AI Growth Opportunities | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-july-2026-pricing-adjustment-new-promotions-more-ways-to-grow</link>
+      <description>Discover the latest July 2026 partner updates, including pricing adjustments, exclusive Cloud Secure Edge promotions, AI innovation for SMBs, healthcare cybersecurity alerts, new product releases, events, and resources to help grow your business.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-july-2026-pricing-adjustment-new-promotions-more-ways-to-grow</guid>
     </item>
     <item>
       <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>
