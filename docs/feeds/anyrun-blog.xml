@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 14:13:21 +0000</lastBuildDate>
-    <item>
-      <title>Intelligence-Driven Threat Hunting: How SOCs Find What Alerts Miss</title>
-      <link>https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/</link>
-      <description>&lt;p&gt;Talk to any threat hunter long enough, and beneath the polished case studies and conference talks, the same frustrations surface. Hunting is supposed to be proactive. In practice, it often feels reactive. You are chasing whispers of activity through log noise, querying SIEM fields that barely reflect real attacker&amp;#160;behavior&amp;#160;and writing detections against technique descriptions that [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/"&gt;Intelligence-Driven Threat Hunting: How SOCs Find What Alerts Miss&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/threat-hunting-practical-usecases/</guid>
-      <pubDate>Wed, 10 Jun 2026 12:49:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 19:45:25 +0000</lastBuildDate>
     <item>
       <title>From Infosecurity Europe to CONFidence and C1b3rWall: What Security Teams Are Prioritizing in 2026</title>
       <link>https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-june-2026/"&gt;Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-june-2026/</guid>
       <pubDate>Wed, 01 Jul 2026 11:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana RAT Evolves: Comparing Two Recent Branches Through ANY.RUN</title>
+      <link>https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/</link>
+      <description>&lt;p&gt;Editor’s note:&amp;#160;The analysis is authored by Moises Cerqueira,&amp;#160;malware researcher &amp;#38; threat hunter. You can&amp;#160;find Moises on&amp;#160;LinkedIn&amp;#160;and&amp;#160;X. This analysis started with an exposed public index on 198[.]245[.]53[.]26, discovered via Shodan. What made it interesting was not just the server exposure itself, but the fact that it lets us compare two different Banana RAT branches tied to [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/"&gt;Banana RAT Evolves: Comparing Two Recent Branches Through ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/</guid>
+      <pubDate>Tue, 07 Jul 2026 14:02:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

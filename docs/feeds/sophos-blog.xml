@@ -7,19 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 14:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 19:45:26 +0000</lastBuildDate>
     <item>
       <title>June Patch Tuesday smashes past 500-CVE mark</title>
       <link>https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</link>
       <description>&lt;p&gt;209 patches + 388 advisories = welcome to summer 2026&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/june-2026-patch-tuesday</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos recognized for endpoint leadership in SE Labs Awards 2026</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</link>
-      <description>&lt;p&gt;Independent testing confirms what our customers already know: Sophos Endpoint delivers consistent, real-world protection at every tier of the market, from the largest enterprises to small businesses.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-se-labs-awards-2026</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;AI turns a patched bug into a working exploit in hours. Why endpoint exploit mitigation stalled in 2008, and what a default-on mitigation layer looks like now.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-exploit-mitigation</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When AI agents look like attackers: what behavioral telemetry tells us</title>
+      <link>https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry</link>
+      <description>&lt;p&gt;An X-Ops analysis of how AI coding agents trigger endpoint detection rules designed for adversaries&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

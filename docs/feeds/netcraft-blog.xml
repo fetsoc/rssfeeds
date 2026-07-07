@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 14:11:49 +0000</lastBuildDate>
-    <item>
-      <title>December 2025 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/december-2025-web-server-survey</link>
-      <description>In the December 2025 survey we received responses from 1,389,596,802 sites across 291,965,818 domains and 13,972,590 web-facing computers. This ref...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/december-2025-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 19:44:22 +0000</lastBuildDate>
     <item>
       <title>Lookalike Domains: Why “rn” vs “m” Still Works in Phishing</title>
       <link>https://www.netcraft.com/blog/the-lowest-tech-homoglyph-that-wont-die</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brands</link>
       <description>Learn how scammers use fake gambling ads, app store pages, and PWAs to impersonate trusted brands and drive users to online casinos.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brands</guid>
+    </item>
+    <item>
+      <title>brand protection monitoring</title>
+      <link>https://www.netcraft.com/blog/brand-protection-monitoring</link>
+      <description>Brand protection breaks down when monitoring is fragmented. Learn how attack surface sprawl creates risk, and why cross-channel coverage is essential.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/brand-protection-monitoring</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
