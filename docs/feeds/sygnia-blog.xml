@@ -7,31 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 08:13:59 +0000</lastBuildDate>
-    <item>
-      <title>Sygnia Appoints Ran Buck as Chief Revenue Officer to Accelerate Global Growth</title>
-      <link>https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/</link>
-      <description>&lt;p&gt;Cyber readiness and response leader expands go-to-market leadership as organizations seek trusted partners across the full lifecycle of cyber incidents&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/"&gt;Sygnia Appoints Ran Buck as Chief Revenue Officer to Accelerate Global Growth&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-appoints-ran-buck-as-chief-revenue-officer/</guid>
-      <pubDate>Thu, 14 May 2026 10:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident Response Metrics That Actually Matter to Boards (And the Ones That Don’t)</title>
-      <link>https://www.sygnia.co/blog/incident-response-metrics-that-matter/</link>
-      <description>&lt;p&gt;Learn which incident response metrics boards actually need to make decisions, and which ones create false confidence.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-metrics-that-matter/"&gt;Incident Response Metrics That Actually Matter to Boards (And the Ones That Don&amp;#8217;t)&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-metrics-that-matter/</guid>
-      <pubDate>Wed, 27 May 2026 10:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Anatomy of Cyber Attacks Affecting OT Organizations</title>
-      <link>https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/</link>
-      <description>&lt;p&gt;Join us for a practical session based on Sygnia’s field experience across dozens of industrial and OT-centric incidents.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/"&gt;The Anatomy of Cyber Attacks Affecting OT Organizations&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/webinars/the-anatomy-of-cyber-attacks-affecting-ot-organizations/</guid>
-      <pubDate>Tue, 02 Jun 2026 14:26:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 13:47:05 +0000</lastBuildDate>
     <item>
       <title>Velvet Ant’s Operation Highland: How a China-Nexus Actor Infiltrated an Internal Network Undetected</title>
       <link>https://www.sygnia.co/blog/operation-highland-velvet-ant/</link>
@@ -79,6 +55,30 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/why-organizations-still-arent-ready-for-a-cyberattack/"&gt;Why 73% of Organizations Still Aren&amp;#8217;t Ready for a Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/blog/why-organizations-still-arent-ready-for-a-cyberattack/</guid>
       <pubDate>Sun, 28 Jun 2026 11:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside an AI-Assisted Cloud Attack: Familiar Techniques at Unfamiliar Speed</title>
+      <link>https://www.sygnia.co/blog/inside-an-ai-assisted-cloud-attack/</link>
+      <description>&lt;p&gt;Learn how a threat actor used AI to accelerate a cloud attack from initial access to broad compromise in just 72 hours&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/inside-an-ai-assisted-cloud-attack/"&gt;Inside an AI-Assisted Cloud Attack: Familiar Techniques at Unfamiliar Speed&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/inside-an-ai-assisted-cloud-attack/</guid>
+      <pubDate>Mon, 29 Jun 2026 09:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live Webinar: Inside an AI-Assisted Cloud Attack</title>
+      <link>https://www.sygnia.co/webinars/inside-an-ai-assisted-cloud-attack-familiar-techniques-at-unfamiliar-speed/</link>
+      <description>&lt;p&gt;Join a practical session based on Sygnia’s investigation of an AI-assisted cloud intrusion that progressed from initial access to broad compromise in just 72 hours.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/inside-an-ai-assisted-cloud-attack-familiar-techniques-at-unfamiliar-speed/"&gt;Live Webinar: Inside an AI-Assisted Cloud Attack&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/inside-an-ai-assisted-cloud-attack-familiar-techniques-at-unfamiliar-speed/</guid>
+      <pubDate>Wed, 01 Jul 2026 13:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment</title>
+      <link>https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</link>
+      <description>&lt;p&gt;Financially motivated cyberattack reveals agentic AI workflows to accelerate victim reconnaissance, attack tool development, command structuring and environment-specific adaptation. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/"&gt;Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</guid>
+      <pubDate>Wed, 08 Jul 2026 09:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

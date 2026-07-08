@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 08:12:10 +0000</lastBuildDate>
-    <item>
-      <title>Wing FTP Server Remote Code Execution: CVE-2025-47812</title>
-      <link>https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812</guid>
-    </item>
-    <item>
-      <title>Oracle Identity Manager Authentication Bypass Vulnerability (CVE-2025-61757)</title>
-      <link>https://www.sonicwall.com/blog/oracle-identity-manager-authentication-bypass-vulnerability-cve-2025-61757-</link>
-      <description>Oracle Identity Manager Authentication Bypass Vulnerability (CVE-2025-61757)</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/oracle-identity-manager-authentication-bypass-vulnerability-cve-2025-61757-</guid>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 13:45:22 +0000</lastBuildDate>
     <item>
       <title>Oracle E-Business Suite Under Siege: Active Exploitation of Dual Zero-Days</title>
       <link>https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days</link>
@@ -143,6 +132,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-confusing-demos-with-pocs-your-pipeline-depends-on-it</guid>
     </item>
     <item>
+      <title>Partner Power News - June 2026: Fresh Insights, New Releases &amp; More Ways to Win | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</link>
+      <description>Explore June 2026 Partner Power News: Gen 8 releases, Zero Trust innovations, MDF resources, success stories, expert insights, and upcoming events to help you win.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
+    </item>
+    <item>
       <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
       <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
       <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
@@ -164,6 +159,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/partner-power-news-july-2026-pricing-adjustment-new-promotions-more-ways-to-grow</link>
       <description>Discover the latest July 2026 partner updates, including pricing adjustments, exclusive Cloud Secure Edge promotions, AI innovation for SMBs, healthcare cybersecurity alerts, new product releases, events, and resources to help grow your business.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-july-2026-pricing-adjustment-new-promotions-more-ways-to-grow</guid>
+    </item>
+    <item>
+      <title>Overdrawn: Why Financial Services Takes More Hits and Patches Less</title>
+      <link>https://www.sonicwall.com/blog/most-targeted-most-overdrawn-the-financial-sector-s-security-debt</link>
+      <description>Financial services faces more cyberattacks per device than any other industry — and some of the vulnerabilities being exploited are over a decade old. Here's what the data actually says.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/most-targeted-most-overdrawn-the-financial-sector-s-security-debt</guid>
     </item>
     <item>
       <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>

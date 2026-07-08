@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 08:13:55 +0000</lastBuildDate>
-    <item>
-      <title>From Infosecurity Europe to CONFidence and C1b3rWall: What Security Teams Are Prioritizing in 2026</title>
-      <link>https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/</link>
-      <description>&lt;p&gt;Three cities, three cybersecurity conferences, and plenty of conversations with security professionals across Europe.&amp;#160; Over the past few weeks, the ANY.RUN team joined Infosecurity Europe in London, CONFidence Conference in Kraków, and C1b3rWall Congress in Ávila. While every event had its own focus, the discussions pointed in the same direction: security teams need faster investigations, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/"&gt;From Infosecurity Europe to CONFidence and C1b3rWall: What Security Teams Are Prioritizing in 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/europe-cybersecurity-conferences-2026/</guid>
-      <pubDate>Thu, 11 Jun 2026 08:31:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 13:47:00 +0000</lastBuildDate>
     <item>
       <title>The New Standard for URL Analysis: Closing Phishing Blind Spots with In-Browser Data Inspection</title>
       <link>https://any.run/cybersecurity-blog/in-browser-data-inspection/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/"&gt;Banana RAT Evolves: Comparing Two Recent Branches Through ANY.RUN &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/</guid>
       <pubDate>Tue, 07 Jul 2026 14:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>NIST CSF 2.0 Practical Guide: Building a Modern Security Program for Risk Management in the US Companies</title>
+      <link>https://any.run/cybersecurity-blog/nist-csf-guide-for-cisos/</link>
+      <description>&lt;p&gt;Cybersecurity programs often grow over time&amp;#160;through new policies, controls, and technologies. The challenge for CISOs is making sure these pieces work together and support the risks that matter most to the business.&amp;#160; NIST CSF 2.0 provides a practical structure for doing that. It helps US organizations understand their current security posture, define clear priorities, and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/nist-csf-guide-for-cisos/"&gt;NIST CSF 2.0 Practical Guide: Building a Modern Security Program for Risk Management in the US Companies&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/nist-csf-guide-for-cisos/</guid>
+      <pubDate>Wed, 08 Jul 2026 11:14:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
