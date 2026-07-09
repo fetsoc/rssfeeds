@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 19:16:27 +0000</lastBuildDate>
-    <item>
-      <title>April 2026 Threat Trend Report on APT Groups</title>
-      <link>https://asec.ahnlab.com/en/93744/</link>
-      <description>Purpose and Scope this report covers cyber espionage and covert sabotage activities by Region-led threat groups believed to be supported by the Region. it excludes cybercrime groups that operate for financial gain. based on publicly available analysis over the past month, we categorized threat actors according to the names of their representatives in the ATIP. [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93744/</guid>
-      <pubDate>Sun, 17 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>April 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/93750/</link>
-      <description>Content this report summarizes the trends of new Infostealers collected during the month of April 2026, including distribution channels, malware distribution, malware quantity, detection quantity, and disguised targets. the data collected is based on ASEC&amp;#8217;s Automated Data Collection System, Email Honeypot System, and AhnLab product detection results. Purpose and Scope the report covers Infostealers Disguised [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93750/</guid>
-      <pubDate>Mon, 18 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>After two years, Telegram smishing is back, and account takeovers are here to stay</title>
-      <link>https://asec.ahnlab.com/en/93790/</link>
-      <description>Following the Telegram account takeover campaign in 2024, a smishing attack has recently been identified that uses Telegram security issues to steal users&amp;#8217; account information. threat actors hijack Telegram accounts by tricking users into entering their phone numbers and login codes on phishing sites. once an account is compromised, it can lead to personal information [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93790/</guid>
-      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 02:15:18 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, May 2026</title>
       <link>https://asec.ahnlab.com/en/93803/</link>
@@ -65,17 +44,17 @@
       <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93881/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
       <link>https://asec.ahnlab.com/en/93875/</link>
       <description>WormGPT, which emerged in June 2023, has brought a paradigm shift to the cybercrime ecosystem. generative AI has lowered the barrier to entry for attacks, and AI-powered hacking tools are rapidly proliferating in both paid subscription services and free open source. furthermore, AI is evolving beyond the creation of attack tools to the management of [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/93875/</guid>
+      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
+      <link>https://asec.ahnlab.com/en/93881/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
       <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -182,6 +161,27 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, July 2026. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Settra cliams data leak at Korean industrial firm&amp;#8217;s foreign affiliate The Gentlemen launches ransomware attacks against Spanish defense, aerospace, and IT service firms DragonForce claims data theft targeting a South Korean smart factory and digital twin company</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94315/</guid>
       <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
+      <link>https://asec.ahnlab.com/en/94398/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Windows Database Servers in the Second Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/94397/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) analyzed attack logs from the second quarter of 2026 targeting MS-SQL server and MySQL server installations on Windows. This report summarizes the damage status, attack status, and the classification of the malware and tools used in the attacks. Purpose and Scope The targets are MS-SQL servers and MySQL [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94397/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Second Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/94396/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) collected and analyzed attack logs targeting poorly managed Linux SSH servers through honeypots. The scope of the analysis covers attack sources that progressed to executing actual malware installation commands, as well as statistics on the malware used in those attacks. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94396/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q2 2026 Attack Techniques Trend Report</title>
