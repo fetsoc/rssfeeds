@@ -7,49 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 02:15:15 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2020-2555</title>
-      <link>https://attackerkb.com/assessments/88b29a33-35df-4ca0-85de-db9eb9ca956e</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5 | MITRE: Execution
-
-Attack Vector&#13;
-- Protocol: T3&#13;
-- Authentication: Not Required&#13;
-- Complexity: Low&#13;
-- Impact: Full System Compromise&#13;
-&#13;
- Impact&#13;
-&#13;
-- Remote code execution with WebLogic server privileges&#13;
-- Complete system access&#13;
-- Potential domain compromise&#13;
-- Data exfiltration capabilities&#13;
-&#13;
- Detection&#13;
-&#13;
-Organizations can detect exploitation attempts by monitoring for:&#13;
-- Unusual T3 protocol traffic patterns&#13;
-- Suspicious deserialization events in WebLogic logs&#13;
-- Unexpected process execution from WebLogic JVM&#13;
-&#13;
- Mitigation&#13;
-&#13;
- Immediate Actions&#13;
-1. Apply latest Oracle Critical Patch Updates&#13;
-2. Restrict …</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/88b29a33-35df-4ca0-85de-db9eb9ca956e</guid>
-      <pubDate>Fri, 28 Nov 2025 22:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-59287</title>
-      <link>https://attackerkb.com/assessments/777017b2-e9b8-4ce7-910f-e1e0855c1ce4</link>
-      <description>Attacker Value: 5/5 | Exploitability: 4/5
-
-In October 2025, Microsoft released a patch for a deserialization vulnerability in Windows Server Update Service (WSUS). WSUS is a centralized Microsoft update distribution service for administrators. The vulnerability allows an unauthenticated attacker to send a request with a deserialized malicious payload, which can reach the vulnerable soapFormatter. The vulnerability can be exploited by a series of requests to WSUS, where the malicious payload is contained in the AuthorizationCookie vulnerability. The vulnerable soapFormatter can be reached by sending a request to /ReportingWebService/Rep…</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/777017b2-e9b8-4ce7-910f-e1e0855c1ce4</guid>
-      <pubDate>Thu, 04 Dec 2025 14:34:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 09:26:16 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-55182</title>
       <link>https://attackerkb.com/assessments/0a808ee6-5df2-443a-a634-813dc0946305</link>
@@ -719,6 +677,54 @@ Evidence included:&#13;
 …</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/ec0352aa-da69-4719-ad95-420257d9cff1</guid>
       <pubDate>Sat, 04 Jul 2026 21:19:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2021-39658</title>
+      <link>https://attackerkb.com/assessments/8e18ded1-e58a-40ab-9cdc-5d4c9f5e1a01</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Exfiltration
+
+ADDENDUM 02: Supply Chain Weaponization via ODM Certificate Authority &amp; Persistent Data Collection&#13;
+ ADDENDUM 02: Armamentización de la Cadena de Suministro vía Autoridad de Certificación ODM y Recolección Persistente de Datos&#13;
+&#13;
+Date: July 09, 2026  &#13;
+To: Cisco Talos Intelligence Group, Rapid7 AttackerKB  &#13;
+From: Alex de la Cruz (Independent Security Researcher, LATAM Division)  &#13;
+Subject: Technical Correlation of Longcheer X.509 Roots, Spreadtrum Camera Dumps, and Global C2 Exfiltration  &#13;
+Asunto: Correlación Técnica de Raíces X.509 de Longcheer, Volcados de Cámara Spreadtrum y Exfiltración …</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/8e18ded1-e58a-40ab-9cdc-5d4c9f5e1a01</guid>
+      <pubDate>Thu, 09 Jul 2026 04:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2021-39658</title>
+      <link>https://attackerkb.com/assessments/0c3030bd-bf76-4141-a734-86babdad4d3e</link>
+      <description>Attacker Value: 5/5 | Exploitability: 2/5 | MITRE: Exfiltration
+
+8 YARA Rules Documentation&#13;
+ Unisoc T606/T616 Supply Chain Deception Detection&#13;
+&#13;
+---&#13;
+&#13;
+ 📋 Table of Contents&#13;
+&#13;
+1. Overview&#13;
+2. YARA Rule Syntax&#13;
+3. Detection Rules&#13;
+4. Usage Examples&#13;
+5. Integration Guide&#13;
+6. Performance Considerations&#13;
+&#13;
+---&#13;
+&#13;
+ 🎯 Overview&#13;
+&#13;
+This document provides comprehensive documentation for YARA rules designed to detect indicators of supply chain compromise in Unisoc T606/T616 devices, specifically targeting:&#13;
+&#13;
+- Hardcoded provisioning bypass keys&#13;
+- Build property spoofing mechanisms&#13;
+- Longcheer ODM supply chain artifacts&#13;
+- Mexico government breach indicators (SAT…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/0c3030bd-bf76-4141-a734-86babdad4d3e</guid>
+      <pubDate>Thu, 09 Jul 2026 06:06:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

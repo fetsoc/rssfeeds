@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 02:15:14 +0000</lastBuildDate>
-    <item>
-      <title>Technical and Strategic Analysis of the OpenClaw Ecosystem: Security Vulnerabilities, Deployment Risks, and the Evolution of Agentic AI</title>
-      <link>https://falconfeeds.io/blogs/openclaw-ecosystem-security-vulnerabilities-deployment-risks-agentic-ai</link>
-      <description>Explore the OpenClaw ecosystem through a technical and strategic analysis of its rapid rise, security vulnerabilities, deployment risks, rebranding turmoil, and the broader evolution of agentic AI.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/openclaw-ecosystem-security-vulnerabilities-deployment-risks-agentic-ai</guid>
-      <pubDate>Fri, 13 Mar 2026 04:31:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 09:26:14 +0000</lastBuildDate>
     <item>
       <title>War-Time Data Leaks: How Threat Actors Use Stolen Documents for Political Influence</title>
       <link>https://falconfeeds.io/blogs/war-time-data-leaks-stolen-documents-political-influence</link>
@@ -357,6 +350,13 @@
       <description>Explore how threat actors are using AI, LLMs, and machine learning to automate cyberattacks and what cyber threat intelligence teams need to know to stay ahead.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-training-ai-cti-ai-enabled-cyber-threats</guid>
       <pubDate>Wed, 01 Jul 2026 05:34:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside DieNet: From DDoS Collective to Multi-Vector Cyber Threat Group</title>
+      <link>https://falconfeeds.io/blogs/inside-dienet-ddos-collective-to-multi-vector-threat-group</link>
+      <description>Explore DieNet's rise from a DDoS collective to a multi-vector cyber threat group, its LockNet ransomware operations, attack evolution, and eventual operational shutdown.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/inside-dienet-ddos-collective-to-multi-vector-threat-group</guid>
+      <pubDate>Thu, 09 Jul 2026 06:02:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
