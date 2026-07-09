@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 09:26:17 +0000</lastBuildDate>
-    <item>
-      <title>CMMC Conditional Status - Contracting Without Compliance</title>
-      <link>https://trustedsec.com/blog/cmmc-conditional-status</link>
-      <description>&amp;lt;p&amp;gt;CMMC Conditional Status gives defense contractors breathing room, exactly 180 days of it. In this blog, we break down who qualifies, what&amp;#039;s required to achieve it, and how to close it out before the deadline.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-conditional-status</guid>
-      <pubDate>Tue, 02 Jun 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 14:45:33 +0000</lastBuildDate>
     <item>
       <title>The Privileged Roles Nobody Talks About</title>
       <link>https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;What if your public repo could stay out of AI training data without changing how you commit? In this blog, we introduce ObfusGit, a Python tool that obfuscates your public copy while your local repo stays untouched.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/welcoming-obfusgit</guid>
       <pubDate>Tue, 07 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnify: Giving Your Agents a CVE Brain</title>
+      <link>https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain</link>
+      <description>&amp;lt;p&amp;gt;When building agentic components for pentesting, CVEs are inevitably going to come up. I never found anything that matched what I needed; I did not want &amp;amp;quot;search the web and hope,&amp;amp;quot; but actual answers bound to a…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain</guid>
+      <pubDate>Thu, 09 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
