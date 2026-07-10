@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 19:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 02:08:53 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/greatkql-detection-for-greatxml.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/886f4c1e70146ee832c9e947c6f0c0f53a11cbff</link>

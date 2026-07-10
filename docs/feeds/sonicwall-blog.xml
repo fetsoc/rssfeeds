@@ -7,44 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 19:25:56 +0000</lastBuildDate>
-    <item>
-      <title>Oracle E-Business Suite Under Siege: Active Exploitation of Dual Zero-Days</title>
-      <link>https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days</guid>
-    </item>
-    <item>
-      <title>Understanding SalatStealer: A Threat Actor’s Golang Stealer Toolset</title>
-      <link>https://www.sonicwall.com/blog/understanding-salatstealer-a-threat-actors-golang-stealer-toolset</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-salatstealer-a-threat-actors-golang-stealer-toolset</guid>
-    </item>
-    <item>
-      <title>React2Shell (CVE-2025-55182) Critical Unauthenticated RCE</title>
-      <link>https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/react2shell-cve-2025-55182-critical-unauthenticated-rce</guid>
-    </item>
-    <item>
-      <title>Hewlett Packard Enterprise (HPE) OneView Software, Remote Code Execution (CVE-2025-37164)</title>
-      <link>https://www.sonicwall.com/blog/maximum-severity-unauthenticated-remote-code-execution-in-hpe-oneview-cve-2025-37164</link>
-      <description>HPE OneView is a software-defined infrastructure management platform that centralizes and automates the monitoring and management of HPE servers, storage, and networking. A potential security vulnerability has been identified in Hewlett Packard Enterprise OneView Software. This vulnerability could be exploited, allowing a remote unauthenticated user to perform remote code execution.
-A critical vulnerability, tracked as CVE-2025-37164, has been discovered in HPE OneView, affecting all versions up to and including v10.20. This flaw enables unauthenticated remote attackers to execute arbitrary code on the server, earning a perfect CVSS score of 10.0. 
-
-References: CVE-2025-37164</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/maximum-severity-unauthenticated-remote-code-execution-in-hpe-oneview-cve-2025-37164</guid>
-    </item>
-    <item>
-      <title>N8n AI Workflow Automation Remote Code Execution Vulnerability (CVE-2025-68613)</title>
-      <link>https://www.sonicwall.com/blog/n8n-ai-workflow-automation-remote-code-execution-vulnerability-cve-2025-68613-</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a Critical Remote Code Execution (RCE) Vulnerability in n8n, a flexible AI workflow automation platform, assessed its impact, and developed mitigation measures. N8N is frequently used to automate repetitive operational tasks and to integrate security tools and SaaS platforms. In simple words, using n8n users build workflows composed of nodes, with each node representing an action such as making an API request, processing data, or sending an email.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/n8n-ai-workflow-automation-remote-code-execution-vulnerability-cve-2025-68613-</guid>
-    </item>
-    <item>
-      <title>Multiple vulnerabilities in SolarWinds Web Help Desk Leading to RCE: CVE-2025-40551</title>
-      <link>https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a critical vulnerability chain in SolarWinds Web Help Desk (WHD), assessed its impact and developed mitigation measures. SolarWinds WHD is an IT Ticketing and Asset Management solution designed for small-to-medium IT teams to automate service requests and track hardware/software inventory.
-The issues, tracked as CVE-2025-40536 (Security Protection Bypass) and CVE-2025-40551 (a deserialization bypass in the AjaxProxy functionality), impact all versions prior to 2026.1. When chained together, these flaws allow unauthenticated remote attackers to execute arbitrary code on the server. Given the widespread use of SolarWinds WHD, organizations are strongly advised to apply the vendor-provided updates as soon as possible.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 02:08:55 +0000</lastBuildDate>
     <item>
       <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
       <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
@@ -78,6 +41,12 @@ The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. T
       <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</guid>
     </item>
     <item>
+      <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
+      <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
+      <description>CVE-2026-27702 is a critical (CVSS 9.9) remote code execution vulnerability in Budibase versions prior to 3.30.4. Attackers can inject malicious JavaScript through view filter values, which are passed unsanitized to eval() via the in-memory view subsystem in cloud mode. SonicWall Capture Labs provides threat analysis, exploitation details, IPS signature protection (IPS: 22007), and remediation guidance.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</guid>
+    </item>
+    <item>
       <title>SonicWall Earns 5-Star Rating in 2026 CRN Partner Guide</title>
       <link>https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</link>
       <description>SonicWall’s SecureFirst Partner Program earns a 5-Star rating in the 2026 CRN Partner Program Guide, recognizing exceptional partner enablement.</description>
@@ -109,6 +78,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</guid>
     </item>
     <item>
+      <title>GPT Academic Pickle Deserialization Remote Code Execution (CVE-2026-0763)</title>
+      <link>https://www.sonicwall.com/blog/gpt-academic-pickle-deserialization-remote-code-execution</link>
+      <description>SonicWall Capture Labs analyzes CVE-2026-0763, a critical CVSS 9.8 unauthenticated remote code execution vulnerability in GPT Academic v3.91 and earlier. The flaw chains a TAR symlink path traversal in the upload handler with unsafe pickle deserialization in the Social Helper plugin, allowing attackers to execute arbitrary commands without authentication. IPS signature 22081 provides protection.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/gpt-academic-pickle-deserialization-remote-code-execution</guid>
+    </item>
+    <item>
       <title>n8n Expression Sandbox Bypass RCE - CVE-2026-1470</title>
       <link>https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</link>
       <description>Critical CVSS 9.9 RCE vulnerability in n8n AI workflow automation via expression sandbox bypass. SonicWall IPS signatures IPS:21799 and IPS:22086 available.</description>
@@ -119,6 +94,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
       <description>Critical CVSS 9.8 unauthenticated RCE in Langflow AI via build_public_tmp endpoint passes user input to exec() without sandboxing. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</guid>
+    </item>
+    <item>
+      <title>Ghost CMS Content API Blind SQL Injection - CVE-2026-26980</title>
+      <link>https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</link>
+      <description>Critical CVSS 9.4 unauthenticated blind SQL injection in Ghost CMS Content API (v3.24.0-6.19.0) enables full database read. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</guid>
     </item>
     <item>
       <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
@@ -237,6 +218,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Mesop AI Sandbox Unauthenticated RCE - CVE-2026-33057</title>
+      <link>https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</link>
+      <description>Critical CVSS 9.8 unauthenticated RCE in Google Mesop AI Sandbox /exec-py endpoint allows arbitrary Python execution. SonicWall IPS signature available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
       <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
       <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
@@ -314,6 +302,20 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
+      <link>https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</link>
+      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>H2O-3 PostgreSQL JDBC socketFactory RCE - CVE-2026-3960</title>
+      <link>https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</link>
+      <description>Critical CVSS 9.8 unauthenticated RCE in H2O-3 ImportSQLTable abuses PostgreSQL JDBC socketFactory and Spring gadget. SonicWall IPS signature available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>File Browser Hook OS Command Injection - CVE-2026-35585</title>
       <link>https://www.sonicwall.com/blog/file-browser-hook-command-runner-os-command-injection</link>
       <description>High-severity CVSS 7.2 command injection in File Browser's Command Runner enables authenticated RCE via a crafted filename. SonicWall IPS signature available.</description>
@@ -321,10 +323,10 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
-      <link>https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</link>
-      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</guid>
+      <title>rclone RC API Unauthenticated Command Execution - CVE-2026-41179</title>
+      <link>https://www.sonicwall.com/blog/rclone-remote-control-api-unauthenticated-command-execution</link>
+      <description>Critical CVSS 9.2 flaw in rclone's RC API allows unauthenticated OS command execution via an inline WebDAV backend. SonicWall IPS signature available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/rclone-remote-control-api-unauthenticated-command-execution</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
