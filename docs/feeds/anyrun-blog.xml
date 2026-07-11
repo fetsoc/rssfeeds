@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 01:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:45:08 +0000</lastBuildDate>
     <item>
       <title>Faster Triage, Clearer Evidence, Lower Risk: A SOC Guide to Better Alert Handling</title>
       <link>https://any.run/cybersecurity-blog/triage-analyst-guide/</link>
