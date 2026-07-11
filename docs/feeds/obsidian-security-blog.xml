@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 07:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 13:01:37 +0000</lastBuildDate>
     <item>
       <title>Behind the Breach: Pass-The-Cookie Beyond IdPs</title>
       <link>https://www.obsidiansecurity.com/blog/behind-the-breach-pass-the-cookie-attack</link>
