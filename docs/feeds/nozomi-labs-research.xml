@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 08:25:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:00:59 +0000</lastBuildDate>
     <item>
       <title>Vulnerabilities in BMC Firmware Affect OT/IoT Device Security – Part 2</title>
       <link>https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-2</link>
@@ -49,6 +49,18 @@
       <link>https://www.nozominetworks.com/blog/the-challenges-of-ics-vulnerability-assessment-process</link>
       <description>With the increasing number of CVEs released each year, organizations must prioritize a strong ICS vulnerability assessment process.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/the-challenges-of-ics-vulnerability-assessment-process</guid>
+    </item>
+    <item>
+      <title>Snake Ransomware is Raising Concerns for Industrial Controls Systems</title>
+      <link>https://www.nozominetworks.com/blog/snake-ransomware-is-raising-concerns-for-industrial-controls-systems</link>
+      <description>Nozomi Networks Labs analysis of the EKANS/Snake ransomware found it that doesn’t attempt to spread, but instead relies on manual propagation.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/snake-ransomware-is-raising-concerns-for-industrial-controls-systems</guid>
+    </item>
+    <item>
+      <title>Six Vulnerabilities Found in Axis Camera Systems License Plate Verifier Application</title>
+      <link>https://www.nozominetworks.com/blog/six-vulnerabilities-found-in-axis-camera-systems-license-plate-verifier-application</link>
+      <description>Newly discovered vulnerabilities affect the License Plate Verifier application on Axis Communications cameras.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/six-vulnerabilities-found-in-axis-camera-systems-license-plate-verifier-application</guid>
     </item>
     <item>
       <title>Security Flaws Affect a Component of the Arduino Create Cloud IDE</title>
@@ -153,6 +165,18 @@
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis</guid>
     </item>
     <item>
+      <title>Hardware Supply Chain Compromise in Human Interface Devices: Nozomi Networks + Hydro Québec Joint Research</title>
+      <link>https://www.nozominetworks.com/blog/hardware-supply-chain-compromise-in-human-interface-devices-nozomi-networks-hydro-quebec-joint-research</link>
+      <description>Nozomi Networks and Hydro Québec's joint research demonstrates how threat actors can infiltrate the hardware supply chain to compromise PCs.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/hardware-supply-chain-compromise-in-human-interface-devices-nozomi-networks-hydro-quebec-joint-research</guid>
+    </item>
+    <item>
+      <title>Hard Lessons from the Oldsmar Water Facility Cyberattack Hack</title>
+      <link>https://www.nozominetworks.com/blog/hard-lessons-from-the-oldsmar-water-facility-cyberattack-hack</link>
+      <description>The TeamViewer app was used to remotely access Oldsmar’s water treatment system. This is a wakeup call for water districts everywhere.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/hard-lessons-from-the-oldsmar-water-facility-cyberattack-hack</guid>
+    </item>
+    <item>
       <title>Handala's Water Play: What the Breach Was, What It Wasn't, and What Utilities Should be Doing Anyway</title>
       <link>https://www.nozominetworks.com/blog/handalas-water-play-what-the-breach-was-what-it-wasnt-and-what-utilities-should-be-doing-anyway</link>
       <description>Iran targeted Handala's water system for a cyber attack. What happened, what we learned, and what utilities should be doing to protect themselves from attacks.</description>
@@ -205,6 +229,12 @@
       <link>https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis</link>
       <description>An analysis of the Apache Log4j vulnerability and the architecture of zero-day exploits (CVE-2021-44228) from Nozomi Networks Labs.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis</guid>
+    </item>
+    <item>
+      <title>Could Threat Actors Be Downgrading Their Malware to Evade Detection?</title>
+      <link>https://www.nozominetworks.com/blog/could-threat-actors-be-downgrading-their-malware-to-evade-detection</link>
+      <description>Threat actors modify their malware to evade detection. This blog analyzes modification techniques used by Gafgyt (aka Qbot) malware.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/could-threat-actors-be-downgrading-their-malware-to-evade-detection</guid>
     </item>
     <item>
       <title>CISA-Sponsored CVE Program Grants Nozomi Networks CNA Status</title>
