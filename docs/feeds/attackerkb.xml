@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 14:14:00 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2025-55182</title>
-      <link>https://attackerkb.com/assessments/0a808ee6-5df2-443a-a634-813dc0946305</link>
-      <description>Attacker Value: 5/5 | Exploitability: 5/5
-
-Unauthenticated RCE which affects React applications that support React Server Components, and affects multiple downstream frameworks such as Next.js. A target is exploitable in a default configuration if the application supports React Server Components, and even if the application does not explicitly implement any React Server Function endpoints. The vulnerability was originally discovered by Lachlan Davidson, and has been dubbed React2Shell by the finder.&#13;
-&#13;
-While multiple non-viable PoC's were posted shortly after public disclosure on December 3, a validated RCE PoC was posted by maple3142 …</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/0a808ee6-5df2-443a-a634-813dc0946305</guid>
-      <pubDate>Fri, 05 Dec 2025 08:52:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 19:21:06 +0000</lastBuildDate>
     <item>
       <title>Assessment 33512c9d</title>
       <link>https://attackerkb.com/assessments/33512c9d-361d-4b94-9fc5-a185b100e77b</link>
@@ -725,6 +714,18 @@ This document provides comprehensive documentation for YARA rules designed to de
 - Mexico government breach indicators (SAT…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/0c3030bd-bf76-4141-a734-86babdad4d3e</guid>
       <pubDate>Thu, 09 Jul 2026 06:06:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment d0f3cbae</title>
+      <link>https://attackerkb.com/assessments/d0f3cbae-38cc-4cc5-8d43-6fbb5002ee15</link>
+      <description>Attacker Value: 5/5 | Exploitability: 1/5 | MITRE: Persistence
+
+Assessment Final: Correlación de Compromiso en Cadena de Suministro (ODM Longcheer)&#13;
+&#13;
+ 1. Resumen Ejecutivo&#13;
+Se ha identificado y validado una arquitectura de ataque persistente en dispositivos móviles (chipset Unisoc, OEM Motorola) originada en la infraestructura de construcción del ODM Longcheer. El ataque utiliza una correlación precisa entre Jenkins (inyección), FOTA (activación), AWS (autenticación) y WireGuard (exfiltración). La evidencia forense mediante NextDNS confirma que la operatividad del malware depende estrictamente de la resolución de dominios específicos; su bloqueo mitiga lo…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/d0f3cbae-38cc-4cc5-8d43-6fbb5002ee15</guid>
+      <pubDate>Mon, 13 Jul 2026 17:41:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
