@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 02:02:05 +0000</lastBuildDate>
-    <item>
-      <title>Don’t trust ‘secure mail’! malicious Files Impersonating Credit Card Companies Are Being Distributed</title>
-      <link>https://asec.ahnlab.com/en/93855/</link>
-      <description>ahnLab recently confirmed the distribution of malicious files disguised as security emails from a major credit card company in Korea. this attack has a similar flow to the Kimsuky group&amp;#8217;s past malicious LNK distribution case of disguising password files, but it is characterized by a change in the command execution of the initial LNK file. [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93855/</guid>
-      <pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, May 2026</title>
-      <link>https://asec.ahnlab.com/en/93881/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, May 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer Data of Japanese Educational Franchise Sold on BreachForums by Hasan Data from Japanese Government Agency for National Civil Servant Personnel Administration Sold on BreachForums by Hasan FBI Issues Warning Regarding Fraudulent FIFA Websites Ahead of 2026 FIFA [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/93881/</guid>
-      <pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 08:55:05 +0000</lastBuildDate>
     <item>
       <title>The proliferation and evolution of AI-powered hacking tools – how generative AI has changed the cyber attack ecosystem and response strategies</title>
       <link>https://asec.ahnlab.com/en/93875/</link>
@@ -135,13 +121,6 @@
       <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
-      <link>https://asec.ahnlab.com/en/94398/</link>
-      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Statistical Report on Malware Targeting Windows Database Servers in the Second Quarter of 2026</title>
       <link>https://asec.ahnlab.com/en/94397/</link>
       <description>Contents The AhnLab SEcurity intelligence Center (ASEC) analyzed attack logs from the second quarter of 2026 targeting MS-SQL server and MySQL server installations on Windows. This report summarizes the damage status, attack status, and the classification of the malware and tools used in the attacks. Purpose and Scope The targets are MS-SQL servers and MySQL [&amp;#8230;]</description>
@@ -160,6 +139,13 @@
       <link>https://asec.ahnlab.com/en/94320/</link>
       <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
+      <link>https://asec.ahnlab.com/en/94398/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,6 +177,20 @@
       <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
+      <link>https://asec.ahnlab.com/en/94433/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94417/</link>
+      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>June 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94416/</link>
       <description>Note The June 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of the sources, it is sometimes difficult to fully verify the accuracy of certain information, and this is noted accordingly. Major Issue On Hasan’s BreachForums, there was a series of [&amp;#8230;]</description>
@@ -212,11 +212,11 @@
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+      <title>Beware of Phishing Emails Disguised as Money Transfer Confirmations</title>
+      <link>https://asec.ahnlab.com/en/94432/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as payment confirmation notices. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a payment confirmation notice. &amp;#160; [Figure 1] Body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94432/</guid>
+      <pubDate>Thu, 09 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
