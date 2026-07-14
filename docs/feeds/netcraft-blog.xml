@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 07:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:14:37 +0000</lastBuildDate>
     <item>
       <title>Phishing Takedown Providers: A Definitive Guide to Speed, Automation, and Scale</title>
       <link>https://www.netcraft.com/blog/the-definitive-guide-on-leading-phishing-takedown-providers</link>

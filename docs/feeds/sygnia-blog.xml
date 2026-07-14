@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 07:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:16:11 +0000</lastBuildDate>
     <item>
       <title>Velvet Ant’s Operation Highland: How a China-Nexus Actor Infiltrated an Internal Network Undetected</title>
       <link>https://www.sygnia.co/blog/operation-highland-velvet-ant/</link>
@@ -50,10 +50,10 @@
     </item>
     <item>
       <title>Why 73% of Organizations Still Aren’t Ready for a Cyberattack</title>
-      <link>https://www.sygnia.co/blog/why-organizations-still-arent-ready-for-a-cyberattack/</link>
+      <link>https://www.sygnia.co/blog/incident-response-readiness-ciso-survey/</link>
       <description>&lt;p&gt;Explore lessons from Sygnia's 2026 CISO Survey on Incident Response Readiness.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/why-organizations-still-arent-ready-for-a-cyberattack/"&gt;Why 73% of Organizations Still Aren&amp;#8217;t Ready for a Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/why-organizations-still-arent-ready-for-a-cyberattack/</guid>
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-readiness-ciso-survey/"&gt;Why 73% of Organizations Still Aren&amp;#8217;t Ready for a Cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-readiness-ciso-survey/</guid>
       <pubDate>Sun, 28 Jun 2026 11:13:25 +0000</pubDate>
     </item>
     <item>

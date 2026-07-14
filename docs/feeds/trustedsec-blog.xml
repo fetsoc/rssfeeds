@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 07:53:31 +0000</lastBuildDate>
-    <item>
-      <title>The Privileged Roles Nobody Talks About</title>
-      <link>https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</link>
-      <description>&amp;lt;p&amp;gt;MDM admins can deploy apps, or wipe every device in your fleet. Yet most treat them like standard IT roles. In Part 1 of this blog series, we break down the platform admin blind spot and why it&amp;#039;s worth your attention.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/the-privileged-roles-nobody-talks-about</guid>
-      <pubDate>Thu, 04 Jun 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 13:16:06 +0000</lastBuildDate>
     <item>
       <title>How to Train Your (Dragons) Analysts - A TrustedSec Guide to Picking the Perfect Purple Team</title>
       <link>https://trustedsec.com/blog/how-to-train-your-dragons-analysts</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;The CVE brain your AI agent has been missing. In this blog, we introduce Vulnify, an open-source tool that stitches eight authoritative vulnerability databases into a single offline source of truth for CVE intelligence.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain</guid>
       <pubDate>Thu, 09 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pandora’s Container Part 1: Unpacking Azure Container Security</title>
+      <link>https://trustedsec.com/blog/pandoras-container-part-1-unpacking-azure-container-security</link>
+      <description>&amp;lt;p&amp;gt;Azure container services are everywhere. Their attack surface? Often overlooked. In Part 1 of this blog series, we walk through offensive techniques targeting registries, token keys, and container instances in Azure.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/pandoras-container-part-1-unpacking-azure-container-security</guid>
+      <pubDate>Tue, 14 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

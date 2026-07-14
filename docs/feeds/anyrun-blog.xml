@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 07:53:30 +0000</lastBuildDate>
-    <item>
-      <title>Faster Triage, Clearer Evidence, Lower Risk: A SOC Guide to Better Alert Handling</title>
-      <link>https://any.run/cybersecurity-blog/triage-analyst-guide/</link>
-      <description>&lt;p&gt;&amp;#160;A SOC is where every second counts. Amidst a flood of alerts, false positives, and ever-short time, analysts face the daily challenge of identifying what truly matters — before attackers gain ground.&amp;#160; That’s where alert triage comes in: the essential first step in detecting, prioritizing, and responding to threats efficiently. Done right, it defines the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/triage-analyst-guide/"&gt;Faster Triage, Clearer Evidence, Lower Risk: A SOC Guide to Better Alert Handling&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/triage-analyst-guide/</guid>
-      <pubDate>Wed, 17 Jun 2026 11:30:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 13:16:06 +0000</lastBuildDate>
     <item>
       <title>The Hacker News Recognizes ANY.RUN as the Best Security Investigation Platform 2026</title>
       <link>https://any.run/cybersecurity-blog/best-security-platform/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/usa-top-30-threats-2026/"&gt;US Threat Landscape Alert: 30 Active Malware Families Ranked by Real Sandbox Data&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/usa-top-30-threats-2026/</guid>
       <pubDate>Thu, 09 Jul 2026 11:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>​​Kratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk​</title>
+      <link>https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/</link>
+      <description>&lt;p&gt;Kratos is a mature Phishing-as-a-Service operation targeting Microsoft 365 users across the US, Europe, and other regions. By combining trusted platforms, anti-bot checks, and convincing login pages, ithelps attackers steal credentials while delaying detection and response. For security leaders, that increases the risk of account takeover, fraud, data exposure, and higher incident response costs. ANY.RUN [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/"&gt;​​Kratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk​&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/</guid>
+      <pubDate>Tue, 14 Jul 2026 10:06:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
