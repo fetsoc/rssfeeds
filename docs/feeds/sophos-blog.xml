@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 13:16:11 +0000</lastBuildDate>
-    <item>
-      <title>A needle in a stack of needles: Hunting infostealers with AI</title>
-      <link>https://www.sophos.com/en-us/blog/a-needle-in-a-stack-of-needles-hunting-infostealers-with-ai</link>
-      <description>&lt;p&gt;The sheer number of events and alerts can be overwhelming, but multi-layered pipelines can filter out the noise&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/a-needle-in-a-stack-of-needles-hunting-infostealers-with-ai</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 19:09:50 +0000</lastBuildDate>
     <item>
       <title>AI in the underground: Curiosity, claims, and concerns</title>
       <link>https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Sophos’ first ever recognition as a Customers’ Choice for Email Security.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-gartner-email</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v22 MR2 is now available</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr2</link>
+      <description>&lt;p&gt;AI app control, PQC detection, enhanced Chromebook support, and more.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr2</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

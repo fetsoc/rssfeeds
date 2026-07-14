@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 13:13:59 +0000</lastBuildDate>
-    <item>
-      <title>APT MuddyWater Targets CFOs with Multi-Stage Phishing &amp; NetBird Abuse</title>
-      <link>https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos</link>
-      <description>Hunt.io uncovers MuddyWater phishing campaigns using Firebase lures, VBS payloads, and NetBird for persistent remote access. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos</guid>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 19:05:32 +0000</lastBuildDate>
     <item>
       <title>Announcing Hunt 2.5</title>
       <link>https://hunt.io/blog/announcing-hunt-2-5</link>
@@ -357,6 +350,13 @@
       <description>Hunt v3 brings Cloudflare Buster, visual Netblock browsing, Passive DNS History, Threat Actor Enablers, and a fully connected CVE investigation workflow. See what's new.</description>
       <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-v3</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspected Chinese Operators Use Claude Code and DeepSeek to Breach Government Systems Across Four Countries</title>
+      <link>https://hunt.io/blog/chinese-operators-claude-deepseek-government-intrusion</link>
+      <description>An exposed open directory revealed a suspected Chinese campaign using Claude Code and DeepSeek-v4-pro to breach government systems in Afghanistan, Thailand, and Taiwan, with parallel probing of financial services worldwide.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/chinese-operators-claude-deepseek-government-intrusion</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

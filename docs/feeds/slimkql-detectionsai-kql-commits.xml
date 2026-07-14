@@ -7,70 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 13:14:32 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/greatkql-detection-for-greatxml.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/886f4c1e70146ee832c9e947c6f0c0f53a11cbff</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/greatkql-detection-for-greatxml.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/886f4c1e70146ee832c9e947c6f0c0f53a11cbff</guid>
-      <pubDate>Thu, 11 Jun 2026 05:12:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/agent-365--local-ai-agent-installation-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/6c92c5372042f74f6e7f1e950415549e3b81ce29</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/agent-365--local-ai-agent-installation-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/6c92c5372042f74f6e7f1e950415549e3b81ce29</guid>
-      <pubDate>Thu, 11 Jun 2026 16:05:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/agent-365--detecting-autonomous-agents-awaiting-c…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/9497e246669e3ce0fd197ad508327096907e6efb</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/agent-365--detecting-autonomous-agents-awaiting-commands.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/9497e246669e3ce0fd197ad508327096907e6efb</guid>
-      <pubDate>Fri, 12 Jun 2026 14:42:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/rise-in-kali365-de-domains.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/809056b171678143e6af26ccc363c2cda7ec1d15</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/rise-in-kali365-de-domains.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/809056b171678143e6af26ccc363c2cda7ec1d15</guid>
-      <pubDate>Sat, 13 Jun 2026 12:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/cve202641089-cvss-98-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/f2fe759c90cb50852b22bf2dca40818140ca2c41</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve202641089-cvss-98-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f2fe759c90cb50852b22bf2dca40818140ca2c41</guid>
-      <pubDate>Sat, 13 Jun 2026 17:07:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rename external-copilot-prompt-attack-detection-.kql to KQL/external-…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/39fbc6705ea7393013d184a69c619991b715f24c</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Rename external-copilot-prompt-attack-detection-.kql to KQL/external-copilot-prompt-attack-detection-.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/39fbc6705ea7393013d184a69c619991b715f24c</guid>
-      <pubDate>Mon, 15 Jun 2026 15:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/ai-mcp-agent-visibility--risk-assessment.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/26236b4a213578397e6b2644439dc8d4180b26a5</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/ai-mcp-agent-visibility--risk-assessment.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/26236b4a213578397e6b2644439dc8d4180b26a5</guid>
-      <pubDate>Tue, 16 Jun 2026 06:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/teams--zoom-turn-relay-abuse-monitoring.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/8c63633a4cc7eac0e53dc7cf68eb7802a748e143</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/teams--zoom-turn-relay-abuse-monitoring.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8c63633a4cc7eac0e53dc7cf68eb7802a748e143</guid>
-      <pubDate>Tue, 16 Jun 2026 16:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update teams--zoom-turn-relay-abuse-monitoring.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/21f6c910a8cbb01cc5aecc407488c0a4a3fcfedf</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update teams--zoom-turn-relay-abuse-monitoring.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/21f6c910a8cbb01cc5aecc407488c0a4a3fcfedf</guid>
-      <pubDate>Wed, 17 Jun 2026 12:11:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 19:08:40 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/edrchoker-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/d4c2ee0a875539093d0c406edff6c4999e642da4</link>
@@ -147,6 +84,69 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve-2026-26128-kerberos-reflection-bypass-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4d56749311e1040c28392d4920a1c9ee1cf6cbec</guid>
       <pubDate>Tue, 07 Jul 2026 06:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/tenant-mcp-server-connectivity-risk-assessment.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/3dcbebb717f245a6a3a6d15de8dfde121d1d238e</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/tenant-mcp-server-connectivity-risk-assessment.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3dcbebb717f245a6a3a6d15de8dfde121d1d238e</guid>
+      <pubDate>Tue, 14 Jul 2026 16:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rename stop-jadepuffer.kql to KQL/stop-jadepuffer.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/942302a3798ae04c5573641796d916aff3683c05</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Rename stop-jadepuffer.kql to KQL/stop-jadepuffer.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/942302a3798ae04c5573641796d916aff3683c05</guid>
+      <pubDate>Tue, 14 Jul 2026 17:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/preemptive-search-for-artoken-phaas-domain-lures.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/f84ae7e964cf56fdea11fb2f2dda0246efdd5922</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/preemptive-search-for-artoken-phaas-domain-lures.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f84ae7e964cf56fdea11fb2f2dda0246efdd5922</guid>
+      <pubDate>Tue, 14 Jul 2026 17:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/debull-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/588b6a88646e69b59b255fe272902d5eba827b17</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/debull-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/588b6a88646e69b59b255fe272902d5eba827b17</guid>
+      <pubDate>Tue, 14 Jul 2026 17:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/threat-detection-passkey-enrollment-phishing-by-o…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/011bd252cc0459b28acf6a4c6ad9fba22d6411b8</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/threat-detection-passkey-enrollment-phishing-by-o-unc-066.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/011bd252cc0459b28acf6a4c6ad9fba22d6411b8</guid>
+      <pubDate>Tue, 14 Jul 2026 17:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/agent365-autojack-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/47149338bff6eef18f11e8815675fd82fe255083</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/agent365-autojack-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/47149338bff6eef18f11e8815675fd82fe255083</guid>
+      <pubDate>Tue, 14 Jul 2026 17:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/high-fidelity-forg365-phaas-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/824cb3e1577cf1d6a17d0af9e4e08f67d0558672</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/high-fidelity-forg365-phaas-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/824cb3e1577cf1d6a17d0af9e4e08f67d0558672</guid>
+      <pubDate>Tue, 14 Jul 2026 17:40:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/entra-mfa-report---sms-and-voice-authentication.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/42c426554c4125b665ece07fb47df0aafd31c58c</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/entra-mfa-report---sms-and-voice-authentication.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/42c426554c4125b665ece07fb47df0aafd31c58c</guid>
+      <pubDate>Tue, 14 Jul 2026 17:49:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/forg365-phaas-detection-using-silent-push.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/37d4426e2201f91d9aeb791da0f2bd2cefe848e8</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/forg365-phaas-detection-using-silent-push.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/37d4426e2201f91d9aeb791da0f2bd2cefe848e8</guid>
+      <pubDate>Tue, 14 Jul 2026 17:52:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
