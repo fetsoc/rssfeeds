@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 19:08:41 +0000</lastBuildDate>
-    <item>
-      <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
-      <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a Critical authentication bypass vulnerability in GNU –a Unix-like operating system, assessed their impact, and developed mitigation measures. GNU is a collection of many programs: applications, libraries, developer tools, even games.
-This critical authentication bypass vulnerability in GNU inetutils-telnetd allows unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation, identified as CVE-2026-24061, affecting versions 1.9.3 up to and including version 2.7. With a CVSS score of 9.8 (Critical) due to its low attack complexity, high impact, and the fact that it affects core application functionality. As described in PoC, the impact of an argument injection can result into Remote Code Execution. The root issue is argument injection through unsafe string interpolation of client-controlled data. Hence, all organizations that use GNU instances are strongly encouraged to update their instances to the latest patched version as a matter of urgency.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 01:43:17 +0000</lastBuildDate>
     <item>
       <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
       <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
@@ -146,6 +139,11 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/most-targeted-most-overdrawn-the-financial-sector-s-security-debt</link>
       <description>Financial services faces more cyberattacks per device than any other industry — and some of the vulnerabilities being exploited are over a decade old. Here's what the data actually says.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/most-targeted-most-overdrawn-the-financial-sector-s-security-debt</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Bulletin Coverage for July 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-july-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-july-2026</guid>
     </item>
     <item>
       <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>
