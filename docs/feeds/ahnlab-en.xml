@@ -7,26 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 01:44:20 +0000</lastBuildDate>
-    <item>
-      <title>May 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94028/</link>
-      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2026 Dark Web Issue Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94034/</link>
-      <description>Notes the May 2026 Dark Web Issue Trend Report summarizes the Major Issues that occurred on the deep web and dark web. it stated that due to the nature of the sources, some of the information cannot be fully verified for factual accuracy. Major Issues Hasan&amp;#8217;s BreachForums experienced a moderator split, with HasanBroker being ousted [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94034/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 07:54:46 +0000</lastBuildDate>
     <item>
       <title>May 2026 Dark Web Threat Actor Trend Report</title>
       <link>https://asec.ahnlab.com/en/94033/</link>
       <description>Notes the May 2026 Dark Web Threat Actor Trend Report summarizes the trends of threat actors and hacktivists operating on the deep web and dark web. some statements are not factually verifiable. Major Issues hacktivist activity targeting the South Korean Region was concentrated. some hacktivist groups claimed DDoS attacks against the website of the South [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94033/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94028/</link>
+      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -107,20 +100,6 @@
       <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q2 2026 Attack Techniques Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94320/</link>
-      <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
-      <link>https://asec.ahnlab.com/en/94398/</link>
-      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Statistical Report on Malware Targeting Windows Database Servers in the Second Quarter of 2026</title>
       <link>https://asec.ahnlab.com/en/94397/</link>
       <description>Contents The AhnLab SEcurity intelligence Center (ASEC) analyzed attack logs from the second quarter of 2026 targeting MS-SQL server and MySQL server installations on Windows. This report summarizes the damage status, attack status, and the classification of the malware and tools used in the attacks. Purpose and Scope The targets are MS-SQL servers and MySQL [&amp;#8230;]</description>
@@ -132,6 +111,20 @@
       <link>https://asec.ahnlab.com/en/94396/</link>
       <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) collected and analyzed attack logs targeting poorly managed Linux SSH servers through honeypots. The scope of the analysis covers attack sources that progressed to executing actual malware installation commands, as well as statistics on the malware used in those attacks. Purpose and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94396/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q2 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94320/</link>
+      <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
+      <link>https://asec.ahnlab.com/en/94398/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -205,11 +198,11 @@
       <pubDate>Thu, 09 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Not Every Fox is Silver: Inside an AtlasRAT loader chain</title>
-      <link>https://asec.ahnlab.com/en/94479/</link>
-      <description>Summary Public analyses of AtlasRAT are limited, and this report documents a four-stage loader chain and RAT capabilities not previously described in existing public reports. The chain operates entirely through memory execution throughout all stages, minimizing disk activity. Group Characteristics Since June 9, 2026, 43 AtlasRAT C2 servers have been tracked. The analyzed chain consists [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94479/</guid>
-      <pubDate>Sun, 12 Jul 2026 15:00:00 +0000</pubDate>
+      <title>Case Study: Distribution of a CoinMiner Targeting Linux SSH Servers via Malware Distribution via Network Transmission</title>
+      <link>https://asec.ahnlab.com/en/94484/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) is monitoring attacks targeting poorly managed Linux servers using multiple honeypots. Recently, ASEC identified cases where malware with propagation capabilities was used to install the XMRig CoinMiner. &amp;#160; In these attack cases, malware such as ShellBot, MIG LogCleaner, and XHide were used. The threat actors created and used downloaders [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94484/</guid>
+      <pubDate>Sat, 11 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>June 2026 Threat Trend Report on APT Groups</title>
@@ -217,6 +210,13 @@
       <description>Purpose and Scope The June 2026 Threat Trend Report on APT Groups summarizes the trend of state-sponsored threat groups actively incorporating generative AI, cloud services, OAuth tokens, and commercial MaaS (Malware-as-a-Service) platforms into their attack operations. A key finding is that the scope of attacks has expanded beyond traditional Malware infections to include account and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94441/</guid>
       <pubDate>Mon, 13 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94486/</link>
+      <description>Contents This report summarizes the distribution channels, number of Infostealers, number of detections, and information on companies disguised by new Infostealers collected during June 2026. The collected samples were obtained through an automated data collection system, an email honeypot system, and an automated malware C2 analysis system operated by ASEC (AhnLab SEcurity intelligence Center). Purpose [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94486/</guid>
+      <pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

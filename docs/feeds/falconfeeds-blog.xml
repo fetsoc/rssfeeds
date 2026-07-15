@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 01:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:54:42 +0000</lastBuildDate>
     <item>
       <title>War-Time Data Leaks: How Threat Actors Use Stolen Documents for Political Influence</title>
       <link>https://falconfeeds.io/blogs/war-time-data-leaks-stolen-documents-political-influence</link>
