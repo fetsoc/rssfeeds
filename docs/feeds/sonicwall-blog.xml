@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 13:19:02 +0000</lastBuildDate>
-    <item>
-      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
-      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
-      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 19:02:09 +0000</lastBuildDate>
     <item>
       <title>OpenClaw Auth Token Theft Leading to RCE: CVE-2026-25253</title>
       <link>https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</link>
@@ -144,6 +138,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <title>Microsoft Security Bulletin Coverage for July 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-july-2026</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-july-2026</guid>
+    </item>
+    <item>
+      <title>Messi's Been Unstoppable for 20 Years. So Have Legacy Threats.</title>
+      <link>https://www.sonicwall.com/blog/messi-has-been-doing-this-for-20-years-so-have-your-legacy-vulnerabilities-</link>
+      <description>Legacy vulnerabilities don't retire — they adapt. Learn why old threats are still scoring on SMBs and how Zero Trust helps contain the damage.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/messi-has-been-doing-this-for-20-years-so-have-your-legacy-vulnerabilities-</guid>
     </item>
     <item>
       <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>

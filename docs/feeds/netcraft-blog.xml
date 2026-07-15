@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 13:19:06 +0000</lastBuildDate>
-    <item>
-      <title>Phishing Takedown Providers: A Definitive Guide to Speed, Automation, and Scale</title>
-      <link>https://www.netcraft.com/blog/the-definitive-guide-on-leading-phishing-takedown-providers</link>
-      <description>Phishing is now industrialized. Learn how modern phishing takedown services use automation, AI, and global enforcement to stop impersonation attacks fast.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/the-definitive-guide-on-leading-phishing-takedown-providers</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 19:02:13 +0000</lastBuildDate>
     <item>
       <title>How to Prevent Phishing Attacks | Attack Recovery Guides</title>
       <link>https://www.netcraft.com/blog/how-to-prevent-phishing</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/netcraft-launches-new-ui-dashboard</link>
       <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/netcraft-launches-new-ui-dashboard</guid>
+    </item>
+    <item>
+      <title>Fake crypto scams try to piggyback off SpaceX IPO</title>
+      <link>https://www.netcraft.com/blog/fake-tax-forms-spacex-ipo-offer</link>
+      <description>Scammers exploit SpaceX IPO hype with fake investment portals, tax forms, and crypto deposit pages. See how the fraud works and the IOCs.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/fake-tax-forms-spacex-ipo-offer</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
