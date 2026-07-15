@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 07:54:51 +0000</lastBuildDate>
-    <item>
-      <title>AI in the underground: Curiosity, claims, and concerns</title>
-      <link>https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns</link>
-      <description>&lt;p&gt;Amid discussions about how artificial intelligence can facilitate cybercrime, some threat actors remain skeptical&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Sophos Firewall Config Studio 2.6</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-config-studio-2-6</link>
-      <description>&lt;p&gt;View, edit, compare, analyze, and migrate firewall configurations.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-config-studio-2-6</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 13:21:14 +0000</lastBuildDate>
     <item>
       <title>The Cybersecurity Poverty Line: Why it exists and why Sophos exists to erase it</title>
       <link>https://www.sophos.com/en-us/blog/sophos-cybersecurity-poverty-line</link>
@@ -70,6 +56,20 @@
       <description>&lt;p&gt;AI app control, PQC detection, enhanced Chromebook support, and more.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr2</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The stack had a good run. Defense systems are the future.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-fusion</link>
+      <description>&lt;p&gt;Introducing Sophos Fusion, the industry’s most complete AI-Native Cybersecurity Defense System.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-fusion</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Ransomware 2026: Payments are dropping but encryption is climbing</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-state-of-ransomware-2026</link>
+      <description>&lt;p&gt;Insights from 2,158 IT and cybersecurity leaders across 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-ransomware-2026</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

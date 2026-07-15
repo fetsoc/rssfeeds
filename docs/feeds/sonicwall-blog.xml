@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 07:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:19:02 +0000</lastBuildDate>
     <item>
       <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
       <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
@@ -195,6 +195,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Managed Firewall Onboarding is Faster Than Ever</title>
+      <link>https://www.sonicwall.com/blog/a-faster-path-to-managed-firewall-protection-mpss-onboarding-is-now-in-sonicwall-unified-management</link>
+      <description>MPSS, SonicWall's managed firewall service, has had important upgrades to make onboarding easier than ever. Read about them in this blog!</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-faster-path-to-managed-firewall-protection-mpss-onboarding-is-now-in-sonicwall-unified-management</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
       <link>https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</link>
       <description>Surf the cybersecurity wave with killer updates to supercharge your MSP business! From next-gen firewalls to hot promos and can’t-miss events, here’s your fast-track guide to what’s new and ready to boost your growth this month!</description>
@@ -207,13 +214,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Firewall breaches often come down to human error. Learn how managed firewall services can help reduce risk and ease the burden.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/are-you-leaving-the-front-door-unlocked-why-you-need-a-managed-firewall</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicOS 7.3.3 for GEN7: What MSPs and Channel Partners Need to Know</title>
-      <link>https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</link>
-      <description>SonicOS 7.3.3 delivers Generative AI content filtering, default-on credential auditing, DTLS VPN support, and more for GEN7 appliances. Here is what MSPs and channel partners need to know before upgrading.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-7-3-3-for-gen7-what-msps-and-channel-partners-need-to-know</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mesop AI Sandbox Unauthenticated RCE - CVE-2026-33057</title>
