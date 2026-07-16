@@ -7,19 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 19:03:16 +0000</lastBuildDate>
-    <item>
-      <title>May 2026 Dark Web Issue Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94034/</link>
-      <description>Notes the May 2026 Dark Web Issue Trend Report summarizes the Major Issues that occurred on the deep web and dark web. it stated that due to the nature of the sources, some of the information cannot be fully verified for factual accuracy. Major Issues Hasan&amp;#8217;s BreachForums experienced a moderator split, with HasanBroker being ousted [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94034/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 01:54:39 +0000</lastBuildDate>
     <item>
       <title>May 2026 Dark Web Threat Actor Trend Report</title>
       <link>https://asec.ahnlab.com/en/94033/</link>
       <description>Notes the May 2026 Dark Web Threat Actor Trend Report summarizes the trends of threat actors and hacktivists operating on the deep web and dark web. some statements are not factually verifiable. Major Issues hacktivist activity targeting the South Korean Region was concentrated. some hacktivist groups claimed DDoS attacks against the website of the South [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94033/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94028/</link>
+      <description>Notes the May 2026 Dark Web Breach Incident Trend Report is organized around the major cases of Data Breaches posted on the deep web and dark web forums. due to the nature of the source, some of the information may not be fully verifiable as to whether it is true or not, and is therefore [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94028/</guid>
       <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -100,13 +100,6 @@
       <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q2 2026 Attack Techniques Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94320/</link>
-      <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
       <link>https://asec.ahnlab.com/en/94398/</link>
       <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
@@ -128,6 +121,13 @@
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Attack Technique Trend Report for Q2 2026</title>
+      <link>https://asec.ahnlab.com/en/94320/</link>
+      <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Vidar Infostealer Being Spread through Phishing Emails</title>
       <link>https://asec.ahnlab.com/en/94363/</link>
       <description>1. Overview First identified in 2018, Vidar operates under a Malware-as-a-Service (MaaS) model and continues to be distributed through various attack cases to this day. AhnLab SEcurity intelligence Center (ASEC) has been monitoring cases of Vidar distribution targeting Korea, and this report summarizes the Vidar distribution cases identified in the first half of 2026.&amp;#160; &amp;#160; [&amp;#8230;]</description>
@@ -135,7 +135,7 @@
       <pubDate>Sun, 05 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q2 2026 Vulnerability Trends Report</title>
+      <title>Vulnerability Trend Report for Q2 2026</title>
       <link>https://asec.ahnlab.com/en/94360/</link>
       <description>Summary of Vulnerability Trends for the Second Quarter of 2026 A total of 20,701 new CVEs were reported in the second quarter of 2026. Of these, 2,317 were “Critical” vulnerabilities with a CVSS score of 9.0 Or higher, accounting for 11.2% Of the total. Medium- and high-risk vulnerabilities, including those rated “High,” accounted for 51.7% [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94360/</guid>
