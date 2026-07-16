@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 13:27:18 +0000</lastBuildDate>
-    <item>
-      <title>A double-edged bleeding edge: Classifying AI threats</title>
-      <link>https://www.sophos.com/en-us/blog/a-double-edged-bleeding-edge-classifying-ai-threats</link>
-      <description>&lt;p&gt;Sophos X-Ops presents a working taxonomy for attacks using, and targeting, AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/a-double-edged-bleeding-edge-classifying-ai-threats</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 19:05:50 +0000</lastBuildDate>
     <item>
       <title>Vect and TeamPCP partner for ransomware campaigns</title>
       <link>https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns</link>
@@ -49,6 +42,13 @@
       <description>&lt;p&gt;AI app control, PQC detection, enhanced Chromebook support, and more.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v22-mr2</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Protected Browser Extension: Protection and visibility without changing browsers</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-protected-browser-extension</link>
+      <description>&lt;p&gt;The Sophos Protected Browser Extension brings policy enforcement, data protection, GenAI visibility, and web security controls to existing Chromium-based browsers on Windows and Mac.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-protected-browser-extension</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The stack had a good run. Defense systems are the future.</title>
