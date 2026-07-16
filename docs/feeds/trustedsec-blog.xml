@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 08:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:27:17 +0000</lastBuildDate>
     <item>
       <title>How to Train Your (Dragons) Analysts - A TrustedSec Guide to Picking the Perfect Purple Team</title>
       <link>https://trustedsec.com/blog/how-to-train-your-dragons-analysts</link>
