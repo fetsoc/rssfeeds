@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 19:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 01:57:14 +0000</lastBuildDate>
     <item>
       <title>How to Prevent Phishing Attacks | Attack Recovery Guides</title>
       <link>https://www.netcraft.com/blog/how-to-prevent-phishing</link>
