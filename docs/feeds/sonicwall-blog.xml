@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 13:10:11 +0000</lastBuildDate>
-    <item>
-      <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
-      <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</guid>
-    </item>
-    <item>
-      <title>Stop Comparing Features. Start Demanding Outcomes</title>
-      <link>https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</link>
-      <description>Buying more security tools doesn’t guarantee protection. See why outcomes depend on integration, management and continuous delivery.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 18:56:09 +0000</lastBuildDate>
     <item>
       <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
       <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
@@ -288,6 +277,20 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>SonicWall CSE's Secure Internet Access capability brings the same Capture ATP file inspection available on your firewall to every device, regardless of location.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/how-sonicwall-cloud-secure-edge-extends-capture-atp-beyond-the-firewall</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indicator of Compromise IP Protection in SonicOS 8: How It Works and Why It Matters</title>
+      <link>https://www.sonicwall.com/blog/stop-breaches-before-they-escalate-indicator-of-compromise-ip-protection-in-sonicos-8</link>
+      <description>Learn how Indicator of Compromise (IoC) IP Protection in SonicOS 8 automatically blocks malicious IP connections in real time, stopping malware command-and-control before attackers can act. No manual rules. Hourly updates.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-breaches-before-they-escalate-indicator-of-compromise-ip-protection-in-sonicos-8</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Patching Isn't Enough: Active Cybersecurity Management 2026 | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/why-patching-isn-t-enough-active-cybersecurity-management-2026-sonicwall</link>
+      <description>Patching is necessary but not sufficient. Discover why active management, continuous monitoring, and secure-by-default practices define effective cybersecurity in 2026.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-patching-isn-t-enough-active-cybersecurity-management-2026-sonicwall</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stateful vs Stateless Firewall: Key Differences in Virtual Firewalls | SonicWall</title>

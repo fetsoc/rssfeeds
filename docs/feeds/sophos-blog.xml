@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 13:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:57:56 +0000</lastBuildDate>
     <item>
       <title>Vect and TeamPCP partner for ransomware campaigns</title>
       <link>https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns</link>
@@ -51,16 +51,16 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SonicWall SMA1000 vulnerabilities in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The stack had a good run. Defense systems are the future.</title>
       <link>https://www.sophos.com/en-us/blog/sophos-fusion</link>
       <description>&lt;p&gt;Introducing Sophos Fusion, the industry’s most complete AI-Native Cybersecurity Defense System.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-fusion</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall SMA1000 vulnerabilities in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
