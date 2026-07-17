@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 01:58:34 +0000</lastBuildDate>
-    <item>
-      <title>War-Time Data Leaks: How Threat Actors Use Stolen Documents for Political Influence</title>
-      <link>https://falconfeeds.io/blogs/war-time-data-leaks-stolen-documents-political-influence</link>
-      <description>Explore how threat actors weaponize stolen documents in wartime hack-and-leak operations to shape narratives, drive political influence, spread informational chaos, and erode public trust.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/war-time-data-leaks-stolen-documents-political-influence</guid>
-      <pubDate>Fri, 13 Mar 2026 05:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CyberBan News Agency: Inside Iran’s Dual-Use Cyber Propaganda and Influence Platform</title>
-      <link>https://falconfeeds.io/blogs/cyberban-news-agency-iran-cyber-propaganda-influence-platform</link>
-      <description>Explore FalconFeeds’ investigation into CyberBan News Agency, a Persian Telegram channel operating as both a cyber news outlet and a strategic amplification platform for Iranian state narratives, pro-Iranian hacktivism, and wartime information warfare.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyberban-news-agency-iran-cyber-propaganda-influence-platform</guid>
-      <pubDate>Fri, 13 Mar 2026 09:06:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 07:57:04 +0000</lastBuildDate>
     <item>
       <title>Following the Money: The 82-Wallet Bitcoin Cluster Linked to Iran’s IRGC-CEC</title>
       <link>https://falconfeeds.io/blogs/tracing-shahid-hemmat-82-wallet-bitcoin-cluster-irgc-cec</link>
@@ -357,6 +343,20 @@
       <description>Explore DieNet's rise from a DDoS collective to a multi-vector cyber threat group, its LockNet ransomware operations, attack evolution, and eventual operational shutdown.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/inside-dienet-ddos-collective-to-multi-vector-threat-group</guid>
       <pubDate>Thu, 09 Jul 2026 06:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Election Security in Latin America: Mapping Cyber Threats to Democratic Institutions</title>
+      <link>https://falconfeeds.io/blogs/latin-america-election-security-cyber-threats-democratic-institutions</link>
+      <description>Explore the cyber threats facing elections and democratic institutions in Latin America, from ransomware and disinformation to election infrastructure attacks and cybersecurity preparedness.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/latin-america-election-security-cyber-threats-democratic-institutions</guid>
+      <pubDate>Fri, 17 Jul 2026 04:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cyber Domino Effect: How One Regional Incident Reshapes Global Threat Activity</title>
+      <link>https://falconfeeds.io/blogs/cyber-domino-effect-global-threat-cascade-analysis</link>
+      <description>Explore the cyber domino effect and how regional cyber incidents cascade through supply chains, cloud services, and critical infrastructure to create global cybersecurity risks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-domino-effect-global-threat-cascade-analysis</guid>
+      <pubDate>Fri, 17 Jul 2026 04:50:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

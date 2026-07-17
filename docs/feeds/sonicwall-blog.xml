@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 01:57:10 +0000</lastBuildDate>
-    <item>
-      <title>OpenClaw Auth Token Theft Leading to RCE: CVE-2026-25253</title>
-      <link>https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</link>
-      <description>OpenClaw, previously known as Clawdbot and referred to as Moltbot in early versions, is an AI assistant framework that runs locally on macOS, Windows, or Linux. It supports cloud-based models such as Anthropic and OpenAI, as well as local models.
-
-The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. This flaw allows an unauthenticated remote attacker to steal an authentication token, which can then be used to achieve remote code execution, earning a high CVSS score of 8.8. As OpenClaw continues to gain popularity and broader adoption, the risk associated with this vulnerability increases significantly. Users are strongly encouraged to apply the vendor-provided updates without delay.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 07:55:30 +0000</lastBuildDate>
     <item>
       <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
       <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
@@ -144,6 +136,11 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/messi-has-been-doing-this-for-20-years-so-have-your-legacy-vulnerabilities-</link>
       <description>Legacy vulnerabilities don't retire — they adapt. Learn why old threats are still scoring on SMBs and how Zero Trust helps contain the damage.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/messi-has-been-doing-this-for-20-years-so-have-your-legacy-vulnerabilities-</guid>
+    </item>
+    <item>
+      <title>The PhantomGate Campaign — Obfuscation, Persistence, and Covert Surveillance</title>
+      <link>https://www.sonicwall.com/blog/the-phantomgate-campaign-obfuscation-persistence-and-covert-surveillance</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-phantomgate-campaign-obfuscation-persistence-and-covert-surveillance</guid>
     </item>
     <item>
       <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>
