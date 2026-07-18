@@ -7,12 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 18:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 01:47:49 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
       <description>Analyst1 offers insights and the latest trends in cybersecurity. Access Analyst1 Case Studies, Datasheets, Digital Reports, White Papers, and other resources today!</description>
       <guid isPermaLink="false">https://analyst1.com/resources/</guid>
+    </item>
+    <item>
+      <title>Analyst1 Wages War on Cybercrime with Next Generation Threat Intelligence Platform | Analyst1</title>
+      <link>https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</link>
+      <description>Empower analysts, revolutionize cybersecurity defense. Analyst1: the next-gen threat intelligence platform. Take action, boost security posture!</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</guid>
+      <pubDate>Tue, 11 Aug 2020 01:01:49 +0000</pubDate>
     </item>
     <item>
       <title>Defense Innovation Unit (DIU) Chooses Analyst1 to Aid in its Transformation of Cyber Defense Operations | Analyst1</title>
@@ -41,6 +48,13 @@
       <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
       <guid isPermaLink="false">https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</guid>
       <pubDate>Wed, 30 Sep 2020 09:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligent Cyber Threat Response | Analyst1</title>
+      <link>https://analyst1.com/intelligent-cyber-threat-response-2/</link>
+      <description>Bridge the gap between cyber threats and actionable intelligence with Analyst1: Simplifying cybersecurity, empowering analysts, and deploying integrations.</description>
+      <guid isPermaLink="false">https://analyst1.com/intelligent-cyber-threat-response-2/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
       <title>What is the Next Cybersecurity Fable? - Analyst1</title>
@@ -113,13 +127,6 @@
       <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
     </item>
     <item>
-      <title>Dark Web - Justice League | Analyst1</title>
-      <link>https://analyst1.com/dark-web-justice-league/</link>
-      <description>Uncover the hidden world of Dark Web justice as cybercriminals settle disputes in underground courts. Explore verdicts, high-profile cases, and more.</description>
-      <guid isPermaLink="false">https://analyst1.com/dark-web-justice-league/</guid>
-      <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
-    </item>
-    <item>
       <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
       <link>https://analyst1.com/north-korea-intelligence-assessment-2022/</link>
       <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
@@ -146,6 +153,13 @@
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
       <guid isPermaLink="false">https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</guid>
       <pubDate>Thu, 12 Jan 2023 19:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audio Version – Ransomware Diaries: Volume 1 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-1/</link>
+      <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
+      <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
       <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
@@ -181,13 +195,6 @@
       <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
       <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
       <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Lateral Movement in Cybersecurity?</title>
-      <link>https://analyst1.com/what-is-lateral-movement/</link>
-      <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
-      <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
@@ -239,13 +246,6 @@
       <pubDate>Thu, 02 May 2024 21:40:42 +0000</pubDate>
     </item>
     <item>
-      <title>The Evolving Cyber Threat Landscape | Analyst1</title>
-      <link>https://analyst1.com/the-evolving-cyber-threat-landscape/</link>
-      <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
-      <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
-      <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
-    </item>
-    <item>
       <title>10 Reasons You Need a TIP Now | Analyst1</title>
       <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
       <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
@@ -265,13 +265,6 @@
       <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
       <guid isPermaLink="false">https://analyst1.com/why-threat-actors-matter/</guid>
       <pubDate>Thu, 15 Aug 2024 15:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why SOAR is Not a Replacement for a TIP | Analyst1</title>
-      <link>https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</link>
-      <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
-      <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
@@ -356,6 +349,13 @@
       <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
       <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
       <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyst1 Unveils Version 2.12.0: Enhanced Intelligence Access, Streamlined Workflows, and Broader MITRE ATT&amp;CK Integration  | Analyst1</title>
+      <link>https://analyst1.com/analyst1-unveils-version-2-12-0/</link>
+      <description>Analyst1 Unveils Version 2.12.0: Enhanced Intelligence Access, Streamlined Workflows, and Broader MITRE ATT&amp;CK Integration. Learn more today.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-version-2-12-0/</guid>
+      <pubDate>Wed, 13 Aug 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
