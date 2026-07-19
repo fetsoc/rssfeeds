@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 01:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:03:54 +0000</lastBuildDate>
     <item>
       <title>Hardening Intune: The Implementation Guide</title>
       <link>https://trustedsec.com/blog/hardening-intune-the-implementation-guide</link>
