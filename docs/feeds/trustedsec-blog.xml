@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 08:12:50 +0000</lastBuildDate>
-    <item>
-      <title>Hardening Intune: The Implementation Guide</title>
-      <link>https://trustedsec.com/blog/hardening-intune-the-implementation-guide</link>
-      <description>&amp;lt;p&amp;gt;Now that we&amp;#039;ve identified the blind spot, here&amp;#039;s how to fix it. In Part 2 of our blog series, we deliver a phase-based implementation guide to hardening Microsoft Intune across 11 critical controls.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/hardening-intune-the-implementation-guide</guid>
-      <pubDate>Thu, 11 Jun 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 13:26:50 +0000</lastBuildDate>
     <item>
       <title>JS-Tap v3: Endpoint Post-Exploitation With JavaScript Implants</title>
       <link>https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Word is out that the Department of War (DoW) has suspended the rollout of CMMC Phase II. However, contractors working on CMMC compliance should not abandon their CMMC plans: Although the audit requirement is suspended,…&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-is-not-cancelled</guid>
       <pubDate>Thu, 16 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Hotness in Phishing: Device Code Attacks in M365</title>
+      <link>https://trustedsec.com/blog/the-new-hotness-in-phishing-device-code-attacks-in-m365</link>
+      <description>&amp;lt;p&amp;gt;Device code phishing has a quality that makes it unusually effective: it does not follow the pattern of traditional phishing attacks. The victim ends up granting access to the attacker by completing a genuine sign-in on…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/the-new-hotness-in-phishing-device-code-attacks-in-m365</guid>
+      <pubDate>Tue, 21 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
