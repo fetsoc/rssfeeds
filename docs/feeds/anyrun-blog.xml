@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 01:56:57 +0000</lastBuildDate>
-    <item>
-      <title>EvilTokens: How “Ghost” Code Threatens US and European Businesses</title>
-      <link>https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/</link>
-      <description>&lt;p&gt;EvilTokens&amp;#160;can hide serious account takeover risk from your SOC&amp;#160;through “ghost” code that appears only after browser-side decryption.&amp;#160; As a result, static URL analysis may miss the most important part of the attack, leaving teams with incomplete evidence, slower triage, and longer exposure to a potential Microsoft 365 compromise.&amp;#160; Full browser-level inspection&amp;#160;closes this gap by revealing [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/"&gt;EvilTokens: How “Ghost” Code Threatens US and European Businesses&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/eviltokens-ghost-code-analysis/</guid>
-      <pubDate>Tue, 23 Jun 2026 11:46:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 08:12:49 +0000</lastBuildDate>
     <item>
       <title>From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow</title>
       <link>https://any.run/cybersecurity-blog/streamline-your-soc/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phantomenigma-research/"&gt;Hidden Infrastructure Exposed: ANY.RUN Reveals Hijacked Gov Websites Delivering Malware &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/phantomenigma-research/</guid>
       <pubDate>Thu, 16 Jul 2026 08:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kali365 Targets US Organizations with Data Theft via Device Code Phishing</title>
+      <link>https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/</link>
+      <description>&lt;p&gt;Kali365 is&amp;#160;targeting US&amp;#160;organizations&amp;#160;with device code phishing attacks&amp;#160;that abuse legitimate Microsoft authentication. Instead of directing victims&amp;#160;to a fake login form, the&amp;#160;phishkit&amp;#160;sends&amp;#160;them to a real Microsoft page, where they authorize access&amp;#160;using an attacker-controlled device code.&amp;#160; This&amp;#160;makes&amp;#160;the attack harder for analysts&amp;#160;to&amp;#160;spot and more dangerous&amp;#160;for the business. By obtaining OAuth access&amp;#160;and refresh tokens, attackers&amp;#160;may gain continued access&amp;#160;to Microsoft 365 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/"&gt;Kali365 Targets US Organizations with Data Theft via Device Code Phishing &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/</guid>
+      <pubDate>Tue, 21 Jul 2026 07:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
