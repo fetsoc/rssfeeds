@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 13:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:13:44 +0000</lastBuildDate>
     <item>
       <title>From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow</title>
       <link>https://any.run/cybersecurity-blog/streamline-your-soc/</link>
