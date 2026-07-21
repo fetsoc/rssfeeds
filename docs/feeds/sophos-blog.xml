@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 19:31:52 +0000</lastBuildDate>
-    <item>
-      <title>When AI agents look like attackers: what behavioral telemetry tells us</title>
-      <link>https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry</link>
-      <description>&lt;p&gt;An X-Ops analysis of how AI coding agents trigger endpoint detection rules designed for adversaries&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 01:57:01 +0000</lastBuildDate>
     <item>
       <title>Sophos named a 2026 Gartner® Peer Insights™ Customers’ Choice for Email Security</title>
       <link>https://www.sophos.com/en-us/blog/sophos-gartner-email</link>
@@ -57,6 +50,13 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>In code we trust? Why the most trusted software receives the least scrutiny.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-trusted-code</link>
+      <description>&lt;p&gt;Recent CVEs across GitHub, Anthropic, Google, dbt, and MISP expose a simple truth: the most trusted code is often the least questioned. As organizations connect AI agents to production systems, those overlooked assumptions can become powerful new attack paths.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-trusted-code</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sophos joins Anthropic's Project Glasswing</title>
       <link>https://www.sophos.com/en-us/blog/sophos-joins-anthropics-project-glasswing</link>
       <description>&lt;p&gt;As a Project Glasswing member, Sophos gains access to Claude Mythos 5, an advanced frontier model not currently available to the public, to find and fix software vulnerabilities before AI-driven attackers can exploit them.&lt;/p&gt;</description>
@@ -64,10 +64,10 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>In code we trust? Why the most trusted software receives the least scrutiny.</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-trusted-code</link>
-      <description>&lt;p&gt;Recent CVEs across GitHub, Anthropic, Google, dbt, and MISP expose a simple truth: the most trusted code is often the least questioned. As organizations connect AI agents to production systems, those overlooked assumptions can become powerful new attack paths.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-trusted-code</guid>
+      <title>Sophos ZTNA unlocks SaaS app control and so much more</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ztna-protected-browser</link>
+      <description>&lt;p&gt;Sophos ZTNA customers now get Sophos Protected Browser as part of Sophos Workspace Protection, extending Zero Trust controls to SaaS and web apps while improving secure RDP and SSH access.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ztna-protected-browser</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
