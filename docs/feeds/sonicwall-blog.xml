@@ -7,7 +7,45 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 19:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:54:22 +0000</lastBuildDate>
+    <item>
+      <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
+      <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
+      <description>The SonicWall Capture Labs threat research team became aware of a Critical authentication bypass vulnerability in GNU –a Unix-like operating system, assessed their impact, and developed mitigation measures. GNU is a collection of many programs: applications, libraries, developer tools, even games.
+This critical authentication bypass vulnerability in GNU inetutils-telnetd allows unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation, identified as CVE-2026-24061, affecting versions 1.9.3 up to and including version 2.7. With a CVSS score of 9.8 (Critical) due to its low attack complexity, high impact, and the fact that it affects core application functionality. As described in PoC, the impact of an argument injection can result into Remote Code Execution. The root issue is argument injection through unsafe string interpolation of client-controlled data. Hence, all organizations that use GNU instances are strongly encouraged to update their instances to the latest patched version as a matter of urgency.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</guid>
+    </item>
+    <item>
+      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
+      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
+      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
+    </item>
+    <item>
+      <title>OpenClaw Auth Token Theft Leading to RCE: CVE-2026-25253</title>
+      <link>https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</link>
+      <description>OpenClaw, previously known as Clawdbot and referred to as Moltbot in early versions, is an AI assistant framework that runs locally on macOS, Windows, or Linux. It supports cloud-based models such as Anthropic and OpenAI, as well as local models.
+
+The issue, tracked as CVE-2026-25253, affects all versions prior to 2026.1.29. This flaw allows an unauthenticated remote attacker to steal an authentication token, which can then be used to achieve remote code execution, earning a high CVSS score of 8.8. As OpenClaw continues to gain popularity and broader adoption, the risk associated with this vulnerability increases significantly. Users are strongly encouraged to apply the vendor-provided updates without delay.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253</guid>
+    </item>
+    <item>
+      <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
+      <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</guid>
+    </item>
+    <item>
+      <title>Stop Comparing Features. Start Demanding Outcomes</title>
+      <link>https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</link>
+      <description>Buying more security tools doesn’t guarantee protection. See why outcomes depend on integration, management and continuous delivery.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</guid>
+    </item>
+    <item>
+      <title>Secure by Default: Built-In Cybersecurity Strategy</title>
+      <link>https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</link>
+      <description>Why Secure by Default goes beyond Secure by Design—reducing misconfiguration, complexity and risk through a unified security services platform.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</guid>
+    </item>
     <item>
       <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
       <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
@@ -132,13 +170,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-phantomgate-campaign-obfuscation-persistence-and-covert-surveillance</guid>
     </item>
     <item>
-      <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>
-      <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-2</link>
-      <description>Capture Client delivers capabilities that are underscored by the ATT&amp;CK framework. Here’s how CISOs can leverage these capabilities to define and implement their security strategy.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-2</guid>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Rethinking Security Architecture with Adversary Frameworks</title>
       <link>https://www.sonicwall.com/blog/rethinking-security-architecture</link>
       <description>Explore how combining the Cybersecurity Kill Chain and MITRE ATT&amp;CK helps build resilient security architecture with SonicWall MXDR.</description>
@@ -202,6 +233,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What Is a Virtual Firewall? Cloud &amp; VM Security Explained</title>
+      <link>https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</link>
+      <description>Learn how virtual firewalls secure east-west traffic across VMware, AWS, Azure, and Kubernetes—where traditional edge firewalls fall short.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mesop AI Sandbox Unauthenticated RCE - CVE-2026-33057</title>
       <link>https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</link>
       <description>Critical CVSS 9.8 unauthenticated RCE in Google Mesop AI Sandbox /exec-py endpoint allows arbitrary Python execution. SonicWall IPS signature available.</description>
@@ -216,13 +254,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Firewall Is Not Dead: How AI Makes It Smarter | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/the-firewall-is-not-dead-how-ai-gives-it-a-co-pilot</link>
-      <description>Discover how AI-powered firewalls and SonicWall's Unified Management platform are redefining network security for enterprises and MSPs in 2024 and beyond.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-firewall-is-not-dead-how-ai-gives-it-a-co-pilot</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cyber Hygiene Fundamentals: Passwords, MFA, and Zero Trust in 2026</title>
       <link>https://www.sonicwall.com/blog/cyber-hygiene-101-the-big-fundamentals</link>
       <description>Weak passwords and outdated network access are still the most common entry points for attackers. Here is what good cyber hygiene actually looks like for small businesses in 2026.</description>
@@ -235,13 +266,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Attack volumes dropped across every major industry in 2026 — except healthcare. Here's why threat actors aren't leaving, and what the data says about how they're getting in.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/code-red-healthcare-can-t-pull-the-plug-on-its-cybersecurity-problem</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Layer 3 vs. Layer 4 vs. Layer 7 Firewalls: Where Do Virtual Firewalls Fit In?</title>
-      <link>https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</link>
-      <description>Understand the differences between Layer 3, Layer 4, and Layer 7 firewalls, and learn where virtual firewalls fit in cloud and hybrid network security architectures.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Next.js WebSocket Upgrade Handler SSRF - CVE-2026-44578</title>
@@ -265,13 +289,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SonicWall Cloud Secure Edge Expands PoP Network</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</link>
-      <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How SonicWall CSE Extends Capture ATP to Remote Users</title>
       <link>https://www.sonicwall.com/blog/how-sonicwall-cloud-secure-edge-extends-capture-atp-beyond-the-firewall</link>
       <description>SonicWall CSE's Secure Internet Access capability brings the same Capture ATP file inspection available on your firewall to every device, regardless of location.</description>
@@ -293,20 +310,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Stateful vs Stateless Firewall: Key Differences in Virtual Firewalls | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/stateful-vs-stateless-firewall-what-is-the-difference-in-virtual-environments-</link>
-      <description>Discover how stateful and stateless firewalls differ in virtual environments. Learn which inspection method best fits your cloud security architecture with SonicWall.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stateful-vs-stateless-firewall-what-is-the-difference-in-virtual-environments-</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
-      <link>https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</link>
-      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cve-2025-7544-attackers-weaponize-tenda-ac1206-router-vulnerability-to-deploy-mirai-related-malware</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>H2O-3 PostgreSQL JDBC socketFactory RCE - CVE-2026-3960</title>
       <link>https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</link>
       <description>Critical CVSS 9.8 unauthenticated RCE in H2O-3 ImportSQLTable abuses PostgreSQL JDBC socketFactory and Spring gadget. SonicWall IPS signature available.</description>
@@ -326,13 +329,6 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>Critical CVSS 9.2 flaw in rclone's RC API allows unauthenticated OS command execution via an inline WebDAV backend. SonicWall IPS signature available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rclone-remote-control-api-unauthenticated-command-execution</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall NSM Configuration Auditor: Audit Your Firewall in Seconds</title>
-      <link>https://www.sonicwall.com/blog/is-your-firewall-optimized-how-to-audit-your-sonicwall-firewall-configuration-in-seconds</link>
-      <description>Discover how the SonicWall NSM 4.0 Configuration Auditor Report helps IT teams automatically assess firewall configurations, reduce risk, and enforce best practices at scale.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/is-your-firewall-optimized-how-to-audit-your-sonicwall-firewall-configuration-in-seconds</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 19:13:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:55:58 +0000</lastBuildDate>
     <item>
       <title>JS-Tap v3: Endpoint Post-Exploitation With JavaScript Implants</title>
       <link>https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</link>
@@ -67,14 +67,14 @@
     <item>
       <title>CMMC is (Not) Cancelled</title>
       <link>https://trustedsec.com/blog/cmmc-is-not-cancelled</link>
-      <description>&amp;lt;p&amp;gt;Word is out that the Department of War (DoW) has suspended the rollout of CMMC Phase II. However, contractors working on CMMC compliance should not abandon their CMMC plans: Although the audit requirement is suspended,…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Just because CMMC Phase II audits are paused doesn&amp;#039;t mean compliance is. In this blog, we clarify what the suspension means for defense contractors and why self-assessments and core regulations remain in effect.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-is-not-cancelled</guid>
       <pubDate>Thu, 16 Jul 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The New Hotness in Phishing: Device Code Attacks in M365</title>
       <link>https://trustedsec.com/blog/the-new-hotness-in-phishing-device-code-attacks-in-m365</link>
-      <description>&amp;lt;p&amp;gt;Device code phishing has a quality that makes it unusually effective: it does not follow the pattern of traditional phishing attacks. The victim ends up granting access to the attacker by completing a genuine sign-in on…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Device code phishing is quietly becoming one of the more effective techniques targeting M365 environments. In this blog, we detail how it works and the Conditional Access controls that shut it down.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/the-new-hotness-in-phishing-device-code-attacks-in-m365</guid>
       <pubDate>Tue, 21 Jul 2026 04:00:00 +0000</pubDate>
     </item>
