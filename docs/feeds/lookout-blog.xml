@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 01:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:12:07 +0000</lastBuildDate>
+    <item>
+      <title>What Is a Large Language Model (LLM)?</title>
+      <link>https://security.lookout.com/blog/large-language-model</link>
+      <description>Learn about large language models (LLMs), key concepts such as transformers and training data, and the opportunities and risks they present to organizations.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/large-language-model</guid>
+    </item>
     <item>
       <title>How to Stay Current with Changing Security Landscape: Feat. Head of Security from BNP Paribas</title>
       <link>https://security.lookout.com/blog/keeping-current-with-changing-security-landscape</link>
@@ -257,13 +263,6 @@
       <description>In response to a changing threat landscape, the EU's NIS2 directive recommends mobile threat defense (MTD) solutions.</description>
       <guid isPermaLink="false">https://security.lookout.com/blog/nis2-directive</guid>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Privacy vs. Mobile Security: Why You Don’t Have to Choose</title>
-      <link>https://security.lookout.com/blog/privacy-aware-mobile-security</link>
-      <description>Many people are resistant to putting an employer-mandated security app on their phone, but organizations don't have to sacrifice security for privacy.</description>
-      <guid isPermaLink="false">https://security.lookout.com/blog/privacy-aware-mobile-security</guid>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Navigating BYOD Security: Proven Strategies and Best Practices for Success</title>
