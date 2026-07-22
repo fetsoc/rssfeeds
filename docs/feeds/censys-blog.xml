@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 08:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:31:36 +0000</lastBuildDate>
     <item>
       <title>How Realistic Is Netflix's Zero Day? - Censys</title>
       <link>https://censys.com/blog/how-realistic-is-netflixs-zero-day/</link>

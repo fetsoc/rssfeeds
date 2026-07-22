@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 08:12:05 +0000</lastBuildDate>
-    <item>
-      <title>GNU inetutils-telnetd remote authentication bypass to RCE  (CVE-2026-24061)</title>
-      <link>https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a Critical authentication bypass vulnerability in GNU –a Unix-like operating system, assessed their impact, and developed mitigation measures. GNU is a collection of many programs: applications, libraries, developer tools, even games.
-This critical authentication bypass vulnerability in GNU inetutils-telnetd allows unauthenticated remote attackers to gain instant root shell access via malicious NEW_ENVIRON telnet option exploitation, identified as CVE-2026-24061, affecting versions 1.9.3 up to and including version 2.7. With a CVSS score of 9.8 (Critical) due to its low attack complexity, high impact, and the fact that it affects core application functionality. As described in PoC, the impact of an argument injection can result into Remote Code Execution. The root issue is argument injection through unsafe string interpolation of client-controlled data. Hence, all organizations that use GNU instances are strongly encouraged to update their instances to the latest patched version as a matter of urgency.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/gnu-inetutils-telnetd-rce-cve-2026-24061</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 13:31:28 +0000</lastBuildDate>
     <item>
       <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
       <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
@@ -163,6 +156,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/messi-has-been-doing-this-for-20-years-so-have-your-legacy-vulnerabilities-</link>
       <description>Legacy vulnerabilities don't retire — they adapt. Learn why old threats are still scoring on SMBs and how Zero Trust helps contain the damage.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/messi-has-been-doing-this-for-20-years-so-have-your-legacy-vulnerabilities-</guid>
+    </item>
+    <item>
+      <title>Breaking Point: Manufacturing’s Cybersecurity Crisis Is Already Here</title>
+      <link>https://www.sonicwall.com/blog/breaking-point-why-manufacturing-s-cybersecurity-moment-is-already-here</link>
+      <description>Manufacturing’s factory floors and corporate networks have merged — and attackers got there first. SonicWall’s 2026 data shows 43 million hits on a single five-year-old camera vulnerability, active SCADA probes, and ransomware already inside the network.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/breaking-point-why-manufacturing-s-cybersecurity-moment-is-already-here</guid>
     </item>
     <item>
       <title>The PhantomGate Campaign — Obfuscation, Persistence, and Covert Surveillance</title>

@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 08:13:46 +0000</lastBuildDate>
-    <item>
-      <title>From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow</title>
-      <link>https://any.run/cybersecurity-blog/streamline-your-soc/</link>
-      <description>&lt;p&gt;A Security Operations Center rarely struggles because it lacks alerts. It struggles because every alert creates work: validate the indicator, understand the behavior, check whether the threat is known, determine its scope, decide whether to escalate, contain the incident, and make sure the same attack is easier to detect next time. When these steps depend [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/streamline-your-soc/"&gt;From Alert Enrichment to Confident Response: How ANY.RUN Powers Every SOC Workflow&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/streamline-your-soc/</guid>
-      <pubDate>Thu, 25 Jun 2026 08:46:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 13:32:34 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN &amp; Torq Integration: Scale Triage &amp; Respond with Confidence</title>
       <link>https://any.run/cybersecurity-blog/torq-integration/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/"&gt;Kali365 Targets US Organizations with Data Theft via Device Code Phishing &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/</guid>
       <pubDate>Tue, 21 Jul 2026 07:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case</title>
+      <link>https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/</link>
+      <description>&lt;p&gt;SOCs face constant pressure to detect and respond to threats faster. Heavy workloads, limited threat visibility, and disconnected tools can delay action, increasing the risk of&amp;#160;financial loss&amp;#160;and operational disruption.&amp;#160; ANY.RUN helps more than 15,000 security teams reduce these delays with fresh threat intelligence, interactive analysis, contextual enrichment, and analyst-curated reporting.  Here’s&amp;#160;how your SOC can handle incidents more [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/"&gt;Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/</guid>
+      <pubDate>Wed, 22 Jul 2026 11:44:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
