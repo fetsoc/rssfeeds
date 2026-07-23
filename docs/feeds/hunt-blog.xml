@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 13:28:07 +0000</lastBuildDate>
-    <item>
-      <title>TinyLoader Malware: Crypto Theft &amp; C2 Infrastructure</title>
-      <link>https://hunt.io/blog/tinyloader-malware-cryptocurrency-theft-infrastructure</link>
-      <description>Investigation into TinyLoader malware stealing cryptocurrency via Redline Stealer, USB spread, and C2 infrastructure.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/tinyloader-malware-cryptocurrency-theft-infrastructure</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 19:01:54 +0000</lastBuildDate>
     <item>
       <title>Interview with Daniel Plohmann: Malpedia, Malware Analysis, and Research Insights</title>
       <link>https://hunt.io/blog/interview-daniel-plohmann-malpedia-malware-analysis</link>
@@ -357,6 +350,13 @@
       <description>An exposed open directory reveals an operator staging NGINX Rift, Ghost CMS, and other recent CVEs against government and finance, using DNS callbacks to verify execution.</description>
       <guid isPermaLink="false">https://hunt.io/blog/open-directory-nginx-rift-ghost-cms-multi-cve</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged</title>
+      <link>https://hunt.io/blog/thailand-ministry-finance-targeted-with-hermes-ai-agent</link>
+      <description>An exposed open directory on a Hong Kong server revealed an autonomous AI agent running unattended, an unreported Go implant, and target-specific tooling used against Thailand's Ministry of Finance.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/thailand-ministry-finance-targeted-with-hermes-ai-agent</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

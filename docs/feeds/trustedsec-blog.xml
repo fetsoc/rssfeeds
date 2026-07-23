@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 13:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:08:44 +0000</lastBuildDate>
     <item>
       <title>JQ for Hackers</title>
       <link>https://trustedsec.com/blog/jq-for-hackers</link>
@@ -74,7 +74,7 @@
     <item>
       <title>CCPA Update: Who’s In Scope (Part 1)</title>
       <link>https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</link>
-      <description>&amp;lt;p&amp;gt;The state of California has updated the California Consumer Privacy Act (CCPA) and its supporting regulations yet again. The California Privacy Protection Agency (CPPA) oversees compliance with these regulations. This…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;California updated CCPA... again. Before you do anything else, does it apply to you? In Part 1 of this blog series, we clarify who falls under scope, what data is covered, and how enforcement works.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</guid>
       <pubDate>Thu, 23 Jul 2026 04:00:00 +0000</pubDate>
     </item>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 13:30:22 +0000</lastBuildDate>
-    <item>
-      <title>Behind the Breach: Pass-The-Cookie Beyond IdPs</title>
-      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-pass-the-cookie-attack</link>
-      <description>Investigate pass-the-cookie attacks beyond identity providers. Learn how session tokens are stolen and replayed to bypass authentication controls.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-pass-the-cookie-attack</guid>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 19:08:47 +0000</lastBuildDate>
     <item>
       <title>Behind The Breach: MFA Everywhere, Yes. MFA For Everyone, No.</title>
       <link>https://www.obsidiansecurity.com/blog/behind-the-breach-mfa</link>
@@ -304,6 +298,13 @@
       <description>Explore the security limits of Okta FastPass. Learn about phishing-resistant authentication, potential weaknesses, and additional protective controls.</description>
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-shield-cracking-the-limits-of-okta-fastpass</guid>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obsidian Security announces integration with Claude's Compliance API to strengthen AI security offering</title>
+      <link>https://www.obsidiansecurity.com/blog/anthropic-compliance-api-integration</link>
+      <description>Obsidian Security's new integration with Claude's Compliance API helps security teams find and fix risky configurations before they become a data exposure problem.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/anthropic-compliance-api-integration</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Obsidian Security Found What 700 Companies Couldn't: A SaaS Supply Chain Investigation</title>
