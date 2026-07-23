@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 08:17:26 +0000</lastBuildDate>
-    <item>
-      <title>How Push detects and blocks phishing attacks in the browser</title>
-      <link>https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser</link>
-      <description>How Push detects and blocks phishing attempts in the browser – explained in less than two minutes.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser</guid>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 13:30:06 +0000</lastBuildDate>
     <item>
       <title>How attackers defeat detections based on page signatures</title>
       <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection-p2</link>
@@ -357,6 +350,13 @@
       <description>Most organizations know they have an AI security problem. A new SANS framework shows why so few are making progress - and what it actually takes to get unstuck.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/crossing-the-ai-security-chasm-sans-security-maturity-model</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building herd immunity through agentic detections with Push</title>
+      <link>https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers</link>
+      <description>Security outcomes you can achieve when AI agents hunt in the browser, identify new threats, and ship detections that benefit everyone.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

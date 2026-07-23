@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 08:17:41 +0000</lastBuildDate>
-    <item>
-      <title>JS-Tap v3: Endpoint Post-Exploitation With JavaScript Implants</title>
-      <link>https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</link>
-      <description>&amp;lt;p&amp;gt;JavaScript escaped the browser. JS-Tap v3 followed it. In this blog, we introduce three new beacons targeting the Electron apps, browser extensions, and Node runtimes running on corporate workstations.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/js-tap-v3-endpoint-post-exploitation-with-javascript-implants</guid>
-      <pubDate>Fri, 12 Jun 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 13:30:18 +0000</lastBuildDate>
     <item>
       <title>JQ for Hackers</title>
       <link>https://trustedsec.com/blog/jq-for-hackers</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Device code phishing is quietly becoming one of the more effective techniques targeting M365 environments. In this blog, we detail how it works and the Conditional Access controls that shut it down.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/the-new-hotness-in-phishing-device-code-attacks-in-m365</guid>
       <pubDate>Tue, 21 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CCPA Update: Who’s In Scope (Part 1)</title>
+      <link>https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</link>
+      <description>&amp;lt;p&amp;gt;The state of California has updated the California Consumer Privacy Act (CCPA) and its supporting regulations yet again. The California Privacy Protection Agency (CPPA) oversees compliance with these regulations. This…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</guid>
+      <pubDate>Thu, 23 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
