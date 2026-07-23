@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 02:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:17:45 +0000</lastBuildDate>
     <item>
       <title>Sophos Protected Browser Extension: Protection and visibility without changing browsers</title>
       <link>https://www.sophos.com/en-us/blog/sophos-protected-browser-extension</link>
@@ -57,17 +57,17 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sophos Named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services for Midmarket 2026</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-idc-marketscape-mdr</link>
-      <description>&lt;p&gt;Sophos has been named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services for Midmarket 2026, recognizing our intelligence-led MDR, flexible engagement models, and open platform approach.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-idc-marketscape-mdr</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>July Patch Tuesday only feels endless</title>
       <link>https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless</link>
       <description>&lt;p&gt;AI deluge brings 575 CVEs, 479 advisories, reset to blog-post format&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services for Midmarket 2026</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-idc-marketscape-mdr</link>
+      <description>&lt;p&gt;Sophos has been named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services for Midmarket 2026, recognizing our intelligence-led MDR, flexible engagement models, and open platform approach.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-idc-marketscape-mdr</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

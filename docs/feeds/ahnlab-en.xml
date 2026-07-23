@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 02:03:47 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 2, June 2026</title>
-      <link>https://asec.ahnlab.com/en/94088/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, June 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Black X Ransomware Attacks on Korean and U.S. Organizations Data from South Korean Education Platform Leaked on BreachForums by Hasan Breach of French Secure Government Messaging Data Discovered on PwnForums</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94088/</guid>
-      <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2026 Security Issues in Korean &amp; Global Financial Sector</title>
-      <link>https://asec.ahnlab.com/en/94179/</link>
-      <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1 targeting the financial sector in May 2026, phishing had the highest score at 2.3. This is the highest figure since December 2025, indicating that Initial Breach attempts are increasingly centered on phishing. In Attack Stage 2, Dropper/Downloader had the highest rate at 1.4, [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94179/</guid>
-      <pubDate>Sun, 14 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 08:17:43 +0000</lastBuildDate>
     <item>
       <title>May 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/94145/</link>
@@ -86,20 +72,6 @@
       <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Statistical Report on Malware Targeting Windows Database Servers in Q2 2026</title>
-      <link>https://asec.ahnlab.com/en/94397/</link>
-      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) analyzed attack logs from the second quarter of 2026 targeting MS-SQL server and MySQL server installations on Windows. This report summarizes the damage status, attack status, and the classification of the malware and tools used in the attacks. Purpose and Scope The targets are MS-SQL servers and MySQL [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94397/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Statistical Report on Malware Targeting Linux SSH Servers in Q2 2026</title>
-      <link>https://asec.ahnlab.com/en/94396/</link>
-      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) collected and analyzed attack logs targeting poorly managed Linux SSH servers through honeypots. The scope of the analysis covers attack sources that progressed to executing actual malware installation commands, as well as statistics on the malware used in those attacks. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94396/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Attack Technique Trend Report for Q2 2026</title>
       <link>https://asec.ahnlab.com/en/94320/</link>
       <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
@@ -111,6 +83,20 @@
       <link>https://asec.ahnlab.com/en/94398/</link>
       <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Windows Database Servers in Q2 2026</title>
+      <link>https://asec.ahnlab.com/en/94397/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) analyzed attack logs from the second quarter of 2026 targeting MS-SQL server and MySQL server installations on Windows. This report summarizes the damage status, attack status, and the classification of the malware and tools used in the attacks. Purpose and Scope The targets are MS-SQL servers and MySQL [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94397/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in Q2 2026</title>
+      <link>https://asec.ahnlab.com/en/94396/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) collected and analyzed attack logs targeting poorly managed Linux SSH servers through honeypots. The scope of the analysis covers attack sources that progressed to executing actual malware installation commands, as well as statistics on the malware used in those attacks. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94396/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +203,20 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; DragonForce Ransomware Attack on a Saudi Arabian Chemical Manufacturer AiLock Ransomware Attack on Japan’s Largest Taxi and Limousine Operator Cyberattack on Japan’s Largest Frozen Food Company Disrupts the Wider Food Supply Chain</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94494/</guid>
       <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Cases by the Kimsuky Group Impersonating Diplomats (PebbleDash, PrxClient)</title>
+      <link>https://asec.ahnlab.com/en/94552/</link>
+      <description>AhnLab SEcurity intelligence Center (ASEC) previously disclosed an attack case in which the Kimsuky group used spear phishing attacks to install the PebbleDash malware in a post titled “Analysis of the Kimsuky Group’s Latest Attacks Exploiting PebbleDash and RDP Wrapper” [1]. The same threat actors have continued their activities in 2026 and have recently been [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94552/</guid>
+      <pubDate>Thu, 16 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, July 2026</title>
+      <link>https://asec.ahnlab.com/en/94576/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Source Code Collection of a South Korean Autonomous Robot Manufacturer Shared on a Cybercrime Forum Qilin Ransomware Attack on a Spanish Public Wastewater Management Organization RansomHouse Ransomware Attack on a Japanese Frozen Food and Logistics Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94576/</guid>
+      <pubDate>Wed, 22 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
