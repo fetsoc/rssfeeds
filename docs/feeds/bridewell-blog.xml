@@ -7,7 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 19:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:03:51 +0000</lastBuildDate>
+    <item>
+      <title>100 Security Experts You Could Follow on Twitter | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</link>
+      <description>Whether you are an industry insider or work in cyber there is an avalanche of information. But this list 100 Security Experts on Twitter will take some beating!</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</guid>
+    </item>
+    <item>
+      <title>Is It Ever Morally Right to Hack? | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/is-it-ever-morally-right-to-hack</link>
+      <description>Ethical Hacking is a term widely used to define IT Security professionals who attempt to break into IT systems to identify weaknesses. Find out more</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/is-it-ever-morally-right-to-hack</guid>
+    </item>
     <item>
       <title>Global Privacy in Practice: Lessons from 2025 and the Roadmap for 2026 | Bridewell</title>
       <link>https://www.bridewell.com/insights/blogs/detail/global-privacy-in-practice-lessons-from-2025-and-the-roadmap-for-2026</link>
@@ -31,12 +43,6 @@
       <link>https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams</link>
       <description>This blog distils Secure by Design down into actionable building blocks and provides guidance on how project teams can embed Secure by Design requirements into agile project delivery.</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams</guid>
-    </item>
-    <item>
-      <title>Intelligence Insights: December 2025 | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/intelligence-insights-december-2025</link>
-      <description>This month’s Threat Insights leverages data from Bridewell’s global MDR and Incident Response engagements to expose the top malicious infrastructure of December 2025.</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/intelligence-insights-december-2025</guid>
     </item>
     <item>
       <title>Who Needs to Be PCI DSS Compliant?</title>
@@ -198,12 +204,6 @@
       <link>https://www.bridewell.com/insights/blogs/detail/automating-malware-analysis-with-cuckoo-sandbox</link>
       <description>Having the ability to discover and analyse new malware or attacks is crucial to allow analysts to prevent and remove these threats - cue the Cuckoo Sandbox</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/automating-malware-analysis-with-cuckoo-sandbox</guid>
-    </item>
-    <item>
-      <title>Intelligence Insights: June 2026 | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/intelligence-insights-june-2026</link>
-      <description>This month’s Threat Insights leverages data from Bridewell’s global MDR and Incident Response engagements to expose the top malicious infrastructure of April 2026.</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/intelligence-insights-june-2026</guid>
     </item>
     <item>
       <title>PCI WHY: Why Should I Comply with PCI DSS?</title>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 19:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:03:47 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 2, June 2026</title>
       <link>https://asec.ahnlab.com/en/94088/</link>
@@ -86,21 +86,14 @@
       <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q2 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
-      <link>https://asec.ahnlab.com/en/94398/</link>
-      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Statistical Report on Malware Targeting Windows Database Servers in the Second Quarter of 2026</title>
+      <title>Statistical Report on Malware Targeting Windows Database Servers in Q2 2026</title>
       <link>https://asec.ahnlab.com/en/94397/</link>
       <description>Contents The AhnLab SEcurity intelligence Center (ASEC) analyzed attack logs from the second quarter of 2026 targeting MS-SQL server and MySQL server installations on Windows. This report summarizes the damage status, attack status, and the classification of the malware and tools used in the attacks. Purpose and Scope The targets are MS-SQL servers and MySQL [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94397/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Second Quarter of 2026</title>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in Q2 2026</title>
       <link>https://asec.ahnlab.com/en/94396/</link>
       <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) collected and analyzed attack logs targeting poorly managed Linux SSH servers through honeypots. The scope of the analysis covers attack sources that progressed to executing actual malware installation commands, as well as statistics on the malware used in those attacks. Purpose and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94396/</guid>
@@ -111,6 +104,13 @@
       <link>https://asec.ahnlab.com/en/94320/</link>
       <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Windows Web Servers in Q2 2026</title>
+      <link>https://asec.ahnlab.com/en/94398/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -200,7 +200,7 @@
     <item>
       <title>June 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/94486/</link>
-      <description>Contents This report summarizes the distribution channels, number of Infostealers, number of detections, and information on companies disguised by new Infostealers collected during June 2026. The collected samples were obtained through an automated data collection system, an email honeypot system, and an automated malware C2 analysis system operated by ASEC (AhnLab SEcurity intelligence Center). Purpose [&amp;#8230;]</description>
+      <description>Contents This report summarizes the distribution channels, number of Infostealers, number of detections, and information on companies targeted by new Infostealers collected during June 2026. The collected samples were obtained through an automated data collection system, an email honeypot system, and an automated malware C2 analysis system operated by AhnLab SEcurity intelligence Center (ASEC). Purpose [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94486/</guid>
       <pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
     </item>

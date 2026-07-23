@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 19:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:03:45 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN &amp; Torq Integration: Scale Triage &amp; Respond with Confidence</title>
       <link>https://any.run/cybersecurity-blog/torq-integration/</link>
