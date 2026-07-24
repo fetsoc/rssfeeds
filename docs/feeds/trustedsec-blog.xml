@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 13:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 19:22:20 +0000</lastBuildDate>
     <item>
       <title>Modern Web Application Content Discovery</title>
       <link>https://trustedsec.com/blog/modern-web-application-content-discovery</link>
@@ -74,7 +74,7 @@
     <item>
       <title>CCPA Update: Cybersecurity Requirements (Part 2)</title>
       <link>https://trustedsec.com/blog/ccpa-update-cybersecurity-requirements-part-2</link>
-      <description>&amp;lt;p&amp;gt;The state of California has updated the California Consumer Privacy Act (CCPA) and its supporting regulations yet again, and this time it has a cybersecurity audit requirement. The California Privacy Protection Agency…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Confirmed you&amp;#039;re in scope for CCPA? Now comes the cybersecurity audit requirement. In Part 2 of this blog series, we cover what it entails, the phased timeline, and the penalties for non-compliance.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/ccpa-update-cybersecurity-requirements-part-2</guid>
       <pubDate>Fri, 24 Jul 2026 04:00:00 +0000</pubDate>
     </item>
