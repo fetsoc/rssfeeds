@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 19:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 02:02:07 +0000</lastBuildDate>
     <item>
       <title>JQ for Hackers</title>
       <link>https://trustedsec.com/blog/jq-for-hackers</link>

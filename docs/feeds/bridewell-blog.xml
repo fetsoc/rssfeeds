@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 19:08:47 +0000</lastBuildDate>
-    <item>
-      <title>100 Security Experts You Could Follow on Twitter | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</link>
-      <description>Whether you are an industry insider or work in cyber there is an avalanche of information. But this list 100 Security Experts on Twitter will take some beating!</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/100-security-experts-you-could-follow-on-twitter</guid>
-    </item>
-    <item>
-      <title>Is It Ever Morally Right to Hack? | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/is-it-ever-morally-right-to-hack</link>
-      <description>Ethical Hacking is a term widely used to define IT Security professionals who attempt to break into IT systems to identify weaknesses. Find out more</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/is-it-ever-morally-right-to-hack</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 02:02:11 +0000</lastBuildDate>
     <item>
       <title>Global Privacy in Practice: Lessons from 2025 and the Roadmap for 2026 | Bridewell</title>
       <link>https://www.bridewell.com/insights/blogs/detail/global-privacy-in-practice-lessons-from-2025-and-the-roadmap-for-2026</link>
@@ -49,6 +37,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</link>
       <description>Who Needs to Be PCI DSS Compliant?</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</guid>
+    </item>
+    <item>
+      <title>Bridewell | AI in Incident Response: Where It Delivers and Where Humans Must Lead</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/ai-in-incident-response--where-it-delivers-and-where-humans-must-lead</link>
+      <description>AI incident response is not about replacing experienced practitioners. It is about ensuring those practitioners can focus their expertise where it matters most.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/ai-in-incident-response--where-it-delivers-and-where-humans-must-lead</guid>
     </item>
     <item>
       <title>Microsoft Security Copilot and OpenAI ChatGPT: How Can AI Change the Future of Cyber Security?</title>
@@ -85,6 +79,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/looking-at-iso-27001-certification-guidance-on-how-to-avoid-the-cowboys</link>
       <description>The negative statements about ISO 27001 tend not to be against it but rather when individuals have had bad exposure to the standard where it is not implemented effectively</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/looking-at-iso-27001-certification-guidance-on-how-to-avoid-the-cowboys</guid>
+    </item>
+    <item>
+      <title>Bridewell | Integrating Microsoft Security Copilot in a Co-Managed SOC: A Practical Guide</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/integrating-microsoft-security-copilot-in-a-co-managed-soc--a-practical-guide</link>
+      <description>The goal with Microsoft Security Copilot integration is simple: maximise the value of your existing licensing investment without creating cost conflicts with your managed service arrangement.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/integrating-microsoft-security-copilot-in-a-co-managed-soc--a-practical-guide</guid>
     </item>
     <item>
       <title>Defence Cyber Certification (DCC) Explained: A Practical Guide for Defence Suppliers</title>
