@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 02:02:08 +0000</lastBuildDate>
-    <item>
-      <title>May 2026 Threat Trend Report on APT Groups</title>
-      <link>https://asec.ahnlab.com/en/94145/</link>
-      <description>Purpose and Scope The May 2026 APT Trends report identified supply chain attacks, developer environment attacks, automated Initial Breach, and exploitation of runtime environments as key developments. Lazarus, Famous Chollima, Gamaredon, MuddyWater, and Nimbus Manticore are of particular concern. Status of Major APT Groups by Region North Korea The Lazarus group exploited Git Hooks (Git [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94145/</guid>
-      <pubDate>Mon, 15 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 08:12:58 +0000</lastBuildDate>
     <item>
       <title>May 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/94172/</link>
@@ -128,20 +121,6 @@
       <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
-      <link>https://asec.ahnlab.com/en/94433/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>June 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94416/</link>
       <description>Note The June 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of the sources, it is sometimes difficult to fully verify the accuracy of certain information, and this is noted accordingly. Major Issue On Hasan’s BreachForums, there was a series of [&amp;#8230;]</description>
@@ -160,6 +139,20 @@
       <link>https://asec.ahnlab.com/en/94406/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Saudi Arabian Medical Records Breach, For Sale on Cybercrime Forum Irish ICT Company Data Leaked, For Sale on Cybercrime Forum LeakNet Breach Targets US Healthcare Insurer, Shared on Cybercrime Forums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94406/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
+      <link>https://asec.ahnlab.com/en/94433/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94417/</link>
+      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Source Code Collection of a South Korean Autonomous Robot Manufacturer Shared on a Cybercrime Forum Qilin Ransomware Attack on a Spanish Public Wastewater Management Organization RansomHouse Ransomware Attack on a Japanese Frozen Food and Logistics Company</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94576/</guid>
       <pubDate>Wed, 22 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Threat Trend Report on APT Attacks (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/94594/</link>
+      <description>Content AhnLab monitored domestic APT (Advanced Persistent Threat) attacks—which are conducted covertly and persistently—using its own infrastructure. This report summarizes the classification and statistics on domestic APT attacks identified in June 2026 and describes the capabilities of each type of APT attack. Purpose and Scope Most of the APT attacks identified in Korea were distributed [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94594/</guid>
+      <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

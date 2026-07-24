@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 01:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:11:48 +0000</lastBuildDate>
     <item>
       <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
       <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 01:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:11:47 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/edrchoker-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/d4c2ee0a875539093d0c406edff6c4999e642da4</link>
