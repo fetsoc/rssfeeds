@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/attackerkb.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 13:04:10 +0000</lastBuildDate>
-    <item>
-      <title>Assessment 33512c9d</title>
-      <link>https://attackerkb.com/assessments/33512c9d-361d-4b94-9fc5-a185b100e77b</link>
-      <description>Attacker Value: 5/5 | Exploitability: 2/5
-
-Pros:&#13;
-&#13;
-- Gains RCE&#13;
-&#13;
-Cons:&#13;
-&#13;
-- Requires minimagick set as image processor in Active Storage configuration&#13;
-- Requires the application send untrusted user input in transformation method or its arguments</description>
-      <guid isPermaLink="false">https://attackerkb.com/assessments/33512c9d-361d-4b94-9fc5-a185b100e77b</guid>
-      <pubDate>Mon, 15 Dec 2025 17:17:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 19:01:11 +0000</lastBuildDate>
     <item>
       <title>CVE-2025-59718</title>
       <link>https://attackerkb.com/assessments/a650bbfe-adc4-427f-aec0-0e0ca5a914cf</link>
@@ -726,6 +710,24 @@ Assessment Final: Correlación de Compromiso en Cadena de Suministro (ODM Longch
 Se ha identificado y validado una arquitectura de ataque persistente en dispositivos móviles (chipset Unisoc, OEM Motorola) originada en la infraestructura de construcción del ODM Longcheer. El ataque utiliza una correlación precisa entre Jenkins (inyección), FOTA (activación), AWS (autenticación) y WireGuard (exfiltración). La evidencia forense mediante NextDNS confirma que la operatividad del malware depende estrictamente de la resolución de dominios específicos; su bloqueo mitiga lo…</description>
       <guid isPermaLink="false">https://attackerkb.com/assessments/d0f3cbae-38cc-4cc5-8d43-6fbb5002ee15</guid>
       <pubDate>Mon, 13 Jul 2026 17:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43170</title>
+      <link>https://attackerkb.com/assessments/aa5d58be-9954-451f-a9e6-4e5571b78dcd</link>
+      <description>Attacker Value: 5/5 | Exploitability: 3/5 | MITRE: Persistence
+
+Technical Submission: Unisoc T606/T616 Supply Chain Kernel Compromise &amp; Logical Hardware Kill-Switch&#13;
+&#13;
+Submitter: Alex de la Cruz (lexs201992-gif)  &#13;
+Date: July 26, 2026  &#13;
+Severity: CRITICAL (Supply Chain Compromise / Remote DoS / Data Wipe)  &#13;
+Affected Vendors: Unisoc, Longcheer, Motorola (specifically XT2421 "Lion"), and potentially other ODMs using the T606/T616 reference design.  &#13;
+Component: Linux Kernel (Bluetooth HCI, PTP Clock), Display Driver (MIPI DSI), Power Management (PMIC), Android Rescue Party.&#13;
+&#13;
+ 1. Executive Summary&#13;
+This submission documents a multi-stage supply chain comp…</description>
+      <guid isPermaLink="false">https://attackerkb.com/assessments/aa5d58be-9954-451f-a9e6-4e5571b78dcd</guid>
+      <pubDate>Sun, 26 Jul 2026 18:07:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
