@@ -7,42 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 13:45:11 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/reduce-unnecessary-inbound-internet-exposure-on-i…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/c78e992febb24e172f0c57bd64faea51e0c27870</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/reduce-unnecessary-inbound-internet-exposure-on-internet-facing-devices.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c78e992febb24e172f0c57bd64faea51e0c27870</guid>
-      <pubDate>Thu, 18 Jun 2026 15:18:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update reduce-unnecessary-inbound-internet-exposure-on-internet-facin…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/661ce07b6492d52d29ebcbe540434f215da3b30b</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update reduce-unnecessary-inbound-internet-exposure-on-internet-facing-devices.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/661ce07b6492d52d29ebcbe540434f215da3b30b</guid>
-      <pubDate>Thu, 18 Jun 2026 17:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/osint-profile-weekly-osint-highlights-22-june-202…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/90bc36bbae2ddb6adec4baadbb98de832ad62a0b</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/osint-profile-weekly-osint-highlights-22-june-2026.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/90bc36bbae2ddb6adec4baadbb98de832ad62a0b</guid>
-      <pubDate>Mon, 22 Jun 2026 21:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delete KQL/osint-profile-weekly-osint-highlights-22-june-2026.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/2f667629dcf15cae27cb82e9c65013e32902dd52</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Delete KQL/osint-profile-weekly-osint-highlights-22-june-2026.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/2f667629dcf15cae27cb82e9c65013e32902dd52</guid>
-      <pubDate>Tue, 23 Jun 2026 06:18:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/detect-whatsapp-vbscript-campaign.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/722596dee464ed8622d7e28648a6a7ead2b23180</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detect-whatsapp-vbscript-campaign.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/722596dee464ed8622d7e28648a6a7ead2b23180</guid>
-      <pubDate>Tue, 23 Jun 2026 13:28:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 19:11:34 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/helpdesk-theme-impersonation-attack-detection.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/bea512ed475dddd6b8d2fd319b5af802221d56f2</link>
@@ -147,6 +112,41 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/legacyhive-duo-detection.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/9ab2322fe2c569abfccbab080bbc81cd2d092a95</guid>
       <pubDate>Tue, 28 Jul 2026 06:06:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/wp2shell-exposure-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/e0793e9b6d1a69457636cbd407a2a46ea039a85e</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/wp2shell-exposure-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/e0793e9b6d1a69457636cbd407a2a46ea039a85e</guid>
+      <pubDate>Tue, 28 Jul 2026 16:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/prompt-injector-analysis-report.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/fcd379987c8fd42296be5a8878f5b9c03e16e7d8</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/prompt-injector-analysis-report.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/fcd379987c8fd42296be5a8878f5b9c03e16e7d8</guid>
+      <pubDate>Tue, 28 Jul 2026 16:23:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/the-hunt-for-the-hermeticreader.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/4267a9c075c57ca288a61cf0215479372f07349b</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/the-hunt-for-the-hermeticreader.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4267a9c075c57ca288a61cf0215479372f07349b</guid>
+      <pubDate>Tue, 28 Jul 2026 16:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/indirect-prompt-injection-risk-assessment.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/097f755538a06776f14892279fd9e889dc4c21e0</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/indirect-prompt-injection-risk-assessment.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/097f755538a06776f14892279fd9e889dc4c21e0</guid>
+      <pubDate>Tue, 28 Jul 2026 16:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update file at /KQL/detect-certighost-cve-2026-54121.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/b4e7d297177d7f4af5e50e8a06144e1de1cb0dac</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detect-certighost-cve-2026-54121.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/b4e7d297177d7f4af5e50e8a06144e1de1cb0dac</guid>
+      <pubDate>Tue, 28 Jul 2026 16:25:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

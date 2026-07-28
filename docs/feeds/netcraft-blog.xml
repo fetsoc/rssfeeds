@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 13:45:16 +0000</lastBuildDate>
-    <item>
-      <title>January 2026 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/january-2026-web-server-survey</link>
-      <description>In the January 2026 survey we received responses from 1,376,952,390 sites across 295,088,466 domains and 14,365,221 web-facing computers. This refl...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/january-2026-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 19:11:39 +0000</lastBuildDate>
     <item>
       <title>Part-Time Money Laundering: How Students Are Tricked into Becoming Money Mules</title>
       <link>https://www.netcraft.com/blog/part-time-money-laundering-the-student-job-to-avoid</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/july-2026-web-server-survey</link>
       <description>In the July 2026 survey we received responses from 1,494,915,628 sites across 305,348,459 domains and 14,772,048 web-facing computers. This reflect...</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/july-2026-web-server-survey</guid>
+    </item>
+    <item>
+      <title>How the Rise of AI ‘Vibe Coding’ Introduced a New Phishing Shortcut for Cybercriminals</title>
+      <link>https://www.netcraft.com/blog/rise-of-ai-vibe-coding-and-new-cyber-threats</link>
+      <description>Discover how cybercriminals are using AI vibe-coding tools to create phishing websites, target employee logins, and scale fraud operations.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/rise-of-ai-vibe-coding-and-new-cyber-threats</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

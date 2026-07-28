@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 13:44:39 +0000</lastBuildDate>
-    <item>
-      <title>Interview with Daniel Plohmann: Malpedia, Malware Analysis, and Research Insights</title>
-      <link>https://hunt.io/blog/interview-daniel-plohmann-malpedia-malware-analysis</link>
-      <description>Daniel Plohmann discusses building Malpedia, advancing malware research with MCRIT, and how metalcore and music inspire his work beyond security.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/interview-daniel-plohmann-malpedia-malware-analysis</guid>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 19:10:46 +0000</lastBuildDate>
     <item>
       <title>Inside the 2025 Energy Phishing Wave: Chevron, Conoco, PBF, Phillips 66</title>
       <link>https://hunt.io/blog/us-energy-phishing-wave-report</link>
@@ -357,6 +350,13 @@
       <description>An exposed open directory on a Hong Kong server revealed an autonomous AI agent running unattended, an unreported Go implant, and target-specific tooling used against Thailand's Ministry of Finance.</description>
       <guid isPermaLink="false">https://hunt.io/blog/thailand-ministry-finance-targeted-with-hermes-ai-agent</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon</title>
+      <link>https://hunt.io/blog/flying-eagle-android-rat-170-servers-night-dragon</link>
+      <description>Hunt.io and NetAskari trace a leaked Android RAT framework across 170 active servers, analyze the APK builder internals, and document a successor platform called Night Dragon targeting Chinese users.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/flying-eagle-android-rat-170-servers-night-dragon</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
