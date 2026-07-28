@@ -7,6 +7,78 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 08:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:46:39 +0000</lastBuildDate>
+    <item>
+      <title>Inside an AI-Assisted Cloud Attack: Familiar Techniques at Unfamiliar Speed</title>
+      <link>https://www.sygnia.co/blog/inside-an-ai-assisted-cloud-attack/</link>
+      <description>&lt;p&gt;Learn how a threat actor used AI to accelerate a cloud attack from initial access to broad compromise in just 72 hours&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/inside-an-ai-assisted-cloud-attack/"&gt;Inside an AI-Assisted Cloud Attack: Familiar Techniques at Unfamiliar Speed&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/inside-an-ai-assisted-cloud-attack/</guid>
+      <pubDate>Mon, 29 Jun 2026 09:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>On-Demand Webinar: Inside an AI-Assisted Cloud Attack</title>
+      <link>https://www.sygnia.co/webinars/inside-an-ai-assisted-cloud-attack-familiar-techniques-at-unfamiliar-speed/</link>
+      <description>&lt;p&gt;Watch a practical session based on Sygnia’s investigation of an AI-assisted cloud intrusion that progressed from initial access to broad compromise in just 72 hours.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/inside-an-ai-assisted-cloud-attack-familiar-techniques-at-unfamiliar-speed/"&gt;On-Demand Webinar: Inside an AI-Assisted Cloud Attack&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/inside-an-ai-assisted-cloud-attack-familiar-techniques-at-unfamiliar-speed/</guid>
+      <pubDate>Wed, 01 Jul 2026 13:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment</title>
+      <link>https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</link>
+      <description>&lt;p&gt;Financially motivated cyberattack reveals agentic AI workflows to accelerate victim reconnaissance, attack tool development, command structuring and environment-specific adaptation. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/"&gt;Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</guid>
+      <pubDate>Wed, 08 Jul 2026 07:52:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Incident Response in 2026: What Has Changed and What CISOs Are Still Getting Wrong</title>
+      <link>https://www.sygnia.co/blog/ransomware-incident-response/</link>
+      <description>&lt;p&gt;Learn what has changed in ransomware incident response in 2026, and what CISOs are still getting wrong&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/ransomware-incident-response/"&gt;Ransomware Incident Response in 2026: What Has Changed and What CISOs Are Still Getting Wrong&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/ransomware-incident-response/</guid>
+      <pubDate>Sun, 12 Jul 2026 09:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Technical Controls Work, Attackers Change the Rules: How a Failed Intrusion Became a Data Exposure Incident</title>
+      <link>https://www.sygnia.co/blog/when-technical-controls-work-attackers-change-the-rules/</link>
+      <description>&lt;p&gt;Discover how a failed intrusion quickly became a data exposure incident after a threat actor pivoted from blocked technical attacks to social engineering, and why layered defenses, rapid response, and operational safeguards are essential when attackers change the rules.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/when-technical-controls-work-attackers-change-the-rules/"&gt;When Technical Controls Work, Attackers Change the Rules: How a Failed Intrusion Became a Data Exposure Incident&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/when-technical-controls-work-attackers-change-the-rules/</guid>
+      <pubDate>Sun, 12 Jul 2026 11:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Ransomware Hides in OneDrive: Inside SafePay’s Exfiltration Play</title>
+      <link>https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/</link>
+      <description>&lt;p&gt;Join us for an inside look at the attack path, the forensic evidence that exposed the OneDrive exfiltration technique, and the practical detection opportunities defenders can use to uncover similar activity before it becomes a full-scale extortion event.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/"&gt;When Ransomware Hides in OneDrive: Inside SafePay’s Exfiltration Play&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/</guid>
+      <pubDate>Sun, 26 Jul 2026 12:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Most OT Cyber Incidents Never Reach the OT Environment</title>
+      <link>https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/</link>
+      <description>&lt;p&gt;Learn why modern industrial operations depend on IT, the misconceptions that leave organizations exposed, and how anti-fragile resilience keeps production running when IT is compromised.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/"&gt;Why Most OT Cyber Incidents Never Reach the OT Environment&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/</guid>
+      <pubDate>Sun, 26 Jul 2026 14:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Penetration Test Reveals Critical “vibe coded” Vulnerabilities Within Claude-Based Application</title>
+      <link>https://www.sygnia.co/press-release/sygnia-penetration-test-claude-vibe-coded-vulnerabilities/</link>
+      <description>&lt;p&gt;Leading incident response team launches AI Cybersecurity Services in wake of rising AI-assisted code development. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-penetration-test-claude-vibe-coded-vulnerabilities/"&gt;Sygnia Penetration Test Reveals Critical “vibe coded” Vulnerabilities Within Claude-Based Application&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-penetration-test-claude-vibe-coded-vulnerabilities/</guid>
+      <pubDate>Tue, 28 Jul 2026 10:13:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Code at AI Speed, Risk at AI Scale</title>
+      <link>https://www.sygnia.co/blog/ai-generated-code-security-risks/</link>
+      <description>&lt;p&gt;AI-generated code is transforming software development, but it is also introducing new security risks. Learn how a real-world penetration test uncovered a critical authentication flaw that exposed sensitive customer data and what security teams can do to prevent similar issues.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/ai-generated-code-security-risks/"&gt;Code at AI Speed, Risk at AI Scale&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/ai-generated-code-security-risks/</guid>
+      <pubDate>Tue, 28 Jul 2026 12:27:50 +0000</pubDate>
+    </item>
   </channel>
 </rss>

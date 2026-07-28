@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 08:20:48 +0000</lastBuildDate>
-    <item>
-      <title>Modern Web Application Content Discovery</title>
-      <link>https://trustedsec.com/blog/modern-web-application-content-discovery</link>
-      <description>&amp;lt;p&amp;gt;Staring at a web app with no links and no navigation? In this blog, we break down modern content discovery, from forced browsing and web crawling to Google dorking and GitHub recon.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/modern-web-application-content-discovery</guid>
-      <pubDate>Thu, 18 Jun 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 13:46:35 +0000</lastBuildDate>
     <item>
       <title>Large Workflows with Local LLMs</title>
       <link>https://trustedsec.com/blog/large-workflows-with-local-llms</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Confirmed you&amp;#039;re in scope for CCPA? Now comes the cybersecurity audit requirement. In Part 2 of this blog series, we cover what it entails, the phased timeline, and the penalties for non-compliance.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/ccpa-update-cybersecurity-requirements-part-2</guid>
       <pubDate>Fri, 24 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Directives and AI Strategy Development</title>
+      <link>https://trustedsec.com/blog/ai-directives-and-ai-strategy-development</link>
+      <description>&amp;lt;p&amp;gt;As TrustedSec performs more AI assessments, one of the most common themes we hear from clients is that they have been directed to adopt AI, but they don’t yet know where or how to begin. That’s not unusual.…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/ai-directives-and-ai-strategy-development</guid>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
