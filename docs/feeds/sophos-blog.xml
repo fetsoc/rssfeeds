@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 19:23:17 +0000</lastBuildDate>
-    <item>
-      <title>The stack had a good run. Defense systems are the future.</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-fusion</link>
-      <description>&lt;p&gt;Introducing Sophos Fusion, the industry’s most complete AI-Native Cybersecurity Defense System.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-fusion</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of Ransomware 2026: Payments are dropping but encryption is climbing</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-state-of-ransomware-2026</link>
-      <description>&lt;p&gt;Insights from 2,158 IT and cybersecurity leaders across 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-state-of-ransomware-2026</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 01:57:57 +0000</lastBuildDate>
     <item>
       <title>Sophos ZTNA unlocks SaaS app control and so much more</title>
       <link>https://www.sophos.com/en-us/blog/sophos-ztna-protected-browser</link>
@@ -69,6 +55,20 @@
       <link>https://www.sophos.com/en-us/blog/sophos-ai-defense</link>
       <description>&lt;p&gt;See AI. Control AI. Secure AI.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-defense</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turn cybersecurity into a high-value business function with Sophos CISO Advantage</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ciso-advantage</link>
+      <description>&lt;p&gt;An introduction to Sophos CISO Advantage, the new, differentiated way to align cybersecurity outcomes with business value — coming in October.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ciso-advantage</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Sophos Has Become Its Own AI Test Lab</title>
+      <link>https://www.sophos.com/en-us/blog/2607-secai</link>
+      <description>&lt;p&gt;What that means for Customer Protections&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607-secai</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
