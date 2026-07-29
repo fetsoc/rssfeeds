@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 01:54:33 +0000</lastBuildDate>
-    <item>
-      <title>It looks like a normal resume, but the infection begins the moment it is opened.</title>
-      <link>https://asec.ahnlab.com/en/94165/</link>
-      <description>Malicious shortcut files disguised as resume files have recently been circulating, requiring corporate users to exercise caution. Threat actors name the files to resemble resume documents containing company names and job titles, and when executed, they display a legitimate decoy file alongside the malicious file to lower the user’s suspicion. The file then downloads additional [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94165/</guid>
-      <pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 08:26:20 +0000</lastBuildDate>
     <item>
       <title>What is the true nature of the shortcut file I thought was a privacy consent form?</title>
       <link>https://asec.ahnlab.com/en/94164/</link>
@@ -114,6 +107,20 @@
       <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
+      <link>https://asec.ahnlab.com/en/94433/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94417/</link>
+      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>June 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94416/</link>
       <description>Note The June 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of the sources, it is sometimes difficult to fully verify the accuracy of certain information, and this is noted accordingly. Major Issue On Hasan’s BreachForums, there was a series of [&amp;#8230;]</description>
@@ -132,20 +139,6 @@
       <link>https://asec.ahnlab.com/en/94406/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Saudi Arabian Medical Records Breach, For Sale on Cybercrime Forum Irish ICT Company Data Leaked, For Sale on Cybercrime Forum LeakNet Breach Targets US Healthcare Insurer, Shared on Cybercrime Forums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94406/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
-      <link>https://asec.ahnlab.com/en/94433/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>Content AhnLab monitored domestic APT (Advanced Persistent Threat) attacks—which are conducted covertly and persistently—using its own infrastructure. This report summarizes the classification and statistics on domestic APT attacks identified in June 2026 and describes the capabilities of each type of APT attack. Purpose and Scope Most of the APT attacks identified in Korea were distributed [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94594/</guid>
       <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Case Study: Targeted Attack Case on an MS-SQL Server Involving the Installation of GotoHTTP and SoftEther VPN</title>
+      <link>https://asec.ahnlab.com/en/94685/</link>
+      <description>While monitoring attack cases targeting MS-SQL servers, the AhnLab SEcurity intelligence Center (ASEC) identified an instance in which the Larva-26009 threat actor installed the XMRig CoinMiner. While the installation of CoinMiner is common in attack cases targeting MS-SQL servers, in this particular attack case, the attacker installed VShell and GotoHTTP to gain control over the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94685/</guid>
+      <pubDate>Fri, 24 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
