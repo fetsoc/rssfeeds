@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 08:26:19 +0000</lastBuildDate>
-    <item>
-      <title>Closing the Supplier Security Gap: How a US Manufacturer Cut Third-Party Risk and Doubled SOC Triage Speed</title>
-      <link>https://any.run/cybersecurity-blog/us-manufacturer-security-risk/</link>
-      <description>&lt;p&gt;For a US automotive manufacturer working with more than 200 active vendors, supplier file intake had become a growing security and cost challenge. That pressure is especially high in manufacturing, where SOC teams carry an average workload 18% higher than teams in other industries. By introducing behavioral sandboxing and threat intelligence, the company made triage [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-manufacturer-security-risk/"&gt;Closing the Supplier Security Gap: How a US Manufacturer Cut Third-Party Risk and Doubled SOC Triage Speed&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-manufacturer-security-risk/</guid>
-      <pubDate>Tue, 30 Jun 2026 10:11:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 14:00:13 +0000</lastBuildDate>
     <item>
       <title>Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates</title>
       <link>https://any.run/cybersecurity-blog/release-notes-june-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/enterprise-phishing-resilience/"&gt;Building Resilience Against AiTM Phishing: What SOC Leaders Should Know&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/enterprise-phishing-resilience/</guid>
       <pubDate>Tue, 28 Jul 2026 09:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market</title>
+      <link>https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/</link>
+      <description>&lt;p&gt;Cyber risk is increasing, but so is the cost of managing it. More than 514,000 cybersecurity job listings appeared in the US between May 2024 and April 2025, while the mean annual wage for an information security&amp;#160;analyst reached $132,510.&amp;#160; Even after the budget is approved, hiring can take three to six months, with additional time [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/"&gt;The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/</guid>
+      <pubDate>Wed, 29 Jul 2026 09:36:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
