@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 14:00:20 +0000</lastBuildDate>
-    <item>
-      <title>In code we trust? Why the most trusted software receives the least scrutiny.</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-trusted-code</link>
-      <description>&lt;p&gt;Recent CVEs across GitHub, Anthropic, Google, dbt, and MISP expose a simple truth: the most trusted code is often the least questioned. As organizations connect AI agents to production systems, those overlooked assumptions can become powerful new attack paths.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-trusted-code</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 19:09:41 +0000</lastBuildDate>
     <item>
       <title>Sophos joins Anthropic's Project Glasswing</title>
       <link>https://www.sophos.com/en-us/blog/sophos-joins-anthropics-project-glasswing</link>
@@ -44,13 +37,6 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Sophos Has Become Its Own AI Test Lab</title>
-      <link>https://www.sophos.com/en-us/blog/2607-secai</link>
-      <description>&lt;p&gt;What that means for Customer Protections&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607-secai</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Sophos AI Defense</title>
       <link>https://www.sophos.com/en-us/blog/sophos-ai-defense</link>
       <description>&lt;p&gt;See AI. Control AI. Secure AI.&lt;/p&gt;</description>
@@ -65,11 +51,25 @@
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Why Sophos Has Become Its Own AI Test Lab</title>
+      <link>https://www.sophos.com/en-us/blog/2607-secai</link>
+      <description>&lt;p&gt;What that means for Customer Protections&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607-secai</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Chaos in Teams vishing</title>
       <link>https://www.sophos.com/en-us/blog/chaos-in-teams-vishing</link>
       <description>&lt;p&gt;Attackers used Microsoft Teams vishing, custom malware, and remote access tools to facilitate ransomware deployment&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/chaos-in-teams-vishing</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secure by Design in practice: a year of progress on Sophos Firewall</title>
+      <link>https://www.sophos.com/en-us/blog/2607-sbd-update</link>
+      <description>&lt;p&gt;One year on from our last Secure by Design update, we’re changing the format: deeper, per-product updates. First up: the firewall.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607-sbd-update</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
