@@ -7,25 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 13:40:47 +0000</lastBuildDate>
-    <item>
-      <title>Stop Comparing Features. Start Demanding Outcomes</title>
-      <link>https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</link>
-      <description>Buying more security tools doesn’t guarantee protection. See why outcomes depend on integration, management and continuous delivery.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</guid>
-    </item>
-    <item>
-      <title>Secure by Default: Built-In Cybersecurity Strategy</title>
-      <link>https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</link>
-      <description>Why Secure by Default goes beyond Secure by Design—reducing misconfiguration, complexity and risk through a unified security services platform.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/secure-by-default-moving-beyond-secure-by-design</guid>
-    </item>
-    <item>
-      <title>Budibase Cloud View Filter eval() Injection Remote Code Execution (CVE-2026-27702)</title>
-      <link>https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</link>
-      <description>CVE-2026-27702 is a critical (CVSS 9.9) remote code execution vulnerability in Budibase versions prior to 3.30.4. Attackers can inject malicious JavaScript through view filter values, which are passed unsanitized to eval() via the in-memory view subsystem in cloud mode. SonicWall Capture Labs provides threat analysis, exploitation details, IPS signature protection (IPS: 22007), and remediation guidance.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/budibase-cloud-view-filter-eval-injection-allows-full-remote-code-execution</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 19:21:33 +0000</lastBuildDate>
     <item>
       <title>SonicWall Earns 5-Star Rating in 2026 CRN Partner Guide</title>
       <link>https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</link>
@@ -99,6 +81,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
     </item>
     <item>
+      <title>Beyond the CVE: Why Secure by Design and Automated Patching Are Redefining Cybersecurity | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</link>
+      <description>Discover why CVE count is not the right measure of security. Learn how SonicWall's Secure by Design approach, automated patching, and 99.9% upgrade success rate protect customers and MSPs at scale.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/beyond-the-cve-why-secure-by-design-and-automated-patching-are-redefining-protection</guid>
+    </item>
+    <item>
       <title>The Frontier of AI Belongs to Businesses of All Sizes</title>
       <link>https://www.sonicwall.com/blog/frontier-ai-belongs-with-the-defenders-who-keep-the-economy-running</link>
       <description>SonicWall is ensuring small-to-medium-sized organizations reap the same benefits of frontier AI that enterprises do.</description>
@@ -160,6 +148,18 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/defenders-deserve-better-ai-too</link>
       <description>Attackers are already using AI to move faster. SonicWall is joining Anthropic's Project Glasswing to make sure defenders have the same advantage — before the next vulnerability becomes the next breach.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/defenders-deserve-better-ai-too</guid>
+    </item>
+    <item>
+      <title>DbGate JSON Script Runner Unauthenticated RCE - CVE-2026-47668</title>
+      <link>https://www.sonicwall.com/blog/dbgate-json-script-runner-unauthenticated-remote-code-execution</link>
+      <description>Critical CVSS 10.0 code injection in the DbGate JSON script runner enables unauthenticated remote code execution. SonicWall IPS signature 22322 available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/dbgate-json-script-runner-unauthenticated-remote-code-execution</guid>
+    </item>
+    <item>
+      <title>SonicOS 8.2.2 Release: Secure-by-Default Protection &amp; Simplified Management | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/what-s-new-in-sonicos-8-2-2-secure-by-default-protection-meets-simplified-firewall-management</link>
+      <description>SonicOS 8.2.2 delivers secure-by-default protection, automated certificate renewal, VPN two-factor authentication, and three new NSv firewall sizes.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-s-new-in-sonicos-8-2-2-secure-by-default-protection-meets-simplified-firewall-management</guid>
     </item>
     <item>
       <title>Rethinking Security Architecture with Adversary Frameworks</title>
