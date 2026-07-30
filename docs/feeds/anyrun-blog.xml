@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 01:45:59 +0000</lastBuildDate>
-    <item>
-      <title>Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates</title>
-      <link>https://any.run/cybersecurity-blog/release-notes-june-2026/</link>
-      <description>&lt;p&gt;Phishing pages don&amp;#8217;t sit still anymore. They redirect, load scripts, harvest credentials through dynamic forms, and rebuild their DOM after the initial load — and most URL analysis workflows still only see the finish line, not the race. This June, ANY.RUN closed that gap directly inside the Interactive Sandbox and extended its automation reach with [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-june-2026/"&gt;Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-june-2026/</guid>
-      <pubDate>Wed, 01 Jul 2026 11:31:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 08:11:30 +0000</lastBuildDate>
     <item>
       <title>Banana RAT Evolves: Comparing Two Recent Branches Through ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/"&gt;The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/</guid>
       <pubDate>Wed, 29 Jul 2026 09:36:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Coverage Digest: New TI Report, Threat Research and 750+ Detection Rules</title>
+      <link>https://any.run/cybersecurity-blog/july-threat-coverage-2026/</link>
+      <description>&lt;p&gt;July brought another set of threat coverage updates designed to help security teams work faster and with more confidence. ANY.RUN added 42 behavior signatures, 11 YARA rules, and&amp;#160;703&amp;#160;Suricata rules, giving SOCs broader visibility across files, malware behavior, and network activity.&amp;#160; We also published new threat intelligence and technical research on active malware and phishing campaigns. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/july-threat-coverage-2026/"&gt;Threat Coverage Digest: New TI Report, Threat Research and 750+ Detection Rules&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/july-threat-coverage-2026/</guid>
+      <pubDate>Thu, 30 Jul 2026 06:13:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

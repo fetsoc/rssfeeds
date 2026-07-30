@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 01:46:01 +0000</lastBuildDate>
-    <item>
-      <title>What is the true nature of the shortcut file I thought was a privacy consent form?</title>
-      <link>https://asec.ahnlab.com/en/94164/</link>
-      <description>Evidence has recently emerged that Malicious Files posing as “Consent Forms for the Collection and Use of Personal Information” have been circulating. Threat actors use file names that are easily mistaken for work documents to trick users into running them. These files are not actual documents but shortcut files; when executed, they collect PC information [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94164/</guid>
-      <pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, June 2026</title>
-      <link>https://asec.ahnlab.com/en/94175/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, June 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Sale of Confidencial Defense Industry Documents in South Korea on Spear Forums Ransomware Attack by Qilin Targeting a South Korean Big Data Solution Company Ransomware Attack by Anubis Targeting a South Korean Semiconductor Equipment Parts Company</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94175/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2026 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/94185/</link>
-      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected during the month of May 2026, the number of affected systems, statistics on targeted businesses, and major Korean &amp;#038; Global ransomware issues. Statistics on samples and affected systems are based on AhnLab’s detection names, while statistics on targeted businesses are aggregated based [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94185/</guid>
-      <pubDate>Thu, 18 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 08:11:32 +0000</lastBuildDate>
     <item>
       <title>May 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/94271/</link>
@@ -217,6 +196,27 @@
       <description>While monitoring attack cases targeting MS-SQL servers, the AhnLab SEcurity intelligence Center (ASEC) identified an instance in which the Larva-26009 threat actor installed the XMRig CoinMiner. While the installation of CoinMiner is common in attack cases targeting MS-SQL servers, in this particular attack case, the attacker installed VShell and GotoHTTP to gain control over the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94685/</guid>
       <pubDate>Fri, 24 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Not Every Fox is Silver: Inside an AtlasRAT loader chain</title>
+      <link>https://asec.ahnlab.com/en/94704/</link>
+      <description>Summary AtlasRAT is a Windows-based remote access malware. This report analyzes a four-stage in-memory loader chain—which begins with a Delphi executable that is disguised as AGE Flash Player—and its final RAT functionality. The final payload performs TLS-based ChaCha20-encrypted C2 communication, executes modular plugins, performs offline keylogging, and injects DLLs into WeChat processes. Group Characteristics Public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94704/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 5, July 2026</title>
+      <link>https://asec.ahnlab.com/en/94707/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 5, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Termite Ransomware Attack on a U.S. Nonprofit Healthcare Provider ShinyHunters Claims Data Leak Involving a Global Accounting and Consulting Firm The Gentlemen Ransomware Attack on a South Korean IT Software Distributor and Infrastructure Service Provider</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94707/</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Joint Cybersecurity Advisory] Operation Double Barrel (The Relationship Between a State-Sponsored Threat Actor and the Gunra Ransomware Group)</title>
+      <link>https://asec.ahnlab.com/en/94696/</link>
+      <description>This technical analysis report was prepared as part of the joint cybersecurity advisory titled “Advisory on Cyberattacks Targeting Korean Citizens and Businesses by State-Sponsored Hacking Groups” issued by the Republic of Korea’s National Intelligence Service (NIS), National Police Agency (NPA), Korea Internet &amp;#38; Security Agency (KISA), and Financial Security Institute (FSI). &amp;#160; OverView AhnLab SEcurity [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94696/</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
