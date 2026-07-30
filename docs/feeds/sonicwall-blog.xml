@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 08:10:26 +0000</lastBuildDate>
-    <item>
-      <title>SonicOS 8.2.0: Better Security Outcomes, Zero Extra Cost</title>
-      <link>https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-0-better-security-outcomes-zero-extra-cost</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 13:40:47 +0000</lastBuildDate>
     <item>
       <title>Stop Comparing Features. Start Demanding Outcomes</title>
       <link>https://www.sonicwall.com/blog/stop-comparing-features-start-demanding-outcomes</link>
@@ -159,6 +154,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/joomla-multiple-com-extensions-unauthenticated-file-uploads-to-rce</link>
       <description>Critical CVSS 10.0 unauthenticated file upload flaws in five Joomla extensions enable remote code execution. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/joomla-multiple-com-extensions-unauthenticated-file-uploads-to-rce</guid>
+    </item>
+    <item>
+      <title>Defenders Deserve Better AI Too — SonicWall Joins Project Glasswing</title>
+      <link>https://www.sonicwall.com/blog/defenders-deserve-better-ai-too</link>
+      <description>Attackers are already using AI to move faster. SonicWall is joining Anthropic's Project Glasswing to make sure defenders have the same advantage — before the next vulnerability becomes the next breach.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/defenders-deserve-better-ai-too</guid>
     </item>
     <item>
       <title>Rethinking Security Architecture with Adversary Frameworks</title>
