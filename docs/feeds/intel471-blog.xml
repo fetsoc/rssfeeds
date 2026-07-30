@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/intel471-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 19:09:28 +0000</lastBuildDate>
-    <item>
-      <title>Deck the Halls with Caution: Four Festive Cyber Threats to Look Out for This Season</title>
-      <link>https://www.intel471.com/blog/deck-the-halls-with-caution-four-festive-cyber-threats-to-look-out-for-this-season</link>
-      <description>As we wind down to the end of the year, Intel 471 details four critical cyber threats organizations need to be aware of to ensure they remain vigilant.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/deck-the-halls-with-caution-four-festive-cyber-threats-to-look-out-for-this-season</guid>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 01:45:51 +0000</lastBuildDate>
     <item>
       <title>BlueSky: Understanding and Combating the Ransomware Threat</title>
       <link>https://www.intel471.com/blog/understanding-and-combating-the-bluesky-ransomware-threat</link>
@@ -357,6 +350,13 @@
       <description>There has been a significant amount of interest by CISOs in the impact of frontier artificial intelligence (AI) models for offensive and defensive purposes following Anthropic’s Claude Mythos Preview release April 7, 2026.</description>
       <guid isPermaLink="false">https://www.intel471.com/blog/how-much-does-anthropics-mythos-change-enterprise-security</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software Supply Chain Attacks: Weaponizing Trusted Developer Workflows</title>
+      <link>https://www.intel471.com/blog/software-supply-chain-attacks-weaponizing-trusted-developer-workflows</link>
+      <description>While operational supply chain compromise remains a risk, attackers are increasingly targeting the development pipelines that build and ship software.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/software-supply-chain-attacks-weaponizing-trusted-developer-workflows</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
