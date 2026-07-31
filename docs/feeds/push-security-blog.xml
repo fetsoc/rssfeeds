@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 08:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:46:08 +0000</lastBuildDate>
     <item>
       <title>How attackers defeat detections based on page signatures</title>
       <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection-p2</link>
@@ -240,13 +240,6 @@
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>InstallFix: Weaponizing malvertised install guides</title>
-      <link>https://pushsecurity.com/blog/installfix</link>
-      <description>Attackers are impersonating popular developer tools like Claude Code to distribute fake install instructions via malicious search engine ads.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/installfix</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analysing the rise in device code phishing attacks in 2026</title>
       <link>https://pushsecurity.com/blog/device-code-phishing</link>
       <description>Device code phishing is seeing a huge spike in adoption in 2026, enabling attackers to steal access tokens while bypassing standard access controls.</description>
@@ -357,6 +350,13 @@
       <description>Security outcomes you can achieve when AI agents hunt in the browser, identify new threats, and ship detections that benefit everyone.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Push turns IOC-based intel into browser TTPs for hunting</title>
+      <link>https://pushsecurity.com/blog/from-iocs-to-ttps-an-agentic-threat-hunting-case-study</link>
+      <description>How Push’s agentic detection pipeline turns intel into huntable characteristics of attacker behavior, deriving durable detections from a range of sources.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/from-iocs-to-ttps-an-agentic-threat-hunting-case-study</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
