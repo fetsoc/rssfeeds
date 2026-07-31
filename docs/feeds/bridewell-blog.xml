@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 19:23:30 +0000</lastBuildDate>
-    <item>
-      <title>Global Privacy in Practice: Lessons from 2025 and the Roadmap for 2026 | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/global-privacy-in-practice-lessons-from-2025-and-the-roadmap-for-2026</link>
-      <description>The start of a new year is time for reflection, reset and setting priorities. 2025 left a clear legacy: record-level fines, increasingly coordinated cross-border enforcement and growing focus on how privacy controls operate in practice.</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/global-privacy-in-practice-lessons-from-2025-and-the-roadmap-for-2026</guid>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 02:03:26 +0000</lastBuildDate>
     <item>
       <title>Bridewell | CNI Cyber Security Summit Roundup</title>
       <link>https://www.bridewell.com/insights/blogs/detail/cni-cyber-security-summit-roundup</link>
@@ -306,6 +300,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/what-is-operational-technology-penetration-testing</link>
       <description>What is Operational Technology Penetration Testing?</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-is-operational-technology-penetration-testing</guid>
+    </item>
+    <item>
+      <title>From a Vishing Call to a Shared Shared Com Ecosystem Kit | BCON Collective by Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/vishing-call-to-a-shared-com-ecosystem</link>
+      <description>Explore BCON Collective's investigation into a vishing-led phishing campaign, revealing shared kit infrastructure, attribution findings and threat intelligence insights.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/vishing-call-to-a-shared-com-ecosystem</guid>
     </item>
   </channel>
 </rss>
