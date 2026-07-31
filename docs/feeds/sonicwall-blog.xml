@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 02:02:15 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Earns 5-Star Rating in 2026 CRN Partner Guide</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</link>
-      <description>SonicWall’s SecureFirst Partner Program earns a 5-Star rating in the 2026 CRN Partner Program Guide, recognizing exceptional partner enablement.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-receives-5-star-award-in-2026-crn-partner-program-guide</guid>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 08:37:40 +0000</lastBuildDate>
     <item>
       <title>SonicWall Named Leader in 2026 GigaOm Firewall Radar</title>
       <link>https://www.sonicwall.com/blog/sonicwall-named-a-leader-and-fast-mover-in-the-2026-gigaom-radar-for-enterprise-firewalls</link>
@@ -160,6 +154,12 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <link>https://www.sonicwall.com/blog/what-s-new-in-sonicos-8-2-2-secure-by-default-protection-meets-simplified-firewall-management</link>
       <description>SonicOS 8.2.2 delivers secure-by-default protection, automated certificate renewal, VPN two-factor authentication, and three new NSv firewall sizes.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-s-new-in-sonicos-8-2-2-secure-by-default-protection-meets-simplified-firewall-management</guid>
+    </item>
+    <item>
+      <title>SonicWall Gen 8 vs. Competitors: Performance, Zero Trust and TCO | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/why-does-sonicwall-gen-8-outperform-the-competition-</link>
+      <description>SonicWall Generation 8 delivers hardware-accelerated performance, native Zero Trust, RTDMI threat detection, and up to 4x lower TCO than competing firewalls.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-does-sonicwall-gen-8-outperform-the-competition-</guid>
     </item>
     <item>
       <title>Rethinking Security Architecture with Adversary Frameworks</title>
