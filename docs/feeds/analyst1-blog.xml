@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 19:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:04:41 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -41,6 +41,13 @@
       <description>Learn about the intersection of Covid-19, cyberthreats, and the 2020 US election. Discover the risks, challenges, and ways to secure the voting process.</description>
       <guid isPermaLink="false">https://analyst1.com/the-coronavirus-cyberthreats-and-the-2020-u-s-election/</guid>
       <pubDate>Wed, 30 Sep 2020 09:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disinformation Campaigns: The New Cyber Attack and Weapon of Mass Distraction | Analyst1</title>
+      <link>https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</link>
+      <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
+      <guid isPermaLink="false">https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:47 +0000</pubDate>
     </item>
     <item>
       <title>Intelligent Cyber Threat Response | Analyst1</title>
@@ -106,20 +113,6 @@
       <pubDate>Mon, 21 Jun 2021 01:01:28 +0000</pubDate>
     </item>
     <item>
-      <title>Absolute Ransom: Nation-State Ransomware | Analyst1</title>
-      <link>https://analyst1.com/absolute-ransom-nation-state-ransomware/</link>
-      <description>Uncover the alleged ties between Russian government and ransomware attacks. Explore Absolute Ransom: Nation-State Ransomware for the truth.</description>
-      <guid isPermaLink="false">https://analyst1.com/absolute-ransom-nation-state-ransomware/</guid>
-      <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web - Justice League | Analyst1</title>
-      <link>https://analyst1.com/dark-web-justice-league/</link>
-      <description>Uncover the hidden world of Dark Web justice as cybercriminals settle disputes in underground courts. Explore verdicts, high-profile cases, and more.</description>
-      <guid isPermaLink="false">https://analyst1.com/dark-web-justice-league/</guid>
-      <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
-    </item>
-    <item>
       <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
       <link>https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</link>
       <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
@@ -134,11 +127,11 @@
       <pubDate>Tue, 22 Feb 2022 01:01:46 +0000</pubDate>
     </item>
     <item>
-      <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
-      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
-      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
-      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
+      <title>Why North Korea Steals Money | Analyst1</title>
+      <link>https://analyst1.com/why-north-korea-steals-money/</link>
+      <description>Discover how North Korea steals money through cyberattacks, cryptocurrency theft, and ransomware. Uncover their motives, spending habits, and global response.</description>
+      <guid isPermaLink="false">https://analyst1.com/why-north-korea-steals-money/</guid>
+      <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
     </item>
     <item>
       <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
@@ -146,13 +139,6 @@
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
       <guid isPermaLink="false">https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</guid>
       <pubDate>Thu, 12 Jan 2023 19:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audio Version – Ransomware Diaries: Volume 1 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-1/</link>
-      <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
-      <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
       <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
@@ -211,6 +197,13 @@
       <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
     </item>
     <item>
+      <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
+      <link>https://analyst1.com/cyber-threat-intelligence-best-practices/</link>
+      <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
+      <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
+      <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
       <link>https://analyst1.com/why-made-in-the-usa-matters-in-cybersecurity/</link>
       <description>Discover why choosing U.S.-made cybersecurity tools is vital for data security, quality control, and addressing geopolitical risks.</description>
@@ -253,6 +246,13 @@
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
     </item>
     <item>
+      <title>10 Reasons You Need a TIP Now | Analyst1</title>
+      <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
+      <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
+      <guid isPermaLink="false">https://analyst1.com/10-reasons-you-need-a-tip-now/</guid>
+      <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Is it time to replace your legacy TIP? | Analyst1</title>
       <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
       <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
@@ -288,11 +288,11 @@
       <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Unveils v2.10.0 Release, Delivering Expanded Integrations and Enhancements for Threat Intelligence Operations | Analyst1</title>
-      <link>https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</link>
-      <description>Are you attending Black Hat and looking to have a one-on-one conversation about all things cybersecurity? Don't miss this exclusive opportunity to connect with our experienced team and gain valuable insights into the latest threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-unveils-v2-10-0-release-delivering-expanded-integrations-and-enhancements-for-threat-intelligence-operations/</guid>
-      <pubDate>Fri, 10 Jan 2025 19:00:54 +0000</pubDate>
+      <title>Threat Intelligence Lifecycle | Analyst1</title>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-2/</link>
+      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
+      <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
