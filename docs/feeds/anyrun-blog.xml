@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 09:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:22:34 +0000</lastBuildDate>
     <item>
       <title>Banana RAT Evolves: Comparing Two Recent Branches Through ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/banana-rat-evolution-analysis/</link>

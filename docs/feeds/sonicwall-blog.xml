@@ -7,26 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 09:27:51 +0000</lastBuildDate>
-    <item>
-      <title>Michael Crean Discusses Iran Cyber Threats on Fox News</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</link>
-      <description>SonicWall SVP Michael Crean appeared on Fox News to discuss Iran-linked cyber activity and the Stryker attack. Watch the full interview.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-fox-news-to-discuss-iran-linked-cyber-threats</guid>
-    </item>
-    <item>
-      <title>Juniper JunOS OS Evolved Pre-authenticated Remote Code Execution (CVE-2026-21902)</title>
-      <link>https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</link>
-      <description>The SonicWall Capture Labs threat research team became aware of a severe unauthenticated Incorrect Permission Assignment for Critical Resource vulnerability in Juniper Networks Junos OS Evolved (PTX Series), assessed their impact, and developed mitigation measures. Juniper PTX Series routers are high-performance core and peering routers built for high throughput, low latency, and scale. They are commonly used by internet service providers, telecommunication services, and cloud network applications.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/juniper-junos-evolved-pre-auth-remote-code-execution-cve-2026-21902</guid>
-    </item>
-    <item>
-      <title>Three Decades for a 3-Line Fix: The Critical telnetd Bug Hiding in Plain Sight (CVE-2026-32746)</title>
-      <link>https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</link>
-      <description>The SonicWall Capture Labs threat research team became aware of an out-of-bounds write vulnerability in the Telnet server shipped with GNU Inetutils, assessed its impact and developed mitigation measures. Telnetd hardly needs an introduction. It is one of the oldest and most widely distributed network utilities on Linux systems.
-The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. This vulnerability, classified as a classic buffer overflow (CWE-120), allows an unauthenticated remote attacker to crash the server and potentially execute arbitrary commands. It carries a critical CVSS score of 9.8. Contrary to popular belief that Telnet is dead, it remains hidden within the vital infrastructure that runs the world. Hence, users are strongly encouraged to apply the vendor-provided patch or restrict/disable the telnet access without delay.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/three-decades-for-a-3-line-fix-the-critical-telnetd-bug-hiding-in-plain-sight-cve-2026-32746-</guid>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 14:20:41 +0000</lastBuildDate>
     <item>
       <title>GPT Academic Pickle Deserialization Remote Code Execution (CVE-2026-0763)</title>
       <link>https://www.sonicwall.com/blog/gpt-academic-pickle-deserialization-remote-code-execution</link>
@@ -190,6 +171,13 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>MSP Ticketing, Easier than Ever with SonicWall's PSA Hub</title>
+      <link>https://www.sonicwall.com/blog/alert-to-ticket-is-here-sonicwall-psa-integrations-hub-just-got-smarter</link>
+      <description>SonicWall's PSA Hub now supports Alert to Ticket for firewalls and Capture Client, saving time and manual steps.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/alert-to-ticket-is-here-sonicwall-psa-integrations-hub-just-got-smarter</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Scale Smarter and Deliver More Value with SonicWall MPSS</title>
       <link>https://www.sonicwall.com/blog/extend-your-bench-and-offer-proactive-value-with-sonicwall-s-managed-protection-service-suite</link>
       <description>MPSS helps MSPs monitor, manage, and optimize firewall security while freeing up resources to better serve their customers.</description>
@@ -209,6 +197,20 @@ The issue, tracked as CVE-2026-32746, affects all telnetd versions up to 2.7. Th
       <description>MPSS, SonicWall's managed firewall service, has had important upgrades to make onboarding easier than ever. Read about them in this blog!</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/a-faster-path-to-managed-firewall-protection-mpss-onboarding-is-now-in-sonicwall-unified-management</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build vs. Partner: Making the Right SOC Choice</title>
+      <link>https://www.sonicwall.com/blog/building-vs-partnering-with-a-soc-making-the-right-choice-for-your-business</link>
+      <description>Should you build your own SOC or work with a partner? See the pros, cons and real-world factors in choosing the right cybersecurity strategy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/building-vs-partnering-with-a-soc-making-the-right-choice-for-your-business</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geo-IP Filtering Now Available in Cloud Secure Edge</title>
+      <link>https://www.sonicwall.com/blog/geo-ip-filtering-in-cse-a-smarter-way-to-block-threats</link>
+      <description>Block risky traffic before it reaches your users with new Geo-IP Filtering in Cloud Secure Edge. Discover smarter protection for remote work.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/geo-ip-filtering-in-cse-a-smarter-way-to-block-threats</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
