@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 02:04:41 +0000</lastBuildDate>
-    <item>
-      <title>May 2026 Threat Trend Report on APT Attacks (South Korea)</title>
-      <link>https://asec.ahnlab.com/en/94271/</link>
-      <description>Overview AhnLab monitored APT (Advanced Persistent Threat) attacks—covert, sustained targeted attacks—using its own infrastructure. This report summarizes the types and statistics on domestic APT attacks identified during the month of May 2026 and discusses the characteristics of each type as well as AhnLab Response Overview. Trends of APT Attacks in South Korea Most of the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94271/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 09:29:03 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 4, June 2026</title>
       <link>https://asec.ahnlab.com/en/94247/</link>
@@ -86,20 +79,6 @@
       <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
-      <link>https://asec.ahnlab.com/en/94433/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>June 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94416/</link>
       <description>Note The June 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of the sources, it is sometimes difficult to fully verify the accuracy of certain information, and this is noted accordingly. Major Issue On Hasan’s BreachForums, there was a series of [&amp;#8230;]</description>
@@ -118,6 +97,20 @@
       <link>https://asec.ahnlab.com/en/94406/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Saudi Arabian Medical Records Breach, For Sale on Cybercrime Forum Irish ICT Company Data Leaked, For Sale on Cybercrime Forum LeakNet Breach Targets US Healthcare Insurer, Shared on Cybercrime Forums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94406/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
+      <link>https://asec.ahnlab.com/en/94433/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94417/</link>
+      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>This technical analysis report was prepared as part of the joint cybersecurity advisory titled “Advisory on Cyberattacks Targeting Korean Citizens and Businesses by State-Sponsored Hacking Groups” issued by the Republic of Korea’s National Intelligence Service (NIS), National Police Agency (NPA), Korea Internet &amp;#38; Security Agency (KISA), and Financial Security Institute (FSI). &amp;#160; OverView AhnLab SEcurity [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94696/</guid>
       <pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of a Phishing Email Attack Case by the Larva-24009 Threat Actor</title>
+      <link>https://asec.ahnlab.com/en/94786/</link>
+      <description>The Larva-24009 threat actor has been active since at least 2023, carrying out phishing email attacks targeting users both in Korea and globally to install malware. ASEC (AhnLab SEcurity intelligence Center (ASEC) has previously disclosed attack cases by this threat actor in 2024, and [1] [2] [3] Subsequently, Cyble also identified this same attack campaign [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94786/</guid>
+      <pubDate>Sun, 02 Aug 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
