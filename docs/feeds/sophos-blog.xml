@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 19:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:49:55 +0000</lastBuildDate>
     <item>
       <title>July Patch Tuesday only feels endless</title>
       <link>https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless</link>
@@ -23,6 +23,13 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Introducing Sophos AI Defense</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ai-defense</link>
+      <description>&lt;p&gt;See AI. Control AI. Secure AI.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-defense</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Sophos Has Become Its Own AI Test Lab</title>
       <link>https://www.sophos.com/en-us/blog/2607-secai</link>
       <description>&lt;p&gt;What that means for Customer Protections&lt;/p&gt;</description>
@@ -34,13 +41,6 @@
       <link>https://www.sophos.com/en-us/blog/sophos-ciso-advantage</link>
       <description>&lt;p&gt;An introduction to Sophos CISO Advantage, the new, differentiated way to align cybersecurity outcomes with business value — coming in October.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ciso-advantage</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Sophos AI Defense</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-ai-defense</link>
-      <description>&lt;p&gt;See AI. Control AI. Secure AI.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-defense</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
