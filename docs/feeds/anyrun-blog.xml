@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 19:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 01:51:22 +0000</lastBuildDate>
     <item>
       <title>NIST CSF 2.0 Practical Guide: Building a Modern Security Program for Risk Management in the US Companies</title>
       <link>https://any.run/cybersecurity-blog/nist-csf-guide-for-cisos/</link>
