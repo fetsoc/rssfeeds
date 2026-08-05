@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 08:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:48:03 +0000</lastBuildDate>
+    <item>
+      <title>n8n Expression Sandbox Bypass RCE - CVE-2026-1470</title>
+      <link>https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</link>
+      <description>Critical CVSS 9.9 RCE vulnerability in n8n AI workflow automation via expression sandbox bypass. SonicWall IPS signatures IPS:21799 and IPS:22086 available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/n8n-expression-sandbox-bypass-rce</guid>
+    </item>
     <item>
       <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
       <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
@@ -123,12 +129,6 @@
       <link>https://www.sonicwall.com/blog/why-does-sonicwall-gen-8-outperform-the-competition-</link>
       <description>SonicWall Generation 8 delivers hardware-accelerated performance, native Zero Trust, RTDMI threat detection, and up to 4x lower TCO than competing firewalls.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/why-does-sonicwall-gen-8-outperform-the-competition-</guid>
-    </item>
-    <item>
-      <title>Partner Power News August 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</link>
-      <description>Explore Partner Power News August 2026 for the latest SonicWall updates, including Endpoint Security, Secure Upgrade enhancements, Zero Trust promotions, Partner Power Hour, updated accreditations, and resources to help partners innovate, protect, and succeed.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</guid>
     </item>
     <item>
       <title>AI Meets Ransomware : Open‑Weight AI Models Fueling Ransomware Evolution</title>
