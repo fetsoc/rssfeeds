@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 08:21:48 +0000</lastBuildDate>
-    <item>
-      <title>Inheriting the Receipts: Securing the AI Your Company Already Adopted</title>
-      <link>https://trustedsec.com/blog/inheriting-the-receipts-securing-the-ai-your-company-already-adopted</link>
-      <description>&amp;lt;p&amp;gt;The work is not new. The speed is. In this blog, we&amp;#039;re outlining how existing security pillars apply to the AI your organization has already adopted; no new doctrine, new team, or new budget line required.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/inheriting-the-receipts-securing-the-ai-your-company-already-adopted</guid>
-      <pubDate>Thu, 02 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 13:47:33 +0000</lastBuildDate>
     <item>
       <title>Welcoming ObfusGit</title>
       <link>https://trustedsec.com/blog/welcoming-obfusgit</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Transport Layer Security: the compliance checkbox that&amp;#039;s harder to get right than it looks. In this blog, we cover the most common TLS misconfigurations and what organizations need to know to meet the standard.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/tls-encryption-and-compliance</guid>
       <pubDate>Tue, 04 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Art of Hunting Azure Cloud Secrets</title>
+      <link>https://trustedsec.com/blog/the-art-of-hunting-azure-cloud-secrets</link>
+      <description>&amp;lt;p&amp;gt;Finding secrets in the cloud is what can turn a normal cloud test into a privilege escalation game changer. The approach to finding secrets is what may separate your next cloud penetration test from a finding expedition…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/the-art-of-hunting-azure-cloud-secrets</guid>
+      <pubDate>Thu, 06 Aug 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
