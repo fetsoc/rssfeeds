@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 01:54:22 +0000</lastBuildDate>
-    <item>
-      <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
-      <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in Langflow AI via build_public_tmp endpoint passes user input to exec() without sandboxing. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</guid>
-    </item>
-    <item>
-      <title>Ghost CMS Content API Blind SQL Injection - CVE-2026-26980</title>
-      <link>https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</link>
-      <description>Critical CVSS 9.4 unauthenticated blind SQL injection in Ghost CMS Content API (v3.24.0-6.19.0) enables full database read. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/ghost-cms-content-api-blind-sql-injection</guid>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 08:20:07 +0000</lastBuildDate>
     <item>
       <title>Automated Cybersecurity Response: Why Detection Isn’t Enough</title>
       <link>https://www.sonicwall.com/blog/your-immune-system-doesn-t-wait-neither-should-your-security-</link>
@@ -125,6 +113,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/why-does-sonicwall-gen-8-outperform-the-competition-</guid>
     </item>
     <item>
+      <title>Partner Power News August 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</link>
+      <description>Explore Partner Power News August 2026 for the latest SonicWall updates, including Endpoint Security, Secure Upgrade enhancements, Zero Trust promotions, Partner Power Hour, updated accreditations, and resources to help partners innovate, protect, and succeed.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</guid>
+    </item>
+    <item>
       <title>AI Meets Ransomware : Open‑Weight AI Models Fueling Ransomware Evolution</title>
       <link>https://www.sonicwall.com/blog/ai-meets-ransomware-open-weight-ai-models-fueling-ransomware-evolution</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/ai-meets-ransomware-open-weight-ai-models-fueling-ransomware-evolution</guid>
@@ -140,6 +134,12 @@
       <link>https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</link>
       <description>The stealer targets 27 Chromium-based browser profiles, four Discord client variants, and Firefox cookies. Stolen data is packaged as a ZIP and POSTed over HTTPS to myth.cocukporno.lol — a C2 belonging to the MythStealer family, advertised on Telegram at t.me/mythstealerx. A separate POST delivers a victim summary including machine name, external IP, cookie count, and Microsoft account MFA status to the operator.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</guid>
+    </item>
+    <item>
+      <title>Common Criteria Certification Explained: The Global Security Standard for Firewalls | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
+      <description>Common Criteria (ISO/IEC 15408) is the global benchmark for independently verified IT security. See how it works, how it differs from FIPS 140-3, and what SonicWall's certification means for buyers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
     </item>
     <item>
       <title>Rethinking Security Architecture with Adversary Frameworks</title>

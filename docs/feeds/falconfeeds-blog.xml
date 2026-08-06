@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 01:55:04 +0000</lastBuildDate>
-    <item>
-      <title>Following the Money: The 82-Wallet Bitcoin Cluster Linked to Iran’s IRGC-CEC</title>
-      <link>https://falconfeeds.io/blogs/tracing-shahid-hemmat-82-wallet-bitcoin-cluster-irgc-cec</link>
-      <description>Explore FalconFeeds’ investigation into an 82-wallet Bitcoin cluster linked to IRGC-CEC’s Shahid Hemmat unit, tracing funding flows, laundering architecture, exchange exposure, and live sanctions implications.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/tracing-shahid-hemmat-82-wallet-bitcoin-cluster-irgc-cec</guid>
-      <pubDate>Fri, 13 Mar 2026 10:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Islamic Resistance-Axis and the Iran-Israel Shadow War</title>
-      <link>https://falconfeeds.io/blogs/cyber-islamic-resistance-axis-iran-israel-shadow-war</link>
-      <description>Explore Cyber Islamic Resistance-Axis, a pro-Iranian hacktivist group operating within the Axis of Resistance, and its role in the Iran–Israel shadow war through DDoS attacks, infrastructure targeting, and ideological cyber operations.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-islamic-resistance-axis-iran-israel-shadow-war</guid>
-      <pubDate>Mon, 16 Mar 2026 06:16:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran's FindFace Acquisition: The Architecture of a Digital Surveillance State</title>
-      <link>https://falconfeeds.io/blogs/irans-findface-acquisition-digital-surveillance-state</link>
-      <description>Iran’s acquisition of Russia’s FindFace facial recognition platform marks a major step toward a Chinese-style surveillance state, combining biometric identification, CCTV integration, and digital authoritarian control.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/irans-findface-acquisition-digital-surveillance-state</guid>
-      <pubDate>Tue, 17 Mar 2026 05:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>WIPED IN 79 COUNTRIES: The Handala Hack Attack on Stryker Corporation </title>
-      <link>https://falconfeeds.io/blogs/handala-hack-attack-on-stryker-corporation</link>
-      <description>A detailed threat intelligence blog on the Handala Hack attack against Stryker Corporation, examining the destructive cyberattack that wiped systems across 79 countries and its broader Iran-linked implications.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/handala-hack-attack-on-stryker-corporation</guid>
-      <pubDate>Tue, 17 Mar 2026 07:00:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 08:21:44 +0000</lastBuildDate>
     <item>
       <title>Cyber Refuge Zones: Where Threat Actors Operate Safely and Why It Matters</title>
       <link>https://falconfeeds.io/blogs/cyber-refuge-zones-digital-safe-havens-threat-actors</link>
@@ -357,6 +329,34 @@
       <description>Explore the cyber domino effect and how regional cyber incidents cascade through supply chains, cloud services, and critical infrastructure to create global cybersecurity risks.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-domino-effect-global-threat-cascade-analysis</guid>
       <pubDate>Fri, 17 Jul 2026 04:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence in the Era of Fragmented Cybercrime: The Transition from Monolithic RaaS Syndicates to a Post-Trust Ecosystem</title>
+      <link>https://falconfeeds.io/blogs/fragmented-cybercrime-post-trust-raas-ecosystem-analysis</link>
+      <description>Explore how ransomware has evolved from centralized RaaS syndicates to a fragmented cybercrime ecosystem driven by white-label cartels, Initial Access Brokers, and actor-centric operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fragmented-cybercrime-post-trust-raas-ecosystem-analysis</guid>
+      <pubDate>Thu, 06 Aug 2026 05:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Operational Mistakes: The Small Errors That Lead to Attribution</title>
+      <link>https://falconfeeds.io/blogs/threat-actor-opsec-mistakes-attribution-analysis</link>
+      <description>Explore how small OPSEC mistakes from reused identities to IP leaks have exposed major cyber threat actors, enabling the attribution of ransomware and state-sponsored operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actor-opsec-mistakes-attribution-analysis</guid>
+      <pubDate>Thu, 06 Aug 2026 05:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence as Geopolitical Intelligence: Early Warning Indicators of Macro-Stability and Conflict</title>
+      <link>https://falconfeeds.io/blogs/cyber-threat-intelligence-geopolitical-early-warning-indicators</link>
+      <description>Explore how Cyber Threat Intelligence is evolving into geopolitical intelligence, using cyber operations and threat actor activity as early warning indicators of conflict and global instability.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-threat-intelligence-geopolitical-early-warning-indicators</guid>
+      <pubDate>Thu, 06 Aug 2026 05:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Internet's Forgotten Infrastructure: Why Old Servers Still Matter</title>
+      <link>https://falconfeeds.io/blogs/legacy-server-infrastructure-cybersecurity-modernization-analysis</link>
+      <description>Explore why legacy servers still power critical infrastructure worldwide and how technical debt, modernization risks, and cybersecurity challenges shape today's digital backbone.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/legacy-server-infrastructure-cybersecurity-modernization-analysis</guid>
+      <pubDate>Thu, 06 Aug 2026 06:15:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

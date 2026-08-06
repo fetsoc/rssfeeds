@@ -7,20 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 01:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:21:50 +0000</lastBuildDate>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 4, June 2026</title>
-      <link>https://asec.ahnlab.com/en/94247/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, June 2026 &amp;#160; &amp;#160; &amp;#160; BreachForums, a cybercrime forum, showing signs of admitting to sales and impersonation of its staff Lapsus$ claims to have leaked data from a bank in Myanmar Qilin launches a ransomware attack targeting a law firm in South Korea</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94247/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, July 2026</title>
-      <link>https://asec.ahnlab.com/en/94315/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, July 2026. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Settra cliams data leak at Korean industrial firm&amp;#8217;s foreign affiliate The Gentlemen launches ransomware attacks against Spanish defense, aerospace, and IT service firms DragonForce claims data theft targeting a South Korean smart factory and digital twin company</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94315/</guid>
-      <pubDate>Wed, 01 Jul 2026 15:00:00 +0000</pubDate>
+      <title>Statistical Report on Malware Targeting Windows Web Servers in Q2 2026</title>
+      <link>https://asec.ahnlab.com/en/94398/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Statistical Report on Malware Targeting Windows Database Servers in Q2 2026</title>
@@ -41,13 +34,6 @@
       <link>https://asec.ahnlab.com/en/94320/</link>
       <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Statistical Report on Malware Targeting Windows Web Servers in Q2 2026</title>
-      <link>https://asec.ahnlab.com/en/94398/</link>
-      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -79,20 +65,6 @@
       <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
-      <link>https://asec.ahnlab.com/en/94433/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>June 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94416/</link>
       <description>Note The June 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of the sources, it is sometimes difficult to fully verify the accuracy of certain information, and this is noted accordingly. Major Issue On Hasan’s BreachForums, there was a series of [&amp;#8230;]</description>
@@ -111,6 +83,20 @@
       <link>https://asec.ahnlab.com/en/94406/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Saudi Arabian Medical Records Breach, For Sale on Cybercrime Forum Irish ICT Company Data Leaked, For Sale on Cybercrime Forum LeakNet Breach Targets US Healthcare Insurer, Shared on Cybercrime Forums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94406/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
+      <link>https://asec.ahnlab.com/en/94433/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94417/</link>
+      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +203,20 @@
       <description>The Larva-24009 threat actor has been active since at least 2023, carrying out phishing email attacks targeting users both in Korea and globally to install malware. ASEC (AhnLab SEcurity intelligence Center (ASEC) has previously disclosed attack cases by this threat actor in 2024, and [1] [2] [3] Subsequently, Cyble also identified this same attack campaign [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94786/</guid>
       <pubDate>Sun, 02 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases (Larva-26005)</title>
+      <link>https://asec.ahnlab.com/en/94847/</link>
+      <description>1. Overview AhnLab SEcurity intelligence Center (ASEC) recently confirmed that the Larva-26005 threat actor is distributing Xctdoor to users in Korea. Xctdoor was disclosed through the ASEC blog in 2024, and [1] In March 2026, Hauri disclosed an attack case in which the malware was disguised as an integrated security program. [2] &amp;#160; While analyzing [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94847/</guid>
+      <pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, August 2026</title>
+      <link>https://asec.ahnlab.com/en/94844/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, August 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; South Korean Automotive Parts Manufacturer’s Internal Server Access and Database Offered for Sale Data of a Turkish HR Consulting Company Offered for Sale Gunra Ransomware Attack on a South Korean Heavy Equipment Parts and Advanced Materials Manufacturer</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94844/</guid>
+      <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
