@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 13:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:21 +0000</lastBuildDate>
     <item>
       <title>Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment</title>
       <link>https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</link>
