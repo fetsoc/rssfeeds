@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 12:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:25:06 +0000</lastBuildDate>
     <item>
       <title>Iranian Threat Actor MERCURY Exploits Log4j 2 Vulnerabilities</title>
       <link>https://threatmon.io/iranian-threat-actor-mercury-exploits-log4j-2-vulnerabilities-in-unpatched-systems/</link>
@@ -212,27 +212,6 @@
       <pubDate>Thu, 18 Jul 2024 15:01:40 +0000</pubDate>
     </item>
     <item>
-      <title>CrowdStrike Update Halts the Systems: CyberSpace Ripple Effect</title>
-      <link>https://threatmon.io/crowdstrike-update-halts-the-systems-cyberspace-ripple-effect/</link>
-      <description>Discuss the unintended consequences of a CrowdStrike update that temporarily halted systems, analyzing its ripple effects across cyberspace.</description>
-      <guid isPermaLink="false">https://threatmon.io/crowdstrike-update-halts-the-systems-cyberspace-ripple-effect/</guid>
-      <pubDate>Fri, 19 Jul 2024 15:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kematian Stealer Technical Analysis - ThreatMon</title>
-      <link>https://threatmon.io/kematian-stealer-technical-analysis/</link>
-      <description>Blog In the ever-evolving world of cybersecurity, new threats emerge constantly, challenging our defenses and requiring continuous vigilance. One such threat that has recently come to light is the “Kematian Stealer,” an advanced information-stealing malware. ThreatMon’s Kematian Stealer Technical Analysis Report aims to provide an in-depth analysis of this potent malware, its features, and the […]</description>
-      <guid isPermaLink="false">https://threatmon.io/kematian-stealer-technical-analysis/</guid>
-      <pubDate>Wed, 24 Jul 2024 15:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>How GitHub Monitoring Enhances Security Postures - ThreatMon</title>
-      <link>https://threatmon.io/from-code-to-threat-intel-how-github-monitoring-enhances-security-postures/</link>
-      <description>Explore the transition from code monitoring to threat intelligence on GitHub, demonstrating how it bolsters organizational security postures.</description>
-      <guid isPermaLink="false">https://threatmon.io/from-code-to-threat-intel-how-github-monitoring-enhances-security-postures/</guid>
-      <pubDate>Thu, 25 Jul 2024 19:09:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Proactive Threat Detection for a Leading Manufacturer: How ThreatMon Prevented a Potential Breach - ThreatMon</title>
       <link>https://threatmon.io/proactive-threat-detection-for-a-leading-manufacturer-how-threatmon-prevented-a-potential-breach/</link>
       <description>Case Study Executive Summary A manufacturing client, previously using a competitor’s threat intelligence solution, discovered the value of ThreatMon when, during a Proof of Concept (POC), we identified a critical backdoor vulnerability on their website. This early detection allowed the company to prevent a security breach from a known entry point that had been exploited […]</description>
@@ -308,6 +287,27 @@
       <description>Google Chrome DLL Side Loading Method: By exploiting Chrome’s trusted status attackers can maintain persistent access to compromised systems</description>
       <guid isPermaLink="false">https://threatmon.io/google-chrome-dllside-loading-method/</guid>
       <pubDate>Thu, 13 Mar 2025 12:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indonesia Country Report, 2025 March | ThreatMon Reports</title>
+      <link>https://threatmon.io/indonesia-country-report-2025-march/</link>
+      <description>Indonesia Country Report, 2025 March: ThreatMon supports local businesses and government institutions with tailored cybersecurity solutions.</description>
+      <guid isPermaLink="false">https://threatmon.io/indonesia-country-report-2025-march/</guid>
+      <pubDate>Wed, 09 Apr 2025 11:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unmasking Spyware Based on SpyMax Targeting Chinese Citizens</title>
+      <link>https://threatmon.io/unmasking-spyware-based-on-spymax-targeting-chinese-citizens/</link>
+      <description>Spyware Based on SpyMax: The malware impersonates the Supreme People’s Procuratorate of the People’s Republic of China</description>
+      <guid isPermaLink="false">https://threatmon.io/unmasking-spyware-based-on-spymax-targeting-chinese-citizens/</guid>
+      <pubDate>Sat, 12 Apr 2025 11:36:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Connectwise Malware Campaign / Technical Analysis Report</title>
+      <link>https://threatmon.io/connectwise-malware-campaign-technical-malware-analysis-report/</link>
+      <description>This report provides a comprehensive analysis of the recent ConnectWise malware campaign, detailing the full attack chain.</description>
+      <guid isPermaLink="false">https://threatmon.io/connectwise-malware-campaign-technical-malware-analysis-report/</guid>
+      <pubDate>Thu, 24 Apr 2025 05:44:19 +0000</pubDate>
     </item>
     <item>
       <title>Global Cybersecurıty Threats to the Energy Sector</title>
