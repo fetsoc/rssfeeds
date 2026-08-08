@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 06:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:30:55 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -41,6 +41,13 @@
       <description>Learn about the intersection of Covid-19, cyberthreats, and the 2020 US election. Discover the risks, challenges, and ways to secure the voting process.</description>
       <guid isPermaLink="false">https://analyst1.com/the-coronavirus-cyberthreats-and-the-2020-u-s-election/</guid>
       <pubDate>Wed, 30 Sep 2020 09:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disinformation Campaigns: The New Cyber Attack and Weapon of Mass Distraction | Analyst1</title>
+      <link>https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</link>
+      <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
+      <guid isPermaLink="false">https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:47 +0000</pubDate>
     </item>
     <item>
       <title>Intelligent Cyber Threat Response | Analyst1</title>
@@ -120,6 +127,13 @@
       <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
     </item>
     <item>
+      <title>Dark Web - Justice League | Analyst1</title>
+      <link>https://analyst1.com/dark-web-justice-league/</link>
+      <description>Uncover the hidden world of Dark Web justice as cybercriminals settle disputes in underground courts. Explore verdicts, high-profile cases, and more.</description>
+      <guid isPermaLink="false">https://analyst1.com/dark-web-justice-league/</guid>
+      <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
+    </item>
+    <item>
       <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
       <link>https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</link>
       <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
@@ -153,13 +167,6 @@
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
       <guid isPermaLink="false">https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</guid>
       <pubDate>Thu, 12 Jan 2023 19:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audio Version – Ransomware Diaries: Volume 1 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-1/</link>
-      <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
-      <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
       <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
@@ -197,13 +204,6 @@
       <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>What Is Lateral Movement in Cybersecurity?</title>
-      <link>https://analyst1.com/what-is-lateral-movement/</link>
-      <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
-      <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
       <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
@@ -216,6 +216,13 @@
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
       <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
+      <link>https://analyst1.com/cyber-threat-intelligence-best-practices/</link>
+      <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
+      <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
+      <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
     </item>
     <item>
       <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
@@ -272,13 +279,6 @@
       <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
       <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
       <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
-      <link>https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</link>
-      <description>Understanding why threat intelligence should play into corporate risk management is a key that every organization needs to have.</description>
-      <guid isPermaLink="false">https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</guid>
-      <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
