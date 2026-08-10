@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 07:16:36 +0000</lastBuildDate>
-    <item>
-      <title>Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment</title>
-      <link>https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</link>
-      <description>&lt;p&gt;Financially motivated cyberattack reveals agentic AI workflows to accelerate victim reconnaissance, attack tool development, command structuring and environment-specific adaptation. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/"&gt;Sygnia Investigation Finds AI Accelerated Attack Enabled Lone Threat Actor to Rapidly Compromise Enterprise Cloud Environment&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-investigation-into-ai-accelerated-attack/</guid>
-      <pubDate>Wed, 08 Jul 2026 07:52:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Incident Response in 2026: What Has Changed and What CISOs Are Still Getting Wrong</title>
-      <link>https://www.sygnia.co/blog/ransomware-incident-response/</link>
-      <description>&lt;p&gt;Learn what has changed in ransomware incident response in 2026, and what CISOs are still getting wrong&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/ransomware-incident-response/"&gt;Ransomware Incident Response in 2026: What Has Changed and What CISOs Are Still Getting Wrong&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/ransomware-incident-response/</guid>
-      <pubDate>Sun, 12 Jul 2026 09:41:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 12:53:57 +0000</lastBuildDate>
     <item>
       <title>When Technical Controls Work, Attackers Change the Rules: How a Failed Intrusion Became a Data Exposure Incident</title>
       <link>https://www.sygnia.co/blog/when-technical-controls-work-attackers-change-the-rules/</link>
@@ -79,6 +63,22 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/"&gt;Shai-Hulud Returns: When Software Trust Becomes the Attack Surface&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/</guid>
       <pubDate>Wed, 05 Aug 2026 19:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Crypto Threat Environment 2026</title>
+      <link>https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/</link>
+      <description>&lt;p&gt;Learn how crypto breaches reach transaction authority, why losses become irreversible, and the four security domains that help protect digital assets.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/"&gt;The Crypto Threat Environment 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Brings Expert-Led Managed Detection and Response to AWS Marketplace</title>
+      <link>https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/</link>
+      <description>&lt;p&gt;Company joins the AWS ISV Accelerate Program, making it easier for AWS customers to access Sygnia MDR with bundled incident response support&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/"&gt;Sygnia Brings Expert-Led Managed Detection and Response to AWS Marketplace&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/</guid>
+      <pubDate>Mon, 10 Aug 2026 08:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 12:34:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:52:48 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -57,11 +57,11 @@
       <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>What is the Next Cybersecurity Fable? - Analyst1</title>
-      <link>https://analyst1.com/what-is-the-next-cybersecurity-fable/</link>
-      <description>Discover the next cybersecurity fable and learn how to fight back against cyber threats. Explore the world of hackers and the battle for online security.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-the-next-cybersecurity-fable/</guid>
-      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
+      <title>Analyst1: DHS Automated Indicator Sharing (AIS) | Analyst1</title>
+      <link>https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</link>
+      <description>Unlock threat insights at machine speed with Analyst1 and DHS Automated Indicator Sharing, enhancing your defensive actions. Maximize security investments.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:59 +0000</pubDate>
     </item>
     <item>
       <title>Industry Luminary joins Analyst1 as Chief Security Strategist | Analyst1</title>
@@ -78,6 +78,13 @@
       <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
+      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
+      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
+      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
+      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
       <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
       <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
@@ -90,13 +97,6 @@
       <description>New Ransomware: RyukRans - a destructive variant that overwrites victim data. Explore the implications of this emerging cyber threat on Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/new-ransomware-turns-to-disruption-and-sabotage/</guid>
       <pubDate>Tue, 01 Jun 2021 01:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Be the 1 to Put Skin in the Game | Analyst1</title>
-      <link>https://analyst1.com/be-the-1-to-put-skin-in-the-game/</link>
-      <description>Discover the rewards and challenges of working at a small, agile company. Experience the excitement of taking initiative and swarming problems.</description>
-      <guid isPermaLink="false">https://analyst1.com/be-the-1-to-put-skin-in-the-game/</guid>
-      <pubDate>Fri, 18 Jun 2021 01:01:49 +0000</pubDate>
     </item>
     <item>
       <title>Be the 1 to Put Skin in the Game - 2 | Analyst1</title>

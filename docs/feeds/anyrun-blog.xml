@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 07:16:30 +0000</lastBuildDate>
-    <item>
-      <title>US Threat Landscape Alert: 30 Active Malware Families Ranked by Real Sandbox Data</title>
-      <link>https://any.run/cybersecurity-blog/usa-top-30-threats-2026/</link>
-      <description>&lt;p&gt;State of Cybersecurity in the US&amp;#160; American organizations are processing more malware submissions than ever, and the mix keeps shifting under their feet. Phishing kits that hijack multi-factor authentication now sit alongside decades-old ransomware, commodity RATs sold for the price of a streaming subscription, and loaders built to slip payloads past EDR undetected. For CISOs [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/usa-top-30-threats-2026/"&gt;US Threat Landscape Alert: 30 Active Malware Families Ranked by Real Sandbox Data&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/usa-top-30-threats-2026/</guid>
-      <pubDate>Thu, 09 Jul 2026 11:19:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 12:53:49 +0000</lastBuildDate>
     <item>
       <title>​​Kratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk​</title>
       <link>https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/chongluadao-success-story/"&gt;Safeguarding 200M Users: How ChongLuaDao Scales Threat Validation with ANY.RUN&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/chongluadao-success-story/</guid>
       <pubDate>Wed, 05 Aug 2026 08:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smile, You’re on Camera. Part 2: Hiring Lazarus APT’s IT Workers in a Fake DeFi Startup</title>
+      <link>https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</link>
+      <description>&lt;p&gt;Editor’s note: This work is a collaboration between Mauro Eldritch from BCA LTD, a company dedicated to threat intelligence and hunting, Heiner García from NorthScan, a threat intelligence initiative uncovering North Korean IT worker infiltration, and ANY.RUN, the leading company in malware analysis and threat intelligence. The article was written by Mauro and Heiner. Key [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/"&gt;Smile, You&amp;#8217;re on Camera. Part 2: Hiring Lazarus APT&amp;#8217;s IT Workers in a Fake DeFi Startup&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</guid>
+      <pubDate>Mon, 10 Aug 2026 12:41:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
