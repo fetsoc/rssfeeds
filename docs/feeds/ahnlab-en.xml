@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 01:07:53 +0000</lastBuildDate>
-    <item>
-      <title>Statistical Report on Malware Targeting Windows Web Servers in Q2 2026</title>
-      <link>https://asec.ahnlab.com/en/94398/</link>
-      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 07:16:32 +0000</lastBuildDate>
     <item>
       <title>Statistical Report on Malware Targeting Windows Database Servers in Q2 2026</title>
       <link>https://asec.ahnlab.com/en/94397/</link>
@@ -34,6 +27,13 @@
       <link>https://asec.ahnlab.com/en/94320/</link>
       <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Windows Web Servers in Q2 2026</title>
+      <link>https://asec.ahnlab.com/en/94398/</link>
+      <description>Content In the second quarter of 2026, the AhnLab SEcurity intelligence Center (ASEC) compiled an analysis of the current attack status for poorly managed Windows web servers and classified the malware used in these attacks. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94398/</guid>
       <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
