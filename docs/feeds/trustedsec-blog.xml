@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 12:47:38 +0000</lastBuildDate>
-    <item>
-      <title>Welcoming ObfusGit</title>
-      <link>https://trustedsec.com/blog/welcoming-obfusgit</link>
-      <description>&amp;lt;p&amp;gt;What if your public repo could stay out of AI training data without changing how you commit? In this blog, we introduce ObfusGit, a Python tool that obfuscates your public copy while your local repo stays untouched.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/welcoming-obfusgit</guid>
-      <pubDate>Tue, 07 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 18:52:56 +0000</lastBuildDate>
     <item>
       <title>Vulnify: Giving Your Agents a CVE Brain</title>
       <link>https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;The difference between a standard cloud test and a subscription takeover? Finding the right secrets. In this blog, we introduce two open-source tools for hunting Azure secrets that probably shouldn&amp;#039;t be there.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/the-art-of-hunting-azure-cloud-secrets</guid>
       <pubDate>Thu, 06 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Vault With No Treasure - CMMC Level 2 Compliance for Subcontractors With No CUI</title>
+      <link>https://trustedsec.com/blog/a-vault-with-no-treasure-cmmc-level-2-compliance-for-subcontractors-with-no-cui</link>
+      <description>&amp;lt;p&amp;gt;This blog post should not exist, but it does due to an unfortunate reality: Many large prime defense contractors are attempting to impose CMMC Level 2 audit requirements on subcontractors that do not handle Controlled…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/a-vault-with-no-treasure-cmmc-level-2-compliance-for-subcontractors-with-no-cui</guid>
+      <pubDate>Tue, 11 Aug 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
