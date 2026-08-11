@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 01:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:52:08 +0000</lastBuildDate>
     <item>
       <title>Hunting C2 Panels: Beginner’s Guide for Identifying Command and Control Dashboards</title>
       <link>https://hunt.io/blog/hunting-c2-panels-beginners-guide</link>
