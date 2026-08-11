@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 06:54:30 +0000</lastBuildDate>
-    <item>
-      <title>​​Kratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk​</title>
-      <link>https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/</link>
-      <description>&lt;p&gt;Kratos is a mature Phishing-as-a-Service operation targeting Microsoft 365 users across the US, Europe, and other regions. By combining trusted platforms, anti-bot checks, and convincing login pages, ithelps attackers steal credentials while delaying detection and response. For security leaders, that increases the risk of account takeover, fraud, data exposure, and higher incident response costs. ANY.RUN [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/"&gt;​​Kratos PhaaS Targets US and EU: How to Reduce Microsoft 365 Account Takeover Risk​&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/kratos-phaas-account-takeover/</guid>
-      <pubDate>Tue, 14 Jul 2026 10:06:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 12:47:37 +0000</lastBuildDate>
     <item>
       <title>Hidden Infrastructure Exposed: ANY.RUN Reveals Hijacked Gov Websites Delivering Malware</title>
       <link>https://any.run/cybersecurity-blog/phantomenigma-research/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/"&gt;Smile, You&amp;#8217;re on Camera. Part 2: Hiring Lazarus APT&amp;#8217;s IT Workers in a Fake DeFi Startup&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</guid>
       <pubDate>Mon, 10 Aug 2026 12:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supply Chain Security: How ANY.RUN Helps US and EU Enterprises Prevent Incidents</title>
+      <link>https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/</link>
+      <description>&lt;p&gt;Supply chain vulnerabilities represent a growing attack surface for US and EU organizations. With advanced threat tactics on the rise, reducing Mean Time to Detect (MTTD) and Respond (MTTR) is essential. ANY.RUN integrates directly into the SOC workflows as an investigative layer, providing fast malware analysis and threat intelligence to help security teams boost their [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/"&gt;Supply Chain Security: How ANY.RUN Helps US and EU Enterprises Prevent Incidents&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/</guid>
+      <pubDate>Tue, 11 Aug 2026 07:39:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

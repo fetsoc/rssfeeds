@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 06:54:36 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Sophos AI Defense</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-ai-defense</link>
-      <description>&lt;p&gt;See AI. Control AI. Secure AI.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-defense</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 12:47:42 +0000</lastBuildDate>
     <item>
       <title>Turn cybersecurity into a high-value business function with Sophos CISO Advantage</title>
       <link>https://www.sophos.com/en-us/blog/sophos-ciso-advantage</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;New Generative AI category is now available in DNS filtering policy and reporting.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-dns-genai</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Working with OpenAI on security from AI, with AI, and for AI</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-working-with-openai</link>
+      <description>&lt;p&gt;Sophos to bring OpenAI’s frontier models to the channel and managed service providers in newly announced partnership&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-working-with-openai</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

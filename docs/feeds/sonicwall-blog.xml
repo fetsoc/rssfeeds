@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 06:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:45:15 +0000</lastBuildDate>
     <item>
       <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
       <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
@@ -160,6 +160,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
     </item>
     <item>
+      <title>Ending the Endpoint Tradeoff with SonicWall Endpoint Security</title>
+      <link>https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</link>
+      <description>Small- and medium-sized businesses need more advanced security than ever, and SonicWall Endpoint Security makes that happen.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</guid>
+    </item>
+    <item>
       <title>SonicWall Sweeps the 2026 CRN ARC Awards in Enterprise Network Security</title>
       <link>https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</link>
       <description>SonicWall has been named the overall winner and swept all four subcategories in the CRN 2026 Annual Report Card Awards for Network Security – Enterprise, as voted by solution providers.</description>
@@ -192,13 +198,6 @@
       <description>MPSS, SonicWall's managed firewall service, has had important upgrades to make onboarding easier than ever. Read about them in this blog!</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/a-faster-path-to-managed-firewall-protection-mpss-onboarding-is-now-in-sonicwall-unified-management</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build vs. Partner: Making the Right SOC Choice</title>
-      <link>https://www.sonicwall.com/blog/building-vs-partnering-with-a-soc-making-the-right-choice-for-your-business</link>
-      <description>Should you build your own SOC or work with a partner? See the pros, cons and real-world factors in choosing the right cybersecurity strategy.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/building-vs-partnering-with-a-soc-making-the-right-choice-for-your-business</guid>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Geo-IP Filtering Now Available in Cloud Secure Edge</title>
