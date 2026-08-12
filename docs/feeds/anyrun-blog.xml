@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 18:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 01:15:37 +0000</lastBuildDate>
     <item>
       <title>Hidden Infrastructure Exposed: ANY.RUN Reveals Hijacked Gov Websites Delivering Malware</title>
       <link>https://any.run/cybersecurity-blog/phantomenigma-research/</link>
