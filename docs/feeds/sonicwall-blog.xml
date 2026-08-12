@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 07:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:49:57 +0000</lastBuildDate>
     <item>
       <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
       <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
@@ -172,6 +172,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</guid>
     </item>
     <item>
+      <title>Objection Overruled: Professional Services Is Cyber's Most Targeted Sector</title>
+      <link>https://www.sonicwall.com/blog/objection-overruled-professional-services-has-a-bigger-target-on-its-back-than-anyone-realizes</link>
+      <description>3 billion IPS events, 332 million VoIP exploit attempts, and ransomware groups specifically targeting MSPs for their client access. Here's what the data says about professional services in 2026.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/objection-overruled-professional-services-has-a-bigger-target-on-its-back-than-anyone-realizes</guid>
+    </item>
+    <item>
       <title>Microsoft Security Bulletin Coverage for August 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</guid>
@@ -203,13 +209,6 @@
       <description>MPSS, SonicWall's managed firewall service, has had important upgrades to make onboarding easier than ever. Read about them in this blog!</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/a-faster-path-to-managed-firewall-protection-mpss-onboarding-is-now-in-sonicwall-unified-management</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geo-IP Filtering Now Available in Cloud Secure Edge</title>
-      <link>https://www.sonicwall.com/blog/geo-ip-filtering-in-cse-a-smarter-way-to-block-threats</link>
-      <description>Block risky traffic before it reaches your users with new Geo-IP Filtering in Cloud Secure Edge. Discover smarter protection for remote work.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/geo-ip-filtering-in-cse-a-smarter-way-to-block-threats</guid>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Managed Firewalls: The Upgrade You’re Overdue For</title>

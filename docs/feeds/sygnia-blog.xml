@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 07:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:51:29 +0000</lastBuildDate>
     <item>
       <title>When Technical Controls Work, Attackers Change the Rules: How a Failed Intrusion Became a Data Exposure Incident</title>
       <link>https://www.sygnia.co/blog/when-technical-controls-work-attackers-change-the-rules/</link>
@@ -17,10 +17,10 @@
       <pubDate>Sun, 12 Jul 2026 11:33:38 +0000</pubDate>
     </item>
     <item>
-      <title>When Ransomware Hides in OneDrive: Inside SafePay’s Exfiltration Play</title>
+      <title>Exfiltration in Plain Sight: SafePay’s OneDrive Play</title>
       <link>https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/</link>
       <description>&lt;p&gt;Join us for an inside look at the attack path, the forensic evidence that exposed the OneDrive exfiltration technique, and the practical detection opportunities defenders can use to uncover similar activity before it becomes a full-scale extortion event.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/"&gt;When Ransomware Hides in OneDrive: Inside SafePay’s Exfiltration Play&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/"&gt;Exfiltration in Plain Sight: SafePay’s OneDrive Play&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/</guid>
       <pubDate>Sun, 26 Jul 2026 12:14:35 +0000</pubDate>
     </item>
@@ -78,7 +78,7 @@
       <description>&lt;p&gt;Company joins the AWS ISV Accelerate Program, making it easier for AWS customers to access Sygnia MDR with bundled incident response support&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/"&gt;Sygnia Brings Expert-Led Managed Detection and Response to AWS Marketplace&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/</guid>
-      <pubDate>Mon, 10 Aug 2026 08:40:00 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 08:44:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
