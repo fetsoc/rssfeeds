@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 01:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:12:23 +0000</lastBuildDate>
     <item>
       <title>Langflow Public Flow Build Endpoint RCE - CVE-2026-33017</title>
       <link>https://www.sonicwall.com/blog/langflow-ai-code-injection-to-rce-flaw</link>
@@ -172,6 +172,11 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</guid>
     </item>
     <item>
+      <title>Microsoft Security Bulletin Coverage for August 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</guid>
+    </item>
+    <item>
       <title>Rethinking Security Architecture with Adversary Frameworks</title>
       <link>https://www.sonicwall.com/blog/rethinking-security-architecture</link>
       <description>Explore how combining the Cybersecurity Kill Chain and MITRE ATT&amp;CK helps build resilient security architecture with SonicWall MXDR.</description>
@@ -205,13 +210,6 @@
       <description>Block risky traffic before it reaches your users with new Geo-IP Filtering in Cloud Secure Edge. Discover smarter protection for remote work.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/geo-ip-filtering-in-cse-a-smarter-way-to-block-threats</guid>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</link>
-      <description>Surf the cybersecurity wave with killer updates to supercharge your MSP business! From next-gen firewalls to hot promos and can’t-miss events, here’s your fast-track guide to what’s new and ready to boost your growth this month!</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</guid>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Managed Firewalls: The Upgrade You’re Overdue For</title>
