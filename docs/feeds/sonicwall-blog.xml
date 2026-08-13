@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 07:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:52:19 +0000</lastBuildDate>
     <item>
       <title>No File, No Trace: How a Fake Invoice Hides a Formbook Loader in Plain Sight</title>
       <link>https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</link>
