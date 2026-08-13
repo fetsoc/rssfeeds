@@ -7,31 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 12:52:19 +0000</lastBuildDate>
-    <item>
-      <title>No File, No Trace: How a Fake Invoice Hides a Formbook Loader in Plain Sight</title>
-      <link>https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</link>
-      <description>A layered approach of social engineering filename, steganographic payload, fileless reflective loading, obfuscated invocation, and a functional decoy application reflects a level of engineering investment well above what is typically associated with commodity malware distribution. The individual techniques are not new, but their combination in a single loader targeting everyday business document workflows makes this sample a representative example of how accessible and polished the current Formbook ecosystem has become.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</guid>
-    </item>
-    <item>
-      <title>MythStealer: Browser and Discord Credential Theft with HTTPS Exfiltration to Operator-Notified C2</title>
-      <link>https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</link>
-      <description>The stealer targets 27 Chromium-based browser profiles, four Discord client variants, and Firefox cookies. Stolen data is packaged as a ZIP and POSTed over HTTPS to myth.cocukporno.lol — a C2 belonging to the MythStealer family, advertised on Telegram at t.me/mythstealerx. A separate POST delivers a victim summary including machine name, external IP, cookie count, and Microsoft account MFA status to the operator.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</guid>
-    </item>
-    <item>
-      <title>Langflow AI Untrusted Control Sphere RCE - CVE-2026-0770</title>
-      <link>https://www.sonicwall.com/blog/langflow-ai-untrusted-control-sphere-remote-code-execution</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in Langflow AI through 1.7.3 via the /api/v1/validate/code endpoint. SonicWall IPS signature 22312 available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/langflow-ai-untrusted-control-sphere-remote-code-execution</guid>
-    </item>
-    <item>
-      <title>Partner Power News August 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</link>
-      <description>Explore Partner Power News August 2026 for the latest SonicWall updates, including Endpoint Security, Secure Upgrade enhancements, Zero Trust promotions, Partner Power Hour, updated accreditations, and resources to help partners innovate, protect, and succeed.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</guid>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 18:54:41 +0000</lastBuildDate>
     <item>
       <title>Common Criteria Certification Explained: The Global Security Standard for Firewalls | SonicWall</title>
       <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
@@ -49,6 +25,12 @@
       <link>https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</link>
       <description>SonicWall has been named the overall winner and swept all four subcategories in the CRN 2026 Annual Report Card Awards for Network Security – Enterprise, as voted by solution providers.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</guid>
+    </item>
+    <item>
+      <title>FIPS 140-3 Integration in Gen 8 Firmware | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/fips-140-3-integration-the-gen-8-firmware-framework</link>
+      <description>Discover how Gen 8 firmware incorporates FIPS 140-3 security standards to help organizations strengthen encryption, improve compliance, and protect critical data.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/fips-140-3-integration-the-gen-8-firmware-framework</guid>
     </item>
     <item>
       <title>Objection Overruled: Professional Services Is Cyber's Most Targeted Sector</title>
@@ -71,6 +53,24 @@
       <title>A Deep-Dive into the Multi-Stage .NET Loader Chain Delivering LokiBot</title>
       <link>https://www.sonicwall.com/blog/a-deep-dive-into-the-multi-stage-net-loader-chain-delivering-lokibot</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/a-deep-dive-into-the-multi-stage-net-loader-chain-delivering-lokibot</guid>
+    </item>
+    <item>
+      <title>SEO Title	What Are Security Certifications? FIPS 140-3, Common Criteria, and CSfC Explained | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</link>
+      <description>Learn what security certifications such as FIPS 140-3, Common Criteria, and CSfC validate, why they matter for procurement and compliance, and how to verify one before you buy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</guid>
+    </item>
+    <item>
+      <title>MythStealer: Browser and Discord Credential Theft with HTTPS Exfiltration to Operator-Notified C2</title>
+      <link>https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</link>
+      <description>The stealer targets 27 Chromium-based browser profiles, four Discord client variants, and Firefox cookies. Stolen data is packaged as a ZIP and POSTed over HTTPS to myth.cocukporno.lol — a C2 belonging to the MythStealer family, advertised on Telegram at t.me/mythstealerx. A separate POST delivers a victim summary including machine name, external IP, cookie count, and Microsoft account MFA status to the operator.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</guid>
+    </item>
+    <item>
+      <title>No File, No Trace: How a Fake Invoice Hides a Formbook Loader in Plain Sight</title>
+      <link>https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</link>
+      <description>A layered approach of social engineering filename, steganographic payload, fileless reflective loading, obfuscated invocation, and a functional decoy application reflects a level of engineering investment well above what is typically associated with commodity malware distribution. The individual techniques are not new, but their combination in a single loader targeting everyday business document workflows makes this sample a representative example of how accessible and polished the current Formbook ecosystem has become.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</guid>
     </item>
     <item>
       <title>MSP Ticketing, Easier than Ever with SonicWall's PSA Hub</title>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 12:54:28 +0000</lastBuildDate>
-    <item>
-      <title>Vulnify: Giving Your Agents a CVE Brain</title>
-      <link>https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain</link>
-      <description>&amp;lt;p&amp;gt;The CVE brain your AI agent has been missing. In this blog, we introduce Vulnify, an open-source tool that stitches eight authoritative vulnerability databases into a single offline source of truth for CVE intelligence.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain</guid>
-      <pubDate>Thu, 09 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 18:55:49 +0000</lastBuildDate>
     <item>
       <title>Pandora’s Container Part 1: Unpacking Azure Container Security</title>
       <link>https://trustedsec.com/blog/pandoras-container-part-1-unpacking-azure-container-security</link>
@@ -74,9 +67,16 @@
     <item>
       <title>A Vault With No Treasure - CMMC Level 2 Compliance for Subcontractors With No CUI</title>
       <link>https://trustedsec.com/blog/a-vault-with-no-treasure-cmmc-level-2-compliance-for-subcontractors-with-no-cui</link>
-      <description>&amp;lt;p&amp;gt;This blog post should not exist, but it does due to an unfortunate reality: Many large prime defense contractors are attempting to impose CMMC Level 2 audit requirements on subcontractors that do not handle Controlled…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;This blog post should not exist, but it does. In this blog, we detail the improper CMMC Level 2 flow-down problem and the most cost-effective path to compliance if pushing back isn&amp;#039;t an option.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/a-vault-with-no-treasure-cmmc-level-2-compliance-for-subcontractors-with-no-cui</guid>
       <pubDate>Tue, 11 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Offense is Not Noclip Mode</title>
+      <link>https://trustedsec.com/blog/ai-offense-is-not-noclip-mode</link>
+      <description>&amp;lt;p&amp;gt;AI doesn&amp;#039;t let attackers walk through walls, but it makes finding the cracks more efficient. In this blog, we cut through the hype and explain what AI-driven offense really looks like and why hard controls still work.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/ai-offense-is-not-noclip-mode</guid>
+      <pubDate>Thu, 13 Aug 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
