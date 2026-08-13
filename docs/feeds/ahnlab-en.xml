@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 01:17:16 +0000</lastBuildDate>
-    <item>
-      <title>Attack Technique Trend Report for Q2 2026</title>
-      <link>https://asec.ahnlab.com/en/94320/</link>
-      <description>Overview. The second quarter of 2026 was marked by a notable increase in actual exploits that targeted public assets, identities, and AI stacks. The number of CISA KEV listings reached 75, an increase of approximately 27% compared to the same period in 2025. Primary targets included web and server applications, endpoints, network perimeter devices, and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94320/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 07:18:38 +0000</lastBuildDate>
     <item>
       <title>Vidar Infostealer Being Spread through Phishing Emails</title>
       <link>https://asec.ahnlab.com/en/94363/</link>
@@ -217,6 +210,13 @@
       <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 2, August 2026</title>
+      <link>https://asec.ahnlab.com/en/94968/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, August 2026. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; DragonForce Ransomware Attack on a South Korean Online Education Company Qilin Ransomware Attack on a South Korean Motor and Robotics Manufacturer ShinyHunters Claims Data Leak from a U.S. Digital Healthcare Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94968/</guid>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
