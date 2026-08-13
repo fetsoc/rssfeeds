@@ -7,7 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/splunk-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 18:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 01:17:05 +0000</lastBuildDate>
+    <item>
+      <title>ATT&amp;CK-ing the Adversary: Episode 2 - Hunting with ATT&amp;CK in Splunk | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/att-ck-ing-the-adversary-episode-2-hunting-with-att-ck-in-splunk.html</link>
+      <description>Using MITRE ATT&amp;CK to focus your threat hunting in Splunk</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/att-ck-ing-the-adversary-episode-2-hunting-with-att-ck-in-splunk.html</guid>
+    </item>
+    <item>
+      <title>A New Threat Emerges: APAC BOTS Day 2026 Registration Is Open | Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/security/apac-bots-day-2026.html</link>
+      <description>It's time to block out your calendar, update your out-of-office notification and tell your boss you're on an all-day training session.</description>
+      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/apac-bots-day-2026.html</guid>
+    </item>
     <item>
       <title>Introducing Attack Range v3.0 | Splunk</title>
       <link>https://www.splunk.com/en_us/blog/security/attack-range-v3-0.html</link>
@@ -61,12 +73,6 @@
       <link>https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-1-contextualizing-systems.html</link>
       <description>This is part one in a three part series on the Asset &amp; Identity framework in Splunk Enterprise Security, focusing on gaining context on systems being monitored.</description>
       <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/asset-identity-for-splunk-enterprise-security-part-1-contextualizing-systems.html</guid>
-    </item>
-    <item>
-      <title>API 2.0: TruSTAR Operationalizes Data Orchestration and Normalization for a New Era in Intelligence Management | Splunk</title>
-      <link>https://www.splunk.com/en_us/blog/security/api-2-0-trustar-operationalizes-data-orchestration-and-normalization-for-a-new-era-in-intelligence-management.html</link>
-      <description>TruSTAR announces new features making intelligence more actionable by simplifying intelligence ingestion, automating data flows and better informing SIEM, SOAR and Vulnerability Management programs.</description>
-      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/api-2-0-trustar-operationalizes-data-orchestration-and-normalization-for-a-new-era-in-intelligence-management.html</guid>
     </item>
     <item>
       <title>“Are We Secure?” Lessons Learned From The CISO Of A Leading Saudi Bank | Splunk</title>
@@ -241,12 +247,6 @@
       <link>https://www.splunk.com/en_us/blog/security/a-threat-as-old-as-the-internet-why-we-still-care-about-malware-and-why-you-should-too.html</link>
       <description>Splunk's CISO Yassir Abousselham dives into why — as IT and security leaders — we need to come up with comprehensive strategies to specifically mitigate malware attacks.</description>
       <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-threat-as-old-as-the-internet-why-we-still-care-about-malware-and-why-you-should-too.html</guid>
-    </item>
-    <item>
-      <title>A Deeper Dive into TruSTAR Intel Workflows | Splunk</title>
-      <link>https://www.splunk.com/en_us/blog/security/a-deeper-dive-into-trustar-intel-workflows.html</link>
-      <description>Learn about TruSTAR's API 2.0, featuring TruSTAR Intel Workflows. This blog post provides a look at some technical aspects of the Indicator Prioritization Intel Workflow.</description>
-      <guid isPermaLink="false">https://www.splunk.com/en_us/blog/security/a-deeper-dive-into-trustar-intel-workflows.html</guid>
     </item>
     <item>
       <title>7 High-Risk Events to Monitor Under GDPR: Lessons Learned from the ICO’s BA Penalty Notice | Splunk</title>
