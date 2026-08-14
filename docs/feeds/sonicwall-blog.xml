@@ -7,18 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 18:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:14:10 +0000</lastBuildDate>
     <item>
       <title>Common Criteria Certification Explained: The Global Security Standard for Firewalls | SonicWall</title>
       <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
       <description>Common Criteria (ISO/IEC 15408) is the global benchmark for independently verified IT security. See how it works, how it differs from FIPS 140-3, and what SonicWall's certification means for buyers</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
-    </item>
-    <item>
-      <title>Ending the Endpoint Tradeoff with SonicWall Endpoint Security</title>
-      <link>https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</link>
-      <description>Small- and medium-sized businesses need more advanced security than ever, and SonicWall Endpoint Security makes that happen.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</guid>
     </item>
     <item>
       <title>SonicWall Sweeps the 2026 CRN ARC Awards in Enterprise Network Security</title>
@@ -44,21 +38,9 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</guid>
     </item>
     <item>
-      <title>SonicOS 8.2.2: Security Services Enabled by Default at Registration | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/why-do-new-firewalls-go-live-before-they-are-actually-protected-</link>
-      <description>SonicOS 8.2.2 activates Gateway Anti-Virus, Intrusion Prevention, Botnet Filtering, and Geo-IP Filtering automatically at registration on GEN8 firewalls, closing a deployment gap that leaves appliances online but unprotected.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-do-new-firewalls-go-live-before-they-are-actually-protected-</guid>
-    </item>
-    <item>
       <title>A Deep-Dive into the Multi-Stage .NET Loader Chain Delivering LokiBot</title>
       <link>https://www.sonicwall.com/blog/a-deep-dive-into-the-multi-stage-net-loader-chain-delivering-lokibot</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/a-deep-dive-into-the-multi-stage-net-loader-chain-delivering-lokibot</guid>
-    </item>
-    <item>
-      <title>SEO Title	What Are Security Certifications? FIPS 140-3, Common Criteria, and CSfC Explained | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</link>
-      <description>Learn what security certifications such as FIPS 140-3, Common Criteria, and CSfC validate, why they matter for procurement and compliance, and how to verify one before you buy.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</guid>
     </item>
     <item>
       <title>MythStealer: Browser and Discord Credential Theft with HTTPS Exfiltration to Operator-Notified C2</title>
@@ -71,6 +53,24 @@
       <link>https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</link>
       <description>A layered approach of social engineering filename, steganographic payload, fileless reflective loading, obfuscated invocation, and a functional decoy application reflects a level of engineering investment well above what is typically associated with commodity malware distribution. The individual techniques are not new, but their combination in a single loader targeting everyday business document workflows makes this sample a representative example of how accessible and polished the current Formbook ecosystem has become.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</guid>
+    </item>
+    <item>
+      <title>Ending the Endpoint Tradeoff with SonicWall Endpoint Security</title>
+      <link>https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</link>
+      <description>Small- and medium-sized businesses need more advanced security than ever, and SonicWall Endpoint Security makes that happen.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</guid>
+    </item>
+    <item>
+      <title>SonicOS 8.2.2: Security Services Enabled by Default at Registration | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/why-do-new-firewalls-go-live-before-they-are-actually-protected-</link>
+      <description>SonicOS 8.2.2 activates Gateway Anti-Virus, Intrusion Prevention, Botnet Filtering, and Geo-IP Filtering automatically at registration on GEN8 firewalls, closing a deployment gap that leaves appliances online but unprotected.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-do-new-firewalls-go-live-before-they-are-actually-protected-</guid>
+    </item>
+    <item>
+      <title>SEO Title	What Are Security Certifications? FIPS 140-3, Common Criteria, and CSfC Explained | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</link>
+      <description>Learn what security certifications such as FIPS 140-3, Common Criteria, and CSfC validate, why they matter for procurement and compliance, and how to verify one before you buy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</guid>
     </item>
     <item>
       <title>MSP Ticketing, Easier than Ever with SonicWall's PSA Hub</title>
