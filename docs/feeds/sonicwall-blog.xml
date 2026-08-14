@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 01:14:10 +0000</lastBuildDate>
-    <item>
-      <title>Common Criteria Certification Explained: The Global Security Standard for Firewalls | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
-      <description>Common Criteria (ISO/IEC 15408) is the global benchmark for independently verified IT security. See how it works, how it differs from FIPS 140-3, and what SonicWall's certification means for buyers</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 07:12:29 +0000</lastBuildDate>
     <item>
       <title>SonicWall Sweeps the 2026 CRN ARC Awards in Enterprise Network Security</title>
       <link>https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</link>
@@ -71,6 +65,12 @@
       <link>https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</link>
       <description>Learn what security certifications such as FIPS 140-3, Common Criteria, and CSfC validate, why they matter for procurement and compliance, and how to verify one before you buy.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</guid>
+    </item>
+    <item>
+      <title>Common Criteria Certification Explained: The Global Security Standard for Firewalls | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
+      <description>Common Criteria (ISO/IEC 15408) is the global benchmark for independently verified IT security. See how it works, how it differs from FIPS 140-3, and what SonicWall's certification means for buyers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
     </item>
     <item>
       <title>MSP Ticketing, Easier than Ever with SonicWall's PSA Hub</title>
