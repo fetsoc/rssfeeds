@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 07:12:29 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Sweeps the 2026 CRN ARC Awards in Enterprise Network Security</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</link>
-      <description>SonicWall has been named the overall winner and swept all four subcategories in the CRN 2026 Annual Report Card Awards for Network Security – Enterprise, as voted by solution providers.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-sweeps-the-2026-crn-annual-report-card-awards-in-enterprise-network-security</guid>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 12:45:49 +0000</lastBuildDate>
     <item>
       <title>FIPS 140-3 Integration in Gen 8 Firmware | SonicWall Blog</title>
       <link>https://www.sonicwall.com/blog/fips-140-3-integration-the-gen-8-firmware-framework</link>
@@ -71,6 +65,11 @@
       <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
       <description>Common Criteria (ISO/IEC 15408) is the global benchmark for independently verified IT security. See how it works, how it differs from FIPS 140-3, and what SonicWall's certification means for buyers</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
+    </item>
+    <item>
+      <title>GoLoader In the Wild: Abusing Syscall.Syscall() to Execute Vidar, Stealc, and Remus Stealer</title>
+      <link>https://www.sonicwall.com/blog/goloader-in-the-wild-abusing-syscall-syscall-to-execute-vidar-stealc-and-remus-stealer</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/goloader-in-the-wild-abusing-syscall-syscall-to-execute-vidar-stealc-and-remus-stealer</guid>
     </item>
     <item>
       <title>MSP Ticketing, Easier than Ever with SonicWall's PSA Hub</title>
