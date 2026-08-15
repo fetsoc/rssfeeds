@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 18:44:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:48:21 +0000</lastBuildDate>
     <item>
       <title>Pandora’s Container Part 1: Unpacking Azure Container Security</title>
       <link>https://trustedsec.com/blog/pandoras-container-part-1-unpacking-azure-container-security</link>
