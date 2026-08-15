@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/censys-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 01:14:19 +0000</lastBuildDate>
-    <item>
-      <title>How Realistic Is Netflix's Zero Day? - Censys</title>
-      <link>https://censys.com/blog/how-realistic-is-netflixs-zero-day/</link>
-      <description>Computers are terrifying machines and almost no one actually knows how they work. Some people know how some parts of computers work, but you know who definitely do not know how computers work? The plotters and schemers in Netflix’s Zero Day. If you’re reading this, you’ve probably seen Hackers and The Net and WarGames and […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/how-realistic-is-netflixs-zero-day/</guid>
-      <pubDate>Tue, 04 Mar 2025 18:05:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating the Vast World of ICS Coverage: Part 2 - Censys</title>
-      <link>https://censys.com/blog/investigating-the-vast-world-of-ics-coverage-part-2/</link>
-      <description>Last week, we discussed how we added standard port +/- 1 scanning, in order to increase our ICS coverage. We left off mentioning that we examined the three largest ports for each ICS protocol, expecting them to represent standard port, standard + 1 port, and standard – 1 port. Today, we talk about the follow […]</description>
-      <guid isPermaLink="false">https://censys.com/blog/investigating-the-vast-world-of-ics-coverage-part-2/</guid>
-      <pubDate>Wed, 05 Mar 2025 19:49:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 12:21:35 +0000</lastBuildDate>
     <item>
       <title>Highway Robbery 2.0: How Attackers Are Exploiting Toll Systems in Phishing Scams - Censys</title>
       <link>https://censys.com/blog/highway-robbery-2-0/</link>
@@ -119,6 +105,20 @@
       <description>Putting Exploits into Context  Understanding which vulnerabilities matter most can be a daunting task. The new CVE Exploit Context feature in Censys ASM changes that by offering clear, actionable insight into which CVEs are truly dangerous and exploited by attackers in the wild. What Is CVE Exploit Context?  CVE Exploit Context delivers  threat intelligence context on […]</description>
       <guid isPermaLink="false">https://censys.com/blog/asm-cve-exploit-context/</guid>
       <pubDate>Tue, 17 Jun 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025 State of the Internet: Malware Investigations - Censys</title>
+      <link>https://censys.com/blog/2025-state-of-the-internet-malware-investigations/</link>
+      <description>**Discover how Censys Research uncovered BeaverTail, Wainscot malware &amp; Secret Blizzard APT infrastructure. Key findings from the 2025 State of the Internet Report.**</description>
+      <guid isPermaLink="false">https://censys.com/blog/2025-state-of-the-internet-malware-investigations/</guid>
+      <pubDate>Wed, 30 Jul 2025 17:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streamline Security Operations with the New Censys Chrome Extension - Censys</title>
+      <link>https://censys.com/blog/streamline-security-operations-with-the-new-censys-chrome-extension/</link>
+      <description>Instantly look up IP addresses, exposed ports, WHOIS &amp; DNS data right in your browser. Speed up security investigations—no more tab switching.**</description>
+      <guid isPermaLink="false">https://censys.com/blog/streamline-security-operations-with-the-new-censys-chrome-extension/</guid>
+      <pubDate>Wed, 30 Jul 2025 20:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Additional Open Directory Intelligence - Censys</title>
