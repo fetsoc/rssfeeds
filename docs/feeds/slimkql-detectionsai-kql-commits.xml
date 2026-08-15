@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 12:20:55 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/cve-2026-26128-kerberos-reflection-bypass-detecti…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/4d56749311e1040c28392d4920a1c9ee1cf6cbec</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/cve-2026-26128-kerberos-reflection-bypass-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4d56749311e1040c28392d4920a1c9ee1cf6cbec</guid>
-      <pubDate>Tue, 07 Jul 2026 06:09:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 18:17:03 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/tenant-mcp-server-connectivity-risk-assessment.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/3dcbebb717f245a6a3a6d15de8dfde121d1d238e</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detect-solidity-pro-vs-code-extensions-steal-crypto-wallets-api-keys-and-credentials.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/537b46853086e89c3028a3372f025956e5e238d1</guid>
       <pubDate>Mon, 10 Aug 2026 10:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add/Update file: KQL/analysis-of-kali365-by-asn-over-past-30-days.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/4027cb8a9b893723f51881d908bef14ae55e0dc4</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add/Update file: KQL/analysis-of-kali365-by-asn-over-past-30-days.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4027cb8a9b893723f51881d908bef14ae55e0dc4</guid>
+      <pubDate>Sat, 15 Aug 2026 13:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 12:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:18:46 +0000</lastBuildDate>
     <item>
       <title>Vidar Infostealer Being Spread through Phishing Emails</title>
       <link>https://asec.ahnlab.com/en/94363/</link>
@@ -100,13 +100,6 @@
       <pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>June 2026 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/94619/</link>
-      <description>Purpose and Scope This report summarizes the quantity of ransomware samples collected, the number of affected systems, statistics on targeted businesses, and major Korean &amp;#038; global issues during the month of June 2026. Statistics on targeted businesses were compiled based on information posted on DLS (Dedicated Leak Sites) operated by ransomware groups, which publish details [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94619/</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>June 2026 Security Issues in Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/94543/</link>
       <description>Statistics on Malware Distributed to the Financial Sector In the June threat analysis for the financial sector, phishing was the most prevalent attack method in Attack Stage 1, while droppers/downloaders (distribution tools that download additional malware) were the most prevalent in Attack Stage 2. Infostealers were identified in the third attack stage, indicating that multi-stage [&amp;#8230;]</description>
@@ -118,6 +111,13 @@
       <link>https://asec.ahnlab.com/en/94494/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; DragonForce Ransomware Attack on a Saudi Arabian Chemical Manufacturer AiLock Ransomware Attack on Japan’s Largest Taxi and Limousine Operator Cyberattack on Japan’s Largest Frozen Food Company Disrupts the Wider Food Supply Chain</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94494/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/94619/</link>
+      <description>Purpose and Scope This report summarizes the quantity of ransomware samples collected, the number of affected systems, statistics on targeted businesses, and major Korean &amp;#038; global issues during the month of June 2026. Statistics on targeted businesses were compiled based on information posted on DLS (Dedicated Leak Sites) operated by ransomware groups, which publish details [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94619/</guid>
       <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,13 +191,6 @@
       <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>July 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94918/</link>
       <description>Note The July 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of some sources, it may be difficult to fully verify the accuracy of certain information; therefore, it is necessary to cross-check these details against official announcements. Major Issues RaidForums changed [&amp;#8230;]</description>
@@ -209,6 +202,13 @@
       <link>https://asec.ahnlab.com/en/94917/</link>
       <description>Note The July 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—active on the deep web and dark web. It is explicitly noted that the factual accuracy of some content could not be verified. Major Issues Handala claimed to have compromised the core infrastructure of an Internet service provider in [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94917/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
