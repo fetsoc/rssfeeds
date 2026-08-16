@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 00:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:27:13 +0000</lastBuildDate>
     <item>
       <title>Secure by Design in practice: a year of progress on Sophos Firewall</title>
       <link>https://www.sophos.com/en-us/blog/2607-sbd-update</link>
