@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 06:39:08 +0000</lastBuildDate>
-    <item>
-      <title>Secure by Design in practice: a year of progress on Sophos Firewall</title>
-      <link>https://www.sophos.com/en-us/blog/2607-sbd-update</link>
-      <description>&lt;p&gt;One year on from our last Secure by Design update, we’re changing the format: deeper, per-product updates. First up: the firewall.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2607-sbd-update</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 12:27:33 +0000</lastBuildDate>
     <item>
       <title>When AI doesn’t know the target is real</title>
       <link>https://www.sophos.com/en-us/blog/when-ai-doesnt-know-the-target-is-real</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;Lures on compromised WordPress sites led to installation of Deno and a Python-based infostealer&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
+      <link>https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus</link>
+      <description>&lt;p&gt;Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and complexity of exploiting it.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
