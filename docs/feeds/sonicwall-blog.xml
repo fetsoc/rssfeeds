@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 00:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:37:22 +0000</lastBuildDate>
     <item>
       <title>FIPS 140-3 Integration in Gen 8 Firmware | SonicWall Blog</title>
       <link>https://www.sonicwall.com/blog/fips-140-3-integration-the-gen-8-firmware-framework</link>
