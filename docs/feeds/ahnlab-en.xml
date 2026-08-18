@@ -7,34 +7,27 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 00:47:27 +0000</lastBuildDate>
-    <item>
-      <title>Vidar Infostealer Being Spread through Phishing Emails</title>
-      <link>https://asec.ahnlab.com/en/94363/</link>
-      <description>1. Overview First identified in 2018, Vidar operates under a Malware-as-a-Service (MaaS) model and continues to be distributed through various attack cases to this day. AhnLab SEcurity intelligence Center (ASEC) has been monitoring cases of Vidar distribution targeting Korea, and this report summarizes the Vidar distribution cases identified in the first half of 2026.&amp;#160; &amp;#160; [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94363/</guid>
-      <pubDate>Sun, 05 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability Trend Report for Q2 2026</title>
-      <link>https://asec.ahnlab.com/en/94360/</link>
-      <description>Summary of Vulnerability Trends for the Second Quarter of 2026 A total of 20,701 new CVEs were reported in the second quarter of 2026. Of these, 2,317 were “Critical” vulnerabilities with a CVSS score of 9.0 Or higher, accounting for 11.2% Of the total. Medium- and high-risk vulnerabilities, including those rated “High,” accounted for 51.7% [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94360/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Files Locked Behind a White Padlock: A Warning from WhiteLock Ransomware</title>
-      <link>https://asec.ahnlab.com/en/94390/</link>
-      <description>If files start getting locked one by one and even remote access tools stop working, your system may already be infected with ransomware. The recently identified WhiteLock ransomware encrypts key files on Windows systems and then generates a ransom note demanding payment. A key characteristic of this ransomware is that it communicates with external servers [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94390/</guid>
-      <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 06:29:43 +0000</lastBuildDate>
     <item>
       <title>What if you received an email about transferring your Kakao account? Check this first.</title>
       <link>https://asec.ahnlab.com/en/94388/</link>
       <description>Recently, a phishing email disguised as an official Kakao account transfer notification has been identified. The email attempts to instill anxiety by claiming that the user’s Kakao account is scheduled to be transferred, and prompts the user to click on the “Verify Account” link included in the body of the message. If a user enters [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94388/</guid>
       <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
+      <link>https://asec.ahnlab.com/en/94433/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94417/</link>
+      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>June 2026 Dark Web Issue Trend Report</title>
@@ -55,20 +48,6 @@
       <link>https://asec.ahnlab.com/en/94406/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Saudi Arabian Medical Records Breach, For Sale on Cybercrime Forum Irish ICT Company Data Leaked, For Sale on Cybercrime Forum LeakNet Breach Targets US Healthcare Insurer, Shared on Cybercrime Forums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94406/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
-      <link>https://asec.ahnlab.com/en/94433/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,6 +170,27 @@
       <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Beware of Phishing Emails Disguised as Transaction Receipts</title>
+      <link>https://asec.ahnlab.com/en/95001/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails that were disguised as transaction receipts. The emails impersonated employees of a specific US company. The body of the message stated that a transaction receipt was attached and asked the recipient to review it and confirm whether funds had been deposited into their [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95001/</guid>
+      <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea</title>
+      <link>https://asec.ahnlab.com/en/94995/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases in which attackers targeted web servers in Korea to install SoftEther VPN. Attack cases involving the installation of SoftEther VPN, an open-source VPN, were previously discussed in the 2024 ASEC blog post titled “Analysis of Attack Cases Targeting ERP Servers in Korea to Install SoftEther [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94995/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>July 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94918/</link>
       <description>Note The July 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of some sources, it may be difficult to fully verify the accuracy of certain information; therefore, it is necessary to cross-check these details against official announcements. Major Issues RaidForums changed [&amp;#8230;]</description>
@@ -205,11 +205,11 @@
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+      <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
+      <link>https://asec.ahnlab.com/en/95000/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 2, August 2026</title>
