@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 12:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:26:58 +0000</lastBuildDate>
     <item>
       <title>Expel Quarterly Threat Report Q3 2024, volume II: CAPTCHA trick or treat</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-volume-ii-captcha-trick-or-treat/</link>
@@ -191,13 +191,6 @@
       <pubDate>Thu, 16 Jan 2025 19:19:02 +0000</pubDate>
     </item>
     <item>
-      <title>Cloud security: alert best practices (part II)</title>
-      <link>https://expel.com/blog/cloud-security-alert-best-practices-part-ii/</link>
-      <description>This is part two of a two-part blog on cloud security alerts, including what makes them unique and best practices for management.</description>
-      <guid isPermaLink="false">https://expel.com/blog/cloud-security-alert-best-practices-part-ii/</guid>
-      <pubDate>Thu, 23 Jan 2025 14:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Reintroducing Expel’s employee resource groups (ERGs)</title>
       <link>https://expel.com/blog/reintroducing-expels-employee-resource-groups-ergs/</link>
       <description>Expel has four employee resource groups (ERGs) open to community members and allies, because we know we're better when different.</description>
@@ -350,6 +343,13 @@
       <description>At Expel, we AI Responsibly. Our latest project focused on generating key findings (KF) to detail incident investigations.</description>
       <guid isPermaLink="false">https://expel.com/blog/key-findings-generation-with-genai/</guid>
       <pubDate>Fri, 04 Apr 2025 13:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparison of cloud resources (part III): Demystifying cloud security tools in the platform and application layer</title>
+      <link>https://expel.com/blog/comparison-of-cloud-resources-part-iii/</link>
+      <description>This is part three of our four-part blog series on comparing cloud resources. Part three defines tools used in the platform and app layers.</description>
+      <guid isPermaLink="false">https://expel.com/blog/comparison-of-cloud-resources-part-iii/</guid>
+      <pubDate>Mon, 07 Apr 2025 17:37:02 +0000</pubDate>
     </item>
     <item>
       <title>Closing the revolving door in security: solving FinServ staffing struggles</title>
