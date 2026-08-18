@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 06:29:41 +0000</lastBuildDate>
-    <item>
-      <title>Kali365 Targets US Organizations with Data Theft via Device Code Phishing</title>
-      <link>https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/</link>
-      <description>&lt;p&gt;Kali365 is&amp;#160;targeting US&amp;#160;organizations&amp;#160;with device code phishing attacks&amp;#160;that abuse legitimate Microsoft authentication. Instead of directing victims&amp;#160;to a fake login form, the&amp;#160;phishkit&amp;#160;sends&amp;#160;them to a real Microsoft page, where they authorize access&amp;#160;using an attacker-controlled device code.&amp;#160; This&amp;#160;makes&amp;#160;the attack harder for analysts&amp;#160;to&amp;#160;spot and more dangerous&amp;#160;for the business. By obtaining OAuth access&amp;#160;and refresh tokens, attackers&amp;#160;may gain continued access&amp;#160;to Microsoft 365 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/"&gt;Kali365 Targets US Organizations with Data Theft via Device Code Phishing &lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/</guid>
-      <pubDate>Tue, 21 Jul 2026 07:01:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 12:29:57 +0000</lastBuildDate>
     <item>
       <title>Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case</title>
       <link>https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/threat-monitoring-ti-feeds/"&gt;Intelligence-Driven SOC: Modernizing Threat Monitoring and Detection Engineering for Ultimate MTTR Reduction&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/threat-monitoring-ti-feeds/</guid>
       <pubDate>Wed, 12 Aug 2026 07:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mirage2FA Hijacks Companies’ Microsoft 365 Sessions, with Over 4K Victims in the US</title>
+      <link>https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/</link>
+      <description>&lt;p&gt;Mirage2FA is an active phishing-as-a-service toolkit built to steal Microsoft 365 credentials and authenticated sessions through Adversary-in-the-Middle (AiTM) attacks. ANY.RUN research shows that 63.7% of identified victims are in the US, with Technologies, Manufacturing, and Education among the most targeted industries. The operation has generated thousands of compromise events between 2024 and 2026, including stolen [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/"&gt;Mirage2FA Hijacks Companies’ Microsoft 365 Sessions, with Over 4K Victims in the US&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/</guid>
+      <pubDate>Tue, 18 Aug 2026 09:28:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
