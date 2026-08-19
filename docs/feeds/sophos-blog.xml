@@ -7,26 +7,19 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 06:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:30:59 +0000</lastBuildDate>
     <item>
-      <title>Three-headed dogs and long tails: Sophos at BSides LV</title>
-      <link>https://www.sophos.com/en-us/blog/three-headed-dogs-and-long-tails-sophos-at-bsides-lv</link>
-      <description>&lt;p&gt;Data scientists from the Sophos AI team will present two research talks at BSides Las Vegas&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/three-headed-dogs-and-long-tails-sophos-at-bsides-lv</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Interlock ransomware gang creates volatile situation</title>
+      <link>https://www.sophos.com/en-us/blog/2608-volatility-interlock</link>
+      <description>&lt;p&gt;Multiple legitimate DFIR tools abused by GOLD EMBRACE double-extortion specialists&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-volatility-interlock</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>N-able N-central exploitation results in RMM tool deployment</title>
       <link>https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment</link>
       <description>&lt;p&gt;After compromising systems via CVE-2026-18577, threat actors use the additional RMM tools and network tunnels to establish persistent remote access&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interlock ransomware gang creates volatile situation</title>
-      <link>https://www.sophos.com/en-us/blog/2608-volatility-interlock</link>
-      <description>&lt;p&gt;Multiple legitimate DFIR tools abused by GOLD EMBRACE double-extortion specialists&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-volatility-interlock</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,6 +37,13 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ClickFix campaign abuses Deno runtime for infostealer delivery</title>
+      <link>https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</link>
+      <description>&lt;p&gt;Lures on compromised WordPress sites led to installation of Deno and a Python-based infostealer&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Abuse of alternative runtime environments Deno-tes defender headaches</title>
       <link>https://www.sophos.com/en-us/blog/deno-case-studies</link>
       <description>&lt;p&gt;Attack TTPs combine fileless execution, wide LOLBin use&lt;/p&gt;</description>
@@ -51,11 +51,11 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ClickFix campaign abuses Deno runtime for infostealer delivery</title>
-      <link>https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</link>
-      <description>&lt;p&gt;Lures on compromised WordPress sites led to installation of Deno and a Python-based infostealer&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <title>A heap of overflow in August’s Patch Tuesday haul</title>
+      <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
+      <description>&lt;p&gt;423 CVEs, no Edge patches, and a small shift in CWE findings&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
@@ -65,11 +65,11 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A heap of overflow in August’s Patch Tuesday haul</title>
-      <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
-      <description>&lt;p&gt;423 CVEs, no Edge patches, and a small shift in CWE findings&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Fake AI, real malware: Attackers impersonating AI brands</title>
+      <link>https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</link>
+      <description>&lt;p&gt;A year of MDR casework shows attackers repeatedly exploiting demand for AI tools&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

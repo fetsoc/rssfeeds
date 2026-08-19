@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 06:31:02 +0000</lastBuildDate>
-    <item>
-      <title>Exfiltration in Plain Sight: SafePay’s OneDrive Play</title>
-      <link>https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/</link>
-      <description>&lt;p&gt;Get an inside look at the attack path, the forensic evidence that exposed the OneDrive exfiltration technique, and the practical detection opportunities defenders can use to uncover similar activity before it becomes a full-scale extortion event.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/"&gt;Exfiltration in Plain Sight: SafePay’s OneDrive Play&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/webinars/when-ransomware-hides-in-onedrive-inside-safepay-exfiltration-play/</guid>
-      <pubDate>Sun, 26 Jul 2026 12:14:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 12:30:59 +0000</lastBuildDate>
     <item>
       <title>Why Most OT Cyber Incidents Never Reach the OT Environment</title>
       <link>https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/</link>
@@ -73,13 +65,20 @@
       <pubDate>Mon, 10 Aug 2026 08:44:22 +0000</pubDate>
     </item>
     <item>
-      <title>Live Webinar: Shai-Hulud in the Wild – What Security and IR Teams Need to Know</title>
+      <title>Incident Response vs. Crisis Management: Why Treating Them as the Same Thing Is Dangerous</title>
+      <link>https://www.sygnia.co/blog/incident-response-vs-crisis-management/</link>
+      <description>&lt;p&gt;Incident response contains the attack. Crisis management protects the business. Learn why conflating the two is dangerous and how to align them.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-vs-crisis-management/"&gt;Incident Response vs. Crisis Management: Why Treating Them as the Same Thing Is Dangerous&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-vs-crisis-management/</guid>
+      <pubDate>Wed, 12 Aug 2026 10:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shai-Hulud in the Wild: What Security and IR Teams Need to Know</title>
       <link>https://www.sygnia.co/webinars/shai-hulud-in-the-wild/</link>
-      <description>&lt;p&gt;What happens when software supply-chain attacks compromise not only packages, but the trusted systems and workflows used to build and distribute them?&lt;br /&gt;
-Join our live webinar for a practical look at the latest Shai-Hulud activity.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/shai-hulud-in-the-wild/"&gt;Live Webinar: Shai-Hulud in the Wild &amp;#8211; What Security and IR Teams Need to Know&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;What happens when software supply-chain attacks compromise not only packages, but the trusted systems and workflows used to build and distribute them?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/shai-hulud-in-the-wild/"&gt;Shai-Hulud in the Wild: What Security and IR Teams Need to Know&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/webinars/shai-hulud-in-the-wild/</guid>
-      <pubDate>Sun, 16 Aug 2026 09:29:31 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 07:33:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 06:30:58 +0000</lastBuildDate>
-    <item>
-      <title>Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case</title>
-      <link>https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/</link>
-      <description>&lt;p&gt;SOCs face constant pressure to detect and respond to threats faster. Heavy workloads, limited threat visibility, and disconnected tools can delay action, increasing the risk of&amp;#160;financial loss&amp;#160;and operational disruption.&amp;#160; ANY.RUN helps more than 15,000 security teams reduce these delays with fresh threat intelligence, interactive analysis, contextual enrichment, and analyst-curated reporting.  Here’s&amp;#160;how your SOC can handle incidents more [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/"&gt;Faster Incident Response: How ANY.RUN Helps SOCs Cut MTTR by Up to 21 Minutes per Case&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/efficient-soc-for-fast-response/</guid>
-      <pubDate>Wed, 22 Jul 2026 11:44:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 12:30:54 +0000</lastBuildDate>
     <item>
       <title>Building Resilience Against AiTM Phishing: What SOC Leaders Should Know</title>
       <link>https://any.run/cybersecurity-blog/enterprise-phishing-resilience/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/"&gt;Mirage2FA Hijacks Companies’ Microsoft 365 Sessions, with Over 4K Victims in the US&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/</guid>
       <pubDate>Tue, 18 Aug 2026 09:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunt Malware &amp; Phishing Threats with ANY.RUN for Proactive Enterprise Security</title>
+      <link>https://any.run/cybersecurity-blog/proactive-threat-hunting/</link>
+      <description>&lt;p&gt;One of the biggest challenges for every threat hunter is navigating endless alerts, scattered indicators, behavioral evidence, and infrastructural context. Data collection is just the first step – but how do you turn it into findings that lead to proactive protection against malware and phishing? ANY.RUN Threat Intelligence has the answer. Threat Intelligence: Thinking Ahead [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/proactive-threat-hunting/"&gt;Hunt Malware &amp;amp; Phishing Threats with ANY.RUN for Proactive Enterprise Security&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/proactive-threat-hunting/</guid>
+      <pubDate>Wed, 19 Aug 2026 10:27:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
