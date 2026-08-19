@@ -7,65 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 12:29:15 +0000</lastBuildDate>
-    <item>
-      <title>FIPS 140-3 Integration in Gen 8 Firmware | SonicWall Blog</title>
-      <link>https://www.sonicwall.com/blog/fips-140-3-integration-the-gen-8-firmware-framework</link>
-      <description>Discover how Gen 8 firmware incorporates FIPS 140-3 security standards to help organizations strengthen encryption, improve compliance, and protect critical data.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/fips-140-3-integration-the-gen-8-firmware-framework</guid>
-    </item>
-    <item>
-      <title>Objection Overruled: Professional Services Is Cyber's Most Targeted Sector</title>
-      <link>https://www.sonicwall.com/blog/objection-overruled-professional-services-has-a-bigger-target-on-its-back-than-anyone-realizes</link>
-      <description>3 billion IPS events, 332 million VoIP exploit attempts, and ransomware groups specifically targeting MSPs for their client access. Here's what the data says about professional services in 2026.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/objection-overruled-professional-services-has-a-bigger-target-on-its-back-than-anyone-realizes</guid>
-    </item>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for August 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-august-2026</guid>
-    </item>
-    <item>
-      <title>A Deep-Dive into the Multi-Stage .NET Loader Chain Delivering LokiBot</title>
-      <link>https://www.sonicwall.com/blog/a-deep-dive-into-the-multi-stage-net-loader-chain-delivering-lokibot</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-deep-dive-into-the-multi-stage-net-loader-chain-delivering-lokibot</guid>
-    </item>
-    <item>
-      <title>MythStealer: Browser and Discord Credential Theft with HTTPS Exfiltration to Operator-Notified C2</title>
-      <link>https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</link>
-      <description>The stealer targets 27 Chromium-based browser profiles, four Discord client variants, and Firefox cookies. Stolen data is packaged as a ZIP and POSTed over HTTPS to myth.cocukporno.lol — a C2 belonging to the MythStealer family, advertised on Telegram at t.me/mythstealerx. A separate POST delivers a victim summary including machine name, external IP, cookie count, and Microsoft account MFA status to the operator.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/mythstealer-browser-and-discord-credential-theft</guid>
-    </item>
-    <item>
-      <title>No File, No Trace: How a Fake Invoice Hides a Formbook Loader in Plain Sight</title>
-      <link>https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</link>
-      <description>A layered approach of social engineering filename, steganographic payload, fileless reflective loading, obfuscated invocation, and a functional decoy application reflects a level of engineering investment well above what is typically associated with commodity malware distribution. The individual techniques are not new, but their combination in a single loader targeting everyday business document workflows makes this sample a representative example of how accessible and polished the current Formbook ecosystem has become.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/no-file-no-trace-fake-invoice-hides-formbook-loader</guid>
-    </item>
-    <item>
-      <title>Ending the Endpoint Tradeoff with SonicWall Endpoint Security</title>
-      <link>https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</link>
-      <description>Small- and medium-sized businesses need more advanced security than ever, and SonicWall Endpoint Security makes that happen.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-end-of-the-endpoint-security-trade-off</guid>
-    </item>
-    <item>
-      <title>SonicOS 8.2.2: Security Services Enabled by Default at Registration | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/why-do-new-firewalls-go-live-before-they-are-actually-protected-</link>
-      <description>SonicOS 8.2.2 activates Gateway Anti-Virus, Intrusion Prevention, Botnet Filtering, and Geo-IP Filtering automatically at registration on GEN8 firewalls, closing a deployment gap that leaves appliances online but unprotected.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-do-new-firewalls-go-live-before-they-are-actually-protected-</guid>
-    </item>
-    <item>
-      <title>SEO Title	What Are Security Certifications? FIPS 140-3, Common Criteria, and CSfC Explained | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</link>
-      <description>Learn what security certifications such as FIPS 140-3, Common Criteria, and CSfC validate, why they matter for procurement and compliance, and how to verify one before you buy.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-are-security-certifications-and-why-do-they-matter-</guid>
-    </item>
-    <item>
-      <title>Common Criteria Certification Explained: The Global Security Standard for Firewalls | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</link>
-      <description>Common Criteria (ISO/IEC 15408) is the global benchmark for independently verified IT security. See how it works, how it differs from FIPS 140-3, and what SonicWall's certification means for buyers</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-common-criteria-and-why-does-it-matter-for-firewall-security-in-2026-</guid>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 18:21:45 +0000</lastBuildDate>
     <item>
       <title>GoLoader In the Wild: Abusing Syscall.Syscall() to Execute Vidar, Stealc, and Remus Stealer</title>
       <link>https://www.sonicwall.com/blog/goloader-in-the-wild-abusing-syscall-syscall-to-execute-vidar-stealc-and-remus-stealer</link>
@@ -76,6 +18,156 @@
       <link>https://www.sonicwall.com/blog/introducing-sonicwall-mcp-ai-powered-network-management</link>
       <description>Learn more about SonicWall MCP, an open-source Model Context Protocol server that connects AI assistants to SonicWall products for faster management, configuration, monitoring, and troubleshooting.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/introducing-sonicwall-mcp-ai-powered-network-management</guid>
+    </item>
+    <item>
+      <title>Partner Power News August 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</link>
+      <description>Explore Partner Power News August 2026 for the latest SonicWall updates, including Endpoint Security, Secure Upgrade enhancements, Zero Trust promotions, Partner Power Hour, updated accreditations, and resources to help partners innovate, protect, and succeed.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-august-2026-innovate-protect-succeed</guid>
+    </item>
+    <item>
+      <title>Partner Power News - July 2026: Pricing Updates, Promotions &amp; AI Growth Opportunities | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-july-2026-pricing-adjustment-new-promotions-more-ways-to-grow</link>
+      <description>Discover the latest July 2026 partner updates, including pricing adjustments, exclusive Cloud Secure Edge promotions, AI innovation for SMBs, healthcare cybersecurity alerts, new product releases, events, and resources to help grow your business.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-july-2026-pricing-adjustment-new-promotions-more-ways-to-grow</guid>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-smarter-security-bigger-value-and-whats-next-july-2025</link>
+      <description>Surf the cybersecurity wave with killer updates to supercharge your MSP business! From next-gen firewalls to hot promos and can’t-miss events, here’s your fast-track guide to what’s new and ready to boost your growth this month!</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-smarter-security-bigger-value-and-whats-next-july-2025</guid>
+    </item>
+    <item>
+      <title>Partner Power News - March Momentum: Driving Growth &amp; Secure Access for MSPs | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news---march-2026-outcomes-acceleration-opportunity</link>
+      <description>Boost MSP success with modern cybersecurity, secure‑by‑default strategies, SonicWall firewall leadership, and new SecureFirst Partner Program updates driving growth.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news---march-2026-outcomes-acceleration-opportunity</guid>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS - February 2026: Pipeline. Margin. Recurring Revenue. | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</link>
+      <description>Explore the February 2026 Partner Power News for insights on accelerating pipeline growth, boosting margin, and driving recurring revenue in today’s security market. With customers rapidly reassessing risk and investing in trusted security advisors, discover partner strategies to lead with confidence and convert rising demand into measurable business growth.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-pipeline-margin-recurring-revenue</guid>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS: Activate, Upgrade &amp; Grow - January 2026 | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-activate-upgrade-grow-january-2026</link>
+      <description>Kick off 2026 with new ways to drive growth, upgrade customers and strengthen your security practice. January’s Partner Power News brings together exclusive firewall promotions, enhanced deal registration discounts and 3× revenue credit opportunities—alongside the latest product updates, important lifecycle transitions, training resources, partner tools and upcoming events. From what’s new to what’s ending soon, this edition helps you focus on the right priorities to maximize success in the year ahead.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-activate-upgrade-grow-january-2026</guid>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS: Elevate, Accelerate &amp; Deliver - November 2025 | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-elevate-accelerate-deliver-november-2025</link>
+      <description>This month, we’re spotlighting major partner opportunities — from exclusive rebates and legacy-VPN replacement offers to upgrade incentives. Explore practical CSE support, key training updates, and the expanded TZ Gen 8 lineup — plus a 100% threat block rate, two years running, independently validated by NetSecOPEN. Don’t miss our Upgrade Advantage blog series for real partner success stories and insights from the final Mandiant investigation. Let’s finish the year strong together!</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-elevate-accelerate-deliver-november-2025</guid>
+    </item>
+    <item>
+      <title>Partner Power News - June 2026: Fresh Insights, New Releases &amp; More Ways to Win | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</link>
+      <description>Explore June 2026 Partner Power News: Gen 8 releases, Zero Trust innovations, MDF resources, success stories, expert insights, and upcoming events to help you win.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-june-2026-fresh-insights-new-releases-and-more-ways-to-win</guid>
+    </item>
+    <item>
+      <title>SonicWall 2026 Partner Awards: Honoring Global Excellence</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-s-2026-partner-awards-celebrating-the-partners-powering-sonicwall-s-global-success</link>
+      <description>SonicWall recognizes 113 global partners for innovation, growth and cybersecurity excellence in the 2026 Partner Awards.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-2026-partner-awards-celebrating-the-partners-powering-sonicwall-s-global-success</guid>
+    </item>
+    <item>
+      <title>EMEA Peak16: Come for Knowledge and Leave with Power | SonicWall Blog</title>
+      <link>https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</link>
+      <description>SonicWAll Security EMEA Peak16 details for our partners how to architect and deliver the security solutions that turn "non" into "yes".</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/emea-peak16-come-knowledge-leave-power</guid>
+    </item>
+    <item>
+      <title>UPGRADE ADVANTAGE:  Cost Savings for MSPs &amp; MSSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-cost-savings-for-msps-mssps</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-cost-savings-for-msps-mssps</guid>
+    </item>
+    <item>
+      <title>How SourcePass Gains a Competitive Edge with SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-sourcepass-turns-firewall-upgrades-into-a-competitive-edge</link>
+      <description>Discover how SourcePass uses SonicWall firewall upgrades to strengthen security, streamline operations, and build lasting customer trust.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-sourcepass-turns-firewall-upgrades-into-a-competitive-edge</guid>
+    </item>
+    <item>
+      <title>Future-Proofing with SonicWall: Upgrade Advantage</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-future-proofing-for-partners-msps-and-mssps</link>
+      <description>Discover how SonicWall upgrades deliver stronger security today while positioning partners for resilience, growth, and long-term customer loyalty.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-future-proofing-for-partners-msps-and-mssps</guid>
+    </item>
+    <item>
+      <title>MH Enterprise Builds Trust Through SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-mhe-turns-trust-into-cybersecurity-success</link>
+      <description>Discover how MH Enterprise uses trust and partnership to modernize networks, expand managed services, and deliver stronger protection.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-mhe-turns-trust-into-cybersecurity-success</guid>
+    </item>
+    <item>
+      <title>Apograph Delivers Security with SonicWall Advantage</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</link>
+      <description>See how Apograph uses SonicWall firewalls, NSM, and Cloud Secure Edge to protect clients, cut costs, and make upgrades sustainable.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-apograph-uses-proactive-firewall-upgrades-to-protect-clients-and-control-costs</guid>
+    </item>
+    <item>
+      <title>Why Firewall Upgrades Matter for MSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</link>
+      <description>Upgrading isn’t just new features. See how SonicWall firewalls give MSPs stronger security, faster performance, and new service revenue.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-why-security-enhancements-matter-for-msps-and-mssps</guid>
+    </item>
+    <item>
+      <title>Atomgate Strengthens Security Through SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-atomgate-uses-education-and-partnership-to-drive-successful-sonicwall-upgrades</link>
+      <description>See how Atomgate uses education, testing and partnership to drive smart firewall upgrades and long-term customer trust.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-atomgate-uses-education-and-partnership-to-drive-successful-sonicwall-upgrades</guid>
+    </item>
+    <item>
+      <title>Apex Computing Strengthens Security Through SonicWall Upgrades</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-how-apex-computing-uses-proactive-firewall-upgrades-to-protect-clients-and-prevent-disruptions</link>
+      <description>See how Apex Computing helps clients plan firewall upgrades, prevent downtime, and build trust through proactive cybersecurity.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-how-apex-computing-uses-proactive-firewall-upgrades-to-protect-clients-and-prevent-disruptions</guid>
+    </item>
+    <item>
+      <title>Upgrade Advantage: More Value, Less Effort for MSPs</title>
+      <link>https://www.sonicwall.com/blog/upgrade-advantage-more-value-less-effort-for-partners-msps-mssps</link>
+      <description>Learn how SonicWall upgrades unlock unified management, AI-driven insights and partner-ready services that boost efficiency and revenue.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/upgrade-advantage-more-value-less-effort-for-partners-msps-mssps</guid>
+    </item>
+    <item>
+      <title>Visibility, Visibility, Visibility: Your Greatest Ally</title>
+      <link>https://www.sonicwall.com/blog/visibility-visibility-visibility-your-greatest-ally</link>
+      <description>SonicWall Partners leverage the visibility delivered by Network Security Management (NSM) to be their greatest ally in maintaining a comprehensive view of every network element that can create disaster for their customers.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/visibility-visibility-visibility-your-greatest-ally</guid>
+    </item>
+    <item>
+      <title>Why Policy Deployment Speed Matters for Security</title>
+      <link>https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</link>
+      <description>Without rapid deployment, even the best policies fall short. Discover how SonicWall NSM enables centralized, fast firewall policy enforcement.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-critical-importance-of-policy-development-and-prompt-deployment</guid>
+    </item>
+    <item>
+      <title>Keep Client Configurations When Upgrading to Next-Gen SonicWall Firewalls</title>
+      <link>https://www.sonicwall.com/blog/keep-client-configurations-when-upgrading-to-next-gen-sonicwall-firewalls</link>
+      <description>As partners migrate their clients from SonicWall Gen 6 firewalls to Gen 7 and Gen 8, maintaining the existing device configurations becomes a key consideration. SonicWall’s Network Security Manager (NSM) includes a powerful migration utility that automatically translates legacy configurations to the new standard, saving time and reducing complexity.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/keep-client-configurations-when-upgrading-to-next-gen-sonicwall-firewalls</guid>
+    </item>
+    <item>
+      <title>Streamline Security and Reduce Overhead with NSM</title>
+      <link>https://www.sonicwall.com/blog/consistent-security-less-overhead-help-your-customers-do-more-with-sonicwall-nsm</link>
+      <description>Help your customers simplify firewall management and gain visibility with SonicWall NSM</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/consistent-security-less-overhead-help-your-customers-do-more-with-sonicwall-nsm</guid>
+    </item>
+    <item>
+      <title>Save Time and Budget with NSM Remote Deployment</title>
+      <link>https://www.sonicwall.com/blog/how-nsm-zero-touch-simplifies-deployment-and-preserves-budget-and-resources</link>
+      <description>See how SonicWall NSM simplifies firewall deployment and reduces costs through zero-touch provisioning and remote management.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-nsm-zero-touch-simplifies-deployment-and-preserves-budget-and-resources</guid>
+    </item>
+    <item>
+      <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
+      <link>https://www.sonicwall.com/blog/superior-management-elevated-security-a-partner-s-early-experience-with-sonicwall-network-security-manager-3-0</link>
+      <description>Leaf IT shares its experience with SonicWall Network Security Manager 3.0</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/superior-management-elevated-security-a-partner-s-early-experience-with-sonicwall-network-security-manager-3-0</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MSP Ticketing, Easier than Ever with SonicWall's PSA Hub</title>
@@ -106,18 +198,18 @@
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>PARTNER POWER NEWS: Essential Updates for Every SonicWall Partner</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</link>
+      <description>Surf the cybersecurity wave with killer updates to supercharge your MSP business! From next-gen firewalls to hot promos and can’t-miss events, here’s your fast-track guide to what’s new and ready to boost your growth this month!</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-essential-updates-for-every-sonicwall-partner-5-21-2025</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What Is a Virtual Firewall? Cloud &amp; VM Security Explained</title>
       <link>https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</link>
       <description>Learn how virtual firewalls secure east-west traffic across VMware, AWS, Azure, and Kubernetes—where traditional edge firewalls fall short.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/what-is-a-virtual-firewall-</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Multi-Engine Cloud AV Is the Only Reliable Defense Against Modern Malware | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/one-engine-is-never-enough-sonicwall-runs-several-</link>
-      <description>Single antivirus engines miss 2-15% of novel malware. Learn how SonicWall’s multi-engine cloud AV architecture (Gateway AV, Capture ATP, Capture Client, and MDR) delivers layered protection across gateway, sandbox, and endpoint.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/one-engine-is-never-enough-sonicwall-runs-several-</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SonicOS 7.3.3 for GEN7: What MSPs and Channel Partners Need to Know</title>
@@ -127,26 +219,6 @@
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Long Time Ago in a Galaxy Far, Far Away…Cybersecurity Was Already Hard</title>
-      <link>https://www.sonicwall.com/blog/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-long-time-ago-in-a-galaxy-far-far-away-cybersecurity-was-already-hard</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Gen 6 End of Life: The Credential Visibility Gap Putting Your Network at Risk</title>
-      <link>https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</link>
-      <description>1 in 10 SonicWall devices running Credential Auditor found bad credentials — and Gen 6 firewalls can’t run it. Learn why upgrading to Gen 7 is a critical security decision, not just a hardware refresh.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/weak-credentials-are-hiding-in-your-network-can-you-afford-not-to-know-</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partner Power News - May 2026: Protection. Transition. Scale. | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</link>
-      <description>Turn insight into action with Partner Power News May 2026. Cyber Protect insights, product transitions, EPSS on Gen 7 TZ, SaaS milestones, and new enablement resources to scale impact and pipeline.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Virtual Firewall vs. Physical Firewall: How to Choose the Right Protection for Cloud, On-Premises, and Hybrid Networks</title>
       <link>https://www.sonicwall.com/blog/virtual-vs-physical-firewalls-a-practical-guide-for-modern-networks</link>
       <description>Virtual firewalls deliver cloud agility. Physical firewalls deliver throughput and control. Learn the differences, use cases, and how to deploy both together.</description>
@@ -154,46 +226,11 @@
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How SonicWall's Hybrid Mesh Firewall Aligns with Gartner's CSMA Framework</title>
-      <link>https://www.sonicwall.com/blog/embracing-the-future-of-security-gartner-s-csma-meets-sonicwall-s-hybrid-mesh-firewall-hmf-on-sonicwall-unified-management</link>
-      <description>Discover how SonicWall Unified Management enables a Hybrid Mesh Firewall architecture that maps directly to Gartner's Cybersecurity Mesh Architecture principles for distributed, cloud-ready security.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/embracing-the-future-of-security-gartner-s-csma-meets-sonicwall-s-hybrid-mesh-firewall-hmf-on-sonicwall-unified-management</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mesop AI Sandbox Unauthenticated RCE - CVE-2026-33057</title>
-      <link>https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in Google Mesop AI Sandbox /exec-py endpoint allows arbitrary Python execution. SonicWall IPS signature available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/mesop-ai-sandbox-unauthenticated-remote-code-execution</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Death of the Firewall — Why It Isn't Going Anywhere | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/the-death-of-the-firewall</link>
-      <description>The firewall has been declared dead for decades. So why is the market still growing? SonicWall CPO Chandrodaya Prasad explains why it is not going anywhere.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-death-of-the-firewall</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ransomware Chimera That Does Everything</title>
-      <link>https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</link>
-      <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/no-password-no-mfa-how-a-single-binary-owns-your-cloud-identity</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ransomware Chimera That Does Everything</title>
-      <link>https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</link>
-      <description>This week, the SonicWall Capture Labs Threat Research team examined a .NET executable that combines ransomware, botnet, information stealer, and worm capabilities. The sample is particularly notable for explicitly referencing eight different ransomware families throughout its codebase.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-ransomware-chimera-that-does-everything</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Key Features of Virtual Firewalls: What You Need to Know</title>
-      <link>https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</link>
-      <description>Discover the 8 essential features of virtual firewalls, from policy-based filtering and DNS security to malware protection and seamless cloud integration. Learn how these capabilities protect modern hybrid and cloud environments.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-features-of-virtual-firewalls-what-you-need-to-know</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <title>Partner Power News - May 2026: Protection. Transition. Scale. | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</link>
+      <description>Turn insight into action with Partner Power News May 2026. Cyber Protect insights, product transitions, EPSS on Gen 7 TZ, SaaS milestones, and new enablement resources to scale impact and pipeline.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-may-2026-protection-transition-scale</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Firewall Is Not Dead: How AI Makes It Smarter | SonicWall</title>
@@ -217,32 +254,11 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Virtual Firewalls Are Now Essential: Key Trends Driving Adoption</title>
-      <link>https://www.sonicwall.com/blog/key-trends-and-drivers-shaping-the-adoption-of-virtual-firewalls</link>
-      <description>Cloud migration, hybrid work, Zero Trust, and AI-driven threats are forcing IT teams to rethink network security. Here are the key trends making virtual firewalls indispensable — and what IT admins need to know now.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/key-trends-and-drivers-shaping-the-adoption-of-virtual-firewalls</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Layer 3 vs. Layer 4 vs. Layer 7 Firewalls: Where Do Virtual Firewalls Fit In?</title>
       <link>https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</link>
       <description>Understand the differences between Layer 3, Layer 4, and Layer 7 firewalls, and learn where virtual firewalls fit in cloud and hybrid network security architectures.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/layer-3-vs-layer-4-vs-layer-7-firewalls-where-do-virtual-firewalls-fit-in-</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SFP, SFP+, SFP28, QSFP+, QSFP28: Choosing the Right Transceiver for Your SonicWall Deployment</title>
-      <link>https://www.sonicwall.com/blog/the-small-components-behind-the-high-performance-of-sonicwall-connectivity</link>
-      <description>Learn how SFP, SFP+, SFP28, QSFP+, and QSFP28 transceivers work, when to use each module, and how to validate compatibility across SonicWall firewall and switch platforms.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-small-components-behind-the-high-performance-of-sonicwall-connectivity</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js WebSocket Upgrade Handler SSRF - CVE-2026-44578</title>
-      <link>https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</link>
-      <description>High-severity CVSS 8.6 SSRF in self-hosted Next.js servers via crafted WebSocket upgrade requests. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/next-js-websocket-upgrade-handler-ssrf</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NGINX Rewrite Module Heap Overflow RCE - CVE-2026-42945</title>
@@ -259,13 +275,6 @@
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Extend Firewall Security to Remote Workers with SonicWall CSE</title>
-      <link>https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</link>
-      <description>Discover how SonicWall CSE delivers enterprise-grade network protection to remote and hybrid workers, including content filtering, malicious domain blocking, and sandbox analysis.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SonicWall Cloud Secure Edge Expands PoP Network</title>
       <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</link>
       <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
@@ -280,32 +289,11 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Indicator of Compromise IP Protection in SonicOS 8: How It Works and Why It Matters</title>
-      <link>https://www.sonicwall.com/blog/stop-breaches-before-they-escalate-indicator-of-compromise-ip-protection-in-sonicos-8</link>
-      <description>Learn how Indicator of Compromise (IoC) IP Protection in SonicOS 8 automatically blocks malicious IP connections in real time, stopping malware command-and-control before attackers can act. No manual rules. Hourly updates.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/stop-breaches-before-they-escalate-indicator-of-compromise-ip-protection-in-sonicos-8</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Patching Isn't Enough: Active Cybersecurity Management 2026 | SonicWall</title>
       <link>https://www.sonicwall.com/blog/why-patching-isn-t-enough-active-cybersecurity-management-2026-sonicwall</link>
       <description>Patching is necessary but not sufficient. Discover why active management, continuous monitoring, and secure-by-default practices define effective cybersecurity in 2026.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/why-patching-isn-t-enough-active-cybersecurity-management-2026-sonicwall</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>H2O-3 PostgreSQL JDBC socketFactory RCE - CVE-2026-3960</title>
-      <link>https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in H2O-3 ImportSQLTable abuses PostgreSQL JDBC socketFactory and Spring gadget. SonicWall IPS signature available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/h2o-3-unauthenticated-rce-via-postgresql-jdbc-socketfactory</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Key Benefits of Virtual Firewalls for Cloud and Hybrid Environments</title>
-      <link>https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</link>
-      <description>Discover the 8 core benefits of virtual firewalls, from east-west traffic inspection to cloud compatibility. Learn how SonicWall virtual firewalls secure modern distributed and multi-cloud environments.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/8-key-benefits-of-virtual-firewalls-for-cloud-and-hybrid-environments</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stateful vs Stateless Firewall: Key Differences in Virtual Firewalls | SonicWall</title>

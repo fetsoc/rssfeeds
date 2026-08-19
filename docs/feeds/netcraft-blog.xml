@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 12:29:19 +0000</lastBuildDate>
-    <item>
-      <title>Phone Scams Explained: How Criminal Call Centers Exploit Trust</title>
-      <link>https://www.netcraft.com/blog/phone-scams-what-happens-behind-the-switchboard</link>
-      <description>Phone scams cost Americans $12.5B in 2024. Discover how organized fraud operations use spoofing, smishing, and psychological manipulation—and what actually stops them.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/phone-scams-what-happens-behind-the-switchboard</guid>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 18:21:50 +0000</lastBuildDate>
     <item>
       <title>How to Monitor for Phishing Attacks Targeting Your Customers</title>
       <link>https://www.netcraft.com/blog/how-to-monitor-for-phishing-attacks-targeting-your-customers</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/detecting-cloaking-geofencing-evasion</link>
       <description>Learn how modern DRP platforms detect and bypass cloaking, geo-fencing, and AI-powered evasion techniques before victims are targeted.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/detecting-cloaking-geofencing-evasion</guid>
+    </item>
+    <item>
+      <title>Best Digital Risk Protection Providers in 2026</title>
+      <link>https://www.netcraft.com/blog/best-digital-risk-protection-providers</link>
+      <description>Compare leading DRP vendors including their strengths, use cases, and what to consider when choosing a DRP vendor.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/best-digital-risk-protection-providers</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
