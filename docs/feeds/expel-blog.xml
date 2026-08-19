@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 18:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:49:01 +0000</lastBuildDate>
+    <item>
+      <title>Expel Quarterly Threat Report, volume I: Q3 2024 by the numbers</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</link>
+      <description>Volume I of our Quarterly Threat Report summarizes key findings and stats from Q3 of 2024. Learn what to focus on right now.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</guid>
+      <pubDate>Thu, 17 Oct 2024 13:16:34 +0000</pubDate>
+    </item>
     <item>
       <title>Expel Quarterly Threat Report Q3 2024, volume II: CAPTCHA trick or treat</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-volume-ii-captcha-trick-or-treat/</link>
@@ -233,25 +240,11 @@
       <pubDate>Wed, 26 Feb 2025 15:11:26 +0000</pubDate>
     </item>
     <item>
-      <title>Expel named a Leader in The Forrester Wave™: MDR Services, Q1 2025</title>
-      <link>https://expel.com/blog/expel-named-a-leader-in-the-forrester-wave-mdr-services-q1-2025/</link>
-      <description>Expel named a Leader in The Forrester Wave™: Managed Detection and Response Services, Q1 2025. Get the report to see how we stack up against 9 others.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-named-a-leader-in-the-forrester-wave-mdr-services-q1-2025/</guid>
-      <pubDate>Thu, 27 Feb 2025 15:02:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Expletive spotlight: Black History Month</title>
       <link>https://expel.com/blog/expletive-spotlight-black-history-month/</link>
       <description>To round out our Black History Month celebrations, we asked Expletives to share Black innovators in tech who inspire them.</description>
       <guid isPermaLink="false">https://expel.com/blog/expletive-spotlight-black-history-month/</guid>
       <pubDate>Fri, 28 Feb 2025 17:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Expel MDR protects your customers and capital</title>
-      <link>https://expel.com/blog/how-expel-mdr-protects-your-customers-and-capital/</link>
-      <description>Expel MDR protects customers and capital, and is a great cybersecurity partner for financial institutions and organizations.</description>
-      <guid isPermaLink="false">https://expel.com/blog/how-expel-mdr-protects-your-customers-and-capital/</guid>
-      <pubDate>Mon, 03 Mar 2025 21:54:49 +0000</pubDate>
     </item>
     <item>
       <title>Expel MDR customers benefit from expanded threat intel experience</title>
@@ -345,18 +338,25 @@
       <pubDate>Fri, 04 Apr 2025 13:38:33 +0000</pubDate>
     </item>
     <item>
-      <title>Comparison of cloud resources (part III): Demystifying cloud security tools in the platform and application layer</title>
-      <link>https://expel.com/blog/comparison-of-cloud-resources-part-iii/</link>
-      <description>This is part three of our four-part blog series on comparing cloud resources. Part three defines tools used in the platform and app layers.</description>
-      <guid isPermaLink="false">https://expel.com/blog/comparison-of-cloud-resources-part-iii/</guid>
-      <pubDate>Mon, 07 Apr 2025 17:37:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Closing the revolving door in security: solving FinServ staffing struggles</title>
       <link>https://expel.com/blog/closing-the-revolving-door-in-security-solving-finserv-staffing-struggles/</link>
       <description>Expel can help you maximize your FinServ security team's capabilities with our managed detection and response (MDR) and automation offerings.</description>
       <guid isPermaLink="false">https://expel.com/blog/closing-the-revolving-door-in-security-solving-finserv-staffing-struggles/</guid>
       <pubDate>Tue, 15 Apr 2025 13:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel named a Trusted Cloud Provider by CSA—what that means (and why it matters)</title>
+      <link>https://expel.com/blog/expel-named-a-trusted-cloud-provider-by-csa/</link>
+      <description>Expel was recently named a Trusted Cloud Provider by the Cloud Security Alliance (CSA), and joined CSA's STAR Level 1 program.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-named-a-trusted-cloud-provider-by-csa/</guid>
+      <pubDate>Wed, 16 Apr 2025 16:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>The great SIEM paradox: does more data equal better security?</title>
+      <link>https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</link>
+      <description>More data doesn't equate to better security. Understand what data belongs in a SIEM (and what doesn't), and how Expel MDR can help.</description>
+      <guid isPermaLink="false">https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</guid>
+      <pubDate>Thu, 17 Apr 2025 14:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
