@@ -7,22 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 06:32:00 +0000</lastBuildDate>
-    <item>
-      <title>Cybercriminal Forums and the Russian Language Scene - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cybercriminal-forums-and-the-russian-language-scene</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cybercriminal-forums-and-the-russian-language-scene</guid>
-    </item>
-    <item>
-      <title>Cyberattacks on the utilities sector - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyberattacks-on-the-utilities-sector</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyberattacks-on-the-utilities-sector</guid>
-    </item>
-    <item>
-      <title>Cyber threats and the energy sector: an overview - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyber-threats-and-the-energy-sector-an-overview</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threats-and-the-energy-sector-an-overview</guid>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 12:31:08 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Intelligence Trends Financial Institutions Can’t Ignore in 2026 - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026</link>
@@ -33,6 +18,18 @@
       <title>Cyber Threat Intelligence to Counter Activist Campaigners - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence for the Insurance Sector: A Sector Under Two Kinds of Pressure  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-the-insurance-sector-a-sector-under-two-kinds-of-pressure</link>
+      <description>The insurance sector faces mounting pressure from both commercial growth and a persistent, evolving cyber threat landscape. This blog examines why insurers remain key targets, where their security gaps lie, and how cyber threat intelligence helps close the gap between ambition and resilience.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-the-insurance-sector-a-sector-under-two-kinds-of-pressure</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence for Fintech: A Sector Built for Speed, Targeted for the Same Reason  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-fintech-a-sector-built-for-speed-targeted-for-the-same-reason</link>
+      <description>UK fintech is one of the country's fastest-growing sectors, but its reliance on APIs, partnerships, and real-time data makes it a prime target for cybercriminals. This blog explores why fintechs are so exposed, what the latest UK data reveals about breach costs and supply chain risk, and how cyber threat intelligence helps firms grow securely.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-fintech-a-sector-built-for-speed-targeted-for-the-same-reason</guid>
     </item>
     <item>
       <title>Cyber Supply Chain Risk Management: Challenges and Best Practices - CYJAX</title>
@@ -201,6 +198,12 @@
       <title>The Ultimate Guide To Ransomware: Understanding, Identifying and Preventing Attacks - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/a-guide-to-ransomware-identify-and-defend-against-cyberattacks</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-guide-to-ransomware-identify-and-defend-against-cyberattacks</guid>
+    </item>
+    <item>
+      <title>A Guide to Cybersecurity Laws and Regulations in the UK  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/a-guide-to-cybersecurity-laws-and-regulations-in-the-uk</link>
+      <description>The UK's compliance environment is shifting fast as organisations move to the cloud and accelerate digital transformation. This guide breaks down the core cybersecurity laws and regulations UK organisations need to know, from data protection statutes to sector-specific frameworks, and what recent government data reveals about the threat landscape driving them.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-guide-to-cybersecurity-laws-and-regulations-in-the-uk</guid>
     </item>
     <item>
       <title>A DLS EMERGEncy! -  Record breaking extortion group DLS emergence in 2025 - CYJAX</title>

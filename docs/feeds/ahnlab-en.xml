@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 06:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:32:41 +0000</lastBuildDate>
     <item>
       <title>June 2026 Dark Web Threat Actor Trend Report</title>
       <link>https://asec.ahnlab.com/en/94417/</link>
@@ -163,13 +163,6 @@
       <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea</title>
       <link>https://asec.ahnlab.com/en/94995/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases in which attackers targeted web servers in Korea to install SoftEther VPN. Attack cases involving the installation of SoftEther VPN, an open-source VPN, were previously discussed in the 2024 ASEC blog post titled “Analysis of Attack Cases Targeting ERP Servers in Korea to Install SoftEther [&amp;#8230;]</description>
@@ -188,6 +181,13 @@
       <link>https://asec.ahnlab.com/en/94917/</link>
       <description>Note The July 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—active on the deep web and dark web. It is explicitly noted that the factual accuracy of some content could not be verified. Major Issues Handala claimed to have compromised the core infrastructure of an Internet service provider in [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94917/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

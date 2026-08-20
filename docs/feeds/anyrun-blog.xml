@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 06:33:26 +0000</lastBuildDate>
-    <item>
-      <title>Building Resilience Against AiTM Phishing: What SOC Leaders Should Know</title>
-      <link>https://any.run/cybersecurity-blog/enterprise-phishing-resilience/</link>
-      <description>&lt;p&gt;Email gateways, endpoint controls, and file-centric sandboxing remain essential layers of defense. But many of today&amp;#8217;s phishing attacks unfold in ways they weren&amp;#8217;t designed to fully expose.  How do you build resilience against modern phishing if it has outgrown your SOC’s investigation workflows? Rethinking Phishing Investigations&amp;#160;in Modern SOCs&amp;#160; While&amp;#160;initial investigation workflows&amp;#160;were designed around malicious files and processes, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/enterprise-phishing-resilience/"&gt;Building Resilience Against AiTM Phishing: What SOC Leaders Should Know&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/enterprise-phishing-resilience/</guid>
-      <pubDate>Tue, 28 Jul 2026 09:03:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 12:32:40 +0000</lastBuildDate>
     <item>
       <title>The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market</title>
       <link>https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/proactive-threat-hunting/"&gt;Hunt Malware &amp;amp; Phishing Threats with ANY.RUN for Proactive Enterprise Security&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/proactive-threat-hunting/</guid>
       <pubDate>Wed, 19 Aug 2026 10:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korean IT Workers Scheme: Detection IOCs and Tactics for Government and Corporate SOCs</title>
+      <link>https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/</link>
+      <description>&lt;p&gt;The infiltration of North Korean IT workers into American and European organizations has evolved into a sophisticated operation that bypasses traditional security perimeters. By using forged identities and AI-assisted workflows, these operatives successfully transition from external applicants to trusted insiders. Recent investigations highlight that this scheme is no longer limited to the private sector, posing [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/"&gt;North Korean IT Workers Scheme: Detection IOCs and Tactics for Government and Corporate SOCs&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/</guid>
+      <pubDate>Thu, 20 Aug 2026 07:58:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
