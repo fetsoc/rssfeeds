@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 00:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:33:06 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -20,13 +20,6 @@
       <description>Empower analysts, revolutionize cybersecurity defense. Analyst1: the next-gen threat intelligence platform. Take action, boost security posture!</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</guid>
       <pubDate>Tue, 11 Aug 2020 01:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defense Innovation Unit (DIU) Chooses Analyst1 to Aid in its Transformation of Cyber Defense Operations | Analyst1</title>
-      <link>https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</link>
-      <description>Defense Innovation Unit selects Analyst1 to transform cyber defense operations. Gain insights, enhance threat detection, and strengthen national security.</description>
-      <guid isPermaLink="false">https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</guid>
-      <pubDate>Thu, 13 Aug 2020 01:01:13 +0000</pubDate>
     </item>
     <item>
       <title>SC Media Group Test Review | Analyst1</title>
@@ -71,18 +64,11 @@
       <pubDate>Wed, 11 Nov 2020 01:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom Mafia - Analysis of the World's First Ransomware Cartel | Analyst1</title>
-      <link>https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</link>
-      <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
-      <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
-      <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
-      <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
-      <guid isPermaLink="false">https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</guid>
-      <pubDate>Fri, 14 May 2021 01:01:34 +0000</pubDate>
+      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
+      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
+      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
+      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
+      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
       <title>New Ransomware Turns to Disruption and Sabotage | Analyst1</title>
@@ -134,6 +120,13 @@
       <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
     </item>
     <item>
+      <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
+      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
+      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
+      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
+      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
+    </item>
+    <item>
       <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
       <link>https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</link>
       <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
@@ -146,13 +139,6 @@
       <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
       <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
       <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-2/</link>
-      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 2. Listen to Jon tell his story with additional details only found in the audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-2/</guid>
-      <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
     </item>
     <item>
       <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
@@ -260,6 +246,13 @@
       <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
     </item>
     <item>
+      <title>Is it time to replace your legacy TIP? | Analyst1</title>
+      <link>https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</link>
+      <description>Discover why replacing your legacy threat intelligence platform is critical to improving your attack surface security.</description>
+      <guid isPermaLink="false">https://analyst1.com/is-it-time-to-replace-your-legacy-tip/</guid>
+      <pubDate>Thu, 23 May 2024 17:59:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Threat Actors Matter | Analyst1</title>
       <link>https://analyst1.com/why-threat-actors-matter/</link>
       <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
@@ -335,6 +328,13 @@
       <description>Supercharge CISA's defense against cyber threats with Analyst1. Automate data collection, correlation, and empower analysts. Discover why it's their top choice.</description>
       <guid isPermaLink="false">https://analyst1.com/a-step-above-why-analyst1-is-cisas-threat-intelligence-platform-of-choice/</guid>
       <pubDate>Thu, 20 Feb 2025 09:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyst1 Launches A1Defender Partner Program to Empower Channel Partners with Advanced Threat Intelligence | Analyst1</title>
+      <link>https://analyst1.com/analyst1-launches-a1defender-partner-program-to-empower-channel-partners-with-advanced-threat-intelligence/</link>
+      <description>Reston, VA – (March 27, 2025) – Analyst1, a leader in advanced threat intelligence and cyber defense solutions, today unveiled the A1Defender Partner Program, a comprehensive initiative designed to equip resellers, system integrators, and solution providers with the tools, expertise, and intelligence needed to drive revenue and enhance customer security. The A1Defender Partner Program allows […]</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-launches-a1defender-partner-program-to-empower-channel-partners-with-advanced-threat-intelligence/</guid>
+      <pubDate>Thu, 27 Mar 2025 12:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Unveils Game-Changing Intelligence Management Features in v2.11.0 Release | Analyst1</title>
