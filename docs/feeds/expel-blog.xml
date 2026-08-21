@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 12:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 18:24:51 +0000</lastBuildDate>
     <item>
       <title>Expel Quarterly Threat Report, volume I: Q3 2024 by the numbers</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</link>
@@ -35,13 +35,6 @@
       <description>Volume IV of our Q3 2024 Quarterly Threat Report focuses on phishing-as-a-service (PaaS). Learn what to focus on right now.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iv-suspicious-infrastructure-from-phishing-as-a-service-phaas-platforms/</guid>
       <pubDate>Wed, 23 Oct 2024 13:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security alert: Fortinet zero-day vulnerability</title>
-      <link>https://expel.com/blog/security-alert-fortinet-zero-day-vulnerability/</link>
-      <description>Fortinet has disclosed a zero-day vulnerability that needs to be patched immediately, or the protocol connection to the internet should be disabled.</description>
-      <guid isPermaLink="false">https://expel.com/blog/security-alert-fortinet-zero-day-vulnerability/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:33:49 +0000</pubDate>
     </item>
     <item>
       <title>Securing your cloud investment: an interactive panel with AWS, Expel &amp; Wiz</title>
@@ -168,13 +161,6 @@
       <description>Your favorite MDR provider asked our employees to submit their festive holiday pets for your enjoyment, and they delivered! Happy holidays!</description>
       <guid isPermaLink="false">https://expel.com/blog/paws-your-day-for-some-holiday-cheer/</guid>
       <pubDate>Mon, 23 Dec 2024 18:12:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security alert: Christmas Day Chrome extension compromise</title>
-      <link>https://expel.com/blog/security-alert-christmas-day-chrome-extension-compromise/</link>
-      <description>At least five Chrome extensions, including the Cyberhaven extension, were targeted on Christmas Day. Here's what you need to know.</description>
-      <guid isPermaLink="false">https://expel.com/blog/security-alert-christmas-day-chrome-extension-compromise/</guid>
-      <pubDate>Fri, 27 Dec 2024 17:12:33 +0000</pubDate>
     </item>
     <item>
       <title>A year in review: 2024 at Expel</title>
@@ -357,6 +343,20 @@
       <description>More data doesn't equate to better security. Understand what data belongs in a SIEM (and what doesn't), and how Expel MDR can help.</description>
       <guid isPermaLink="false">https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</guid>
       <pubDate>Thu, 17 Apr 2025 14:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Join Expel &amp; Forrester for a discussion on threat hunting and detection</title>
+      <link>https://expel.com/blog/join-expel-forrester-for-a-discussion-on-threat-hunting-and-detection/</link>
+      <description>Join Expel &amp; Forrester on May 7 at 2pm ET for a live webinar discussing threat hunting and detection strategies.</description>
+      <guid isPermaLink="false">https://expel.com/blog/join-expel-forrester-for-a-discussion-on-threat-hunting-and-detection/</guid>
+      <pubDate>Mon, 21 Apr 2025 21:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel launches proactive defense for email threats</title>
+      <link>https://expel.com/blog/expel-launches-proactive-defense-for-email-threats/</link>
+      <description>Expel's new integrations expand our comprehensive MDR coverage against phishing, business email compromise (BEC), and inbox-based attacks.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-launches-proactive-defense-for-email-threats/</guid>
+      <pubDate>Tue, 22 Apr 2025 13:22:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
