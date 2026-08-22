@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 12:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:18:19 +0000</lastBuildDate>
     <item>
       <title>XZ Utils Backdoor CVE-2024-3094 - ThreatMon</title>
       <link>https://threatmon.io/xz-utils-backdoor-cve-2024-3094/</link>
