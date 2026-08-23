@@ -7,26 +7,26 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 06:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:23:37 +0000</lastBuildDate>
+    <item>
+      <title>June 2026 Dark Web Issue Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94416/</link>
+      <description>Note The June 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of the sources, it is sometimes difficult to fully verify the accuracy of certain information, and this is noted accordingly. Major Issue On Hasan’s BreachForums, there was a series of [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94416/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94411/</link>
+      <description>Note The June 2026 Dark Web Breach Incident Trend Report is based on major data breach cases posted on the deep web and dark web forums. Due to the nature of some sources, it was difficult to fully verify the accuracy of certain information, so the report includes content that requires further verification. Major Issue [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94411/</guid>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ransom &amp; Dark Web  Issues Week 2, July 2026</title>
       <link>https://asec.ahnlab.com/en/94406/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Saudi Arabian Medical Records Breach, For Sale on Cybercrime Forum Irish ICT Company Data Leaked, For Sale on Cybercrime Forum LeakNet Breach Targets US Healthcare Insurer, Shared on Cybercrime Forums</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94406/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Phishing Emails Disguised as Project Proposals</title>
-      <link>https://asec.ahnlab.com/en/94433/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently confirmed that phishing emails disguised as project proposals are being circulated. The body of the email pretends to request that the proposal and confirmed delivery schedule be submitted as soon as possible, and prompts the recipient to download the attached compressed file. &amp;#160; [Figure 1] Phishing email body [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94433/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94417/</link>
-      <description>Note The June 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—operating on the deep web and dark web. It is noted that the accuracy of some information could not be verified. Major Issues In Malaysia, a series of website defacement and compromise incidents targeting local development agencies and public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94417/</guid>
       <pubDate>Wed, 08 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -184,17 +184,17 @@
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>July 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95066/</link>
-      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
       <link>https://asec.ahnlab.com/en/95000/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95066/</link>
+      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
