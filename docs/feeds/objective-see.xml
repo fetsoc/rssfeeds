@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/objective-see.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 06:38:55 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2020–9934: Bypassing TCC for Unauthorized Access</title>
-      <link>https://objective-see.org/blog/blog_0x4C.html</link>
-      <description>In this guest blog post, security researcher Matt Shockley describes a lovely security vulnerability he uncovered in macOS. This bug allowed for a complete bypass of TCC's draconian entitlement checks, all without writing a single line of code!</description>
-      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4C.html</guid>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 12:31:06 +0000</lastBuildDate>
     <item>
       <title>CVE-2020–9854: "Unauthd"</title>
       <link>https://objective-see.org/blog/blog_0x4D.html</link>
@@ -357,6 +350,13 @@
       <description>macOS stealers continue to be a pervasive threat! In this guest blog post, one of our #OBTS student scholars, Pablo Redondo Castro, shares the technical details of a macOS stealer (likely AMOS-related) he analyzed.</description>
       <guid isPermaLink="false">https://objective-see.org/blog/blog_0x88.html</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting (Evil) Dylibs</title>
+      <link>https://objective-see.org/blog/blog_0x89.html</link>
+      <description>Attackers are increasingly turning to dylibs to host malicious code, gain stealth, and inherit the trust of legitimate processes. In this blog post, we explore how to statically enumerate dylib dependencies, inspect libraries loaded into running processes, and leverage Endpoint Security to detect, and even block, malicious dylibs at load time.</description>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x89.html</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 06:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:33:39 +0000</lastBuildDate>
     <item>
       <title>Why Most OT Cyber Incidents Never Reach the OT Environment</title>
       <link>https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/</link>
