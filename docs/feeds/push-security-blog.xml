@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 12:33:20 +0000</lastBuildDate>
-    <item>
-      <title>How attackers defeat detections based on page signatures</title>
-      <link>https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection-p2</link>
-      <description>How attackers are breaking detection signatures designed to identify phishing sites impersonating real login pages.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/how-aitm-phishing-kits-evade-detection-p2</guid>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 18:33:18 +0000</lastBuildDate>
     <item>
       <title>Cross-IdP impersonation: hijacking SSO using fraudulent IdPs</title>
       <link>https://pushsecurity.com/blog/cross-idp-impersonation</link>
@@ -357,6 +350,13 @@
       <description>PhaaS industrialization, Scattered Spider copycats, and AI-augmented tooling — what the threat landscape looks like in 2026 so far.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/browser-threat-landscape-mid-year-update-2026</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How authorization phishing attacks bypass MFA and passkeys</title>
+      <link>https://pushsecurity.com/blog/authorization-phishing</link>
+      <description>Why attackers are pivoting to authorization attacks to get around authentication controls, how they work, and what security teams can do about them.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/authorization-phishing</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
