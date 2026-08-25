@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 06:34:18 +0000</lastBuildDate>
-    <item>
-      <title>The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market</title>
-      <link>https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/</link>
-      <description>&lt;p&gt;Cyber risk is increasing, but so is the cost of managing it. More than 514,000 cybersecurity job listings appeared in the US between May 2024 and April 2025, while the mean annual wage for an information security&amp;#160;analyst reached $132,510.&amp;#160; Even after the budget is approved, hiring can take three to six months, with additional time [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/"&gt;The US CFO’s Playbook: How to Reduce Cyber Risk Without Scaling SOC Team in a Tight Labor Market&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/cfo-cyber-risk-playbook/</guid>
-      <pubDate>Wed, 29 Jul 2026 09:36:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 12:33:48 +0000</lastBuildDate>
     <item>
       <title>Threat Coverage Digest: New TI Report, Threat Research and 750+ Detection Rules</title>
       <link>https://any.run/cybersecurity-blog/july-threat-coverage-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/"&gt;North Korean IT Workers Scheme: Detection IOCs and Tactics for Government and Corporate SOCs&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/</guid>
       <pubDate>Thu, 20 Aug 2026 07:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign</title>
+      <link>https://any.run/cybersecurity-blog/us-campaign-malware-analysis/</link>
+      <description>&lt;p&gt;As ANY.RUN analysis shows, a campaign that initially appears to target Canadians with fake Canada Revenue Agency (CRA) T4 tax documents is actually part of a much broader remote-access campaign spanning 46 countries, with 45% of observed activity associated with the United States. The attackers impersonate trusted organizations and document types to trick victims into [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-campaign-malware-analysis/"&gt;A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-campaign-malware-analysis/</guid>
+      <pubDate>Tue, 25 Aug 2026 10:40:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

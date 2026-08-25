@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 06:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:32:41 +0000</lastBuildDate>
     <item>
       <title>How to Monitor for Phishing Attacks Targeting Your Customers</title>
       <link>https://www.netcraft.com/blog/how-to-monitor-for-phishing-attacks-targeting-your-customers</link>
