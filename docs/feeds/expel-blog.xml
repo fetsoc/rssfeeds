@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 12:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:27:31 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday roundup for October 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-october-2024/</link>
+      <description>The October 2024 edition of Patch Tuesday is live, including 117 published CVEs from Microsoft. Here are our top takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-october-2024/</guid>
+      <pubDate>Wed, 09 Oct 2024 20:21:43 +0000</pubDate>
+    </item>
     <item>
       <title>Five security takeaways for Cybersecurity Awareness Month (and every month)</title>
       <link>https://expel.com/blog/five-security-takeaways-for-cybersecurity-awareness-month-and-every-month/</link>
@@ -49,13 +56,6 @@
       <description>Expel, AWS &amp; Wiz joined forces with customers to discuss the challenges of cloud security today, and what's to come in the future.</description>
       <guid isPermaLink="false">https://expel.com/blog/securing-your-cloud-investment-an-interactive-panel-with-aws-expel-wiz/</guid>
       <pubDate>Fri, 25 Oct 2024 14:51:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report Q3 2024, volume V: Preparing for software supply chain risk</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-v-preparing-for-software-supply-chain-risk/</link>
-      <description>Volume V of our Q3 2024 Quarterly Threat Report focuses on preparing for software supply chain risk. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-v-preparing-for-software-supply-chain-risk/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:35:45 +0000</pubDate>
     </item>
     <item>
       <title>Mandia unplugged: a recap of our fireside chat with our newest board member, Kevin Mandia</title>
