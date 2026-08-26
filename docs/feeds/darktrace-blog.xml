@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 12:35:00 +0000</lastBuildDate>
-    <item>
-      <title>Balada Injector: Darktrace’s Investigation into the Malware Exploiting WordPress Vulnerabilities</title>
-      <link>https://www.darktrace.com/blog/balada-injector-darktraces-investigation-into-the-malware-exploiting-wordpress-vulnerabilities</link>
-      <description>This blog explores Darktrace’s detection of Balada Injector, a malware known to exploit vulnerabilities in WordPress to gain unauthorized access to networks. Darktrace was able to define numerous use-cases within customer environments which followed previously identified patterns of activity spikes across multiple weeks.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/balada-injector-darktraces-investigation-into-the-malware-exploiting-wordpress-vulnerabilities</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 19:39:04 +0000</lastBuildDate>
     <item>
       <title>Lessons from the Capital One Breach on Cloud Security</title>
       <link>https://www.darktrace.com/blog/back-to-square-one-the-capital-one-breach-proved-we-must-rethink-cloud-security</link>
@@ -333,6 +326,13 @@
       <link>https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</link>
       <description>Hear from a guest author how Darktrace identified an insider breach from a contractor's laptop, scanned the device, and removed the malware quickly.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing AI Agents: What NCSC Guidance Means for Security Teams</title>
+      <link>https://www.darktrace.com/blog/ai-agents-securing-the-path-from-intent-to-action</link>
+      <description>NCSC guidance highlights the need to secure agentic AI. Discover why continuous monitoring and behavioral analytics are critical to securing AI agents.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-agents-securing-the-path-from-intent-to-action</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

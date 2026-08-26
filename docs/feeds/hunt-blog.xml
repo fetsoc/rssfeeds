@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 12:34:16 +0000</lastBuildDate>
-    <item>
-      <title>Operation SouthNet: SideWinder Targets South Asia Maritime</title>
-      <link>https://hunt.io/blog/operation-southnet-sidewinder-south-asia-maritime-phishing</link>
-      <description>SideWinder’s Operation SouthNet: South Asia phishing on Netlify/pages.dev, Zimbra/Outlook lures, and open directories. Maritime focus. IOCs included. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/operation-southnet-sidewinder-south-asia-maritime-phishing</guid>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 19:38:29 +0000</lastBuildDate>
     <item>
       <title>AdaptixC2 Uncovered: Capabilities, Tactics &amp; Hunting Strategies</title>
       <link>https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io recovered a single operator's toolkit from an open directory: 14,530+ Dahua cameras compromised across Ukraine and Russia in 35 days. Inside the campaign</description>
       <guid isPermaLink="false">https://hunt.io/blog/operation-cameraswarm-dahua-cameras-compromised</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities</title>
+      <link>https://hunt.io/blog/chinese-speaking-operator-philippine-nuclear-naval-contractor</link>
+      <description>An exposed staging server reveals ownCloud pre-signed URL abuse against a Philippine nuclear agency and exploitation of a naval contractor's WordPress website.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/chinese-speaking-operator-philippine-nuclear-naval-contractor</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
