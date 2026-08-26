@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 06:35:31 +0000</lastBuildDate>
-    <item>
-      <title>Threat Coverage Digest: New TI Report, Threat Research and 750+ Detection Rules</title>
-      <link>https://any.run/cybersecurity-blog/july-threat-coverage-2026/</link>
-      <description>&lt;p&gt;July brought another set of threat coverage updates designed to help security teams work faster and with more confidence. ANY.RUN added 42 behavior signatures, 11 YARA rules, and&amp;#160;703&amp;#160;Suricata rules, giving SOCs broader visibility across files, malware behavior, and network activity.&amp;#160; We also published new threat intelligence and technical research on active malware and phishing campaigns. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/july-threat-coverage-2026/"&gt;Threat Coverage Digest: New TI Report, Threat Research and 750+ Detection Rules&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/july-threat-coverage-2026/</guid>
-      <pubDate>Thu, 30 Jul 2026 06:13:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 12:36:12 +0000</lastBuildDate>
     <item>
       <title>Major Cyber Attacks in July 2026: US and EU Organizations Hit by Phishing, RATs, and Stealers</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-july-2026/</link>
@@ -35,7 +27,7 @@
     <item>
       <title>Smile, You’re on Camera. Part 2: Hiring Lazarus APT’s IT Workers in a Fake DeFi Startup</title>
       <link>https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</link>
-      <description>&lt;p&gt;Editor’s note: This work is a collaboration between Mauro Eldritch from BCA LTD, a company dedicated to threat intelligence and hunting, Heiner García from NorthScan, a threat intelligence initiative uncovering North Korean IT worker infiltration, and ANY.RUN, the leading company in malware analysis and threat intelligence. The article was written by Mauro and Heiner. Key [&amp;#8230;]&lt;/p&gt;
+      <description>&lt;p&gt;Editor’s note: This work is a collaboration between Mauro Eldritch from BCA LTD (follow Mauro on X), a company dedicated to threat intelligence and hunting, Heiner García from NorthScan (follow Heiner on X), a threat intelligence initiative uncovering North Korean IT worker infiltration, and ANY.RUN, the leading company in malware analysis and threat intelligence. The [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/"&gt;Smile, You&amp;#8217;re on Camera. Part 2: Hiring Lazarus APT&amp;#8217;s IT Workers in a Fake DeFi Startup&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</guid>
       <pubDate>Mon, 10 Aug 2026 12:41:39 +0000</pubDate>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-campaign-malware-analysis/"&gt;A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-campaign-malware-analysis/</guid>
       <pubDate>Tue, 25 Aug 2026 10:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Finance Under Phishing Pressure: What the SOC Data Reveals?</title>
+      <link>https://any.run/cybersecurity-blog/phishing-us-finance/</link>
+      <description>&lt;p&gt;With modern campaigns such as Vercel-hosted RMM attacks, the scale and security impact of phishing in US finance should not be understated. As threats get increasingly harder to detect, the phishing challenge raises the stakes in the industry. Legitimate services and tools used in daily workflows across corporate America are increasingly abused to deliver phishing [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-us-finance/"&gt;US Finance Under Phishing Pressure: What the SOC Data Reveals?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-us-finance/</guid>
+      <pubDate>Wed, 26 Aug 2026 09:17:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
