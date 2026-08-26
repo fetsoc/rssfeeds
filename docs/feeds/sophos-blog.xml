@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 00:51:24 +0000</lastBuildDate>
-    <item>
-      <title>N-able N-central exploitation results in RMM tool deployment</title>
-      <link>https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment</link>
-      <description>&lt;p&gt;After compromising systems via CVE-2026-18577, threat actors use the additional RMM tools and network tunnels to establish persistent remote access&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 06:35:37 +0000</lastBuildDate>
     <item>
       <title>Interlock ransomware gang creates volatile situation</title>
       <link>https://www.sophos.com/en-us/blog/2608-volatility-interlock</link>
@@ -70,6 +63,13 @@
       <description>&lt;p&gt;A year of MDR casework shows attackers repeatedly exploiting demand for AI tools&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Ranked #1 Overall in Endpoint, XDR, MDR, and Firewall in the G2 Fall 2026 Reports</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports</link>
+      <description>&lt;p&gt;Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
