@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 06:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:36:12 +0000</lastBuildDate>
+    <item>
+      <title>Expel welcomes Kevin Mandia to our board of directors</title>
+      <link>https://expel.com/blog/expel-welcomes-kevin-mandia-to-our-board-of-directors/</link>
+      <description>Security industry luminary joins our board to help guide us on the next chapter in our journey.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-welcomes-kevin-mandia-to-our-board-of-directors/</guid>
+      <pubDate>Tue, 01 Oct 2024 13:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patch Tuesday roundup for October 2024</title>
       <link>https://expel.com/blog/patch-tuesday-roundup-for-october-2024/</link>
@@ -49,13 +56,6 @@
       <description>Volume IV of our Q3 2024 Quarterly Threat Report focuses on phishing-as-a-service (PaaS). Learn what to focus on right now.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iv-suspicious-infrastructure-from-phishing-as-a-service-phaas-platforms/</guid>
       <pubDate>Wed, 23 Oct 2024 13:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Securing your cloud investment: an interactive panel with AWS, Expel &amp; Wiz</title>
-      <link>https://expel.com/blog/securing-your-cloud-investment-an-interactive-panel-with-aws-expel-wiz/</link>
-      <description>Expel, AWS &amp; Wiz joined forces with customers to discuss the challenges of cloud security today, and what's to come in the future.</description>
-      <guid isPermaLink="false">https://expel.com/blog/securing-your-cloud-investment-an-interactive-panel-with-aws-expel-wiz/</guid>
-      <pubDate>Fri, 25 Oct 2024 14:51:39 +0000</pubDate>
     </item>
     <item>
       <title>Mandia unplugged: a recap of our fireside chat with our newest board member, Kevin Mandia</title>
