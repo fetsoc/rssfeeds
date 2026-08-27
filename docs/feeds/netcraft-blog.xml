@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 19:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:22:22 +0000</lastBuildDate>
     <item>
       <title>February 2026 Web Server Survey | Netcraft</title>
       <link>https://www.netcraft.com/blog/february-2026-web-server-survey</link>
