@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 08:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:39:43 +0000</lastBuildDate>
     <item>
       <title>CMMC is (Not) Cancelled</title>
       <link>https://trustedsec.com/blog/cmmc-is-not-cancelled</link>
@@ -74,7 +74,7 @@
     <item>
       <title>SpooNMAP Grows Up: Findings, Local LLM Detection, and a Whole Lot Less Waiting</title>
       <link>https://trustedsec.com/blog/spoonmap-grows-up-findings-local-llm-detection-and-a-whole-lot-less-waiting</link>
-      <description>&amp;lt;p&amp;gt;A while back, we released SpooNMAP. A little wrapper that lets masscan do what masscan does best (find open ports at ludicrous speed) and then hands the results to Nmap for the banner grabbing it does best. The whole…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;SpooNMAP used to hand you a list of open ports; the latest update tells you which ones actually matter. In this blog, we detail the new automated findings reporting, LLM detection, and performance improvements.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/spoonmap-grows-up-findings-local-llm-detection-and-a-whole-lot-less-waiting</guid>
       <pubDate>Tue, 25 Aug 2026 04:00:00 +0000</pubDate>
     </item>
