@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 21:37:13 +0000</lastBuildDate>
-    <item>
-      <title>Sophos DNS Protection update for GenAI</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-dns-genai</link>
-      <description>&lt;p&gt;New Generative AI category is now available in DNS filtering policy and reporting.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-dns-genai</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 08:15:45 +0000</lastBuildDate>
     <item>
       <title>Sophos Working with OpenAI on security from AI, with AI, and for AI</title>
       <link>https://www.sophos.com/en-us/blog/sophos-working-with-openai</link>
@@ -69,6 +62,13 @@
       <link>https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</link>
       <description>&lt;p&gt;Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A call for collective action on cyber defense</title>
+      <link>https://www.sophos.com/en-us/blog/collective-action-cyber-defense</link>
+      <description>&lt;p&gt;Sophos joins organizations worldwide in supporting a coordinated and responsible approach to cyber defense.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/collective-action-cyber-defense</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
