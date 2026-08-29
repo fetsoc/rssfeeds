@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 04:58:20 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/tenant-mcp-server-connectivity-risk-assessment.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/3dcbebb717f245a6a3a6d15de8dfde121d1d238e</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/tenant-mcp-server-connectivity-risk-assessment.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3dcbebb717f245a6a3a6d15de8dfde121d1d238e</guid>
-      <pubDate>Tue, 14 Jul 2026 16:59:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 12:02:44 +0000</lastBuildDate>
     <item>
       <title>Rename stop-jadepuffer.kql to KQL/stop-jadepuffer.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/942302a3798ae04c5573641796d916aff3683c05</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add/Update file: KQL/analysis-of-kali365-by-asn-over-past-30-days.kql&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4027cb8a9b893723f51881d908bef14ae55e0dc4</guid>
       <pubDate>Sat, 15 Aug 2026 13:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Hunting NovaCookies Campaign - 01a04cfd-9510-72b5…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/e164326b1fdd62ecf19d329128a9439661d84c36</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting NovaCookies Campaign - 01a04cfd-9510-72b5-bb7a-888098077904 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/e164326b1fdd62ecf19d329128a9439661d84c36</guid>
+      <pubDate>Sat, 29 Aug 2026 10:08:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
