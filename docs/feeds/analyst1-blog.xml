@@ -7,12 +7,26 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 21:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:15:20 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
       <description>Analyst1 offers insights and the latest trends in cybersecurity. Access Analyst1 Case Studies, Datasheets, Digital Reports, White Papers, and other resources today!</description>
       <guid isPermaLink="false">https://analyst1.com/resources/</guid>
+    </item>
+    <item>
+      <title>Analyst1 Wages War on Cybercrime with Next Generation Threat Intelligence Platform | Analyst1</title>
+      <link>https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</link>
+      <description>Empower analysts, revolutionize cybersecurity defense. Analyst1: the next-gen threat intelligence platform. Take action, boost security posture!</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-wages-war-on-cybercrime-with-next-generation-threat-intelligence-platform/</guid>
+      <pubDate>Tue, 11 Aug 2020 01:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defense Innovation Unit (DIU) Chooses Analyst1 to Aid in its Transformation of Cyber Defense Operations | Analyst1</title>
+      <link>https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</link>
+      <description>Defense Innovation Unit selects Analyst1 to transform cyber defense operations. Gain insights, enhance threat detection, and strengthen national security.</description>
+      <guid isPermaLink="false">https://analyst1.com/defense-innovation-unit-diu-chooses-analyst1-to-aid-in-its-transformation-of-cyber-defense-operations/</guid>
+      <pubDate>Thu, 13 Aug 2020 01:01:13 +0000</pubDate>
     </item>
     <item>
       <title>SC Media Group Test Review | Analyst1</title>
@@ -78,13 +92,6 @@
       <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
-      <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
-      <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
-      <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
-      <guid isPermaLink="false">https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</guid>
-      <pubDate>Fri, 14 May 2021 01:01:34 +0000</pubDate>
-    </item>
-    <item>
       <title>New Ransomware Turns to Disruption and Sabotage | Analyst1</title>
       <link>https://analyst1.com/new-ransomware-turns-to-disruption-and-sabotage/</link>
       <description>New Ransomware: RyukRans - a destructive variant that overwrites victim data. Explore the implications of this emerging cyber threat on Analyst1.</description>
@@ -111,6 +118,13 @@
       <description>Uncover the alleged ties between Russian government and ransomware attacks. Explore Absolute Ransom: Nation-State Ransomware for the truth.</description>
       <guid isPermaLink="false">https://analyst1.com/absolute-ransom-nation-state-ransomware/</guid>
       <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Web - Justice League | Analyst1</title>
+      <link>https://analyst1.com/dark-web-justice-league/</link>
+      <description>Uncover the hidden world of Dark Web justice as cybercriminals settle disputes in underground courts. Explore verdicts, high-profile cases, and more.</description>
+      <guid isPermaLink="false">https://analyst1.com/dark-web-justice-league/</guid>
+      <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
     </item>
     <item>
       <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
@@ -155,13 +169,6 @@
       <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 2 | Analyst1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-2/</link>
-      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 2. Listen to Jon tell his story with additional details only found in the audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-2/</guid>
-      <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
-    </item>
-    <item>
       <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
       <link>https://analyst1.com/what-is-intelligence-analyst/</link>
       <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
@@ -183,6 +190,13 @@
       <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
+      <title>Audio Version – Ransomware Diaries: Volume 3 | Analyst1</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
+      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
+      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>What Is Lateral Movement in Cybersecurity?</title>
       <link>https://analyst1.com/what-is-lateral-movement/</link>
       <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
@@ -191,24 +205,10 @@
     </item>
     <item>
       <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
-      <link>https://analyst1.com/global-cyberattack-on-the-us-government/</link>
-      <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
-      <guid isPermaLink="false">https://analyst1.com/global-cyberattack-on-the-us-government/</guid>
-      <pubDate>Wed, 13 Sep 2023 20:32:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1 Analyzes the Global Cyberattack on the US Government</title>
       <link>https://analyst1.com/spear-phishing-vs-phishing/</link>
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
       <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
-      <link>https://analyst1.com/cyber-threat-intelligence-best-practices/</link>
-      <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
-      <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
-      <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
     </item>
     <item>
       <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
@@ -223,6 +223,13 @@
       <description>At its core, cyber resilience refers to an organization’s ability to continuously deliver its intended outcomes despite adverse cyber events. It’s not simply defending against attacks; it involves preparing for, responding to, and recovering from them in a way that minimizes impact and maintains business continuity. In 2024, the concept of cyber resilience will transcend […]</description>
       <guid isPermaLink="false">https://analyst1.com/cyber-resilience-2024/</guid>
       <pubDate>Mon, 22 Jan 2024 13:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is MITRE ATT&amp;CK? | Analyst1</title>
+      <link>https://analyst1.com/what-is-mitre-attck/</link>
+      <description>2023's cyber threat rise meets its match in the MITRE ATT&amp;CK framework. Discover how it's pivotal for tackling sophisticated cyber challenges</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-mitre-attck/</guid>
+      <pubDate>Wed, 07 Feb 2024 16:46:53 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Recognized as One of the Fastest-Growing Private Companies in the Mid-Atlantic Region by Inc. Magazine 2024 | Analyst1</title>
@@ -244,13 +251,6 @@
       <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
       <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Reasons You Need a TIP Now | Analyst1</title>
-      <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
-      <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
-      <guid isPermaLink="false">https://analyst1.com/10-reasons-you-need-a-tip-now/</guid>
-      <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
     </item>
     <item>
       <title>Is it time to replace your legacy TIP? | Analyst1</title>
@@ -286,6 +286,13 @@
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
       <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-1/</guid>
       <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence Lifecycle | Analyst1</title>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-2/</link>
+      <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
+      <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Unveils v2.10.0 Release, Delivering Expanded Integrations and Enhancements for Threat Intelligence Operations | Analyst1</title>
@@ -349,13 +356,6 @@
       <description>Explore practical threat analysis techniques in this white paper to help your security team detect, prioritize, and neutralize cyber threats before they escalate. Download the white paper today.</description>
       <guid isPermaLink="false">https://analyst1.com/5-actionable-cyber-threat-analysis-techniques-you-need-to-know/</guid>
       <pubDate>Mon, 19 May 2025 18:49:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leading University Protects Its Research with Help From Analyst1 | Analyst1</title>
-      <link>https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</link>
-      <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
-      <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
