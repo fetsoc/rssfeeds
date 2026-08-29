@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 21:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:58:21 +0000</lastBuildDate>
     <item>
       <title>SonicWall MCP: Natural Language AI for Network Security Management</title>
       <link>https://www.sonicwall.com/blog/introducing-sonicwall-mcp-ai-powered-network-management</link>
@@ -164,6 +164,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/efimer-brings-its-own-tools-to-the-job</guid>
     </item>
     <item>
+      <title>Orova: A New Linux Ransomware Targeting ESXi Hypervisors</title>
+      <link>https://www.sonicwall.com/blog/orova-a-new-linux-ransomware-targeting-esxi-hypervisors</link>
+      <description>This week, the SonicWall Capture Labs Threat Research Team identified and analyzed an emerging ransomware family known as Orova. The sample is an ELF 64-bit binary targeting Linux servers and VMware ESXi hypervisors. This target has drawn growing attention from ransomware operators due to the concentrated value of virtual machine datastores. What makes Orova notable is not any single novel technique, but the combination of a modern cryptographic stack built around Curve25519 and ChaCha20, a flexible operator-controlled command-line interface with explicit ESXi VM kill support, hardcoded victim login codes consistent with a Ransomware-as-a-Service affiliate panel, and dual-site Tor infrastructure for payments and data extortion. At 90 KB, statically linked and stripped, this is a lean and portable encryptor engineered to run on any Linux x86-64 host without dependencies, and to leave as little forensic surface as possible.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/orova-a-new-linux-ransomware-targeting-esxi-hypervisors</guid>
+    </item>
+    <item>
       <title>Superior Management, Elevated Security: A Partner’s Early Experience with SonicWall Network Security Manager 3.0</title>
       <link>https://www.sonicwall.com/blog/superior-management-elevated-security-a-partner-s-early-experience-with-sonicwall-network-security-manager-3-0</link>
       <description>Leaf IT shares its experience with SonicWall Network Security Manager 3.0</description>
@@ -269,25 +275,11 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NGINX Rewrite Module Heap Overflow RCE - CVE-2026-42945</title>
-      <link>https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</link>
-      <description>Critical CVSS 9.2 heap buffer overflow in the NGINX rewrite module enables unauthenticated remote code execution. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/nginx-rift-rewrite-module-remote-code-execution</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Joomla Content Editor Unauthenticated RCE - CVE-2026-48907</title>
       <link>https://www.sonicwall.com/blog/joomla-content-editor-remote-code-execution</link>
       <description>Critical CVSS 10.0 unauthenticated RCE in the Joomla Content Editor (JCE) extension allows PHP web shell upload and code execution. SonicWall IPS signature available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/joomla-content-editor-remote-code-execution</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SonicWall Cloud Secure Edge Expands PoP Network</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</link>
-      <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How SonicWall CSE Extends Capture ATP to Remote Users</title>
@@ -322,6 +314,13 @@
       <link>https://www.sonicwall.com/blog/rclone-remote-control-api-unauthenticated-command-execution</link>
       <description>Critical CVSS 9.2 flaw in rclone's RC API allows unauthenticated OS command execution via an inline WebDAV backend. SonicWall IPS signature available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/rclone-remote-control-api-unauthenticated-command-execution</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
+      <link>https://www.sonicwall.com/blog/attackers-exploit-apache-path-traversal-to-deploy-coinminer-related-malware</link>
+      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/attackers-exploit-apache-path-traversal-to-deploy-coinminer-related-malware</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

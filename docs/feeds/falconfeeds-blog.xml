@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 21:39:41 +0000</lastBuildDate>
-    <item>
-      <title>Cyber Refuge Zones: Where Threat Actors Operate Safely and Why It Matters</title>
-      <link>https://falconfeeds.io/blogs/cyber-refuge-zones-digital-safe-havens-threat-actors</link>
-      <description>Explore how Cyber Refuge Zones give threat actors safe operating environments through weak laws, political protection, non-extradition barriers, and illicit financial infrastructure and why these digital safe havens matter for global cybersecurity.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-refuge-zones-digital-safe-havens-threat-actors</guid>
-      <pubDate>Tue, 24 Mar 2026 05:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Escalation Signals: CTI Indicators That Predict Conflict-Driven Attack Waves</title>
-      <link>https://falconfeeds.io/blogs/cyber-escalation-signals-cti-indicators-conflict-driven-attack-waves</link>
-      <description>Explore the CTI indicators that signal conflict-driven cyber escalation, from threat actor pre-positioning to geopolitical triggers, and how predictive intelligence helps defend critical infrastructure before attack waves begin.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-escalation-signals-cti-indicators-conflict-driven-attack-waves</guid>
-      <pubDate>Tue, 24 Mar 2026 05:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Infrastructure as a Message: Why Threat Actors Target Energy and Telecom During Tensions</title>
-      <link>https://falconfeeds.io/blogs/critical-infrastructure-message-threat-actors-target-energy-telecom-tensions</link>
-      <description>Explore why threat actors target energy, telecom, and other critical infrastructure during geopolitical tensions, and how these cyber operations serve as strategic signals of capability, coercion, and intent.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/critical-infrastructure-message-threat-actors-target-energy-telecom-tensions</guid>
-      <pubDate>Tue, 24 Mar 2026 06:29:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Conquerors Electronic Army and MASAV: How a Hacktivist Group Quietly Targeted the Backbone of Israeli Interbank Payments</title>
-      <link>https://falconfeeds.io/blogs/cea-masav-attack-israel-payment-system-hacktivist-ddos-cyber-operations</link>
-      <description>A pro-Palestinian hacktivist group, Conquerors Electronic Army (CEA), targets Israel’s MASAV payment system with DDoS and cyber operations, highlighting the growing role of financial infrastructure disruption in conflict-driven cyber warfare.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/cea-masav-attack-israel-payment-system-hacktivist-ddos-cyber-operations</guid>
-      <pubDate>Wed, 25 Mar 2026 06:47:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 04:59:27 +0000</lastBuildDate>
     <item>
       <title>From Shadows to Sanctions: Unmasking 35 Iranian Cyber Operatives Driving State-Sponsored Warfare</title>
       <link>https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</link>
@@ -357,6 +329,34 @@
       <description>Explore why legacy servers still power critical infrastructure worldwide and how technical debt, modernization risks, and cybersecurity challenges shape today's digital backbone.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/legacy-server-infrastructure-cybersecurity-modernization-analysis</guid>
       <pubDate>Thu, 06 Aug 2026 06:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Ransomware in Cyber Security? How It Works and Why It's Spreading Fast </title>
+      <link>https://falconfeeds.io/blogs/what-is-ransomware-in-cyber-security-how-it-works</link>
+      <description>Learn what ransomware in cyber security is, how ransomware attacks work, why they are growing in 2026, and how early detection and ransomware protection can reduce risk.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-ransomware-in-cyber-security-how-it-works</guid>
+      <pubDate>Sat, 29 Aug 2026 04:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Threat Intelligence Pipelines Improve Cybersecurity Operations</title>
+      <link>https://falconfeeds.io/blogs/threat-intelligence-pipelines-cybersecurity-operations</link>
+      <description>Learn how Threat Intelligence Pipelines collect, enrich, correlate, and prioritize threat data to improve SOC operations, threat hunting, and incident response.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-intelligence-pipelines-cybersecurity-operations</guid>
+      <pubDate>Sat, 29 Aug 2026 04:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Dark Web Monitoring and How Does It Protect Your Business?</title>
+      <link>https://falconfeeds.io/blogs/what-is-dark-web-monitoring-business-protection</link>
+      <description>Learn how dark web monitoring detects stolen credentials, leaked data, access sales, and ransomware activity to help businesses identify and respond to cyber threats earlier.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-dark-web-monitoring-business-protection</guid>
+      <pubDate>Sat, 29 Aug 2026 04:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Web vs Dark Web: What’s the Difference and Why Dark Web Monitoring Matters</title>
+      <link>https://falconfeeds.io/blogs/deep-web-vs-dark-web-dark-web-monitoring</link>
+      <description>Understand Deep Web vs Dark Web, their key differences, and how dark web monitoring helps organizations detect exposed data and emerging cyber threats.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/deep-web-vs-dark-web-dark-web-monitoring</guid>
+      <pubDate>Sat, 29 Aug 2026 04:49:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,126 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ibm-xforce-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 21:38:25 +0000</lastBuildDate>
-    <item>
-      <title>Why federal agencies need a mission-centered cyber response | IBM</title>
-      <link>https://www.ibm.com/think/x-force/federal-agencies-cyber-crisis-response</link>
-      <description>In today's cyber landscape, government agencies cannot treat cybersecurity issues as a problem for IT departments to tackle alone.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/federal-agencies-cyber-crisis-response</guid>
-    </item>
-    <item>
-      <title>What the Data Is Telling Us About the Current Rise in Security Threats During the COVID-19 Pandemic | IBM</title>
-      <link>https://www.ibm.com/think/x-force/what-the-data-is-telling-us-about-the-current-rise-in-security-threats-during-the-covid-19-pandemic</link>
-      <description>IBM X-Force Research has been seeing a significant number of new malicious domains related to COVID-19 appear in the wild since late February 2020, based on Quad 9 data.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/what-the-data-is-telling-us-about-the-current-rise-in-security-threats-during-the-covid-19-pandemic</guid>
-    </item>
-    <item>
-      <title>Trickbot Group's AnchorDNS Backdoor Upgrades to AnchorMail | IBM</title>
-      <link>https://www.ibm.com/think/x-force/new-malware-trickbot-anchordns-backdoor-upgrades-anchormail</link>
-      <description>Researchers from IBM Security X-Force have discovered a new version of Trickbot's AnchorDNS backdoor being used in recent ransomware attacks. Get the in-depth analysis here.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/new-malware-trickbot-anchordns-backdoor-upgrades-anchormail</guid>
-    </item>
-    <item>
-      <title>Vulnerable Powerline Extenders Underline Lax Security for the Internet of Things | IBM</title>
-      <link>https://www.ibm.com/think/x-force/vulnerable-powerline-extenders-underline-lax-iot-security</link>
-      <description>Multiple vulnerabilities found in Tenda PA6 Wi-Fi Powerline extender, version 1.0.1.21, could potentially allow a remote attacker to gain complete control over a device.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/vulnerable-powerline-extenders-underline-lax-iot-security</guid>
-    </item>
-    <item>
-      <title>When the Absence of Noise Becomes Signal: Defensive Considerations for Lazarus FudModule | IBM</title>
-      <link>https://www.ibm.com/think/x-force/defensive-considerations-lazarus-fudmodule</link>
-      <description>Explore opportunities for detection of the FudModule within a Lazarus malware sample analyzed by IBM Security X-Force.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/defensive-considerations-lazarus-fudmodule</guid>
-    </item>
-    <item>
-      <title>Unprecedented Shift: The Trickbot Group is Systematically Attacking Ukraine | IBM</title>
-      <link>https://www.ibm.com/think/x-force/trickbot-group-systematically-attacking-ukraine</link>
-      <description>IBM Security X-Force uncovered evidence indicating that the Russia-based cybercriminal syndicate "Trickbot group" has been attacking Ukraine since the Russian invasion. Explore an in-depth analysis on six of ITG23's campaigns.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/trickbot-group-systematically-attacking-ukraine</guid>
-    </item>
-    <item>
-      <title>What’s New in the 2020 Cost of a Data Breach Report | IBM</title>
-      <link>https://www.ibm.com/think/x-force/whats-new-2020-cost-of-a-data-breach-report</link>
-      <description>The global total cost of a data breach averaged $3.86 million in this year’s study. See five key findings from the 2020 Cost of a Data Breach Report</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/whats-new-2020-cost-of-a-data-breach-report</guid>
-    </item>
-    <item>
-      <title>What Drives Incident Responders: Key Findings from the 2022 Incident Responder Study | IBM</title>
-      <link>https://www.ibm.com/think/x-force/key-findings-2022-incident-responder-study</link>
-      <description>Unpack the experiences of a modern-day cybersecurity incident responder in IBM Security's 2022 Incident Responder Study.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/key-findings-2022-incident-responder-study</guid>
-    </item>
-    <item>
-      <title>Video Conferencing Security for Businesses Isn't a New Issue, It Just Came Into Focus | IBM</title>
-      <link>https://www.ibm.com/think/x-force/video-conferencing-security-for-businesses-isnt-a-new-issue-it-just-came-into-focus</link>
-      <description>Video conferencing has suddenly become a critical tool for businesses. Here are some tips for increased privacy and control.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/video-conferencing-security-for-businesses-isnt-a-new-issue-it-just-came-into-focus</guid>
-    </item>
-    <item>
-      <title>What’s new in the 2021 Cost of a Data Breach Report - Security Intelligence | IBM</title>
-      <link>https://www.ibm.com/think/x-force/whats-new-2021-cost-of-a-data-breach-report</link>
-      <description>In 2021, the average cost of a data breach reached a record high of $4.24 million. Get the latest findings on zero trust, AI, cloud security and more from the 2021 Cost of a Data Breach Report.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/whats-new-2021-cost-of-a-data-breach-report</guid>
-    </item>
-    <item>
-      <title>When a Cyber Crisis Hits, Know Your OODA Loops | IBM</title>
-      <link>https://www.ibm.com/think/x-force/when-a-cyber-crisis-hits-know-your-ooda-loops</link>
-      <description>OODA loops can help System 1-thinking security professionals react swiftly to cyberattacks and embrace an intuitive approach to incident response.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/when-a-cyber-crisis-hits-know-your-ooda-loops</guid>
-    </item>
-    <item>
-      <title>Why Phishing Is Still the Top Attack Method | IBM</title>
-      <link>https://www.ibm.com/think/x-force/why-phishing-still-top-attack-method-2</link>
-      <description>Phishing attackers manipulate people's expectations to bait their hooks. See how to protect your employees from today's top attack type.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/why-phishing-still-top-attack-method-2</guid>
-    </item>
-    <item>
-      <title>Understanding the Adversary: How Ransomware Attacks Happen | IBM</title>
-      <link>https://www.ibm.com/think/x-force/how-ransomware-attacks-happen</link>
-      <description>Learn the five stages of ransomware attacks — and how to defend against them — based on analysis of hundreds of ransomware incidents from IBM Security X-Force.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/how-ransomware-attacks-happen</guid>
-    </item>
-    <item>
-      <title>Hunting for Evidence of DLL Side-Loading With PowerShell and Sysmon| IBM</title>
-      <link>https://www.ibm.com/think/x-force/hunting-evidence-dll-side-loading-powershell-sysmon</link>
-      <description>X-Force Red released a tool called Windows Feature Hunter, which identifies targets for DLL Side-Loading on a Windows system using Frida. See how it works.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/hunting-evidence-dll-side-loading-powershell-sysmon</guid>
-    </item>
-    <item>
-      <title>X-Force Red Launches in Latin America and Takes on the Evolution of Cybersecurity | IBM</title>
-      <link>https://www.ibm.com/think/x-force/x-force-red-launches-in-latin-america-and-takes-on-the-evolution-of-cybersecurity</link>
-      <description>IBM's X-Force Red team delivers the offensive security capabilities organizations need to protect against and respond to advanced targeted attacks.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/x-force-red-launches-in-latin-america-and-takes-on-the-evolution-of-cybersecurity</guid>
-    </item>
-    <item>
-      <title>Don’t Be Rude, Stay: Avoiding Fork&amp;Run .NET Execution With InlineExecute-Assembly | IBM</title>
-      <link>https://www.ibm.com/think/x-force/net-execution-inlineexecute-assembly</link>
-      <description>Get an in-depth look at the new BOF that allows operators to execute. NET assemblies in process via Cobalt Strike. Learn more from X-Force Red's offensive security experts.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/net-execution-inlineexecute-assembly</guid>
-    </item>
-    <item>
-      <title>IBM X-Force Research: What You Need to Know About Injection Attacks - Security Intelligence | IBM</title>
-      <link>https://www.ibm.com/think/x-force/xforce-what-you-need-to-know-about-injection-attacks</link>
-      <description>Read this IBM X-Force Research Report to learn how attackers are using injection attacks and what steps you can take to help protect your systems and data.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/xforce-what-you-need-to-know-about-injection-attacks</guid>
-    </item>
-    <item>
-      <title>How One Application Test Uncovered an Unexpected Opening in an Enterprise Call Tool | IBM</title>
-      <link>https://www.ibm.com/think/x-force/application-test-unexpected-opening-cisco-cucm</link>
-      <description>Our application penetration test against the CUCM revealed more than we expected. See how we discovered this problem and how to protect your business.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/application-test-unexpected-opening-cisco-cucm</guid>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 04:58:31 +0000</lastBuildDate>
     <item>
       <title>The Sodinokibi Chronicles: A (R)Evil Cybercrime Gang Disrupting Organizations for Trade Secrets and Cash | IBM</title>
       <link>https://www.ibm.com/think/x-force/sodinokibi-revil-ransomware-disrupt-trade-secrets</link>
       <description>Sodinokibi/REvil emerged in 2019 and has gained considerable momentum. See the indicators of compromise and recent evolutions of this attack.</description>
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/sodinokibi-revil-ransomware-disrupt-trade-secrets</guid>
-    </item>
-    <item>
-      <title>Zero Trust and DNS Security: Better Together | IBM</title>
-      <link>https://www.ibm.com/think/x-force/zero-trust-dns-security</link>
-      <description>Discover how a zero trust framework and DNS security work hand in hand.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/zero-trust-dns-security</guid>
     </item>
     <item>
       <title>X-Force uncovers global NetScaler Gateway credential harvesting campaign | IBM</title>
@@ -147,24 +33,6 @@
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/x-force-hive0129-targeting-financial-institutions-latam-banking-trojan</guid>
     </item>
     <item>
-      <title>Before, During and After an Attack - Security Intelligence | IBM</title>
-      <link>https://www.ibm.com/think/x-force/dealing-with-attacks-and-applying-an-effective-incident-response-methodology</link>
-      <description>Learn how IBM X-Force Incident Response and Intelligence Services can help you build a holistic program to fight the security challenges your organization faces.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/dealing-with-attacks-and-applying-an-effective-incident-response-methodology</guid>
-    </item>
-    <item>
-      <title>IBM X-Force Research: Security Trends in the Manufacturing Industry - Security Intelligence | IBM</title>
-      <link>https://www.ibm.com/think/x-force/security-trends-in-the-manufacturing-industry</link>
-      <description>This IBM X-Force research report examines the latest security trends in the manufacturing industry, which was the third most attacked sector in 2016.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/security-trends-in-the-manufacturing-industry</guid>
-    </item>
-    <item>
-      <title>2016: The Year Menaces Multiplied - Security Intelligence | IBM</title>
-      <link>https://www.ibm.com/think/x-force/x-force-threat-intelligence-index-the-year-of-the-mega-breach</link>
-      <description>Preview the key findings from the 2017 IBM X-Force Threat Intelligence Index in this infographic and then download the complete report to learn more.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/x-force-threat-intelligence-index-the-year-of-the-mega-breach</guid>
-    </item>
-    <item>
       <title>Hunting for Windows “Features” with Frida: DLL Sideloading | IBM</title>
       <link>https://www.ibm.com/think/x-force/windows-features-dll-sideloading</link>
       <description>X-Force Red experts take a deep dive into DLL sideloading and how offensive security professionals can prevent attackers from using it.</description>
@@ -183,18 +51,6 @@
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/spam-trends-campaigns-senior-superlatives-2023</guid>
     </item>
     <item>
-      <title>IBM X-Force Research: Cybercrime Riding Tax Season Tides - Security Intelligence</title>
-      <link>https://www.ibm.com/think/x-force/ibm-x-force-research-cybercrime-riding-tax-season-tides</link>
-      <description>This IBM X-Force report illustrates how cybercriminals are using the dark web to coordinate tax fraud attacks.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/ibm-x-force-research-cybercrime-riding-tax-season-tides</guid>
-    </item>
-    <item>
-      <title>IBM Report Finds Health Care Data at Growing Risk From Ransomware, Insiders and Third-Party Breaches</title>
-      <link>https://www.ibm.com/think/x-force/ibm-report-finds-health-care-data-at-growing-risk-from-ransomware-insiders-and-third-party-breaches</link>
-      <description>A new report based on IBM MSS data revealed that ransomware, insider threats and third-party breaches plagued health care organizations in 2016.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/ibm-report-finds-health-care-data-at-growing-risk-from-ransomware-insiders-and-third-party-breaches</guid>
-    </item>
-    <item>
       <title>X-Force releases detection &amp; response framework for managed file transfer software | IBM</title>
       <link>https://www.ibm.com/think/x-force/x-force-releases-detection-response-framework-managed-file-transfer-software</link>
       <description>Mass exploitation of managed file transfer (MFT) software is on the rise. To address this, IBM Security X-Force has released a framework for detection and response for MFT attacks.</description>
@@ -207,40 +63,16 @@
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/ibm-identifies-zero-day-vulnerability-zyxel-nas-devices</guid>
     </item>
     <item>
-      <title>Not-So-Terrible Twos: IBM X-Force Exchange Celebrates Its Second Birthday</title>
-      <link>https://www.ibm.com/think/x-force/not-so-terrible-twos-ibm-x-force-exchange-celebrates-its-second-birthday</link>
-      <description>Since its inception two years ago, the IBM X-Force Exchange has grown into a comprehensive hub for industrywide threat intelligence collaboration.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/not-so-terrible-twos-ibm-x-force-exchange-celebrates-its-second-birthday</guid>
-    </item>
-    <item>
       <title>X-Force Research Update: Top 10 Cybersecurity Vulnerabilities of 2021 | IBM</title>
       <link>https://www.ibm.com/think/x-force/x-force-top-10-cybersecurity-vulnerabilities-2021</link>
       <description>IBM X-Force is at the forefront of cybersecurity, providing solutions and support against various cyber threats. See what the team lists as the top 10 cybersecurity vulnerabilities of 2021.</description>
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/x-force-top-10-cybersecurity-vulnerabilities-2021</guid>
     </item>
     <item>
-      <title>X-Force Report: No Shortage of Resources Aimed at Hacking Cloud Environments | IBM</title>
-      <link>https://www.ibm.com/think/x-force/x-force-report-hacking-cloud-environments</link>
-      <description>From human error to a burgeoning dark web marketplace, see how cybercriminals are evolving their attacks on cloud environments. Get the latest from the 2021 X-Force Cloud Threat Landscape Report.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/x-force-report-hacking-cloud-environments</guid>
-    </item>
-    <item>
-      <title>One Big Lesson From the Cyber Range to Help Solve Confirmation Bias | IBM</title>
-      <link>https://www.ibm.com/think/x-force/one-big-lesson-from-the-cyber-range-to-help-solve-confirmation-bias</link>
-      <description>The IBM X-Force IRIS team practices a method called dual verification in the cyber range to help overcome confirmation bias and arrive at ground truth more quickly.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/one-big-lesson-from-the-cyber-range-to-help-solve-confirmation-bias</guid>
-    </item>
-    <item>
       <title>Mobile Banking Trojans as Keen on Cryptocurrency as PC Malware | IBM</title>
       <link>https://www.ibm.com/think/x-force/mobile-banking-trojans-as-keen-on-cryptocurrency-as-pc-malware</link>
       <description>Cybercriminals are emulating PC malware to develop mobile banking Trojans that leverage malicious miners to steal cryptocurrency and deliver it to attacker-controlled wallets.</description>
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/mobile-banking-trojans-as-keen-on-cryptocurrency-as-pc-malware</guid>
-    </item>
-    <item>
-      <title>What Hurricane Preparedness Can Teach Us About Ransomware | IBM</title>
-      <link>https://www.ibm.com/think/x-force/hurricanes-preparedness-ransomware</link>
-      <description>Explore the parallels in preparing for a natural disaster and preparing for a cyber crisis.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/hurricanes-preparedness-ransomware</guid>
     </item>
     <item>
       <title>X-Force Threat Intelligence Index 2024 reveals stolen credentials as top risk, with AI attacks on the horizon | IBM</title>
@@ -267,24 +99,6 @@
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/zero-day-discovered-enterprise-help-desk</guid>
     </item>
     <item>
-      <title>How Vulnerable Are Medical IoT Devices? Catherine Norcom Has Her Finger on the Pulse of IoT Security | IBM</title>
-      <link>https://www.ibm.com/think/x-force/how-secure-are-medical-iot-devices-catherine-norcom-has-her-finger-on-the-pulse-of-the-industry</link>
-      <description>We chatted with X-Force Red's resident hardware hacker, Catherine Norcom, about the FDA's recent guidance on securing medical IoT devices.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/how-secure-are-medical-iot-devices-catherine-norcom-has-her-finger-on-the-pulse-of-the-industry</guid>
-    </item>
-    <item>
-      <title>IBM X-Force Research: Evading the Malware Sandbox - Security Intelligence</title>
-      <link>https://www.ibm.com/think/x-force/evading-the-malware-sandbox</link>
-      <description>Read this IBM X-Force research report to learn the basics of malware sandbox environments and how to overcome common evasion techniques malware uses.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/evading-the-malware-sandbox</guid>
-    </item>
-    <item>
-      <title>Monitored Security is Superior Security - Security Intelligence | IBM</title>
-      <link>https://www.ibm.com/think/x-force/x-force-threat-intelligence-index-monitored-security-is-superior-security</link>
-      <description>This infographic shows why IBM-monitored security clients fared better than others in 2016, actually experiencing fewer attacks than the previous year.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/x-force-threat-intelligence-index-monitored-security-is-superior-security</guid>
-    </item>
-    <item>
       <title>Widespread exploitation of recently disclosed Ivanti vulnerabilities | IBM</title>
       <link>https://www.ibm.com/think/x-force/exploitation-of-exposed-ivanti-vulnerabilities</link>
       <description>Ivanti has several known vulnerabilities that are being widely exploited. Read the X-Force team's research and learn how they are working towards resolutions.</description>
@@ -297,17 +111,235 @@
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/using-veh-for-defense-evasion-process-injection</guid>
     </item>
     <item>
-      <title>An IoT Love Story: Always Apart, Never Disconnected | IBM</title>
-      <link>https://www.ibm.com/think/x-force/an-iot-love-story-always-apart-never-disconnected</link>
-      <description>Connected devices are beginning to change ownership for the first time, which presents new IoT security challenges for manufacturers.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/an-iot-love-story-always-apart-never-disconnected</guid>
-    </item>
-    <item>
       <title>WannaCry: How the Widespread Ransomware Changed Cybersecurity | IBM</title>
       <link>https://www.ibm.com/think/x-force/wannacry-worm-ransomware-changed-cybersecurity</link>
       <description>WannaCry ransomware transformed how enterprise defends against viruses and ransomware, and changed security teams' idea of what threat actors want.</description>
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/wannacry-worm-ransomware-changed-cybersecurity</guid>
       <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITG18: Operational Security Errors Continue to Plague Sizable Iranian Threat Group | IBM</title>
+      <link>https://www.ibm.com/think/x-force/itg18-operational-security-errors-plague-iranian-threat-group</link>
+      <description>IBM Security X-Force threat intelligence researchers continue to track suspected Iranian threat group ITG18. Updated with new IOCs.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/itg18-operational-security-errors-plague-iranian-threat-group</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Security X-Force Research Advisory: New Destructive Malware Used In Cyber Attacks on Ukraine</title>
+      <link>https://www.ibm.com/think/x-force/new-destructive-malware-cyber-attacks-ukraine</link>
+      <description>Explore in-depth analysis from IBM Security X-Force on a new wiper malware targeting Ukrainian organizations, HermeticWiper.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/new-destructive-malware-cyber-attacks-ukraine</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More Organizations Saving Time and Costs on Data Breaches with Automation and AI |  IBM</title>
+      <link>https://www.ibm.com/think/x-force/save-time-money-data-breach-security-ai-automation</link>
+      <description>As annual Cost of a Data Breach report shows, AI and automation can reduce the cost of a data breach. See how organizations with AI security fared in 2021.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/save-time-money-data-breach-security-ai-automation</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How prepared are you for your first Gen AI disruption? | IBM</title>
+      <link>https://www.ibm.com/think/x-force/are-you-prepared-for-genai-disruption</link>
+      <description>With generative AI being adopted so widely, how well prepared is your business for a GenAI disruption?</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/are-you-prepared-for-genai-disruption</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Multifactor Authentication Changing the Threat Landscape? | IBM</title>
+      <link>https://www.ibm.com/think/x-force/multifactor-authentication-changing-threat-landscape</link>
+      <description>Changes to the cybersecurity threat landscape are constant and dynamic. We are seeing one of these shifts right now, with multifactor authentication (MFA).</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/multifactor-authentication-changing-threat-landscape</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Embed Gen Z in Your Organization's Security Culture | IBM</title>
+      <link>https://www.ibm.com/think/x-force/gen-z-cybersecurity-culture</link>
+      <description>Gen Z is comprised of digital natives, yet the generation has the highest victim rates for scams. Empower Gen Z through cybersecurity education.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/gen-z-cybersecurity-culture</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q&amp;A with Valentina Palmiotti, aka Chompie | IBM</title>
+      <link>https://www.ibm.com/think/x-force/question-answer-valentina-palmiotti-chompie</link>
+      <description>As a winner of the Pwn2Own hacking contest, Valentina Palmiotti shares her experiences as an ethical hacker.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/question-answer-valentina-palmiotti-chompie</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Hive0117 phishing campaign imitates conscription summons to deliver DarkWatchman malware | IBM</title>
+      <link>https://www.ibm.com/think/x-force/new-hive0117-phishing-campaign-imitates-conscription-summons-deliver-darkwatchman-malware</link>
+      <description>A new phishing campaign conducted by Hive0117 was recently discovered, delivering the fileless malware called DarkWatchman. Explore the analysis from IBM X-Force researchers.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/new-hive0117-phishing-campaign-imitates-conscription-summons-deliver-darkwatchman-malware</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putting Your SOC in the Hot Seat | IBM</title>
+      <link>https://www.ibm.com/think/x-force/putting-your-soc-in-hot-seat</link>
+      <description>Today’s Security Operations Centers (SOCs) are being stress-tested as never before. So how can you ensure that your SOC will survive a crisis? By putting them through one in a controlled environment.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/putting-your-soc-in-hot-seat</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nobelium Espionage Campaign Persists, Service Providers in Crosshairs | IBM</title>
+      <link>https://www.ibm.com/think/x-force/nobelium-espionage-campaign-persists</link>
+      <description>Microsoft recently announced ongoing campaigns attributed to the Nobelium state-sponsored threat group. Read up on the latest developments.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/nobelium-espionage-campaign-persists</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Petya Weren't Expecting This: Ransomware Takes Systems Hostage Across the Globe | IBM</title>
+      <link>https://www.ibm.com/think/x-force/petya-werent-expecting-this-ransomware-takes-systems-hostage-across-the-globe</link>
+      <description>It appears that the current Petya payload is being distributed using the same exploits that were part of the leaks that powered the spread of WannaCry.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/petya-werent-expecting-this-ransomware-takes-systems-hostage-across-the-globe</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New wiper malware used against Ukranian organizations - Security Intelligence | IBM</title>
+      <link>https://www.ibm.com/think/x-force/new-wiper-malware-used-against-ukranian-organizations</link>
+      <description>IBM X-Force reports on the technical analysis, IOCs &amp; detections of a new wiper malware, dubbed IssacWiper, that is targeting Ukraine government organizations.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/new-wiper-malware-used-against-ukranian-organizations</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Not to Store Passwords: SHA-1 Fails Again | IBM</title>
+      <link>https://www.ibm.com/think/x-force/how-not-to-store-passwords-sha-1-fails-again</link>
+      <description>Symmetric key encryption, password hashing and SHA-1 are all ineffective ways to store passwords during the software development stage.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/how-not-to-store-passwords-sha-1-fails-again</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITG05 operations leverage Israel-Hamas conflict lures to deliver Headlace malware | IBM</title>
+      <link>https://www.ibm.com/think/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware</link>
+      <description>As of December 2023, IBM X-Force has uncovered multiple lure documents featuring the Israel-Hamas war to facilitate delivery of the ITG05 Headlace malware. Explore the findings.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITG10 Likely Targeting South Korean Entities of Interest to the Democratic People's Republic of Korea (DPRK)  | IBM</title>
+      <link>https://www.ibm.com/think/x-force/itg10-targeting-south-korean-entities</link>
+      <description>Cybercriminal group ITG10 is likely targeting South Korean government, universities, think tanks, and dissidents. IBM Security X-Force shares the analysis.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/itg10-targeting-south-korean-entities</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ongoing ITG05 operations leverage evolving malware arsenal in global campaigns | IBM</title>
+      <link>https://www.ibm.com/think/x-force/itg05-leverages-malware-arsenal</link>
+      <description>X-Force is tracking multiple ongoing ITG05 phishing campaigns featuring lure documents covering several topics. Learn more about this continuing threat.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/itg05-leverages-malware-arsenal</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MSMQ QueueJumper (RCE Vulnerability): An In-Depth Technical Analysis | IBM</title>
+      <link>https://www.ibm.com/think/x-force/msmq-queuejumper-rce-vulnerability-technical-analysis</link>
+      <description>Unpack the remote code execution vulnerability impacting the Microsoft Message Queueing service — CVE-2023-21554, a.k.a. QueueJumper.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/msmq-queuejumper-rce-vulnerability-technical-analysis</guid>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Racing round and round: The little bug that could | IBM</title>
+      <link>https://www.ibm.com/think/x-force/little-bug-that-could</link>
+      <description>Get the straightforward approach to bug hunting — from an IBM X-Force Red expert.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/little-bug-that-could</guid>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nation State Threat Group Targets Airline with Aclip Backdoor | IBM</title>
+      <link>https://www.ibm.com/think/x-force/nation-state-threat-group-targets-airline-aclip-backdoor</link>
+      <description>An attack on an Asian airline was uncovered, likely compromised by a state-sponsored adversary using a new backdoor that utilizes Slack. IBM Security X-Force experts share the findings from their research.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/nation-state-threat-group-targets-airline-aclip-backdoor</guid>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IoT exploitation during security engagements | IBM</title>
+      <link>https://www.ibm.com/think/x-force/iot-exploitation-during-security-engagements</link>
+      <description>New vulnerabilities are being discovered almost daily. Read about the latest IoT exploitations and how to fix them.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/iot-exploitation-during-security-engagements</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Log4j Vulnerability Could Impact You | IBM</title>
+      <link>https://www.ibm.com/think/x-force/apache-log4j-zero-day-vulnerability-update</link>
+      <description>IBM X-Force shares the latest on the vulnerability dubbed "Log4Shell," a remote code execution vulnerability.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/apache-log4j-zero-day-vulnerability-update</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getting "in tune" with an enterprise: Detecting Intune lateral movement | IBM</title>
+      <link>https://www.ibm.com/think/x-force/detecting-intune-lateral-movement</link>
+      <description>With so many different devices being used in the office, more businesses are relying on hybrid identity environments that need simple management. One solution has emerged as one of the most popular device management solutions today.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/detecting-intune-lateral-movement</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM Uncovers Global Phishing Campaign Targeting the COVID-19 Vaccine Cold Chain</title>
+      <link>https://www.ibm.com/think/x-force/ibm-uncovers-global-phishing-covid-19-vaccine-cold-chain</link>
+      <description>IBM X-Force recently uncovered a global phishing campaign targeting organizations associated with the COVID-19 vaccine cold chain.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/ibm-uncovers-global-phishing-covid-19-vaccine-cold-chain</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Log4Shell Vulnerability Risks for OT Environments — and How You Can Better Protect Against Them | IBM</title>
+      <link>https://www.ibm.com/think/x-force/log4shell-vulnerability-security-risks-ot-environments</link>
+      <description>Explore the potential security risks the Log4Shell vulnerability poses to the operational technology (OT) sector. Experts from IBM Security X-Force share the details.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/log4shell-vulnerability-security-risks-ot-environments</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday -&gt; Exploit Wednesday: Pwning Windows Ancillary Function Driver for WinSock (afd.sys) in 24 Hours | IBM</title>
+      <link>https://www.ibm.com/think/x-force/patch-tuesday-exploit-wednesday-pwning-windows-ancillary-function-driver-winsock</link>
+      <description>Dive into the analysis and exploitation of a vulnerability in the Windows Ancillary Function Driver for Winsock for Local Privilege Escalation on Windows 11. More from X-Force Red experts.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/patch-tuesday-exploit-wednesday-pwning-windows-ancillary-function-driver-winsock</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Resilience Tops Findings in X-Force Threat Intelligence Index 2022 | IBM</title>
+      <link>https://www.ibm.com/think/x-force/2022-x-force-threat-intelligence-index-ransomware-resilience-tops-findings</link>
+      <description>From top attack types to hardest-hit industries, get the biggest insights from this year's X-Force Threat Intelligence Index.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/2022-x-force-threat-intelligence-index-ransomware-resilience-tops-findings</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Compromise a Modern-Day Network | IBM</title>
+      <link>https://www.ibm.com/think/x-force/how-to-compromise-modern-day-network</link>
+      <description>As the number of devices within a network increases, the complexity of the network also grows exponentially. X-Force Red experts break down how a modern-day network can be compromised.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/how-to-compromise-modern-day-network</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing kit trends and the top 10 spoofed brands of 2023 | IBM</title>
+      <link>https://www.ibm.com/think/x-force/phishing-kit-trends-top-10-spoofed-brands-2023</link>
+      <description>The 2024 IBM X-Force Threat Intelligence Index reported that phishing was one of the top initial access vectors observed last year, accounting for 30% of all incidents.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/phishing-kit-trends-top-10-spoofed-brands-2023</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITG23 Crypters Highlight Cooperation Between Cybercriminal Groups | IBM</title>
+      <link>https://www.ibm.com/think/x-force/itg23-crypters-cooperation-between-cybercriminal-groups</link>
+      <description>IBM Security X-Force researchers have continually analyzed the use of several crypters developed by the cybercriminal group ITG23, also known as the "Trickbot Group". Get the details here.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/itg23-crypters-cooperation-between-cybercriminal-groups</guid>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to keep your secrets safe: A password primer | IBM</title>
+      <link>https://www.ibm.com/think/x-force/how-to-keep-secrets-safe-password-primer</link>
+      <description>Your enterprise system will be hacked. Learn how to reduce your risk with strong password hygiene and a password manager, backed by company policies and MFA.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/how-to-keep-secrets-safe-password-primer</guid>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Old Habits Die Hard: New Report Finds Businesses Still Introducing Security Risk into Cloud Environments | IBM</title>
+      <link>https://www.ibm.com/think/x-force/new-report-finds-businesses-introducing-security-risk-cloud-environments</link>
+      <description>As more businesses move to the cloud and fall behind on basic security best practices, more risk is introduced to their organizations. Explore highlights from the 2022 X-Force Cloud Threat Landscape Report.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/new-report-finds-businesses-introducing-security-risk-cloud-environments</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hive0147 serving juicy Picanha with a side of Mekotio - Security Intelligence | IBM</title>
+      <link>https://www.ibm.com/think/x-force/hive0147-serving-juicy-picanha-with-side-of-mekotio</link>
+      <description>IBM X-Force has been tracking and monitoring Hive0147, one of Latin America's most active threat groups. Read more on the threat group's latest activities.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/hive0147-serving-juicy-picanha-with-side-of-mekotio</guid>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
