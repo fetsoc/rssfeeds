@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Aug 2026 02:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:58:43 +0000</lastBuildDate>
     <item>
       <title>Lessons from the Capital One Breach on Cloud Security</title>
       <link>https://www.darktrace.com/blog/back-to-square-one-the-capital-one-breach-proved-we-must-rethink-cloud-security</link>
