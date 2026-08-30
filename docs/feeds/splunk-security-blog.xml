@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/splunk-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 20:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:46:40 +0000</lastBuildDate>
     <item>
       <title>ATT&amp;CK-ing the Adversary: Episode 2 - Hunting with ATT&amp;CK in Splunk | Splunk</title>
       <link>https://www.splunk.com/en_us/blog/security/att-ck-ing-the-adversary-episode-2-hunting-with-att-ck-in-splunk.html</link>
