@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Aug 2026 15:48:15 +0000</lastBuildDate>
-    <item>
-      <title>Why Most OT Cyber Incidents Never Reach the OT Environment</title>
-      <link>https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/</link>
-      <description>&lt;p&gt;Learn why modern industrial operations depend on IT, the misconceptions that leave organizations exposed, and how anti-fragile resilience keeps production running when IT is compromised.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/"&gt;Why Most OT Cyber Incidents Never Reach the OT Environment&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/why-most-ot-cyber-incidents-never-reach-the-ot-environment/</guid>
-      <pubDate>Sun, 26 Jul 2026 14:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sygnia Penetration Test Reveals Critical “vibe coded” Vulnerabilities Within Claude-Based Application</title>
-      <link>https://www.sygnia.co/press-release/sygnia-penetration-test-claude-vibe-coded-vulnerabilities/</link>
-      <description>&lt;p&gt;Leading incident response team launches AI Cybersecurity Services in wake of rising AI-assisted code development. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-penetration-test-claude-vibe-coded-vulnerabilities/"&gt;Sygnia Penetration Test Reveals Critical “vibe coded” Vulnerabilities Within Claude-Based Application&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-penetration-test-claude-vibe-coded-vulnerabilities/</guid>
-      <pubDate>Tue, 28 Jul 2026 10:13:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 20:22:35 +0000</lastBuildDate>
     <item>
       <title>Code at AI Speed, Risk at AI Scale</title>
       <link>https://www.sygnia.co/blog/ai-generated-code-security-risks/</link>
@@ -79,6 +63,22 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/"&gt;How to Secure Enterprise AI: From Adoption to Incident Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/</guid>
       <pubDate>Wed, 19 Aug 2026 08:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure</title>
+      <link>https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</link>
+      <description>&lt;p&gt;Incident Response leader reveals long-running espionage activity abusing routers, authentication systems and Linux management hosts to collect intelligence and explore paths toward connected high-value environments.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/"&gt;Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</guid>
+      <pubDate>Sun, 30 Aug 2026 16:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fire Ant Evolves: From Hypervisors to Trusted Infrastructure</title>
+      <link>https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</link>
+      <description>&lt;p&gt;First reported in 2025, Fire Ant remained active into 2026. Explore how the threat actor expanded beyond hypervisors into trusted infrastructure, compromising routers, authentication systems, and Linux management hosts to maintain covert access, collect credentials and traffic, and reach connected high-value environments.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/"&gt;Fire Ant Evolves: From Hypervisors to Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</guid>
+      <pubDate>Sun, 30 Aug 2026 16:56:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
