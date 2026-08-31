@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 12:17:33 +0000</lastBuildDate>
-    <item>
-      <title>February 2026 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/february-2026-web-server-survey</link>
-      <description>In the February 2026 survey we received responses from 1,419,977,535 sites across 297,071,903 domains and 14,379,914 web-facing computers. This ref...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/february-2026-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Mon, 31 Aug 2026 22:14:32 +0000</lastBuildDate>
     <item>
       <title>Using Digital Risk Protection to Secure What EASM Can’t</title>
       <link>https://www.netcraft.com/blog/closing-the-visibility-gap-how-drp-secures-what-easm-cant-see</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/4-real-examples-of-social-media-impersonation-scams-(and-how-to-spot-them)</link>
       <description>Real social media impersonation scams identified by Netcraft researchers, and the warning signs that reveal fake accounts before customers become victims.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/4-real-examples-of-social-media-impersonation-scams-(and-how-to-spot-them)</guid>
+    </item>
+    <item>
+      <title>8 Best Social Media Brand Protection Tools in 2026</title>
+      <link>https://www.netcraft.com/blog/best-social-media-brand-protection-tools</link>
+      <description>Compare 8 leading social media brand protection tools for detecting impersonation, scams, fake accounts, and other social threats - see which best fits your needs.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/best-social-media-brand-protection-tools</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
