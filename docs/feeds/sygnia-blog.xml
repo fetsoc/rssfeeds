@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 02:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:19:03 +0000</lastBuildDate>
     <item>
       <title>Code at AI Speed, Risk at AI Scale</title>
       <link>https://www.sygnia.co/blog/ai-generated-code-security-risks/</link>
@@ -65,20 +65,20 @@
       <pubDate>Wed, 19 Aug 2026 08:02:02 +0000</pubDate>
     </item>
     <item>
-      <title>Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure</title>
-      <link>https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</link>
-      <description>&lt;p&gt;Incident Response leader reveals long-running espionage activity abusing routers, authentication systems and Linux management hosts to collect intelligence and explore paths toward connected high-value environments.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/"&gt;Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</guid>
-      <pubDate>Sun, 30 Aug 2026 16:54:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Fire Ant Evolves: From Hypervisors to Trusted Infrastructure</title>
       <link>https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</link>
       <description>&lt;p&gt;First reported in 2025, Fire Ant remained active into 2026. Explore how the threat actor expanded beyond hypervisors into trusted infrastructure, compromising routers, authentication systems, and Linux management hosts to maintain covert access, collect credentials and traffic, and reach connected high-value environments.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/"&gt;Fire Ant Evolves: From Hypervisors to Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</guid>
-      <pubDate>Sun, 30 Aug 2026 16:56:34 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 11:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure</title>
+      <link>https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</link>
+      <description>&lt;p&gt;Incident Response leader reveals long-running espionage activity abusing routers, authentication systems and Linux management hosts to collect intelligence and explore paths toward connected high-value environments.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/"&gt;Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</guid>
+      <pubDate>Sun, 30 Aug 2026 07:41:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
