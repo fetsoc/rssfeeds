@@ -7,6 +7,78 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 15:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:28:34 +0000</lastBuildDate>
+    <item>
+      <title>Code at AI Speed, Risk at AI Scale</title>
+      <link>https://www.sygnia.co/blog/ai-generated-code-security-risks/</link>
+      <description>&lt;p&gt;AI-generated code is transforming software development, but it is also introducing new security risks. Learn how a real-world penetration test uncovered a critical authentication flaw that exposed sensitive customer data and what security teams can do to prevent similar issues.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/ai-generated-code-security-risks/"&gt;Code at AI Speed, Risk at AI Scale&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/ai-generated-code-security-risks/</guid>
+      <pubDate>Tue, 28 Jul 2026 12:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shai-Hulud Returns: When Software Trust Becomes the Attack Surface</title>
+      <link>https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/</link>
+      <description>&lt;p&gt;The August 2026 Shai-Hulud campaign was more than another npm compromise, it reflected the evolution of software supply chain attacks, where build pipelines and trust mechanisms have become high-value targets.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/"&gt;Shai-Hulud Returns: When Software Trust Becomes the Attack Surface&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/</guid>
+      <pubDate>Wed, 05 Aug 2026 19:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Crypto Threat Environment 2026</title>
+      <link>https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/</link>
+      <description>&lt;p&gt;Learn how crypto breaches reach transaction authority, why losses become irreversible, and the four security domains that help protect digital assets.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/"&gt;The Crypto Threat Environment 2026&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Brings Expert-Led Managed Detection and Response to AWS Marketplace</title>
+      <link>https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/</link>
+      <description>&lt;p&gt;Company joins the AWS ISV Accelerate Program, making it easier for AWS customers to access Sygnia MDR with bundled incident response support&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/"&gt;Sygnia Brings Expert-Led Managed Detection and Response to AWS Marketplace&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-brings-expert-led-managed-detection-and-response-to-aws-marketplace/</guid>
+      <pubDate>Mon, 10 Aug 2026 08:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident Response vs. Crisis Management: Why Treating Them as the Same Thing Is Dangerous</title>
+      <link>https://www.sygnia.co/blog/incident-response-vs-crisis-management/</link>
+      <description>&lt;p&gt;Incident response contains the attack. Crisis management protects the business. Learn why conflating the two is dangerous and how to align them.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/incident-response-vs-crisis-management/"&gt;Incident Response vs. Crisis Management: Why Treating Them as the Same Thing Is Dangerous&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/incident-response-vs-crisis-management/</guid>
+      <pubDate>Wed, 12 Aug 2026 10:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shai-Hulud in the Wild: What Security and IR Teams Need to Know</title>
+      <link>https://www.sygnia.co/webinars/shai-hulud-in-the-wild/</link>
+      <description>&lt;p&gt;What happens when software supply-chain attacks compromise not only packages, but the trusted systems and workflows used to build and distribute them?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/shai-hulud-in-the-wild/"&gt;Shai-Hulud in the Wild: What Security and IR Teams Need to Know&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/shai-hulud-in-the-wild/</guid>
+      <pubDate>Sun, 16 Aug 2026 07:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Secure Enterprise AI: From Adoption to Incident Readiness</title>
+      <link>https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/</link>
+      <description>&lt;p&gt;Learn where AI risk lives across the enterprise and how to secure AI across its full lifecycle with Sygnia’s practical AI security framework.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/"&gt;How to Secure Enterprise AI: From Adoption to Incident Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/</guid>
+      <pubDate>Wed, 19 Aug 2026 08:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fire Ant Evolves: From Hypervisors to Trusted Infrastructure</title>
+      <link>https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</link>
+      <description>&lt;p&gt;First reported in 2025, Fire Ant remained active into 2026. Explore how the threat actor expanded beyond hypervisors into trusted infrastructure, compromising routers, authentication systems, and Linux management hosts to maintain covert access, collect credentials and traffic, and reach connected high-value environments.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/"&gt;Fire Ant Evolves: From Hypervisors to Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure</title>
+      <link>https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</link>
+      <description>&lt;p&gt;Incident Response leader reveals long-running espionage activity abusing routers, authentication systems and Linux management hosts to collect intelligence and explore paths toward connected high-value environments.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/"&gt;Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</guid>
+      <pubDate>Sun, 30 Aug 2026 07:41:54 +0000</pubDate>
+    </item>
   </channel>
 </rss>
