@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 10:55:43 +0000</lastBuildDate>
-    <item>
-      <title>CMMC is (Not) Cancelled</title>
-      <link>https://trustedsec.com/blog/cmmc-is-not-cancelled</link>
-      <description>&amp;lt;p&amp;gt;Just because CMMC Phase II audits are paused doesn&amp;#039;t mean compliance is. In this blog, we clarify what the suspension means for defense contractors and why self-assessments and core regulations remain in effect.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/cmmc-is-not-cancelled</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 15:57:36 +0000</lastBuildDate>
     <item>
       <title>CCPA Update: Who’s In Scope (Part 1)</title>
       <link>https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;SpooNMAP used to hand you a list of open ports; the latest update tells you which ones actually matter. In this blog, we detail the new automated findings reporting, LLM detection, and performance improvements.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/spoonmap-grows-up-findings-local-llm-detection-and-a-whole-lot-less-waiting</guid>
       <pubDate>Tue, 25 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>waf-fu, or Some Log Replay Nonsense</title>
+      <link>https://trustedsec.com/blog/waf-fu-or-some-log-replay-nonsense</link>
+      <description>&amp;lt;p&amp;gt;1    waf-fu Your Way to Better Credential&amp;amp;nbsp;AccessSo, a gig or two ago I was reviewing CloudWatch logs to search for any credentials that I may be able to use, in order to gain additional access to the environment.…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/waf-fu-or-some-log-replay-nonsense</guid>
+      <pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
