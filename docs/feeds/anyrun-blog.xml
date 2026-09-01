@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 02:53:13 +0000</lastBuildDate>
-    <item>
-      <title>Major Cyber Attacks in July 2026: US and EU Organizations Hit by Phishing, RATs, and Stealers</title>
-      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-july-2026/</link>
-      <description>&lt;p&gt;July 2026 showed how trusted business workflows can quickly turn into account takeover, data exposure, fraud, and persistent access. ANY.RUN observed attacks that put cloud accounts, financial processes, sensitive data, and business continuity at risk across the US, Europe, and Brazil. Here are the major attacks from July, the business risks they exposed, and the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-july-2026/"&gt;Major Cyber Attacks in July 2026: US and EU Organizations Hit by Phishing, RATs, and Stealers&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-july-2026/</guid>
-      <pubDate>Tue, 04 Aug 2026 08:30:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 10:55:43 +0000</lastBuildDate>
     <item>
       <title>Safeguarding 200M Users: How ChongLuaDao Scales Threat Validation with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/chongluadao-success-story/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-us-finance/"&gt;US Finance Under Phishing Pressure: What the SOC Data Reveals?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-us-finance/</guid>
       <pubDate>Wed, 26 Aug 2026 09:17:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Cyber Attacks in August 2026: US and EU Businesses Hit by Session Hijacking, Remote Access, and Insider Risk</title>
+      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-august-2026/</link>
+      <description>&lt;p&gt;August’s attacks showed how quickly trusted business activity can turn into risk. Across the US and Europe, attackers abused Microsoft 365 sessions, legitimate remote-management tools, business-themed files, and even hiring processes to reach corporate systems. The result was a mix of account takeover, persistent attacker control, credential exposure, and insider risk that often looked legitimate [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-august-2026/"&gt;Major Cyber Attacks in August 2026: US and EU Businesses Hit by Session Hijacking, Remote Access, and Insider Risk&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-august-2026/</guid>
+      <pubDate>Tue, 01 Sep 2026 06:53:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
