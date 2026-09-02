@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 02:14:32 +0000</lastBuildDate>
-    <item>
-      <title>Cyber Threat Intelligence Trends Financial Institutions Can’t Ignore in 2026 - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026</link>
-      <description>Financial institutions face growing cyber risk as AI-driven attacks, cloud complexity, and regulatory pressure reshape the threat landscape. This blog explores the cyber threat intelligence trends shaping financial services in 2026 and what organisations need to prepare for.</description>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026</guid>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 10:18:10 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Intelligence to Counter Activist Campaigners - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</link>
@@ -271,6 +265,13 @@
       <link>https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</link>
       <description>Detect compromised devices before attackers act. CYJAX’s new alerting identifies stealer malware infections and exposed credentials in near real time.</description>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CYJAX Intelligence Now Lands Directly Inside Google SecOps and Microsoft Sentinel - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyjax-intelligence-now-lands-directly-inside-google-secops-and-microsoft-sentinel</link>
+      <description>CYJAX intelligence is now built directly into Google SecOps SIEM and Microsoft Sentinel, giving analysts structured, normalised threat data inside the platforms they already use. Four feeds are live in Google SecOps and eight endpoints are available in Microsoft Sentinel's Content Hub.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-intelligence-now-lands-directly-inside-google-secops-and-microsoft-sentinel</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 02:15:58 +0000</lastBuildDate>
-    <item>
-      <title>Safeguarding 200M Users: How ChongLuaDao Scales Threat Validation with ANY.RUN</title>
-      <link>https://any.run/cybersecurity-blog/chongluadao-success-story/</link>
-      <description>&lt;p&gt;ChongLuaDao protects over 200 million users from cybercrime, having detected more than 1.4 million malicious websites since 2020. Rapid processing of community reports is essential to their operations. In our recent conversation, ChongLuaDao co-founder Hieu Ngo told us how ANY.RUN plays an integral role in the project&amp;#8217;s infrastructure, helping it power thousands of safety checks [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/chongluadao-success-story/"&gt;Safeguarding 200M Users: How ChongLuaDao Scales Threat Validation with ANY.RUN&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/chongluadao-success-story/</guid>
-      <pubDate>Wed, 05 Aug 2026 08:01:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 10:19:49 +0000</lastBuildDate>
     <item>
       <title>Smile, You’re on Camera. Part 2: Hiring Lazarus APT’s IT Workers in a Fake DeFi Startup</title>
       <link>https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-august-2026/"&gt;Major Cyber Attacks in August 2026: US and EU Businesses Hit by Session Hijacking, Remote Access, and Insider Risk&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-august-2026/</guid>
       <pubDate>Tue, 01 Sep 2026 06:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Triage &amp; Response Bottlenecks Eating into MSSP Margins: How to Remove the Friction</title>
+      <link>https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/</link>
+      <description>&lt;p&gt;As MSSPs take on more clients, alert volumes grow fast. Analyst capacity usually doesn’t. That gap shows up in triage and response first. Teams spend too much time checking IOCs, switching between tools, rebuilding context, and escalating cases that could have been closed earlier. Across thousands of investigations, those extra minutes turn into slower response, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/"&gt;Triage &amp;amp; Response Bottlenecks Eating into MSSP Margins: How to Remove the Friction&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/</guid>
+      <pubDate>Wed, 02 Sep 2026 07:18:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

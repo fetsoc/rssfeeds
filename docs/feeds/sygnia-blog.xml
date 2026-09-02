@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 02:16:03 +0000</lastBuildDate>
-    <item>
-      <title>Code at AI Speed, Risk at AI Scale</title>
-      <link>https://www.sygnia.co/blog/ai-generated-code-security-risks/</link>
-      <description>&lt;p&gt;AI-generated code is transforming software development, but it is also introducing new security risks. Learn how a real-world penetration test uncovered a critical authentication flaw that exposed sensitive customer data and what security teams can do to prevent similar issues.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/ai-generated-code-security-risks/"&gt;Code at AI Speed, Risk at AI Scale&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/ai-generated-code-security-risks/</guid>
-      <pubDate>Tue, 28 Jul 2026 12:59:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shai-Hulud Returns: When Software Trust Becomes the Attack Surface</title>
-      <link>https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/</link>
-      <description>&lt;p&gt;The August 2026 Shai-Hulud campaign was more than another npm compromise, it reflected the evolution of software supply chain attacks, where build pipelines and trust mechanisms have become high-value targets.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/"&gt;Shai-Hulud Returns: When Software Trust Becomes the Attack Surface&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/shai-hulud-returns-software-supply-chain-attack-npm-keyv/</guid>
-      <pubDate>Wed, 05 Aug 2026 19:19:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 10:19:53 +0000</lastBuildDate>
     <item>
       <title>The Crypto Threat Environment 2026</title>
       <link>https://www.sygnia.co/guides-and-tools/crypto-threat-environment-2026-ebook/</link>
@@ -79,6 +63,22 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/"&gt;Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</guid>
       <pubDate>Sun, 30 Aug 2026 07:41:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exfiltration in Plain Sight: How the SafePay Ransomware Group Abused OneDrive to Steal Data</title>
+      <link>https://www.sygnia.co/blog/how-the-safepay-ransomware-group-abused-onedrive-to-steal-data/</link>
+      <description>&lt;p&gt;Expose how ransomware operators abuse trusted cloud services like OneDrive to bypass traditional security controls, exfiltrate sensitive data over legitimate HTTPS traffic, and hide malicious activity within normal business operations.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/how-the-safepay-ransomware-group-abused-onedrive-to-steal-data/"&gt;Exfiltration in Plain Sight: How the SafePay Ransomware Group Abused OneDrive to Steal Data&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/blog/how-the-safepay-ransomware-group-abused-onedrive-to-steal-data/</guid>
+      <pubDate>Mon, 31 Aug 2026 11:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fire Ant Evolves: From Hypervisors to Trusted Infrastructure</title>
+      <link>https://www.sygnia.co/webinars/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure-webinar/</link>
+      <description>&lt;p&gt;Inside a China-nexus espionage investigation where routers, authentication systems, and Linux management infrastructure became operational platforms.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure-webinar/"&gt;Fire Ant Evolves: From Hypervisors to Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure-webinar/</guid>
+      <pubDate>Tue, 01 Sep 2026 10:37:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
