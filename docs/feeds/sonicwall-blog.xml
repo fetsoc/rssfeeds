@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 15:50:37 +0000</lastBuildDate>
-    <item>
-      <title>%%title%% %%page%%</title>
-      <link>https://www.sonicwall.com/blog/from-sonic-systems-to-sonicwall-30-years-of-cybersecurity-evolution</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/from-sonic-systems-to-sonicwall-30-years-of-cybersecurity-evolution</guid>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 20:23:53 +0000</lastBuildDate>
     <item>
       <title>SonicWall Celebrating Three Decades of Putting Customers First</title>
       <link>https://www.sonicwall.com/blog/sonicwall-celebrating-three-decades-of-putting-customers-first</link>
@@ -311,6 +306,13 @@
       <description>This Anti-Ransomware Day, SonicWall looks at how cybersecurity has changed since WannaCry — and what we can do to ensure we never see such a widespread, devastating and preventable attack again.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/anti-ransomware-day-what-can-we-do-to-prevent-the-next-wannacry</guid>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall CSE Adds PoPs in Korea, South Africa, Saudi Arabia</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</link>
+      <description>SonicWall Cloud Secure Edge expands Point of Presence (PoPs) bringing faster, local Zero Trust enforcement.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
