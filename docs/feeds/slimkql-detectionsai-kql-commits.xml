@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 20:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:14:26 +0000</lastBuildDate>
     <item>
       <title>Rename stop-jadepuffer.kql to KQL/stop-jadepuffer.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/942302a3798ae04c5573641796d916aff3683c05</link>
