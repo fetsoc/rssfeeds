@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 10:19:53 +0000</lastBuildDate>
-    <item>
-      <title>Abuse of alternative runtime environments Deno-tes defender headaches</title>
-      <link>https://www.sophos.com/en-us/blog/deno-case-studies</link>
-      <description>&lt;p&gt;Attack TTPs combine fileless execution, wide LOLBin use&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/deno-case-studies</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 15:53:08 +0000</lastBuildDate>
     <item>
       <title>ClickFix campaign abuses Deno runtime for infostealer delivery</title>
       <link>https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</link>
@@ -70,6 +63,12 @@
       <description>&lt;p&gt;Analysis of 15 intrusions revealed tradecraft used by GOLD SHERWOOD affiliates&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall SMA1000 vulnerabilities (CVE-2026-83548, CVE-2026-83549) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/sonicwall-83548-83549</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sonicwall-83548-83549</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
