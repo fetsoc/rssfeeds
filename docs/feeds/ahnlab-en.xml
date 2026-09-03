@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 02:20:33 +0000</lastBuildDate>
-    <item>
-      <title>June 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94486/</link>
-      <description>Contents This report summarizes the distribution channels, number of Infostealers, number of detections, and information on companies targeted by new Infostealers collected during June 2026. The collected samples were obtained through an automated data collection system, an email honeypot system, and an automated malware C2 analysis system operated by AhnLab SEcurity intelligence Center (ASEC). Purpose [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94486/</guid>
-      <pubDate>Tue, 14 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 10:29:19 +0000</lastBuildDate>
     <item>
       <title>June 2026 Ransomware Trend Report</title>
       <link>https://asec.ahnlab.com/en/94619/</link>
@@ -107,17 +100,17 @@
       <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of Phishing Emails Disguised as Transaction Receipts</title>
-      <link>https://asec.ahnlab.com/en/95001/</link>
-      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails that were disguised as transaction receipts. The emails impersonated employees of a specific US company. The body of the message stated that a transaction receipt was attached and asked the recipient to review it and confirm whether funds had been deposited into their [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95001/</guid>
-      <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Security Issues in the Korean &amp; Global Financial Sector in July 2026</title>
       <link>https://asec.ahnlab.com/en/95109/</link>
       <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (a technique that tricks users into opening malicious links or attachments) had the highest rate at 1.7, Down from 2.3 The previous month. In Attack Stage 2, Dropper/Downloader (a type that downloads additional malware) was the most prevalent at 1.7, Up from [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95109/</guid>
+      <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails Disguised as Transaction Receipts</title>
+      <link>https://asec.ahnlab.com/en/95001/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails that were disguised as transaction receipts. The emails impersonated employees of a specific US company. The body of the message stated that a transaction receipt was attached and asked the recipient to review it and confirm whether funds had been deposited into their [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95001/</guid>
       <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -149,17 +142,17 @@
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
-      <link>https://asec.ahnlab.com/en/95000/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>July 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/95066/</link>
       <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
+      <link>https://asec.ahnlab.com/en/95000/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,6 +210,13 @@
       <description>&amp;#160; People who initially seem fine but tend to subtly avoid others as the relationship deepens or when conflicts arise—and who disappear when pressured—are commonly referred to as “avoidant types.” By repeatedly pulling away only to reappear, they drain the other person’s emotions and energy, ultimately undermining the relationship. The attack pattern of the recently [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95211/</guid>
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

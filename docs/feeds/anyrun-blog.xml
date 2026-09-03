@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 02:20:31 +0000</lastBuildDate>
-    <item>
-      <title>Smile, You’re on Camera. Part 2: Hiring Lazarus APT’s IT Workers in a Fake DeFi Startup</title>
-      <link>https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</link>
-      <description>&lt;p&gt;Editor’s note: This work is a collaboration between Mauro Eldritch from BCA LTD (follow Mauro on X), a company dedicated to threat intelligence and hunting, Heiner García from NorthScan (follow Heiner on X), a threat intelligence initiative uncovering North Korean IT worker infiltration, and ANY.RUN, the leading company in malware analysis and threat intelligence. The [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/"&gt;Smile, You&amp;#8217;re on Camera. Part 2: Hiring Lazarus APT&amp;#8217;s IT Workers in a Fake DeFi Startup&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/</guid>
-      <pubDate>Mon, 10 Aug 2026 12:41:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 10:29:18 +0000</lastBuildDate>
     <item>
       <title>Supply Chain Security: How ANY.RUN Helps US and EU Enterprises Prevent Incidents</title>
       <link>https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/"&gt;Triage &amp;amp; Response Bottlenecks Eating into MSSP Margins: How to Remove the Friction&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/</guid>
       <pubDate>Wed, 02 Sep 2026 07:18:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Release Notes: Faster TI Investigations, Fresh Threat Research, and 650+ Threat Coverage Updates</title>
+      <link>https://any.run/cybersecurity-blog/release-notes-august-2026/</link>
+      <description>&lt;p&gt;Security teams need threat intelligence that helps them move quickly from a suspicious indicator to the context, evidence, and next action. ANY.RUN’s August updates focus on making that process faster and more practical, while expanding detection coverage across host, file, and network activity. The release brings a more connected Threat Intelligence Lookup experience, broader threat [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-august-2026/"&gt;Release Notes: Faster TI Investigations, Fresh Threat Research, and 650+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-august-2026/</guid>
+      <pubDate>Thu, 03 Sep 2026 09:11:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
