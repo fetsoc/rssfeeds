@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 10:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:38:15 +0000</lastBuildDate>
     <item>
       <title>CCPA Update: Who’s In Scope (Part 1)</title>
       <link>https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</link>
@@ -21,13 +21,6 @@
       <description>&amp;lt;p&amp;gt;Confirmed you&amp;#039;re in scope for CCPA? Now comes the cybersecurity audit requirement. In Part 2 of this blog series, we cover what it entails, the phased timeline, and the penalties for non-compliance.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/ccpa-update-cybersecurity-requirements-part-2</guid>
       <pubDate>Fri, 24 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Directives and AI Strategy Development</title>
-      <link>https://trustedsec.com/blog/ai-directives-and-ai-strategy-development</link>
-      <description>&amp;lt;p&amp;gt;The hardest part of AI adoption isn&amp;#039;t the tech, it&amp;#039;s the strategy. In this blog, we outline a practical framework covering governance, risk classification, threat modeling, and monitoring before the tools ever go live.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/ai-directives-and-ai-strategy-development</guid>
-      <pubDate>Tue, 28 Jul 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TLS Encryption and Compliance</title>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;AWS WAF logs are keeping receipts, including your session tokens. In this blog, we walk through the risk of default WAF logging configurations and the tool built to pull, analyze, and replay what gets left behind.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/waf-fu-or-some-log-replay-nonsense</guid>
       <pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLMHaxor Update</title>
+      <link>https://trustedsec.com/blog/llmhaxor-update</link>
+      <description>&amp;lt;p&amp;gt;Today I am sharing some updates on a tool I created from an earlier time — before Burp Suite included native AI testing enhancements and before an almost explosive growth of open-source AI tooling and testing frameworks…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/llmhaxor-update</guid>
+      <pubDate>Thu, 03 Sep 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

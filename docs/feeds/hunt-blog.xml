@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 10:27:21 +0000</lastBuildDate>
-    <item>
-      <title>AdaptixC2 Uncovered: Capabilities, Tactics &amp; Hunting Strategies</title>
-      <link>https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting</link>
-      <description>A deep dive into AdaptixC2: modular architecture, multi-protocol communication, evasion tactics, IOCs, and defense strategies.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting</guid>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 15:32:43 +0000</lastBuildDate>
     <item>
       <title>Odyssey Stealer &amp; AMOS Hit macOS Developers with Fake Homebrew Sites</title>
       <link>https://hunt.io/blog/macos-odyssey-amos-malware-campaign</link>
@@ -357,6 +350,13 @@
       <description>An exposed staging server reveals ownCloud pre-signed URL abuse against a Philippine nuclear agency and exploitation of a naval contractor's WordPress website.</description>
       <guid isPermaLink="false">https://hunt.io/blog/chinese-speaking-operator-philippine-nuclear-naval-contractor</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese-Speaking Operator Uses AI Agents to Target Government and Education Systems Across Asia</title>
+      <link>https://hunt.io/blog/chinese-operator-secflow-claude-qwen-deepseek-asia</link>
+      <description>Hunt.io identified five exposed directories revealing a SecFlow-orchestrated campaign that used Claude, Qwen, and DeepSeek workers to target government, education, and consular systems across Asia</description>
+      <guid isPermaLink="false">https://hunt.io/blog/chinese-operator-secflow-claude-qwen-deepseek-asia</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

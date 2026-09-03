@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 10:28:14 +0000</lastBuildDate>
-    <item>
-      <title>Using Digital Risk Protection to Secure What EASM Can’t</title>
-      <link>https://www.netcraft.com/blog/closing-the-visibility-gap-how-drp-secures-what-easm-cant-see</link>
-      <description>Learn how digital risk protection (DRP) solutions uncover threats that external attack surface management (EASM) misses.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/closing-the-visibility-gap-how-drp-secures-what-easm-cant-see</guid>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 15:37:11 +0000</lastBuildDate>
     <item>
       <title>Remote Access Delivered Through Fake Zoom and Google Meet Calls</title>
       <link>https://www.netcraft.com/blog/remote-access-delivery-via-fake-meetings</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/best-social-media-brand-protection-tools</link>
       <description>Compare 8 leading social media brand protection tools for detecting impersonation, scams, fake accounts, and other social threats - see which best fits your needs.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/best-social-media-brand-protection-tools</guid>
+    </item>
+    <item>
+      <title>Nobody Claimed Ox Alpha, So Its Impersonators Went Unchallenged</title>
+      <link>https://www.netcraft.com/blog/nobody-claimed-ox-alpha-impersonators</link>
+      <description>When Ox Alpha launched anonymously, impersonators rushed in. Learn how stealth AI releases can create security risks, data exposure, and brand abuse.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/nobody-claimed-ox-alpha-impersonators</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
