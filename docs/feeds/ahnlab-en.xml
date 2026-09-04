@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 02:15:51 +0000</lastBuildDate>
-    <item>
-      <title>June 2026 Security Issues in Korean &amp; Global Financial Sector</title>
-      <link>https://asec.ahnlab.com/en/94543/</link>
-      <description>Statistics on Malware Distributed to the Financial Sector In the June threat analysis for the financial sector, phishing was the most prevalent attack method in Attack Stage 1, while droppers/downloaders (distribution tools that download additional malware) were the most prevalent in Attack Stage 2. Infostealers were identified in the third attack stage, indicating that multi-stage [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94543/</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 10:17:17 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, July 2026</title>
       <link>https://asec.ahnlab.com/en/94494/</link>
@@ -210,6 +203,13 @@
       <description>&amp;#160; People who initially seem fine but tend to subtly avoid others as the relationship deepens or when conflicts arise—and who disappear when pressured—are commonly referred to as “avoidant types.” By repeatedly pulling away only to reappear, they drain the other person’s emotions and energy, ultimately undermining the relationship. The attack pattern of the recently [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95211/</guid>
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Cases in Korea Involving the Installation of Radmin and UltraVNC</title>
+      <link>https://asec.ahnlab.com/en/95230/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>

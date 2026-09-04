@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 02:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:17:14 +0000</lastBuildDate>
     <item>
       <title>From Shadows to Sanctions: Unmasking 35 Iranian Cyber Operatives Driving State-Sponsored Warfare</title>
       <link>https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</link>
@@ -339,9 +339,9 @@
     </item>
     <item>
       <title>How Threat Intelligence Pipelines Improve Cybersecurity Operations</title>
-      <link>https://falconfeeds.io/blogs/threat-intelligence-pipelines-cybersecurity-operations</link>
+      <link>https://falconfeeds.io/blogs/how-threat-intelligence-pipelines-improve-cybersecurity-operations</link>
       <description>Learn how Threat Intelligence Pipelines collect, enrich, correlate, and prioritize threat data to improve SOC operations, threat hunting, and incident response.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-intelligence-pipelines-cybersecurity-operations</guid>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/how-threat-intelligence-pipelines-improve-cybersecurity-operations</guid>
       <pubDate>Sat, 29 Aug 2026 04:25:17 +0000</pubDate>
     </item>
     <item>
