@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 20:25:54 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Celebrating Three Decades of Putting Customers First</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-celebrating-three-decades-of-putting-customers-first</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-celebrating-three-decades-of-putting-customers-first</guid>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 02:14:42 +0000</lastBuildDate>
     <item>
       <title>%%title%% %%page%%</title>
       <link>https://www.sonicwall.com/blog/it-started-with-speed-seven-generations-of-sonicwall-products</link>
@@ -258,6 +253,12 @@
       <link>https://www.sonicwall.com/blog/latest-threat-intelligence-navigates-the-relentless-surge-in-cybercrime</link>
       <description>Read the 2024 SonicWall Cyber Threat Report blog for a preview of our most critical findings, highlighting 2023’s changing trends and tracking cybercriminals into the shadows.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/latest-threat-intelligence-navigates-the-relentless-surge-in-cybercrime</guid>
+    </item>
+    <item>
+      <title>Oracle HTTP &amp; WebLogic Proxy Plug-in Bypass - CVE-2026-21962</title>
+      <link>https://www.sonicwall.com/blog/oracle-http-weblogic-servers-proxy-plug-in-authentication-bypass</link>
+      <description>Critical CVSS 10.0 authentication bypass in Oracle HTTP Server and WebLogic Proxy Plug-in enables unauthenticated RCE. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/oracle-http-weblogic-servers-proxy-plug-in-authentication-bypass</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
