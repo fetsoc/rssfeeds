@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 20:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:16:39 +0000</lastBuildDate>
     <item>
       <title>June 2026 Security Issues in Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/94543/</link>
@@ -93,6 +93,13 @@
       <pubDate>Wed, 05 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Security Issues in the Korean &amp; Global Financial Sector in July 2026</title>
+      <link>https://asec.ahnlab.com/en/95109/</link>
+      <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (a technique that tricks users into opening malicious links or attachments) had the highest rate at 1.7, Down from 2.3 The previous month. In Attack Stage 2, Dropper/Downloader (a type that downloads additional malware) was the most prevalent at 1.7, Up from [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95109/</guid>
+      <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Beware of Phishing Emails Disguised as Transaction Receipts</title>
       <link>https://asec.ahnlab.com/en/95001/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails that were disguised as transaction receipts. The emails impersonated employees of a specific US company. The body of the message stated that a transaction receipt was attached and asked the recipient to review it and confirm whether funds had been deposited into their [&amp;#8230;]</description>
@@ -100,11 +107,11 @@
       <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Security Issues in the Korean &amp; Global Financial Sector in July 2026</title>
-      <link>https://asec.ahnlab.com/en/95109/</link>
-      <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (a technique that tricks users into opening malicious links or attachments) had the highest rate at 1.7, Down from 2.3 The previous month. In Attack Stage 2, Dropper/Downloader (a type that downloads additional malware) was the most prevalent at 1.7, Up from [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95109/</guid>
-      <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea</title>
@@ -128,24 +135,17 @@
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+      <title>July 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95066/</link>
+      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
       <link>https://asec.ahnlab.com/en/95000/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95066/</link>
-      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -205,17 +205,17 @@
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Attack Cases in Korea Involving the Installation of Radmin and UltraVNC</title>
-      <link>https://asec.ahnlab.com/en/95230/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
       <link>https://asec.ahnlab.com/en/95223/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attack Cases in Korea Involving the Installation of Radmin and UltraVNC</title>
+      <link>https://asec.ahnlab.com/en/95230/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
