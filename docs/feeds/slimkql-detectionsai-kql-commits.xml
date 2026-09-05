@@ -7,56 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 14:19:31 +0000</lastBuildDate>
-    <item>
-      <title>Rename stop-jadepuffer.kql to KQL/stop-jadepuffer.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/942302a3798ae04c5573641796d916aff3683c05</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Rename stop-jadepuffer.kql to KQL/stop-jadepuffer.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/942302a3798ae04c5573641796d916aff3683c05</guid>
-      <pubDate>Tue, 14 Jul 2026 17:21:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/preemptive-search-for-artoken-phaas-domain-lures.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/f84ae7e964cf56fdea11fb2f2dda0246efdd5922</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/preemptive-search-for-artoken-phaas-domain-lures.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/f84ae7e964cf56fdea11fb2f2dda0246efdd5922</guid>
-      <pubDate>Tue, 14 Jul 2026 17:25:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/debull-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/588b6a88646e69b59b255fe272902d5eba827b17</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/debull-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/588b6a88646e69b59b255fe272902d5eba827b17</guid>
-      <pubDate>Tue, 14 Jul 2026 17:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/threat-detection-passkey-enrollment-phishing-by-o…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/011bd252cc0459b28acf6a4c6ad9fba22d6411b8</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/threat-detection-passkey-enrollment-phishing-by-o-unc-066.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/011bd252cc0459b28acf6a4c6ad9fba22d6411b8</guid>
-      <pubDate>Tue, 14 Jul 2026 17:31:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/agent365-autojack-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/47149338bff6eef18f11e8815675fd82fe255083</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/agent365-autojack-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/47149338bff6eef18f11e8815675fd82fe255083</guid>
-      <pubDate>Tue, 14 Jul 2026 17:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/high-fidelity-forg365-phaas-detection.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/824cb3e1577cf1d6a17d0af9e4e08f67d0558672</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/high-fidelity-forg365-phaas-detection.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/824cb3e1577cf1d6a17d0af9e4e08f67d0558672</guid>
-      <pubDate>Tue, 14 Jul 2026 17:40:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update file at /KQL/entra-mfa-report---sms-and-voice-authentication.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/42c426554c4125b665ece07fb47df0aafd31c58c</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/entra-mfa-report---sms-and-voice-authentication.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/42c426554c4125b665ece07fb47df0aafd31c58c</guid>
-      <pubDate>Tue, 14 Jul 2026 17:49:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 19:45:46 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/forg365-phaas-detection-using-silent-push.kql</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/37d4426e2201f91d9aeb791da0f2bd2cefe848e8</link>
@@ -147,6 +98,55 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting NovaCookies Campaign - 01a04cfd-9510-72b5-bb7a-888098077904 from detections.ai&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/e164326b1fdd62ecf19d329128a9439661d84c36</guid>
       <pubDate>Sat, 29 Aug 2026 10:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Detect 77 "Evil Twin" Open VSX Extensions - 01a07…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/d64a38f0cb14e3f2ba7262d7a2fbabe179923f00</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Detect 77 &amp;quot;Evil Twin&amp;quot; Open VSX Extensions - 01a07260-e79f-705a-acae-bc7cde9e5ddd from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/d64a38f0cb14e3f2ba7262d7a2fbabe179923f00</guid>
+      <pubDate>Sat, 05 Sep 2026 16:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Detect Dirk-jan Mollema's borrowing Windows Hello…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/20d77b9a95c1db076447356468bb92ce7a839f0b</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Detect Dirk-jan Mollema's borrowing Windows Hello keys for authentication and persistence - 01a0726c-0bf0-725f-8fdb-0ad3669f9e34 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/20d77b9a95c1db076447356468bb92ce7a839f0b</guid>
+      <pubDate>Sat, 05 Sep 2026 16:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Defending against KerberLoss (CVE-2026-25177) - 0…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/ab4e856d8dd137a360c05441b292224d45b292cd</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Defending against KerberLoss (CVE-2026-25177) - 01a07270-9c72-752d-a6bf-a6905f0f3253 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/ab4e856d8dd137a360c05441b292224d45b292cd</guid>
+      <pubDate>Sat, 05 Sep 2026 16:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule STORM-2755 High Fidelity KQL Scan - 01a07276-3f49…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/ee98766cd63dfb04cb5e770881ae295d33c4db24</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule STORM-2755 High Fidelity KQL Scan - 01a07276-3f49-7048-8441-b89f61aa80c6 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/ee98766cd63dfb04cb5e770881ae295d33c4db24</guid>
+      <pubDate>Sat, 05 Sep 2026 16:46:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule One Click Exposure Check for LiteLLM AI supply-ch…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/e5cf2f29618b882e18740c919ce7a979d7c11966</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule One Click Exposure Check for LiteLLM AI supply-chain attack - 01a0727b-bf50-724e-b47e-ae918bd7ed11 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/e5cf2f29618b882e18740c919ce7a979d7c11966</guid>
+      <pubDate>Sat, 05 Sep 2026 16:52:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Malicious Teams Call Attempts Check - 01a07286-cb…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/1e86737834bdea3c89e379d6bfab36273e2b2f4b</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Malicious Teams Call Attempts Check - 01a07286-cbff-7296-99b3-a99009a814e0 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/1e86737834bdea3c89e379d6bfab36273e2b2f4b</guid>
+      <pubDate>Sat, 05 Sep 2026 17:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rename btr-reforged-detection.kql to KQL/btr-reforged-detection.kql</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/5a8e2adfa55ff1516a5f7cffea88aa99e9d18f58</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Rename btr-reforged-detection.kql to KQL/btr-reforged-detection.kql&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/5a8e2adfa55ff1516a5f7cffea88aa99e9d18f58</guid>
+      <pubDate>Sat, 05 Sep 2026 17:06:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
