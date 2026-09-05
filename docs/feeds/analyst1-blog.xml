@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 02:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:44:44 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -36,6 +36,13 @@
       <pubDate>Wed, 30 Sep 2020 09:09:01 +0000</pubDate>
     </item>
     <item>
+      <title>The Coronavirus, Cyberthreats and the 2020 U.S. Election | Analyst1</title>
+      <link>https://analyst1.com/the-coronavirus-cyberthreats-and-the-2020-u-s-election/</link>
+      <description>Learn about the intersection of Covid-19, cyberthreats, and the 2020 US election. Discover the risks, challenges, and ways to secure the voting process.</description>
+      <guid isPermaLink="false">https://analyst1.com/the-coronavirus-cyberthreats-and-the-2020-u-s-election/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Disinformation Campaigns: The New Cyber Attack and Weapon of Mass Distraction | Analyst1</title>
       <link>https://analyst1.com/disinformation-campaigns-the-new-cyber-attack-and-weapon-of-mass-distraction/</link>
       <description>Discover the new weapon of mass distraction: Disinformation Campaigns. Explore the impact, forms, and dangers of cyber attacks fueled by manipulated narratives.</description>
@@ -50,11 +57,11 @@
       <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>What is the Next Cybersecurity Fable? - Analyst1</title>
-      <link>https://analyst1.com/what-is-the-next-cybersecurity-fable/</link>
-      <description>Discover the next cybersecurity fable and learn how to fight back against cyber threats. Explore the world of hackers and the battle for online security.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-the-next-cybersecurity-fable/</guid>
-      <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
+      <title>Analyst1: DHS Automated Indicator Sharing (AIS) | Analyst1</title>
+      <link>https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</link>
+      <description>Unlock threat insights at machine speed with Analyst1 and DHS Automated Indicator Sharing, enhancing your defensive actions. Maximize security investments.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:59 +0000</pubDate>
     </item>
     <item>
       <title>Industry Luminary joins Analyst1 as Chief Security Strategist | Analyst1</title>
@@ -132,6 +139,13 @@
       <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
       <guid isPermaLink="false">https://analyst1.com/north-korea-intelligence-assessment-2022/</guid>
       <pubDate>Tue, 22 Feb 2022 01:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why North Korea Steals Money | Analyst1</title>
+      <link>https://analyst1.com/why-north-korea-steals-money/</link>
+      <description>Discover how North Korea steals money through cyberattacks, cryptocurrency theft, and ransomware. Uncover their motives, spending habits, and global response.</description>
+      <guid isPermaLink="false">https://analyst1.com/why-north-korea-steals-money/</guid>
+      <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
     </item>
     <item>
       <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
@@ -265,20 +279,6 @@
       <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
       <guid isPermaLink="false">https://analyst1.com/why-threat-actors-matter/</guid>
       <pubDate>Thu, 15 Aug 2024 15:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why SOAR is Not a Replacement for a TIP | Analyst1</title>
-      <link>https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</link>
-      <description>Check out the latest white paper from Analyst1 that dives into why a SOAR is not a replacement for a threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/why-soar-is-not-a-replacement-for-a-tip/</guid>
-      <pubDate>Tue, 20 Aug 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrating Threat Intelligence into Corporate Risk Management | Analyst1</title>
-      <link>https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</link>
-      <description>Understanding why threat intelligence should play into corporate risk management is a key that every organization needs to have.</description>
-      <guid isPermaLink="false">https://analyst1.com/integrating-threat-intelligence-into-corporate-risk-management/</guid>
-      <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle | Analyst1</title>
