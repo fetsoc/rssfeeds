@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 14:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:00:40 +0000</lastBuildDate>
     <item>
       <title>Resources | Analyst1</title>
       <link>https://analyst1.com/resources/</link>
@@ -85,6 +85,13 @@
       <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
     </item>
     <item>
+      <title>Ransomware Gangs Move Toward Efficient Self-Automated Attacks | Analyst1</title>
+      <link>https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</link>
+      <description>Discover the evolving threat of self-automated ransomware attacks by gangs. Learn how efficiency and speed are increasing the risk to enterprise organizations.</description>
+      <guid isPermaLink="false">https://analyst1.com/ransomware-gangs-move-toward-efficient-self-automated-attacks/</guid>
+      <pubDate>Fri, 30 Apr 2021 01:01:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Lies from the DarkSide: Ransomware Gang Lied About Pipeline Attack | Analyst1</title>
       <link>https://analyst1.com/lies-from-the-darkside-ransomware-gang-lied-about-pipeline-attack/</link>
       <description>Exposing the truth behind the ransomware attack on Colonial Pipeline. Learn about DarkSide's intentional targeting and deceptive tactics.</description>
@@ -120,6 +127,13 @@
       <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
     </item>
     <item>
+      <title>The Rise and Rebranding of Ransomware in 2021 | Analyst1</title>
+      <link>https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</link>
+      <description>Ransomware dominated headlines in 2021. Learn about some of the highest-profile attacks from the last year and ready your organization for 2022.</description>
+      <guid isPermaLink="false">https://analyst1.com/the-rise-and-rebranding-of-ransomware-in-2021/</guid>
+      <pubDate>Wed, 15 Dec 2021 01:01:18 +0000</pubDate>
+    </item>
+    <item>
       <title>North Korea: Intelligence Assessment 2022 | Analyst1</title>
       <link>https://analyst1.com/north-korea-intelligence-assessment-2022/</link>
       <description>Gain insights into North Korea's cyber threat structure in this intelligence assessment report. Analyze the nation's cyber capabilities for global security.</description>
@@ -132,13 +146,6 @@
       <description>Discover how North Korea steals money through cyberattacks, cryptocurrency theft, and ransomware. Uncover their motives, spending habits, and global response.</description>
       <guid isPermaLink="false">https://analyst1.com/why-north-korea-steals-money/</guid>
       <pubDate>Tue, 05 Apr 2022 01:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Colonial Pipeline Ransomware Attack, One Year Later | Analyst1</title>
-      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
-      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
-      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
     </item>
     <item>
       <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats | Analyst1</title>
@@ -160,20 +167,6 @@
       <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 2. Listen to Jon tell his story with additional details only found in the audio version.</description>
       <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-2/</guid>
       <pubDate>Sat, 22 Apr 2023 10:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is An Intelligence Analyst &amp; What Do They Do?</title>
-      <link>https://analyst1.com/what-is-intelligence-analyst/</link>
-      <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-intelligence-analyst/</guid>
-      <pubDate>Thu, 11 May 2023 11:53:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Resources | Analyst1</title>
-      <link>https://analyst1.com/ransomware-resources/</link>
-      <description>Discover a collection of insightful resources on ransomware, including gripping origin stories and comprehensive reports. Explore the world of cyber warfare.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-resources/</guid>
-      <pubDate>Fri, 26 May 2023 18:12:26 +0000</pubDate>
     </item>
     <item>
       <title>Operations Analyst Job Description &amp; Career Insights</title>
@@ -209,6 +202,13 @@
       <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
       <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
       <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence Best Practices | Analyst1</title>
+      <link>https://analyst1.com/cyber-threat-intelligence-best-practices/</link>
+      <description>The primary goal of any cybersecurity program is to protect the confidentiality, integrity, and availability of information assets from cyber threats and vulnerabilities. Analyst1 goes beyond threat hunting to turn intelligence into action.</description>
+      <guid isPermaLink="false">https://analyst1.com/cyber-threat-intelligence-best-practices/</guid>
+      <pubDate>Mon, 13 Nov 2023 17:12:09 +0000</pubDate>
     </item>
     <item>
       <title>Why ‘Made in the USA’ Matters in Cybersecurity | Analyst1</title>
