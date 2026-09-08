@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 10:20:46 +0000</lastBuildDate>
-    <item>
-      <title>Odyssey Stealer &amp; AMOS Hit macOS Developers with Fake Homebrew Sites</title>
-      <link>https://hunt.io/blog/macos-odyssey-amos-malware-campaign</link>
-      <description>A large-scale macOS malware campaign mimics trusted dev tools to spread Odyssey Stealer and AMOS via fake Homebrew sites. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/macos-odyssey-amos-malware-campaign</guid>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 15:44:06 +0000</lastBuildDate>
     <item>
       <title>Introducing Hunt 2.6: IP Risk &amp; Reputation, Smarter IOC Hunting, and Faster Integrations</title>
       <link>https://hunt.io/blog/introducing-hunt-2-6</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io identified five exposed directories revealing a SecFlow-orchestrated campaign that used Claude, Qwen, and DeepSeek workers to target government, education, and consular systems across Asia</description>
       <guid isPermaLink="false">https://hunt.io/blog/chinese-operator-secflow-claude-qwen-deepseek-asia</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files</title>
+      <link>https://hunt.io/blog/redis-cryptomining-botnet-3562-servers</link>
+      <description>A single exposed directory held the full toolkit behind a Redis cryptomining botnet. We parsed the operator's own campaign logs to confirm 3,562 compromised servers and map their tradecraft.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/redis-cryptomining-botnet-3562-servers</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

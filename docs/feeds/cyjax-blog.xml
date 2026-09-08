@@ -7,17 +7,18 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 10:21:52 +0000</lastBuildDate>
-    <item>
-      <title>Cyber Threat Intelligence to Counter Activist Campaigners - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-to-counter-activist-campaigners</guid>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 15:49:42 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Intelligence for the Insurance Sector: A Sector Under Two Kinds of Pressure  - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-the-insurance-sector-a-sector-under-two-kinds-of-pressure</link>
       <description>The insurance sector faces mounting pressure from both commercial growth and a persistent, evolving cyber threat landscape. This blog examines why insurers remain key targets, where their security gaps lie, and how cyber threat intelligence helps close the gap between ambition and resilience.</description>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-the-insurance-sector-a-sector-under-two-kinds-of-pressure</guid>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence for Insurance: The Supply Chain Risk Insurers Can't Ignore  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-insurance-the-supply-chain-risk-insurers-cant-ignore</link>
+      <description>A strong internal security score means little if the brokers, claims processors, and software vendors an insurer depends on are the weak link. This blog breaks down where insurance supply chain risk sits and what to do about it.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-insurance-the-supply-chain-risk-insurers-cant-ignore</guid>
     </item>
     <item>
       <title>Cyber Threat Intelligence for Fintech: A Sector Built for Speed, Targeted for the Same Reason  - CYJAX</title>

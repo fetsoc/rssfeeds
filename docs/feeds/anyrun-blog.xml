@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 10:23:29 +0000</lastBuildDate>
-    <item>
-      <title>Supply Chain Security: How ANY.RUN Helps US and EU Enterprises Prevent Incidents</title>
-      <link>https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/</link>
-      <description>&lt;p&gt;Supply chain vulnerabilities represent a growing attack surface for US and EU organizations. With advanced threat tactics on the rise, reducing Mean Time to Detect (MTTD) and Respond (MTTR) is essential. ANY.RUN integrates directly into the SOC workflows as an investigative layer, providing fast malware analysis and threat intelligence to help security teams boost their [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/"&gt;Supply Chain Security: How ANY.RUN Helps US and EU Enterprises Prevent Incidents&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/</guid>
-      <pubDate>Tue, 11 Aug 2026 07:39:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 15:51:33 +0000</lastBuildDate>
     <item>
       <title>Intelligence-Driven SOC: Modernizing Threat Monitoring and Detection Engineering for Ultimate MTTR Reduction</title>
       <link>https://any.run/cybersecurity-blog/threat-monitoring-ti-feeds/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/release-notes-august-2026/"&gt;Release Notes: Faster TI Investigations, Fresh Threat Research, and 650+ Threat Coverage Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/release-notes-august-2026/</guid>
       <pubDate>Thu, 03 Sep 2026 09:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>HVNC Backdoor Targets LATAM Organizations with Fake Tax and DocuSign Lures</title>
+      <link>https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/</link>
+      <description>&lt;p&gt;Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher &amp;#38; threat hunter. You can find Moises on LinkedIn and X. Fake tax documents are being used to target organizations across LATAM, delivering a custom HVNC backdoor built for stealthy, persistent access. Once installed, the malware can give attackers hidden remote control, steal browser [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/"&gt;HVNC Backdoor Targets LATAM Organizations with Fake Tax and DocuSign Lures&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/</guid>
+      <pubDate>Tue, 08 Sep 2026 10:24:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
