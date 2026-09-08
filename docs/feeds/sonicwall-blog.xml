@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 20:57:29 +0000</lastBuildDate>
-    <item>
-      <title>%%title%% %%page%%</title>
-      <link>https://www.sonicwall.com/blog/it-started-with-speed-seven-generations-of-sonicwall-products</link>
-      <description>SonicWall celebrates its 30 year anniversary by spotlighting the history, customers, products, partners and people that have helped shape us over the past three decades.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/it-started-with-speed-seven-generations-of-sonicwall-products</guid>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 02:20:27 +0000</lastBuildDate>
     <item>
       <title>SonicWall: 30 Years of Partnering to Win</title>
       <link>https://www.sonicwall.com/blog/sonicwall-30-years-of-partnering-to-win</link>
@@ -307,6 +301,13 @@
       <description>This Anti-Ransomware Day, SonicWall looks at how cybersecurity has changed since WannaCry — and what we can do to ensure we never see such a widespread, devastating and preventable attack again.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/anti-ransomware-day-what-can-we-do-to-prevent-the-next-wannacry</guid>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partner Power News September 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-september-2026-build-credibility-create-demand-stay-on-track</link>
+      <description>Explore Partner Power News August 2026 for the latest SonicWall updates, including Endpoint Security, Secure Upgrade enhancements, Zero Trust promotions, Partner Power Hour, updated accreditations, and resources to help partners innovate, protect, and succeed.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-september-2026-build-credibility-create-demand-stay-on-track</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SonicWall CSE Adds PoPs in Korea, South Africa, Saudi Arabia</title>
