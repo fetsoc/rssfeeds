@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 10:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:41:04 +0000</lastBuildDate>
     <item>
       <title>What Is eBPF? How It Works and How Hackers Use It</title>
       <link>https://cymulate.com/blog/ebpf_hacking/</link>
