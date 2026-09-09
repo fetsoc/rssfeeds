@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ibm-xforce-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 02:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:30:28 +0000</lastBuildDate>
     <item>
       <title>The Sodinokibi Chronicles: A (R)Evil Cybercrime Gang Disrupting Organizations for Trade Secrets and Cash | IBM</title>
       <link>https://www.ibm.com/think/x-force/sodinokibi-revil-ransomware-disrupt-trade-secrets</link>
@@ -188,25 +188,11 @@
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Petya Weren't Expecting This: Ransomware Takes Systems Hostage Across the Globe | IBM</title>
-      <link>https://www.ibm.com/think/x-force/petya-werent-expecting-this-ransomware-takes-systems-hostage-across-the-globe</link>
-      <description>It appears that the current Petya payload is being distributed using the same exploits that were part of the leaks that powered the spread of WannaCry.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/petya-werent-expecting-this-ransomware-takes-systems-hostage-across-the-globe</guid>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>New wiper malware used against Ukranian organizations - Security Intelligence | IBM</title>
       <link>https://www.ibm.com/think/x-force/new-wiper-malware-used-against-ukranian-organizations</link>
       <description>IBM X-Force reports on the technical analysis, IOCs &amp; detections of a new wiper malware, dubbed IssacWiper, that is targeting Ukraine government organizations.</description>
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/new-wiper-malware-used-against-ukranian-organizations</guid>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Not to Store Passwords: SHA-1 Fails Again | IBM</title>
-      <link>https://www.ibm.com/think/x-force/how-not-to-store-passwords-sha-1-fails-again</link>
-      <description>Symmetric key encryption, password hashing and SHA-1 are all ineffective ways to store passwords during the software development stage.</description>
-      <guid isPermaLink="false">https://www.ibm.com/think/x-force/how-not-to-store-passwords-sha-1-fails-again</guid>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ITG05 operations leverage Israel-Hamas conflict lures to deliver Headlace malware | IBM</title>
@@ -298,6 +284,20 @@
       <description>From top attack types to hardest-hit industries, get the biggest insights from this year's X-Force Threat Intelligence Index.</description>
       <guid isPermaLink="false">https://www.ibm.com/think/x-force/2022-x-force-threat-intelligence-index-ransomware-resilience-tops-findings</guid>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Ramnit To Bumblebee (via NeverQuest): Similarities and Code Overlap Shed Light On Relationships Between Malware Developers | IBM</title>
+      <link>https://www.ibm.com/think/x-force/from-ramnit-to-bumblebee-via-neverquest</link>
+      <description>Take a deep dive into IBM Security X-Force's comparative analysis, which uncovered evidence that suggests Bumblebee malware was likely developed directly from source code associated with the Ramnit banking trojan.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/from-ramnit-to-bumblebee-via-neverquest</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare Breaches Costliest for 12 Years Running, Hit New $10.1M Record High | IBM</title>
+      <link>https://www.ibm.com/think/x-force/healthcare-data-breaches-costliest</link>
+      <description>The 2022 Cost of a Data Breach Report revealed the healthcare industry as the sector experiencing the costliest data breaches — more than $10 million in average breach costs.</description>
+      <guid isPermaLink="false">https://www.ibm.com/think/x-force/healthcare-data-breaches-costliest</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Compromise a Modern-Day Network | IBM</title>
