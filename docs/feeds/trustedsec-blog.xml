@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 10:21:41 +0000</lastBuildDate>
-    <item>
-      <title>CCPA Update: Who’s In Scope (Part 1)</title>
-      <link>https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</link>
-      <description>&amp;lt;p&amp;gt;California updated CCPA... again. Before you do anything else, does it apply to you? In Part 1 of this blog series, we clarify who falls under scope, what data is covered, and how enforcement works.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/ccpa-update-whos-in-scope-part-1</guid>
-      <pubDate>Thu, 23 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 15:38:16 +0000</lastBuildDate>
     <item>
       <title>CCPA Update: Cybersecurity Requirements (Part 2)</title>
       <link>https://trustedsec.com/blog/ccpa-update-cybersecurity-requirements-part-2</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Most LLM testing tools require setup, paid access, or internet; LLMHaxor requires none of that. In this blog, we walk through the latest update, including a new WebSocket adapter for modern streaming LLM applications.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/llmhaxor-update</guid>
       <pubDate>Thu, 03 Sep 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>So… You Found AWS Access Keys (Part 1)</title>
+      <link>https://trustedsec.com/blog/so-you-found-aws-access-keys-part-1</link>
+      <description>&amp;lt;p&amp;gt;The AWS access keys are in hand... now what? In Part 1 of this blog series, we break down AWS credential types, where to find them, and how to validate and use them during a security engagement.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/so-you-found-aws-access-keys-part-1</guid>
+      <pubDate>Thu, 10 Sep 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
