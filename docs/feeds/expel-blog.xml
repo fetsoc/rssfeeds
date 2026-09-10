@@ -7,20 +7,20 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 15:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:17:50 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday roundup for September 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-september-2024/</link>
+      <description>The September 2024 edition of Patch Tuesday is live, including 79 published CVEs from Microsoft. Here are our top four takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-september-2024/</guid>
+      <pubDate>Wed, 11 Sep 2024 13:53:38 +0000</pubDate>
+    </item>
     <item>
       <title>Expel’s going abroad (again): meet us at Gartner Security &amp; Risk Management Summit UK</title>
       <link>https://expel.com/blog/expel-going-abroad-again-meet-us-at-gartner-security-risk-management-summit-uk/</link>
       <description>Expel is heading to the Gartner Security &amp; Risk Management Summit UK. Find us at booth #506, or speaking with Visa on security gaps.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-going-abroad-again-meet-us-at-gartner-security-risk-management-summit-uk/</guid>
       <pubDate>Wed, 18 Sep 2024 16:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>A secure world is built together: kicking off Cybersecurity Awareness Month</title>
-      <link>https://expel.com/blog/a-secure-world-is-built-together-kicking-off-cybersecurity-awareness-month/</link>
-      <description>October kicks off Cybersecurity Awareness Month, and Expel is sharing its "a secure world is built together" theme for the month.</description>
-      <guid isPermaLink="false">https://expel.com/blog/a-secure-world-is-built-together-kicking-off-cybersecurity-awareness-month/</guid>
-      <pubDate>Mon, 30 Sep 2024 17:33:00 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for October 2024</title>
@@ -70,13 +70,6 @@
       <description>Enjoy these horror stories from past SOCs, as our analysts share their most haunting tales from previous roles (and get some tips, too).</description>
       <guid isPermaLink="false">https://expel.com/blog/happy-halloween-cybersecurity-horror-stories-from-socs-past/</guid>
       <pubDate>Thu, 31 Oct 2024 14:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>A secure world is built together: closing out Cybersecurity Awareness Month</title>
-      <link>https://expel.com/blog/a-secure-world-is-built-together-closing-out-cybersecurity-awareness-month/</link>
-      <description>It's the end of Cybersecurity Awareness Month, but these resources are useful every month of the year to enhance resilience and stay secure.</description>
-      <guid isPermaLink="false">https://expel.com/blog/a-secure-world-is-built-together-closing-out-cybersecurity-awareness-month/</guid>
-      <pubDate>Mon, 04 Nov 2024 14:41:00 +0000</pubDate>
     </item>
     <item>
       <title>MDR insights: defense against persistent threats and Oracle WebLogic CVE-2020-14882</title>
@@ -140,6 +133,13 @@
       <description>Enjoy this special holiday message from Expel employees to our SOC. We're thankful to all of you for protecting our customers!</description>
       <guid isPermaLink="false">https://expel.com/blog/soc-ful-of-gratitude-a-thanksgiving-message/</guid>
       <pubDate>Tue, 26 Nov 2024 14:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>MDR mythbusters: ten common myths, debunked</title>
+      <link>https://expel.com/blog/top-10-mdr-myths-debunked/</link>
+      <description>We debunk ten MDR myths to help you make sense of the increasingly complex security landscape and understand cybersecurity alphabet soup.</description>
+      <guid isPermaLink="false">https://expel.com/blog/top-10-mdr-myths-debunked/</guid>
+      <pubDate>Thu, 05 Dec 2024 16:07:10 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for December 2024</title>

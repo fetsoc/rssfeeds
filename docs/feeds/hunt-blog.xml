@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 15:34:47 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Hunt 2.6: IP Risk &amp; Reputation, Smarter IOC Hunting, and Faster Integrations</title>
-      <link>https://hunt.io/blog/introducing-hunt-2-6</link>
-      <description>Hunt 2.6 launches with IP Risk &amp; Reputation, SQL download via API, integration upgrades, enhanced IP search, and much more. Keep reading.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/introducing-hunt-2-6</guid>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 20:15:58 +0000</lastBuildDate>
     <item>
       <title>From Munitions to Malware: Joseph Harrison on Threat Detection &amp; Digital Forensics</title>
       <link>https://hunt.io/blog/interview-joseph-harrison-threat-detection</link>
@@ -357,6 +350,13 @@
       <description>A single exposed directory held the full toolkit behind a Redis cryptomining botnet. We parsed the operator's own campaign logs to confirm 3,562 compromised servers and map their tradecraft.</description>
       <guid isPermaLink="false">https://hunt.io/blog/redis-cryptomining-botnet-3562-servers</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Council Attack Linked to SonicWall SMA 1000 Campaign</title>
+      <link>https://hunt.io/blog/sonicwall-sma1000-uk-council-attack</link>
+      <description>An operator weaponized CVE-2026-15409 two days after disclosure, extracting LDAP credentials and running DCSync against Active Directory via SonicWall appliances.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/sonicwall-sma1000-uk-council-attack</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
