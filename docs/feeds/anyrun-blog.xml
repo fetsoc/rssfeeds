@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 02:22:59 +0000</lastBuildDate>
-    <item>
-      <title>Mirage2FA Hijacks Companies’ Microsoft 365 Sessions, with Over 4K Victims in the US</title>
-      <link>https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/</link>
-      <description>&lt;p&gt;Mirage2FA is an active phishing-as-a-service toolkit built to steal Microsoft 365 credentials and authenticated sessions through Adversary-in-the-Middle (AiTM) attacks. ANY.RUN research shows that 63.7% of identified victims are in the US, with Technologies, Manufacturing, and Education among the most targeted industries. The operation has generated thousands of compromise events between 2024 and 2026, including stolen [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/"&gt;Mirage2FA Hijacks Companies’ Microsoft 365 Sessions, with Over 4K Victims in the US&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mirage2fa-phishing-targets-us-companies/</guid>
-      <pubDate>Tue, 18 Aug 2026 09:28:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 10:21:41 +0000</lastBuildDate>
     <item>
       <title>Hunt Malware &amp; Phishing Threats with ANY.RUN for Proactive Enterprise Security</title>
       <link>https://any.run/cybersecurity-blog/proactive-threat-hunting/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/german-manufacturer-success-story/"&gt;15 Minutes Saved Per Alert: How a Lean German Manufacturer Protects 10,000 Endpoints with ANY.RUN&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/german-manufacturer-success-story/</guid>
       <pubDate>Wed, 09 Sep 2026 07:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN Secures Leader Status in G2’s Malware Analysis Rankings</title>
+      <link>https://any.run/cybersecurity-blog/g2-leader-fall-2026/</link>
+      <description>&lt;p&gt;We’re excited to share that ANY.RUN has once again been recognized by G2 as a leader in malware analysis. In G2’s Fall 2026 awards, we earned both Momentum Leader and Grid Leader recognition, highlighting our continued growth and strong position in the market. Most importantly, these achievements reflect the trust security professionals place in ANY.RUN [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/g2-leader-fall-2026/"&gt;ANY.RUN Secures Leader Status in G2’s Malware Analysis Rankings&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/g2-leader-fall-2026/</guid>
+      <pubDate>Thu, 10 Sep 2026 09:39:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

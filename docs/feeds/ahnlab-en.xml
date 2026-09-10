@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 02:23:00 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, July 2026</title>
-      <link>https://asec.ahnlab.com/en/94494/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, July 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; DragonForce Ransomware Attack on a Saudi Arabian Chemical Manufacturer AiLock Ransomware Attack on Japan’s Largest Taxi and Limousine Operator Cyberattack on Japan’s Largest Frozen Food Company Disrupts the Wider Food Supply Chain</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94494/</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 10:21:43 +0000</lastBuildDate>
     <item>
       <title>Attack Cases by the Kimsuky Group Impersonating Diplomats (PebbleDash, PrxClient)</title>
       <link>https://asec.ahnlab.com/en/94552/</link>
@@ -100,6 +93,13 @@
       <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea</title>
       <link>https://asec.ahnlab.com/en/94995/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases in which attackers targeted web servers in Korea to install SoftEther VPN. Attack cases involving the installation of SoftEther VPN, an open-source VPN, were previously discussed in the 2024 ASEC blog post titled “Analysis of Attack Cases Targeting ERP Servers in Korea to Install SoftEther [&amp;#8230;]</description>
@@ -118,13 +118,6 @@
       <link>https://asec.ahnlab.com/en/94917/</link>
       <description>Note The July 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—active on the deep web and dark web. It is explicitly noted that the factual accuracy of some content could not be verified. Major Issues Handala claimed to have compromised the core infrastructure of an Internet service provider in [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94917/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -198,6 +191,13 @@
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Detection and Removal of the Syslogk Rootkit in a Linux Environment</title>
       <link>https://asec.ahnlab.com/en/95254/</link>
       <description>1. Overview The AhnLab SEcurity intelligence Center (ASEC) continuously monitors various threats targeting Linux environments. Techniques that modify the Linux kernel to conceal malware and signs of compromise have been used for a long time, and Syslogk is one such rootkit that operates in this manner. This document provides an analysis of the key features [&amp;#8230;]</description>
@@ -212,11 +212,11 @@
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+      <title>Ransom &amp; Dark Web Issues Week 2, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95338/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; The Gentlemen Ransomware Attack on a Canadian Airline LAPSUS$ Group Resumes Chapter II and Teases New Victim Disclosure AUDIT TEAM Data Extortion Attacks on Four Organizations in South Korea, Germany, and Argentina</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95338/</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

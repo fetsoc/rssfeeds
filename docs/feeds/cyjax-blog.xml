@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 02:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:20:29 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Intelligence for the Insurance Sector: A Sector Under Two Kinds of Pressure  - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-the-insurance-sector-a-sector-under-two-kinds-of-pressure</link>
@@ -244,12 +244,6 @@
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cyjax White Paper on Russia and China in Africa: Synopsis - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyjax-white-paper-on-russia-and-china-in-africa-synopsis</link>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-white-paper-on-russia-and-china-in-africa-synopsis</guid>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cyber Threat Intelligence Update: Data Breach, Ransomware Trends, and Emerging AI Threats - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-update-data-breach-ransomware-trends-and-emerging-ai-threats</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-update-data-breach-ransomware-trends-and-emerging-ai-threats</guid>
@@ -266,6 +260,13 @@
       <link>https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</link>
       <description>Detect compromised devices before attackers act. CYJAX’s new alerting identifies stealer malware infections and exposed credentials in near real time.</description>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CYJAX Joins the UK Cyber Security Council  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/cyjax-joins-the-uk-cyber-security-council</link>
+      <description>CYJAX joins the UK's professional body for cyber security, reinforcing its commitment to developing cyber talent, upholding the highest ethical standards and helping strengthen the future of the profession.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-joins-the-uk-cyber-security-council</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
