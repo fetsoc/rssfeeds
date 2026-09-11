@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 10:20:11 +0000</lastBuildDate>
-    <item>
-      <title>How Cybercrime Impacted Education in 2021</title>
-      <link>https://www.sonicwall.com/blog/how-cybercrime-impacted-education-in-2021</link>
-      <description>SonicWall threat data highlights how ransomware, cryptojacking and IoT attacks impacted K-12, primary schools and higher education in the first half of 2021.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-cybercrime-impacted-education-in-2021</guid>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 15:38:07 +0000</lastBuildDate>
     <item>
       <title>%%title%% %%page%%</title>
       <link>https://www.sonicwall.com/blog/the-halfway-point-how-cybercrime-has-impacted-government-in-2021</link>
@@ -251,6 +245,11 @@
       <title>In the Film Room: Drake Maye, Hero Ball and Why Security Teams Should Take the Field Goal</title>
       <link>https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</guid>
+    </item>
+    <item>
+      <title>SonicWall Endpoint Security in Action:  Detecting Akira Ransomware</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
