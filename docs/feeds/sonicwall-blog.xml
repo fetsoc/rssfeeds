@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 20:17:39 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Thanks Employees for 30 Years of Excellence | SonicWall</title>
-      <link>https://www.sonicwall.com/blog/celebrating-three-decades-of-employee-excellence</link>
-      <description>As the company turns 30, SonicWall goes inside the factors integral to the company’s culture.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/celebrating-three-decades-of-employee-excellence</guid>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 02:18:20 +0000</lastBuildDate>
     <item>
       <title>How Cybercrime Impacted Education in 2021</title>
       <link>https://www.sonicwall.com/blog/how-cybercrime-impacted-education-in-2021</link>
@@ -252,6 +246,11 @@
       <title>Microsoft Security Bulletin Coverage for September 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-september-2026</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-september-2026</guid>
+    </item>
+    <item>
+      <title>In the Film Room: Drake Maye, Hero Ball and Why Security Teams Should Take the Field Goal</title>
+      <link>https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
