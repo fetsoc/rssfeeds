@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 20:17:46 +0000</lastBuildDate>
-    <item>
-      <title>IoT Devices: If You Connect It, Protect It</title>
-      <link>https://www.sonicwall.com/blog/iot-devices-if-you-connect-it-protect-it</link>
-      <description>7 smart steps to protect against cyberattacks and prevent breaches. Cybersecurity is everyone’s business.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/iot-devices-if-you-connect-it-protect-it</guid>
-    </item>
-    <item>
-      <title>10 Tips for a Safe and Happy Holiday</title>
-      <link>https://www.sonicwall.com/blog/10-tips-for-a-safe-and-happy-holiday</link>
-      <description>Keep hackers from stealing your holiday, on the road or online.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/10-tips-for-a-safe-and-happy-holiday</guid>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 02:24:18 +0000</lastBuildDate>
     <item>
       <title>2021 Threat Intelligence Shows Attacks Rising Across the Board</title>
       <link>https://www.sonicwall.com/blog/2021-threat-intelligence-shows-attacks-rising-across-the-board</link>
@@ -250,6 +238,18 @@
       <link>https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</link>
       <description>A pasta sauce company's new listening device, Medusa ransomware crossing 500 victims, and our pick for a can't-miss fantasy defense.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</guid>
+    </item>
+    <item>
+      <title>SonicWall Wins Big at 2026 CybersecAsia Awards</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-wins-big-at-the-2026-cybersecasia-readers-choice-awards-and-enters-the-hall-of-fame</link>
+      <description>SonicWall earns two CybersecAsia Readers' Choice Awards for Cloud Security and Ransomware Defense, plus Hall of Fame induction for five years of recognition.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-wins-big-at-the-2026-cybersecasia-readers-choice-awards-and-enters-the-hall-of-fame</guid>
+    </item>
+    <item>
+      <title>TeleClip: A native 64-bit Telegram RAT with Multi-Coin Crypto Clipboard hijack and Keylogger</title>
+      <link>https://www.sonicwall.com/blog/teleclip-a-native-64-bit-telegram-rat-with-multi-coin-crypto-clipboard-hijack-and-keylogger</link>
+      <description>The malware is a cryptocurrency clipboard hijacker and keylogger written in C (GCC/MinGW, native 64-bit PE). It replaces wallet addresses copied to the clipboard with attacker-controlled addresses across 23 coin types, logs keystrokes, and exfiltrates everything exclusively via the Telegram bot API — no custom C2 domain required. On first run it installs three persistent copies of itself under names that impersonate legitimate Windows processes, registers three independent persistence mechanisms (Run key, COM CLSID hijack, WMI subscription), and spawns a watchdog thread to reinstate any that are removed. Live analysis confirmed the C2 channel is active.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/teleclip-a-native-64-bit-telegram-rat-with-multi-coin-crypto-clipboard-hijack-and-keylogger</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>

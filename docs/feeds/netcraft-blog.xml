@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 20:17:50 +0000</lastBuildDate>
-    <item>
-      <title>The 5 Channels Digital Risk Protection Services Should Monitor</title>
-      <link>https://www.netcraft.com/blog/5-channels-your-drp-service-should-monitor</link>
-      <description>From fake apps to dark web leaks, learn the 5 critical channels a modern DRP service should monitor and why comprehensive coverage is essential in 2026.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/5-channels-your-drp-service-should-monitor</guid>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 02:24:23 +0000</lastBuildDate>
     <item>
       <title>Large-Scale Magento Defacement Campaign Impacts 15,000+ Sites</title>
       <link>https://www.netcraft.com/blog/large-scale-magento-defacement-campaign</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/spf-readiness-checklist-self-assess-against-australia-s-six-scam-prevention-principles</link>
       <description>Prepare for Australia's Scams Prevention Framework with a practical readiness checklist.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/spf-readiness-checklist-self-assess-against-australia-s-six-scam-prevention-principles</guid>
+    </item>
+    <item>
+      <title>How to Report and Take Down a Phishing Domain</title>
+      <link>https://www.netcraft.com/blog/how-to-report-takedown-phishing-domain</link>
+      <description>Learn how to report a phishing domain, what information to gather first and how to escalate when a single abuse report isn't enough.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/how-to-report-takedown-phishing-domain</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
