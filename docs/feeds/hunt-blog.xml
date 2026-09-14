@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 11:20:50 +0000</lastBuildDate>
-    <item>
-      <title>From Munitions to Malware: Joseph Harrison on Threat Detection &amp; Digital Forensics</title>
-      <link>https://hunt.io/blog/interview-joseph-harrison-threat-detection</link>
-      <description>In this interview, Joseph Harrison shares how his Air Force-minted discipline fuels his work in threat detection and digital forensics, and how he leverages Hunt.io’s data (especially JA4) to catch adversaries others miss.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/interview-joseph-harrison-threat-detection</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 17:19:11 +0000</lastBuildDate>
     <item>
       <title>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</title>
       <link>https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</link>
@@ -357,6 +350,13 @@
       <description>An operator weaponized CVE-2026-15409 two days after disclosure, extracting LDAP credentials and running DCSync against Active Directory via SonicWall appliances.</description>
       <guid isPermaLink="false">https://hunt.io/blog/sonicwall-sma1000-uk-council-attack</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thai Broadband Provider Targeted via FortiGate SSL-VPN and MeshCentral Persistence</title>
+      <link>https://hunt.io/blog/thai-broadband-fortigate-sslvpn-meshcentral-intrusion</link>
+      <description>An attacker's exposed directory revealed a live intrusion into Thai broadband provider 3BB, from FortiGate SSL-VPN exploitation to MeshCentral persistence and RADIUS credential theft.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/thai-broadband-fortigate-sslvpn-meshcentral-intrusion</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

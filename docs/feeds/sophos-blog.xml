@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 11:22:44 +0000</lastBuildDate>
-    <item>
-      <title>A heap of overflow in August’s Patch Tuesday haul</title>
-      <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
-      <description>&lt;p&gt;421 CVEs, a relatively small set of Edge patches, and two spicy stragglers&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 17:21:30 +0000</lastBuildDate>
     <item>
       <title>Fake AI, real malware: Attackers impersonating AI brands</title>
       <link>https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</link>
@@ -30,17 +23,17 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A call for collective action on cyber defense</title>
-      <link>https://www.sophos.com/en-us/blog/collective-action-cyber-defense</link>
-      <description>&lt;p&gt;Sophos joins organizations worldwide in supporting a coordinated and responsible approach to cyber defense.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/collective-action-cyber-defense</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The State of Ransomware in Education 2026</title>
       <link>https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</link>
       <description>&lt;p&gt;Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A call for collective action on cyber defense</title>
+      <link>https://www.sophos.com/en-us/blog/collective-action-cyber-defense</link>
+      <description>&lt;p&gt;Sophos joins organizations worldwide in supporting a coordinated and responsible approach to cyber defense.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/collective-action-cyber-defense</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -69,6 +62,13 @@
       <description>&lt;p&gt;Upgraded modular malware observed in attacks on Cisco Firewall Management Center (FMC) devices&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATT&amp;CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split</title>
+      <link>https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</link>
+      <description>&lt;p&gt;Artifacts and tooling for the new Enterprise MITRE ATT&amp;amp;CK matrix tactics, distilled from the field.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
