@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 17:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:14:30 +0000</lastBuildDate>
+    <item>
+      <title>MDR insights: how our SOC identified &amp; responded to CVE-2024-3400</title>
+      <link>https://expel.com/blog/mdr-insights-how-our-soc-identified-responded-to-cve-2024-3400/</link>
+      <description>Learn how Expel's security operations center (SOC) identified and resolved CVE-2024-3400 for one of our customers.</description>
+      <guid isPermaLink="false">https://expel.com/blog/mdr-insights-how-our-soc-identified-responded-to-cve-2024-3400/</guid>
+      <pubDate>Thu, 05 Sep 2024 13:11:23 +0000</pubDate>
+    </item>
     <item>
       <title>Patch Tuesday roundup for September 2024</title>
       <link>https://expel.com/blog/patch-tuesday-roundup-for-september-2024/</link>
@@ -175,13 +182,6 @@
       <description>Read what our Expel experts are predicting for AI and security in 2025. These predictions can help you continue planning for new year.</description>
       <guid isPermaLink="false">https://expel.com/blog/expels-predictions-for-2025-our-crystal-ball-says/</guid>
       <pubDate>Fri, 10 Jan 2025 18:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloud security: alerts vs. on-prem alerts (part I)</title>
-      <link>https://expel.com/blog/cloud-security-alerts-vs-on-prem-alerts-part-i/</link>
-      <description>This is part one of a two-part blog on cloud security alerts, including what makes them unique and best practices for management.</description>
-      <guid isPermaLink="false">https://expel.com/blog/cloud-security-alerts-vs-on-prem-alerts-part-i/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:19:02 +0000</pubDate>
     </item>
     <item>
       <title>Reintroducing Expel’s employee resource groups (ERGs)</title>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 17:21:30 +0000</lastBuildDate>
-    <item>
-      <title>Fake AI, real malware: Attackers impersonating AI brands</title>
-      <link>https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</link>
-      <description>&lt;p&gt;A year of MDR casework shows attackers repeatedly exploiting demand for AI tools&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 21:15:34 +0000</lastBuildDate>
     <item>
       <title>Sophos Ranked #1 Overall in Endpoint, XDR, MDR, and Firewall in the G2 Fall 2026 Reports</title>
       <link>https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports</link>
@@ -23,17 +16,17 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The State of Ransomware in Education 2026</title>
-      <link>https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</link>
-      <description>&lt;p&gt;Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A call for collective action on cyber defense</title>
       <link>https://www.sophos.com/en-us/blog/collective-action-cyber-defense</link>
       <description>&lt;p&gt;Sophos joins organizations worldwide in supporting a coordinated and responsible approach to cyber defense.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/collective-action-cyber-defense</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Ransomware in Education 2026</title>
+      <link>https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</link>
+      <description>&lt;p&gt;Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,6 +55,13 @@
       <description>&lt;p&gt;Upgraded modular malware observed in attacks on Cisco Firewall Management Center (FMC) devices&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devil’s advocate? Uncensored Luciferus AI service advertised underground</title>
+      <link>https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground</link>
+      <description>&lt;p&gt;Uncensored refers to a lack of typical guardrails or ethical restrictions, lowering the technical barrier of entry into cybercrime&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ATT&amp;CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split</title>

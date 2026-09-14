@@ -7,7 +7,37 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 17:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:14:28 +0000</lastBuildDate>
+    <item>
+      <title>Fingerprinting Malware C2s with Tags | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/fingerprinting-malware-c2s-with-tags</link>
+      <description>This blog is written for threat analysts, defenders, and CTI teams who use our Scout platform—but even if you’re not a user today, it offers practical insight into how advanced research teams fingerprint C2 infrastructure, and how you might apply similar methods using your tools.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/fingerprinting-malware-c2s-with-tags</guid>
+    </item>
+    <item>
+      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
+      <link>https://www.team-cymru.com/post/find-all-the-iocs</link>
+      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/find-all-the-iocs</guid>
+    </item>
+    <item>
+      <title>Vincent Passaro of Stripe on Building Modern Fraud Intelligence</title>
+      <link>https://www.team-cymru.com/post/financial-fraud-intelligence-with-vincent-passaro-of-stripe</link>
+      <description>Learn how Stripe’s Vincent Passaro applies fraud intelligence to the financial fraud kill chain, breaking down account takeover and how to proactively defend.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/financial-fraud-intelligence-with-vincent-passaro-of-stripe</guid>
+    </item>
+    <item>
+      <title>Enhancing Threat Intelligence with FIN8: BADHATCH</title>
+      <link>https://www.team-cymru.com/post/fin8-badhatch-threat-indicator-enrichment</link>
+      <description>Uncover the latest threat indicators with our BADHATCH Threat Indicator Enrichment. Stay ahead of FIN8 and protect your technology company from cyber attacks.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/fin8-badhatch-threat-indicator-enrichment</guid>
+    </item>
+    <item>
+      <title>FIN7: The Truth Doesn't Need to be so STARK | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/fin7-the-truth-doesn-t-need-to-be-so-stark</link>
+      <description>Explore how Silent Push, Stark, and Team Cymru joined forces to disrupt FIN7’s malicious activities and uncover critical threat intelligence. Learn more.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/fin7-the-truth-doesn-t-need-to-be-so-stark</guid>
+    </item>
     <item>
       <title>Enhancing Threat Intelligence for Carbine Loader Crypto-jacking</title>
       <link>https://www.team-cymru.com/post/enriching-threat-intelligence-for-the-carbine-loader-crypto-jacking-campaign</link>
@@ -15,82 +45,58 @@
       <guid isPermaLink="false">https://www.team-cymru.com/post/enriching-threat-intelligence-for-the-carbine-loader-crypto-jacking-campaign</guid>
     </item>
     <item>
-      <title>Decoding MoqHao Part 1.5: Recent Japan Campaign Trends</title>
-      <link>https://www.team-cymru.com/post/moqhao-part-1-5-high-level-trends-of-recent-campaigns-targeting-japan</link>
-      <description>Explore the high-level trends of recent campaigns targeting Japan in MoqHao Part 1.5. Discover how technology companies are leveraging this valuable market.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/moqhao-part-1-5-high-level-trends-of-recent-campaigns-targeting-japan</guid>
+      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
+      <link>https://www.team-cymru.com/post/emotet-is-back-and-where-are-we</link>
+      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/emotet-is-back-and-where-are-we</guid>
     </item>
     <item>
-      <title>Unveiling Molerats APT: Analysis of Management IP Address</title>
-      <link>https://www.team-cymru.com/post/analysis-of-a-management-ip-address-linked-to-molerats-apt</link>
-      <description>Uncover the implications of a Molerats APT-linked management IP address, and the potential impact on a technology company. Dive into the analysis now!</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/analysis-of-a-management-ip-address-linked-to-molerats-apt</guid>
+      <title>Eating Your Own Dog Food: Pure Signal Use Cases | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/eating-your-own-dog-food</link>
+      <description>Explore how Team Cymru's SecOps team uses its own threat intel tools—Scout, Recon, and more—for faster investigations, proactive hunting, and automation.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/eating-your-own-dog-food</guid>
     </item>
     <item>
-      <title>Unveiling Raccoon Stealer: A Look Inside 'Gates' Victims</title>
-      <link>https://www.team-cymru.com/post/raccoon-stealer-an-insight-into-victim-gates</link>
-      <description>Uncover the cunning tactics of the Raccoon Stealer and its impact on the tech industry.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/raccoon-stealer-an-insight-into-victim-gates</guid>
+      <title>Unmasking DPRK Cyber Threat Actors: Fake IT Worker Infrastructure</title>
+      <link>https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure</link>
+      <description>Uncover how DPRK cyber threat actors use fake IT schemes, Astrill VPN, and freelance platforms to infiltrate networks. Learn to spot these advanced persistent threats.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure</guid>
     </item>
     <item>
-      <title>Assessing Offensive Security Tools: A Team Cymru Case Study</title>
-      <link>https://www.team-cymru.com/post/sliver-case-study-assessing-common-offensive-security-tools</link>
-      <description>Explore our in-depth case study on assessing common offensive security tools, perfect for technology companies seeking to bolster their defense strategies.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/sliver-case-study-assessing-common-offensive-security-tools</guid>
+      <title>DORA Regulation: A Threat Intelligence Perspective | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/dora-regulation-digital-operational-resilience-act-a-threat-intelligence-perspective</link>
+      <description>Discover DORA compliance from a threat intel lens—understand penalties, visibility gaps, and how to strengthen operational resilience before the 2025 deadline.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/dora-regulation-digital-operational-resilience-act-a-threat-intelligence-perspective</guid>
     </item>
     <item>
-      <title>Bablosoft: Breaking Down Entry Barriers for Malicious Actors</title>
-      <link>https://www.team-cymru.com/post/bablosoft-lowering-the-barrier-of-entry-for-malicious-actors</link>
-      <description>Explore how Bablosoft is disrupting the tech industry, making it easier for malicious actors to enter. Learn how this technology company is changing the game.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/bablosoft-lowering-the-barrier-of-entry-for-malicious-actors</guid>
+      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
+      <link>https://www.team-cymru.com/post/do-you-fly-anon</link>
+      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/do-you-fly-anon</guid>
     </item>
     <item>
-      <title>Team Cymru: 0-Day Vulnerabilities and Threat Actor Sophistication</title>
-      <link>https://www.team-cymru.com/post/the-sliding-scale-of-threat-actor-sophistication-when-reacting-to-0-day-vulnerabilities-1</link>
-      <description>Explore the nuanced world of threat actor sophistication in response to 0-day vulnerabilities. Learn how technology companies can navigate this critical landscape.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/the-sliding-scale-of-threat-actor-sophistication-when-reacting-to-0-day-vulnerabilities-1</guid>
+      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
+      <link>https://www.team-cymru.com/post/dissecting-ddos-attacks</link>
+      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/dissecting-ddos-attacks</guid>
     </item>
     <item>
-      <title>Team Cymru's Analysis: Hagga Threat Actor's Infrastructure</title>
-      <link>https://www.team-cymru.com/post/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor</link>
-      <description>Discover how infrastructure analysis is crucial in understanding and combating the Hagga threat actor. Uncover insights for your technology company's security.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor</guid>
+      <title>Corporate Threat Intelligence and Digital Investigations Explained</title>
+      <link>https://www.team-cymru.com/post/digital-investigations-and-corporate-threat-intelligence</link>
+      <description>Explore how digital investigations support corporate threat intelligence, fraud response, and cyber threat investigation with Duaine Labno of TIG Risk Services.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/digital-investigations-and-corporate-threat-intelligence</guid>
     </item>
     <item>
-      <title>Team Cymru's Mythic Case Study: Offensive Security Tools</title>
-      <link>https://www.team-cymru.com/post/mythic-case-study-assessing-common-offensive-security-tools</link>
-      <description>Discover how a leading technology company evaluates common offensive security tools in this insightful mythic case study. Dive into the world of cybersecurity!</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/mythic-case-study-assessing-common-offensive-security-tools</guid>
+      <title>Advanced Cyber Recon Detection with Network Signals | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/detecting-cyber-recon-using-network-signals</link>
+      <description>Uncover the secrets of detecting cyber recon using network signals. Stay one step ahead with insights from a leading technology company.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/detecting-cyber-recon-using-network-signals</guid>
     </item>
     <item>
-      <title>Exploring Seychelles: Team Cymru's Tech Adventure</title>
-      <link>https://www.team-cymru.com/post/seychelles-seychelles-on-the-c-2-shore</link>
-      <description>Explore the beauty of Seychelles and its C(2) Shore with our technology company. Discover the perfect blend of nature and innovation on this breathtaking island.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/seychelles-seychelles-on-the-c-2-shore</guid>
-    </item>
-    <item>
-      <title>Exploring Recent IcedID Campaigns: Insights from Team Cymru</title>
-      <link>https://www.team-cymru.com/post/a-visualizza-into-recent-icedid-campaigns</link>
-      <description>In this blog post we examine recent trends in IcedID / BokBot campaigns, looking at activity for a one-week period in September 2022.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/a-visualizza-into-recent-icedid-campaigns</guid>
-    </item>
-    <item>
-      <title>Exploring the V1 Raccoon Stealer: Team Cymru's Insight</title>
-      <link>https://www.team-cymru.com/post/inside-the-v1-raccoon-stealer-s-den</link>
-      <description>Stay ahead of the latest cybersecurity threats with Team Cymru's expert analysis. Dive deep into the V1 Raccoon Stealer's den and learn how it operates and the possible connections to Kharkiv and the CC2BTC Marketplace.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/inside-the-v1-raccoon-stealer-s-den</guid>
-    </item>
-    <item>
-      <title>Iranian Exploitation Activities Continue as of November 2022</title>
-      <link>https://www.team-cymru.com/post/iranian-exploitation-activities-continue-as-of-november-2022</link>
-      <description>Stay informed on the latest cybersecurity threats with Team Cymru's ongoing tracking of Iranian exploitation activities. Discover the latest insights and telemetry data on this ongoing threat and how organizations can better defend against it.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/iranian-exploitation-activities-continue-as-of-november-2022</guid>
-    </item>
-    <item>
-      <title>Unveiling the IcedID BackConnect Protocol: Team Cymru Reveals</title>
-      <link>https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol</link>
-      <description>Discover the inner workings of the IcedID BackConnect Protocol with insights from a leading technology company. Uncover the intricate details in our blog post!</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol</guid>
+      <title>Nation-State Threats Targeting the Defense Industrial Base</title>
+      <link>https://www.team-cymru.com/post/defense-industrial-base-nation-state-network-telemetry</link>
+      <description>Discover how nation-states target the Defense Industrial Base via pre-positioning. Learn why network telemetry is crucial to detect these hidden cyber threats.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/defense-industrial-base-nation-state-network-telemetry</guid>
     </item>
     <item>
       <title>Darth Vidar: Evolution of Threat Infrastructure at Team Cymru</title>
@@ -99,52 +105,34 @@
       <guid isPermaLink="false">https://www.team-cymru.com/post/darth-vidar-the-dark-side-of-evolving-threat-infrastructure</guid>
     </item>
     <item>
-      <title>The NoName Blog by Team Cymru: Exploring Tech Trends</title>
-      <link>https://www.team-cymru.com/post/a-blog-with-noname</link>
-      <description>Discover the latest tech trends and insights on the 'A Blog with NoName'. Stay updated with the cutting-edge innovations from a leading Technology Company.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/a-blog-with-noname</guid>
-    </item>
-    <item>
-      <title>Team Cymru: From Chile with Malware - Tech Company Insights</title>
-      <link>https://www.team-cymru.com/post/from-chile-with-malware</link>
-      <description>Learn the truth about the "From Chile with Malware" campaign in this insightful blog post from Team Cymru. Discover the real origins of this threat and how it highlights the need for greater cybersecurity awareness.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/from-chile-with-malware</guid>
-    </item>
-    <item>
-      <title>Team Cymru Explores MoqHao Part 3: Global Targeting Trends</title>
-      <link>https://www.team-cymru.com/post/moqhao-part-3-recent-global-targeting-trends</link>
-      <description>Protect yourself from MoqHao and Roaming Mantis with insights from Team Cymru's ongoing analysis series on this dangerous malware family.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/moqhao-part-3-recent-global-targeting-trends</guid>
-    </item>
-    <item>
-      <title>AllaKore(d) SideCopy in Latest Threat Campaign | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/allakore-d-the-sidecopy-train</link>
-      <description>Explore new findings on SideCopy’s use of AllaKore RAT, revealing connected C2 infrastructure and management activity linked to Pakistan-based threat actors.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/allakore-d-the-sidecopy-train</guid>
-    </item>
-    <item>
-      <title>Visualizing Qakbot Infrastructure and Threat Network Maps | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/visualizing-qakbot-infrastructure</link>
-      <description>Learn trends in QakBot C2 infrastructure with data-driven insights into affiliate behavior, upstream servers, and botnet activity patterns. Learn more.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/visualizing-qakbot-infrastructure</guid>
-    </item>
-    <item>
       <title>Darth Vidar: The Aesir Strike Back in Latest Cyber World | Team Cymru</title>
       <link>https://www.team-cymru.com/post/darth-vidar-the-aesir-strike-back</link>
       <description>Discover how Vidar malware is expanding and masking its operations. Stay updated with key insights into infrastructure changes and tracking tips.</description>
       <guid isPermaLink="false">https://www.team-cymru.com/post/darth-vidar-the-aesir-strike-back</guid>
     </item>
     <item>
-      <title>Inside the IcedID BackConnect Protocol (Part 2) | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol-part-2</link>
-      <description>Browse new insights into IcedID's evolving BackConnect protocol—more C2 servers, shorter lifespans, and shifting post-compromise infrastructure tactics.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol-part-2</guid>
+      <title>Cybersecurity in the Public Sector | Podcast with Arizona CISO Michael Moore</title>
+      <link>https://www.team-cymru.com/post/cybersecurity-in-the-public-sector-with-ciso-michael-moore</link>
+      <description>Hear how public sector CISOs think about cybersecurity. Michael Moore, CISO of Arizona’s Secretary of State, joins the Future of Threat Intelligence podcast.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/cybersecurity-in-the-public-sector-with-ciso-michael-moore</guid>
     </item>
     <item>
-      <title>Visualizing Qakbot Infrastructure: Network Telemetry | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/visualizing-qakbot-infrastructure-part-ii-uncharted-territory</link>
-      <description>Explore Qakbot’s evolving C2 infrastructure through NetFlow analysis, revealing new servers, port trends, and insights into upstream communication layers.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/visualizing-qakbot-infrastructure-part-ii-uncharted-territory</guid>
+      <title>Cyber Security Intelligence: Edge Device Analysis</title>
+      <link>https://www.team-cymru.com/post/cyber-security-intelligence-edge-device-analysis</link>
+      <description>Cisco, Ivanti &amp; Fortinet edge device attacks are rising. Read our cybersecurity intelligence on cybersecurity trends and attack patterns.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/cyber-security-intelligence-edge-device-analysis</guid>
+    </item>
+    <item>
+      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
+      <link>https://www.team-cymru.com/post/covid-19-cyber-threat-danabot</link>
+      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/covid-19-cyber-threat-danabot</guid>
+    </item>
+    <item>
+      <title>Coping with Scanners: Practical Tips from Team Cymru</title>
+      <link>https://www.team-cymru.com/post/coping-with-scanners</link>
+      <description>Discover effective strategies for coping with scanners and improving productivity at a technology company. Find helpful tips and insights in our blog post.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/coping-with-scanners</guid>
     </item>
     <item>
       <title>Coper / Octo - A Conductor for Mobile Mayhem | Team Cymru</title>
@@ -153,64 +141,40 @@
       <guid isPermaLink="false">https://www.team-cymru.com/post/coper-octo-a-conductor-for-mobile-mayhem-with-eight-limbs</guid>
     </item>
     <item>
-      <title>Discover the Latrodectus: This Spider Bytes Like Ice | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/latrodectus-this-spider-bytes-like-ice</link>
-      <description>Explore new research on Latrodectus, a rising malware linked to IcedID. Learn how it evades detection and why threat actors are adopting it fast.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/latrodectus-this-spider-bytes-like-ice</guid>
+      <title>Continuous Threats Need Continuous Management | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/continuous-threats-need-continuous-management</link>
+      <description>Explore why CTEM is essential for modern cyber defense - helping CISOs cut breach risk, optimize security ROI, and strengthen cross-functional alignment.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/continuous-threats-need-continuous-management</guid>
     </item>
     <item>
-      <title>Botnet 7777: Are You Betting on a Compromised Router? | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/botnet-7777-are-you-betting-on-a-compromised-router</link>
-      <description>Quad7 botnet evolves: Over 12K infected routers found, including new ASUS-based 63256 bots. Learn how to identify, track, and defend against this threat.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/botnet-7777-are-you-betting-on-a-compromised-router</guid>
+      <title>Uncovering the CONTI Ransomware Group: Team Cymru's Research</title>
+      <link>https://www.team-cymru.com/post/collaborative-research-on-the-conti-ransomware-group</link>
+      <description>Discover how a collaborative research effort on the CONTI Ransomware Group is shedding light on the latest cyber threats. Learn more on our blog!</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/collaborative-research-on-the-conti-ransomware-group</guid>
     </item>
     <item>
-      <title>An Introduction to Operational Relay Box (ORB) Networks | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured</link>
-      <description>Explore how threat actors use Operational Relay Box (ORB) networks to evade detection, hide malicious activity, and complicate cyber defense efforts. Talk to an expert.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured</guid>
+      <title>Cl0p Ransomware: Attack Pattern in Threat Intelligence</title>
+      <link>https://www.team-cymru.com/post/cl0p-ransomware-mft-attack-pattern-threat-intelligence</link>
+      <description>Analyze Cl0p ransomware's history of targeting MFT systems. Discover their attack pattern in threat intelligence to improve cyber attack surface reduction.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/cl0p-ransomware-mft-attack-pattern-threat-intelligence</guid>
     </item>
     <item>
-      <title>How Virtual Offices Enable a Facade of Legitimacy | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/jingle-shells-how-virtual-offices-enable-a-facade-of-legitimacy</link>
-      <description>Virtual offices provide flexibility but also enable fraudsters to establish shell companies. Learn how this trend impacts businesses and regulations globally.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/jingle-shells-how-virtual-offices-enable-a-facade-of-legitimacy</guid>
+      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
+      <link>https://www.team-cymru.com/post/cheers-to-the-pioneers</link>
+      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/cheers-to-the-pioneers</guid>
     </item>
     <item>
-      <title>Uncovering North Korean ‘Internet Outages’ with Team Cymru</title>
-      <link>https://www.team-cymru.com/post/insight-into-north-korean-internet-outages</link>
-      <description>Explore the mystery behind North Korean 'Internet Outages' and gain insight into the technological implications in this intriguing blog post.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/insight-into-north-korean-internet-outages</guid>
+      <title>Milestone: 1.5 Billion Daily Queries on IP to ASN Mapping | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/celebrating-a-milestone-over-1-5-billion-daily-queries-on-our-ip-to-asn-mapping-service</link>
+      <description>Team Cymru’s IP to ASN service now handles 1.5B+ daily queries—thanks to our community for supporting our mission to save and improve human lives.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/celebrating-a-milestone-over-1-5-billion-daily-queries-on-our-ip-to-asn-mapping-service</guid>
     </item>
     <item>
-      <title>Insights into Internet Outages in Africa's Western Coast | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/team-cymru-internet-weather-report</link>
-      <description>Major internet outages hit 13 African nations in March 2024. Our analysis reveals traffic patterns, ongoing impacts, and connectivity insights from Pure Signal™.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/team-cymru-internet-weather-report</guid>
-    </item>
-    <item>
-      <title>Cyber Attack on Venezuelan National Electoral Council | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/insights-into-a-cyber-attack-against-the-venezuelan-national-electoral-council</link>
-      <description>Analyze the suspected cyber attack on Venezuela's National Electoral Council during the 2024 elections, including network traffic and DDoS attack insights.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/insights-into-a-cyber-attack-against-the-venezuelan-national-electoral-council</guid>
-    </item>
-    <item>
-      <title>Maximizing CISO ROI with Real-Time Threat Intelligence</title>
-      <link>https://www.team-cymru.com/post/threat-intelligence-a-ciso-roi-guide-focus-on-real-time-threat-intelligence</link>
-      <description>Uncover how real-time threat intelligence can drive ROI for CISOs in technology companies. Explore the benefits and strategies in this insightful guide.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/threat-intelligence-a-ciso-roi-guide-focus-on-real-time-threat-intelligence</guid>
-    </item>
-    <item>
-      <title>Maximizing Threat Intelligence ROI for Technology Companies</title>
-      <link>https://www.team-cymru.com/post/threat-intelligence-a-ciso-roi-guide-prevent-data-breaches</link>
-      <description>Uncover the power of threat intelligence for a technology company. Learn how to prevent data breaches and maximize ROI as a CISO with expert guidance.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/threat-intelligence-a-ciso-roi-guide-prevent-data-breaches</guid>
-    </item>
-    <item>
-      <title>Importance of Real-Time Insights for SOC Security Analyst | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/the-importance-of-real-time-insights-for-soc-security-analysts</link>
-      <description>Empower SOC analysts with real-time intelligence to improve detection, reduce alert fatigue, and increase productivity and team value. Learn more about our services.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/the-importance-of-real-time-insights-for-soc-security-analysts</guid>
+      <title>From C2 Detection to Victim Identification | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/c2-detection-to-victim-identification</link>
+      <description>Discover how to transition from C2 detection to possible victim identification. Improve your cyber incident response by tracking attacker infrastructure to compromised systems.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/c2-detection-to-victim-identification</guid>
     </item>
     <item>
       <title>Building Resilient Security with Threat Intelligence | Team Cymru</title>
@@ -219,94 +183,131 @@
       <guid isPermaLink="false">https://www.team-cymru.com/post/building-a-more-resilient-security-strategy-through-threat-intelligence-integration</guid>
     </item>
     <item>
-      <title>Tracing the Path from SmartApeSG to NetSupport RAT | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/tracing-the-path-from-smartapesg-to-netsupport-rat</link>
-      <description>Investigation reveals how SmartApeSG delivers NetSupport RAT, exposing links to RAT clusters, crypto services, and suspicious infrastructure. Learn more.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/tracing-the-path-from-smartapesg-to-netsupport-rat</guid>
+      <title>Botnet 7777: Are You Betting on a Compromised Router? | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/botnet-7777-are-you-betting-on-a-compromised-router</link>
+      <description>Quad7 botnet evolves: Over 12K infected routers found, including new ASUS-based 63256 bots. Learn how to identify, track, and defend against this threat.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/botnet-7777-are-you-betting-on-a-compromised-router</guid>
     </item>
     <item>
-      <title>Insights from Google's Security on Threat Intelligence | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/googles-head-of-security-architecture-shares-framework-for-protecting-ai-systems</link>
-      <description>Google’s Head of Security Architecture shares a real-world framework for protecting AI systems from evolving threats like model poisoning and prompt injection.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/googles-head-of-security-architecture-shares-framework-for-protecting-ai-systems</guid>
+      <title>BGP Security: Protecting Against Hijacking</title>
+      <link>https://www.team-cymru.com/post/bgp-hijacking-and-bgp-security</link>
+      <description>Learn how BGP hijacking can impact your network security. Our in-depth guide explores BGP security measures to protect your technology company's infrastructure.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/bgp-hijacking-and-bgp-security</guid>
     </item>
     <item>
-      <title>Building Effective Threat Hunts: Insights from Splunk | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/splunks-security-strategist-on-building-effective-threat-hunting-programs</link>
-      <description>Splunk’s David Bianco shares threat hunting tips, team-building strategies, and how to use red teaming to improve detection capabilities and security operations.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/splunks-security-strategist-on-building-effective-threat-hunting-programs</guid>
+      <title>Beast Ransomware Toolkit: A Proactive Threat Intelligence Report</title>
+      <link>https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis</link>
+      <description>Explore our latest threat intelligence report on Beast Ransomware. See the exact incident response tools and TTPs used by operators to bypass EDR and delete backups.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis</guid>
     </item>
     <item>
-      <title>Top Cybersecurity Predictions for 2025 from 35+ Experts | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/top-10-predictions-shaping-the-future-of-cybersecurity-in-2025-according-to-35-experts</link>
-      <description>Explore the top 10 cybersecurity predictions for 2025, based on insights from industry leaders shaping the future of threat intelligence and security strategy.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/top-10-predictions-shaping-the-future-of-cybersecurity-in-2025-according-to-35-experts</guid>
+      <title>Bablosoft: Breaking Down Entry Barriers for Malicious Actors</title>
+      <link>https://www.team-cymru.com/post/bablosoft-lowering-the-barrier-of-entry-for-malicious-actors</link>
+      <description>Explore how Bablosoft is disrupting the tech industry, making it easier for malicious actors to enter. Learn how this technology company is changing the game.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/bablosoft-lowering-the-barrier-of-entry-for-malicious-actors</guid>
     </item>
     <item>
-      <title>New Innovation Helps Security Teams Gain Faster Threat Insights</title>
-      <link>https://www.team-cymru.com/post/new-innovation-helps-security-teams-gain-faster-threat-insights</link>
-      <description>Team Cymru's Insights Feed helps security teams cut through noise, reduce false positives, and gain real-time, actionable threat intelligence for faster response.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/new-innovation-helps-security-teams-gain-faster-threat-insights</guid>
+      <title>Exploring Azorult: Insights from Team Cymru's Tools</title>
+      <link>https://www.team-cymru.com/post/azorult-what-we-see-using-our-own-tools</link>
+      <description>Explore Azorult through the lens of our proprietary tools and gain unique insights into this technology company's innovative solutions.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/azorult-what-we-see-using-our-own-tools</guid>
     </item>
     <item>
-      <title>Team Cymru Earns ISO 27001 Re-Certification for Third Consecutive Year</title>
-      <link>https://www.team-cymru.com/post/team-cymru-achieves-iso-27001-re-certification-for-third-consecutive-year</link>
-      <description>Team Cymru earns ISO 27001 re-certification for the third year, reinforcing its commitment to security, compliance, and protecting customer data. Learn more.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/team-cymru-achieves-iso-27001-re-certification-for-third-consecutive-year</guid>
+      <title>Understanding Attack Surface Management Maturity Models</title>
+      <link>https://www.team-cymru.com/post/attack-surface-management-why-maturity-models-matter-part-ii</link>
+      <description>Discover the critical role of maturity models in Attack Surface Management for technology companies. Uncover the why and how in Part II of this insightful series.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/attack-surface-management-why-maturity-models-matter-part-ii</guid>
     </item>
     <item>
-      <title>Understanding the Federal Compliance Landscape | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/understanding-the-federal-compliance-landscape</link>
-      <description>Explore how federal agencies can align compliance mandates like NIST SP 800-171, CMMC, and FISMA with proactive threat intelligence for stronger security.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/understanding-the-federal-compliance-landscape</guid>
+      <title>Why Maturity Models Matter in Attack Surface Management</title>
+      <link>https://www.team-cymru.com/post/attack-surface-management-why-maturity-models-matter-part-i</link>
+      <description>Learn why maturity models are crucial for effective Attack Surface Management. Discover how they can benefit your technology company in this insightful blog post.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/attack-surface-management-why-maturity-models-matter-part-i</guid>
     </item>
     <item>
-      <title>Inside DanaBot’s Infrastructure: In Support of Operation Endgame II | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/inside-danabots-infrastructure-in-support-of-operation-endgame-ii</link>
-      <description>This blog explores DanaBot a "malware-as-a-service" and how collaboration across the security community can lead to real progress against threat actors</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/inside-danabots-infrastructure-in-support-of-operation-endgame-ii</guid>
+      <title>Team Cymru Scout Integration with Palo Alto Cortex XSOAR | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/announcing-the-team-cymru-scout-integration-with-palo-alto-cortex-xsoar</link>
+      <description>Enhance threat response with Team Cymru Scout’s IP and domain intelligence, now integrated into Palo Alto Cortex XSOAR for automation and real-time insights.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/announcing-the-team-cymru-scout-integration-with-palo-alto-cortex-xsoar</guid>
     </item>
     <item>
-      <title>Uncovering DPRK Remote Workers: Detecting Hidden Threats Through Internet Telemetry | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/uncovering-dprk-remote-workers</link>
-      <description>This blog explores unpacks key insights and explains how internet telemetry can be used to detect these threats in the real world.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/uncovering-dprk-remote-workers</guid>
+      <title>Unveiling Molerats APT: Analysis of Management IP Address</title>
+      <link>https://www.team-cymru.com/post/analysis-of-a-management-ip-address-linked-to-molerats-apt</link>
+      <description>Uncover the implications of a Molerats APT-linked management IP address, and the potential impact on a technology company. Dive into the analysis now!</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/analysis-of-a-management-ip-address-linked-to-molerats-apt</guid>
     </item>
     <item>
-      <title>Supply Chain &amp; CTI | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/supply-chain-cti</link>
-      <description>This blog explores how cyber threat intelligence (CTI) must change and support a new approach to supply chain risk.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/supply-chain-cti</guid>
+      <title>Cybercrime Intelligence Analysis of Carding Operations</title>
+      <link>https://www.team-cymru.com/post/analysing-carding-infrastructure</link>
+      <description>A cybercrime intelligence analysis of carding operations, detailing the infrastructure, hosting providers, and network patterns used to support carding activity.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/analysing-carding-infrastructure</guid>
     </item>
     <item>
-      <title>ToolShell, SharePoint, and the Death of the Patch Window | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/toolshell-sharepoint-and-the-death-of-the-patch-window</link>
-      <description>This blog explores this week's zero-day exploit targeting Microsoft SharePoint, now referred to as ToolShell, caught organizations off guard.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/toolshell-sharepoint-and-the-death-of-the-patch-window</guid>
+      <title>An Introduction to Operational Relay Box (ORB) Networks | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured</link>
+      <description>Explore how threat actors use Operational Relay Box (ORB) networks to evade detection, hide malicious activity, and complicate cyber defense efforts. Talk to an expert.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured</guid>
     </item>
     <item>
-      <title>Decoding Bogons: A Senior Stakeholder's Expert Insight | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/unravelling-the-mystery-of-bogons-a-senior-stakeholder-and-it-professional-guide</link>
-      <description>Bogons are unassigned IPs that can enable cyberattacks. Learn why senior leaders and IT teams must act now to filter and defend against these hidden risks.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/unravelling-the-mystery-of-bogons-a-senior-stakeholder-and-it-professional-guide</guid>
+      <title>Team Cymru's Analysis: Hagga Threat Actor's Infrastructure</title>
+      <link>https://www.team-cymru.com/post/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor</link>
+      <description>Discover how infrastructure analysis is crucial in understanding and combating the Hagga threat actor. Uncover insights for your technology company's security.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor</guid>
     </item>
     <item>
-      <title>Combatting Emotet: Strategies from Team Cymru</title>
-      <link>https://www.team-cymru.com/post/taking-down-emotet</link>
-      <description>Learn how a leading Technology Company successfully dismantled Emotet, the notorious malware, and secured its systems against future cyber threats.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/taking-down-emotet</guid>
+      <title>AllaKore(d) SideCopy in Latest Threat Campaign | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/allakore-d-the-sidecopy-train</link>
+      <description>Explore new findings on SideCopy’s use of AllaKore RAT, revealing connected C2 infrastructure and management activity linked to Pakistan-based threat actors.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/allakore-d-the-sidecopy-train</guid>
     </item>
     <item>
-      <title>A CISO ROI Guide - Elite Threat Hunters Prevent Supply Chain Breaches</title>
-      <link>https://www.team-cymru.com/post/threat-intelligence-a-ciso-roi-guide-elite-threat-hunters-prevent-supply-chain-breaches</link>
-      <description>Discover how elite threat hunters and Pure Signal Recon help CISOs prevent supply chain breaches, save millions, and boost security ROI. Learn more.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/threat-intelligence-a-ciso-roi-guide-elite-threat-hunters-prevent-supply-chain-breaches</guid>
+      <title>AI Threat Intelligence: How Cybercriminals Optimize with AI</title>
+      <link>https://www.team-cymru.com/post/ai-threat-intelligence-cybercrime-evolution</link>
+      <description>Discover how AI threat intelligence reveals cybercriminals' true tactics. Learn why agentic AI and automated threat detection are reshaping cybersecurity.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/ai-threat-intelligence-cybercrime-evolution</guid>
     </item>
     <item>
-      <title>FIN7: The Truth Doesn't Need to be so STARK | Team Cymru</title>
-      <link>https://www.team-cymru.com/post/fin7-the-truth-doesn-t-need-to-be-so-stark</link>
-      <description>Explore how Silent Push, Stark, and Team Cymru joined forces to disrupt FIN7’s malicious activities and uncover critical threat intelligence. Learn more.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/fin7-the-truth-doesn-t-need-to-be-so-stark</guid>
+      <title>AI-Driven Threat Detection: How AI Is Reshaping Cybersecurity</title>
+      <link>https://www.team-cymru.com/post/ai-driven-threat-detection-is-reshaping-cybersecurity</link>
+      <description>Hear Fortinet’s Aamir Lakhani explain the role of AI in cybersecurity and how AI-driven threat detection is reshaping modern threat intelligence.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/ai-driven-threat-detection-is-reshaping-cybersecurity</guid>
+    </item>
+    <item>
+      <title>Adapt and Overcome: Strategies for Success at Team Cymru</title>
+      <link>https://www.team-cymru.com/post/adapt-and-overcome</link>
+      <description>Discover how a 'Technology Company' can adapt and overcome challenges with innovative strategies. Learn how to thrive in the face of adversity.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/adapt-and-overcome</guid>
+    </item>
+    <item>
+      <title>Exploring Recent IcedID Campaigns: Insights from Team Cymru</title>
+      <link>https://www.team-cymru.com/post/a-visualizza-into-recent-icedid-campaigns</link>
+      <description>In this blog post we examine recent trends in IcedID / BokBot campaigns, looking at activity for a one-week period in September 2022.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/a-visualizza-into-recent-icedid-campaigns</guid>
+    </item>
+    <item>
+      <title>JA4+ Primer: Allowing Threat Analysts with Traffic Review | Team Cymru</title>
+      <link>https://www.team-cymru.com/post/a-primer-on-ja4-empowering-threat-analysts-with-better-traffic-analysis</link>
+      <description>JA4+ enhances threat analysis by providing precise insights into encrypted traffic, helping analysts detect malware and anomalies faster and more accurately.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/a-primer-on-ja4-empowering-threat-analysts-with-better-traffic-analysis</guid>
+    </item>
+    <item>
+      <title>The NoName Blog by Team Cymru: Exploring Tech Trends</title>
+      <link>https://www.team-cymru.com/post/a-blog-with-noname</link>
+      <description>Discover the latest tech trends and insights on the 'A Blog with NoName'. Stay updated with the cutting-edge innovations from a leading Technology Company.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/a-blog-with-noname</guid>
+    </item>
+    <item>
+      <title>2024 Year in Review: Features and Improvements in Pure Signal™ Scout</title>
+      <link>https://www.team-cymru.com/post/2024-year-in-review-features-and-improvements-in-pure-signal-tm-scout</link>
+      <description>Team Cymru is excited to share our accomplishments in delivering new features and improvements in Pure Signal™ Scout.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/2024-year-in-review-features-and-improvements-in-pure-signal-tm-scout</guid>
+    </item>
+    <item>
+      <title>2026 DBIR Analysis: Closing the External Visibility Gap</title>
+      <link>https://www.team-cymru.com/post/2026-dbir-external-threat-visibility-gap</link>
+      <description>The 2026 DBIR reveals 88% of threats are external. Learn how Team Cymru's Pure Signal closes the visibility gap before internal alerts trigger.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/2026-dbir-external-threat-visibility-gap</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
