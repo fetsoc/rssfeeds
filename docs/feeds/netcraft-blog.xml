@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 10:45:32 +0000</lastBuildDate>
-    <item>
-      <title>Large-Scale Magento Defacement Campaign Impacts 15,000+ Sites</title>
-      <link>https://www.netcraft.com/blog/large-scale-magento-defacement-campaign</link>
-      <description>Netcraft uncovers a global Magento defacement campaign impacting 15,000+ hostnames across major brands, government domains, and e-commerce platforms. Learn how attackers are exploiting web infrastructure and what defenders should do next.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/large-scale-magento-defacement-campaign</guid>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 15:59:29 +0000</lastBuildDate>
     <item>
       <title>Preemptive Domain Disruption: Stopping Phishing Before It Starts</title>
       <link>https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/how-to-report-takedown-phishing-domain</link>
       <description>Learn how to report a phishing domain, what information to gather first and how to escalate when a single abuse report isn't enough.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/how-to-report-takedown-phishing-domain</guid>
+    </item>
+    <item>
+      <title>Netcraft: Attackers don't publish an asset inventory</title>
+      <link>https://www.netcraft.com/blog/attackers-dont-publish-an-asset-inventory</link>
+      <description>Why public threat feeds aren't enough: Learn how proprietary intelligence helps uncover hidden phishing attacks, cloaked infrastructure, and cyber threats before they cause harm.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/attackers-dont-publish-an-asset-inventory</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
