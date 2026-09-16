@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 10:33:32 +0000</lastBuildDate>
-    <item>
-      <title>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</title>
-      <link>https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</link>
-      <description>Hunt.io maps phishing campaigns using shared ZIP payload infrastructure targeting financial institutions and government organizations across Asia. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</guid>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 15:50:54 +0000</lastBuildDate>
     <item>
       <title>Hunt 2.7 Is Here: Faster Searches, Smarter Filters, Deeper Insight</title>
       <link>https://hunt.io/blog/announcing-hunt-2-7</link>
@@ -357,6 +350,13 @@
       <description>An attacker's exposed directory revealed a live intrusion into Thai broadband provider 3BB, from FortiGate SSL-VPN exploitation to MeshCentral persistence and RADIUS credential theft.</description>
       <guid isPermaLink="false">https://hunt.io/blog/thai-broadband-fortigate-sslvpn-meshcentral-intrusion</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia</title>
+      <link>https://hunt.io/blog/silkparasite-spicerat-central-asia-infrastructure</link>
+      <description>Hunt.io SpiceRAT detections identified shared infrastructure artifacts across malware families in Bitdefender’s SilkParasite report, connecting servers to Central Asian energy, government, and telecom targets.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/silkparasite-spicerat-central-asia-infrastructure</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
