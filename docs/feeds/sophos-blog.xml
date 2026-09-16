@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 20:43:50 +0000</lastBuildDate>
-    <item>
-      <title>The State of Ransomware in Education 2026</title>
-      <link>https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</link>
-      <description>&lt;p&gt;Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ungentlemanly behavior: Insights into a ransomware operation</title>
-      <link>https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation</link>
-      <description>&lt;p&gt;Analysis of 15 intrusions revealed tradecraft used by GOLD SHERWOOD affiliates&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 02:39:10 +0000</lastBuildDate>
     <item>
       <title>SonicWall SMA1000 vulnerabilities (CVE-2026-83548, CVE-2026-83549) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/sonicwall-83548-83549</link>
@@ -67,6 +53,20 @@
       <title>Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Messageboards are all they need</title>
+      <link>https://www.sophos.com/en-us/blog/ai-research-messageboards</link>
+      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-research-messageboards</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The industry turned XDR and SIEM into categories. Sophos turned them into outcomes.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-next-gen-siem</link>
+      <description>&lt;p&gt;Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-next-gen-siem</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

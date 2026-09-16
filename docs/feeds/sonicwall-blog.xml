@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 20:42:12 +0000</lastBuildDate>
-    <item>
-      <title>Ransomware is Everywhere</title>
-      <link>https://www.sonicwall.com/blog/ransomware-is-everywhere</link>
-      <description>Of all the products and services you use each day, how many have been impacted by ransomware? SonicWall takes an in-depth look.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/ransomware-is-everywhere</guid>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 02:37:36 +0000</lastBuildDate>
     <item>
       <title>BEC Attacks: Inside a $26 Billion Scam</title>
       <link>https://www.sonicwall.com/blog/bec-attacks-inside-a-26-billion-scam</link>
@@ -228,12 +222,6 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</guid>
     </item>
     <item>
-      <title>While You Were Doomscrolling: September 2026</title>
-      <link>https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</link>
-      <description>A pasta sauce company's new listening device, Medusa ransomware crossing 500 victims, and our pick for a can't-miss fantasy defense.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</guid>
-    </item>
-    <item>
       <title>SonicWall Wins Big at 2026 CybersecAsia Awards</title>
       <link>https://www.sonicwall.com/blog/sonicwall-wins-big-at-the-2026-cybersecasia-readers-choice-awards-and-enters-the-hall-of-fame</link>
       <description>SonicWall earns two CybersecAsia Readers' Choice Awards for Cloud Security and Ransomware Defense, plus Hall of Fame induction for five years of recognition.</description>
@@ -250,6 +238,17 @@
       <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-what-the-rams-and-chargers-teach-us-about-security-spending</link>
       <description>Lessons security professionals can learn from the Chargers and Rams' week one losses.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-what-the-rams-and-chargers-teach-us-about-security-spending</guid>
+    </item>
+    <item>
+      <title>%%title%% %%page%%</title>
+      <link>https://www.sonicwall.com/blog/from-sonic-systems-to-sonicwall-30-years-of-cybersecurity-evolution</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/from-sonic-systems-to-sonicwall-30-years-of-cybersecurity-evolution</guid>
+    </item>
+    <item>
+      <title>While You Were Doomscrolling: September 2026</title>
+      <link>https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</link>
+      <description>A pasta sauce company's new listening device, Medusa ransomware crossing 500 victims, and our pick for a can't-miss fantasy defense.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
