@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 02:39:07 +0000</lastBuildDate>
-    <item>
-      <title>North Korean IT Workers Scheme: Detection IOCs and Tactics for Government and Corporate SOCs</title>
-      <link>https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/</link>
-      <description>&lt;p&gt;The infiltration of North Korean IT workers into American and European organizations has evolved into a sophisticated operation that bypasses traditional security perimeters. By using forged identities and AI-assisted workflows, these operatives successfully transition from external applicants to trusted insiders. Recent investigations highlight that this scheme is no longer limited to the private sector, posing [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/"&gt;North Korean IT Workers Scheme: Detection IOCs and Tactics for Government and Corporate SOCs&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/how-to-protect-organization-against-north-korean-it-workers/</guid>
-      <pubDate>Thu, 20 Aug 2026 07:58:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 10:36:02 +0000</lastBuildDate>
     <item>
       <title>A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign</title>
       <link>https://any.run/cybersecurity-blog/us-campaign-malware-analysis/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/h1-2026-cyber-risk-report/"&gt;6 Months on Alert: Get H1 2026 Cyber Risk Report for SOCs and MSSPs&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/h1-2026-cyber-risk-report/</guid>
       <pubDate>Tue, 15 Sep 2026 09:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANY.RUN &amp; SentinelOne: One Workspace, Instant Context for Rapid Response</title>
+      <link>https://any.run/cybersecurity-blog/sentinelone-integration/</link>
+      <description>&lt;p&gt;Speed and clarity are the ultimate advantages for modern SOC teams. The integration of ANY.RUN into SentinelOne delivers exactly that. Instant threat intelligence and interactive sandbox capabilities embedded right where your analysts already work. Let’s look at how this unified workflow eliminates context switching, accelerates incident response, and drives higher ROI by transforming alerts into [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/sentinelone-integration/"&gt;ANY.RUN &amp;amp; SentinelOne: One Workspace, Instant Context for Rapid Response&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/sentinelone-integration/</guid>
+      <pubDate>Wed, 16 Sep 2026 06:40:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
