@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 15:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:44:23 +0000</lastBuildDate>
     <item>
       <title>SonicWall SMA1000 vulnerabilities (CVE-2026-83548, CVE-2026-83549) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/sonicwall-83548-83549</link>

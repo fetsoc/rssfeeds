@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 15:51:39 +0000</lastBuildDate>
-    <item>
-      <title>BEC Attacks: Inside a $26 Billion Scam</title>
-      <link>https://www.sonicwall.com/blog/bec-attacks-inside-a-26-billion-scam</link>
-      <description>A new Osterman Research study explores why Business Email Compromise (BEC) attacks are more financially devastating than ransomware — and how they can be stopped.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/bec-attacks-inside-a-26-billion-scam</guid>
-    </item>
-    <item>
-      <title>Cyberattacks on Government Skyrocketed in 2021</title>
-      <link>https://www.sonicwall.com/blog/cyberattacks-on-government-skyrocketed-in-2021</link>
-      <description>Stats from the 2022 SonicWall Cyber Threat Report show an increase in attacks on federal, state and local governments, including ransomware, IoT, cryptojacking and more.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cyberattacks-on-government-skyrocketed-in-2021</guid>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 20:42:48 +0000</lastBuildDate>
     <item>
       <title>World Backup Day: Because Real Life Can Have Save Points Too</title>
       <link>https://www.sonicwall.com/blog/world-backup-day-because-real-life-can-have-save-points-too</link>
@@ -251,6 +239,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</guid>
     </item>
     <item>
+      <title>PaperCut NG/MF Unauthenticated RCE Chain - CVE-2026-82078</title>
+      <link>https://www.sonicwall.com/blog/papercut-ng-mf-unauthenticated-remote-code-execution</link>
+      <description>Critical CVSS 9.4 config-injection flaw chains with a PaperCut NG/MF auth bypass for unauthenticated RCE. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/papercut-ng-mf-unauthenticated-remote-code-execution</guid>
+    </item>
+    <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
       <link>https://www.sonicwall.com/blog/cyber-security-news-trends-05-07-21</link>
       <description>This week, attacks by cybercriminals in Russia and China made headlines — and the U.S. government is mobilizing to fight back.</description>
@@ -311,6 +305,13 @@
       <description>SonicWall Cloud Secure Edge expands Point of Presence (PoPs) bringing faster, local Zero Trust enforcement.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing the Encrypted Traffic Blind Spot with Cloud Secure Edge</title>
+      <link>https://www.sonicwall.com/blog/hidden-in-plain-sight</link>
+      <description>Over 90 percent of internet traffic is encrypted. Fewer than one in ten organizations actually inspect it. That gap is where most new malware now hides. See how Cloud Secure Edge closes this gap.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/hidden-in-plain-sight</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
