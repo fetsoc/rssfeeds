@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 10:44:08 +0000</lastBuildDate>
-    <item>
-      <title>Preemptive Domain Disruption: Stopping Phishing Before It Starts</title>
-      <link>https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</link>
-      <description>Netcraft introduces Preemptive Domain Disruption, using AI and Verified Attack Indicators to take down malicious infrastructure before attacks launch—eliminating the victimization window.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/preemptive-domain-disruption-ai-powered-disruption-jumps-left-of-live</guid>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 15:58:37 +0000</lastBuildDate>
     <item>
       <title>5 Questions to Ask Your Next Digital Risk Protection Vendor</title>
       <link>https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/attackers-dont-publish-an-asset-inventory</link>
       <description>Why public threat feeds aren't enough: Learn how proprietary intelligence helps uncover hidden phishing attacks, cloaked infrastructure, and cyber threats before they cause harm.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/attackers-dont-publish-an-asset-inventory</guid>
+    </item>
+    <item>
+      <title>Threat Actors Hosting Lure Documents on Legitimate Platforms</title>
+      <link>https://www.netcraft.com/blog/secure-document-lures-hosted-on-legitimate-platforms</link>
+      <description>Netcraft uncovers phishing campaigns abusing Padlet and Scribe to host secure document lures, plus a fake DocSend page delivering a ScreenConnect RAT.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/secure-document-lures-hosted-on-legitimate-platforms</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
