@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 02:44:24 +0000</lastBuildDate>
-    <item>
-      <title>Not Every Fox is Silver: Inside an AtlasRAT loader chain</title>
-      <link>https://asec.ahnlab.com/en/94704/</link>
-      <description>Summary AtlasRAT is a Windows-based remote access malware. This report analyzes a four-stage in-memory loader chain—which begins with a Delphi executable that is disguised as AGE Flash Player—and its final RAT functionality. The final payload performs TLS-based ChaCha20-encrypted C2 communication, executes modular plugins, performs offline keylogging, and injects DLLs into WeChat processes. Group Characteristics Public [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94704/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:25:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 10:45:14 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 5, July 2026</title>
       <link>https://asec.ahnlab.com/en/94707/</link>
@@ -217,6 +210,13 @@
       <description>Note In August 2026, widespread instances of database leaks, the sale of internal data, and the trading of initial access privileges were observed on dark web and deep web forums. Due to the nature of the sources, it was difficult to fully verify the accuracy of some posts. Major Issues ShinyHunters continued to make claims [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95385/</guid>
       <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95450/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

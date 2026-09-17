@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 02:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:44:12 +0000</lastBuildDate>
     <item>
       <title>Fingerprinting Malware C2s with Tags | Team Cymru</title>
       <link>https://www.team-cymru.com/post/fingerprinting-malware-c2s-with-tags</link>

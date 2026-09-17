@@ -7,23 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 02:44:22 +0000</lastBuildDate>
-    <item>
-      <title>A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign</title>
-      <link>https://any.run/cybersecurity-blog/us-campaign-malware-analysis/</link>
-      <description>&lt;p&gt;As ANY.RUN analysis shows, a campaign that initially appears to target Canadians with fake Canada Revenue Agency (CRA) T4 tax documents is actually part of a much broader remote-access campaign spanning 46 countries, with 45% of observed activity associated with the United States. The attackers impersonate trusted organizations and document types to trick victims into [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-campaign-malware-analysis/"&gt;A Single Canadian Tax Lure Spread into a 46-Country, US-First RMM Campaign&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-campaign-malware-analysis/</guid>
-      <pubDate>Tue, 25 Aug 2026 10:40:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Finance Under Phishing Pressure: What the SOC Data Reveals?</title>
-      <link>https://any.run/cybersecurity-blog/phishing-us-finance/</link>
-      <description>&lt;p&gt;With modern campaigns such as Vercel-hosted RMM attacks, the scale and security impact of phishing in US finance should not be understated. As threats get increasingly harder to detect, the phishing challenge raises the stakes in the industry. Legitimate services and tools used in daily workflows across corporate America are increasingly abused to deliver phishing [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-us-finance/"&gt;US Finance Under Phishing Pressure: What the SOC Data Reveals?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-us-finance/</guid>
-      <pubDate>Wed, 26 Aug 2026 09:17:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 10:45:13 +0000</lastBuildDate>
     <item>
       <title>Major Cyber Attacks in August 2026: US and EU Businesses Hit by Session Hijacking, Remote Access, and Insider Risk</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-august-2026/</link>
@@ -87,6 +71,22 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/sentinelone-integration/"&gt;ANY.RUN &amp;amp; SentinelOne: One Workspace, Instant Context for Rapid Response&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/sentinelone-integration/</guid>
       <pubDate>Wed, 16 Sep 2026 06:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise Threat Intelligence Buying Guide: How to Choose the Right Solution</title>
+      <link>https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/</link>
+      <description>&lt;p&gt;Choosing an enterprise threat intelligence solution is about more than just data volume or integrations. The right provider should deliver relevant intelligence, fit existing workflows, and help security teams investigate threats faster. While SOCs may prioritize rapid investigation and enrichment at scale, MSSPs may focus more on multi-tenancy and customer separation. This enterprise threat intelligence [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/"&gt;Enterprise Threat Intelligence Buying Guide: How to Choose the Right Solution&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/</guid>
+      <pubDate>Thu, 17 Sep 2026 07:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>How MSSPs Can Prove Their Value When “Nothing Happened”</title>
+      <link>https://any.run/cybersecurity-blog/how-mssps-prove-value/</link>
+      <description>&lt;p&gt;For an MSSP, a quiet month can be a good month. No ransomware outbreak. No major account compromise. No business disruption. But it can also create an awkward conversation with the client: What exactly did we pay for this month? The problem is not that the SOC did nothing. Quite the opposite. Analysts may have [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/how-mssps-prove-value/"&gt;How MSSPs Can Prove Their Value When “Nothing Happened”&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/how-mssps-prove-value/</guid>
+      <pubDate>Thu, 17 Sep 2026 08:15:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
