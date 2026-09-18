@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 10:19:21 +0000</lastBuildDate>
-    <item>
-      <title>5 Questions to Ask Your Next Digital Risk Protection Vendor</title>
-      <link>https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</link>
-      <description>A DRP solution should reveal whether the platform actively disrupts attacks or simply reports them. Ask these five questions to find the right DRP vendor.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/avoiding-the-dashboard-trap-how-to-vet-your-next-drp-vendor</guid>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 15:32:27 +0000</lastBuildDate>
     <item>
       <title>Excessive Emojis as an AI Indicator</title>
       <link>https://www.netcraft.com/blog/excessive-emojis-as-an-ai-indicator</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/secure-document-lures-hosted-on-legitimate-platforms</link>
       <description>Netcraft uncovers phishing campaigns abusing Padlet and Scribe to host secure document lures, plus a fake DocSend page delivering a ScreenConnect RAT.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/secure-document-lures-hosted-on-legitimate-platforms</guid>
+    </item>
+    <item>
+      <title>5 Real Examples of Fake Login Pages</title>
+      <link>https://www.netcraft.com/blog/5-real-examples-of-fake-login-pages-(and-how-to-spot-them)</link>
+      <description>See five real fake login pages found by Netcraft researchers, how they reached victims, and the warning signs that can reveal them.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/5-real-examples-of-fake-login-pages-(and-how-to-spot-them)</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
