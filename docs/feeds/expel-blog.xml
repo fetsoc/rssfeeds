@@ -7,7 +7,28 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 15:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:13:22 +0000</lastBuildDate>
+    <item>
+      <title>A recap: Expel’s 2024 Black Hat experience</title>
+      <link>https://expel.com/blog/a-recap-expels-2024-black-hat-experience/</link>
+      <description>Black Hat 2024 is over, and the big themes this year were vulnerabilities, election infrastructure, and evaluating security maturity.</description>
+      <guid isPermaLink="false">https://expel.com/blog/a-recap-expels-2024-black-hat-experience/</guid>
+      <pubDate>Thu, 15 Aug 2024 13:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>MDR insights: using vulnerability data to inform remediation strategies</title>
+      <link>https://expel.com/blog/mdr-insights-using-vulnerability-data-to-inform-remediation-strategies/</link>
+      <description>MDR vulnerabilities data can be used with EPSS scoring and the CISA catalog to glean insights, reduce alert noise, and guide remediation.</description>
+      <guid isPermaLink="false">https://expel.com/blog/mdr-insights-using-vulnerability-data-to-inform-remediation-strategies/</guid>
+      <pubDate>Tue, 20 Aug 2024 13:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel and Wiz join forces: a game-changer for cloud security</title>
+      <link>https://expel.com/blog/expel-and-wiz-join-forces-a-game-changer-for-cloud-security/</link>
+      <description>Expel and Wiz announce a new partnership to provide comprehensive, round-the-clock cloud security that's powerful and user-friendly.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-and-wiz-join-forces-a-game-changer-for-cloud-security/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:13:40 +0000</pubDate>
+    </item>
     <item>
       <title>MDR insights: how our SOC identified &amp; responded to CVE-2024-3400</title>
       <link>https://expel.com/blog/mdr-insights-how-our-soc-identified-responded-to-cve-2024-3400/</link>
@@ -289,13 +310,6 @@
       <pubDate>Mon, 24 Mar 2025 13:46:43 +0000</pubDate>
     </item>
     <item>
-      <title>Comparison of cloud resources (part I): Securing every layer of your cloud—from the control plane to apps</title>
-      <link>https://expel.com/blog/comparison-of-cloud-resources-part-i/</link>
-      <description>This is part one of our four-part blog series on comparing cloud resources. Part one covers the layers of the cloud infrastructure.</description>
-      <guid isPermaLink="false">https://expel.com/blog/comparison-of-cloud-resources-part-i/</guid>
-      <pubDate>Wed, 26 Mar 2025 14:38:42 +0000</pubDate>
-    </item>
-    <item>
       <title>Expletive spotlight: Women’s History Month</title>
       <link>https://expel.com/blog/expletive-spotlight-womens-history-month/</link>
       <description>To round out our Women's History Month celebrations, we asked Expletives to share their thoughts on gender parity.</description>
@@ -310,25 +324,11 @@
       <pubDate>Tue, 01 Apr 2025 13:08:03 +0000</pubDate>
     </item>
     <item>
-      <title>Comparison of cloud resources (part II): Demystifying cloud security tools</title>
-      <link>https://expel.com/blog/comparison-of-cloud-resources-part-ii/</link>
-      <description>This is part two of our four-part blog series on comparing cloud resources. Part two defines the types of tools used for cloud security.</description>
-      <guid isPermaLink="false">https://expel.com/blog/comparison-of-cloud-resources-part-ii/</guid>
-      <pubDate>Thu, 03 Apr 2025 14:11:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Key findings generation with GenAI</title>
       <link>https://expel.com/blog/key-findings-generation-with-genai/</link>
       <description>At Expel, we AI Responsibly. Our latest project focused on generating key findings (KF) to detail incident investigations.</description>
       <guid isPermaLink="false">https://expel.com/blog/key-findings-generation-with-genai/</guid>
       <pubDate>Fri, 04 Apr 2025 13:38:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Closing the revolving door in security: solving FinServ staffing struggles</title>
-      <link>https://expel.com/blog/closing-the-revolving-door-in-security-solving-finserv-staffing-struggles/</link>
-      <description>Expel can help you maximize your FinServ security team's capabilities with our managed detection and response (MDR) and automation offerings.</description>
-      <guid isPermaLink="false">https://expel.com/blog/closing-the-revolving-door-in-security-solving-finserv-staffing-struggles/</guid>
-      <pubDate>Tue, 15 Apr 2025 13:00:18 +0000</pubDate>
     </item>
     <item>
       <title>Expel named a Trusted Cloud Provider by CSA—what that means (and why it matters)</title>
