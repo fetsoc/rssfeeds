@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 21:34:28 +0000</lastBuildDate>
-    <item>
-      <title>Behind The Breach: MFA Everywhere, Yes. MFA For Everyone, No.</title>
-      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-mfa</link>
-      <description>Analyze real breaches where MFA coverage gaps enabled attacks. Learn why universal MFA deployment is critical for enterprise security.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-mfa</guid>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 02:41:47 +0000</lastBuildDate>
     <item>
       <title>Behind the Breach: Malicious Attack on Cyberhaven’s Chrome Extension Developer Team</title>
       <link>https://www.obsidiansecurity.com/blog/behind-the-breach-malicious-attack-on-cyberhavens-chrome-extension-developer-team</link>
@@ -67,6 +61,11 @@
       <link>https://www.obsidiansecurity.com/blog/ai-security-risks</link>
       <description>Identify the most critical AI security risks threatening enterprises in 2025 and learn actionable strategies to protect your AI infrastructure and data.</description>
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-risks</guid>
+    </item>
+    <item>
+      <title>https://www.obsidiansecurity.com/blog/ai-security-questions-answers</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-security-questions-answers</link>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-security-questions-answers</guid>
     </item>
     <item>
       <title>AI Security Posture Management: Continuous Protection for AI Agents</title>
