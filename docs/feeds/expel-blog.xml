@@ -7,7 +7,28 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 16:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:42:55 +0000</lastBuildDate>
+    <item>
+      <title>Expel Quarterly Threat Report Q2 2024 volume IV: Phishing trends</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iv-phishing-trends/</link>
+      <description>PhaaS platforms make phishing easy. In this volume in our series, we share what these are, how they work, and how they can be counteracted.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iv-phishing-trends/</guid>
+      <pubDate>Thu, 25 Jul 2024 15:05:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The serious impact of burnout—it’s more than a buzzword</title>
+      <link>https://expel.com/blog/burnout-its-more-than-a-buzzword/</link>
+      <description>Expel’s Chief People Officer, Amy Rossi, shares how to identify and address burnout in your team as it continues to run rampant in cybersecurity.</description>
+      <guid isPermaLink="false">https://expel.com/blog/burnout-its-more-than-a-buzzword/</guid>
+      <pubDate>Wed, 07 Aug 2024 13:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>From exhaustion to equilibrium: battling burnout in your SOC</title>
+      <link>https://expel.com/blog/from-exhaustion-to-equilibrium-battling-burnout-in-your-soc/</link>
+      <description>Our new ebook covers the burnout epidemic in the industry, and how you can address it.</description>
+      <guid isPermaLink="false">https://expel.com/blog/from-exhaustion-to-equilibrium-battling-burnout-in-your-soc/</guid>
+      <pubDate>Thu, 08 Aug 2024 14:09:02 +0000</pubDate>
+    </item>
     <item>
       <title>A recap: Expel’s 2024 Black Hat experience</title>
       <link>https://expel.com/blog/a-recap-expels-2024-black-hat-experience/</link>
@@ -44,13 +65,6 @@
       <pubDate>Wed, 11 Sep 2024 13:53:38 +0000</pubDate>
     </item>
     <item>
-      <title>Expel’s going abroad (again): meet us at Gartner Security &amp; Risk Management Summit UK</title>
-      <link>https://expel.com/blog/expel-going-abroad-again-meet-us-at-gartner-security-risk-management-summit-uk/</link>
-      <description>Expel is heading to the Gartner Security &amp; Risk Management Summit UK. Find us at booth #506, or speaking with Visa on security gaps.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-going-abroad-again-meet-us-at-gartner-security-risk-management-summit-uk/</guid>
-      <pubDate>Wed, 18 Sep 2024 16:32:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Patch Tuesday roundup for October 2024</title>
       <link>https://expel.com/blog/patch-tuesday-roundup-for-october-2024/</link>
       <description>The October 2024 edition of Patch Tuesday is live, including 117 published CVEs from Microsoft. Here are our top takeaways.</description>
@@ -72,25 +86,11 @@
       <pubDate>Thu, 17 Oct 2024 13:16:34 +0000</pubDate>
     </item>
     <item>
-      <title>Expel Quarterly Threat Report Q3 2024, volume II: CAPTCHA trick or treat</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-ii-captcha-trick-or-treat/</link>
-      <description>Volume II of our Q3 2024 Quarterly Threat Report focuses on malicious CAPTCHAs. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-ii-captcha-trick-or-treat/</guid>
-      <pubDate>Thu, 17 Oct 2024 13:17:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Expel Quarterly Threat Report Q3 2024, volume III: Malware trends</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</link>
       <description>Volume III of our Q3 2024 Quarterly Threat Report focuses on malware trends. Learn what to focus on right now.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</guid>
       <pubDate>Mon, 21 Oct 2024 13:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report Q3 2024, volume IV: Suspicious infrastructure from phishing-as-a-service (PhaaS) platforms</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iv-suspicious-infrastructure-from-phishing-as-a-service-phaas-platforms/</link>
-      <description>Volume IV of our Q3 2024 Quarterly Threat Report focuses on phishing-as-a-service (PaaS). Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iv-suspicious-infrastructure-from-phishing-as-a-service-phaas-platforms/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:20:16 +0000</pubDate>
     </item>
     <item>
       <title>Happy Halloween! Cybersecurity horror stories from SOCs past</title>
@@ -240,13 +240,6 @@
       <pubDate>Thu, 20 Feb 2025 14:40:01 +0000</pubDate>
     </item>
     <item>
-      <title>Expel names top security partners in inaugural Partner of the Year Awards</title>
-      <link>https://expel.com/blog/expel-partner-of-the-year-awards/</link>
-      <description>Expel's inaugural Partner of the Year Awards have been announced. Check out the winners, and explore partnership opportunities.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-partner-of-the-year-awards/</guid>
-      <pubDate>Wed, 26 Feb 2025 15:11:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Expletive spotlight: Black History Month</title>
       <link>https://expel.com/blog/expletive-spotlight-black-history-month/</link>
       <description>To round out our Black History Month celebrations, we asked Expletives to share Black innovators in tech who inspire them.</description>
@@ -259,13 +252,6 @@
       <description>Threat Bulletins are now available in Expel Workbench™, including details on any threat hunting completed to resolve the issue.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-mdr-customers-benefit-from-expanded-threat-intel-experience/</guid>
       <pubDate>Tue, 04 Mar 2025 16:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel’s new Oracle Cloud Infrastructure (OCI) integration completes your cloud coverage</title>
-      <link>https://expel.com/blog/expels-new-oracle-cloud-infrastructure-oci-integration/</link>
-      <description>Expel announces new coverage for Oracle Cloud Infrastructure (OCI) to enhance our leading cloud MDR with an OCI API integration.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expels-new-oracle-cloud-infrastructure-oci-integration/</guid>
-      <pubDate>Wed, 12 Mar 2025 13:26:45 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday (Expel's version): March 2025</title>
@@ -331,13 +317,6 @@
       <pubDate>Fri, 04 Apr 2025 13:38:33 +0000</pubDate>
     </item>
     <item>
-      <title>Expel named a Trusted Cloud Provider by CSA—what that means (and why it matters)</title>
-      <link>https://expel.com/blog/expel-named-a-trusted-cloud-provider-by-csa/</link>
-      <description>Expel was recently named a Trusted Cloud Provider by the Cloud Security Alliance (CSA), and joined CSA's STAR Level 1 program.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-named-a-trusted-cloud-provider-by-csa/</guid>
-      <pubDate>Wed, 16 Apr 2025 16:21:59 +0000</pubDate>
-    </item>
-    <item>
       <title>The great SIEM paradox: does more data equal better security?</title>
       <link>https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</link>
       <description>More data doesn't equate to better security. Understand what data belongs in a SIEM (and what doesn't), and how Expel MDR can help.</description>
@@ -357,6 +336,27 @@
       <description>Expel's new integrations expand our comprehensive MDR coverage against phishing, business email compromise (BEC), and inbox-based attacks.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-launches-proactive-defense-for-email-threats/</guid>
       <pubDate>Tue, 22 Apr 2025 13:22:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>New report from the Enterprise Strategy Group calculates 308% annual ROI increase when partnering with Expel</title>
+      <link>https://expel.com/blog/new-report-from-the-enterprise-strategy-group-calculates-308-annual-roi-increase-when-partnering-with-expel/</link>
+      <description>A new report from the Enterprise Strategy Group calculates 308% annual ROI increase when partnering with Expel as your MDR provider.</description>
+      <guid isPermaLink="false">https://expel.com/blog/new-report-from-the-enterprise-strategy-group-calculates-308-annual-roi-increase-when-partnering-with-expel/</guid>
+      <pubDate>Tue, 06 May 2025 13:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recapping RSAC 2025: How AI, ethics, and geopolitical events combine in cybersecurity scenarios</title>
+      <link>https://expel.com/blog/recapping-rsac-2025-how-ai-ethics-and-geopolitical-events-combine-in-cybersecurity-scenarios/</link>
+      <description>Here's a recap of the Expel team's experience at RSAC 2025. We pet puppies and goats, played games, connected, and highlight trending topics.</description>
+      <guid isPermaLink="false">https://expel.com/blog/recapping-rsac-2025-how-ai-ethics-and-geopolitical-events-combine-in-cybersecurity-scenarios/</guid>
+      <pubDate>Thu, 08 May 2025 16:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Expletive: Fred House, VP, Detection Engineering and Innovation</title>
+      <link>https://expel.com/blog/meet-the-expletive-fred-house-vp-detection-engineering-and-innovation/</link>
+      <description>Meet Fred House, VP of Detection Engineering and Innovation at Expel. He leads the Detection &amp; Response Engineering and Data Science teams.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-fred-house-vp-detection-engineering-and-innovation/</guid>
+      <pubDate>Fri, 09 May 2025 14:42:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
