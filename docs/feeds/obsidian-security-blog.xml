@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 15:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:57:08 +0000</lastBuildDate>
     <item>
       <title>Behind the Breach: Malicious Attack on Cyberhaven’s Chrome Extension Developer Team</title>
       <link>https://www.obsidiansecurity.com/blog/behind-the-breach-malicious-attack-on-cyberhavens-chrome-extension-developer-team</link>
