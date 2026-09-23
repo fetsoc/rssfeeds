@@ -7,6 +7,356 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 02:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:33:57 +0000</lastBuildDate>
+    <item>
+      <title>From Shadows to Sanctions: Unmasking 35 Iranian Cyber Operatives Driving State-Sponsored Warfare</title>
+      <link>https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</link>
+      <description>An intelligence-driven analysis exposing 35 Iranian cyber operatives, front companies, and state-linked networks tied to IRGC and MOIS operations, based on DOJ indictments, OFAC sanctions, FBI advisories, and private-sector threat intelligence.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</guid>
+      <pubDate>Mon, 06 Apr 2026 10:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operation Phantom Claude: A macOS Infostealer Campaign Exploiting Anthropic’s Brand Identity</title>
+      <link>https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</link>
+      <description>A sophisticated macOS infostealer campaign dubbed “Operation Phantom Claude” is exploiting trust in Anthropic’s Claude AI, using fake branding, Cloudflare infrastructure, and multi-stage loaders to deliver credential-stealing malware. FalconFeeds intelligence reveals a coordinated attack targeting macOS users with advanced evasion techniques and AI-themed social engineering.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</guid>
+      <pubDate>Mon, 13 Apr 2026 04:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>MicroStealer / SparkStealer: Large-Scale Gaming-Themed Credential Theft Infrastructure Uncovered</title>
+      <link>https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</link>
+      <description>FalconFeeds reveals a large-scale MicroStealer and SparkStealer campaign abusing Minecraft-themed domains to target gamers via fake mods and server links, enabling credential theft, wallet exfiltration, and account compromise.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</guid>
+      <pubDate>Mon, 13 Apr 2026 06:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UNC1069: DPRK’s Deepfake-Driven Cyber Campaign Targeting Crypto and Software Supply Chains</title>
+      <link>https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</link>
+      <description>UNC1069, a DPRK-linked threat actor tied to the Reconnaissance General Bureau, is leveraging deepfake-driven social engineering and supply chain attacks—including npm compromise—to target crypto and developer ecosystems, marking a new evolution in North Korean cyber operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</guid>
+      <pubDate>Fri, 17 Apr 2026 15:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark Storm Team: Hacktivism at Scale in the Iran–Israel Cyber Conflict and Middle East Critical Infrastructure Threat Landscape</title>
+      <link>https://falconfeeds.io/blogs/dark-storm-team-iran-israel-cyber-conflict-middle-east-critical-infrastructure-threat</link>
+      <description>An in-depth FalconFeeds analysis of Dark Storm Team’s role in the Iran–Israel cyber conflict, exposing its threat to Middle East governments, critical infrastructure, and Abraham Accords-aligned states.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/dark-storm-team-iran-israel-cyber-conflict-middle-east-critical-infrastructure-threat</guid>
+      <pubDate>Sun, 19 Apr 2026 15:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commercial Satellite Intelligence as a Geopolitical Weapon: Satellite Navigation, GPS Warfare &amp; the Iran - U.S. Conflict</title>
+      <link>https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</link>
+      <description>An in-depth analysis of how satellite navigation, GPS jamming, spoofing, and China’s BeiDou system became strategic weapons in the Iran–U.S. conflict, disrupting shipping, oil flows, and regional power dynamics.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</guid>
+      <pubDate>Sun, 19 Apr 2026 15:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Falcon Feeds Stands Out as the Ultimate One-Stop CTI Feed Solution for Modern Security Operations Centers</title>
+      <link>https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</link>
+      <description>Discover why Falcon Feeds is the ultimate one-stop CTI solution for SOC teams with real-time threat intelligence, faster detection, and simplified security operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</guid>
+      <pubDate>Mon, 27 Apr 2026 08:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran - Israel Conflict Malware Landscape: Common Malware Families, Technical Analysis, IOC Compendium &amp; Attribution Mapping</title>
+      <link>https://falconfeeds.io/blogs/iran-israel-conflict-malware-landscape-technical-analysis-ioc-attribution-mapping</link>
+      <description>Explore the evolving malware ecosystem of the Iran–Israel conflict with a technical breakdown of key families, IOCs, MITRE ATT&amp;CK mappings, and threat actor activity using data from FalconFeeds.io, AlienVault OTX, and VirusTotal.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-israel-conflict-malware-landscape-technical-analysis-ioc-attribution-mapping</guid>
+      <pubDate>Wed, 29 Apr 2026 06:38:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commercial Satellite Internet in Modern Conflict: The Strategic Role of Starlink &amp; Commercial SATCOM in Contemporary Warfare, Intelligence Operations &amp; Geopolitical Power Realignment</title>
+      <link>https://falconfeeds.io/blogs/commercial-satellite-internet-modern-conflict-starlink-satcom-geopolitical-power</link>
+      <description>Explore how Starlink is reshaping modern conflict through battlefield connectivity, drone operations, and geopolitical power shifts across Ukraine and Iran, highlighting the risks of private control over critical wartime infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/commercial-satellite-internet-modern-conflict-starlink-satcom-geopolitical-power</guid>
+      <pubDate>Wed, 29 Apr 2026 06:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing Under Siege: Ransomware Convergence on Industrial Targets</title>
+      <link>https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</link>
+      <description>Explore the 20 April 2026 ransomware surge where INC RANSOM, CoinbaseCartel, CHAOS, and The Gentlemen targeted global manufacturing, exposing risks to industrial and supply-chain organizations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</guid>
+      <pubDate>Thu, 30 Apr 2026 07:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>HexagonalRodent: DPRK AI-Powered Crypto Theft Campaign Using LinkedIn Lures to Target Web3 Develop</title>
+      <link>https://falconfeeds.io/blogs/hexagonalrodent-dprk-ai-crypto-theft-linkedin-malware-web3-targeting</link>
+      <description>Explore how HexagonalRodent used AI-powered LinkedIn phishing and malware to steal $12M from Web3 developers, revealing new tactics in DPRK crypto theft operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/hexagonalrodent-dprk-ai-crypto-theft-linkedin-malware-web3-targeting</guid>
+      <pubDate>Thu, 30 Apr 2026 09:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vidar &amp; StrelaStealer IOC Alert: Fresh Infrastructure Signals Active Credential Theft Campaigns</title>
+      <link>https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</link>
+      <description>Discover new IOCs linked to Vidar and StrelaStealer, revealing active infrastructure, phishing distribution, and immediate risks to organizations worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</guid>
+      <pubDate>Thu, 30 Apr 2026 09:59:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structural Resilience and the Hydrated Adversary: A Multi-Dimensional Analysis of Threat Actor Migration and Operational Displacement</title>
+      <link>https://falconfeeds.io/blogs/hydrated-adversary-threat-actor-migration-operational-displacement-analysis</link>
+      <description>Explore how cyber threat actors adapt to global crackdowns through migration, infrastructure resilience, and AI-driven operations, highlighting the evolving dynamics of modern cybercrime ecosystems and operational displacement.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/hydrated-adversary-threat-actor-migration-operational-displacement-analysis</guid>
+      <pubDate>Mon, 04 May 2026 05:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-Linked Cyber Escalation: Mapping Retaliatory Threat Actor Campaigns Post-Conflict</title>
+      <link>https://falconfeeds.io/blogs/iran-cyber-escalation-post-conflict-apt-campaigns-analysis</link>
+      <description>Explore how Iran escalated cyber operations after Operation Epic Fury, mapping APT activity, hacktivist campaigns, and attacks on critical infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-cyber-escalation-post-conflict-apt-campaigns-analysis</guid>
+      <pubDate>Mon, 04 May 2026 06:07:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Critical Infrastructure at Risk: The Strategic Convergence of Cyber-Physical Threats in the 2026 Landscape</title>
+      <link>https://falconfeeds.io/blogs/critical-infrastructure-cyber-physical-threats-2026-ot-it-convergence</link>
+      <description>Explore rising cyber-physical threats to Critical National Infrastructure as APTs, ransomware groups, and hacktivists target IT/OT environments in 2026.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/critical-infrastructure-cyber-physical-threats-2026-ot-it-convergence</guid>
+      <pubDate>Mon, 04 May 2026 06:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the LiveDNS Phishing Campaign: How Typosquatted Domains Are Targeting Israeli Users</title>
+      <link>https://falconfeeds.io/blogs/livedns-phishing-campaign-typosquatting-israeli-domain-users</link>
+      <description>Learn how attackers impersonating LiveDNS Ltd are using typosquatted domains and fake renewal emails to steal payment information from Israeli domain owners.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/livedns-phishing-campaign-typosquatting-israeli-domain-users</guid>
+      <pubDate>Fri, 08 May 2026 06:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazil 2026: Mapping Pre-Election Disinformation Infrastructure and Narrative Seeding</title>
+      <link>https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</link>
+      <description>Explore how narrative seeding and disinformation infrastructure are emerging ahead of the 2026 Brazilian presidential election through coordinated activity across X, TikTok, and Google Trends.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</guid>
+      <pubDate>Fri, 08 May 2026 12:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond DDoS: How NoName057(16) Became a Tool of Geopolitical Pressure</title>
+      <link>https://falconfeeds.io/blogs/beyond-ddos-noname05716-geopolitical-pressure-analysis</link>
+      <description>Explore how NoName057(16) evolved beyond DDoS attacks into a geopolitical pressure instrument, synchronizing cyber disruption with political events across Europe and NATO-aligned states.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/beyond-ddos-noname05716-geopolitical-pressure-analysis</guid>
+      <pubDate>Wed, 13 May 2026 05:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>UAT-8302: China-Linked APT Deploying Shared Malware Arsenal Against Governments Across Three Continents</title>
+      <link>https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</link>
+      <description>Explore how UAT-8302 leverages shared malware ecosystems, custom implants, and stealth persistence techniques to target government entities across multiple continents.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</guid>
+      <pubDate>Wed, 13 May 2026 10:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Under Siege: TeamPCP, LAPSUS$ &amp; DPRK-Linked Abuse Converge on the Developer Ecosystem</title>
+      <link>https://falconfeeds.io/blogs/github-under-siege-teampcp-lapsus-lazarus-developer-ecosystem-abuse</link>
+      <description>Explore the 2026 GitHub breach linked to TeamPCP and LAPSUS$, alongside DPRK-linked GitHub abuse campaigns targeting developers and software ecosystems.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/github-under-siege-teampcp-lapsus-lazarus-developer-ecosystem-abuse</guid>
+      <pubDate>Fri, 22 May 2026 08:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>KEYMOUS+: Inside the North African Hacktivist-DDoS Empire Driving Global Cyber Disruption</title>
+      <link>https://falconfeeds.io/blogs/keymous-plus-hacktivist-ddos-empire-global-cyber-disruption</link>
+      <description>Explore how KEYMOUS+ became one of the world’s most active hacktivist DDoS actors through global disruption campaigns, alliance networks, and DDoS-for-hire infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/keymous-plus-hacktivist-ddos-empire-global-cyber-disruption</guid>
+      <pubDate>Fri, 22 May 2026 11:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>THE GENTLEMEN: Inside the Russia-Linked Ransomware Operation Rapidly Reshaping the RaaS Ecosystem</title>
+      <link>https://falconfeeds.io/blogs/the-gentlemen-russia-raas-operation-rocket-leak-analysis</link>
+      <description>Explore how The Gentlemen evolved into one of 2026’s fastest-growing RaaS programs through aggressive affiliate incentives, FortiGate exploitation, and leaked internal infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-gentlemen-russia-raas-operation-rocket-leak-analysis</guid>
+      <pubDate>Mon, 25 May 2026 06:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shai-Hulud: From npm Worm to Cross-Ecosystem Supply Chain Threat</title>
+      <link>https://falconfeeds.io/blogs/shai-hulud-npm-pypi-supply-chain-worm-analysis</link>
+      <description>Explore the Shai-Hulud campaign that evolved from an npm worm into a cross-ecosystem threat compromising npm and PyPI through CI/CD abuse and stolen developer credentials.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/shai-hulud-npm-pypi-supply-chain-worm-analysis</guid>
+      <pubDate>Mon, 25 May 2026 10:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>SideWinder: The India-Linked APT Expanding from South Asia to Global Strategic Infrastructure</title>
+      <link>https://falconfeeds.io/blogs/sidewinder-decade-adaptive-espionage-south-asia-nuclear-infrastructure</link>
+      <description>Explore the evolution of SideWinder from a South Asian espionage actor to a global cyber threat targeting governments, maritime infrastructure, and nuclear facilities.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/sidewinder-decade-adaptive-espionage-south-asia-nuclear-infrastructure</guid>
+      <pubDate>Fri, 29 May 2026 05:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semiconductor Sanctions &amp; the Cyber Espionage Nexus: How Export Controls Are Reshaping Global Cyber Conflict</title>
+      <link>https://falconfeeds.io/blogs/semiconductor-sanctions-cyber-espionage-export-controls-geopolitics</link>
+      <description>Explore how semiconductor export controls, sanctions, and cyber espionage are converging to reshape global technological competition, targeting chip manufacturers, supply chains, and critical intellectual property.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/semiconductor-sanctions-cyber-espionage-export-controls-geopolitics</guid>
+      <pubDate>Fri, 29 May 2026 08:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIFA World Cup 2026: Mapping the Global Cyber Scam Ecosystem Targeting Fans</title>
+      <link>https://falconfeeds.io/blogs/fifa-world-cup-2026-global-cyber-scam-ecosystem-analysis</link>
+      <description>Explore the cyber scam landscape surrounding the FIFA World Cup 2026, including phishing domains, ticket fraud, crypto scams, fake streaming platforms, and social engineering campaigns targeting fans worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fifa-world-cup-2026-global-cyber-scam-ecosystem-analysis</guid>
+      <pubDate>Tue, 02 Jun 2026 06:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Breach to Influence: The Convergence of Cyber Espionage, Ransomware, and Strategic Narrative Warfare</title>
+      <link>https://falconfeeds.io/blogs/cyber-espionage-ransomware-narrative-warfare-convergence-analysis</link>
+      <description>Explore how cyber espionage, ransomware, and influence operations are converging through hack-and-leak campaigns, turning stolen data into a powerful tool for narrative warfare and geopolitical pressure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-espionage-ransomware-narrative-warfare-convergence-analysis</guid>
+      <pubDate>Mon, 15 Jun 2026 03:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Without Borders: The Rise of Transnational Cybercrime Alliances</title>
+      <link>https://falconfeeds.io/blogs/transnational-cybercrime-alliances-borderless-threat-actor-networks</link>
+      <description>Explore how transnational cybercrime alliances exploit jurisdictional gaps, global infrastructure, and cyber-enabled fraud to operate across borders and challenge traditional law enforcement frameworks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/transnational-cybercrime-alliances-borderless-threat-actor-networks</guid>
+      <pubDate>Mon, 15 Jun 2026 03:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Reconnaissance Era: How Threat Actors Profile Organizations Before the First Phish</title>
+      <link>https://falconfeeds.io/blogs/new-reconnaissance-era-osint-threat-actor-target-profiling</link>
+      <description>Explore how threat actors use OSINT, AI-powered reconnaissance, and breach intelligence to profile organizations and employees before launching targeted phishing and cyber intrusion campaigns.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/new-reconnaissance-era-osint-threat-actor-target-profiling</guid>
+      <pubDate>Mon, 15 Jun 2026 04:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Next Billion Devices: How Connected Infrastructure Is Reshaping Threat Intelligence</title>
+      <link>https://falconfeeds.io/blogs/connected-infrastructure-iot-threat-intelligence-next-billion-devices</link>
+      <description>Explore how billions of IoT devices, connected infrastructure, and edge computing are reshaping threat intelligence, expanding attack surfaces, and creating new cybersecurity challenges worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/connected-infrastructure-iot-threat-intelligence-next-billion-devices</guid>
+      <pubDate>Mon, 15 Jun 2026 04:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Middle East Cyber Arms Race: Who Is Gaining Strategic Advantage?</title>
+      <link>https://falconfeeds.io/blogs/middle-east-cyber-arms-race-strategic-advantage-analysis</link>
+      <description>Explore the Middle East cyber arms race and how geopolitics, state-sponsored cyber operations, and critical infrastructure threats are reshaping the region's strategic security landscape.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/middle-east-cyber-arms-race-strategic-advantage-analysis</guid>
+      <pubDate>Wed, 24 Jun 2026 04:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Telegram Underground: Mapping Threat Actor Ecosystems in 2026</title>
+      <link>https://falconfeeds.io/blogs/telegram-underground-threat-actor-ecosystems-2026-analysis</link>
+      <description>Explore how Telegram continues to power global cybercrime in 2026, enabling threat actor coordination, underground marketplaces, malware distribution, and resilient criminal ecosystems despite increased enforcement.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/telegram-underground-threat-actor-ecosystems-2026-analysis</guid>
+      <pubDate>Wed, 24 Jun 2026 04:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Threat Actor Works Alone: Understanding the Cybercrime Supply Chain</title>
+      <link>https://falconfeeds.io/blogs/cybercrime-supply-chain-shadow-agents-threat-actor-ecosystem</link>
+      <description>Explore the cybercrime supply chain and how ransomware groups, initial access brokers, malware developers, and shadow agents collaborate to power today's global threat ecosystem.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cybercrime-supply-chain-shadow-agents-threat-actor-ecosystem</guid>
+      <pubDate>Wed, 24 Jun 2026 05:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The First 72 Hours: An Intelligence-Led Analysis of Post-Compromise Behavior and Attacker Velocity</title>
+      <link>https://falconfeeds.io/blogs/first-72-hours-post-compromise-attacker-velocity-analysis</link>
+      <description>Explore how threat actors exploit the first 72 hours after compromise through rapid lateral movement, IAB partnerships, and accelerated ransomware operations that outpace traditional SOC defenses.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/first-72-hours-post-compromise-attacker-velocity-analysis</guid>
+      <pubDate>Wed, 24 Jun 2026 05:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>FortiBleed: How Millions of Fortinet Credentials Became a Cybercriminal Goldmine</title>
+      <link>https://falconfeeds.io/blogs/fortibleed-fortinet-credential-exposure-dataset-analysis</link>
+      <description>Explore the FortiBleed credential exposure campaign, analyzing compromised Fortinet credentials, large-scale password cracking, affected organizations, and enterprise security risks worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fortibleed-fortinet-credential-exposure-dataset-analysis</guid>
+      <pubDate>Thu, 25 Jun 2026 07:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors in 2026: The Emerging Groups Every CISO Should Watch</title>
+      <link>https://falconfeeds.io/blogs/threat-actors-2026-emerging-groups-every-ciso-should-watch</link>
+      <description>Explore the emerging cyber threat actors of 2026, including state-sponsored APTs, ransomware groups, and AI-enabled adversaries targeting cloud, identity, and critical infrastructure.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-2026-emerging-groups-every-ciso-should-watch</guid>
+      <pubDate>Wed, 01 Jul 2026 04:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Cyber Mercenaries: How Private Threat Actors Are Reshaping Global Conflict</title>
+      <link>https://falconfeeds.io/blogs/rise-of-cyber-mercenaries-private-offensive-cyber-actors</link>
+      <description>Explore how cyber mercenaries and commercial surveillance vendors are reshaping global conflict by selling advanced offensive cyber capabilities to governments worldwide.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/rise-of-cyber-mercenaries-private-offensive-cyber-actors</guid>
+      <pubDate>Wed, 01 Jul 2026 04:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors vs. Critical Infrastructure: The Strategic Shift from Data Theft to Operational Disruption</title>
+      <link>https://falconfeeds.io/blogs/threat-actors-critical-infrastructure-operational-disruption-analysis</link>
+      <description>Explore how cyber threat actors are shifting from data theft to operational disruption, targeting critical infrastructure through AI-driven attacks, OT compromise, and geopolitical cyber campaigns.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-critical-infrastructure-operational-disruption-analysis</guid>
+      <pubDate>Wed, 01 Jul 2026 05:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actors Are Training AI Too: What CTI Teams Need to Know</title>
+      <link>https://falconfeeds.io/blogs/threat-actors-training-ai-cti-ai-enabled-cyber-threats</link>
+      <description>Explore how threat actors are using AI, LLMs, and machine learning to automate cyberattacks and what cyber threat intelligence teams need to know to stay ahead.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actors-training-ai-cti-ai-enabled-cyber-threats</guid>
+      <pubDate>Wed, 01 Jul 2026 05:34:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside DieNet: From DDoS Collective to Multi-Vector Cyber Threat Group</title>
+      <link>https://falconfeeds.io/blogs/inside-dienet-ddos-collective-to-multi-vector-threat-group</link>
+      <description>Explore DieNet's rise from a DDoS collective to a multi-vector cyber threat group, its LockNet ransomware operations, attack evolution, and eventual operational shutdown.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/inside-dienet-ddos-collective-to-multi-vector-threat-group</guid>
+      <pubDate>Thu, 09 Jul 2026 06:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Election Security in Latin America: Mapping Cyber Threats to Democratic Institutions</title>
+      <link>https://falconfeeds.io/blogs/latin-america-election-security-cyber-threats-democratic-institutions</link>
+      <description>Explore the cyber threats facing elections and democratic institutions in Latin America, from ransomware and disinformation to election infrastructure attacks and cybersecurity preparedness.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/latin-america-election-security-cyber-threats-democratic-institutions</guid>
+      <pubDate>Fri, 17 Jul 2026 04:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cyber Domino Effect: How One Regional Incident Reshapes Global Threat Activity</title>
+      <link>https://falconfeeds.io/blogs/cyber-domino-effect-global-threat-cascade-analysis</link>
+      <description>Explore the cyber domino effect and how regional cyber incidents cascade through supply chains, cloud services, and critical infrastructure to create global cybersecurity risks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-domino-effect-global-threat-cascade-analysis</guid>
+      <pubDate>Fri, 17 Jul 2026 04:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence in the Era of Fragmented Cybercrime: The Transition from Monolithic RaaS Syndicates to a Post-Trust Ecosystem</title>
+      <link>https://falconfeeds.io/blogs/fragmented-cybercrime-post-trust-raas-ecosystem-analysis</link>
+      <description>Explore how ransomware has evolved from centralized RaaS syndicates to a fragmented cybercrime ecosystem driven by white-label cartels, Initial Access Brokers, and actor-centric operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/fragmented-cybercrime-post-trust-raas-ecosystem-analysis</guid>
+      <pubDate>Thu, 06 Aug 2026 05:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Actor Operational Mistakes: The Small Errors That Lead to Attribution</title>
+      <link>https://falconfeeds.io/blogs/threat-actor-opsec-mistakes-attribution-analysis</link>
+      <description>Explore how small OPSEC mistakes from reused identities to IP leaks have exposed major cyber threat actors, enabling the attribution of ransomware and state-sponsored operations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/threat-actor-opsec-mistakes-attribution-analysis</guid>
+      <pubDate>Thu, 06 Aug 2026 05:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Threat Intelligence as Geopolitical Intelligence: Early Warning Indicators of Macro-Stability and Conflict</title>
+      <link>https://falconfeeds.io/blogs/cyber-threat-intelligence-geopolitical-early-warning-indicators</link>
+      <description>Explore how Cyber Threat Intelligence is evolving into geopolitical intelligence, using cyber operations and threat actor activity as early warning indicators of conflict and global instability.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cyber-threat-intelligence-geopolitical-early-warning-indicators</guid>
+      <pubDate>Thu, 06 Aug 2026 05:35:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Internet's Forgotten Infrastructure: Why Old Servers Still Matter</title>
+      <link>https://falconfeeds.io/blogs/legacy-server-infrastructure-cybersecurity-modernization-analysis</link>
+      <description>Explore why legacy servers still power critical infrastructure worldwide and how technical debt, modernization risks, and cybersecurity challenges shape today's digital backbone.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/legacy-server-infrastructure-cybersecurity-modernization-analysis</guid>
+      <pubDate>Thu, 06 Aug 2026 06:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Ransomware in Cyber Security? How It Works and Why It's Spreading Fast </title>
+      <link>https://falconfeeds.io/blogs/what-is-ransomware-in-cyber-security-how-it-works</link>
+      <description>Learn what ransomware in cyber security is, how ransomware attacks work, why they are growing in 2026, and how early detection and ransomware protection can reduce risk.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-ransomware-in-cyber-security-how-it-works</guid>
+      <pubDate>Sat, 29 Aug 2026 04:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Threat Intelligence Pipelines Improve Cybersecurity Operations</title>
+      <link>https://falconfeeds.io/blogs/how-threat-intelligence-pipelines-improve-cybersecurity-operations</link>
+      <description>Learn how Threat Intelligence Pipelines collect, enrich, correlate, and prioritize threat data to improve SOC operations, threat hunting, and incident response.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/how-threat-intelligence-pipelines-improve-cybersecurity-operations</guid>
+      <pubDate>Sat, 29 Aug 2026 04:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Dark Web Monitoring and How Does It Protect Your Business?</title>
+      <link>https://falconfeeds.io/blogs/what-is-dark-web-monitoring</link>
+      <description>Dark web monitoring helps businesses uncover stolen credentials, ransomware leaks, and cyber threats early, enabling faster response and stronger security.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-dark-web-monitoring</guid>
+      <pubDate>Sat, 29 Aug 2026 04:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Web vs Dark Web: What’s the Difference and Why Dark Web Monitoring Matters</title>
+      <link>https://falconfeeds.io/blogs/deep-web-vs-dark-web-monitoring</link>
+      <description>Understand the difference between the Deep Web and Dark Web, how attackers use them, and why threat intelligence is critical for modern cybersecurity.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/deep-web-vs-dark-web-monitoring</guid>
+      <pubDate>Sat, 29 Aug 2026 04:49:44 +0000</pubDate>
+    </item>
   </channel>
 </rss>

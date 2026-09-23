@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 02:41:09 +0000</lastBuildDate>
-    <item>
-      <title>Triage &amp; Response Bottlenecks Eating into MSSP Margins: How to Remove the Friction</title>
-      <link>https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/</link>
-      <description>&lt;p&gt;As MSSPs take on more clients, alert volumes grow fast. Analyst capacity usually doesn’t. That gap shows up in triage and response first. Teams spend too much time checking IOCs, switching between tools, rebuilding context, and escalating cases that could have been closed earlier. Across thousands of investigations, those extra minutes turn into slower response, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/"&gt;Triage &amp;amp; Response Bottlenecks Eating into MSSP Margins: How to Remove the Friction&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-triage-response-bottlenecks/</guid>
-      <pubDate>Wed, 02 Sep 2026 07:18:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 10:34:00 +0000</lastBuildDate>
     <item>
       <title>Release Notes: Faster TI Investigations, Fresh Threat Research, and 650+ Threat Coverage Updates</title>
       <link>https://any.run/cybersecurity-blog/release-notes-august-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/csuite-attack-analysis/"&gt;CSuite Targets US and EU Organizations with Device-Code Phishing and Remote Access&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/csuite-attack-analysis/</guid>
       <pubDate>Tue, 22 Sep 2026 11:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phishing Risk Across 5 Key US Industries: ANY.RUN Data &amp; Mitigation Strategies</title>
+      <link>https://any.run/cybersecurity-blog/phishing-risk-industries/</link>
+      <description>&lt;p&gt;According to fresh ANY.RUN data, phishing exposure remains above 70% in several critical industries. This doesn’t happen because organizations aren’t protected enough. Companies have been implementing email filtering, MFA, and phishing-awareness training for years. However, threats continue to evolve, and security methods that were highly effective yesterday can develop visibility gaps as attackers adapt. In [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-risk-industries/"&gt;Phishing Risk Across 5 Key US Industries: ANY.RUN Data &amp;amp; Mitigation Strategies&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-risk-industries/</guid>
+      <pubDate>Wed, 23 Sep 2026 10:31:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
