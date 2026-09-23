@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 10:32:48 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/claudefix-shared-claude-chats-meet-clickfix.kql</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/182f7c0e9eedea987f71adb31405854fe840d17f</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/claudefix-shared-claude-chats-meet-clickfix.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/182f7c0e9eedea987f71adb31405854fe840d17f</guid>
-      <pubDate>Wed, 29 Jul 2026 14:12:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 15:51:36 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/detect-compromised-npm-packages-keyv-and-cacheabl…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/061689ffcc24b6e22a06a6f6f2fbcc3c19084946</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting Adversaries Abusing Google GoTo URLs - 01a0c22f-6838-73f8-a6cc-d7fa22baf5d9 from detections.ai&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/23d867a246dfff86fcbafbce6ec0bd1aea29df9b</guid>
       <pubDate>Mon, 21 Sep 2026 04:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule AI Agent High Severity Exposure Check - 01a0ce53-…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/8d2da7872f9e4a367bb6211b4364faa050ca572c</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule AI Agent High Severity Exposure Check - 01a0ce53-2eda-775a-ae78-5b99946a17a5 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8d2da7872f9e4a367bb6211b4364faa050ca572c</guid>
+      <pubDate>Wed, 23 Sep 2026 12:53:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
