@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 20:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:30:06 +0000</lastBuildDate>
     <item>
       <title>July 2026 Security Issues in Korean &amp; Global Financial Sector</title>
       <link>https://asec.ahnlab.com/en/95109/</link>
@@ -21,13 +21,6 @@
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails that were disguised as transaction receipts. The emails impersonated employees of a specific US company. The body of the message stated that a transaction receipt was attached and asked the recipient to review it and confirm whether funds had been deposited into their [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95001/</guid>
       <pubDate>Sun, 09 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea</title>
@@ -48,6 +41,13 @@
       <link>https://asec.ahnlab.com/en/94917/</link>
       <description>Note The July 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—active on the deep web and dark web. It is explicitly noted that the factual accuracy of some content could not be verified. Major Issues Handala claimed to have compromised the core infrastructure of an Internet service provider in [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/94917/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -121,13 +121,6 @@
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>I just trusted the security certificate prompt… Beware of the LegionLoader malware being distributed via the ClickFix method</title>
       <link>https://asec.ahnlab.com/en/95374/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified the LegionLoader malware, which is currently being distributed via the ClickFix method. There are two main distribution methods identified so far; both involve tricking users into visiting a malicious URL and then prompting them to directly execute malicious PowerShell commands through a fake Cloudflare CAPTCHA screen. &amp;#160; [&amp;#8230;]</description>
@@ -146,6 +139,13 @@
       <link>https://asec.ahnlab.com/en/95230/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 20:57:06 +0000</lastBuildDate>
-    <item>
-      <title>“Eye” spy: Cyclops Blink returns with extended capabilities</title>
-      <link>https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities</link>
-      <description>&lt;p&gt;Upgraded modular malware observed in attacks on Cisco Firewall Management Center (FMC) devices&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Sep 2026 02:30:09 +0000</lastBuildDate>
     <item>
       <title>ATT&amp;CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split</title>
       <link>https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</link>
@@ -69,6 +62,13 @@
       <description>&lt;p&gt;AI uncertainty is not a strategic reason to wait; it is a strategic imperative to build adaptable organizations that can innovate confidently, govern risk proportionately, and respond effectively as technology and threats evolve.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-uncertainty-adaptability</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Rising Threat of Deepfakes: Why Organizations Must Rethink Trust</title>
+      <link>https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust</link>
+      <description>&lt;p&gt;For decades, we believed that if could hear someone’s voice on a phone call or see them on a video call, they were who they said they were. What if that’s no longer true?&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
