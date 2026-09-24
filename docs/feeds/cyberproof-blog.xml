@@ -7,7 +7,28 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 02:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:52:08 +0000</lastBuildDate>
+    <item>
+      <title>Returning to the Office? 7 Data Hygiene and Security Monitoring Tips</title>
+      <link>https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</link>
+      <description>As the workforce starts to return on-site, it is time to review basic data hygiene and security monitoring issues to bear in mind in the current reality.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/returning-to-the-office-7-data-hygiene-security-and-monitoring-tips/</guid>
+      <pubDate>Thu, 11 Jun 2020 07:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does Your Cyber Security Strategy Include a Perimeter Defense?</title>
+      <link>https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</link>
+      <description>Establishing a perimeter defense is especially important when it comes to areas where sensitive data - a high-value resource - is stored.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</guid>
+      <pubDate>Wed, 29 Jul 2020 10:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
+      <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
+      <description>Cyber security threats are expected to be on the rise with threat actors use a wide range of tactics to “hijack” online shoppers and steal consumer data.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</guid>
+      <pubDate>Thu, 05 Nov 2020 11:35:42 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Azure Sentinel SIEM: Multi-tenancy Deployment (Pt.1)</title>
       <link>https://www.cyberproof.com/blog/deploying-microsoft-azure-sentinel-siem-in-a-multi-tenancy-environment-part-1/</link>
@@ -170,13 +191,6 @@
       <pubDate>Mon, 28 Nov 2022 14:20:07 +0000</pubDate>
     </item>
     <item>
-      <title>The real cost of stolen data</title>
-      <link>https://www.cyberproof.com/blog/the-real-cost-of-stolen-data/</link>
-      <description>What is the most valuable kind of stolen data available to purchase on the Dark Web? Using an MDR provider can support your financial organization.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/the-real-cost-of-stolen-data/</guid>
-      <pubDate>Tue, 06 Dec 2022 05:43:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Cybersecurity: new threats, new models - interview with Yuval Wollman</title>
       <link>https://www.cyberproof.com/blog/cybersecurity-new-threats-new-models-interview-with-yuval-wollman/</link>
       <description>The American Chamber of Commerce hosted our President, Yuval Wollman for a fireside chat on the changing threat landscape in cybersecurity.</description>
@@ -231,13 +245,6 @@
       <description>CyberProof's CEO discusses rising cyberattacks, evolving technology, and digital transformation of enterprise IT environments.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/mitigating-cloud-transformation-risk-with-cloud-native-solutions/</guid>
       <pubDate>Wed, 10 May 2023 04:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using Handlebars to get the exact output structures you want from GPT4</title>
-      <link>https://www.cyberproof.com/blog/using-handlebars-to-get-the-exact-output-structures-you-want-from-gpt4/</link>
-      <description>Explore AI in cybersecurity with Dina Berenbaum. Delve into GPT-4 challenges, Handlebars.js potential, and the future of cyber defense. CyberProof insights</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/using-handlebars-to-get-the-exact-output-structures-you-want-from-gpt4/</guid>
-      <pubDate>Wed, 30 Aug 2023 04:14:40 +0000</pubDate>
     </item>
     <item>
       <title>BBC interview with President Yuval Wollman: The risks of GenAI</title>
@@ -343,13 +350,6 @@
       <description>This blog post was originally posted on Dina’s Medium page. To read other works Dina has published, click here. Evaluating and securing AI models is a</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/red-teaming-ai-a-closer-look-at-pyrit-use-cases-for-security/</guid>
       <pubDate>Thu, 20 Jun 2024 08:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>How resilient is your organization against a supply chain cyberattack?</title>
-      <link>https://www.cyberproof.com/blog/how-resilient-is-your-organization-against-a-supply-chain-cyberattack/</link>
-      <description>No matter the size or the nature of your business, organizations today cannot avoid risks related to their supply chain. In a supply chain, there are many</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-resilient-is-your-organization-against-a-supply-chain-cyberattack/</guid>
-      <pubDate>Thu, 27 Jun 2024 09:57:30 +0000</pubDate>
     </item>
     <item>
       <title>Palo Alto QRadar Acquisition: Impacts on Cloud-Native SIEMs</title>
