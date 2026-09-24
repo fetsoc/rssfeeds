@@ -7,7 +7,21 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 16:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:03:27 +0000</lastBuildDate>
+    <item>
+      <title>How phishing threat actors are using AI: a real world example</title>
+      <link>https://expel.com/blog/how-phishing-threat-actors-are-using-ai-a-real-world-example/</link>
+      <description>Our phishing team intercepted an email that appears to contain AI-generated code. Here's what it can teach you.</description>
+      <guid isPermaLink="false">https://expel.com/blog/how-phishing-threat-actors-are-using-ai-a-real-world-example/</guid>
+      <pubDate>Thu, 13 Jun 2024 14:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Alert: CrowdStrike Windows Outage</title>
+      <link>https://expel.com/blog/security-alert-crowdstrike-windows-outage/</link>
+      <description>An issue in a CrowdStrike Falcon Sensor update rendered Microsoft’s Windows OS inoperable. Here’s what happened and how you can address it.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-alert-crowdstrike-windows-outage/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:58:07 +0000</pubDate>
+    </item>
     <item>
       <title>Expel Quarterly Threat Report Q2 2024 volume I: Q2 by the numbers</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q2-by-the-numbers/</link>
@@ -98,13 +112,6 @@
       <description>Enjoy these horror stories from past SOCs, as our analysts share their most haunting tales from previous roles (and get some tips, too).</description>
       <guid isPermaLink="false">https://expel.com/blog/happy-halloween-cybersecurity-horror-stories-from-socs-past/</guid>
       <pubDate>Thu, 31 Oct 2024 14:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>MDR insights: defense against persistent threats and Oracle WebLogic CVE-2020-14882</title>
-      <link>https://expel.com/blog/mdr-insights-defense-against-persistent-threats-and-oracle-weblogic-cve-2020-14882/</link>
-      <description>Initial access broker (IAB) Magnet Goblin is currently targeting CVE-2020-14882 in Oracle WebLogic. Here's how to identify and stop them.</description>
-      <guid isPermaLink="false">https://expel.com/blog/mdr-insights-defense-against-persistent-threats-and-oracle-weblogic-cve-2020-14882/</guid>
-      <pubDate>Tue, 12 Nov 2024 11:00:19 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for November 2024</title>
@@ -322,13 +329,6 @@
       <description>More data doesn't equate to better security. Understand what data belongs in a SIEM (and what doesn't), and how Expel MDR can help.</description>
       <guid isPermaLink="false">https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</guid>
       <pubDate>Thu, 17 Apr 2025 14:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Join Expel &amp; Forrester for a discussion on threat hunting and detection</title>
-      <link>https://expel.com/blog/join-expel-forrester-for-a-discussion-on-threat-hunting-and-detection/</link>
-      <description>Join Expel &amp; Forrester on May 7 at 2pm ET for a live webinar discussing threat hunting and detection strategies.</description>
-      <guid isPermaLink="false">https://expel.com/blog/join-expel-forrester-for-a-discussion-on-threat-hunting-and-detection/</guid>
-      <pubDate>Mon, 21 Apr 2025 21:01:46 +0000</pubDate>
     </item>
     <item>
       <title>Expel launches proactive defense for email threats</title>

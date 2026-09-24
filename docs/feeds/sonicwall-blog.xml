@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 16:15:13 +0000</lastBuildDate>
-    <item>
-      <title>Three Keys to Modern Cyberdefense: Affordability, Availability, Efficacy</title>
-      <link>https://www.sonicwall.com/blog/three-keys-to-modern-cyberdefense-affordability-availability-efficacy</link>
-      <description>Choosing a cybersecurity vendor can feel like a never-ending series of compromises. But with SonicWall’s portfolio of high-quality solutions — available at industry-leading TCOs and in stock — it doesn’t have to.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/three-keys-to-modern-cyberdefense-affordability-availability-efficacy</guid>
-    </item>
+    <lastBuildDate>Thu, 24 Sep 2026 21:03:15 +0000</lastBuildDate>
     <item>
       <title>Office Documents are Still Not Safe for Cybersecurity</title>
       <link>https://www.sonicwall.com/blog/office-documents-are-still-not-safe-for-cybersecurity</link>
@@ -242,6 +236,12 @@
       <link>https://www.sonicwall.com/blog/smokeloader-malware-a-modular-threat-with-advanced-evasion-and-persistence</link>
       <description>This week, the SonicWall Capture Labs Threat Research Team reviewed a sample of SmokeLoader malware. This is a modular program used by a variety of criminal and APT groups to gain a foothold on a system. It has vigorous anti-VM, anti-AV, and anti-analysis checks and capabilities. SmokeLoader can be used with RATs, ransomware, backdoors or botnets and uses both file and fileless methods of persistence.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/smokeloader-malware-a-modular-threat-with-advanced-evasion-and-persistence</guid>
+    </item>
+    <item>
+      <title>IBM Langflow OSS Unauthenticated RCE - CVE-2026-9198</title>
+      <link>https://www.sonicwall.com/blog/ibm-langflow-oss-unauthenticated-rce</link>
+      <description>Critical CVSS 9.8 unauthenticated RCE in IBM Langflow OSS chains an auto-login bypass with unsandboxed exec(). SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/ibm-langflow-oss-unauthenticated-rce</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
