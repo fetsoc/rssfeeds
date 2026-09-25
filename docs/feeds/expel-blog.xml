@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 10:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:14:04 +0000</lastBuildDate>
     <item>
       <title>How phishing threat actors are using AI: a real world example</title>
       <link>https://expel.com/blog/how-phishing-threat-actors-are-using-ai-a-real-world-example/</link>
