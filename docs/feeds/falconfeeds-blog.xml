@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 02:49:03 +0000</lastBuildDate>
-    <item>
-      <title>From Shadows to Sanctions: Unmasking 35 Iranian Cyber Operatives Driving State-Sponsored Warfare</title>
-      <link>https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</link>
-      <description>An intelligence-driven analysis exposing 35 Iranian cyber operatives, front companies, and state-linked networks tied to IRGC and MOIS operations, based on DOJ indictments, OFAC sanctions, FBI advisories, and private-sector threat intelligence.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-cyber-operatives-irgc-mois-state-attribution-2026</guid>
-      <pubDate>Mon, 06 Apr 2026 10:24:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 10:35:54 +0000</lastBuildDate>
     <item>
       <title>Operation Phantom Claude: A macOS Infostealer Campaign Exploiting Anthropic’s Brand Identity</title>
       <link>https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</link>
@@ -357,6 +350,13 @@
       <description>Understand the difference between the Deep Web and Dark Web, how attackers use them, and why threat intelligence is critical for modern cybersecurity.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/deep-web-vs-dark-web-monitoring</guid>
       <pubDate>Sat, 29 Aug 2026 04:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>CL0P: From Zero-Day Weaponization to Pure Extortion and the Underground War with ShinyHunters</title>
+      <link>https://falconfeeds.io/blogs/clop-zero-day-exploitation-data-extortion-shinyhunters</link>
+      <description>Explore CL0P’s evolution from zero-day exploitation to pure data extortion, its major enterprise software attacks, and its underground conflict with ShinyHunters.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/clop-zero-day-exploitation-data-extortion-shinyhunters</guid>
+      <pubDate>Sat, 26 Sep 2026 10:32:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

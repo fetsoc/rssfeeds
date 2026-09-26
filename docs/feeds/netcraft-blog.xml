@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 02:47:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:34:53 +0000</lastBuildDate>
     <item>
       <title>Ultimate RFP Guide for Digital Risk Protection</title>
       <link>https://www.netcraft.com/blog/digital-risk-protection-vendor-rfp-guide</link>
