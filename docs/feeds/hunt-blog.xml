@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 10:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:27:19 +0000</lastBuildDate>
     <item>
       <title>Hunt 2.7 Is Here: Faster Searches, Smarter Filters, Deeper Insight</title>
       <link>https://hunt.io/blog/announcing-hunt-2-7</link>
