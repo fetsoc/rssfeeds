@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 15:29:34 +0000</lastBuildDate>
-    <item>
-      <title>ATT&amp;CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split</title>
-      <link>https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</link>
-      <description>&lt;p&gt;Artifacts and tooling for the new Enterprise MITRE ATT&amp;amp;CK matrix tactics, distilled from the field.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 20:29:12 +0000</lastBuildDate>
     <item>
       <title>Devil’s advocate? Uncensored Luciferus AI service advertised underground</title>
       <link>https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground</link>
@@ -30,6 +23,13 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The industry turned XDR and SIEM into categories. Sophos turned them into outcomes.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-next-gen-siem</link>
+      <description>&lt;p&gt;Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-next-gen-siem</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</guid>
@@ -40,13 +40,6 @@
       <link>https://www.sophos.com/en-us/blog/ai-research-messageboards</link>
       <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-research-messageboards</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The industry turned XDR and SIEM into categories. Sophos turned them into outcomes.</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-next-gen-siem</link>
-      <description>&lt;p&gt;Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-next-gen-siem</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -69,6 +62,12 @@
       <description>&lt;p&gt;For decades, we believed that if could hear someone’s voice on a phone call or see them on a video call, they were who they said they were. What if that’s no longer true?&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kiteworks recommends server shutdown pending possible attack</title>
+      <link>https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
