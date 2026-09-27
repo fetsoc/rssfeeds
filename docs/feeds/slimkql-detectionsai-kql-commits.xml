@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 16:07:43 +0000</lastBuildDate>
-    <item>
-      <title>Update file at /KQL/detect-compromised-npm-packages-keyv-and-cacheabl…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/061689ffcc24b6e22a06a6f6f2fbcc3c19084946</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Update file at /KQL/detect-compromised-npm-packages-keyv-and-cacheable-via-socket-ioc.kql&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/061689ffcc24b6e22a06a6f6f2fbcc3c19084946</guid>
-      <pubDate>Tue, 04 Aug 2026 14:56:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 20:40:04 +0000</lastBuildDate>
     <item>
       <title>Update file at /KQL/detect-compromised-npm-packages-keyv-and-cacheabl…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/4b9b70b0788468fc44fa6aa3c406ca486d2e7949</link>
@@ -147,6 +140,13 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule AI Agent High Severity Exposure Check - 01a0ce53-2eda-775a-ae78-5b99946a17a5 from detections.ai&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8d2da7872f9e4a367bb6211b4364faa050ca572c</guid>
       <pubDate>Wed, 23 Sep 2026 12:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Citrix Netscaler Check - 01a0e3d1-5cc9-7425-a0c4-…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/59c707b18149182bc8e8eb3a6908cefb3b6f1acd</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Citrix Netscaler Check - 01a0e3d1-5cc9-7425-a0c4-1b2faa435d91 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/59c707b18149182bc8e8eb3a6908cefb3b6f1acd</guid>
+      <pubDate>Sun, 27 Sep 2026 17:02:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
