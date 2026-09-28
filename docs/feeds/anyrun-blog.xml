@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 02:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:31:36 +0000</lastBuildDate>
     <item>
       <title>HVNC Backdoor Targets LATAM Organizations with Fake Tax and DocuSign Lures</title>
       <link>https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/</link>

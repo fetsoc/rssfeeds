@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 02:51:22 +0000</lastBuildDate>
-    <item>
-      <title>Attack Cases for Domestic Web Servers Running SoftEther VPN in Korea</title>
-      <link>https://asec.ahnlab.com/en/94995/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases in which attackers targeted web servers in Korea to install SoftEther VPN. Attack cases involving the installation of SoftEther VPN, an open-source VPN, were previously discussed in the 2024 ASEC blog post titled “Analysis of Attack Cases Targeting ERP Servers in Korea to Install SoftEther [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94995/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 12:31:37 +0000</lastBuildDate>
     <item>
       <title>July 2026 Dark Web Issue Trend Report</title>
       <link>https://asec.ahnlab.com/en/94918/</link>
@@ -37,17 +30,17 @@
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
-      <link>https://asec.ahnlab.com/en/95000/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>July 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/95066/</link>
       <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
+      <link>https://asec.ahnlab.com/en/95000/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -135,6 +128,13 @@
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Security Issues in the Korean &amp; Global Financial Sector in August 2026</title>
+      <link>https://asec.ahnlab.com/en/95589/</link>
+      <description>Statistics on Malware Distributed to the Financial Sector Malware Distribution Trends. In Attack Stage 1, phishing was the highest at 2.1, Up from 1.8 The previous month. In Attack Stage 2, dropper/downloader was the highest at 1.1, Down from 3.2 The previous month. In Stage 3 of the attack, Infostealers were the most prevalent at [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95589/</guid>
+      <pubDate>Mon, 07 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransom &amp; Dark Web Issues Week 2, September 2026</title>
       <link>https://asec.ahnlab.com/en/95338/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; The Gentlemen Ransomware Attack on a Canadian Airline LAPSUS$ Group Resumes Chapter II and Teases New Victim Disclosure AUDIT TEAM Data Extortion Attacks on Four Organizations in South Korea, Germany, and Argentina</description>
@@ -170,17 +170,17 @@
       <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95450/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
       <link>https://asec.ahnlab.com/en/95516/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95450/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
       <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
