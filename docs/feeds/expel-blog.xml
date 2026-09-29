@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 17:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:43:43 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday roundup for June 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-june-2024/</link>
+      <description>The June 2024 edition of Patch Tuesday is live, including 53 published CVEs from Microsoft. Here are our top takeaways.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-june-2024/</guid>
+      <pubDate>Wed, 12 Jun 2024 15:47:13 +0000</pubDate>
+    </item>
     <item>
       <title>How phishing threat actors are using AI: a real world example</title>
       <link>https://expel.com/blog/how-phishing-threat-actors-are-using-ai-a-real-world-example/</link>
@@ -56,13 +63,6 @@
       <description>Black Hat 2024 is over, and the big themes this year were vulnerabilities, election infrastructure, and evaluating security maturity.</description>
       <guid isPermaLink="false">https://expel.com/blog/a-recap-expels-2024-black-hat-experience/</guid>
       <pubDate>Thu, 15 Aug 2024 13:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>MDR insights: using vulnerability data to inform remediation strategies</title>
-      <link>https://expel.com/blog/mdr-insights-using-vulnerability-data-to-inform-remediation-strategies/</link>
-      <description>MDR vulnerabilities data can be used with EPSS scoring and the CISA catalog to glean insights, reduce alert noise, and guide remediation.</description>
-      <guid isPermaLink="false">https://expel.com/blog/mdr-insights-using-vulnerability-data-to-inform-remediation-strategies/</guid>
-      <pubDate>Tue, 20 Aug 2024 13:49:27 +0000</pubDate>
     </item>
     <item>
       <title>Expel and Wiz join forces: a game-changer for cloud security</title>
