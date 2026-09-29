@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 03:32:48 +0000</lastBuildDate>
-    <item>
-      <title>July 2026 Dark Web Issue Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94918/</link>
-      <description>Note The July 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. Due to the nature of some sources, it may be difficult to fully verify the accuracy of certain information; therefore, it is necessary to cross-check these details against official announcements. Major Issues RaidForums changed [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94918/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94917/</link>
-      <description>Note The July 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—active on the deep web and dark web. It is explicitly noted that the factual accuracy of some content could not be verified. Major Issues Handala claimed to have compromised the core infrastructure of an Internet service provider in [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94917/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 11:55:56 +0000</lastBuildDate>
     <item>
       <title>July 2026 Dark Web Breach Incident Trend Report</title>
       <link>https://asec.ahnlab.com/en/94912/</link>
@@ -210,6 +196,20 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Metaencryptor Ransomware Attack on a South Korean Camera Module and Equipment Manufacturer Metaencryptor Ransomware Attack on a Japanese Automotive Parts Manufacturer ShinyHunters Claims Breach of a U.S. Federal Law Enforcement Agency and Theft of Sensitive Data</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95545/</guid>
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of phishing emails disguised as quote requests</title>
+      <link>https://asec.ahnlab.com/en/95599/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) confirmed that phishing emails disguised as requests for project quotes are being circulated. The email body is disguised as a request to submit a quote for discussing the project budget and prompts recipients to download an attached compressed file for verification. &amp;#160; [Figure 1] Phishing email body &amp;#160; [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95599/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails That Disguise Themselves as Project Material Purchase Requests</title>
+      <link>https://asec.ahnlab.com/en/95598/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as project material purchase request forms. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a project material purchase request form. [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95598/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>

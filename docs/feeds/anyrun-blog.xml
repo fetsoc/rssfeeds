@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 03:32:47 +0000</lastBuildDate>
-    <item>
-      <title>HVNC Backdoor Targets LATAM Organizations with Fake Tax and DocuSign Lures</title>
-      <link>https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/</link>
-      <description>&lt;p&gt;Editor’s note: The analysis is authored by Moises Cerqueira, malware researcher &amp;#38; threat hunter. You can find Moises on LinkedIn and X. Fake tax documents are being used to target organizations across LATAM, delivering a custom HVNC backdoor built for stealthy, persistent access. Once installed, the malware can give attackers hidden remote control, steal browser [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/"&gt;HVNC Backdoor Targets LATAM Organizations with Fake Tax and DocuSign Lures&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/</guid>
-      <pubDate>Tue, 08 Sep 2026 10:24:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 11:55:55 +0000</lastBuildDate>
     <item>
       <title>15 Minutes Saved Per Alert: How a Lean German Manufacturer Protects 10,000 Endpoints with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/german-manufacturer-success-story/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/rootedcon-valencia-2026/"&gt;ANY.RUN at RootedCON Valencia 2026: Where Cybersecurity Meets the Next Wave of AI&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/rootedcon-valencia-2026/</guid>
       <pubDate>Fri, 25 Sep 2026 12:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud</title>
+      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/</link>
+      <description>&lt;p&gt;Cyberattacks observed in September showed how difficult it has become to separate malicious activity from legitimate business workflows. Attackers used trusted cloud services, familiar document-sharing platforms, legitimate authentication flows, remote-management software, and rapidly changing infrastructure to hide different stages of their operations. For SOC teams, this creates a visibility problem: one alert rarely shows the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/"&gt;Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

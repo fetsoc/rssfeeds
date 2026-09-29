@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 03:32:45 +0000</lastBuildDate>
-    <item>
-      <title>Operation Phantom Claude: A macOS Infostealer Campaign Exploiting Anthropic’s Brand Identity</title>
-      <link>https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</link>
-      <description>A sophisticated macOS infostealer campaign dubbed “Operation Phantom Claude” is exploiting trust in Anthropic’s Claude AI, using fake branding, Cloudflare infrastructure, and multi-stage loaders to deliver credential-stealing malware. FalconFeeds intelligence reveals a coordinated attack targeting macOS users with advanced evasion techniques and AI-themed social engineering.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/operation-phantom-claude-macos-infostealer-anthropic-impersonation-campaign</guid>
-      <pubDate>Mon, 13 Apr 2026 04:56:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 11:55:51 +0000</lastBuildDate>
     <item>
       <title>MicroStealer / SparkStealer: Large-Scale Gaming-Themed Credential Theft Infrastructure Uncovered</title>
       <link>https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</link>
@@ -357,6 +350,13 @@
       <description>Explore CL0P’s evolution from zero-day exploitation to pure data extortion, its major enterprise software attacks, and its underground conflict with ShinyHunters.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/clop-zero-day-exploitation-data-extortion-shinyhunters</guid>
       <pubDate>Sat, 26 Sep 2026 10:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Cybercrime Power Struggle: Rivalries, RaaS Fractures, and Underground Conflict</title>
+      <link>https://falconfeeds.io/blogs/cybercrime-power-struggle-raas-fractures-underground-conflict</link>
+      <description>Explore how cybercrime rivalries, RaaS fractures, and threat actor infighting are reshaping the underground ecosystem and changing enterprise extortion risks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/cybercrime-power-struggle-raas-fractures-underground-conflict</guid>
+      <pubDate>Tue, 29 Sep 2026 05:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
