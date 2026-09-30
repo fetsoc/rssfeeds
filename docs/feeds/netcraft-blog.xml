@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 11:40:54 +0000</lastBuildDate>
-    <item>
-      <title>A Decade of Proactive Protection: Netcraft &amp; NCSC Partnership</title>
-      <link>https://www.netcraft.com/blog/a-decade-of-proactive-protection-netcraft-and-ncsc</link>
-      <description>Explore how Netcraft and the UK’s NCSC have reduced phishing in the UK by up to 80% over a decade—through rapid takedowns, proactive detection, and ACD 2.0 innovation</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/a-decade-of-proactive-protection-netcraft-and-ncsc</guid>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 17:24:07 +0000</lastBuildDate>
     <item>
       <title>Domain Protection Strategies | A Technical Guide</title>
       <link>https://www.netcraft.com/blog/domain-protection-strategies</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/as-shipyard-winds-down-ipfs-phishing-enters-a-new-phase</link>
       <description>Interplanetary Shipyard's shutdown is reshaping the IPFS ecosystem. Learn how IPFS gateways have been abused for phishing, how Protocol Labs' stewardship changes could affect threat activity, and what security teams can do to manage emerging risks.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/as-shipyard-winds-down-ipfs-phishing-enters-a-new-phase</guid>
+    </item>
+    <item>
+      <title>Reservation Desk Scams Hiding in Search Results</title>
+      <link>https://www.netcraft.com/blog/the-reservation-desk-scam-hiding-in-search-results</link>
+      <description>Travelers searching for airline and hotel support numbers may be exposed to reservation scams promoted through search results, ads, forums, and AI-generated answers. Learn how fraudsters use fake customer service numbers to impersonate trusted travel brands and deceive consumers.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-reservation-desk-scam-hiding-in-search-results</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

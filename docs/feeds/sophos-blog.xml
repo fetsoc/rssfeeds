@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 11:42:03 +0000</lastBuildDate>
-    <item>
-      <title>The industry turned XDR and SIEM into categories. Sophos turned them into outcomes.</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-next-gen-siem</link>
-      <description>&lt;p&gt;Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-next-gen-siem</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Messageboards are all they need</title>
-      <link>https://www.sophos.com/en-us/blog/ai-research-messageboards</link>
-      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-research-messageboards</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 17:25:38 +0000</lastBuildDate>
     <item>
       <title>Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</link>
@@ -67,6 +53,20 @@
       <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Firewall v23 is now in early access</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-firewall-v23-early-access</link>
+      <description>&lt;p&gt;Delivering over 30 of your top-requested features&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v23-early-access</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TerminalFix and Lorem Ipsum Loader enable covert tunneling</title>
+      <link>https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling</link>
+      <description>&lt;p&gt;The activity is linked to a broader campaign that previously used a different delivery mechanism&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
