@@ -7,26 +7,26 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 21:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:16:47 +0000</lastBuildDate>
     <item>
-      <title>July 2026 Dark Web Threat Actor Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94917/</link>
-      <description>Note The July 2026 Dark Web Threat Actor Trend Report focuses on trends among threat actors—including hacktivists—active on the deep web and dark web. It is explicitly noted that the factual accuracy of some content could not be verified. Major Issues Handala claimed to have compromised the core infrastructure of an Internet service provider in [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94917/</guid>
+      <title>July 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/94912/</link>
+      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95066/</link>
-      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
       <link>https://asec.ahnlab.com/en/95000/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95066/</link>
+      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
       <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -86,13 +86,6 @@
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>I just trusted the security certificate prompt… Beware of the LegionLoader malware being distributed via the ClickFix method</title>
       <link>https://asec.ahnlab.com/en/95374/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified the LegionLoader malware, which is currently being distributed via the ClickFix method. There are two main distribution methods identified so far; both involve tricking users into visiting a malicious URL and then prompting them to directly execute malicious PowerShell commands through a fake Cloudflare CAPTCHA screen. &amp;#160; [&amp;#8230;]</description>
@@ -111,6 +104,13 @@
       <link>https://asec.ahnlab.com/en/95230/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -156,17 +156,17 @@
       <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
-      <link>https://asec.ahnlab.com/en/95516/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
       <link>https://asec.ahnlab.com/en/95450/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
+      <link>https://asec.ahnlab.com/en/95516/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
       <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -198,13 +198,6 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
-      <link>https://asec.ahnlab.com/en/95561/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Beware of phishing emails disguised as quote requests</title>
       <link>https://asec.ahnlab.com/en/95599/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) confirmed that phishing emails disguised as requests for project quotes are being circulated. The email body is disguised as a request to submit a quote for discussing the project budget and prompts recipients to download an attached compressed file for verification. &amp;#160; [Figure 1] Phishing email body &amp;#160; [&amp;#8230;]</description>
@@ -216,6 +209,13 @@
       <link>https://asec.ahnlab.com/en/95598/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as project material purchase request forms. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a project material purchase request form. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95598/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
+      <link>https://asec.ahnlab.com/en/95561/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>

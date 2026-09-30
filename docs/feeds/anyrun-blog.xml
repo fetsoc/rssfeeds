@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 21:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:16:46 +0000</lastBuildDate>
     <item>
       <title>15 Minutes Saved Per Alert: How a Lean German Manufacturer Protects 10,000 Endpoints with ANY.RUN</title>
       <link>https://any.run/cybersecurity-blog/german-manufacturer-success-story/</link>
