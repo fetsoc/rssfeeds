@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 03:16:47 +0000</lastBuildDate>
-    <item>
-      <title>July 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/94912/</link>
-      <description>Note The July 2026 Dark Web Breach Incident Trend Report was compiled based on data breach cases posted on deep web and dark web forums. Due to the nature of some posts, it is difficult to fully verify their accuracy; some posts related to South Korea included AI-generated false data or cases where it could [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94912/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of phishing emails disguised as requests to review quotes (PhantomStealer)</title>
-      <link>https://asec.ahnlab.com/en/95000/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified a phishing email campaign that disguised itself as a request to review a quote. The threat actor impersonated a sales team member at a specific overseas company and, by claiming that a previous quote needed to be revised and product versions verified, tricked recipients into opening the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95000/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2026 Infostealer Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95066/</link>
-      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and target companies that were disguised as Infostealers collected during the month of July 2026. It was compiled based on results from AhnLab SEcurity intelligence Center (ASEC)’s automated data collection system, email honeypots, and automated C2 analysis, as well as diagnostic logs [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95066/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 2, August 2026</title>
-      <link>https://asec.ahnlab.com/en/94968/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, August 2026. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; DragonForce Ransomware Attack on a South Korean Online Education Company Qilin Ransomware Attack on a South Korean Motor and Robotics Manufacturer ShinyHunters Claims Data Leak from a U.S. Digital Healthcare Company</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/94968/</guid>
-      <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 11:42:01 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, August 2026</title>
       <link>https://asec.ahnlab.com/en/95046/</link>
@@ -198,6 +170,13 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>SilverFox: Tracking the Distribution of a Domestic Variant of a Malicious Installation File Posing as KakaoTalk</title>
+      <link>https://asec.ahnlab.com/en/95642/</link>
+      <description>The threat actor used SEO poisoning (a technique that exploits search results to redirect users to fake sites) to distribute a malicious installer disguised as a KakaoTalk installer. The appearance and packaging method of the installer changed continuously, and the threat actor sequentially used NSIS, Advanced Installer, and Inno Setup. It contained both legitimate installation [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95642/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Beware of phishing emails disguised as quote requests</title>
       <link>https://asec.ahnlab.com/en/95599/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) confirmed that phishing emails disguised as requests for project quotes are being circulated. The email body is disguised as a request to submit a quote for discussing the project budget and prompts recipients to download an attached compressed file for verification. &amp;#160; [Figure 1] Phishing email body &amp;#160; [&amp;#8230;]</description>
@@ -217,6 +196,27 @@
       <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2026 Threat Trend Report on APT Attacks (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/95649/</link>
+      <description>Overview AhnLab monitored APT (Advanced Persistent Threat) attacks targeting entities in Korea using its own infrastructure. This report summarizes the types and statistics on domestic APT attacks identified during the month of August 2026. Trends of APT Attacks in South Korea Most of the APT attacks detected in South Korea were distributed via spear phishing [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95649/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of SMS messages claiming to protect your Pi Coin account—phishing sites are stealing wallets</title>
+      <link>https://asec.ahnlab.com/en/95646/</link>
+      <description>One day, out of the blue, I received a text message claiming to protect my cryptocurrency account. However, this message concealed a sinister intent: to steal the user’s wallet information. Recently, a smishing campaign was identified that impersonated Pi Coin account protection to lure users to phishing pages and steal their cryptocurrency wallet information. The [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95646/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
+      <link>https://asec.ahnlab.com/en/95645/</link>
+      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
