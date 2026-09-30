@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 17:25:38 +0000</lastBuildDate>
-    <item>
-      <title>Shai-Hulud in the Wild: What Security and IR Teams Need to Know</title>
-      <link>https://www.sygnia.co/webinars/shai-hulud-in-the-wild/</link>
-      <description>&lt;p&gt;What happens when software supply-chain attacks compromise not only packages, but the trusted systems and workflows used to build and distribute them?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/shai-hulud-in-the-wild/"&gt;Shai-Hulud in the Wild: What Security and IR Teams Need to Know&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/webinars/shai-hulud-in-the-wild/</guid>
-      <pubDate>Sun, 16 Aug 2026 07:33:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 21:49:53 +0000</lastBuildDate>
     <item>
       <title>How to Secure Enterprise AI: From Adoption to Incident Readiness</title>
       <link>https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/</link>
@@ -79,6 +71,14 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/ai-threat-realities-prompt-proactive-security-readiness/"&gt;AI Threat Realities Prompt Proactive Security Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/webinars/ai-threat-realities-prompt-proactive-security-readiness/</guid>
       <pubDate>Wed, 30 Sep 2026 13:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Actively Exploited NetScaler Vulnerabilities</title>
+      <link>https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/</link>
+      <description>&lt;p&gt;Organizations should patch all customer-managed NetScaler ADC and Gateway appliances immediately, investigate for pre-patch compromise, and restrict the appliances' access to sensitive internal systems.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/"&gt;Actively Exploited NetScaler Vulnerabilities&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/</guid>
+      <pubDate>Wed, 30 Sep 2026 18:23:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
