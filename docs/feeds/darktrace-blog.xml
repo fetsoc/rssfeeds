@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 03:23:05 +0000</lastBuildDate>
-    <item>
-      <title>Detecting Auto-Color: Linux Threat Guide</title>
-      <link>https://www.darktrace.com/blog/auto-color-backdoor-how-darktrace-thwarted-a-stealthy-linux-intrusion</link>
-      <description>A case study of the Auto‑Color backdoor on Linux, covering indicators, behaviors, and recommended responses for teams. Learn more.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/auto-color-backdoor-how-darktrace-thwarted-a-stealthy-linux-intrusion</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 12:09:09 +0000</lastBuildDate>
     <item>
       <title>Defending Against Personalized Cyber Attacks</title>
       <link>https://www.darktrace.com/blog/attacks-are-getting-personal</link>
@@ -319,6 +312,12 @@
       <link>https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</link>
       <description>Hear from a guest author how Darktrace identified an insider breach from a contractor's laptop, scanned the device, and removed the malware quickly.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/anatomy-of-an-insider-breach-originating-from-a-contractors-laptop</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Assisted Attacks Still Leave a Behavioral Trace</title>
+      <link>https://www.darktrace.com/blog/ai-assisted-attacks-still-leave-a-behavioral-trace</link>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/ai-assisted-attacks-still-leave-a-behavioral-trace</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

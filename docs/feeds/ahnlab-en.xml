@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 03:24:50 +0000</lastBuildDate>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, August 2026</title>
-      <link>https://asec.ahnlab.com/en/95046/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, August 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; Customer and Operational Data of a South Korean Delivery Platform Offered for Sale Unauthorized Access Incident at a Japanese Cloud and Data Center Services Company ShinyHunters Threatens Data Disclosure Against a U.S. Live-Streaming Platform</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95046/</guid>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 12:10:52 +0000</lastBuildDate>
     <item>
       <title>July 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95040/</link>
@@ -217,6 +210,13 @@
       <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95669/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
