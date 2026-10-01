@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 12:10:50 +0000</lastBuildDate>
-    <item>
-      <title>ANY.RUN Secures Leader Status in G2’s Malware Analysis Rankings</title>
-      <link>https://any.run/cybersecurity-blog/g2-leader-fall-2026/</link>
-      <description>&lt;p&gt;We’re excited to share that ANY.RUN has once again been recognized by G2 as a leader in malware analysis. In G2’s Fall 2026 awards, we earned both Momentum Leader and Grid Leader recognition, highlighting our continued growth and strong position in the market. Most importantly, these achievements reflect the trust security professionals place in ANY.RUN [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/g2-leader-fall-2026/"&gt;ANY.RUN Secures Leader Status in G2’s Malware Analysis Rankings&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/g2-leader-fall-2026/</guid>
-      <pubDate>Thu, 10 Sep 2026 09:39:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 22:12:49 +0000</lastBuildDate>
     <item>
       <title>6 Months on Alert: Get H1 2026 Cyber Risk Report for SOCs and MSSPs</title>
       <link>https://any.run/cybersecurity-blog/h1-2026-cyber-risk-report/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-response-protocol/"&gt;Phishing Response Protocol: 3 Essential SOC Steps Powered by ANY.RUN&amp;#8217;s Latest Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-response-protocol/</guid>
       <pubDate>Wed, 30 Sep 2026 09:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Coverage Digest: New Malware Reports and 1,100+ Detection Rules</title>
+      <link>https://any.run/cybersecurity-blog/september-threat-coverage-2026/</link>
+      <description>&lt;p&gt;September saw an expansion of detection coverage across network, file, and behavioral activity, providing analysts with additional visibility into suspicious activity. ANY.RUN added 76 behavior signatures, 16 YARA detections, and 1,098 Suricata rules, strengthening coverage across malware activity, suspicious files, and network communications. These updates provide SOC and MSSP teams with additional evidence during investigations, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/september-threat-coverage-2026/"&gt;Threat Coverage Digest: New Malware Reports and 1,100+ Detection Rules&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/september-threat-coverage-2026/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:13:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

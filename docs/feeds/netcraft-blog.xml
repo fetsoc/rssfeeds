@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 12:09:14 +0000</lastBuildDate>
-    <item>
-      <title>Domain Protection Strategies | A Technical Guide</title>
-      <link>https://www.netcraft.com/blog/domain-protection-strategies</link>
-      <description>Threat actors continue to evolve their attacks, so domain protection strategies need to evolve as well. Learn more from the brand protection experts at Netcraft.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/domain-protection-strategies</guid>
-    </item>
-    <item>
-      <title>Fibergrid: Inside the Bulletproof Hosting Network Behind 16,000+ Fake Shops</title>
-      <link>https://www.netcraft.com/blog/fibergrid-inside-the-bulletproof-host</link>
-      <description>Netcraft uncovers Fibergrid, a bulletproof hosting provider enabling 16,000+ fake shops. Learn how stolen IP space, shell companies, and global infrastructure power large-scale fraud, and where it can be disrupted.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/fibergrid-inside-the-bulletproof-host</guid>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 22:11:23 +0000</lastBuildDate>
     <item>
       <title>Digital Risk Protection vs Brand Protection</title>
       <link>https://www.netcraft.com/blog/drps-vs-brand-protection</link>
@@ -247,6 +235,18 @@
       <link>https://www.netcraft.com/blog/the-reservation-desk-scam-hiding-in-search-results</link>
       <description>Travelers searching for airline and hotel support numbers may be exposed to reservation scams promoted through search results, ads, forums, and AI-generated answers. Learn how fraudsters use fake customer service numbers to impersonate trusted travel brands and deceive consumers.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/the-reservation-desk-scam-hiding-in-search-results</guid>
+    </item>
+    <item>
+      <title>Who Gets Deepfaked and Why</title>
+      <link>https://www.netcraft.com/blog/who-gets-deepfaked-and-why</link>
+      <description>Who gets deepfaked in scams? Netcraft research shows criminals impersonate bankers, journalists, and celebrities to push crypto investment fraud.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/who-gets-deepfaked-and-why</guid>
+    </item>
+    <item>
+      <title>'Super Intelligence' Executive Order Fuels Nearly Hundredfold Increase in .si Domain Registrations</title>
+      <link>https://www.netcraft.com/blog/super-intelligence-executive-order-si-domain-registrations</link>
+      <description>Netcraft examines the surge in .si domain registrations following the U.S. government's adoption of "super intelligence" terminology. Learn how the trend is reshaping domain registration patterns, driving speculative registrations, and creating new risks brands should monitor.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/super-intelligence-executive-order-si-domain-registrations</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

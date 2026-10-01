@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 12:10:54 +0000</lastBuildDate>
-    <item>
-      <title>Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 22:12:52 +0000</lastBuildDate>
     <item>
       <title>September Patch Tuesday haul includes 973 CVEs</title>
       <link>https://www.sophos.com/en-us/blog/september-2026-patch-tuesday</link>
@@ -67,6 +61,13 @@
       <description>&lt;p&gt;Delivering over 30 of your top-requested features&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v23-early-access</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos CISO Advantage is now generally available</title>
+      <link>https://www.sophos.com/en-us/blog/ciso-advantage-ga</link>
+      <description>&lt;p&gt;Take control of your security outcomes.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ciso-advantage-ga</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
