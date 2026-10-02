@@ -7,7 +7,28 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 17:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:39:12 +0000</lastBuildDate>
+    <item>
+      <title>Expel Quarterly Threat Report volume III (Q1 2024): high-risk malware</title>
+      <link>https://expel.com/blog/expel-quarterly-threat-report-q1-high-risk-malware-2024/</link>
+      <description>Next up in our Q1 2024 QTR series, we examine high-risk malware incidents. Here's what our SOC learned, and how you can remediate.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-q1-high-risk-malware-2024/</guid>
+      <pubDate>Wed, 17 Apr 2024 16:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expel returns to RSA Conference and embraces “The Art of Possible”</title>
+      <link>https://expel.com/blog/expel-returns-to-rsa-conference-and-embraces-the-art-of-possible/</link>
+      <description>Expel is back exhibiting at RSAC 2024, and we’re sharing the outcomes we enable that provide peace of mind and even help make PTO possible.</description>
+      <guid isPermaLink="false">https://expel.com/blog/expel-returns-to-rsa-conference-and-embraces-the-art-of-possible/</guid>
+      <pubDate>Thu, 02 May 2024 13:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>RSA Conference 2024: Community unlocks possibility</title>
+      <link>https://expel.com/blog/rsa-conference-2024-community-unlocks-possibility/</link>
+      <description>At RSAC 2024, we're sharing what we learned and observed at this year's conference. Here's how we can achieve great outcomes together.</description>
+      <guid isPermaLink="false">https://expel.com/blog/rsa-conference-2024-community-unlocks-possibility/</guid>
+      <pubDate>Thu, 09 May 2024 14:32:50 +0000</pubDate>
+    </item>
     <item>
       <title>Patch Tuesday roundup for May 2024</title>
       <link>https://expel.com/blog/patch-tuesday-roundup-for-may-2024/</link>
@@ -28,13 +49,6 @@
       <description>The June 2024 edition of Patch Tuesday is live, including 53 published CVEs from Microsoft. Here are our top takeaways.</description>
       <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-june-2024/</guid>
       <pubDate>Wed, 12 Jun 2024 15:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>How phishing threat actors are using AI: a real world example</title>
-      <link>https://expel.com/blog/how-phishing-threat-actors-are-using-ai-a-real-world-example/</link>
-      <description>Our phishing team intercepted an email that appears to contain AI-generated code. Here's what it can teach you.</description>
-      <guid isPermaLink="false">https://expel.com/blog/how-phishing-threat-actors-are-using-ai-a-real-world-example/</guid>
-      <pubDate>Thu, 13 Jun 2024 14:09:48 +0000</pubDate>
     </item>
     <item>
       <title>Security Alert: CrowdStrike Windows Outage</title>
@@ -63,13 +77,6 @@
       <description>Expel’s Chief People Officer, Amy Rossi, shares how to identify and address burnout in your team as it continues to run rampant in cybersecurity.</description>
       <guid isPermaLink="false">https://expel.com/blog/burnout-its-more-than-a-buzzword/</guid>
       <pubDate>Wed, 07 Aug 2024 13:27:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>From exhaustion to equilibrium: battling burnout in your SOC</title>
-      <link>https://expel.com/blog/from-exhaustion-to-equilibrium-battling-burnout-in-your-soc/</link>
-      <description>Our new ebook covers the burnout epidemic in the industry, and how you can address it.</description>
-      <guid isPermaLink="false">https://expel.com/blog/from-exhaustion-to-equilibrium-battling-burnout-in-your-soc/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:09:02 +0000</pubDate>
     </item>
     <item>
       <title>A recap: Expel’s 2024 Black Hat experience</title>
@@ -112,13 +119,6 @@
       <description>Volume III of our Q3 2024 Quarterly Threat Report focuses on malware trends. Learn what to focus on right now.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</guid>
       <pubDate>Mon, 21 Oct 2024 13:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy Halloween! Cybersecurity horror stories from SOCs past</title>
-      <link>https://expel.com/blog/happy-halloween-cybersecurity-horror-stories-from-socs-past/</link>
-      <description>Enjoy these horror stories from past SOCs, as our analysts share their most haunting tales from previous roles (and get some tips, too).</description>
-      <guid isPermaLink="false">https://expel.com/blog/happy-halloween-cybersecurity-horror-stories-from-socs-past/</guid>
-      <pubDate>Thu, 31 Oct 2024 14:09:56 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for November 2024</title>
