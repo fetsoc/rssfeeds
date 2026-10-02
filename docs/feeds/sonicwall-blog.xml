@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 11:39:38 +0000</lastBuildDate>
-    <item>
-      <title>Office Documents are Still Not Safe for Cybersecurity</title>
-      <link>https://www.sonicwall.com/blog/office-documents-are-still-not-safe-for-cybersecurity</link>
-      <description>As businesses increasingly rely on Office 365 files, sightings of their “evil twin” are on the rise.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/office-documents-are-still-not-safe-for-cybersecurity</guid>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 17:11:31 +0000</lastBuildDate>
     <item>
       <title>First-Half 2022 Threat Intelligence: Geopolitical Forces Rapidly Reshaping Cyber Frontlines</title>
       <link>https://www.sonicwall.com/blog/first-half-2022-threat-intelligence-geopolitical-forces-rapidly-reshaping-cyber-frontlines</link>
@@ -296,6 +290,13 @@
       <link>https://www.sonicwall.com/blog/partner-power-news-september-2026-build-credibility-create-demand-stay-on-track</link>
       <description>Explore Partner Power News August 2026 for the latest SonicWall updates, including Endpoint Security, Secure Upgrade enhancements, Zero Trust promotions, Partner Power Hour, updated accreditations, and resources to help partners innovate, protect, and succeed.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-september-2026-build-credibility-create-demand-stay-on-track</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partner Power News – October 2026:  Get Ready. Build Your Pitch. Keep Customers Moving. | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news-october-2026-get-ready-build-your-pitch-keep-customers-moving</link>
+      <description>In this month's edition of SonicWall's Partner Power News, discover proof points for your next pitch, tools to grow your managed security practice, and two Partner Program dates that need your attention.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-october-2026-get-ready-build-your-pitch-keep-customers-moving</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>

@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 11:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:11:41 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday roundup for May 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-may-2024/</link>
+      <description>Patch Tuesday for May 2024 includes 67 published CVEs from Microsoft, and VMware joins the party with four CVEs of its own.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-may-2024/</guid>
+      <pubDate>Tue, 14 May 2024 20:34:26 +0000</pubDate>
+    </item>
     <item>
       <title>Pack your bags: Expel hits the cybersecurity event circuit</title>
       <link>https://expel.com/blog/pack-your-bags-expel-hits-the-cybersecurity-event-circuit/</link>
@@ -77,13 +84,6 @@
       <description>Expel and Wiz announce a new partnership to provide comprehensive, round-the-clock cloud security that's powerful and user-friendly.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-and-wiz-join-forces-a-game-changer-for-cloud-security/</guid>
       <pubDate>Tue, 27 Aug 2024 13:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>MDR insights: how our SOC identified &amp; responded to CVE-2024-3400</title>
-      <link>https://expel.com/blog/mdr-insights-how-our-soc-identified-responded-to-cve-2024-3400/</link>
-      <description>Learn how Expel's security operations center (SOC) identified and resolved CVE-2024-3400 for one of our customers.</description>
-      <guid isPermaLink="false">https://expel.com/blog/mdr-insights-how-our-soc-identified-responded-to-cve-2024-3400/</guid>
-      <pubDate>Thu, 05 Sep 2024 13:11:23 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for September 2024</title>
