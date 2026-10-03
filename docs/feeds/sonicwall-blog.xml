@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 03:10:59 +0000</lastBuildDate>
-    <item>
-      <title>First-Half 2022 Threat Intelligence: Geopolitical Forces Rapidly Reshaping Cyber Frontlines</title>
-      <link>https://www.sonicwall.com/blog/first-half-2022-threat-intelligence-geopolitical-forces-rapidly-reshaping-cyber-frontlines</link>
-      <description>The mid-year update to the 2022 SonicWall Cyber Threat Report reveals changing trends and shifts in global cybercrime hotspots.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/first-half-2022-threat-intelligence-geopolitical-forces-rapidly-reshaping-cyber-frontlines</guid>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 10:53:37 +0000</lastBuildDate>
     <item>
       <title>Ten Cybersecurity Books for Your Late Summer Reading List</title>
       <link>https://www.sonicwall.com/blog/ten-cybersecurity-books-for-your-late-summer-reading-list</link>
@@ -305,6 +299,13 @@
       <description>SonicWall Cloud Secure Edge expands Point of Presence (PoPs) bringing faster, local Zero Trust enforcement.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
+      <link>https://www.sonicwall.com/blog/attackers-target-mlflow-ai-model-registry-to-exfiltrate-server-files-via-path-traversal</link>
+      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/attackers-target-mlflow-ai-model-registry-to-exfiltrate-server-files-via-path-traversal</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Closing the Encrypted Traffic Blind Spot with Cloud Secure Edge</title>

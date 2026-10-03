@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 03:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:55:22 +0000</lastBuildDate>
     <item>
       <title>July 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95040/</link>
@@ -51,6 +51,13 @@
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>I just trusted the security certificate prompt… Beware of the LegionLoader malware being distributed via the ClickFix method</title>
       <link>https://asec.ahnlab.com/en/95374/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified the LegionLoader malware, which is currently being distributed via the ClickFix method. There are two main distribution methods identified so far; both involve tricking users into visiting a malicious URL and then prompting them to directly execute malicious PowerShell commands through a fake Cloudflare CAPTCHA screen. &amp;#160; [&amp;#8230;]</description>
@@ -69,13 +76,6 @@
       <link>https://asec.ahnlab.com/en/95230/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -163,6 +163,13 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
+      <link>https://asec.ahnlab.com/en/95561/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SilverFox: Tracking the Distribution of a Domestic Variant of a Malicious Installation File Posing as KakaoTalk</title>
       <link>https://asec.ahnlab.com/en/95642/</link>
       <description>The threat actor used SEO poisoning (a technique that exploits search results to redirect users to fake sites) to distribute a malicious installer disguised as a KakaoTalk installer. The appearance and packaging method of the installer changed continuously, and the threat actor sequentially used NSIS, Advanced Installer, and Inno Setup. It contained both legitimate installation [&amp;#8230;]</description>
@@ -181,13 +188,6 @@
       <link>https://asec.ahnlab.com/en/95598/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as project material purchase request forms. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a project material purchase request form. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95598/</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
-      <link>https://asec.ahnlab.com/en/95561/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
