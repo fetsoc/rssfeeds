@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hatching-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 13:11:55 +0000</lastBuildDate>
-    <item>
-      <title>Hatching - Automated malware analysis solutions</title>
-      <link>https://hatching.io/blog/tt-2025-10-02/</link>
-      <description>Automated malware analysis with Hatching Triage, the high-volume sandbox solution for SOCs, CERTs, SOARs, and MSSPs.</description>
-      <guid isPermaLink="false">https://hatching.io/blog/tt-2025-10-02/</guid>
-    </item>
-    <item>
-      <title>Hatching - Automated malware analysis solutions</title>
-      <link>https://hatching.io/blog/tt-2025-10-09/</link>
-      <description>Automated malware analysis with Hatching Triage, the high-volume sandbox solution for SOCs, CERTs, SOARs, and MSSPs.</description>
-      <guid isPermaLink="false">https://hatching.io/blog/tt-2025-10-09/</guid>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 23:34:03 +0000</lastBuildDate>
     <item>
       <title>Hatching - Automated malware analysis solutions</title>
       <link>https://hatching.io/blog/tt-2025-10-16/</link>
@@ -307,6 +295,18 @@
       <link>https://hatching.io/blog/tt-2026-09-17/</link>
       <description>Automated malware analysis with Hatching Triage, the high-volume sandbox solution for SOCs, CERTs, SOARs, and MSSPs.</description>
       <guid isPermaLink="false">https://hatching.io/blog/tt-2026-09-17/</guid>
+    </item>
+    <item>
+      <title>Hatching - Automated malware analysis solutions</title>
+      <link>https://hatching.io/blog/tt-2026-09-24/</link>
+      <description>Automated malware analysis with Hatching Triage, the high-volume sandbox solution for SOCs, CERTs, SOARs, and MSSPs.</description>
+      <guid isPermaLink="false">https://hatching.io/blog/tt-2026-09-24/</guid>
+    </item>
+    <item>
+      <title>Hatching - Automated malware analysis solutions</title>
+      <link>https://hatching.io/blog/tt-2026-10-01/</link>
+      <description>Automated malware analysis with Hatching Triage, the high-volume sandbox solution for SOCs, CERTs, SOARs, and MSSPs.</description>
+      <guid isPermaLink="false">https://hatching.io/blog/tt-2026-10-01/</guid>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 13:12:11 +0000</lastBuildDate>
-    <item>
-      <title>The answer to AI uncertainty is adaptability, not paralysis</title>
-      <link>https://www.sophos.com/en-us/blog/ai-uncertainty-adaptability</link>
-      <description>&lt;p&gt;AI uncertainty is not a strategic reason to wait; it is a strategic imperative to build adaptable organizations that can innovate confidently, govern risk proportionately, and respond effectively as technology and threats evolve.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-uncertainty-adaptability</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 23:34:17 +0000</lastBuildDate>
     <item>
       <title>The Rising Threat of Deepfakes: Why Organizations Must Rethink Trust</title>
       <link>https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust</link>
@@ -68,6 +61,12 @@
       <description>&lt;p&gt;Sophos has been named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises 2026, recognizing the strength of our prevention-first approach and stopping AI-era threats as early as possible.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-idc-marketscape-endpoint-security</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

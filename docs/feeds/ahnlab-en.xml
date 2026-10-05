@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 13:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:34:14 +0000</lastBuildDate>
     <item>
       <title>July 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95040/</link>
@@ -121,17 +121,17 @@
       <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
-      <link>https://asec.ahnlab.com/en/95516/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
       <link>https://asec.ahnlab.com/en/95450/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
+      <link>https://asec.ahnlab.com/en/95516/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
       <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
