@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 11:36:46 +0000</lastBuildDate>
-    <item>
-      <title>Does Your Cyber Security Strategy Include a Perimeter Defense?</title>
-      <link>https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</link>
-      <description>Establishing a perimeter defense is especially important when it comes to areas where sensitive data - a high-value resource - is stored.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/does-your-cyber-security-strategy-include-a-perimeter-defense/</guid>
-      <pubDate>Wed, 29 Jul 2020 10:10:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 03:19:39 +0000</lastBuildDate>
     <item>
       <title>Our 5 Key Takeaways from Forrester’s MSSP Wave™ Report</title>
       <link>https://www.cyberproof.com/blog/our-5-key-takeaways-from-forresters-mssp-wave-report/</link>
@@ -266,6 +259,13 @@
       <description>In today's digital age, data analytics plays a crucial role in creating awareness and driving demand around new products and services. Understanding customer needs, intentions, and behaviors and then tailoring messages to target specific audiences has become a fundamental practice.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/marketing-in-the-cyber-industry-and-the-ethics-of-surveillance-capitalism/</guid>
       <pubDate>Thu, 05 Oct 2023 08:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s time to be “Frank” about cybersecurity</title>
+      <link>https://www.cyberproof.com/blog/its-time-to-be-frank-about-cybersecurity/</link>
+      <description>At CyberProof, we’re taking a stand and are calling on the cybersecurity industry as a whole to start having more “frank” – more open, honest, and transparent – conversations about the state of cybersecurity, and of current and future security needs.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/its-time-to-be-frank-about-cybersecurity/</guid>
+      <pubDate>Wed, 25 Oct 2023 04:43:38 +0000</pubDate>
     </item>
     <item>
       <title>Securing the repository manager: Insights from a threat hunter</title>
