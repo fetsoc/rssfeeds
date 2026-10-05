@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 03:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:12:11 +0000</lastBuildDate>
     <item>
       <title>How to Secure Enterprise AI: From Adoption to Incident Readiness</title>
       <link>https://www.sygnia.co/guides-and-tools/secure-enterprise-ai-incident-readiness-guide/</link>
@@ -70,7 +70,7 @@
       <description>&lt;p&gt;Join Sygnia experts for a two-part webinar series examining how AI-related threats are becoming an operational reality for many organizations and the practical approaches security teams should take to protect their business from them. &lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/ai-threat-realities-prompt-proactive-security-readiness/"&gt;AI Threat Realities Prompt Proactive Security Readiness&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/webinars/ai-threat-realities-prompt-proactive-security-readiness/</guid>
-      <pubDate>Wed, 30 Sep 2026 13:54:56 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 12:12:08 +0000</pubDate>
     </item>
     <item>
       <title>Actively Exploited NetScaler Vulnerabilities</title>
@@ -78,7 +78,7 @@
       <description>&lt;p&gt;Organizations should patch all customer-managed NetScaler ADC and Gateway appliances immediately, investigate for pre-patch compromise, and restrict the appliances' access to sensitive internal systems.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/"&gt;Actively Exploited NetScaler Vulnerabilities&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/</guid>
-      <pubDate>Wed, 30 Sep 2026 18:23:22 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 18:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

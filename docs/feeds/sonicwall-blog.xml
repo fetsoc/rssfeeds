@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 03:18:20 +0000</lastBuildDate>
-    <item>
-      <title>Ten Cybersecurity Books for Your Late Summer Reading List</title>
-      <link>https://www.sonicwall.com/blog/ten-cybersecurity-books-for-your-late-summer-reading-list</link>
-      <description>While you probably aren’t headed back to school this fall, that doesn’t mean it’s not a great time to hit the books.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/ten-cybersecurity-books-for-your-late-summer-reading-list</guid>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 13:10:27 +0000</lastBuildDate>
     <item>
       <title>SonicWall Capture ATP Earns 100% ICSA Threat Detection Rating for Sixth Straight Quarter</title>
       <link>https://www.sonicwall.com/blog/sonicwall-capture-atp-earns-100-icsa-threat-detection-rating-for-sixth-straight-quarter</link>
@@ -230,6 +224,12 @@
       <link>https://www.sonicwall.com/blog/ibm-langflow-oss-unauthenticated-rce</link>
       <description>Critical CVSS 9.8 unauthenticated RCE in IBM Langflow OSS chains an auto-login bypass with unsandboxed exec(). SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/ibm-langflow-oss-unauthenticated-rce</guid>
+    </item>
+    <item>
+      <title>SOCtoberfest Kickoff: The 7 Deadly Sins</title>
+      <link>https://www.sonicwall.com/blog/soctoberfest-kickoff-the-7-deadly-sins-of-cybersecurity-meet-cisa-s-core-steps</link>
+      <description>See how you can use CISA's guidance for better cybersecurity at your org.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/soctoberfest-kickoff-the-7-deadly-sins-of-cybersecurity-meet-cisa-s-core-steps</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>

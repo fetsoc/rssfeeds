@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 03:19:46 +0000</lastBuildDate>
-    <item>
-      <title>MicroStealer / SparkStealer: Large-Scale Gaming-Themed Credential Theft Infrastructure Uncovered</title>
-      <link>https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</link>
-      <description>FalconFeeds reveals a large-scale MicroStealer and SparkStealer campaign abusing Minecraft-themed domains to target gamers via fake mods and server links, enabling credential theft, wallet exfiltration, and account compromise.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/microstealer-sparkstealer-gaming-themed-credential-theft-infrastructure-uncovered</guid>
-      <pubDate>Mon, 13 Apr 2026 06:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>UNC1069: DPRK’s Deepfake-Driven Cyber Campaign Targeting Crypto and Software Supply Chains</title>
-      <link>https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</link>
-      <description>UNC1069, a DPRK-linked threat actor tied to the Reconnaissance General Bureau, is leveraging deepfake-driven social engineering and supply chain attacks—including npm compromise—to target crypto and developer ecosystems, marking a new evolution in North Korean cyber operations.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/unc1069-dprk-deepfake-cyber-campaign-crypto-supply-chain-attacks</guid>
-      <pubDate>Fri, 17 Apr 2026 15:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Storm Team: Hacktivism at Scale in the Iran–Israel Cyber Conflict and Middle East Critical Infrastructure Threat Landscape</title>
-      <link>https://falconfeeds.io/blogs/dark-storm-team-iran-israel-cyber-conflict-middle-east-critical-infrastructure-threat</link>
-      <description>An in-depth FalconFeeds analysis of Dark Storm Team’s role in the Iran–Israel cyber conflict, exposing its threat to Middle East governments, critical infrastructure, and Abraham Accords-aligned states.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/dark-storm-team-iran-israel-cyber-conflict-middle-east-critical-infrastructure-threat</guid>
-      <pubDate>Sun, 19 Apr 2026 15:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Commercial Satellite Intelligence as a Geopolitical Weapon: Satellite Navigation, GPS Warfare &amp; the Iran - U.S. Conflict</title>
-      <link>https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</link>
-      <description>An in-depth analysis of how satellite navigation, GPS jamming, spoofing, and China’s BeiDou system became strategic weapons in the Iran–U.S. conflict, disrupting shipping, oil flows, and regional power dynamics.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/commercial-satellite-intelligence-geopolitical-weapon-gps-warfare-iran-us-conflict</guid>
-      <pubDate>Sun, 19 Apr 2026 15:30:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 13:12:03 +0000</lastBuildDate>
     <item>
       <title>Why Falcon Feeds Stands Out as the Ultimate One-Stop CTI Feed Solution for Modern Security Operations Centers</title>
       <link>https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</link>
@@ -357,6 +329,34 @@
       <description>Explore how cybercrime rivalries, RaaS fractures, and threat actor infighting are reshaping the underground ecosystem and changing enterprise extortion risks.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/cybercrime-power-struggle-raas-fractures-underground-conflict</guid>
       <pubDate>Tue, 29 Sep 2026 05:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is  Honeypot in Cybersecurity? Types, Benefits &amp; Use Cases</title>
+      <link>https://falconfeeds.io/blogs/what-is-a-honeypot-in-cybersecurity</link>
+      <description>Understand honeypots in cybersecurity and see how they work, their types, key security benefits, use cases and where deception technology solutions fit in.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-a-honeypot-in-cybersecurity</guid>
+      <pubDate>Mon, 05 Oct 2026 04:28:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Security Monitoring vs Threat Intelligence: How Work Together</title>
+      <link>https://falconfeeds.io/blogs/ber-security-monitoring-vs-threat-intelligence-how-they-work-together</link>
+      <description>Learn the difference between cyber security monitoring and threat intelligence, and how they work together to add alert context and speed up investigations.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/ber-security-monitoring-vs-threat-intelligence-how-they-work-together</guid>
+      <pubDate>Mon, 05 Oct 2026 04:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Incident Response in Cyber Security? Phases, Types &amp; Tools</title>
+      <link>https://falconfeeds.io/blogs/what-is-incident-response-in-cyber-security</link>
+      <description>Incident response in cyber security helps teams detect threats, contain damage and recover faster. See the phases, incident types, tools and best practices.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-incident-response-in-cyber-security</guid>
+      <pubDate>Mon, 05 Oct 2026 05:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key Benefits of Cyber Security Monitoring for Businesses - With Real Threat Data from FalconFeeds</title>
+      <link>https://falconfeeds.io/blogs/key-benefits-of-cyber-security-monitoring-for-businesses</link>
+      <description>See how cyber security monitoring helps businesses detect threats earlier, with FalconFeeds data on ransomware, data breaches and Initial Access attacks.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/key-benefits-of-cyber-security-monitoring-for-businesses</guid>
+      <pubDate>Mon, 05 Oct 2026 05:30:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
