@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 04:05:24 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Capture ATP Earns 100% ICSA Threat Detection Rating for Sixth Straight Quarter</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-capture-atp-earns-100-icsa-threat-detection-rating-for-sixth-straight-quarter</link>
-      <description>SonicWall Capture ATP with RTDMI just earned an unprecedented sixth 100% threat detection score in third-party ICSA testing.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-capture-atp-earns-100-icsa-threat-detection-rating-for-sixth-straight-quarter</guid>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 12:30:48 +0000</lastBuildDate>
     <item>
       <title>SonicWall NSM 2.3.4 Uplevels Central Management Capabilities</title>
       <link>https://www.sonicwall.com/blog/sonicwall-nsm-2-3-4-uplevels-central-management-capabilities</link>
@@ -230,6 +224,12 @@
       <link>https://www.sonicwall.com/blog/soctoberfest-kickoff-the-7-deadly-sins-of-cybersecurity-meet-cisa-s-core-steps</link>
       <description>See how you can use CISA's guidance for better cybersecurity at your org.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/soctoberfest-kickoff-the-7-deadly-sins-of-cybersecurity-meet-cisa-s-core-steps</guid>
+    </item>
+    <item>
+      <title>The SOC Van Pelt Report: Kubiak's Aura Gamble</title>
+      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</link>
+      <description>A halftime guarantee, a broken run game, and a lesson for security teams about declaring victory too early.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>
