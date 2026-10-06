@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 12:30:51 +0000</lastBuildDate>
-    <item>
-      <title>Digital Risk Protection vs Brand Protection</title>
-      <link>https://www.netcraft.com/blog/drps-vs-brand-protection</link>
-      <description>Learn the key differences between DRPs vs brand protection — and how modern SOCs stop attacks in real time.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/drps-vs-brand-protection</guid>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 22:10:12 +0000</lastBuildDate>
     <item>
       <title>April 2026 Web Server Survey | Netcraft</title>
       <link>https://www.netcraft.com/blog/april-2026-web-server-survey</link>
@@ -247,6 +241,12 @@
       <link>https://www.netcraft.com/blog/super-intelligence-executive-order-si-domain-registrations</link>
       <description>Netcraft examines the surge in .si domain registrations following the U.S. government's adoption of "super intelligence" terminology. Learn how the trend is reshaping domain registration patterns, driving speculative registrations, and creating new risks brands should monitor.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/super-intelligence-executive-order-si-domain-registrations</guid>
+    </item>
+    <item>
+      <title>Using Geofencing and Cloaking to Look Like a "Real" Phishing Victim</title>
+      <link>https://www.netcraft.com/blog/the-new-arms-race-in-cybercrime-who-looks-like-a-real-victim</link>
+      <description>Learn how modern phishing campaigns use cloaking, geofencing, browser fingerprinting, and behavioral validation to identify real victims. Discover why security teams must increasingly emulate users to uncover hidden threats.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-new-arms-race-in-cybercrime-who-looks-like-a-real-victim</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

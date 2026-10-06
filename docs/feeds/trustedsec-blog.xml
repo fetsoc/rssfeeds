@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 12:32:24 +0000</lastBuildDate>
-    <item>
-      <title>A Vault With No Treasure - CMMC Level 2 Compliance for Subcontractors With No CUI</title>
-      <link>https://trustedsec.com/blog/a-vault-with-no-treasure-cmmc-level-2-compliance-for-subcontractors-with-no-cui</link>
-      <description>&amp;lt;p&amp;gt;This blog post should not exist, but it does. In this blog, we detail the improper CMMC Level 2 flow-down problem and the most cost-effective path to compliance if pushing back isn&amp;#039;t an option.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/a-vault-with-no-treasure-cmmc-level-2-compliance-for-subcontractors-with-no-cui</guid>
-      <pubDate>Tue, 11 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 22:11:55 +0000</lastBuildDate>
     <item>
       <title>AI Offense is Not Noclip Mode</title>
       <link>https://trustedsec.com/blog/ai-offense-is-not-noclip-mode</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Meet HashcatRosetta—the Hashcat rule decoder you didn&amp;#039;t know you needed. In Part 2 of this blog series, we go through how it translates, analyzes, and optimizes rule files to maximize cracking efficiency.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/hashcatrosetta-reading-the-rosetta-stone-of-password-cracking</guid>
       <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logging is a Discipline, Not a Switch</title>
+      <link>https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch</link>
+      <description>&amp;lt;p&amp;gt;Logging isn&amp;#039;t a switch to flip; it&amp;#039;s something to tune and maintain. In this blog, we outline a four-step Active Directory logging framework covering log sizing, audit policies, detection goals, and gap analysis.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch</guid>
+      <pubDate>Tue, 06 Oct 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
