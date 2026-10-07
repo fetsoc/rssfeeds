@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 22:11:57 +0000</lastBuildDate>
-    <item>
-      <title>July 2026 Threat Trend Report on APT Groups</title>
-      <link>https://asec.ahnlab.com/en/95040/</link>
-      <description>Purpose and Scope The July 2026 Threat Trend Report on APT Groups summarizes the trend in which state-sponsored threat actors and financially motivated attackers are employing a combination of supply chain attacks, account takeovers, cloud breaches, and social engineering techniques. Key targets include Microsoft 365, webmail accounts, cloud infrastructure, GitHub and development environments, VPN and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95040/</guid>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 03:35:09 +0000</lastBuildDate>
     <item>
       <title>July 2026 Ransomware Trend Report</title>
       <link>https://asec.ahnlab.com/en/95112/</link>
@@ -217,6 +210,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
       <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95733/</link>
+      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
