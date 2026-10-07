@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 03:35:07 +0000</lastBuildDate>
-    <item>
-      <title>ANY.RUN &amp; SentinelOne: One Workspace, Instant Context for Rapid Response</title>
-      <link>https://any.run/cybersecurity-blog/sentinelone-integration/</link>
-      <description>&lt;p&gt;Speed and clarity are the ultimate advantages for modern SOC teams. The integration of ANY.RUN into SentinelOne delivers exactly that. Instant threat intelligence and interactive sandbox capabilities embedded right where your analysts already work. Let’s look at how this unified workflow eliminates context switching, accelerates incident response, and drives higher ROI by transforming alerts into [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/sentinelone-integration/"&gt;ANY.RUN &amp;amp; SentinelOne: One Workspace, Instant Context for Rapid Response&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/sentinelone-integration/</guid>
-      <pubDate>Wed, 16 Sep 2026 06:40:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 12:25:51 +0000</lastBuildDate>
     <item>
       <title>Enterprise Threat Intelligence Buying Guide: How to Choose the Right Solution</title>
       <link>https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/ironchain-analysis/"&gt;IronChain Ransomware Threatens Businesses with Permanent Data Loss and Costly Downtime&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/ironchain-analysis/</guid>
       <pubDate>Tue, 06 Oct 2026 11:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Critical Pain Points of Modern US SOCs and How to Solve Them</title>
+      <link>https://any.run/cybersecurity-blog/us-soc-pain-points/</link>
+      <description>&lt;p&gt;US SOC teams are under pressure to detect and contain threats faster, but the real challenge is often not a lack of security solutions. It’s the growing amount of alerts, fragmented investigation data, evasive attack techniques, and the time analysts spend connecting the dots. As attacks become harder to validate and easier to hide inside [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-soc-pain-points/"&gt;5 Critical Pain Points of Modern US SOCs and How to Solve Them&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-soc-pain-points/</guid>
+      <pubDate>Wed, 07 Oct 2026 07:30:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
