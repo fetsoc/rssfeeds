@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 12:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:30:50 +0000</lastBuildDate>
     <item>
       <title>Kiteworks recommends server shutdown pending possible attack</title>
       <link>https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack</link>

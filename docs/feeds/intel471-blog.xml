@@ -7,7 +7,49 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/intel471-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 12:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Navigating the BlackLotus Threat: Unraveling the UEFI BootKit Attack</title>
+      <link>https://www.intel471.com/blog/navigating-the-blacklotus-threat-unraveling-the-uefi-bootkit-attack</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/navigating-the-blacklotus-threat-unraveling-the-uefi-bootkit-attack</guid>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber Storm Unleashed: Unmasking STORM-0978's Exploitation of the CVE-2023-36884 Vulnerability</title>
+      <link>https://www.intel471.com/blog/cyber-storm-unleashed-unmasking-storm-0978s-exploitation-of-the-cve-2023-36884-vulnerability</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/cyber-storm-unleashed-unmasking-storm-0978s-exploitation-of-the-cve-2023-36884-vulnerability</guid>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More Alleged Trickbot and Conti Gang Members Sanctioned, Charged</title>
+      <link>https://www.intel471.com/blog/more-trickbot-and-conti-gang-members-sanctioned-charged</link>
+      <description>The U.S. and U.K. sanctioned 11 individuals related to the TrickBot botnet and Conti ransomware groups, while the U.S. unsealed criminal charges against nine people. The actions are part of multinational effort to curb ransomware and cybercrime.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/more-trickbot-and-conti-gang-members-sanctioned-charged</guid>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reducing Risk with Third-Party Attack Surface Monitoring</title>
+      <link>https://www.intel471.com/blog/reducing-risk-with-third-party-attack-surface-monitoring</link>
+      <description>How can organizations monitor the cybersecurity risks that come from third parties and their suppliers? Monitoring the attack surface of partners can illuminate risks. Here&amp;#039;s how to do it.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/reducing-risk-with-third-party-attack-surface-monitoring</guid>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating the Web of Scattered Spider: Understanding the Threat Landscape</title>
+      <link>https://www.intel471.com/blog/navigating-the-web-of-scattered-spider-understanding-the-threat-landscape</link>
+      <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/navigating-the-web-of-scattered-spider-understanding-the-threat-landscape</guid>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deck the Halls with Caution: Four Festive Cyber Threats to Look Out for This Season</title>
+      <link>https://www.intel471.com/blog/deck-the-halls-with-caution-four-festive-cyber-threats-to-look-out-for-this-season</link>
+      <description>As we wind down to the end of the year, Intel 471 details four critical cyber threats organizations need to be aware of to ensure they remain vigilant.</description>
+      <guid isPermaLink="false">https://www.intel471.com/blog/deck-the-halls-with-caution-four-festive-cyber-threats-to-look-out-for-this-season</guid>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>BlueSky: Understanding and Combating the Ransomware Threat</title>
       <link>https://www.intel471.com/blog/understanding-and-combating-the-bluesky-ransomware-threat</link>
@@ -21,13 +63,6 @@
       <description>Cyber Threat Intelligence provides benefits like early detection, vulnerability management, decision-making support, and more. Read on to discover how it gives organizations the advantage.</description>
       <guid isPermaLink="false">https://www.intel471.com/blog/four-benefits-of-cyber-threat-intelligence</guid>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercrime Exposed Podcast: The Xbox One Hack</title>
-      <link>https://www.intel471.com/blog/cybercrime-exposed-podcast-the-xbox-one-hack</link>
-      <description>Arman Sadri was a gaming hacker. But he didn’t recognize when he’d gone too deep. His life unraveled, and the FBI wasn’t far behind. His years-long dalliance on the edge led him to a place from which he’s still recovering.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-exposed-podcast-the-xbox-one-hack</guid>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mitigate Supply Chain Risk with Cyber Threat Intelligence</title>
@@ -44,25 +79,11 @@
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Testing the Efficacy of Security Software</title>
-      <link>https://www.intel471.com/blog/testing-the-efficacy-of-security-software</link>
-      <description>In this edition of Studio 471, Simon Edwards of SE Labs walks through how his company tests security products based on the cyber kill chain and MITRE ATT&amp;amp;CK.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/testing-the-efficacy-of-security-software</guid>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonikerLink: Outlook's Achilles' Heel, Navigating the Perilous Waters of CVE-2024-21413</title>
       <link>https://www.intel471.com/blog/monikerlink-outlooks-achilles-heel-navigating-the-perilous-waters-of-cve-2024-21413</link>
       <description>Intel 471 is a leading provider of threat intelligence and security research.</description>
       <guid isPermaLink="false">https://www.intel471.com/blog/monikerlink-outlooks-achilles-heel-navigating-the-perilous-waters-of-cve-2024-21413</guid>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybercrime Exposed Podcast: Crypto Heist</title>
-      <link>https://www.intel471.com/blog/cybercrime-exposed-podcast-crypto-heist</link>
-      <description>In March 2022, North Korean hackers stole $600 million worth of virtual currency from the online game Axie Infinity. But blockchain investigators were hot on the trail.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-exposed-podcast-crypto-heist</guid>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Phobos Unleashed: Navigating the Maze of Ransomware's Ever-Evolving Threat</title>
@@ -112,13 +133,6 @@
       <description>Fast-paced cyber threats are driving more organizations towards cybersecurity solutions that help them anticipate attacks. Today, we unveiled 471 Attack Surface Protection, a powerful attack surface management solution that leverages Intel 471’s cyber threat intelligence to help customers quickly prioritize high risk exposures and improve their business operations.</description>
       <guid isPermaLink="false">https://www.intel471.com/blog/introducing-471-attack-surface-protection-for-intelligence-led-business-operations</guid>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Can We Learn from Ransomware Attacks</title>
-      <link>https://www.intel471.com/blog/what-can-we-learn-from-ransomware-attacks</link>
-      <description>In this Studio 471, Jamie MacColl of the Royal United Services Institute discusses a study of ransomware’s impacts from IT staff on the front line through to civil society.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/what-can-we-learn-from-ransomware-attacks</guid>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>BreachForums Saga Continues. What’s Next?</title>
@@ -177,25 +191,11 @@
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cybercrime Exposed Podcast: Raccoon Stealer</title>
-      <link>https://www.intel471.com/blog/cybercrime-exposed-podcast-raccoon-stealer</link>
-      <description>Information stealing malware is one of the most common ways that organizations end up infiltrated by malicious hackers. For several years, one type of infostealer called Raccoon Stealer ruled them all.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/cybercrime-exposed-podcast-raccoon-stealer</guid>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Holiday Season Cyber Threats (Part 2): Ransomware, Gift Cards, and Point-of-Sale breaches</title>
       <link>https://www.intel471.com/blog/holiday-season-cyber-threats-part-2-ransomware-gift-cards-and-point-of-sale-breaches</link>
       <description>The surge in online shopping and travel bookings during the holiday season offers rich pickings for cybercriminals. Black Friday, Cyber Monday, Christmas shopping, and increased travel throughout December offer ample opportunities for cybercriminals to profit from the high volume of transactions and the growing reliance on digital platforms in retail, travel and hospitality. Their objective is to compromise sensitive customer data, disrupt operations and erode trust, all with an eye toward monetization.</description>
       <guid isPermaLink="false">https://www.intel471.com/blog/holiday-season-cyber-threats-part-2-ransomware-gift-cards-and-point-of-sale-breaches</guid>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collecting Useful CTI from Underground Markets</title>
-      <link>https://www.intel471.com/blog/collecting-useful-cti-from-underground-markets</link>
-      <description>Extracting cyber threat intelligence on emerging threats and novel threat actors is challenging. Michele Campobasso completed his doctoral thesis in 2024 at Eindhoven University of Technology, and in Studio 471, he shares insights on these markets and maximizing CTI collection.</description>
-      <guid isPermaLink="false">https://www.intel471.com/blog/collecting-useful-cti-from-underground-markets</guid>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bring Your Own Hunts to HUNTER</title>

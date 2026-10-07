@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 12:23:12 +0000</lastBuildDate>
-    <item>
-      <title>Hunt 2.7 Is Here: Faster Searches, Smarter Filters, Deeper Insight</title>
-      <link>https://hunt.io/blog/announcing-hunt-2-7</link>
-      <description>Hunt 2.7 delivers faster C2 listings, new hostname and TLD search options, multi-value filtering, and IOC Hunter threat actor visibility on IP and domain searches. Explore what’s new in the latest release.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/announcing-hunt-2-7</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 22:28:36 +0000</lastBuildDate>
     <item>
       <title>The Complete Guide to Hunting Cobalt Strike – Part 1: Detecting in Open Directories</title>
       <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-1-open-directories</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io SpiceRAT detections identified shared infrastructure artifacts across malware families in Bitdefender’s SilkParasite report, connecting servers to Central Asian energy, government, and telecom targets.</description>
       <guid isPermaLink="false">https://hunt.io/blog/silkparasite-spicerat-central-asia-infrastructure</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brazilian Access Broker Targeting Latin America: Mapping BraZetsu Infrastructure Beyond the Published IOCs</title>
+      <link>https://hunt.io/blog/brazetsu-access-broker-infrastructure</link>
+      <description>TLS certificates tied BraZetsu's C2 hostname to a second VPS on Njalla, live months before disclosure. HuntSQL queries, timeline, IOCs and detection.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/brazetsu-access-broker-infrastructure</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
