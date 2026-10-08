@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 22:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:52:35 +0000</lastBuildDate>
     <item>
       <title>July 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/95171/</link>
@@ -170,13 +170,6 @@
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
-      <link>https://asec.ahnlab.com/en/95645/</link>
-      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>August 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/95649/</link>
       <description>Overview AhnLab monitored APT (Advanced Persistent Threat) attacks targeting entities in Korea using its own infrastructure. This report summarizes the types and statistics on domestic APT attacks identified during the month of August 2026. Trends of APT Attacks in South Korea Most of the APT attacks detected in South Korea were distributed via spear phishing [&amp;#8230;]</description>
@@ -188,6 +181,13 @@
       <link>https://asec.ahnlab.com/en/95646/</link>
       <description>One day, out of the blue, I received a text message claiming to protect my cryptocurrency account. However, this message concealed a sinister intent: to steal the user’s wallet information. Recently, a smishing campaign was identified that impersonated Pi Coin account protection to lure users to phishing pages and steal their cryptocurrency wallet information. The [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95646/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
+      <link>https://asec.ahnlab.com/en/95645/</link>
+      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

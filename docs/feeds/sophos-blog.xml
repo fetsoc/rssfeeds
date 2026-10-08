@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 22:30:50 +0000</lastBuildDate>
-    <item>
-      <title>Kiteworks recommends server shutdown pending possible attack</title>
-      <link>https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 03:52:38 +0000</lastBuildDate>
     <item>
       <title>Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation</link>
@@ -66,6 +60,13 @@
       <link>https://www.sophos.com/en-us/blog/understanding-asymmetric-routing-risks</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/understanding-asymmetric-routing-risks</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CISA’s 17 Common Active Directory Compromise Techniques: A Sophos MDR Perspective</title>
+      <link>https://www.sophos.com/en-us/blog/cisa-active-directory-compromise-techniques</link>
+      <description>&lt;p&gt;Active Directory defenses must combine identity fundamentals, telemetry, and rapid response as attackers reach the environment’s first breach attempt within a median of 11 hours.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cisa-active-directory-compromise-techniques</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
