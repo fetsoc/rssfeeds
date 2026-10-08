@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 12:34:30 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall NSM 2.3.4 Uplevels Central Management Capabilities</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-nsm-2-3-4-uplevels-central-management-capabilities</link>
-      <description>Network security management with zero-touch deployments, detailed event logs for Gen 7 firewalls, custom reporting, CIDR-based search abilities, and more.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-nsm-2-3-4-uplevels-central-management-capabilities</guid>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 22:47:39 +0000</lastBuildDate>
     <item>
       <title>Think Before You Click: Spotting and Stopping a Phish</title>
       <link>https://www.sonicwall.com/blog/think-before-you-click-spotting-and-stopping-a-phish</link>
@@ -230,6 +224,12 @@
       <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</link>
       <description>A halftime guarantee, a broken run game, and a lesson for security teams about declaring victory too early.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</guid>
+    </item>
+    <item>
+      <title>Adobe Commerce and Magento StyleSmuggler RCE - CVE-2026-75650</title>
+      <link>https://www.sonicwall.com/blog/adobe-commerce-and-magento-stylesmuggler-unauthenticated-rce</link>
+      <description>Critical, actively exploited CVSS 10.0 StyleSmuggler flaw in Adobe Commerce and Magento enables unauthenticated RCE. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/adobe-commerce-and-magento-stylesmuggler-unauthenticated-rce</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-07-21</title>

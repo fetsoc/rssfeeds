@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 12:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:47:50 +0000</lastBuildDate>
+    <item>
+      <title>Patch Tuesday roundup for April 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-april-2024/</link>
+      <description>The April 2024 Patch Tuesday included 150 CVEs from Microsoft and 24 CVEs from Adobe. Here’s what our team recommends to reduce exploit risk.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-april-2024/</guid>
+      <pubDate>Tue, 09 Apr 2024 21:47:28 +0000</pubDate>
+    </item>
     <item>
       <title>Expel Quarterly Threat Report volume I (Q1 2024): Q1 by the numbers</title>
       <link>https://expel.com/blog/expel-quarterly-threat-report-q1-by-the-numbers-2024/</link>
@@ -343,13 +350,6 @@
       <description>Expel's new integrations expand our comprehensive MDR coverage against phishing, business email compromise (BEC), and inbox-based attacks.</description>
       <guid isPermaLink="false">https://expel.com/blog/expel-launches-proactive-defense-for-email-threats/</guid>
       <pubDate>Tue, 22 Apr 2025 13:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring the necessity of college degrees for cybersecurity talent</title>
-      <link>https://expel.com/blog/exploring-the-necessity-of-college-degrees-for-cybersecurity-talent/</link>
-      <description>We recently polled Expletives on what kind of degrees they have (if any) and if they do or don't use those skills in their roles for us.</description>
-      <guid isPermaLink="false">https://expel.com/blog/exploring-the-necessity-of-college-degrees-for-cybersecurity-talent/</guid>
-      <pubDate>Tue, 03 Jun 2025 15:54:13 +0000</pubDate>
     </item>
     <item>
       <title>More SIEM flexibility: Expel MDR adds support for XSIAM</title>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 12:34:34 +0000</lastBuildDate>
-    <item>
-      <title>April 2026 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/april-2026-web-server-survey</link>
-      <description>In the April 2026 survey we received responses from 1,433,742,238 sites across 299,194,059 domains and 14,198,148 web-facing computers. This reflec...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/april-2026-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 22:47:43 +0000</lastBuildDate>
     <item>
       <title>Phishing Takedown Speed: Why Time-to-Resolution Matters Most</title>
       <link>https://www.netcraft.com/blog/phishing-takedown</link>
@@ -317,6 +311,13 @@
       <description>In the May 2026 survey we received responses from 1,468,295,818 sites across 302,162,421 domains and 14,571,917 web-facing computers. This reflects...</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/may-2026-web-server-survey</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TLD Launch Milestones 2026-2027: What Brand Protection Teams Need to Know</title>
+      <link>https://www.netcraft.com/blog/the-tld-launches-your-brand-protection-program-your-brand-protection-program-should-be-watching</link>
+      <description>A wave of TLD launches is underway through 2027. Learn how attackers exploit the window right after launch, and how to catch lookalike domains first.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/the-tld-launches-your-brand-protection-program-your-brand-protection-program-should-be-watching</guid>
+      <pubDate>Sun, 02 May 2027 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
