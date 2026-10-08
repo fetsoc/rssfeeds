@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 03:52:34 +0000</lastBuildDate>
-    <item>
-      <title>Enterprise Threat Intelligence Buying Guide: How to Choose the Right Solution</title>
-      <link>https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/</link>
-      <description>&lt;p&gt;Choosing an enterprise threat intelligence solution is about more than just data volume or integrations. The right provider should deliver relevant intelligence, fit existing workflows, and help security teams investigate threats faster. While SOCs may prioritize rapid investigation and enrichment at scale, MSSPs may focus more on multi-tenancy and customer separation. This enterprise threat intelligence [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/"&gt;Enterprise Threat Intelligence Buying Guide: How to Choose the Right Solution&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/enterprise-threat-intelligence-guide/</guid>
-      <pubDate>Thu, 17 Sep 2026 07:44:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 12:36:04 +0000</lastBuildDate>
     <item>
       <title>How MSSPs Can Prove Their Value When “Nothing Happened”</title>
       <link>https://any.run/cybersecurity-blog/how-mssps-prove-value/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-soc-pain-points/"&gt;5 Critical Pain Points of Modern US SOCs and How to Solve Them&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-soc-pain-points/</guid>
       <pubDate>Wed, 07 Oct 2026 07:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Threat Intelligence Work for SOC Teams: ANY.RUN &amp; Elastic Webinar Insights</title>
+      <link>https://any.run/cybersecurity-blog/ti-feeds-elastic-webinar/</link>
+      <description>&lt;p&gt;Threat intelligence on its own is only data. Its value depends on how effectively SOC teams can turn it into action. Simply put, this was the premise of our recent webinar. The SOC and business impact of threat intelligence depends largely on how quickly analysts can use it to validate threats, make confident decisions, and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/ti-feeds-elastic-webinar/"&gt;Making Threat Intelligence Work for SOC Teams: ANY.RUN &amp;amp; Elastic Webinar Insights&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/ti-feeds-elastic-webinar/</guid>
+      <pubDate>Thu, 08 Oct 2026 07:46:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
