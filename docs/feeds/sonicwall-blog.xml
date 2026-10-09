@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 12:21:31 +0000</lastBuildDate>
-    <item>
-      <title>Think Before You Click: Spotting and Stopping a Phish</title>
-      <link>https://www.sonicwall.com/blog/think-before-you-click-spotting-and-stopping-a-phish</link>
-      <description>Despite phishing being among the most well-known and expensive forms of cyberattack, you can fight back. Here’s how to avoid getting reeled in.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/think-before-you-click-spotting-and-stopping-a-phish</guid>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 22:05:43 +0000</lastBuildDate>
     <item>
       <title>Power of Patching: Make Software Updates a Top Priority</title>
       <link>https://www.sonicwall.com/blog/the-power-of-patching-why-updating-your-software-should-be-a-top-priority</link>
@@ -226,17 +220,22 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</guid>
     </item>
     <item>
+      <title>While You Were Doomscrolling: October 2026</title>
+      <link>https://www.sonicwall.com/blog/while-you-were-doomscrolling-october-2026</link>
+      <description>The latest news from SonicWall, plus an AI-powered toothbrush that takes pictures of your teeth?</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-october-2026</guid>
+    </item>
+    <item>
       <title>Adobe Commerce and Magento StyleSmuggler RCE - CVE-2026-75650</title>
       <link>https://www.sonicwall.com/blog/adobe-commerce-and-magento-stylesmuggler-unauthenticated-rce</link>
       <description>Critical, actively exploited CVSS 10.0 StyleSmuggler flaw in Adobe Commerce and Magento enables unauthenticated RCE. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/adobe-commerce-and-magento-stylesmuggler-unauthenticated-rce</guid>
     </item>
     <item>
-      <title>Cybersecurity News &amp; Trends – 05-07-21</title>
-      <link>https://www.sonicwall.com/blog/cyber-security-news-trends-05-07-21</link>
-      <description>This week, attacks by cybercriminals in Russia and China made headlines — and the U.S. government is mobilizing to fight back.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cyber-security-news-trends-05-07-21</guid>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <title>A Closer Look at the Ransomware Posing as Microsoft Edge</title>
+      <link>https://www.sonicwall.com/blog/a-closer-look-at-the-ransomware-posing-as-microsoft-edge</link>
+      <description>The SonicWall Capture Labs Threat Research Team came across a Windows ransomware sample this week going by the filename "Edgev5.exe". Where most ransomware families chain together phishing lures, exploit kits, or remote access trojans before getting to the encryption stage, this ransomware takes a straightforward approach: it opens with a fake Microsoft Edge browser confirmation prompt, keeping the victim's attention on a harmless-looking dialog while the encryption engine runs in parallel. Payment handling is just as stripped down, no C2 server, no callback infrastructure. The operator embedded a Bitcoin wallet address directly in the binary and wired it to Blockstream's public blockchain API so the malware can confirm payments on its own. Compiled as a native 64-bit Windows PE with GCC/MinGW, it encrypts files using AES-256-GCM through OpenSSL's EVP interface.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-closer-look-at-the-ransomware-posing-as-microsoft-edge</guid>
     </item>
     <item>
       <title>RSA Conference 2021 Spotlights the Resilience of the Cybersecurity Industry</title>
