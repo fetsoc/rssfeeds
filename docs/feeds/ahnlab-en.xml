@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 16:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:59:22 +0000</lastBuildDate>
     <item>
       <title>Kim Sooki again? This time, it was disguised as a request for seafood ingredients</title>
       <link>https://asec.ahnlab.com/en/95217/</link>
@@ -21,6 +21,13 @@
       <description>&amp;#160; People who initially seem fine but tend to subtly avoid others as the relationship deepens or when conflicts arise—and who disappear when pressured—are commonly referred to as “avoidant types.” By repeatedly pulling away only to reappear, they drain the other person’s emotions and energy, ultimately undermining the relationship. The attack pattern of the recently [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95211/</guid>
       <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95223/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I just trusted the security certificate prompt… Beware of the LegionLoader malware being distributed via the ClickFix method</title>
@@ -41,13 +48,6 @@
       <link>https://asec.ahnlab.com/en/95230/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
       <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -135,6 +135,13 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
+      <link>https://asec.ahnlab.com/en/95561/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SilverFox: Tracking the Distribution of a Domestic Variant of a Malicious Installation File Posing as KakaoTalk</title>
       <link>https://asec.ahnlab.com/en/95642/</link>
       <description>The threat actor used SEO poisoning (a technique that exploits search results to redirect users to fake sites) to distribute a malicious installer disguised as a KakaoTalk installer. The appearance and packaging method of the installer changed continuously, and the threat actor sequentially used NSIS, Advanced Installer, and Inno Setup. It contained both legitimate installation [&amp;#8230;]</description>
@@ -156,20 +163,6 @@
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
-      <link>https://asec.ahnlab.com/en/95561/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
-      <link>https://asec.ahnlab.com/en/95645/</link>
-      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>August 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/95649/</link>
       <description>Overview AhnLab monitored APT (Advanced Persistent Threat) attacks targeting entities in Korea using its own infrastructure. This report summarizes the types and statistics on domestic APT attacks identified during the month of August 2026. Trends of APT Attacks in South Korea Most of the APT attacks detected in South Korea were distributed via spear phishing [&amp;#8230;]</description>
@@ -181,6 +174,13 @@
       <link>https://asec.ahnlab.com/en/95646/</link>
       <description>One day, out of the blue, I received a text message claiming to protect my cryptocurrency account. However, this message concealed a sinister intent: to steal the user’s wallet information. Recently, a smishing campaign was identified that impersonated Pi Coin account protection to lure users to phishing pages and steal their cryptocurrency wallet information. The [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95646/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
+      <link>https://asec.ahnlab.com/en/95645/</link>
+      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
