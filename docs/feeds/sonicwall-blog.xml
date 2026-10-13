@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 06:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:43:03 +0000</lastBuildDate>
     <item>
       <title>Power of Patching: Make Software Updates a Top Priority</title>
       <link>https://www.sonicwall.com/blog/the-power-of-patching-why-updating-your-software-should-be-a-top-priority</link>
@@ -244,11 +244,10 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sekoia-and-sonicwall-unified-detection-and-agentic-investigation-across-firewall-and-remote-access-logs</guid>
     </item>
     <item>
-      <title>Cybersecurity News &amp; Trends – 05-14-21</title>
-      <link>https://www.sonicwall.com/blog/cyber-security-news-trends-05-14-21</link>
-      <description>This week, attacks by cybercriminals in Russia and China made headlines — and the U.S. government is mobilizing to fight back.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cyber-security-news-trends-05-14-21</guid>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <title>SOC Van Pelt: What Texas’s Special Teams Teach Security</title>
+      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-go-ahead-and-mess-with-texas-i-guess</link>
+      <description>Two Texas teams lost in one week, and special teams played a role in both. Here is what the overlooked unit teaches security teams about unmonitored assets.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-go-ahead-and-mess-with-texas-i-guess</guid>
     </item>
     <item>
       <title>Cybersecurity News &amp; Trends – 05-21-21</title>

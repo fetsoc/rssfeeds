@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 06:07:39 +0000</lastBuildDate>
-    <item>
-      <title>AI Offense is Not Noclip Mode</title>
-      <link>https://trustedsec.com/blog/ai-offense-is-not-noclip-mode</link>
-      <description>&amp;lt;p&amp;gt;AI doesn&amp;#039;t let attackers walk through walls, but it makes finding the cracks more efficient. In this blog, we cut through the hype and explain what AI-driven offense really looks like and why hard controls still work.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/ai-offense-is-not-noclip-mode</guid>
-      <pubDate>Thu, 13 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 18:45:14 +0000</lastBuildDate>
     <item>
       <title>We've Seen This Movie: The OT/IT Technology Divide</title>
       <link>https://trustedsec.com/blog/weve-seen-this-movie-the-ot-it-technology-divide</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Logging isn&amp;#039;t a switch to flip; it&amp;#039;s something to tune and maintain. In this blog, we outline a four-step Active Directory logging framework covering log sizing, audit policies, detection goals, and gap analysis.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch</guid>
       <pubDate>Tue, 06 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrustedSec Joins the OpenAI Daybreak Defense Network</title>
+      <link>https://trustedsec.com/blog/openai-daybreak-defense-network</link>
+      <description>&amp;lt;p&amp;gt;TrustedSec is proud to announce its partnership with OpenAI’s Daybreak Defense Network. Our Founder and CEO David Kennedy explains what it all entails.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/openai-daybreak-defense-network</guid>
+      <pubDate>Tue, 13 Oct 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

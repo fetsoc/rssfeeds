@@ -7,34 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 06:07:42 +0000</lastBuildDate>
-    <item>
-      <title>Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jev’s Paradox: The hidden cost of cheap AI decisions</title>
-      <link>https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions</link>
-      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v23 is now in early access</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-v23-early-access</link>
-      <description>&lt;p&gt;Delivering over 30 of your top-requested features&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v23-early-access</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TerminalFix and Lorem Ipsum Loader enable covert tunneling</title>
-      <link>https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling</link>
-      <description>&lt;p&gt;The activity is linked to a broader campaign that previously used a different delivery mechanism&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 18:45:19 +0000</lastBuildDate>
     <item>
       <title>Sophos CISO Advantage is now generally available</title>
       <link>https://www.sophos.com/en-us/blog/ciso-advantage-ga</link>
@@ -67,6 +40,34 @@
       <description>&lt;p&gt;Active Directory defenses must combine identity fundamentals, telemetry, and rapid response as attackers reach the environment’s first breach attempt within a median of 11 hours.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cisa-active-directory-compromise-techniques</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building intent-based access control without reading minds</title>
+      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</link>
+      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stopping attackers who want your endpoint protection to go dark</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</link>
+      <description>&lt;p&gt;EDR Killers let attackers blind endpoint protection before the real attack begins, and Sophos Endpoint stops them with several layers that are on by default.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos AI Defense is now generally available</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ai-defense-now-available</link>
+      <description>&lt;p&gt;Bring AI out of the shadows with visibility and control that help your organization adopt AI securely.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-defense-now-available</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI governance needs more than a policy document</title>
+      <link>https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</link>
+      <description>&lt;p&gt;Writing an AI policy is only the first step. The challenge is turning it into real-world enforcement.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

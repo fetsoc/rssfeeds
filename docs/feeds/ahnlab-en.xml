@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 06:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:45:15 +0000</lastBuildDate>
     <item>
       <title>Attack Cases in Korea Involving the Installation of Radmin and UltraVNC</title>
       <link>https://asec.ahnlab.com/en/95230/</link>
@@ -65,17 +65,17 @@
       <pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95450/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
       <link>https://asec.ahnlab.com/en/95516/</link>
       <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
+      <link>https://asec.ahnlab.com/en/95450/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
       <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -156,6 +156,13 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>RMM tools currently being distributed through phishing attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)</title>
+      <link>https://asec.ahnlab.com/en/95751/</link>
+      <description>In January 2026, the AhnLab SEcurity intelligence Center (ASEC) reported on attack cases that distributed RMM (Remote Monitoring and Management) tools through video files or attachments in phishing emails. [1] [2] In these attack cases, tools such as Syncro, ConnectWise ScreenConnect, NinjaOne, and SuperOps were exploited. RMM (Remote Monitoring and Management) tools are not malware [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95751/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
       <link>https://asec.ahnlab.com/en/95669/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
@@ -168,20 +175,6 @@
       <description>1. Overview &amp;#160;AhnLab SEcurity intelligence Center (ASEC) recently identified a case in which the Kimsuky group ultimately distributed the Funhouse ransomware via a malicious Hangul document that was disguised as a resume. The Funhouse ransomware was identified as a variant of previously disclosed endpoint ransomware, and the tools used in this attack—such as Quasar RAT—as [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95775/</guid>
       <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RMM tools currently being distributed through phishing attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)</title>
-      <link>https://asec.ahnlab.com/en/95751/</link>
-      <description>In January 2026, the AhnLab SEcurity intelligence Center (ASEC) reported on attack cases that distributed RMM (Remote Monitoring and Management) tools through video files or attachments in phishing emails. [1] [2] In these attack cases, tools such as Syncro, ConnectWise ScreenConnect, NinjaOne, and SuperOps were exploited. RMM (Remote Monitoring and Management) tools are not malware [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95751/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q3 2026 Attack Techniques Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95733/</link>
-      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q3 2026 Vulnerability Trend Report</title>
@@ -198,6 +191,20 @@
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Q3 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95733/</link>
+      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95764/</link>
+      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 2026 Dark Web Threat Actor Trend Report</title>
       <link>https://asec.ahnlab.com/en/95770/</link>
       <description>Note The September 2026 Dark Web Threat Actor Trend Report focuses on threat actors active on the deep web and dark web, as well as publicly reported cyberattack incidents. It is noted that the factual accuracy of some content cannot be independently verified. Major Issues Some hacktivist groups claimed responsibility for DDoS attacks targeting the [&amp;#8230;]</description>
@@ -209,13 +216,6 @@
       <link>https://asec.ahnlab.com/en/95769/</link>
       <description>Note The September 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. However, the report notes that due to the nature of the sources, it may be difficult to fully verify the accuracy of some information. Major Issues The official launch of a new dark web [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95769/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95764/</link>
-      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
       <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>

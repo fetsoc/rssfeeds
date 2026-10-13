@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 06:07:36 +0000</lastBuildDate>
-    <item>
-      <title>Why Falcon Feeds Stands Out as the Ultimate One-Stop CTI Feed Solution for Modern Security Operations Centers</title>
-      <link>https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</link>
-      <description>Discover why Falcon Feeds is the ultimate one-stop CTI solution for SOC teams with real-time threat intelligence, faster detection, and simplified security operations.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/falcon-feeds-one-stop-cti-solution-for-modern-socs</guid>
-      <pubDate>Mon, 27 Apr 2026 08:20:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 18:45:10 +0000</lastBuildDate>
     <item>
       <title>Iran - Israel Conflict Malware Landscape: Common Malware Families, Technical Analysis, IOC Compendium &amp; Attribution Mapping</title>
       <link>https://falconfeeds.io/blogs/iran-israel-conflict-malware-landscape-technical-analysis-ioc-attribution-mapping</link>
@@ -357,6 +350,13 @@
       <description>See how cyber security monitoring helps businesses detect threats earlier, with FalconFeeds data on ransomware, data breaches and Initial Access attacks.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/key-benefits-of-cyber-security-monitoring-for-businesses</guid>
       <pubDate>Mon, 05 Oct 2026 05:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yemen's Cyber Front in 2026: Houthi Spyware, Iranian Enablers, and a Hacktivist Tit-for-Tat</title>
+      <link>https://falconfeeds.io/blogs/yemen-cyber-front-2026-houthi-spyware-iranian-apts-hacktivism</link>
+      <description>Explore Yemen’s cyber threat landscape in 2026, including Houthi spyware, Iranian APT operations, OilAlpha activity, and Saudi-Houthi hacktivist clashes.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/yemen-cyber-front-2026-houthi-spyware-iranian-apts-hacktivism</guid>
+      <pubDate>Tue, 13 Oct 2026 14:11:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
