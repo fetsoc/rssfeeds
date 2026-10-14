@@ -7,28 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 18:45:15 +0000</lastBuildDate>
-    <item>
-      <title>Attack Cases in Korea Involving the Installation of Radmin and UltraVNC</title>
-      <link>https://asec.ahnlab.com/en/95230/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) recently identified attack cases that exploited Radmin and UltraVNC. Although the Initial Intrusion method remains unknown, the attackers installed Radmin—a remote control tool—and then installed UltraVNC. The threat actors exploited the remote control tools to gain control of the infected systems and installed Netch and CCProxy to use the [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95230/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95223/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; ZaWoo Data Extortion Attacks Against Multiple Organizations Worldwide Black X Ransomware Attack on a South Korean Automotive Parts Manufacturer Internal Data of a South Korean Asset Management and Investment Firm Offered for Sale</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95223/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Issues in the Korean &amp; Global Financial Sector in August 2026</title>
-      <link>https://asec.ahnlab.com/en/95589/</link>
-      <description>Statistics on Malware Distributed to the Financial Sector Malware Distribution Trends. In Attack Stage 1, phishing was the highest at 2.1, Up from 1.8 The previous month. In Attack Stage 2, dropper/downloader was the highest at 1.1, Down from 3.2 The previous month. In Stage 3 of the attack, Infostealers were the most prevalent at [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95589/</guid>
-      <pubDate>Mon, 07 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 03:00:16 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 2, September 2026</title>
       <link>https://asec.ahnlab.com/en/95338/</link>
@@ -196,6 +175,27 @@
       <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
+      <link>https://asec.ahnlab.com/en/95812/</link>
+      <description>Content The AhnLab SEcurity intelligence Center (ASEC) analyzed the attack status of Windows web servers in the third quarter of 2026 based on AhnLab Smart Defense (ASD) logs. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments, with attacks primarily exploiting unpatched vulnerabilities, misconfigurations, and inadequate [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95812/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Statistical Report on Malware Targeting Windows Database Servers</title>
+      <link>https://asec.ahnlab.com/en/95809/</link>
+      <description>Content The AhnLab SEcurity intelligence Center (ASEC) observed and classified attacks targeting MS-SQL servers and MySQL servers installed on Windows operating systems via the ASD infrastructure. This report summarizes the damage status, attack status, and the types of malware used in the attacks, based on logs identified in the third quarter of 2026. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95809/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/95808/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>September 2026 Dark Web Breach Incident Trend Report</title>
