@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 10:56:13 +0000</lastBuildDate>
-    <item>
-      <title>Power of Patching: Make Software Updates a Top Priority</title>
-      <link>https://www.sonicwall.com/blog/the-power-of-patching-why-updating-your-software-should-be-a-top-priority</link>
-      <description>Patching costs organizations and individuals virtually nothing — but not patching could cost everything. So why put it off?</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-power-of-patching-why-updating-your-software-should-be-a-top-priority</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 16:15:03 +0000</lastBuildDate>
     <item>
       <title>Does Your Password Pass the Test?</title>
       <link>https://www.sonicwall.com/blog/securing-your-credentials-does-your-password-pass-the-test</link>
@@ -248,6 +242,12 @@
       <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-go-ahead-and-mess-with-texas-i-guess</link>
       <description>Two Texas teams lost in one week, and special teams played a role in both. Here is what the overlooked unit teaches security teams about unmonitored assets.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-go-ahead-and-mess-with-texas-i-guess</guid>
+    </item>
+    <item>
+      <title>SOCtoberfest: Passwords, MFA, Phishing and Patching</title>
+      <link>https://www.sonicwall.com/blog/the-four-habits-that-stop-most-attacks-passwords-mfa-phishing-and-patching</link>
+      <description>The four habits that can stop the most common cyberattacks in their tracks.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-four-habits-that-stop-most-attacks-passwords-mfa-phishing-and-patching</guid>
     </item>
     <item>
       <title>Microsoft Security Bulletin Coverage for October 2026</title>
