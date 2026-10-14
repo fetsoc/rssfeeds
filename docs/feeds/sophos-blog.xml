@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 03:00:19 +0000</lastBuildDate>
-    <item>
-      <title>Sophos CISO Advantage is now generally available</title>
-      <link>https://www.sophos.com/en-us/blog/ciso-advantage-ga</link>
-      <description>&lt;p&gt;Take control of your security outcomes.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ciso-advantage-ga</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 10:58:05 +0000</lastBuildDate>
     <item>
       <title>Sophos Named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises 2026</title>
       <link>https://www.sophos.com/en-us/blog/sophos-idc-marketscape-endpoint-security</link>
@@ -68,6 +61,13 @@
       <description>&lt;p&gt;Writing an AI policy is only the first step. The challenge is turning it into real-world enforcement.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show, don’t tell: Sophos AI at CAMLIS</title>
+      <link>https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</link>
+      <description>&lt;p&gt;The Sophos AI team presents a novel technique for calibrating agentic SOC analysts&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
