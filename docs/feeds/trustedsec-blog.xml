@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 10:39:03 +0000</lastBuildDate>
-    <item>
-      <title>We've Seen This Movie: The OT/IT Technology Divide</title>
-      <link>https://trustedsec.com/blog/weve-seen-this-movie-the-ot-it-technology-divide</link>
-      <description>&amp;lt;p&amp;gt;Manufacturing knows what happens when IT and OT divide; AI governance is an unexpected chance to do it differently. In this blog, we walk through a unified governance model that bridges both before bad habits set in.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/weve-seen-this-movie-the-ot-it-technology-divide</guid>
-      <pubDate>Tue, 18 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 16:09:06 +0000</lastBuildDate>
     <item>
       <title>SpooNMAP Grows Up: Findings, Local LLM Detection, and a Whole Lot Less Waiting</title>
       <link>https://trustedsec.com/blog/spoonmap-grows-up-findings-local-llm-detection-and-a-whole-lot-less-waiting</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;We&amp;#039;re part of OpenAI’s Daybreak Defense Network—what does that mean for our customers? Go deeper, get to the evidence faster, and make real security improvements; in this blog, Founder and CEO David Kennedy explains how.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/openai-daybreak-defense-network</guid>
       <pubDate>Tue, 13 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Config Files, Two Release Tracks, and One Very Bad Commit</title>
+      <link>https://trustedsec.com/blog/two-config-files-two-release-tracks-and-one-very-bad-commit</link>
+      <description>&amp;lt;p&amp;gt;Some of the best infrastructure improvements start with one bad afternoon. In the final part of this blog series, we walk through the configuration, release engineering, and pre-commit guardrails that came out of it.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/two-config-files-two-release-tracks-and-one-very-bad-commit</guid>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

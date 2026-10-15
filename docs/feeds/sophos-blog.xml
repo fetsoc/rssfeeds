@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 10:39:07 +0000</lastBuildDate>
-    <item>
-      <title>Sophos Named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises 2026</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-idc-marketscape-endpoint-security</link>
-      <description>&lt;p&gt;Sophos has been named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises 2026, recognizing the strength of our prevention-first approach and stopping AI-era threats as early as possible.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-idc-marketscape-endpoint-security</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 16:09:09 +0000</lastBuildDate>
     <item>
       <title>Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation</link>
@@ -68,6 +61,13 @@
       <description>&lt;p&gt;The Sophos AI team presents a novel technique for calibrating agentic SOC analysts&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos ITDR expands identity protection for the AI era</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-itdr-ai-protection</link>
+      <description>&lt;p&gt;Sophos ITDR now delivers deeper AI identity visibility, expanded Microsoft support, faster response, and seamless deployment.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-itdr-ai-protection</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

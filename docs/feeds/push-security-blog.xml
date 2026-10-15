@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 10:38:52 +0000</lastBuildDate>
-    <item>
-      <title>Public breaches from identity attacks in 2024</title>
-      <link>https://pushsecurity.com/blog/2024-identity-breaches</link>
-      <description>Reviewing public breaches that stemmed from identity attacks in 2024.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/2024-identity-breaches</guid>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 16:08:57 +0000</lastBuildDate>
     <item>
       <title>How to securely deploy browser extensions to the web store</title>
       <link>https://pushsecurity.com/blog/guide-to-secure-browser-extension-deployment</link>
@@ -357,6 +350,13 @@
       <description>Ranking the top 10 shadow IT tools in 2026: How each one discovers apps, what it shows you about them, and where it falls short.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/best-shadow-it-tools</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ranking the best browser DLP tools in 2026, by use case</title>
+      <link>https://pushsecurity.com/blog/best-browser-dlp-tools-guide</link>
+      <description>Legacy DLP is slow to deploy and noisy to run. Here are the best browser DLP tools in 2026, matched to your use case, from AI data leakage to strict compliance.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/best-browser-dlp-tools-guide</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
