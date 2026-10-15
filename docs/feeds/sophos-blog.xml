@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 02:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:39:07 +0000</lastBuildDate>
     <item>
       <title>Sophos Named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises 2026</title>
       <link>https://www.sophos.com/en-us/blog/sophos-idc-marketscape-endpoint-security</link>
@@ -42,13 +42,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Building intent-based access control without reading minds</title>
-      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</link>
-      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Stopping attackers who want your endpoint protection to go dark</title>
       <link>https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</link>
       <description>&lt;p&gt;EDR Killers let attackers blind endpoint protection before the real attack begins, and Sophos Endpoint stops them with several layers that are on by default.&lt;/p&gt;</description>
@@ -60,6 +53,13 @@
       <link>https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</link>
       <description>&lt;p&gt;Writing an AI policy is only the first step. The challenge is turning it into real-world enforcement.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building intent-based access control without reading minds</title>
+      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</link>
+      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

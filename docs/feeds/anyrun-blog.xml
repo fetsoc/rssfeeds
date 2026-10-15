@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 02:37:39 +0000</lastBuildDate>
-    <item>
-      <title>Phishing Risk Across 5 Key US Industries: ANY.RUN Data &amp; Mitigation Strategies</title>
-      <link>https://any.run/cybersecurity-blog/phishing-risk-industries/</link>
-      <description>&lt;p&gt;According to fresh ANY.RUN data, phishing exposure remains above 70% in several critical industries. This doesn’t happen because organizations aren’t protected enough. Companies have been implementing email filtering, MFA, and phishing-awareness training for years. However, threats continue to evolve, and security methods that were highly effective yesterday can develop visibility gaps as attackers adapt. In [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-risk-industries/"&gt;Phishing Risk Across 5 Key US Industries: ANY.RUN Data &amp;amp; Mitigation Strategies&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-risk-industries/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:31:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 10:39:03 +0000</lastBuildDate>
     <item>
       <title>ANY.RUN at RootedCON Valencia 2026: Where Cybersecurity Meets the Next Wave of AI</title>
       <link>https://any.run/cybersecurity-blog/rootedcon-valencia-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/fake-ai-tools-us-companies/"&gt;Fake AI Tools Put US Companies at Risk: Inside Counterfeit Claude, ChatGPT, and Copilot&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/fake-ai-tools-us-companies/</guid>
       <pubDate>Wed, 14 Oct 2026 09:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your MSSP Added 10 New Clients. What Breaks First?</title>
+      <link>https://any.run/cybersecurity-blog/mssp-growth/</link>
+      <description>&lt;p&gt;Adding 10 new clients sounds like exactly the kind of problem an MSSP wants to have. More revenue, more accounts, more room to grow. But growth also brings more alerts, suspicious files and URLs, investigations, escalations, reports, and SLA commitments. And if too much of that work still depends on manual analyst effort, those 10 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-growth/"&gt;Your MSSP Added 10 New Clients. What Breaks First?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-growth/</guid>
+      <pubDate>Thu, 15 Oct 2026 09:33:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
