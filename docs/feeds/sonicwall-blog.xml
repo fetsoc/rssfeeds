@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 21:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:36:02 +0000</lastBuildDate>
     <item>
       <title>Does Your Password Pass the Test?</title>
       <link>https://www.sonicwall.com/blog/securing-your-credentials-does-your-password-pass-the-test</link>
@@ -250,15 +250,15 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-four-habits-that-stop-most-attacks-passwords-mfa-phishing-and-patching</guid>
     </item>
     <item>
-      <title>Microsoft Security Bulletin Coverage for October 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</guid>
-    </item>
-    <item>
       <title>SonicWall Security Insights: Firewall Configuration Audit</title>
       <link>https://www.sonicwall.com/blog/is-your-firewall-actually-secure-security-insights-can-tell-you</link>
       <description>Assess firewall configuration risk with SonicWall Security Insights using 250+ built-in checks, remediation guidance, severity-based findings, and risk scoring.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/is-your-firewall-actually-secure-security-insights-can-tell-you</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Bulletin Coverage for October 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</guid>
     </item>
     <item>
       <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>
