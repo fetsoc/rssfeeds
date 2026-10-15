@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 16:07:38 +0000</lastBuildDate>
-    <item>
-      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
-      <link>https://www.netcraft.com/blog/eviltokens-and-oauth-abuse</link>
-      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/eviltokens-and-oauth-abuse</guid>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 20:47:10 +0000</lastBuildDate>
     <item>
       <title>Camera-First Phishing: How Fraudsters Use Browser Permissions to Harvest Identity Data</title>
       <link>https://www.netcraft.com/blog/how-camera-first-phishing-turns-payment-verification-into-surveillance</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/when-is-security-vendor-consolidation-a-good-idea</link>
       <description>Deciding which security vendors to consolidate? Learn when consolidation reduces friction and when specialist capability is worth keeping.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/when-is-security-vendor-consolidation-a-good-idea</guid>
+    </item>
+    <item>
+      <title>Where Phishing Awareness Stops Working</title>
+      <link>https://www.netcraft.com/blog/dont-make-it-easier-for-attackers-cybersecurity-awareness-month</link>
+      <description>Device code phishing, mobile-only scams, and session theft can bypass security awareness training. Explore the techniques and how to stop them.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/dont-make-it-easier-for-attackers-cybersecurity-awareness-month</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
