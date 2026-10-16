@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 20:48:17 +0000</lastBuildDate>
-    <item>
-      <title>Larva-25012: A 2026 Proxyware Distribution Campaign by the Threat Actor (DigitalPulse, SOAX, Appsalt, IPRoyal)</title>
-      <link>https://asec.ahnlab.com/en/95516/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has been monitoring proxyjacking attacks and confirmed that, in the second half of 2026, the Larva-25012 threat actor has resumed actively distributing Proxyware. Rather than conducting malware distribution through new methods, the threat actor appears to have targeted already infected systems to distribute Proxyware.&amp;#160; &amp;#160; 1. Proxyjacking Attacks A [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95516/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom &amp; Dark Web Issues Week 3, September 2026</title>
-      <link>https://asec.ahnlab.com/en/95450/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, September 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Internal Data of a Japanese Pharmaceutical and Healthcare Company Offered for Sale Following a Cyber Incident Customer Data of a South Korean E-Commerce and Retail Company Offered for Sale AUDIT TEAM Ransomware Attacks on Two South Korean Organizations</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95450/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 02:34:14 +0000</lastBuildDate>
     <item>
       <title>August 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95478/</link>
@@ -79,13 +65,6 @@
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
-      <link>https://asec.ahnlab.com/en/95645/</link>
-      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>August 2026 Threat Trend Report on APT Attacks (South Korea)</title>
       <link>https://asec.ahnlab.com/en/95649/</link>
       <description>Overview AhnLab monitored APT (Advanced Persistent Threat) attacks targeting entities in Korea using its own infrastructure. This report summarizes the types and statistics on domestic APT attacks identified during the month of August 2026. Trends of APT Attacks in South Korea Most of the APT attacks detected in South Korea were distributed via spear phishing [&amp;#8230;]</description>
@@ -98,6 +77,20 @@
       <description>One day, out of the blue, I received a text message claiming to protect my cryptocurrency account. However, this message concealed a sinister intent: to steal the user’s wallet information. Recently, a smishing campaign was identified that impersonated Pi Coin account protection to lure users to phishing pages and steal their cryptocurrency wallet information. The [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95646/</guid>
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Malware infection in Facebook Ads Offering Cryptocurrency Rewards</title>
+      <link>https://asec.ahnlab.com/en/95645/</link>
+      <description>Just because it’s a familiar tactic doesn’t mean you can let your guard down. A similar attack method using cryptocurrency rewards as bait has recently been identified again. This time, a case was confirmed in which the Node.Js-based malware JSCEAL was distributed through Facebook ads impersonating a cryptocurrency exchange. The threat actors lured users to [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95645/</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95669/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases</title>
@@ -114,11 +107,11 @@
       <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
-      <link>https://asec.ahnlab.com/en/95669/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+      <title>Q3 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95733/</link>
+      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q3 2026 Vulnerability Trend Report</title>
@@ -132,13 +125,6 @@
       <link>https://asec.ahnlab.com/en/95738/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; International Operation Seizes KillSec Ransomware Infrastructure and Arrests Three Suspects Customer Data of a South Korean Health and Beauty Retailer Offered for Sale Saudi Intelligence Agency Personnel and Organizational Data Allegedly Leaked</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95738/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q3 2026 Attack Techniques Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95733/</link>
-      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -191,6 +177,20 @@
       <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies</title>
+      <link>https://asec.ahnlab.com/en/95879/</link>
+      <description>Overview. This report summarizes cases in which Suo5 (an HTTP/HTTPS-based tunneling tool) was exploited for pivoting—a technique used to expand the scope of an attack to other systems or networks by passing through a system that has already been compromised—by using compromised web servers as relay points to access internal networks for lateral movement. It [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95879/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</title>
+      <link>https://asec.ahnlab.com/en/95845/</link>
+      <description>Overview AI is being used for various tasks that were previously performed manually, such as research, document writing, and code analysis. A 2026 corporate survey also showed that the scope of AI adoption among organizations had expanded compared to the previous year. Recently, there has been a trend toward automating a significant portion of work [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95845/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email</title>
       <link>https://asec.ahnlab.com/en/95840/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails being circulated that disguise themselves as requests to review a business proposal. The email body asks recipients to review the attached product list and reply with their feedback on inventory and pricing, thereby prompting users to download and open the attached ZIP file. [&amp;#8230;]</description>
@@ -205,18 +205,18 @@
       <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</title>
-      <link>https://asec.ahnlab.com/en/95845/</link>
-      <description>Overview AI is being used for various tasks that were previously performed manually, such as research, document writing, and code analysis. A 2026 corporate survey also showed that the scope of AI adoption among organizations had expanded compared to the previous year. Recently, there has been a trend toward automating a significant portion of work [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95845/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analysis of the Infrastructure of ARTEX, a Chinese AI Penetration Testing Tool #4 – The Birth of Copy Cat</title>
       <link>https://asec.ahnlab.com/en/95875/</link>
       <description>Key Summary Since the original ARTEX GitHub repository disappeared, there has been an increase in independent distributions and customized instances based on the existing ARTEX codebase. These distributions are being redistributed with the product name, UI, filesystem structure, agent settings, and language modified, while retaining traces of ARTEX. Key Observations In several instances, ARTEX was [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95875/</guid>
       <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Threat Trend Report on APT Groups</title>
+      <link>https://asec.ahnlab.com/en/95883/</link>
+      <description>Purpose and Scope APT cases disclosed in September 2026 demonstrate that attacks have evolved to exploit the developer ecosystem, cloud services, and network management infrastructure as trust layers. Legitimate software installers, GitHub repositories, Microsoft 365, OneDrive, Telegram, Nostr, routers, and authentication servers were all included in the attack chain. Key Trends Supply chain attacks have [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95883/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
