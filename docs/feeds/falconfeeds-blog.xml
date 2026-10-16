@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 15:53:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:21:22 +0000</lastBuildDate>
     <item>
       <title>Iran - Israel Conflict Malware Landscape: Common Malware Families, Technical Analysis, IOC Compendium &amp; Attribution Mapping</title>
       <link>https://falconfeeds.io/blogs/iran-israel-conflict-malware-landscape-technical-analysis-ioc-attribution-mapping</link>

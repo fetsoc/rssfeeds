@@ -7,85 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 15:52:07 +0000</lastBuildDate>
-    <item>
-      <title>Does Your Password Pass the Test?</title>
-      <link>https://www.sonicwall.com/blog/securing-your-credentials-does-your-password-pass-the-test</link>
-      <description>30% of security breaches are caused by weak passwords. Learn these password best practices and avoid being one of them.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/securing-your-credentials-does-your-password-pass-the-test</guid>
-    </item>
-    <item>
-      <title>%%title%% %%page%%</title>
-      <link>https://www.sonicwall.com/blog/q3-2022-threat-intelligence-highlights-changing-threat-environment-in-2022</link>
-      <description>SonicWall's Q3 threat data showed less ransomware, more cryptojacking and IoT attacks, and a reminder that preparation is key.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/q3-2022-threat-intelligence-highlights-changing-threat-environment-in-2022</guid>
-    </item>
-    <item>
-      <title>SonicWall Threat Performance: Seven Times Superior</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-third-party-threat-performance-seven-times-superior</link>
-      <description>The Q3 2022 ICSA ATD testing results are in and SonicWall Capture ATP has earned its seventh-consecutive 100% threat detection score.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-third-party-threat-performance-seven-times-superior</guid>
-    </item>
-    <item>
-      <title>%%title%% %%page%%</title>
-      <link>https://www.sonicwall.com/blog/multiply-your-security-with-multifactor-authentication</link>
-      <description>If you think a strong password is a guarantee against compromise, think again. Learn about MFA and how to use it, for Cybersecurity Awareness month.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/multiply-your-security-with-multifactor-authentication</guid>
-    </item>
-    <item>
-      <title>Latest Threat Intelligence Tracks Shifting Cyber Frontlines</title>
-      <link>https://www.sonicwall.com/blog/latest-threat-intelligence-tracks-shifting-cyber-frontlines-in-2022</link>
-      <description>Few of 2021’s trends escaped 2022 unscathed. Here’s a look at some of the reversals detailed in the 2023 SonicWall Cyber Threat Report.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/latest-threat-intelligence-tracks-shifting-cyber-frontlines-in-2022</guid>
-    </item>
-    <item>
-      <title>Latest Threat Intelligence Reveals Rising Tide of Cryptojacking</title>
-      <link>https://www.sonicwall.com/blog/latest-threat-intelligence-reveals-rising-tide-of-cryptojacking</link>
-      <description>SonicWall threat intelligence shows that hackers looking for a steadier and stealthier income stream pushed cryptojacking to record highs in 2022.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/latest-threat-intelligence-reveals-rising-tide-of-cryptojacking</guid>
-    </item>
-    <item>
-      <title>Threat Report Data Shows Attacks on Schools Skyrocketing</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-data-shows-attacks-on-schools-skyrocketing</link>
-      <description>K-12 school districts in 2022 saw increased cyber attacks resulting in triple-digit spikes in malware, ransomware, encrypted threats and IoT attacks.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-data-shows-attacks-on-schools-skyrocketing</guid>
-    </item>
-    <item>
-      <title>Worldwide Coverage for the 2023 SonicWall Cyber Threat Report</title>
-      <link>https://www.sonicwall.com/blog/global-threat-data-worldwide-coverage-the-2023-sonicwall-cyber-threat-report</link>
-      <description>SonicWall’s 2023 Cyber Threat Report is an invaluable tool for cybersecurity professionals that has generated worldwide media coverage.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/global-threat-data-worldwide-coverage-the-2023-sonicwall-cyber-threat-report</guid>
-    </item>
-    <item>
-      <title>RSA 2023: What “Stronger Together” Means with SonicWall</title>
-      <link>https://www.sonicwall.com/blog/rsa-2023-what-stronger-together-means-with-sonicwall</link>
-      <description>The RSA Conference theme, Stronger Together, highlights cooperation in cybersecurity. At SonicWall, cooperation is the basis of our entire business.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/rsa-2023-what-stronger-together-means-with-sonicwall</guid>
-    </item>
-    <item>
-      <title>The Road to RSA 2023 in San Francisco</title>
-      <link>https://www.sonicwall.com/blog/the-rsa-report-the-road-to-rsa</link>
-      <description>RSA 2023 in San Francisco begins in 6 days. Here’s what SonicWall has planned for the week — visit us at Booth N-5585 while you’re there.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-rsa-report-the-road-to-rsa</guid>
-    </item>
-    <item>
-      <title>RSA Report: Protecting Objective Truth in Cybersecurity</title>
-      <link>https://www.sonicwall.com/blog/the-rsa-report-day-1-protecting-objective-truth-in-cybersecurity</link>
-      <description>Is objective truth in cybersecurity in danger from AI imitation and nation-state machination? What can we do to disrupt the threats?</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-rsa-report-day-1-protecting-objective-truth-in-cybersecurity</guid>
-    </item>
-    <item>
-      <title>RSA Report: New Tactics, New Technologies</title>
-      <link>https://www.sonicwall.com/blog/the-rsa-report-new-tactics-new-technologies</link>
-      <description>Examining emerging technologies in cybersecurity. AI, ransomware, OT security, and more. SonicWall solutions lead the way.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-rsa-report-new-tactics-new-technologies</guid>
-    </item>
-    <item>
-      <title>RSA Report: Cybersecurity is National Security</title>
-      <link>https://www.sonicwall.com/blog/rsa-report-cybersecurity-is-national-security</link>
-      <description>How governments play a vital role in forming worldwide cybersecurity strategies to combat state-sponsored threats to the global economy.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/rsa-report-cybersecurity-is-national-security</guid>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 20:20:16 +0000</lastBuildDate>
     <item>
       <title>The RSA Report: Boots on the Ground</title>
       <link>https://www.sonicwall.com/blog/the-rsa-report-day-4-boots-on-the-ground</link>
@@ -261,6 +183,53 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</guid>
     </item>
     <item>
+      <title>Small Business Cybersecurity Myths: Why Hackers Don't Take Holidays</title>
+      <link>https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</link>
+      <description>It's easy to think that you're safe from a cyber attack on holidays or because you're a small business, but those assumptions are cybersecurity myths, and this blog explains why.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</guid>
+    </item>
+    <item>
+      <title>Not If, But When: The Need for a SOC and Introducing the SonicWall European SOC</title>
+      <link>https://www.sonicwall.com/blog/not-if-but-when-the-need-for-a-soc-and-introducing-the-sonicwall-european-soc</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/not-if-but-when-the-need-for-a-soc-and-introducing-the-sonicwall-european-soc</guid>
+    </item>
+    <item>
+      <title>The 3 AM Problem: Why Attacks Strike After Hours</title>
+      <link>https://www.sonicwall.com/blog/the-3-am-problem-you-can-t-ignore</link>
+      <description>Cyberattacks often strike outside business hours. Learn why the 3 AM Problem leaves organizations exposed and how MSPs can close the gap.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-3-am-problem-you-can-t-ignore</guid>
+    </item>
+    <item>
+      <title>Visions of Cyberattacks: How SonicSentry Solves the 3 AM Problem</title>
+      <link>https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</link>
+      <description>Cyberattacks don’t sleep. See how SonicSentry SOC stopped a brute force attack at 3 a.m. on Christmas morning.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</guid>
+    </item>
+    <item>
+      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
+      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
+      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
+    </item>
+    <item>
+      <title>The SonicSentry SOC in Action in the Morning</title>
+      <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
+      <description>An alert may seem small, but tackling it quickly could be the difference between a good day and a very bad one.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
+    </item>
+    <item>
+      <title>Automated Remediation in NSM Raises the Bar</title>
+      <link>https://www.sonicwall.com/blog/automation-that-protects-how-sonicwall-s-new-remediation-capabilities-raise-the-bar</link>
+      <description>SonicWall NSM introduces automated remediation for faster, more consistent response across distributed environments, built Secure by Design.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/automation-that-protects-how-sonicwall-s-new-remediation-capabilities-raise-the-bar</guid>
+    </item>
+    <item>
+      <title>NSM 3.5 SaaS: Built-In Security for Firewall Management</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</link>
+      <description>NSM 3.5 SaaS integrates credential protection, secure backups and advanced analytics directly into firewall management workflows.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</guid>
+    </item>
+    <item>
       <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>
       <link>https://www.sonicwall.com/blog/enjoy-the-speed-and-safety-of-tls-1-3-support</link>
       <description>SonicWall NGFWs offer full TLS 1.3 support — ensuring your network can handle the latest encryption protocols.</description>
@@ -273,6 +242,33 @@
       <description>This Anti-Ransomware Day, SonicWall looks at how cybersecurity has changed since WannaCry — and what we can do to ensure we never see such a widespread, devastating and preventable attack again.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/anti-ransomware-day-what-can-we-do-to-prevent-the-next-wannacry</guid>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing SonicWall Unified Management: Smarter Security for MSPs</title>
+      <link>https://www.sonicwall.com/blog/work-smarter-not-harder-introducing-sonicplatform-the-cybersecurity-platform-for-msps</link>
+      <description>SonicWall launches SonicWall Unified Management to help MSPs streamline operations, reduce complexity, and improve security.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/work-smarter-not-harder-introducing-sonicplatform-the-cybersecurity-platform-for-msps</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Lifecycle of a Threat: The Inner Workings of the Security Operations Center</title>
+      <link>https://www.sonicwall.com/blog/the-lifecycle-of-a-threat-the-inner-workings-of-the-security-operations-center</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-lifecycle-of-a-threat-the-inner-workings-of-the-security-operations-center</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scale Smarter and Deliver More Value with SonicWall MPSS</title>
+      <link>https://www.sonicwall.com/blog/extend-your-bench-and-offer-proactive-value-with-sonicwall-s-managed-protection-service-suite</link>
+      <description>MPSS helps MSPs monitor, manage, and optimize firewall security while freeing up resources to better serve their customers.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/extend-your-bench-and-offer-proactive-value-with-sonicwall-s-managed-protection-service-suite</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get Expert Management and Stronger Protection with MPSS</title>
+      <link>https://www.sonicwall.com/blog/manage-your-sonicwall-firewall-easier-than-ever-before-with-managed-protection-service-suite</link>
+      <description>SonicWall MPSS adds 24/7 firewall monitoring, updates, support, and a cyber warranty — all delivered by our expert SonicSentry team.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/manage-your-sonicwall-firewall-easier-than-ever-before-with-managed-protection-service-suite</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Partner Power News September 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
@@ -293,6 +289,12 @@
       <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</link>
       <description>SonicWall Cloud Secure Edge expands Point of Presence (PoPs) bringing faster, local Zero Trust enforcement.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Something Phishy This Way Comes: How the SonicWall SOC Proactively Defended Partners Against a New Attack</title>
+      <link>https://www.sonicwall.com/blog/something-phishy-this-way-comes-how-the-sonicwall-soc-proactively-defended-partners-against-a-new-attack</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/something-phishy-this-way-comes-how-the-sonicwall-soc-proactively-defended-partners-against-a-new-attack</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
