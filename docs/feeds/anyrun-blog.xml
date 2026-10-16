@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 10:26:12 +0000</lastBuildDate>
-    <item>
-      <title>ANY.RUN at RootedCON Valencia 2026: Where Cybersecurity Meets the Next Wave of AI</title>
-      <link>https://any.run/cybersecurity-blog/rootedcon-valencia-2026/</link>
-      <description>&lt;p&gt;ANY.RUN once again joined the RootedCON community this year, taking part in Rooted Valencia 2026 on September 18. The event brought together cybersecurity professionals, researchers, hackers, and technology enthusiasts from across the global cybersecurity community. For our team, the event became yet another opportunity to meet security professionals, speak with clients, and demonstrate how interactive [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/rootedcon-valencia-2026/"&gt;ANY.RUN at RootedCON Valencia 2026: Where Cybersecurity Meets the Next Wave of AI&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/rootedcon-valencia-2026/</guid>
-      <pubDate>Fri, 25 Sep 2026 12:14:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 15:53:36 +0000</lastBuildDate>
     <item>
       <title>Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud</title>
       <link>https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-growth/"&gt;Your MSSP Added 10 New Clients. What Breaks First?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-growth/</guid>
       <pubDate>Thu, 15 Oct 2026 09:33:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>DORA TLPT Requirements Explained: Where Threat Intelligence Fits</title>
+      <link>https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/</link>
+      <description>&lt;p&gt;The DORA TLPT requirements push selected EU financial entities beyond standard penetration testing. TLPT must be based on realistic threat scenarios, relevant threat actors, and current intelligence about how attacks are actually carried out. That makes threat intelligence a core part of the process. It helps define what should be tested, which TTPs matter, and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/"&gt;DORA TLPT Requirements Explained: Where Threat Intelligence Fits&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/</guid>
+      <pubDate>Fri, 16 Oct 2026 11:36:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
