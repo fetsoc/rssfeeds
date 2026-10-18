@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/objective-see.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 15:09:04 +0000</lastBuildDate>
-    <item>
-      <title>CVE-2020–9854: "Unauthd"</title>
-      <link>https://objective-see.org/blog/blog_0x4D.html</link>
-      <description>Security researcher Ilias Morad, describes an impressive exploit chain, combining three macOS logic bugs he uncovered in macOS. His exploit chain allowed a local user to elevate privileges all the way to ring-0 (kernel)!</description>
-      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x4D.html</guid>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Oct 2026 19:54:07 +0000</lastBuildDate>
     <item>
       <title>Office Drama on macOS</title>
       <link>https://objective-see.org/blog/blog_0x4B.html</link>
@@ -357,6 +350,13 @@
       <description>Attackers are increasingly turning to dylibs to host malicious code, gain stealth, and inherit the trust of legitimate processes. In this blog post, we explore how to statically enumerate dylib dependencies, inspect libraries loaded into running processes, and leverage Endpoint Security to detect, and even block, malicious dylibs at load time.</description>
       <guid isPermaLink="false">https://objective-see.org/blog/blog_0x89.html</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heartbreaker 💔</title>
+      <link>https://objective-see.org/blog/blog_0x8A.html</link>
+      <description>A newly discovered macOS ransomware sample attempts to rewrite, recompile, and replace itself with a metamorphic variant. In this blog post, we analyze Heartbreaker's encryption, persistence, and unusual self-rebuilding logic, then put it to the test against RansomWhere?'s generic ransomware detection.</description>
+      <guid isPermaLink="false">https://objective-see.org/blog/blog_0x8A.html</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
