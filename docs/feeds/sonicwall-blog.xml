@@ -7,31 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 11:42:17 +0000</lastBuildDate>
-    <item>
-      <title>The RSA Report: Boots on the Ground</title>
-      <link>https://www.sonicwall.com/blog/the-rsa-report-day-4-boots-on-the-ground</link>
-      <description>RSA Conference 2023 ends on a high note with cybersecurity insights. Ransomware, incident response, and Zero Trust are key takeaways.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-rsa-report-day-4-boots-on-the-ground</guid>
-    </item>
-    <item>
-      <title>First-Half 2023 Threat Intelligence: Tracking Cybercriminals Into the Shadows</title>
-      <link>https://www.sonicwall.com/blog/first-half-2023-threat-intelligence-tracking-cybercriminals-into-the-shadows</link>
-      <description>Explore the latest cyber threat trends in the first half of 2023, including the rise of cryptojacking and IoT malware.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/first-half-2023-threat-intelligence-tracking-cybercriminals-into-the-shadows</guid>
-    </item>
-    <item>
-      <title>Cryptojacking Continues Crushing Records</title>
-      <link>https://www.sonicwall.com/blog/cryptojacking-continues-crushing-records</link>
-      <description>Ransomware incidents decreased, but cryptojacking surges. Explore the latest cyber threat trends in the 2023 SonicWall Cyber Threat Report.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/cryptojacking-continues-crushing-records</guid>
-    </item>
-    <item>
-      <title>Why Education is the New Cybercrime Epicenter</title>
-      <link>https://www.sonicwall.com/blog/why-education-is-the-new-cybercrime-epicenter</link>
-      <description>Learn about the threats and initiatives to strengthen cybersecurity for K-12 and higher education in 2023.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/why-education-is-the-new-cybercrime-epicenter</guid>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 18:07:48 +0000</lastBuildDate>
     <item>
       <title>National Cybersecurity Awareness Month: 20 Years of Securing Our World</title>
       <link>https://www.sonicwall.com/blog/national-cybersecurity-awareness-month-20-years-of-securing-our-world</link>
@@ -218,6 +194,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
     </item>
     <item>
+      <title>Why Unified Security Operations Matter for Modern Networks</title>
+      <link>https://www.sonicwall.com/blog/the-future-of-network-security-operations-is-unified</link>
+      <description>Security teams face rising complexity and tool sprawl. Learn how unified operations and SonicWall Unified Management improve visibility, consistency and control.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-future-of-network-security-operations-is-unified</guid>
+    </item>
+    <item>
       <title>Automated Remediation in NSM Raises the Bar</title>
       <link>https://www.sonicwall.com/blog/automation-that-protects-how-sonicwall-s-new-remediation-capabilities-raise-the-bar</link>
       <description>SonicWall NSM introduces automated remediation for faster, more consistent response across distributed environments, built Secure by Design.</description>
@@ -228,6 +210,12 @@
       <link>https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</link>
       <description>NSM 3.5 SaaS integrates credential protection, secure backups and advanced analytics directly into firewall management workflows.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</guid>
+    </item>
+    <item>
+      <title>Unified Firewall Analytics with SonicWall NSM</title>
+      <link>https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</link>
+      <description>Break down security silos with unified firewall analytics and reporting through SonicWall NSM and Unified Management.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</guid>
     </item>
     <item>
       <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>
@@ -285,6 +273,12 @@
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Something Phishy This Way Comes: How the SonicWall SOC Proactively Defended Partners Against a New Attack</title>
+      <link>https://www.sonicwall.com/blog/something-phishy-this-way-comes-how-the-sonicwall-soc-proactively-defended-partners-against-a-new-attack</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/something-phishy-this-way-comes-how-the-sonicwall-soc-proactively-defended-partners-against-a-new-attack</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>SonicWall CSE Adds PoPs in Korea, South Africa, Saudi Arabia</title>
       <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-three-new-points-of-presence</link>
       <description>SonicWall Cloud Secure Edge expands Point of Presence (PoPs) bringing faster, local Zero Trust enforcement.</description>
@@ -292,10 +286,18 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Something Phishy This Way Comes: How the SonicWall SOC Proactively Defended Partners Against a New Attack</title>
-      <link>https://www.sonicwall.com/blog/something-phishy-this-way-comes-how-the-sonicwall-soc-proactively-defended-partners-against-a-new-attack</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/something-phishy-this-way-comes-how-the-sonicwall-soc-proactively-defended-partners-against-a-new-attack</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <title>How SonicWall CSE Extends Capture ATP to Remote Users</title>
+      <link>https://www.sonicwall.com/blog/how-sonicwall-cloud-secure-edge-extends-capture-atp-beyond-the-firewall</link>
+      <description>SonicWall CSE's Secure Internet Access capability brings the same Capture ATP file inspection available on your firewall to every device, regardless of location.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-sonicwall-cloud-secure-edge-extends-capture-atp-beyond-the-firewall</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extend Firewall Security to Remote Workers with SonicWall CSE</title>
+      <link>https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</link>
+      <description>Discover how SonicWall CSE delivers enterprise-grade network protection to remote and hybrid workers, including content filtering, malicious domain blocking, and sandbox analysis.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>

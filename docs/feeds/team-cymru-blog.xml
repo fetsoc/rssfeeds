@@ -7,18 +7,54 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 11:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:07:53 +0000</lastBuildDate>
+    <item>
+      <title>Unveiling GhostDNSbusters: Team Cymru's Tech Breakthrough</title>
+      <link>https://www.team-cymru.com/post/ghostdnsbusters</link>
+      <description>Unleash the power of 'GhostDNSbusters' with cutting-edge technology solutions. Join the revolution with this innovative technology company.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/ghostdnsbusters</guid>
+    </item>
+    <item>
+      <title>Unveiling Gamaredon: Understanding Victimology Through Recon</title>
+      <link>https://www.team-cymru.com/post/gamaredon-an-insight-into-victimology-using-augury</link>
+      <description>Uncover the tactics of Gamaredon cyberattacks and gain a deeper understanding of victimology through reconnaissance. Explore the latest insights and analysis.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/gamaredon-an-insight-into-victimology-using-augury</guid>
+    </item>
+    <item>
+      <title>Operationalizing MITRE ATT&amp;CK: From Raw Intel to Validation</title>
+      <link>https://www.team-cymru.com/post/from-raw-intelligence-to-validation-thoughts-on-operationalizing-mitre-from-a-cyber-threat-intelligence-director</link>
+      <description>Stop siloing roles. Learn how to operationalize MITRE ATT&amp;CK at a granular level to deprioritize vulnerabilities and build smarter, AI-assisted CTI workflows.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/from-raw-intelligence-to-validation-thoughts-on-operationalizing-mitre-from-a-cyber-threat-intelligence-director</guid>
+    </item>
+    <item>
+      <title>RADAR: Seamless Threat Hunting from Discovery to Attribution</title>
+      <link>https://www.team-cymru.com/post/from-discovery-to-attribution-radar-makes-threat-hunting-seamless</link>
+      <description>Learn how RADAR’s pivot feature automatically generates queries in Scout, allowing analysts to move from infrastructure discovery to threat attribution seamlessly.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/from-discovery-to-attribution-radar-makes-threat-hunting-seamless</guid>
+    </item>
+    <item>
+      <title>From Developer to Product Owner: AI Threat Intelligence Tools</title>
+      <link>https://www.team-cymru.com/post/from-developer-to-product-owner-the-fundamental-shifts-from-generative-ai</link>
+      <description>Generative AI handles the plumbing. Learn how AI threat intelligence tools empower analysts to outpace threat actors and become true product owners.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/from-developer-to-product-owner-the-fundamental-shifts-from-generative-ai</guid>
+    </item>
+    <item>
+      <title>Team Cymru: From Chile with Malware - Tech Company Insights</title>
+      <link>https://www.team-cymru.com/post/from-chile-with-malware</link>
+      <description>Learn the truth about the "From Chile with Malware" campaign in this insightful blog post from Team Cymru. Discover the real origins of this threat and how it highlights the need for greater cybersecurity awareness.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/from-chile-with-malware</guid>
+    </item>
+    <item>
+      <title>Stop Fraud Earlier: Spotting Attack Patterns in Threat Intelligence</title>
+      <link>https://www.team-cymru.com/post/fraud-defense-ft3-attack-patterns</link>
+      <description>Waiting for the transaction to catch fraud? You're already too late. Learn how tracking attack patterns in threat intelligence stops actors early.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/fraud-defense-ft3-attack-patterns</guid>
+    </item>
     <item>
       <title>Fingerprinting Malware C2s with Tags | Team Cymru</title>
       <link>https://www.team-cymru.com/post/fingerprinting-malware-c2s-with-tags</link>
       <description>This blog is written for threat analysts, defenders, and CTI teams who use our Scout platform—but even if you’re not a user today, it offers practical insight into how advanced research teams fingerprint C2 infrastructure, and how you might apply similar methods using your tools.</description>
       <guid isPermaLink="false">https://www.team-cymru.com/post/fingerprinting-malware-c2s-with-tags</guid>
-    </item>
-    <item>
-      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
-      <link>https://www.team-cymru.com/post/find-all-the-iocs</link>
-      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/find-all-the-iocs</guid>
     </item>
     <item>
       <title>Vincent Passaro of Stripe on Building Modern Fraud Intelligence</title>
@@ -45,12 +81,6 @@
       <guid isPermaLink="false">https://www.team-cymru.com/post/enriching-threat-intelligence-for-the-carbine-loader-crypto-jacking-campaign</guid>
     </item>
     <item>
-      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
-      <link>https://www.team-cymru.com/post/emotet-is-back-and-where-are-we</link>
-      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/emotet-is-back-and-where-are-we</guid>
-    </item>
-    <item>
       <title>Eating Your Own Dog Food: Pure Signal Use Cases | Team Cymru</title>
       <link>https://www.team-cymru.com/post/eating-your-own-dog-food</link>
       <description>Explore how Team Cymru's SecOps team uses its own threat intel tools—Scout, Recon, and more—for faster investigations, proactive hunting, and automation.</description>
@@ -67,18 +97,6 @@
       <link>https://www.team-cymru.com/post/dora-regulation-digital-operational-resilience-act-a-threat-intelligence-perspective</link>
       <description>Discover DORA compliance from a threat intel lens—understand penalties, visibility gaps, and how to strengthen operational resilience before the 2025 deadline.</description>
       <guid isPermaLink="false">https://www.team-cymru.com/post/dora-regulation-digital-operational-resilience-act-a-threat-intelligence-perspective</guid>
-    </item>
-    <item>
-      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
-      <link>https://www.team-cymru.com/post/do-you-fly-anon</link>
-      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/do-you-fly-anon</guid>
-    </item>
-    <item>
-      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
-      <link>https://www.team-cymru.com/post/dissecting-ddos-attacks</link>
-      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/dissecting-ddos-attacks</guid>
     </item>
     <item>
       <title>Corporate Threat Intelligence and Digital Investigations Explained</title>
@@ -123,18 +141,6 @@
       <guid isPermaLink="false">https://www.team-cymru.com/post/cyber-security-intelligence-edge-device-analysis</guid>
     </item>
     <item>
-      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
-      <link>https://www.team-cymru.com/post/covid-19-cyber-threat-danabot</link>
-      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/covid-19-cyber-threat-danabot</guid>
-    </item>
-    <item>
-      <title>Coping with Scanners: Practical Tips from Team Cymru</title>
-      <link>https://www.team-cymru.com/post/coping-with-scanners</link>
-      <description>Discover effective strategies for coping with scanners and improving productivity at a technology company. Find helpful tips and insights in our blog post.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/coping-with-scanners</guid>
-    </item>
-    <item>
       <title>Coper / Octo - A Conductor for Mobile Mayhem | Team Cymru</title>
       <link>https://www.team-cymru.com/post/coper-octo-a-conductor-for-mobile-mayhem-with-eight-limbs</link>
       <description>Explore Coper/Octo, an Android malware-as-a-service evolved from Exobot, targeting users globally with remote access, keylogging, and SMS interception. Contact us.</description>
@@ -157,12 +163,6 @@
       <link>https://www.team-cymru.com/post/cl0p-ransomware-mft-attack-pattern-threat-intelligence</link>
       <description>Analyze Cl0p ransomware's history of targeting MFT systems. Discover their attack pattern in threat intelligence to improve cyber attack surface reduction.</description>
       <guid isPermaLink="false">https://www.team-cymru.com/post/cl0p-ransomware-mft-attack-pattern-threat-intelligence</guid>
-    </item>
-    <item>
-      <title>Cybersecurity Blog | Threats, Trends, and Real-World Intelligence</title>
-      <link>https://www.team-cymru.com/post/cheers-to-the-pioneers</link>
-      <description>Explore Team Cymru’s cybersecurity blog covering emerging threats, cybersecurity trends, and real-world intelligence from the front lines of the internet.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/cheers-to-the-pioneers</guid>
     </item>
     <item>
       <title>Milestone: 1.5 Billion Daily Queries on IP to ASN Mapping | Team Cymru</title>

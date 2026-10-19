@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 11:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:09:27 +0000</lastBuildDate>
     <item>
       <title>Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation</link>
@@ -28,6 +28,13 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Stopping attackers who want your endpoint protection to go dark</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</link>
+      <description>&lt;p&gt;EDR Killers let attackers blind endpoint protection before the real attack begins, and Sophos Endpoint stops them with several layers that are on by default.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sophos AI Defense is now generally available</title>
       <link>https://www.sophos.com/en-us/blog/sophos-ai-defense-now-available</link>
       <description>&lt;p&gt;Bring AI out of the shadows with visibility and control that help your organization adopt AI securely.&lt;/p&gt;</description>
@@ -39,13 +46,6 @@
       <link>https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</link>
       <description>&lt;p&gt;Writing an AI policy is only the first step. The challenge is turning it into real-world enforcement.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stopping attackers who want your endpoint protection to go dark</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</link>
-      <description>&lt;p&gt;EDR Killers let attackers blind endpoint protection before the real attack begins, and Sophos Endpoint stops them with several layers that are on by default.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-edr-killers</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
