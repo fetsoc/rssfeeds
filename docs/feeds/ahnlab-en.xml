@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 02:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:43:59 +0000</lastBuildDate>
     <item>
       <title>August 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95478/</link>
@@ -37,13 +37,6 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
-      <link>https://asec.ahnlab.com/en/95561/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SilverFox: Tracking the Distribution of a Domestic Variant of a Malicious Installation File Posing as KakaoTalk</title>
       <link>https://asec.ahnlab.com/en/95642/</link>
       <description>The threat actor used SEO poisoning (a technique that exploits search results to redirect users to fake sites) to distribute a malicious installer disguised as a KakaoTalk installer. The appearance and packaging method of the installer changed continuously, and the threat actor sequentially used NSIS, Advanced Installer, and Inno Setup. It contained both legitimate installation [&amp;#8230;]</description>
@@ -62,6 +55,13 @@
       <link>https://asec.ahnlab.com/en/95598/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as project material purchase request forms. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a project material purchase request form. [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95598/</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
+      <link>https://asec.ahnlab.com/en/95561/</link>
+      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -86,6 +86,13 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95669/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases</title>
       <link>https://asec.ahnlab.com/en/95775/</link>
       <description>1. Overview &amp;#160;AhnLab SEcurity intelligence Center (ASEC) recently identified a case in which the Kimsuky group ultimately distributed the Funhouse ransomware via a malicious Hangul document that was disguised as a resume. The Funhouse ransomware was identified as a variant of previously disclosed endpoint ransomware, and the tools used in this attack—such as Quasar RAT—as [&amp;#8230;]</description>
@@ -100,11 +107,11 @@
       <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
-      <link>https://asec.ahnlab.com/en/95669/</link>
-      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+      <title>Q3 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95733/</link>
+      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q3 2026 Vulnerability Trend Report</title>
@@ -121,20 +128,6 @@
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q3 2026 Attack Techniques Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95733/</link>
-      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
-      <link>https://asec.ahnlab.com/en/95808/</link>
-      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Q3 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
       <link>https://asec.ahnlab.com/en/95812/</link>
       <description>Content The AhnLab SEcurity intelligence Center (ASEC) analyzed the attack status of Windows web servers in the third quarter of 2026 based on AhnLab Smart Defense (ASD) logs. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments, with attacks primarily exploiting unpatched vulnerabilities, misconfigurations, and inadequate [&amp;#8230;]</description>
@@ -146,6 +139,13 @@
       <link>https://asec.ahnlab.com/en/95809/</link>
       <description>Content The AhnLab SEcurity intelligence Center (ASEC) observed and classified attacks targeting MS-SQL servers and MySQL servers installed on Windows operating systems via the ASD infrastructure. This report summarizes the damage status, attack status, and the types of malware used in the attacks, based on logs identified in the third quarter of 2026. Purpose and [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95809/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/95808/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
       <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
