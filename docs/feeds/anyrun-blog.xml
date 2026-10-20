@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 02:53:36 +0000</lastBuildDate>
-    <item>
-      <title>Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud</title>
-      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/</link>
-      <description>&lt;p&gt;Cyberattacks observed in September showed how difficult it has become to separate malicious activity from legitimate business workflows. Attackers used trusted cloud services, familiar document-sharing platforms, legitimate authentication flows, remote-management software, and rapidly changing infrastructure to hide different stages of their operations. For SOC teams, this creates a visibility problem: one alert rarely shows the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/"&gt;Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/</guid>
-      <pubDate>Tue, 29 Sep 2026 08:32:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 10:45:53 +0000</lastBuildDate>
     <item>
       <title>Phishing Response Protocol: 3 Essential SOC Steps Powered by ANY.RUN’s Latest Updates</title>
       <link>https://any.run/cybersecurity-blog/phishing-response-protocol/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/"&gt;DORA TLPT Requirements Explained: Where Threat Intelligence Fits&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/</guid>
       <pubDate>Fri, 16 Oct 2026 11:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>76% Faster Triage: How US SOCs Increase ROI Through Visibility and Automation</title>
+      <link>https://any.run/cybersecurity-blog/increasing-soc-roi/</link>
+      <description>&lt;p&gt;October marks Cybersecurity Awareness Month, a timely opportunity to look at how American organizations can strengthen their security operations. Among the biggest challenges SOC teams face is making sure they not only detect and investigate threats, but doing so quickly enough to make the right security decisions without overwhelming analysts or increasing operational costs. In [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/increasing-soc-roi/"&gt;76% Faster Triage: How US SOCs Increase ROI Through Visibility and Automation&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/increasing-soc-roi/</guid>
+      <pubDate>Tue, 20 Oct 2026 10:31:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
