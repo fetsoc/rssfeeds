@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 10:45:53 +0000</lastBuildDate>
-    <item>
-      <title>SpooNMAP Grows Up: Findings, Local LLM Detection, and a Whole Lot Less Waiting</title>
-      <link>https://trustedsec.com/blog/spoonmap-grows-up-findings-local-llm-detection-and-a-whole-lot-less-waiting</link>
-      <description>&amp;lt;p&amp;gt;SpooNMAP used to hand you a list of open ports; the latest update tells you which ones actually matter. In this blog, we detail the new automated findings reporting, LLM detection, and performance improvements.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/spoonmap-grows-up-findings-local-llm-detection-and-a-whole-lot-less-waiting</guid>
-      <pubDate>Tue, 25 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 16:08:28 +0000</lastBuildDate>
     <item>
       <title>waf-fu, or Some Log Replay Nonsense</title>
       <link>https://trustedsec.com/blog/waf-fu-or-some-log-replay-nonsense</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Some of the best infrastructure improvements start with one bad afternoon. In the final part of this blog series, we walk through the configuration, release engineering, and pre-commit guardrails that came out of it.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/two-config-files-two-release-tracks-and-one-very-bad-commit</guid>
       <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Handing Pre-Contract FCI and CUI</title>
+      <link>https://trustedsec.com/blog/handing-pre-contract-fci-and-cui</link>
+      <description>&amp;lt;p&amp;gt;Contractors, subcontractors, and proposal consultants are often confused about their obligations regarding the safeguarding of Federal Contract Information (FCI) and Controlled Unclassified Information (CUI) received…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/handing-pre-contract-fci-and-cui</guid>
+      <pubDate>Tue, 20 Oct 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

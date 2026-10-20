@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 10:43:09 +0000</lastBuildDate>
-    <item>
-      <title>The Complete Guide to Hunting Cobalt Strike - Part 2: 10+ HuntSQL Recipes to Find Cobalt Strike</title>
-      <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-2-huntsql-recipes</link>
-      <description>Turn Part 1’s clues into action with 10+ HuntSQL™ recipes. Pivot on cert reuse, beacon traits, and enrichment to expose Cobalt Strike clusters. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/guide-hunting-cobalt-strike-part-2-huntsql-recipes</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 16:05:40 +0000</lastBuildDate>
     <item>
       <title>Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT</title>
       <link>https://hunt.io/blog/malicious-vscode-extension-anivia-octorat-attack-chain</link>
@@ -357,6 +350,13 @@
       <description>A PaperCut attacker left their open directories exposed. We reconstruct the AI-driven exploitation pipeline, a second XML-RPC RCE path, and chisel persistence from the operator's own server.</description>
       <guid isPermaLink="false">https://hunt.io/blog/papercut-attacker-ai-toolkit-exploit-code-second-rce</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell</title>
+      <link>https://hunt.io/blog/ukraine-state-data-exchange-graylog-log4shell</link>
+      <description>An exposed open directory revealed a solo operator's full Log4Shell chain against a Graylog host holding Trembita logs, with the access log that proves execution.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/ukraine-state-data-exchange-graylog-log4shell</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

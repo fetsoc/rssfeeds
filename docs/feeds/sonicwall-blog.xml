@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 10:44:15 +0000</lastBuildDate>
-    <item>
-      <title>National Cybersecurity Awareness Month: 20 Years of Securing Our World</title>
-      <link>https://www.sonicwall.com/blog/national-cybersecurity-awareness-month-20-years-of-securing-our-world</link>
-      <description>Celebrating 20 years of Cybersecurity Awareness Month, join SonicWall in promoting online safety through strong passwords, MFA, and more.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/national-cybersecurity-awareness-month-20-years-of-securing-our-world</guid>
-    </item>
-    <item>
-      <title>Latest Threat Intelligence Navigates the Relentless Surge in Cybercrime</title>
-      <link>https://www.sonicwall.com/blog/latest-threat-intelligence-navigates-the-relentless-surge-in-cybercrime</link>
-      <description>Read the 2024 SonicWall Cyber Threat Report blog for a preview of our most critical findings, highlighting 2023’s changing trends and tracking cybercriminals into the shadows.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/latest-threat-intelligence-navigates-the-relentless-surge-in-cybercrime</guid>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 16:06:29 +0000</lastBuildDate>
     <item>
       <title>Oracle HTTP &amp; WebLogic Proxy Plug-in Bypass - CVE-2026-21962</title>
       <link>https://www.sonicwall.com/blog/oracle-http-weblogic-servers-proxy-plug-in-authentication-bypass</link>
@@ -216,6 +204,18 @@
       <link>https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</link>
       <description>Break down security silos with unified firewall analytics and reporting through SonicWall NSM and Unified Management.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</guid>
+    </item>
+    <item>
+      <title>The SOC Van Pelt Report: Barely Winning is Almost Losing</title>
+      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-almost-losing-is-still-a-warning</link>
+      <description>Analyze a close win the same way you would a loss.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-almost-losing-is-still-a-warning</guid>
+    </item>
+    <item>
+      <title>Public Exposure: SLED Is the Only Sector Where Cyberattacks Are Getting Worse</title>
+      <link>https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</link>
+      <description>Every other vertical saw attacks decline in 2026. State and local government recorded a 242% increase. Here’s what the data says about why the public sector is moving in the wrong direction.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</guid>
     </item>
     <item>
       <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>
