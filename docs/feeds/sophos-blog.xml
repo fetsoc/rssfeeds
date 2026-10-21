@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 16:24:21 +0000</lastBuildDate>
-    <item>
-      <title>Building intent-based access control without reading minds</title>
-      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</link>
-      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 21:11:58 +0000</lastBuildDate>
     <item>
       <title>AI governance needs more than a policy document</title>
       <link>https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</link>
@@ -63,6 +56,13 @@
       <description>&lt;p&gt;A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower</title>
+      <link>https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</link>
+      <description>&lt;p&gt;Recent incident response investigations reveal how AI-assisted attackers are chaining web application vulnerabilities, credential theft, privilege escalation, and lateral movement into autonomous intrusion workflows.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>

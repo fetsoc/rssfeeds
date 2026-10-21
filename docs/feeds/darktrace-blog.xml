@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 16:23:06 +0000</lastBuildDate>
-    <item>
-      <title>Defending Against Personalized Cyber Attacks</title>
-      <link>https://www.darktrace.com/blog/attacks-are-getting-personal</link>
-      <description>Stay informed about the latest trends in cyber threats with Darktrace experts, including how attacks are evolving and becoming more personalized.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/attacks-are-getting-personal</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 21:10:17 +0000</lastBuildDate>
     <item>
       <title>Attack Trends: VIP Impersonation in the Business Hierarchy</title>
       <link>https://www.darktrace.com/blog/attack-trends-impersonation-across-the-business-hierarchy</link>
@@ -297,6 +290,12 @@
       <title>Beyond the Office: Tracking Identity-Based Threats in a Hybrid World</title>
       <link>https://www.darktrace.com/blog/beyond-the-office-tracking-identity-based-threats-in-a-hybrid-world</link>
       <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-the-office-tracking-identity-based-threats-in-a-hybrid-world</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond the Fridge: Exposed Industrial Control Systems</title>
+      <link>https://www.darktrace.com/blog/beyond-the-fridge-exposed-industrial-control-systems</link>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/beyond-the-fridge-exposed-industrial-control-systems</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

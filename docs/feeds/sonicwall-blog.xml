@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 16:23:07 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for September 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-september-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-september-2026</guid>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 21:10:18 +0000</lastBuildDate>
     <item>
       <title>In the Film Room: Drake Maye, Hero Ball and Why Security Teams Should Take the Field Goal</title>
       <link>https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</link>
@@ -297,6 +292,13 @@
       <link>https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</link>
       <description>Discover how SonicWall CSE delivers enterprise-grade network protection to remote and hybrid workers, including content filtering, malicious domain blocking, and sandbox analysis.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/your-firewall-cannot-follow-your-employees-home-but-cloud-secure-edge-can-</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>App Discovery: Uncover Shadow IT and Shadow AI | SonicWall</title>
+      <link>https://www.sonicwall.com/blog/app-discovery-see-every-application-including-the-ones-you-did-not-approve</link>
+      <description>SonicWall Cloud Secure Edge App Discovery reveals Shadow IT and Shadow AI with a catalog expanded to more than 6,000 applications.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/app-discovery-see-every-application-including-the-ones-you-did-not-approve</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
