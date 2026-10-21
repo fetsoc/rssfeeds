@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 10:56:57 +0000</lastBuildDate>
-    <item>
-      <title>Phishing Response Protocol: 3 Essential SOC Steps Powered by ANY.RUN’s Latest Updates</title>
-      <link>https://any.run/cybersecurity-blog/phishing-response-protocol/</link>
-      <description>&lt;p&gt;Phishing investigations put pressure on SOC teams at several points at once: analysts need to uncover hidden activity, make a confident decision from incomplete evidence, prepare the case for escalation, and then determine whether the threat extends beyond a single incident. Every manual step adds time to the response. It also ties up analyst capacity [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/phishing-response-protocol/"&gt;Phishing Response Protocol: 3 Essential SOC Steps Powered by ANY.RUN&amp;#8217;s Latest Updates&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/phishing-response-protocol/</guid>
-      <pubDate>Wed, 30 Sep 2026 09:51:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 16:24:18 +0000</lastBuildDate>
     <item>
       <title>Threat Coverage Digest: New Malware Reports and 1,100+ Detection Rules</title>
       <link>https://any.run/cybersecurity-blog/september-threat-coverage-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/increasing-soc-roi/"&gt;76% Faster Triage: How US SOCs Increase ROI Through Visibility and Automation&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/increasing-soc-roi/</guid>
       <pubDate>Tue, 20 Oct 2026 10:31:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your New MTTR Shortcut — Introducing Related Threat Context: Cut Time-to-Triage with Actionable IOC Context</title>
+      <link>https://any.run/cybersecurity-blog/related-threat-context-release/</link>
+      <description>&lt;p&gt;During triage, analysts may overlook valuable threat intelligence simply because they don&amp;#8217;t know it exists. Previous investigations, related malicious activity, and industry-specific observations could provide the context needed to decide what to investigate next. Now, all that valuable context is finally within reach! With Related Threat Context, now available to ANY.RUN Enterprise clients, SOC and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/related-threat-context-release/"&gt;Your New MTTR Shortcut — Introducing Related Threat Context: Cut Time-to-Triage with Actionable IOC Context&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/related-threat-context-release/</guid>
+      <pubDate>Wed, 21 Oct 2026 11:14:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

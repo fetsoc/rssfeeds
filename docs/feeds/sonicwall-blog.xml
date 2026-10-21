@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 10:55:26 +0000</lastBuildDate>
-    <item>
-      <title>Oracle HTTP &amp; WebLogic Proxy Plug-in Bypass - CVE-2026-21962</title>
-      <link>https://www.sonicwall.com/blog/oracle-http-weblogic-servers-proxy-plug-in-authentication-bypass</link>
-      <description>Critical CVSS 10.0 authentication bypass in Oracle HTTP Server and WebLogic Proxy Plug-in enables unauthenticated RCE. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/oracle-http-weblogic-servers-proxy-plug-in-authentication-bypass</guid>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 16:23:07 +0000</lastBuildDate>
     <item>
       <title>Microsoft Security Bulletin Coverage for September 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-september-2026</link>
@@ -216,6 +210,12 @@
       <link>https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</link>
       <description>Every other vertical saw attacks decline in 2026. State and local government recorded a 242% increase. Here’s what the data says about why the public sector is moving in the wrong direction.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</guid>
+    </item>
+    <item>
+      <title>SOCtoberfest: Building Good Cybersecurity Habits without a Security Team</title>
+      <link>https://www.sonicwall.com/blog/soctoberfest-building-a-cyber-ready-culture-without-a-security-team</link>
+      <description>Part three of SonicWall's SOCtoberfest series for Cybersecurity Awareness Month.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/soctoberfest-building-a-cyber-ready-culture-without-a-security-team</guid>
     </item>
     <item>
       <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>

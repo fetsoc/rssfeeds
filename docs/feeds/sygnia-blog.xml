@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 10:57:00 +0000</lastBuildDate>
-    <item>
-      <title>Fire Ant Evolves: From Hypervisors to Trusted Infrastructure</title>
-      <link>https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</link>
-      <description>&lt;p&gt;First reported in 2025, Fire Ant remained active into 2026. Explore how the threat actor expanded beyond hypervisors into trusted infrastructure, compromising routers, authentication systems, and Linux management hosts to maintain covert access, collect credentials and traffic, and reach connected high-value environments.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/"&gt;Fire Ant Evolves: From Hypervisors to Trusted Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:44:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 16:24:21 +0000</lastBuildDate>
     <item>
       <title>Sygnia Reveals New Activity by China-Nexus Threat Actor Fire Ant Targeting Trusted Infrastructure</title>
       <link>https://www.sygnia.co/press-release/sygnia-reveals-new-activity-by-china-nexus-threat-actor-fire-ant-targeting-trusted-infrastructure/</link>
@@ -79,6 +71,14 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/press-release/sygnia-expands-global-mdr-operations-austin-singapore-soc-hubs/"&gt;Sygnia Unveils Security Operations Center Hubs and Expands AI-Powered Cybersecurity Capabilities To Challenge Threat Attack Rise&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/press-release/sygnia-expands-global-mdr-operations-austin-singapore-soc-hubs/</guid>
       <pubDate>Sun, 11 Oct 2026 06:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Webinar Series Replay</title>
+      <link>https://www.sygnia.co/webinars/ai-webinar-series-replay/</link>
+      <description>&lt;p&gt;Join Sygnia experts for a two-part webinar series examining how AI-related threats are becoming an operational reality for many organizations and the practical approaches security teams should take to protect their business from them. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/ai-webinar-series-replay/"&gt;AI Webinar Series Replay&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/ai-webinar-series-replay/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:49:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

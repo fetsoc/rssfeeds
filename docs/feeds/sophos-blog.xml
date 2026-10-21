@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 10:57:00 +0000</lastBuildDate>
-    <item>
-      <title>Sophos AI Defense is now generally available</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-ai-defense-now-available</link>
-      <description>&lt;p&gt;Bring AI out of the shadows with visibility and control that help your organization adopt AI securely.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-ai-defense-now-available</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 16:24:21 +0000</lastBuildDate>
     <item>
       <title>Building intent-based access control without reading minds</title>
       <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds</link>
@@ -70,6 +63,12 @@
       <description>&lt;p&gt;A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
