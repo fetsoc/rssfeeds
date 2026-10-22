@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 02:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:56:10 +0000</lastBuildDate>
     <item>
       <title>Threat Coverage Digest: New Malware Reports and 1,100+ Detection Rules</title>
       <link>https://any.run/cybersecurity-blog/september-threat-coverage-2026/</link>
