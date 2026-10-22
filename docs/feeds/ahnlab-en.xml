@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 10:56:12 +0000</lastBuildDate>
-    <item>
-      <title>Beware of Phishing Emails That Disguise Themselves as Project Material Purchase Requests</title>
-      <link>https://asec.ahnlab.com/en/95598/</link>
-      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as project material purchase request forms. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a project material purchase request form. [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95598/</guid>
-      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 16:24:56 +0000</lastBuildDate>
     <item>
       <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
       <link>https://asec.ahnlab.com/en/95561/</link>
@@ -203,6 +196,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; The Seven Deadly Sins Claims Data Leaks from Seven Organizations Worldwide HYFLOCK Ransomware Attack on a Saudi ERP Software Company Qilin Ransomware Attack on a Japanese Investment Management Company</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95933/</guid>
       <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Approximately 110,000 PHP Servers” in Korea: How Were They Counted?</title>
+      <link>https://asec.ahnlab.com/en/95983/</link>
+      <description>After an article titled “Two Critical PHP Vulnerabilities Discovered… Urgent Updates Needed Due to Risk of Web Server Attacks” was posted on the AhnLab website yesterday (October 21), we received many inquiries asking for the basis of the figure “approximately 110,000 Korean PHP server IP addresses” cited in the article. This article explains how that [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95983/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Reproducing the PHP2Shell Vulnerability and Detection Using AhnLab EDR/XDR</title>

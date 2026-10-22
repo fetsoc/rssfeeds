@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 10:55:13 +0000</lastBuildDate>
-    <item>
-      <title>June 2026 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/june-2026-web-server-survey</link>
-      <description>In the June 2026 survey we received responses from 1,489,396,284 sites across 304,146,307 domains and 14,653,771 web-facing computers. This reflect...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/june-2026-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 16:23:18 +0000</lastBuildDate>
     <item>
       <title>Consumer Scam Reports Show Who’s Fighting Back</title>
       <link>https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/we-talk-to-scammers-so-you-don%E2%80%99t-have-to</link>
       <description>Netcraft's scam intelligence team talks directly with scammers to uncover fraud tactics, expose criminal infrastructure, and stop scams faster.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/we-talk-to-scammers-so-you-don%E2%80%99t-have-to</guid>
+    </item>
+    <item>
+      <title>2026 Year End Phishing Lures</title>
+      <link>https://www.netcraft.com/blog/year-end-phishing-lures-fake-raises-q4-invoices-and-access-reviews</link>
+      <description>Netcraft analyzes year-end phishing campaigns targeting HR, finance, and IT teams, revealing how attackers exploit compensation reviews, payroll documents, invoices, access reviews, and budget processes to steal credentials and sensitive business data.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/year-end-phishing-lures-fake-raises-q4-invoices-and-access-reviews</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

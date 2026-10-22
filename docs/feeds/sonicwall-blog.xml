@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 10:55:09 +0000</lastBuildDate>
-    <item>
-      <title>In the Film Room: Drake Maye, Hero Ball and Why Security Teams Should Take the Field Goal</title>
-      <link>https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/in-the-film-room-drake-maye-hero-ball-and-the-value-of-field-goals</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 16:23:13 +0000</lastBuildDate>
     <item>
       <title>SonicWall Endpoint Security in Action:  Detecting Akira Ransomware</title>
       <link>https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</link>
@@ -211,6 +206,12 @@
       <link>https://www.sonicwall.com/blog/soctoberfest-building-a-cyber-ready-culture-without-a-security-team</link>
       <description>Part three of SonicWall's SOCtoberfest series for Cybersecurity Awareness Month.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/soctoberfest-building-a-cyber-ready-culture-without-a-security-team</guid>
+    </item>
+    <item>
+      <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
+      <link>https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</guid>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>
