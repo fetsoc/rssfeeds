@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 16:23:18 +0000</lastBuildDate>
-    <item>
-      <title>Consumer Scam Reports Show Who’s Fighting Back</title>
-      <link>https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</link>
-      <description>Scam loss reports from Singapore, Australia, and the U.S. reveal a clear divide: countries pairing fraud statistics with active controls are better equipped to disrupt scams.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/country-consumer-scam-reporting-tells-a-story</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 21:07:16 +0000</lastBuildDate>
     <item>
       <title>Why Detection Alone Isn’t Enough in Brand Protection</title>
       <link>https://www.netcraft.com/blog/brand-protection-detection</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/year-end-phishing-lures-fake-raises-q4-invoices-and-access-reviews</link>
       <description>Netcraft analyzes year-end phishing campaigns targeting HR, finance, and IT teams, revealing how attackers exploit compensation reviews, payroll documents, invoices, access reviews, and budget processes to steal credentials and sensitive business data.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/year-end-phishing-lures-fake-raises-q4-invoices-and-access-reviews</guid>
+    </item>
+    <item>
+      <title>Netcraft Supports Response to PHP2Shell</title>
+      <link>https://www.netcraft.com/blog/php2shell-netcraft-supports-u.k.-response</link>
+      <description>Netcraft and the NCSC have issued more than 50,000 proactive notifications in response to the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), helping organizations identify affected PHP systems and take urgent remediation action.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/php2shell-netcraft-supports-u.k.-response</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

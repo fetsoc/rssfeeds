@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 16:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:07:12 +0000</lastBuildDate>
     <item>
       <title>SonicWall Endpoint Security in Action:  Detecting Akira Ransomware</title>
       <link>https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</link>
@@ -208,24 +208,22 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/soctoberfest-building-a-cyber-ready-culture-without-a-security-team</guid>
     </item>
     <item>
+      <title>A New Chapter at SonicWall</title>
+      <link>https://www.sonicwall.com/blog/a-new-chapter-of-leadership-at-sonicwall</link>
+      <description>SonicWall has named Carolyn McCarthy, previously the company's Chief Operating Officer, as Chief Executive Officer, and Gregg Whitney as Chief Financial Officer.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-new-chapter-of-leadership-at-sonicwall</guid>
+    </item>
+    <item>
+      <title>kotaemon Unauthenticated Deserialization RCE - CVE-2026-69098</title>
+      <link>https://www.sonicwall.com/blog/kotaemon-check-connection-unauthenticated-deserialization-rce</link>
+      <description>Critical CVSS 9.8 deserialization flaw in kotaemon check_connection enables unauthenticated remote code execution. SonicWall IPS signature available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/kotaemon-check-connection-unauthenticated-deserialization-rce</guid>
+    </item>
+    <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
       <link>https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</guid>
       <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enjoy the Speed and Safety of TLS 1.3 Support</title>
-      <link>https://www.sonicwall.com/blog/enjoy-the-speed-and-safety-of-tls-1-3-support</link>
-      <description>SonicWall NGFWs offer full TLS 1.3 support — ensuring your network can handle the latest encryption protocols.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/enjoy-the-speed-and-safety-of-tls-1-3-support</guid>
-      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-Ransomware Day: What Can We Do to Prevent the Next WannaCry?</title>
-      <link>https://www.sonicwall.com/blog/anti-ransomware-day-what-can-we-do-to-prevent-the-next-wannacry</link>
-      <description>This Anti-Ransomware Day, SonicWall looks at how cybersecurity has changed since WannaCry — and what we can do to ensure we never see such a widespread, devastating and preventable attack again.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/anti-ransomware-day-what-can-we-do-to-prevent-the-next-wannacry</guid>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing SonicWall Unified Management: Smarter Security for MSPs</title>
