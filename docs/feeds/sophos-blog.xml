@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 10:48:30 +0000</lastBuildDate>
-    <item>
-      <title>AI governance needs more than a policy document</title>
-      <link>https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</link>
-      <description>&lt;p&gt;Writing an AI policy is only the first step. The challenge is turning it into real-world enforcement.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-governance-needs-more-than-a-policy-document</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 16:12:54 +0000</lastBuildDate>
     <item>
       <title>Show, don’t tell: Sophos AI at CAMLIS</title>
       <link>https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</link>
@@ -69,6 +62,13 @@
       <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is “SIEM-less” really what it sounds like?</title>
+      <link>https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like</link>
+      <description>&lt;p&gt;SIEM-less security may sound like an escape from traditional SIEM complexity and costs, but the underlying capabilities still have to exist somewhere.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

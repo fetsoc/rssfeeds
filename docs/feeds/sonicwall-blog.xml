@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 10:46:51 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Endpoint Security in Action:  Detecting Akira Ransomware</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</guid>
-    </item>
-    <item>
-      <title>SonicWall Wins Big at 2026 CybersecAsia Awards</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-wins-big-at-the-2026-cybersecasia-readers-choice-awards-and-enters-the-hall-of-fame</link>
-      <description>SonicWall earns two CybersecAsia Readers' Choice Awards for Cloud Security and Ransomware Defense, plus Hall of Fame induction for five years of recognition.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-wins-big-at-the-2026-cybersecasia-readers-choice-awards-and-enters-the-hall-of-fame</guid>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 16:11:47 +0000</lastBuildDate>
     <item>
       <title>TeleClip: A native 64-bit Telegram RAT with Multi-Coin Crypto Clipboard hijack and Keylogger</title>
       <link>https://www.sonicwall.com/blog/teleclip-a-native-64-bit-telegram-rat-with-multi-coin-crypto-clipboard-hijack-and-keylogger</link>
@@ -220,6 +209,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/kotaemon-check-connection-unauthenticated-deserialization-rce</guid>
     </item>
     <item>
+      <title>Meet Gen 8: Firewalls, Zero Trust and Unified Management</title>
+      <link>https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</link>
+      <description>Nine new firewalls, Zero Trust access, co-managed services and cyber insurance—SonicWall’s latest update was built for your business.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</guid>
+    </item>
+    <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
       <link>https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</guid>
@@ -298,6 +293,13 @@
       <link>https://www.sonicwall.com/blog/app-discovery-see-every-application-including-the-ones-you-did-not-approve</link>
       <description>SonicWall Cloud Secure Edge App Discovery reveals Shadow IT and Shadow AI with a catalog expanded to more than 6,000 applications.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/app-discovery-see-every-application-including-the-ones-you-did-not-approve</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SonicWall Cloud Secure Edge Expands PoP Network</title>
+      <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</link>
+      <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
