@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 16:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:50:38 +0000</lastBuildDate>
     <item>
       <title>TeleClip: A native 64-bit Telegram RAT with Multi-Coin Crypto Clipboard hijack and Keylogger</title>
       <link>https://www.sonicwall.com/blog/teleclip-a-native-64-bit-telegram-rat-with-multi-coin-crypto-clipboard-hijack-and-keylogger</link>
