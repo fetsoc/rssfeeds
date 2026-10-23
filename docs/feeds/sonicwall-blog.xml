@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 21:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 02:45:25 +0000</lastBuildDate>
     <item>
       <title>SonicWall Endpoint Security in Action:  Detecting Akira Ransomware</title>
       <link>https://www.sonicwall.com/blog/sonicwall-endpoint-security-in-action-detecting-akira-ransomware</link>
