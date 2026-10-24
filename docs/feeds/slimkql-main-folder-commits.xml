@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 15:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:01:53 +0000</lastBuildDate>
     <item>
       <title>Add files via upload</title>
       <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/fb8be26a8e0bb92152177d3b21e1b6be6db52863</link>
