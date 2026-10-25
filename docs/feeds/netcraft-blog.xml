@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 15:21:04 +0000</lastBuildDate>
-    <item>
-      <title>Why Detection Alone Isn’t Enough in Brand Protection</title>
-      <link>https://www.netcraft.com/blog/brand-protection-detection</link>
-      <description>Why brand protection fails after detection. Learn why alerts don’t reduce harm and how validation and takedowns limit brand risk.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/brand-protection-detection</guid>
-    </item>
-    <item>
-      <title>10 Real Phishing Websites (Screenshots Included)</title>
-      <link>https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</link>
-      <description>Explore 10 real phishing website examples identified by Netcraft researchers. Learn how attackers impersonate trusted brands and the warning signs that may reveal a phishing site.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/10-real-examples-of-phishing-websites-screenshots</guid>
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 20:14:39 +0000</lastBuildDate>
     <item>
       <title>Bluekit Phishing-as-a-Service: Browser-in-the-Middle (BitM) Analysis</title>
       <link>https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</link>
@@ -111,6 +99,12 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/4-real-examples-of-social-media-impersonation-scams-(and-how-to-spot-them)</guid>
     </item>
     <item>
+      <title>August 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/august-2026-web-server-survey</link>
+      <description>In the August 2026 survey we received responses from 1,440,631,474 sites across 311,859,561 domains and 15,255,006 web-facing computers. This refle...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/august-2026-web-server-survey</guid>
+    </item>
+    <item>
       <title>8 Best Social Media Brand Protection Tools in 2026</title>
       <link>https://www.netcraft.com/blog/best-social-media-brand-protection-tools</link>
       <description>Compare 8 leading social media brand protection tools for detecting impersonation, scams, fake accounts, and other social threats - see which best fits your needs.</description>
@@ -181,6 +175,12 @@
       <link>https://www.netcraft.com/blog/as-shipyard-winds-down-ipfs-phishing-enters-a-new-phase</link>
       <description>Interplanetary Shipyard's shutdown is reshaping the IPFS ecosystem. Learn how IPFS gateways have been abused for phishing, how Protocol Labs' stewardship changes could affect threat activity, and what security teams can do to manage emerging risks.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/as-shipyard-winds-down-ipfs-phishing-enters-a-new-phase</guid>
+    </item>
+    <item>
+      <title>September 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/september-2026-web-server-survey</link>
+      <description>In the September 2026 survey we received responses from 1,470,435,351 sites across 323,147,961 domains and 15,463,120 web-facing computers. This re...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/september-2026-web-server-survey</guid>
     </item>
     <item>
       <title>Reservation Desk Scams Hiding in Search Results</title>

@@ -7,12 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 15:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:15:44 +0000</lastBuildDate>
     <item>
-      <title>Vulnerability Attack Case: Installation of a Web Shell and Execution of a Scanner by Exploiting a Telerik UI Vulnerability</title>
-      <link>https://asec.ahnlab.com/en/95561/</link>
-      <description>The AhnLab SEcurity intelligence Center (ASEC) has identified two vulnerability attack cases that exploited a remote code execution vulnerability (CVE-2019-18935) targeting unpatched Telerik UI for ASP.NET AJAX servers. In the first incident, after exploiting the vulnerability, the attacker executed a reverse shell, attempted to perform privilege escalation, and installed a web shell; in the second [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95561/</guid>
+      <title>Beware of Phishing Emails That Disguise Themselves as Project Material Purchase Requests</title>
+      <link>https://asec.ahnlab.com/en/95598/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as project material purchase request forms. These emails impersonate employees of a specific company in Korea and trick recipients into opening a malicious XLS file attached to the email, which is disguised as a project material purchase request form. [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95598/</guid>
       <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -37,6 +37,13 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases</title>
+      <link>https://asec.ahnlab.com/en/95775/</link>
+      <description>1. Overview &amp;#160;AhnLab SEcurity intelligence Center (ASEC) recently identified a case in which the Kimsuky group ultimately distributed the Funhouse ransomware via a malicious Hangul document that was disguised as a resume. The Funhouse ransomware was identified as a variant of previously disclosed endpoint ransomware, and the tools used in this attack—such as Quasar RAT—as [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95775/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>RMM tools currently being distributed through phishing attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)</title>
       <link>https://asec.ahnlab.com/en/95751/</link>
       <description>In January 2026, the AhnLab SEcurity intelligence Center (ASEC) reported on attack cases that distributed RMM (Remote Monitoring and Management) tools through video files or attachments in phishing emails. [1] [2] In these attack cases, tools such as Syncro, ConnectWise ScreenConnect, NinjaOne, and SuperOps were exploited. RMM (Remote Monitoring and Management) tools are not malware [&amp;#8230;]</description>
@@ -48,13 +55,6 @@
       <link>https://asec.ahnlab.com/en/95669/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases</title>
-      <link>https://asec.ahnlab.com/en/95775/</link>
-      <description>1. Overview &amp;#160;AhnLab SEcurity intelligence Center (ASEC) recently identified a case in which the Kimsuky group ultimately distributed the Funhouse ransomware via a malicious Hangul document that was disguised as a resume. The Funhouse ransomware was identified as a variant of previously disclosed endpoint ransomware, and the tools used in this attack—such as Quasar RAT—as [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95775/</guid>
       <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -79,6 +79,13 @@
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/95808/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Q3 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
       <link>https://asec.ahnlab.com/en/95812/</link>
       <description>Content The AhnLab SEcurity intelligence Center (ASEC) analyzed the attack status of Windows web servers in the third quarter of 2026 based on AhnLab Smart Defense (ASD) logs. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments, with attacks primarily exploiting unpatched vulnerabilities, misconfigurations, and inadequate [&amp;#8230;]</description>
@@ -93,25 +100,11 @@
       <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
-      <link>https://asec.ahnlab.com/en/95808/</link>
-      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Beware of Phishing Emails Disguised as Purchase Orders</title>
       <link>https://asec.ahnlab.com/en/95841/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails being circulated that disguise themselves as requests to confirm purchase orders. The email body asks recipients to review the attached purchase order and reply with the relevant information, prompting users to download and open the attached DOCX file. Attachment: PURCHASED ORDER.Docx &amp;#160; [Figure [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95841/</guid>
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95764/</link>
-      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>September 2026 Threat Trend Report on Ransomware</title>
@@ -132,6 +125,13 @@
       <link>https://asec.ahnlab.com/en/95769/</link>
       <description>Note The September 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. However, the report notes that due to the nature of the sources, it may be difficult to fully verify the accuracy of some information. Major Issues The official launch of a new dark web [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95769/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95764/</link>
+      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
       <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
