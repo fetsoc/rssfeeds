@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 12:01:01 +0000</lastBuildDate>
-    <item>
-      <title>Show, don’t tell: Sophos AI at CAMLIS</title>
-      <link>https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</link>
-      <description>&lt;p&gt;The Sophos AI team presents a novel technique for calibrating agentic SOC analysts&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 18:22:04 +0000</lastBuildDate>
     <item>
       <title>Sophos ITDR expands identity protection for the AI era</title>
       <link>https://www.sophos.com/en-us/blog/sophos-itdr-ai-protection</link>
@@ -51,16 +44,16 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
-      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower</title>
       <link>https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</link>
       <description>&lt;p&gt;Recent incident response investigations reveal how AI-assisted attackers are chaining web application vulnerabilities, credential theft, privilege escalation, and lateral movement into autonomous intrusion workflows.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -69,6 +62,13 @@
       <description>&lt;p&gt;SIEM-less security may sound like an escape from traditional SIEM complexity and costs, but the underlying capabilities still have to exist somewhere.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The breachpocalypse is here</title>
+      <link>https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here</link>
+      <description>&lt;p&gt;It&amp;apos;s just hard to measure&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

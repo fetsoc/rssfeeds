@@ -7,24 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 11:58:56 +0000</lastBuildDate>
-    <item>
-      <title>%%title%% %%page%%</title>
-      <link>https://www.sonicwall.com/blog/from-sonic-systems-to-sonicwall-30-years-of-cybersecurity-evolution</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/from-sonic-systems-to-sonicwall-30-years-of-cybersecurity-evolution</guid>
-    </item>
-    <item>
-      <title>While You Were Doomscrolling: September 2026</title>
-      <link>https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</link>
-      <description>A pasta sauce company's new listening device, Medusa ransomware crossing 500 victims, and our pick for a can't-miss fantasy defense.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-medusa-ransomware-hits-500-victims-and-your-spaghetti-sauce-might-be-listening-to-you-</guid>
-    </item>
-    <item>
-      <title>PaperCut NG/MF Unauthenticated RCE Chain - CVE-2026-82078</title>
-      <link>https://www.sonicwall.com/blog/papercut-ng-mf-unauthenticated-remote-code-execution</link>
-      <description>Critical CVSS 9.4 config-injection flaw chains with a PaperCut NG/MF auth bypass for unauthenticated RCE. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/papercut-ng-mf-unauthenticated-remote-code-execution</guid>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 18:20:38 +0000</lastBuildDate>
     <item>
       <title>SOC Van Pelt: Knowing a Threat Isn't Stopping It</title>
       <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-you-know-the-threat-you-know-how-it-operates-it-still-took-you-down-</link>
@@ -201,6 +184,24 @@
       <link>https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</link>
       <description>Nine new firewalls, Zero Trust access, co-managed services and cyber insurance—SonicWall’s latest update was built for your business.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</guid>
+    </item>
+    <item>
+      <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
+      <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>
+      <description>Credential compromise is one of the most common causes of data breaches. Learn how stolen credentials are used in attacks and how Zero Trust access helps stop them.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</guid>
+    </item>
+    <item>
+      <title>VPN Vulnerabilities Lead to Breaches – How to Eliminate Risk</title>
+      <link>https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</link>
+      <description>Unpatched VPN vulnerabilities continue to drive ransomware attacks and business disruption. Learn how modern secure access eliminates exposed infrastructure and reduces breach risk.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/vpn-vulnerabilities-don-t-have-to-become-breaches</guid>
+    </item>
+    <item>
+      <title>User Clicks Lead to Breaches – How Zero Trust Stops Execution-Based Attacks</title>
+      <link>https://www.sonicwall.com/blog/a-click-shouldn-t-lead-to-a-breach</link>
+      <description>Phishing links and malicious files remain a leading cause of ransomware. Learn how Zero Trust access helps prevent user-initiated attacks from becoming breaches.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-click-shouldn-t-lead-to-a-breach</guid>
     </item>
     <item>
       <title>PHP2Shell PHP Pre-Auth RCE - CVE-2026-109618, CVE-2026-109619</title>
