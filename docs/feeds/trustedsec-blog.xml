@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 11:22:01 +0000</lastBuildDate>
-    <item>
-      <title>LLMHaxor Update</title>
-      <link>https://trustedsec.com/blog/llmhaxor-update</link>
-      <description>&amp;lt;p&amp;gt;Most LLM testing tools require setup, paid access, or internet; LLMHaxor requires none of that. In this blog, we walk through the latest update, including a new WebSocket adapter for modern streaming LLM applications.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/llmhaxor-update</guid>
-      <pubDate>Thu, 03 Sep 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 17:12:10 +0000</lastBuildDate>
     <item>
       <title>So… You Found AWS Access Keys (Part 1)</title>
       <link>https://trustedsec.com/blog/so-you-found-aws-access-keys-part-1</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Eighteen months after Trimarc joined TrustedSec, the work speaks for itself. In this blog, we reflect on Trimarc’s integration into TrustedSec and what it means for customers, services, and ongoing research.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/trimarc-18-months-later-at-trustedsec</guid>
       <pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is CUI? A Contractor’s Perspective</title>
+      <link>https://trustedsec.com/blog/what-is-cui-a-contractors-perspective</link>
+      <description>&amp;lt;p&amp;gt;Three questions every government contractor should be able to answer about CUI—how to identify it, when to mark it, and how to handle it correctly. In this blog, we answer all three from a contractor’s perspective.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/what-is-cui-a-contractors-perspective</guid>
+      <pubDate>Tue, 27 Oct 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

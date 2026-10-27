@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 11:22:01 +0000</lastBuildDate>
-    <item>
-      <title>IronChain Ransomware Threatens Businesses with Permanent Data Loss and Costly Downtime</title>
-      <link>https://any.run/cybersecurity-blog/ironchain-analysis/</link>
-      <description>&lt;p&gt;Editor’s note: This research was conducted by Himanshu Anand, an independent cybersecurity researcher (follow Himanshu on X). During Cybersecurity Awareness Month, ransomware remains one of the clearest examples of how a cyber incident can become a business continuity issue. IronChain shows why. It puts business-critical data at risk of permanent loss and can bring operations [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/ironchain-analysis/"&gt;IronChain Ransomware Threatens Businesses with Permanent Data Loss and Costly Downtime&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/ironchain-analysis/</guid>
-      <pubDate>Tue, 06 Oct 2026 11:27:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 17:12:10 +0000</lastBuildDate>
     <item>
       <title>5 Critical Pain Points of Modern US SOCs and How to Solve Them</title>
       <link>https://any.run/cybersecurity-blog/us-soc-pain-points/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/cyber-threat-context-for-early-soc-triage-response/"&gt;Cyber Threat Context for Early Response: Enriching SOC Telemetry with Real-Time Intel from 16K Organizations&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/cyber-threat-context-for-early-soc-triage-response/</guid>
       <pubDate>Thu, 22 Oct 2026 12:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>SkyW4lker Exposed: A Growing Microsoft 365 Phishing Threat to American Enterprises</title>
+      <link>https://any.run/cybersecurity-blog/skyw4lker-phishing-kit-analysis/</link>
+      <description>&lt;p&gt;SkyW4lker (SkyW4lker x365 Sentinel) is an active device-code phishing kit targeting Microsoft 365 users in the United States, Europe, and other regions. By abusing Microsoft&amp;#8217;s legitimate authentication process, the kit can give attackers access to corporate accounts without stealing passwords or bypassing MFA. This puts business emails, sensitive documents, and other Microsoft 365 resources at [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/skyw4lker-phishing-kit-analysis/"&gt;SkyW4lker Exposed: A Growing Microsoft 365 Phishing Threat to American Enterprises&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/skyw4lker-phishing-kit-analysis/</guid>
+      <pubDate>Tue, 27 Oct 2026 14:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

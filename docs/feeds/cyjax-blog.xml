@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 11:20:36 +0000</lastBuildDate>
-    <item>
-      <title>Cyber Threat Intelligence for Insurance: The Supply Chain Risk Insurers Can't Ignore  - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-insurance-the-supply-chain-risk-insurers-cant-ignore</link>
-      <description>A strong internal security score means little if the brokers, claims processors, and software vendors an insurer depends on are the weak link. This blog breaks down where insurance supply chain risk sits and what to do about it.</description>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-insurance-the-supply-chain-risk-insurers-cant-ignore</guid>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 17:10:44 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Intelligence for Fintech: A Sector Built for Speed, Targeted for the Same Reason  - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-fintech-a-sector-built-for-speed-targeted-for-the-same-reason</link>
@@ -141,6 +135,12 @@
       <title>Babuk Ba-back? Potential Return of the Infamous RaaS Group - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/babuk-ba-back-potential-return-of-the-infamous-raas-group</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/babuk-ba-back-potential-return-of-the-infamous-raas-group</guid>
+    </item>
+    <item>
+      <title>ASOS Cyber Incident: CYJAX on the Third-Party Risk Facing UK Retailers. - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/asos-cyber-incident-cyjax-on-the-third-party-risk-facing-uk-retailers</link>
+      <description>On 6 October 2026, ASOS customers received an extortion message through the retailer's own app claiming its Snowflake instance had been compromised. CYJAX looks at what happened, why third-party and cloud platform risk sits at the centre of the incident, and how organisations can monitor their extended supply chain before attackers do.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/asos-cyber-incident-cyjax-on-the-third-party-risk-facing-uk-retailers</guid>
     </item>
     <item>
       <title>ARaaStocracy - RALord ransomware emerges with new DLS - CYJAX</title>

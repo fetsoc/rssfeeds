@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 11:20:37 +0000</lastBuildDate>
-    <item>
-      <title>Australia's Scams Prevention Framework: What Banks Must Do Before March 2027</title>
-      <link>https://www.netcraft.com/blog/australia-scams-prevention-framework-what-the-new-obligations-mean-for-banks</link>
-      <description>Australia's Scams Prevention Framework is now law, with sector designations confirmed and codes in final consultation. Here's what banks need to do before the March 2027 deadline.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/australia-scams-prevention-framework-what-the-new-obligations-mean-for-banks</guid>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 17:10:46 +0000</lastBuildDate>
     <item>
       <title>Branded Gambling Campaigns: How Scammers Exploit Trusted Brands</title>
       <link>https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brands</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/best-phishing-detection-tools-web-services</link>
       <description>Compare the best phishing detection tools for web services, including digital risk, brand protection, web phishing detection, threat intelligence, and email security.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/best-phishing-detection-tools-web-services</guid>
+    </item>
+    <item>
+      <title>Trust is the Real Casualty of the $68B Scam Economy</title>
+      <link>https://www.netcraft.com/blog/trust-is-the-real-casualty-of-the-68-billion-scam-economy</link>
+      <description>Online scams cost Americans an estimated $68 billion in 2025, with 40% involving fraudulent websites. Learn how fake domains erode customer trust, damage brands, and why takedowns are critical to scam prevention.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/trust-is-the-real-casualty-of-the-68-billion-scam-economy</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
