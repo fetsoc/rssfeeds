@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 18:20:46 +0000</lastBuildDate>
-    <item>
-      <title>Bluekit Phishing-as-a-Service: Browser-in-the-Middle (BitM) Analysis</title>
-      <link>https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</link>
-      <description>Netcraft analyzes Bluekit, a Browser-in-the-Middle phishing kit that streams legitimate login pages to victims using rrweb. Learn how it works, why it differs from Evilginx, and the detection opportunities for defenders.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/bluekit-phishing-as-a-service-threat</guid>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 03:09:17 +0000</lastBuildDate>
     <item>
       <title>Australia's Scams Prevention Framework: What Banks Must Do Before March 2027</title>
       <link>https://www.netcraft.com/blog/australia-scams-prevention-framework-what-the-new-obligations-mean-for-banks</link>
@@ -189,16 +183,16 @@
       <guid isPermaLink="false">https://www.netcraft.com/blog/the-reservation-desk-scam-hiding-in-search-results</guid>
     </item>
     <item>
-      <title>Who Gets Deepfaked and Why</title>
-      <link>https://www.netcraft.com/blog/who-gets-deepfaked-and-why</link>
-      <description>Who gets deepfaked in scams? Netcraft research shows criminals impersonate bankers, journalists, and celebrities to push crypto investment fraud.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/who-gets-deepfaked-and-why</guid>
-    </item>
-    <item>
       <title>'Super Intelligence' Executive Order Fuels Nearly Hundredfold Increase in .si Domain Registrations</title>
       <link>https://www.netcraft.com/blog/super-intelligence-executive-order-si-domain-registrations</link>
       <description>Netcraft examines the surge in .si domain registrations following the U.S. government's adoption of "super intelligence" terminology. Learn how the trend is reshaping domain registration patterns, driving speculative registrations, and creating new risks brands should monitor.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/super-intelligence-executive-order-si-domain-registrations</guid>
+    </item>
+    <item>
+      <title>Who Gets Deepfaked and Why</title>
+      <link>https://www.netcraft.com/blog/who-gets-deepfaked-and-why</link>
+      <description>Who gets deepfaked in scams? Netcraft research shows criminals impersonate bankers, journalists, and celebrities to push crypto investment fraud.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/who-gets-deepfaked-and-why</guid>
     </item>
     <item>
       <title>Using Geofencing and Cloaking to Look Like a "Real" Phishing Victim</title>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/php2shell-netcraft-supports-u.k.-response</link>
       <description>Netcraft and the NCSC have issued more than 50,000 proactive notifications in response to the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), helping organizations identify affected PHP systems and take urgent remediation action.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/php2shell-netcraft-supports-u.k.-response</guid>
+    </item>
+    <item>
+      <title>Best Phishing Detection Tools for Web Services in 2026</title>
+      <link>https://www.netcraft.com/blog/best-phishing-detection-tools-web-services</link>
+      <description>Compare the best phishing detection tools for web services, including digital risk, brand protection, web phishing detection, threat intelligence, and email security.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/best-phishing-detection-tools-web-services</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
