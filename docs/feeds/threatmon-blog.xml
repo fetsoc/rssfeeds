@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/threatmon-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 11:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:46:13 +0000</lastBuildDate>
     <item>
       <title>RisePro Stealer Malware Analysis Report - ThreatMon</title>
       <link>https://threatmon.io/risepro-stealer-malware-analysis-report/</link>

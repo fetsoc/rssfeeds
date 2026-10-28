@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 11:54:29 +0000</lastBuildDate>
-    <item>
-      <title>Branded Gambling Campaigns: How Scammers Exploit Trusted Brands</title>
-      <link>https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brands</link>
-      <description>Learn how scammers use fake gambling ads, app store pages, and PWAs to impersonate trusted brands and drive users to online casinos.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/branded-gambling-campaigns-how-scammers-are-exploiting-trusted-brands</guid>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 17:46:12 +0000</lastBuildDate>
     <item>
       <title>brand protection monitoring</title>
       <link>https://www.netcraft.com/blog/brand-protection-monitoring</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/trust-is-the-real-casualty-of-the-68-billion-scam-economy</link>
       <description>Online scams cost Americans an estimated $68 billion in 2025, with 40% involving fraudulent websites. Learn how fake domains erode customer trust, damage brands, and why takedowns are critical to scam prevention.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/trust-is-the-real-casualty-of-the-68-billion-scam-economy</guid>
+    </item>
+    <item>
+      <title>What 1,615 New TLD Applications Reveal</title>
+      <link>https://www.netcraft.com/blog/what-new-tld-applications-reveal-icann</link>
+      <description>What do 1,615 new domain extension applications reveal about AI, brands, and the future of online identity? A deep dive into ICANN's latest gTLD round.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/what-new-tld-applications-reveal-icann</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

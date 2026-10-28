@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 11:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:47:16 +0000</lastBuildDate>
     <item>
       <title>So… You Found AWS Access Keys (Part 1)</title>
       <link>https://trustedsec.com/blog/so-you-found-aws-access-keys-part-1</link>

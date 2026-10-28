@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 11:53:42 +0000</lastBuildDate>
-    <item>
-      <title>React2Shell (CVE-2025-55182): Node.js RCE Against a Production Next.js App</title>
-      <link>https://hunt.io/blog/react2shell-cve-2025-55182-nextjs-nodejs-rce</link>
-      <description>A detailed analysis of how React2Shell (CVE-2025-55182) was used to launch a multi-stage attack against a production Next.js app, exposing Node.js systems to real-world exploitation techniques and operational C2 infrastructure.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/react2shell-cve-2025-55182-nextjs-nodejs-rce</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 17:42:46 +0000</lastBuildDate>
     <item>
       <title>Inside DPRK Operations: New Lazarus and Kimsuky Infrastructure Uncovered Across Global Campaigns</title>
       <link>https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</link>
@@ -357,6 +350,13 @@
       <description>Two critical PHP RCE flaws, CVE-2026-109618 and CVE-2026-109619, leaked pre-patch. We map the exposed PHP footprint and hunt open directories for exploitation.</description>
       <guid isPermaLink="false">https://hunt.io/blog/php2shell-cve-2026-109618-109619-open-directories</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>68 GB Stolen From a Philippine Government Agency’s Overseas-Employment Databases, Exposed by the Operator’s Own Open Directory</title>
+      <link>https://hunt.io/blog/philippine-government-employment-agency-records-stolen</link>
+      <description>An exposed staging server at UpCloud revealed a completed 68 GB copy of 27 Philippine overseas-employment database backups, a rebranded GodPotato privilege escalation tool, and the operator's own transfer logs.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/philippine-government-employment-agency-records-stolen</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
