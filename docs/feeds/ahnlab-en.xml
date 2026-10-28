@@ -7,6 +7,216 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 03:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:56:06 +0000</lastBuildDate>
+    <item>
+      <title>From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases</title>
+      <link>https://asec.ahnlab.com/en/95775/</link>
+      <description>1. Overview &amp;#160;AhnLab SEcurity intelligence Center (ASEC) recently identified a case in which the Kimsuky group ultimately distributed the Funhouse ransomware via a malicious Hangul document that was disguised as a resume. The Funhouse ransomware was identified as a variant of previously disclosed endpoint ransomware, and the tools used in this attack—such as Quasar RAT—as [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95775/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RMM tools currently being distributed through phishing attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)</title>
+      <link>https://asec.ahnlab.com/en/95751/</link>
+      <description>In January 2026, the AhnLab SEcurity intelligence Center (ASEC) reported on attack cases that distributed RMM (Remote Monitoring and Management) tools through video files or attachments in phishing emails. [1] [2] In these attack cases, tools such as Syncro, ConnectWise ScreenConnect, NinjaOne, and SuperOps were exploited. RMM (Remote Monitoring and Management) tools are not malware [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95751/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 1, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95669/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 1, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Dutch Police Confirm Arrest of 24-Year-Old Man in ShinyHunters Hacking Investigation [1] [2]&amp;#160; Ulose Claims Data Leak from a South Korean General Hospital Qilin Ransomware Attack on a Japanese Freight and Logistics Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95669/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Vulnerability Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95741/</link>
+      <description>Summary of Vulnerability Trends for the Third Quarter of 2026 A total of 36,971 CVEs were disclosed in the third quarter of 2026, representing an increase of approximately 78.6% Compared to the second quarter. Among the vulnerabilities for which CVSS assessments were completed, approximately 12.7% Were rated “Critical” and approximately 42.6% Were rated “High,” meaning [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95741/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 2, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95738/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; International Operation Seizes KillSec Ransomware Infrastructure and Arrests Three Suspects Customer Data of a South Korean Health and Beauty Retailer Offered for Sale Saudi Intelligence Agency Personnel and Organizational Data Allegedly Leaked</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95738/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95733/</link>
+      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
+      <link>https://asec.ahnlab.com/en/95812/</link>
+      <description>Content The AhnLab SEcurity intelligence Center (ASEC) analyzed the attack status of Windows web servers in the third quarter of 2026 based on AhnLab Smart Defense (ASD) logs. The targets were Internet Information Services (IIS) web servers and Apache Tomcat web servers running in Windows environments, with attacks primarily exploiting unpatched vulnerabilities, misconfigurations, and inadequate [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95812/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q3 2026 Statistical Report on Malware Targeting Windows Database Servers</title>
+      <link>https://asec.ahnlab.com/en/95809/</link>
+      <description>Content The AhnLab SEcurity intelligence Center (ASEC) observed and classified attacks targeting MS-SQL servers and MySQL servers installed on Windows operating systems via the ASD infrastructure. This report summarizes the damage status, attack status, and the types of malware used in the attacks, based on logs identified in the third quarter of 2026. Purpose and [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95809/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/95808/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of Phishing Emails Disguised as Purchase Orders</title>
+      <link>https://asec.ahnlab.com/en/95841/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails being circulated that disguise themselves as requests to confirm purchase orders. The email body asks recipients to review the attached purchase order and reply with the relevant information, prompting users to download and open the attached DOCX file. Attachment: PURCHASED ORDER.Docx &amp;#160; [Figure [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95841/</guid>
+      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Issues in the Korean &amp; Global Financial Sector in September 2026</title>
+      <link>https://asec.ahnlab.com/en/96155/</link>
+      <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (attacks that trick users into revealing information) had the highest rate at 2.1, Up from 1.8 The previous month. In Attack Stage 2, “Dropper/Downloader” (a type that downloads additional malware) was the most common at 1.1, Though this was a decrease from [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96155/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/95949/</link>
+      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected, the number of compromised systems, and statistics on targeted businesses during the month of September 2026, as well as major Korean &amp;#038; global ransomware issues. The analysis is based on data collected through ATIP (AhnLab Threat Intelligence Platform) and AhnLab Smart Defense, [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95949/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Threat Actor Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95770/</link>
+      <description>Note The September 2026 Dark Web Threat Actor Trend Report focuses on threat actors active on the deep web and dark web, as well as publicly reported cyberattack incidents. It is noted that the factual accuracy of some content cannot be independently verified. Major Issues Some hacktivist groups claimed responsibility for DDoS attacks targeting the [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95770/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Issue Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95769/</link>
+      <description>Note The September 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. However, the report notes that due to the nature of the sources, it may be difficult to fully verify the accuracy of some information. Major Issues The official launch of a new dark web [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95769/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95764/</link>
+      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email</title>
+      <link>https://asec.ahnlab.com/en/95840/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails being circulated that disguise themselves as requests to review a business proposal. The email body asks recipients to review the attached product list and reply with their feedback on inventory and pricing, thereby prompting users to download and open the attached ZIP file. [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95840/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 3, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95823/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; n0n Ransomware Attacks on 12 South Korean Port and Logistics Companies Cyberattack Targets Refrigeration Systems at Major French Supermarket Chains Payment and Transaction Data Leak Claimed at a Saudi Fintech Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95823/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies</title>
+      <link>https://asec.ahnlab.com/en/95879/</link>
+      <description>Overview. This report summarizes cases in which Suo5 (an HTTP/HTTPS-based tunneling tool) was exploited for pivoting—a technique used to expand the scope of an attack to other systems or networks by passing through a system that has already been compromised—by using compromised web servers as relay points to access internal networks for lateral movement. It [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95879/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</title>
+      <link>https://asec.ahnlab.com/en/95845/</link>
+      <description>Overview AI is being used for various tasks that were previously performed manually, such as research, document writing, and code analysis. A 2026 corporate survey also showed that the scope of AI adoption among organizations had expanded compared to the previous year. Recently, there has been a trend toward automating a significant portion of work [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95845/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of the Infrastructure of ARTEX, a Chinese AI Penetration Testing Tool #4 – The Birth of Copy Cat</title>
+      <link>https://asec.ahnlab.com/en/95875/</link>
+      <description>Key Summary Since the original ARTEX GitHub repository disappeared, there has been an increase in independent distributions and customized instances based on the existing ARTEX codebase. These distributions are being redistributed with the product name, UI, filesystem structure, agent settings, and language modified, while retaining traces of ARTEX. Key Observations In several instances, ARTEX was [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95875/</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Threat Trend Report on APT Groups</title>
+      <link>https://asec.ahnlab.com/en/95883/</link>
+      <description>Purpose and Scope APT cases disclosed in September 2026 demonstrate that attacks have evolved to exploit the developer ecosystem, cloud services, and network management infrastructure as trust layers. Legitimate software installers, GitHub repositories, Microsoft 365, OneDrive, Telegram, Nostr, routers, and authentication servers were all included in the attack chain. Key Trends Supply chain attacks have [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95883/</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>They told me to check my retirement savings balance, but now they’re asking for my password?</title>
+      <link>https://asec.ahnlab.com/en/95940/</link>
+      <description>You should also be wary of emails urging you to check the status of your retirement pension fund—a topic that might interest office workers. Recently, phishing emails have been identified that use retirement pension notifications as a pretext to steal email account information. Under the pretext of verifying a secure email, threat actors trick recipients [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95940/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does It Stop When Someone Is Watching? The Suspicious Behavior of a New Type of Infostealer</title>
+      <link>https://asec.ahnlab.com/en/95937/</link>
+      <description>It is already well known that illegal software and cracked programs can be exploited for malware distribution. Recently, AhnLab identified a new type of information theft malware (Infostealer) disguised as an illegal program. This malware was first detected in mid-August and, after altering its execution method, began spreading widely in September. Notably, it not only [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95937/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 4, October 2026</title>
+      <link>https://asec.ahnlab.com/en/95933/</link>
+      <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 4, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; The Seven Deadly Sins Claims Data Leaks from Seven Organizations Worldwide HYFLOCK Ransomware Attack on a Saudi ERP Software Company Qilin Ransomware Attack on a Japanese Investment Management Company</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95933/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Approximately 110,000 PHP Servers” in Korea: How Were They Counted?</title>
+      <link>https://asec.ahnlab.com/en/95983/</link>
+      <description>After an article titled “Two Critical PHP Vulnerabilities Discovered… Urgent Updates Needed Due to Risk of Web Server Attacks” was posted on the AhnLab website yesterday (October 21), we received many inquiries asking for the basis of the figure “approximately 110,000 Korean PHP server IP addresses” cited in the article. This article explains how that [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95983/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reproducing the PHP2Shell Vulnerability and Detection Using AhnLab EDR/XDR</title>
+      <link>https://asec.ahnlab.com/en/95956/</link>
+      <description>On October 22, 2026, the PHP Security Team announced in an advisory that it would release security updates addressing the vulnerabilities CVE-2026-109618 and CVE-2026-109619. Although the causes of the two vulnerabilities differ, they are both remote code execution vulnerabilities that allow an unauthenticated threat actor to execute arbitrary code remotely. AhnLab SEcurity intelligence Center (ASEC) [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95956/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of the GitHub “php2shell” Repository: Public PoCs and Defense Tools That Spread Immediately After the Disclosure of the PHP Vulnerability</title>
+      <link>https://asec.ahnlab.com/en/95944/</link>
+      <description>Overview Immediately after the PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619 were disclosed on October 21, 2026, a large number of repositories named “php2shell” were created in a short period of time on GitHub, a code repository platform. Of the top 100 repositories (excluding forks) found by searching for “php2shell,” 99 addressed these vulnerabilities, and nearly all [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95944/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RATatouille: Today’s Special: Impersonating Companies in Korea, Payments in Cryptocurrency</title>
+      <link>https://asec.ahnlab.com/en/96151/</link>
+      <description>While tracking infrastructure related to ValleyRAT, numerous suspicious websites were identified that impersonated companies and brands from Korea such as Doosan Robotics and Cheonjeong. The identified sites used the actual companies’ logos, promotional videos, and descriptions to disguise themselves as official websites. The websites offered features such as invitation-code-based registration, login, fee history inquiries, VIP [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96151/</guid>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/96183/</link>
+      <description>Content This Infostealer Trend Report summarizes the distribution channels, number of malware samples, number of detections, and information on companies targeted by new Infostealers (malware designed to steal information) collected during the month of September 2026. The data was compiled based on detection logs from AhnLab SEcurity intelligence Center (ASEC) and AhnLab products, and includes [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96183/</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransom &amp; Dark Web Issues Week 5, October 2026</title>
+      <link>https://asec.ahnlab.com/en/96180/</link>
+      <description>ASEC Blog를 통해 한 주간의 &amp;#8216;Ransom &amp;#38; Dark Web Issues&amp;#8217; &amp;#8211; 2026년 10월 5주차를 게시한다. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; n0n Data Extortion Attack on a South Korean IT Services and Systems Integration Company Access to a South Korean Steel Pipe Manufacturer’s Production System Reported The Gentlemen Ransomware Attack on Vietnam’s National Airline</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96180/</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
