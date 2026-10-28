@@ -7,41 +7,48 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 17:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:05:20 +0000</lastBuildDate>
+    <item>
+      <title>Why is NIST adding Governance to the NIST CSF 2.0?</title>
+      <link>https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</link>
+      <description>As the security industry waits for NIST CSF 2.0 to publish, we shed some light on the question of what's changing and share what we know.</description>
+      <guid isPermaLink="false">https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</guid>
+      <pubDate>Tue, 30 Jan 2024 17:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security alert: ConnectWise ScreenConnect 23.9.8 security fix</title>
+      <link>https://expel.com/blog/security-alert-connectwise-screenconnect-23-9-8-security-fix/</link>
+      <description>Vulnerabilities in ConnectWise versions 23.9.7 and prior leave some ScreenConnect instances exposed to attackers. Here’s how to fix it.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-alert-connectwise-screenconnect-23-9-8-security-fix/</guid>
+      <pubDate>Tue, 20 Feb 2024 14:34:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patch Tuesday roundup for March 2024</title>
+      <link>https://expel.com/blog/patch-tuesday-roundup-for-march-2024/</link>
+      <description>The March 2024 Patch Tuesday included 60 CVEs from Microsoft and 68 CVEs from Apple. Here’s what our team recommends to reduce exploit risk.</description>
+      <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-march-2024/</guid>
+      <pubDate>Thu, 14 Mar 2024 16:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>No honor among ransomware criminals</title>
+      <link>https://expel.com/blog/no-honor-among-ransomware-criminals/</link>
+      <description>Take steps to assess your org’s security now, so you can protect yourself from ransomware gangs like BlackCat.</description>
+      <guid isPermaLink="false">https://expel.com/blog/no-honor-among-ransomware-criminals/</guid>
+      <pubDate>Tue, 19 Mar 2024 19:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security alert: XZ Linux utility backdoor</title>
+      <link>https://expel.com/blog/security-alert-xz-linux-utility-backdoor/</link>
+      <description>Researchers identified a backdoor into the XZ Linux utility, via supply chain compromise. Here’s what you need to know.</description>
+      <guid isPermaLink="false">https://expel.com/blog/security-alert-xz-linux-utility-backdoor/</guid>
+      <pubDate>Fri, 29 Mar 2024 21:03:41 +0000</pubDate>
+    </item>
     <item>
       <title>Patch Tuesday roundup for April 2024</title>
       <link>https://expel.com/blog/patch-tuesday-roundup-for-april-2024/</link>
       <description>The April 2024 Patch Tuesday included 150 CVEs from Microsoft and 24 CVEs from Adobe. Here’s what our team recommends to reduce exploit risk.</description>
       <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-april-2024/</guid>
       <pubDate>Tue, 09 Apr 2024 21:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report volume I (Q1 2024): Q1 by the numbers</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-q1-by-the-numbers-2024/</link>
-      <description>Volume I of our Quarterly Threat Report summarizes key findings and stats from Q1 of 2024. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-q1-by-the-numbers-2024/</guid>
-      <pubDate>Mon, 15 Apr 2024 19:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report volume II (Q1 2024): attackers and AI</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-q1-attackers-and-ai-2024/</link>
-      <description>Next up in our Q1 2024 QTR: check out these examples of attackers using AI to advance their goals. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-q1-attackers-and-ai-2024/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report volume III (Q1 2024): high-risk malware</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-q1-high-risk-malware-2024/</link>
-      <description>Next up in our Q1 2024 QTR series, we examine high-risk malware incidents. Here's what our SOC learned, and how you can remediate.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-q1-high-risk-malware-2024/</guid>
-      <pubDate>Wed, 17 Apr 2024 16:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel returns to RSA Conference and embraces “The Art of Possible”</title>
-      <link>https://expel.com/blog/expel-returns-to-rsa-conference-and-embraces-the-art-of-possible/</link>
-      <description>Expel is back exhibiting at RSAC 2024, and we’re sharing the outcomes we enable that provide peace of mind and even help make PTO possible.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-returns-to-rsa-conference-and-embraces-the-art-of-possible/</guid>
-      <pubDate>Thu, 02 May 2024 13:00:34 +0000</pubDate>
     </item>
     <item>
       <title>RSA Conference 2024: Community unlocks possibility</title>
@@ -79,20 +86,6 @@
       <pubDate>Fri, 19 Jul 2024 15:58:07 +0000</pubDate>
     </item>
     <item>
-      <title>Expel Quarterly Threat Report Q2 2024 volume I: Q2 by the numbers</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q2-by-the-numbers/</link>
-      <description>Volume I of our Quarterly Threat Report summarizes key findings and stats from Q2 of 2024. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-i-q2-by-the-numbers/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:12:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report Q2 2024 volume IV: Phishing trends</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iv-phishing-trends/</link>
-      <description>PhaaS platforms make phishing easy. In this volume in our series, we share what these are, how they work, and how they can be counteracted.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iv-phishing-trends/</guid>
-      <pubDate>Thu, 25 Jul 2024 15:05:26 +0000</pubDate>
-    </item>
-    <item>
       <title>The serious impact of burnout—it’s more than a buzzword</title>
       <link>https://expel.com/blog/burnout-its-more-than-a-buzzword/</link>
       <description>Expel’s Chief People Officer, Amy Rossi, shares how to identify and address burnout in your team as it continues to run rampant in cybersecurity.</description>
@@ -107,13 +100,6 @@
       <pubDate>Thu, 15 Aug 2024 13:39:50 +0000</pubDate>
     </item>
     <item>
-      <title>Expel and Wiz join forces: a game-changer for cloud security</title>
-      <link>https://expel.com/blog/expel-and-wiz-join-forces-a-game-changer-for-cloud-security/</link>
-      <description>Expel and Wiz announce a new partnership to provide comprehensive, round-the-clock cloud security that's powerful and user-friendly.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-and-wiz-join-forces-a-game-changer-for-cloud-security/</guid>
-      <pubDate>Tue, 27 Aug 2024 13:13:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Patch Tuesday roundup for September 2024</title>
       <link>https://expel.com/blog/patch-tuesday-roundup-for-september-2024/</link>
       <description>The September 2024 edition of Patch Tuesday is live, including 79 published CVEs from Microsoft. Here are our top four takeaways.</description>
@@ -126,20 +112,6 @@
       <description>The October 2024 edition of Patch Tuesday is live, including 117 published CVEs from Microsoft. Here are our top takeaways.</description>
       <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-october-2024/</guid>
       <pubDate>Wed, 09 Oct 2024 20:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report, volume I: Q3 2024 by the numbers</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</link>
-      <description>Volume I of our Quarterly Threat Report summarizes key findings and stats from Q3 of 2024. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-i-q3-by-the-numbers/</guid>
-      <pubDate>Thu, 17 Oct 2024 13:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expel Quarterly Threat Report Q3 2024, volume III: Malware trends</title>
-      <link>https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</link>
-      <description>Volume III of our Q3 2024 Quarterly Threat Report focuses on malware trends. Learn what to focus on right now.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-quarterly-threat-report-volume-iii-malware-trends/</guid>
-      <pubDate>Mon, 21 Oct 2024 13:33:50 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for November 2024</title>
@@ -275,13 +247,6 @@
       <pubDate>Fri, 28 Feb 2025 17:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>Expel MDR customers benefit from expanded threat intel experience</title>
-      <link>https://expel.com/blog/expel-mdr-customers-benefit-from-expanded-threat-intel-experience/</link>
-      <description>Threat Bulletins are now available in Expel Workbench™, including details on any threat hunting completed to resolve the issue.</description>
-      <guid isPermaLink="false">https://expel.com/blog/expel-mdr-customers-benefit-from-expanded-threat-intel-experience/</guid>
-      <pubDate>Tue, 04 Mar 2025 16:18:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Patch Tuesday (Expel's version): March 2025</title>
       <link>https://expel.com/blog/patch-tuesday-expels-version-march-2025/</link>
       <description>The March 2025 edition of Patch Tuesday is live, and this month we included ColdFusion vulnerability data Expel has seen recently.</description>
@@ -357,6 +322,41 @@
       <description>Expel expands its SIEM coverage by launching advanced support for Palo Alto Networks Cortex® XSIAM. Welcome XSIAM users!</description>
       <guid isPermaLink="false">https://expel.com/blog/more-siem-flexibility-expel-mdr-adds-support-for-xsiam/</guid>
       <pubDate>Wed, 04 Jun 2025 13:38:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 questions to ask when your security vendor gets acquired</title>
+      <link>https://expel.com/blog/5-questions-to-ask-when-your-security-vendor-gets-acquired/</link>
+      <description>Whether your MDR provider is going through a merger or acquisition, here are five questions you'll want to ask your new point of contact.</description>
+      <guid isPermaLink="false">https://expel.com/blog/5-questions-to-ask-when-your-security-vendor-gets-acquired/</guid>
+      <pubDate>Mon, 09 Jun 2025 13:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Staying secure through M&amp;A: A conversation with Visa</title>
+      <link>https://expel.com/blog/staying-secure-through-ma-a-conversation-with-visa/</link>
+      <description>Get tips from experts at Visa and Expel to keep your org safe and secure through mergers and acquisitions (M&amp;A).</description>
+      <guid isPermaLink="false">https://expel.com/blog/staying-secure-through-ma-a-conversation-with-visa/</guid>
+      <pubDate>Fri, 13 Jun 2025 13:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Expletive: Hafsah Mijinyawa, Senior Motion Designer</title>
+      <link>https://expel.com/blog/meet-the-expletive-hafsah-mijinyawa-senior-motion-designer/</link>
+      <description>Meet Hafsah Mijinyawa, Senior Motion Designer at Expel. Hafsah is a seasoned storyteller who shares her art through visuals.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-hafsah-mijinyawa-senior-motion-designer/</guid>
+      <pubDate>Tue, 17 Jun 2025 15:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key takeaways from AWS re:Inforce 2025</title>
+      <link>https://expel.com/blog/key-takeaways-from-aws-reinforce-2025/</link>
+      <description>Expel recently attended the 2025 AWS re:Inforce conference, where our CEO David Merkel spoke at AWS Security Live. Here's what we learned.</description>
+      <guid isPermaLink="false">https://expel.com/blog/key-takeaways-from-aws-reinforce-2025/</guid>
+      <pubDate>Wed, 25 Jun 2025 17:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud decoded pt. 2: What attackers don’t want you to know</title>
+      <link>https://expel.com/blog/cloud-decoded-part-2-what-attackers-dont-want-you-to-know/</link>
+      <description>This is part two of Expel's blog series on decoding the cloud. It dives in to what attackers don't want you to know.</description>
+      <guid isPermaLink="false">https://expel.com/blog/cloud-decoded-part-2-what-attackers-dont-want-you-to-know/</guid>
+      <pubDate>Fri, 27 Jun 2025 13:40:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
