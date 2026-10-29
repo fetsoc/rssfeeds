@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 22:06:26 +0000</lastBuildDate>
-    <item>
-      <title>Secure by Design, Delivered: A Practitioner’s Playbook for Government Teams | Bridewell</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams</link>
-      <description>This blog distils Secure by Design down into actionable building blocks and provides guidance on how project teams can embed Secure by Design requirements into agile project delivery.</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams</guid>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 03:44:46 +0000</lastBuildDate>
     <item>
       <title>Who Needs to Be PCI DSS Compliant?</title>
       <link>https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</link>
@@ -61,6 +55,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/looking-at-iso-27001-certification-guidance-on-how-to-avoid-the-cowboys</link>
       <description>The negative statements about ISO 27001 tend not to be against it but rather when individuals have had bad exposure to the standard where it is not implemented effectively</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/looking-at-iso-27001-certification-guidance-on-how-to-avoid-the-cowboys</guid>
+    </item>
+    <item>
+      <title>Insider Risk: What the Research Tells Us About Triggers and Timeframes | Bridewell</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/insider-risk-what-the-research-tells-us-about-triggers-and-timeframes</link>
+      <description>In this blog, we'll look at what insider risk is, the evidence on the types of incident, the timeframes in which they occur and the events that tend to trigger them.</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/insider-risk-what-the-research-tells-us-about-triggers-and-timeframes</guid>
     </item>
     <item>
       <title>Bridewell | Integrating Microsoft Security Copilot in a Co-Managed SOC: A Practical Guide</title>
