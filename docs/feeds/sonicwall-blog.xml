@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 12:02:01 +0000</lastBuildDate>
-    <item>
-      <title>SOC Van Pelt: Knowing a Threat Isn't Stopping It</title>
-      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-you-know-the-threat-you-know-how-it-operates-it-still-took-you-down-</link>
-      <description>Lane Kiffin built Ole Miss's roster, coaching staff, and quarterback room. It still beat him. Here's what that says about mistaking familiarity for readiness in security.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-you-know-the-threat-you-know-how-it-operates-it-still-took-you-down-</guid>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 22:17:03 +0000</lastBuildDate>
     <item>
       <title>VioletRAT v6.5: From .NET Loader to In-Memory RAT — A Deep Dive into the Infection Chain</title>
       <link>https://www.sonicwall.com/blog/violetrat-v6-5-from-net-loader-to-in-memory-rat-a-deep-dive-into-the-infection-chain</link>
@@ -208,6 +202,12 @@
       <link>https://www.sonicwall.com/blog/php2shell-rce-is-proven-on-php-8-5-11</link>
       <description>Critical CVSS 9.2 memory-safety flaws in PHP core (PHP2Shell) let unauthenticated attackers execute code over HTTP. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/php2shell-rce-is-proven-on-php-8-5-11</guid>
+    </item>
+    <item>
+      <title>Plex2Shell: Plex Media Server SSRF to RCE - CVE-2026-96652</title>
+      <link>https://www.sonicwall.com/blog/plex2shell-plex-media-server-exploit-chain-ssrf-to-arbitrary-code-execution</link>
+      <description>Critical CVSS 9.8 Plex2Shell chain turns unauthenticated SSRF in Plex Media Server into arbitrary code execution. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/plex2shell-plex-media-server-exploit-chain-ssrf-to-arbitrary-code-execution</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
