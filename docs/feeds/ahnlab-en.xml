@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 17:34:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:52:06 +0000</lastBuildDate>
     <item>
       <title>Q3 2026 Vulnerability Trend Report</title>
       <link>https://asec.ahnlab.com/en/95741/</link>
@@ -58,6 +58,13 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>September 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95764/</link>
+      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Security Issues in the Korean &amp; Global Financial Sector in September 2026</title>
       <link>https://asec.ahnlab.com/en/96155/</link>
       <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (attacks that trick users into revealing information) had the highest rate at 2.1, Up from 1.8 The previous month. In Attack Stage 2, “Dropper/Downloader” (a type that downloads additional malware) was the most common at 1.1, Though this was a decrease from [&amp;#8230;]</description>
@@ -86,11 +93,18 @@
       <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>September 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95764/</link>
-      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+      <title>An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies</title>
+      <link>https://asec.ahnlab.com/en/95879/</link>
+      <description>Overview. This report summarizes cases in which Suo5 (an HTTP/HTTPS-based tunneling tool) was exploited for pivoting—a technique used to expand the scope of an attack to other systems or networks by passing through a system that has already been compromised—by using compromised web servers as relay points to access internal networks for lateral movement. It [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95879/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</title>
+      <link>https://asec.ahnlab.com/en/95845/</link>
+      <description>Overview AI is being used for various tasks that were previously performed manually, such as research, document writing, and code analysis. A 2026 corporate survey also showed that the scope of AI adoption among organizations had expanded compared to the previous year. Recently, there has been a trend toward automating a significant portion of work [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95845/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email</title>
@@ -104,20 +118,6 @@
       <link>https://asec.ahnlab.com/en/95823/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 3, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; n0n Ransomware Attacks on 12 South Korean Port and Logistics Companies Cyberattack Targets Refrigeration Systems at Major French Supermarket Chains Payment and Transaction Data Leak Claimed at a Saudi Fintech Company</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95823/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies</title>
-      <link>https://asec.ahnlab.com/en/95879/</link>
-      <description>Overview. This report summarizes cases in which Suo5 (an HTTP/HTTPS-based tunneling tool) was exploited for pivoting—a technique used to expand the scope of an attack to other systems or networks by passing through a system that has already been compromised—by using compromised web servers as relay points to access internal networks for lateral movement. It [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95879/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</title>
-      <link>https://asec.ahnlab.com/en/95845/</link>
-      <description>Overview AI is being used for various tasks that were previously performed manually, such as research, document writing, and code analysis. A 2026 corporate survey also showed that the scope of AI adoption among organizations had expanded compared to the previous year. Recently, there has been a trend toward automating a significant portion of work [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95845/</guid>
       <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -184,6 +184,13 @@
       <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Weak Link Identified by AI: October 2026, When the Outer Contact Point Collapsed</title>
+      <link>https://asec.ahnlab.com/en/96188/</link>
+      <description>Security Blind Spots Identified by AI The large-scale data breaches disclosed in quick succession in South Korea and Japan in October 2026 mostly originated not from internal core systems, but from peripheral entry points such as externally exposed web services, app backend APIs, and outsourced SaaS (services provided by third-party vendors via the cloud, such [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96188/</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/96183/</link>
       <description>Content This Infostealer Trend Report summarizes the distribution channels, number of malware samples, number of detections, and information on companies targeted by new Infostealers (malware designed to steal information) collected during the month of September 2026. The data was compiled based on detection logs from AhnLab SEcurity intelligence Center (ASEC) and AhnLab products, and includes [&amp;#8230;]</description>
@@ -195,13 +202,6 @@
       <link>https://asec.ahnlab.com/en/96180/</link>
       <description>ASEC Blog를 통해 한 주간의 &amp;#8216;Ransom &amp;#38; Dark Web Issues&amp;#8217; &amp;#8211; 2026년 10월 5주차를 게시한다. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; n0n Data Extortion Attack on a South Korean IT Services and Systems Integration Company Access to a South Korean Steel Pipe Manufacturer’s Production System Reported The Gentlemen Ransomware Attack on Vietnam’s National Airline</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96180/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Weak Link Identified by AI: October 2026, When the Outer Contact Point Collapsed</title>
-      <link>https://asec.ahnlab.com/en/96188/</link>
-      <description>Security Blind Spots Identified by AI The large-scale data breaches disclosed in quick succession in South Korea and Japan in October 2026 mostly originated not from internal core systems, but from peripheral entry points such as externally exposed web services, app backend APIs, and outsourced SaaS (services provided by third-party vendors via the cloud, such [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/96188/</guid>
       <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
