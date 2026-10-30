@@ -7,18 +7,18 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 03:49:42 +0000</lastBuildDate>
-    <item>
-      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
-      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 11:56:52 +0000</lastBuildDate>
     <item>
       <title>Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower</title>
       <link>https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</link>
       <description>&lt;p&gt;Recent incident response investigations reveal how AI-assisted attackers are chaining web application vulnerabilities, credential theft, privilege escalation, and lateral movement into autonomous intrusion workflows.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,6 +43,12 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Never Bring a Knife to a Gun Fight!</title>
       <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
       <description>&lt;p&gt;Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can improve forensic investigations, regulatory preparedness, communications, recovery, and overall cyber resilience.&lt;/p&gt;</description>
@@ -50,23 +56,17 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <title>AI used in Aur0ra ransomware testing and execution</title>
+      <link>https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</link>
+      <description>&lt;p&gt;The GOLD OGRE threat group has used AI extensively to develop tools and to orchestrate and execute ransomware operations&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Physical Penetration Testing: When Human Trust Bypasses Layers of Security with a Simple Pretext</title>
       <link>https://www.sophos.com/en-us/blog/physical-penetration-testing-when-human-trust-bypasses-layers-of-security-with-a-simple-pretext</link>
       <description>&lt;p&gt;A physical penetration test reveals how social engineering, badge security gaps, exposed network access, and everyday human behavior can undermine layers of physical security.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/physical-penetration-testing-when-human-trust-bypasses-layers-of-security-with-a-simple-pretext</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI used in Aur0ra ransomware testing and execution</title>
-      <link>https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</link>
-      <description>&lt;p&gt;The GOLD OGRE threat group has used AI extensively to develop tools and to orchestrate and execute ransomware operations&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

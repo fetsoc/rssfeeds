@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 03:48:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:55:21 +0000</lastBuildDate>
     <item>
       <title>brand protection monitoring</title>
       <link>https://www.netcraft.com/blog/brand-protection-monitoring</link>
