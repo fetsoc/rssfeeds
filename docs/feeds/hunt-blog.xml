@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 11:54:50 +0000</lastBuildDate>
-    <item>
-      <title>Inside DPRK Operations: New Lazarus and Kimsuky Infrastructure Uncovered Across Global Campaigns</title>
-      <link>https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</link>
-      <description>Deep investigation into DPRK activity, revealing new Lazarus and Kimsuky infrastructure through multi-stage hunts and exposed operational patterns.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</guid>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 17:31:11 +0000</lastBuildDate>
     <item>
       <title>Announcing Hunt 2.8: Sharper IOC Hunter Workflows, Smarter Provider Visibility, and Easier C2 Filtering</title>
       <link>https://hunt.io/blog/announcing-hunt-2-8</link>
@@ -357,6 +350,13 @@
       <description>An exposed staging server at UpCloud revealed a completed 68 GB copy of 27 Philippine overseas-employment database backups, a rebranded GodPotato privilege escalation tool, and the operator's own transfer logs.</description>
       <guid isPermaLink="false">https://hunt.io/blog/philippine-government-employment-agency-records-stolen</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls</title>
+      <link>https://hunt.io/blog/php2shell-honeypot-shells-root-palo-alto-firewalls</link>
+      <description>One week after php2shell was patched, it stalls on the open web but reliably roots internet-facing Palo Alto PAN-OS firewalls. Inside the operators and the evidence.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/php2shell-honeypot-shells-root-palo-alto-firewalls</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
