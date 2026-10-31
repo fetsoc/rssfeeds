@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 21:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:30:32 +0000</lastBuildDate>
+    <item>
+      <title>Q3 2026 Attack Techniques Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95733/</link>
+      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Q3 2026 Vulnerability Trend Report</title>
       <link>https://asec.ahnlab.com/en/95741/</link>
@@ -20,13 +27,6 @@
       <link>https://asec.ahnlab.com/en/95738/</link>
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, October 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; International Operation Seizes KillSec Ransomware Infrastructure and Arrests Three Suspects Customer Data of a South Korean Health and Beauty Retailer Offered for Sale Saudi Intelligence Agency Personnel and Organizational Data Allegedly Leaked</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95738/</guid>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Q3 2026 Attack Techniques Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95733/</link>
-      <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -58,13 +58,6 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>September 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95764/</link>
-      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Security Issues in the Korean &amp; Global Financial Sector in September 2026</title>
       <link>https://asec.ahnlab.com/en/96155/</link>
       <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (attacks that trick users into revealing information) had the highest rate at 2.1, Up from 1.8 The previous month. In Attack Stage 2, “Dropper/Downloader” (a type that downloads additional malware) was the most common at 1.1, Though this was a decrease from [&amp;#8230;]</description>
@@ -90,6 +83,13 @@
       <link>https://asec.ahnlab.com/en/95769/</link>
       <description>Note The September 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. However, the report notes that due to the nature of the sources, it may be difficult to fully verify the accuracy of some information. Major Issues The official launch of a new dark web [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95769/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95764/</link>
+      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
       <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

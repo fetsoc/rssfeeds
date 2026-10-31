@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 21:50:56 +0000</lastBuildDate>
-    <item>
-      <title>VioletRAT v6.5: From .NET Loader to In-Memory RAT — A Deep Dive into the Infection Chain</title>
-      <link>https://www.sonicwall.com/blog/violetrat-v6-5-from-net-loader-to-in-memory-rat-a-deep-dive-into-the-infection-chain</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/violetrat-v6-5-from-net-loader-to-in-memory-rat-a-deep-dive-into-the-infection-chain</guid>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 03:29:27 +0000</lastBuildDate>
     <item>
       <title>SmokeLoader Malware: A Modular Threat with Advanced Evasion and Persistence</title>
       <link>https://www.sonicwall.com/blog/smokeloader-malware-a-modular-threat-with-advanced-evasion-and-persistence</link>
@@ -208,6 +203,12 @@
       <link>https://www.sonicwall.com/blog/plex2shell-plex-media-server-exploit-chain-ssrf-to-arbitrary-code-execution</link>
       <description>Critical CVSS 9.8 Plex2Shell chain turns unauthenticated SSRF in Plex Media Server into arbitrary code execution. SonicWall IPS signatures available.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/plex2shell-plex-media-server-exploit-chain-ssrf-to-arbitrary-code-execution</guid>
+    </item>
+    <item>
+      <title>Node2Shell: Node.js Brotli OOB Write RCE - CVE-2026-111497</title>
+      <link>https://www.sonicwall.com/blog/node2shell-node-js-brotli-decoder-out-of-bounds-write-remote-code-execution</link>
+      <description>Critical CVSS 9.8 out-of-bounds write in the Node.js Brotli decoder enables unauthenticated RCE. Actively exploited; SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/node2shell-node-js-brotli-decoder-out-of-bounds-write-remote-code-execution</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
