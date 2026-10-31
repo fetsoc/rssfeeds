@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 11:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:38:10 +0000</lastBuildDate>
     <item>
       <title>Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)</title>
       <link>https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619</link>
@@ -36,16 +36,16 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Never Bring a Knife to a Gun Fight!</title>
       <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
       <description>&lt;p&gt;Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can improve forensic investigations, regulatory preparedness, communications, recovery, and overall cyber resilience.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
