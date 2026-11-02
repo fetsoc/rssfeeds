@@ -7,18 +7,60 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 03:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:21:44 +0000</lastBuildDate>
+    <item>
+      <title>Harden Email Gateway Configurations with BAS</title>
+      <link>https://cymulate.com/blog/email-gateway-configurations-bas/</link>
+      <description>Here's how to improve your current email gateway configurations with an email security assessment to prevent a full-blown breach.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/email-gateway-configurations-bas/</guid>
+    </item>
+    <item>
+      <title>The Principle of Security Validation</title>
+      <link>https://cymulate.com/blog/the-principle-of-security-validation/</link>
+      <description>Improve your organization's resilience against cyber threats through security validation, identifying weaknesses, and addressing IT vulnerabilities.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/the-principle-of-security-validation/</guid>
+    </item>
+    <item>
+      <title>The Most Malicious Threat Actors Using Email</title>
+      <link>https://cymulate.com/blog/malicious-threat-actors-using-email/</link>
+      <description>In this blog, we will review the breakdown and the average penetration ratio per category of threats. Learn more about email vector attacks.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/malicious-threat-actors-using-email/</guid>
+    </item>
+    <item>
+      <title>Ransomware’s Tipping Point for the US Government and Private Sector</title>
+      <link>https://cymulate.com/blog/ransomwares-tipping-point/</link>
+      <description>The White House enacted the Executive Order to Improve the Nation’s Cybersecurity and Protect Federal Government Networks.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/ransomwares-tipping-point/</guid>
+    </item>
+    <item>
+      <title>Validate Security Controls Against AWS S3 Malicious Payloads</title>
+      <link>https://cymulate.com/blog/security-best-practices-aws-s3/</link>
+      <description>S3 buckets are often targeted by threat actors due to their widespread use and potential for misconfiguration</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/security-best-practices-aws-s3/</guid>
+    </item>
+    <item>
+      <title>How to Test for Compliance</title>
+      <link>https://cymulate.com/blog/how-to-test-for-compliance/</link>
+      <description>Learn more about some of the major and upcoming cyber security compliance and regulations requirements out there today.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/how-to-test-for-compliance/</guid>
+    </item>
+    <item>
+      <title>How to Measure and Strengthen Your Cybersecurity Program</title>
+      <link>https://cymulate.com/blog/what-goes-around-comes-around-how-to-protect-yourself-against-evolving-threats/</link>
+      <description>Based on the latest research, old vulnerabilities are still posing threats. Proactive remediation is the best course of action. Read more.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/what-goes-around-comes-around-how-to-protect-yourself-against-evolving-threats/</guid>
+    </item>
+    <item>
+      <title>How Continuous Security Validation Improves Collaboration</title>
+      <link>https://cymulate.com/blog/continuous-security-validation-improves-collaboration-2/</link>
+      <description>This blog shares how Continuous Security Validation technology can help improve and build collaborative relationships within risk management.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/continuous-security-validation-improves-collaboration-2/</guid>
+    </item>
     <item>
       <title>What Is eBPF? How It Works and How Hackers Use It</title>
       <link>https://cymulate.com/blog/ebpf_hacking/</link>
       <description>Get an in-depth look at eBPF, the Linux technology that's empowering hackers with unprecedented capabilities. Understand what eBPF is and how it impacts cyber security</description>
       <guid isPermaLink="false">https://cymulate.com/blog/ebpf_hacking/</guid>
-    </item>
-    <item>
-      <title>Remote Working and Cybersecurity Risk</title>
-      <link>https://cymulate.com/blog/cyber-risk-remote-work/</link>
-      <description>Remote work has a great number of benefits, but also comes with significant cybersecurity issues that should be addressed.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyber-risk-remote-work/</guid>
     </item>
     <item>
       <title>How Cymulate Assists With ISO 27001 Certification and Compliance</title>
@@ -93,12 +135,6 @@
       <guid isPermaLink="false">https://cymulate.com/blog/january-2022-cyberattack-wrapup/</guid>
     </item>
     <item>
-      <title>Cymulate’s March 2021 Cyberattacks Wrap-up</title>
-      <link>https://cymulate.com/blog/march-cyberattack-wrapup/</link>
-      <description>What were the important cyberattacks last month? Here is a summary of cybercriminal activity in March 2021.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/march-cyberattack-wrapup/</guid>
-    </item>
-    <item>
       <title>Cybercrooks are Laughing All the Way from the Bank - Cymulate</title>
       <link>https://cymulate.com/blog/cybercriminals-are-laughing-from-bank/</link>
       <description>American financial institutions are victimized at a staggering 1 billion times per year. Recovering from an attack is costly, with the latest estimations calculating the price of $18 million USD each institution. These institutions can validate their cybersecurity posture themselves with Cymulate.</description>
@@ -109,12 +145,6 @@
       <link>https://cymulate.com/blog/cymulate_blog-when-ransomware-kills/</link>
       <description>A ransomware attack on a German hospital forced ER closures, delaying critical care and tragically causing a patient’s death.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/cymulate_blog-when-ransomware-kills/</guid>
-    </item>
-    <item>
-      <title>Massive Data Hack Becomes Personal for German Politicians</title>
-      <link>https://cymulate.com/blog/massive-data-hack-german-politicians/</link>
-      <description>A major data breach was carried out against German politicians by a 20-year old man using the pseudonyms “G0t” and “Orbit”. His reasons? Anger at politicians.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/massive-data-hack-german-politicians/</guid>
     </item>
     <item>
       <title>What Do I Need to Know About the SolarWinds Attack?</title>
@@ -133,12 +163,6 @@
       <link>https://cymulate.com/blog/lapsus-okta-microsoft-and-rdp-attacks/</link>
       <description>Get up to speed on the alarming reach of the Lapsus$ threat actor group as they gained access to the sensitive data of multiple enterprises.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/lapsus-okta-microsoft-and-rdp-attacks/</guid>
-    </item>
-    <item>
-      <title>How Continuous Security Validation Improves Collaboration</title>
-      <link>https://cymulate.com/blog/continuous-security-validation-improves-collaboration/</link>
-      <description>This blog shares how Continuous Security Validation technology can help improve and build collaborative relationships within risk management.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/continuous-security-validation-improves-collaboration/</guid>
     </item>
     <item>
       <title>How to Leverage Log4j to Expose vCenter Attack Paths - Part 1</title>
@@ -177,28 +201,10 @@
       <guid isPermaLink="false">https://cymulate.com/blog/pci-compliance-cymulate-powerful-combination-keep-payment-data-safe/</guid>
     </item>
     <item>
-      <title>Iran’s Growing Role in Cyber warfare</title>
-      <link>https://cymulate.com/blog/irans-growing-role-in-cyber-warfare/</link>
-      <description>Regardless of where you work, you are either aware of Iranian involvement in cyber warfare or have experienced it firsthand.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/irans-growing-role-in-cyber-warfare/</guid>
-    </item>
-    <item>
-      <title>Are You Ready for the Next Cyber-Attack? - Cymulate</title>
-      <link>https://cymulate.com/blog/are-you-ready-for-the-next-cyber-attack/</link>
-      <description>To prepare for cyber attacks, organizations need to think and act like real threat actors, using a wide range of malware tools and attack techniques</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/are-you-ready-for-the-next-cyber-attack/</guid>
-    </item>
-    <item>
       <title>Simulating Cyber Attacks vs. Cyber Attack Techniques Methods</title>
       <link>https://cymulate.com/blog/cyber-attack-simulations/</link>
       <description>Should you simulate specific cyberattacks or run simulations based on cyberattack methods? Which method is best for your organization?</description>
       <guid isPermaLink="false">https://cymulate.com/blog/cyber-attack-simulations/</guid>
-    </item>
-    <item>
-      <title>Security Must Adapt to Continuous Change</title>
-      <link>https://cymulate.com/blog/security-changes-require-adaptation/</link>
-      <description>Technology and security professionals must overcome collective inertia and adapt to security's continuously changing demands.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/security-changes-require-adaptation/</guid>
     </item>
     <item>
       <title>Cyber 101: When Ransomware Kills</title>
@@ -217,13 +223,6 @@
       <link>https://cymulate.com/blog/is-your-organization-gdpr-ready/</link>
       <description>GDPR is the brainchild of ENISA to stem the increasing number of reported data breaches, especially those relating to online systems and services</description>
       <guid isPermaLink="false">https://cymulate.com/blog/is-your-organization-gdpr-ready/</guid>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GDPR Privacy Anyone? - Cymulate XSPM</title>
-      <link>https://cymulate.com/blog/privacy-anyone/</link>
-      <description>Authorities take GDPR privacy very seriously., leading to a £120,000 fine over a data breach that exposed 20,000 staff and students</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/privacy-anyone/</guid>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
     </item>
     <item>

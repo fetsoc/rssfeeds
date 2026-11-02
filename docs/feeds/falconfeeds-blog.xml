@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 03:42:40 +0000</lastBuildDate>
-    <item>
-      <title>Manufacturing Under Siege: Ransomware Convergence on Industrial Targets</title>
-      <link>https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</link>
-      <description>Explore the 20 April 2026 ransomware surge where INC RANSOM, CoinbaseCartel, CHAOS, and The Gentlemen targeted global manufacturing, exposing risks to industrial and supply-chain organizations.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/manufacturing-ransomware-surge-april-2026-industrial-targets-analysis</guid>
-      <pubDate>Thu, 30 Apr 2026 07:35:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>HexagonalRodent: DPRK AI-Powered Crypto Theft Campaign Using LinkedIn Lures to Target Web3 Develop</title>
-      <link>https://falconfeeds.io/blogs/hexagonalrodent-dprk-ai-crypto-theft-linkedin-malware-web3-targeting</link>
-      <description>Explore how HexagonalRodent used AI-powered LinkedIn phishing and malware to steal $12M from Web3 developers, revealing new tactics in DPRK crypto theft operations.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/hexagonalrodent-dprk-ai-crypto-theft-linkedin-malware-web3-targeting</guid>
-      <pubDate>Thu, 30 Apr 2026 09:01:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 14:23:24 +0000</lastBuildDate>
     <item>
       <title>Vidar &amp; StrelaStealer IOC Alert: Fresh Infrastructure Signals Active Credential Theft Campaigns</title>
       <link>https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</link>
@@ -357,6 +343,20 @@
       <description>Explore Scattered LAPSUS$ Hunters (SLH), its cyberattacks, social engineering tactics, cloud breaches, ransomware activity, and cybercrime alliances.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/scattered-lapsus-hunters-slh-cyberattacks-tactics-threat-actor-profile</guid>
       <pubDate>Wed, 28 Oct 2026 06:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP Vulnerabilities in 2026: From Historical Exploits to Emerging Threats and Real-World Business Impact</title>
+      <link>https://falconfeeds.io/blogs/php-vulnerabilities-2026-historical-exploits-business-impact</link>
+      <description>Explore PHP vulnerabilities in 2026, including PHP2Shell, historical CVEs, real-world exploitation, business impact, and essential mitigation strategies.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/php-vulnerabilities-2026-historical-exploits-business-impact</guid>
+      <pubDate>Mon, 02 Nov 2026 07:13:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Binance Hack 2026: Inside the $6.3 Billion Crypto Heist, Historical Security Breaches, and the Future of Exchange Security</title>
+      <link>https://falconfeeds.io/blogs/binance-hack-2026-crypto-theft-history-analysis</link>
+      <description>Explore the $6.3 billion Binance hack of 2026, suspected attack methods, North Korean links, previous Binance breaches, stolen funds, and security lessons.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/binance-hack-2026-crypto-theft-history-analysis</guid>
+      <pubDate>Mon, 02 Nov 2026 08:15:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

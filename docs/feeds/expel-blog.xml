@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 03:41:42 +0000</lastBuildDate>
-    <item>
-      <title>Why is NIST adding Governance to the NIST CSF 2.0?</title>
-      <link>https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</link>
-      <description>As the security industry waits for NIST CSF 2.0 to publish, we shed some light on the question of what's changing and share what we know.</description>
-      <guid isPermaLink="false">https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:57:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 14:21:50 +0000</lastBuildDate>
     <item>
       <title>Security alert: ConnectWise ScreenConnect 23.9.8 security fix</title>
       <link>https://expel.com/blog/security-alert-connectwise-screenconnect-23-9-8-security-fix/</link>
@@ -86,6 +79,13 @@
       <pubDate>Fri, 19 Jul 2024 15:58:07 +0000</pubDate>
     </item>
     <item>
+      <title>Black Hat 2024: Expel’s betting on black(hat)</title>
+      <link>https://expel.com/blog/black-hat-2024-expels-betting-on-blackhat/</link>
+      <description>Find Expel at Black Hat 2024, booth #3009 at the Mandalay Bay Convention Center to beat the heat (from burnout and that toasty Vegas weather).</description>
+      <guid isPermaLink="false">https://expel.com/blog/black-hat-2024-expels-betting-on-blackhat/</guid>
+      <pubDate>Thu, 01 Aug 2024 13:51:12 +0000</pubDate>
+    </item>
+    <item>
       <title>The serious impact of burnout—it’s more than a buzzword</title>
       <link>https://expel.com/blog/burnout-its-more-than-a-buzzword/</link>
       <description>Expel’s Chief People Officer, Amy Rossi, shares how to identify and address burnout in your team as it continues to run rampant in cybersecurity.</description>
@@ -140,13 +140,6 @@
       <description>Palto Alto Networks (PAN) has a critical vulnerability that needs to be patched immediately to prevent access to networks via the firewall management interface.</description>
       <guid isPermaLink="false">https://expel.com/blog/security-alert-palo-alto-networks-firewall-vulnerability/</guid>
       <pubDate>Mon, 18 Nov 2024 17:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>A recap of our conversation on combatting security team burnout</title>
-      <link>https://expel.com/blog/a-recap-of-our-conversation-on-combatting-security-team-burnout/</link>
-      <description>This on-demand webinar discusses burnout in cybersecurity, its downstream impact, and strategies you can use to combat it.</description>
-      <guid isPermaLink="false">https://expel.com/blog/a-recap-of-our-conversation-on-combatting-security-team-burnout/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:58:39 +0000</pubDate>
     </item>
     <item>
       <title>Part I: Fundamentals of Kubernetes security</title>
@@ -224,13 +217,6 @@
       <description>The February 2025 edition of Patch Tuesday is live, including 63 published CVEs from Microsoft. Here are our top takeaways.</description>
       <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-february-2025/</guid>
       <pubDate>Wed, 12 Feb 2025 18:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Valentine’s Day guide to protecting your digital heart</title>
-      <link>https://expel.com/blog/a-valentines-day-guide-to-protecting-your-digital-heart/</link>
-      <description>Happy Valentine's Day! Love is in the air, and unfortunately, so is cyber crime. Stay safe with these cybersecurity tips from Expel.</description>
-      <guid isPermaLink="false">https://expel.com/blog/a-valentines-day-guide-to-protecting-your-digital-heart/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:08:58 +0000</pubDate>
     </item>
     <item>
       <title>Meet the Expletive: Alex Glass, VP, Global Channel Sales &amp; Alliances</title>
@@ -317,6 +303,13 @@
       <pubDate>Tue, 22 Apr 2025 13:22:46 +0000</pubDate>
     </item>
     <item>
+      <title>Meet the Expletive: Brooke McClary, Senior Communications Manager</title>
+      <link>https://expel.com/blog/meet-the-expletive-brooke-mcclary-senior-communications-manager/</link>
+      <description>Meet Brooke McClary, Senior Communications Manager at Expel. Brooke was recently named ‌a Rising Star Woman in PR by PRNEWS.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-brooke-mcclary-senior-communications-manager/</guid>
+      <pubDate>Wed, 21 May 2025 13:53:38 +0000</pubDate>
+    </item>
+    <item>
       <title>More SIEM flexibility: Expel MDR adds support for XSIAM</title>
       <link>https://expel.com/blog/more-siem-flexibility-expel-mdr-adds-support-for-xsiam/</link>
       <description>Expel expands its SIEM coverage by launching advanced support for Palo Alto Networks Cortex® XSIAM. Welcome XSIAM users!</description>
@@ -357,6 +350,13 @@
       <description>This is part two of Expel's blog series on decoding the cloud. It dives in to what attackers don't want you to know.</description>
       <guid isPermaLink="false">https://expel.com/blog/cloud-decoded-part-2-what-attackers-dont-want-you-to-know/</guid>
       <pubDate>Fri, 27 Jun 2025 13:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>A recap on how Expel celebrated Pride Month 2025</title>
+      <link>https://expel.com/blog/a-recap-on-how-expel-celebrated-pride-month-2025/</link>
+      <description>Here's a look back on how Expel celebrated Pride Month, including creators you can follow to keep supporting the community.</description>
+      <guid isPermaLink="false">https://expel.com/blog/a-recap-on-how-expel-celebrated-pride-month-2025/</guid>
+      <pubDate>Tue, 01 Jul 2025 16:24:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
