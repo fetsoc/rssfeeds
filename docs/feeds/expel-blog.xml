@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 21:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:41:42 +0000</lastBuildDate>
     <item>
       <title>Why is NIST adding Governance to the NIST CSF 2.0?</title>
       <link>https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</link>
@@ -324,13 +324,6 @@
       <pubDate>Wed, 04 Jun 2025 13:38:40 +0000</pubDate>
     </item>
     <item>
-      <title>5 questions to ask when your security vendor gets acquired</title>
-      <link>https://expel.com/blog/5-questions-to-ask-when-your-security-vendor-gets-acquired/</link>
-      <description>Whether your MDR provider is going through a merger or acquisition, here are five questions you'll want to ask your new point of contact.</description>
-      <guid isPermaLink="false">https://expel.com/blog/5-questions-to-ask-when-your-security-vendor-gets-acquired/</guid>
-      <pubDate>Mon, 09 Jun 2025 13:41:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Staying secure through M&amp;A: A conversation with Visa</title>
       <link>https://expel.com/blog/staying-secure-through-ma-a-conversation-with-visa/</link>
       <description>Get tips from experts at Visa and Expel to keep your org safe and secure through mergers and acquisitions (M&amp;A).</description>
@@ -350,6 +343,13 @@
       <description>Expel recently attended the 2025 AWS re:Inforce conference, where our CEO David Merkel spoke at AWS Security Live. Here's what we learned.</description>
       <guid isPermaLink="false">https://expel.com/blog/key-takeaways-from-aws-reinforce-2025/</guid>
       <pubDate>Wed, 25 Jun 2025 17:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>What we're seeing from Iran (and what it means for you)</title>
+      <link>https://expel.com/blog/what-were-seeing-from-iran-and-what-it-means-for-you/</link>
+      <description>Here's Expel's take on what the geopolitical issues between the US, Israel, and Iran look like for the cybersecurity community to date.</description>
+      <guid isPermaLink="false">https://expel.com/blog/what-were-seeing-from-iran-and-what-it-means-for-you/</guid>
+      <pubDate>Thu, 26 Jun 2025 17:15:44 +0000</pubDate>
     </item>
     <item>
       <title>Cloud decoded pt. 2: What attackers don’t want you to know</title>
