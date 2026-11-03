@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 00:18:41 +0000</lastBuildDate>
-    <item>
-      <title>Vidar &amp; StrelaStealer IOC Alert: Fresh Infrastructure Signals Active Credential Theft Campaigns</title>
-      <link>https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</link>
-      <description>Discover new IOCs linked to Vidar and StrelaStealer, revealing active infrastructure, phishing distribution, and immediate risks to organizations worldwide.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/vidar-strelastealer-ioc-alert-april-2026-stealer-infrastructure-analysis</guid>
-      <pubDate>Thu, 30 Apr 2026 09:59:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Structural Resilience and the Hydrated Adversary: A Multi-Dimensional Analysis of Threat Actor Migration and Operational Displacement</title>
-      <link>https://falconfeeds.io/blogs/hydrated-adversary-threat-actor-migration-operational-displacement-analysis</link>
-      <description>Explore how cyber threat actors adapt to global crackdowns through migration, infrastructure resilience, and AI-driven operations, highlighting the evolving dynamics of modern cybercrime ecosystems and operational displacement.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/hydrated-adversary-threat-actor-migration-operational-displacement-analysis</guid>
-      <pubDate>Mon, 04 May 2026 05:59:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran-Linked Cyber Escalation: Mapping Retaliatory Threat Actor Campaigns Post-Conflict</title>
-      <link>https://falconfeeds.io/blogs/iran-cyber-escalation-post-conflict-apt-campaigns-analysis</link>
-      <description>Explore how Iran escalated cyber operations after Operation Epic Fury, mapping APT activity, hacktivist campaigns, and attacks on critical infrastructure.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/iran-cyber-escalation-post-conflict-apt-campaigns-analysis</guid>
-      <pubDate>Mon, 04 May 2026 06:07:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Critical Infrastructure at Risk: The Strategic Convergence of Cyber-Physical Threats in the 2026 Landscape</title>
-      <link>https://falconfeeds.io/blogs/critical-infrastructure-cyber-physical-threats-2026-ot-it-convergence</link>
-      <description>Explore rising cyber-physical threats to Critical National Infrastructure as APTs, ransomware groups, and hacktivists target IT/OT environments in 2026.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/critical-infrastructure-cyber-physical-threats-2026-ot-it-convergence</guid>
-      <pubDate>Mon, 04 May 2026 06:16:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 13:22:38 +0000</lastBuildDate>
     <item>
       <title>Inside the LiveDNS Phishing Campaign: How Typosquatted Domains Are Targeting Israeli Users</title>
       <link>https://falconfeeds.io/blogs/livedns-phishing-campaign-typosquatting-israeli-domain-users</link>
@@ -357,6 +329,34 @@
       <description>Explore the $6.3 billion Binance hack of 2026, suspected attack methods, North Korean links, previous Binance breaches, stolen funds, and security lessons.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/binance-hack-2026-crypto-theft-history-analysis</guid>
       <pubDate>Mon, 02 Nov 2026 08:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data Leaks vs. Data Breaches: Key Differences, Cybersecurity Risks, and a Threat Intelligence Breakdown</title>
+      <link>https://falconfeeds.io/blogs/data-leaks-vs-data-breaches-key-differences-and-cybersecurity-risks</link>
+      <description>Data leaks and data breaches expose sensitive business information to cybercriminals. Learn their differences, risks, detection methods, and prevention strategies.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/data-leaks-vs-data-breaches-key-differences-and-cybersecurity-risks</guid>
+      <pubDate>Tue, 03 Nov 2026 05:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is Cybersecurity Compliance Monitoring? The Complete Guide</title>
+      <link>https://falconfeeds.io/blogs/what-is-cybersecurity-compliance-monitoring-the-complete-guide</link>
+      <description>Understand cybersecurity compliance monitoring, key regulations, security frameworks and how continuous monitoring helps businesses identify gaps and reduce cyber risks</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/what-is-cybersecurity-compliance-monitoring-the-complete-guide</guid>
+      <pubDate>Tue, 03 Nov 2026 05:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware Protection in 2026: The Shift From Recovery Plans to Early Detection</title>
+      <link>https://falconfeeds.io/blogs/ransomware-protection-beyond-recovery-plans-to-early-detection</link>
+      <description>Explore ransomware protection strategies for 2026, from detecting compromised credentials and data theft to tracking ransomware groups and emerging cyber threats.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/ransomware-protection-beyond-recovery-plans-to-early-detection</guid>
+      <pubDate>Tue, 03 Nov 2026 06:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stolen Credentials on the Dark Web: A Step-by-Step Fix for Compromised Logins and Session Cookies</title>
+      <link>https://falconfeeds.io/blogs/stolen-credentials-on-dark-web-steps-to-fix-logins-and-cookies</link>
+      <description>Protect your business from stolen credentials on the dark web. Learn how to detect compromised logins, revoke session cookies, and prevent account takeover.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/stolen-credentials-on-dark-web-steps-to-fix-logins-and-cookies</guid>
+      <pubDate>Tue, 03 Nov 2026 06:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

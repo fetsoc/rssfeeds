@@ -7,7 +7,25 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 00:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:20:54 +0000</lastBuildDate>
+    <item>
+      <title>Compromising a Domain With the Help of a Spooler</title>
+      <link>https://cymulate.com/blog/compromising-a-domain/</link>
+      <description>Learn how attackers can leverage unconstrained delegation and the Printer Bug to compromise domain controllers</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/compromising-a-domain/</guid>
+    </item>
+    <item>
+      <title>Phishing Awareness Training: Building Employee Resilience</title>
+      <link>https://cymulate.com/blog/phishing-how-to-get-humans-up-to-speed/</link>
+      <description>Phishing awareness training &amp; testing help employees detect phishing attempts. Learn how to effectively set up phishing prevention programs.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/phishing-how-to-get-humans-up-to-speed/</guid>
+    </item>
+    <item>
+      <title>Lateral Thinking: What is Lateral Movement and how to prevent it?</title>
+      <link>https://cymulate.com/blog/lateral-thinking/</link>
+      <description>How do cybercriminals use lateral movement to their advantage and how can you stay one step ahead of them? Read more in our blog.</description>
+      <guid isPermaLink="false">https://cymulate.com/blog/lateral-thinking/</guid>
+    </item>
     <item>
       <title>Harden Email Gateway Configurations with BAS</title>
       <link>https://cymulate.com/blog/email-gateway-configurations-bas/</link>
@@ -115,18 +133,6 @@
       <link>https://cymulate.com/blog/ctem-cisos-communicating-security/</link>
       <description>Learn how Continuous Threat Exposure Management (CTEM) enables CISOs to communicate risk, visibility, and protection with clarity and confidence</description>
       <guid isPermaLink="false">https://cymulate.com/blog/ctem-cisos-communicating-security/</guid>
-    </item>
-    <item>
-      <title>Cyber Threat Breakdown September 2023</title>
-      <link>https://cymulate.com/blog/cyber-threat-breakdown-september-2023/</link>
-      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in September 2023.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-september-2023/</guid>
-    </item>
-    <item>
-      <title>Cyber Threat Breakdown October 2023</title>
-      <link>https://cymulate.com/blog/cyber-threat-breakdown-october-2023/</link>
-      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in October 2023.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-october-2023/</guid>
     </item>
     <item>
       <title>Cymulate’s January 2022 Cyberattacks Wrap-up</title>
@@ -238,13 +244,6 @@
       <description>Rated a 7.8 high CVSS 3.x severity base score, CVE-2022-30190 takes advantage of the MSDT, an official tool built-in all versions of Windows.</description>
       <guid isPermaLink="false">https://cymulate.com/blog/cve-2022-30190/</guid>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Threat Breakdown June 2023</title>
-      <link>https://cymulate.com/blog/cyber-threat-breakdown-june-2023/</link>
-      <description>What were the most critical cyber threats last month? Here is a summary of cybercriminal activities in July 2023.</description>
-      <guid isPermaLink="false">https://cymulate.com/blog/cyber-threat-breakdown-june-2023/</guid>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What CopyKittens Can Teach Us About Cyber-security</title>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 00:17:03 +0000</lastBuildDate>
-    <item>
-      <title>brand protection monitoring</title>
-      <link>https://www.netcraft.com/blog/brand-protection-monitoring</link>
-      <description>Brand protection breaks down when monitoring is fragmented. Learn how attack surface sprawl creates risk, and why cross-channel coverage is essential.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/brand-protection-monitoring</guid>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 13:20:52 +0000</lastBuildDate>
     <item>
       <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
       <link>https://www.netcraft.com/blog/netcraft-launches-new-ui-dashboard</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/what-new-tld-applications-reveal-icann</link>
       <description>What do 1,615 new domain extension applications reveal about AI, brands, and the future of online identity? A deep dive into ICANN's latest gTLD round.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/what-new-tld-applications-reveal-icann</guid>
+    </item>
+    <item>
+      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
+      <link>https://www.netcraft.com/blog/how-attackers-are-capitalizing-on-the-hype-around-the-grand-theft-auto-vi-release</link>
+      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/how-attackers-are-capitalizing-on-the-hype-around-the-grand-theft-auto-vi-release</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

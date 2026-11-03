@@ -7,20 +7,27 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 00:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:21:00 +0000</lastBuildDate>
+    <item>
+      <title>Transparency in MDR: three use cases</title>
+      <link>https://expel.com/blog/transparency-in-mdr-three-use-cases/</link>
+      <description>Transparency influences everything we do at Expel. Here's why it's a beneficial strategy for your business.</description>
+      <guid isPermaLink="false">https://expel.com/blog/transparency-in-mdr-three-use-cases/</guid>
+      <pubDate>Thu, 25 Jan 2024 14:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>GKE/Gmail vulnerability: notes and tips | Expel</title>
+      <link>https://expel.com/blog/gke-gmail-vulnerability-notes-and-tips/</link>
+      <description>Security researchers have discovered a new Google Kubernetes Engine misconfiguration. Here’s what you need to know.</description>
+      <guid isPermaLink="false">https://expel.com/blog/gke-gmail-vulnerability-notes-and-tips/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:56:38 +0000</pubDate>
+    </item>
     <item>
       <title>Why is NIST adding Governance to the NIST CSF 2.0?</title>
       <link>https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</link>
       <description>As the security industry waits for NIST CSF 2.0 to publish, we shed some light on the question of what's changing and share what we know.</description>
       <guid isPermaLink="false">https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</guid>
       <pubDate>Tue, 30 Jan 2024 17:57:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security alert: ConnectWise ScreenConnect 23.9.8 security fix</title>
-      <link>https://expel.com/blog/security-alert-connectwise-screenconnect-23-9-8-security-fix/</link>
-      <description>Vulnerabilities in ConnectWise versions 23.9.7 and prior leave some ScreenConnect instances exposed to attackers. Here’s how to fix it.</description>
-      <guid isPermaLink="false">https://expel.com/blog/security-alert-connectwise-screenconnect-23-9-8-security-fix/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:34:16 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for March 2024</title>
@@ -63,13 +70,6 @@
       <description>Patch Tuesday for May 2024 includes 67 published CVEs from Microsoft, and VMware joins the party with four CVEs of its own.</description>
       <guid isPermaLink="false">https://expel.com/blog/patch-tuesday-roundup-for-may-2024/</guid>
       <pubDate>Tue, 14 May 2024 20:34:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pack your bags: Expel hits the cybersecurity event circuit</title>
-      <link>https://expel.com/blog/pack-your-bags-expel-hits-the-cybersecurity-event-circuit/</link>
-      <description>We’re headed to the Gartner Security &amp; Risk Management Summit and AWS re:Inforce to talk shop and show off our industry-leading services.</description>
-      <guid isPermaLink="false">https://expel.com/blog/pack-your-bags-expel-hits-the-cybersecurity-event-circuit/</guid>
-      <pubDate>Fri, 31 May 2024 13:00:24 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for June 2024</title>
@@ -135,13 +135,6 @@
       <pubDate>Fri, 15 Nov 2024 14:51:53 +0000</pubDate>
     </item>
     <item>
-      <title>Security alert: Palo Alto Networks firewall vulnerability</title>
-      <link>https://expel.com/blog/security-alert-palo-alto-networks-firewall-vulnerability/</link>
-      <description>Palto Alto Networks (PAN) has a critical vulnerability that needs to be patched immediately to prevent access to networks via the firewall management interface.</description>
-      <guid isPermaLink="false">https://expel.com/blog/security-alert-palo-alto-networks-firewall-vulnerability/</guid>
-      <pubDate>Mon, 18 Nov 2024 17:55:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Part I: Fundamentals of Kubernetes security</title>
       <link>https://expel.com/blog/part-i-fundamentals-of-kubernetes-security/</link>
       <description>Learn about the fundamentals of Kubernetes, including its architecture, challenges, and false positives in part one of this two-part blog series.</description>
@@ -203,13 +196,6 @@
       <description>Read what our Expel experts are predicting for AI and security in 2025. These predictions can help you continue planning for new year.</description>
       <guid isPermaLink="false">https://expel.com/blog/expels-predictions-for-2025-our-crystal-ball-says/</guid>
       <pubDate>Fri, 10 Jan 2025 18:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reintroducing Expel’s employee resource groups (ERGs)</title>
-      <link>https://expel.com/blog/reintroducing-expels-employee-resource-groups-ergs/</link>
-      <description>Expel has four employee resource groups (ERGs) open to community members and allies, because we know we're better when different.</description>
-      <guid isPermaLink="false">https://expel.com/blog/reintroducing-expels-employee-resource-groups-ergs/</guid>
-      <pubDate>Fri, 31 Jan 2025 14:26:07 +0000</pubDate>
     </item>
     <item>
       <title>Patch Tuesday roundup for February 2025</title>
@@ -357,6 +343,20 @@
       <description>Expel updated our threat alerts to be clearer, so you understand precisely what's happening with credential theft and account compromise.</description>
       <guid isPermaLink="false">https://expel.com/blog/when-your-keys-go-missing-getting-real-about-identity-threats/</guid>
       <pubDate>Tue, 29 Jul 2025 14:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Hat 2025: What we’re still thinking about</title>
+      <link>https://expel.com/blog/black-hat-2025-what-were-still-thinking-about/</link>
+      <description>Black Hat 2025 has come to an end, but here's what we're still thinking about and expect to continue seeing in headlines and strategies.</description>
+      <guid isPermaLink="false">https://expel.com/blog/black-hat-2025-what-were-still-thinking-about/</guid>
+      <pubDate>Fri, 15 Aug 2025 18:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Expletive: James Shank, Director of Threat Operations</title>
+      <link>https://expel.com/blog/meet-the-expletive-james-shank-director-of-threat-operations/</link>
+      <description>Meet James Shank, Expel's first Director of Threat Operations. We cover James' past career experience, and why he thrives in the chaos.</description>
+      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-james-shank-director-of-threat-operations/</guid>
+      <pubDate>Fri, 22 Aug 2025 15:55:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

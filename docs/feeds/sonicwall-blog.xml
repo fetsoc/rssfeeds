@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 00:16:59 +0000</lastBuildDate>
-    <item>
-      <title>SonicWall Security Insights: Firewall Configuration Audit</title>
-      <link>https://www.sonicwall.com/blog/is-your-firewall-actually-secure-security-insights-can-tell-you</link>
-      <description>Assess firewall configuration risk with SonicWall Security Insights using 250+ built-in checks, remediation guidance, severity-based findings, and risk scoring.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/is-your-firewall-actually-secure-security-insights-can-tell-you</guid>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 13:20:48 +0000</lastBuildDate>
     <item>
       <title>Microsoft Security Bulletin Coverage for October 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</link>
@@ -155,6 +149,12 @@
       <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</link>
       <description>MITRE ATT&amp;CK helps secure networks against known and emerging threats. Here’s how it works — and how it can help you.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</guid>
+    </item>
+    <item>
+      <title>The SOC Van Pelt Report: Taking Football back to 1905</title>
+      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-the-bucs-didn-t-complete-a-single-pass-and-won-</link>
+      <description>The Tampa Bay Buccaneers won a game without completing a single pass. How does that tie into your cybersecurity? Find out here.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-the-bucs-didn-t-complete-a-single-pass-and-won-</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
