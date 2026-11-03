@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 14:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:17:12 +0000</lastBuildDate>
+    <item>
+      <title>Why is NIST adding Governance to the NIST CSF 2.0?</title>
+      <link>https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</link>
+      <description>As the security industry waits for NIST CSF 2.0 to publish, we shed some light on the question of what's changing and share what we know.</description>
+      <guid isPermaLink="false">https://expel.com/blog/why-is-nist-adding-governance-to-nist-csf-2-0/</guid>
+      <pubDate>Tue, 30 Jan 2024 17:57:12 +0000</pubDate>
+    </item>
     <item>
       <title>Security alert: ConnectWise ScreenConnect 23.9.8 security fix</title>
       <link>https://expel.com/blog/security-alert-connectwise-screenconnect-23-9-8-security-fix/</link>
@@ -84,13 +91,6 @@
       <description>Find Expel at Black Hat 2024, booth #3009 at the Mandalay Bay Convention Center to beat the heat (from burnout and that toasty Vegas weather).</description>
       <guid isPermaLink="false">https://expel.com/blog/black-hat-2024-expels-betting-on-blackhat/</guid>
       <pubDate>Thu, 01 Aug 2024 13:51:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The serious impact of burnout—it’s more than a buzzword</title>
-      <link>https://expel.com/blog/burnout-its-more-than-a-buzzword/</link>
-      <description>Expel’s Chief People Officer, Amy Rossi, shares how to identify and address burnout in your team as it continues to run rampant in cybersecurity.</description>
-      <guid isPermaLink="false">https://expel.com/blog/burnout-its-more-than-a-buzzword/</guid>
-      <pubDate>Wed, 07 Aug 2024 13:27:51 +0000</pubDate>
     </item>
     <item>
       <title>A recap: Expel’s 2024 Black Hat experience</title>
@@ -310,13 +310,6 @@
       <pubDate>Wed, 21 May 2025 13:53:38 +0000</pubDate>
     </item>
     <item>
-      <title>More SIEM flexibility: Expel MDR adds support for XSIAM</title>
-      <link>https://expel.com/blog/more-siem-flexibility-expel-mdr-adds-support-for-xsiam/</link>
-      <description>Expel expands its SIEM coverage by launching advanced support for Palo Alto Networks Cortex® XSIAM. Welcome XSIAM users!</description>
-      <guid isPermaLink="false">https://expel.com/blog/more-siem-flexibility-expel-mdr-adds-support-for-xsiam/</guid>
-      <pubDate>Wed, 04 Jun 2025 13:38:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Staying secure through M&amp;A: A conversation with Visa</title>
       <link>https://expel.com/blog/staying-secure-through-ma-a-conversation-with-visa/</link>
       <description>Get tips from experts at Visa and Expel to keep your org safe and secure through mergers and acquisitions (M&amp;A).</description>
@@ -345,18 +338,25 @@
       <pubDate>Thu, 26 Jun 2025 17:15:44 +0000</pubDate>
     </item>
     <item>
-      <title>Cloud decoded pt. 2: What attackers don’t want you to know</title>
-      <link>https://expel.com/blog/cloud-decoded-part-2-what-attackers-dont-want-you-to-know/</link>
-      <description>This is part two of Expel's blog series on decoding the cloud. It dives in to what attackers don't want you to know.</description>
-      <guid isPermaLink="false">https://expel.com/blog/cloud-decoded-part-2-what-attackers-dont-want-you-to-know/</guid>
-      <pubDate>Fri, 27 Jun 2025 13:40:04 +0000</pubDate>
-    </item>
-    <item>
       <title>A recap on how Expel celebrated Pride Month 2025</title>
       <link>https://expel.com/blog/a-recap-on-how-expel-celebrated-pride-month-2025/</link>
       <description>Here's a look back on how Expel celebrated Pride Month, including creators you can follow to keep supporting the community.</description>
       <guid isPermaLink="false">https://expel.com/blog/a-recap-on-how-expel-celebrated-pride-month-2025/</guid>
       <pubDate>Tue, 01 Jul 2025 16:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>That's not MDR, it's a scapegoat</title>
+      <link>https://expel.com/blog/thats-not-mdr-its-a-scapegoat/</link>
+      <description>Discover why outsourcing alert triage falls short and how a human-AI collaborative approach can improve cybersecurity outcomes.</description>
+      <guid isPermaLink="false">https://expel.com/blog/thats-not-mdr-its-a-scapegoat/</guid>
+      <pubDate>Mon, 28 Jul 2025 14:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>When your keys go missing: getting real about identity threats</title>
+      <link>https://expel.com/blog/when-your-keys-go-missing-getting-real-about-identity-threats/</link>
+      <description>Expel updated our threat alerts to be clearer, so you understand precisely what's happening with credential theft and account compromise.</description>
+      <guid isPermaLink="false">https://expel.com/blog/when-your-keys-go-missing-getting-real-about-identity-threats/</guid>
+      <pubDate>Tue, 29 Jul 2025 14:40:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,67 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 14:21:34 +0000</lastBuildDate>
-    <item>
-      <title>SmokeLoader Malware: A Modular Threat with Advanced Evasion and Persistence</title>
-      <link>https://www.sonicwall.com/blog/smokeloader-malware-a-modular-threat-with-advanced-evasion-and-persistence</link>
-      <description>This week, the SonicWall Capture Labs Threat Research Team reviewed a sample of SmokeLoader malware. This is a modular program used by a variety of criminal and APT groups to gain a foothold on a system. It has vigorous anti-VM, anti-AV, and anti-analysis checks and capabilities. SmokeLoader can be used with RATs, ransomware, backdoors or botnets and uses both file and fileless methods of persistence.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/smokeloader-malware-a-modular-threat-with-advanced-evasion-and-persistence</guid>
-    </item>
-    <item>
-      <title>IBM Langflow OSS Unauthenticated RCE - CVE-2026-9198</title>
-      <link>https://www.sonicwall.com/blog/ibm-langflow-oss-unauthenticated-rce</link>
-      <description>Critical CVSS 9.8 unauthenticated RCE in IBM Langflow OSS chains an auto-login bypass with unsandboxed exec(). SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/ibm-langflow-oss-unauthenticated-rce</guid>
-    </item>
-    <item>
-      <title>The SOC Van Pelt Report: Kubiak's Aura Gamble</title>
-      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</link>
-      <description>A halftime guarantee, a broken run game, and a lesson for security teams about declaring victory too early.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-kubiaks-aura-gamble</guid>
-    </item>
-    <item>
-      <title>While You Were Doomscrolling: October 2026</title>
-      <link>https://www.sonicwall.com/blog/while-you-were-doomscrolling-october-2026</link>
-      <description>The latest news from SonicWall, plus an AI-powered toothbrush that takes pictures of your teeth?</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/while-you-were-doomscrolling-october-2026</guid>
-    </item>
-    <item>
-      <title>Adobe Commerce and Magento StyleSmuggler RCE - CVE-2026-75650</title>
-      <link>https://www.sonicwall.com/blog/adobe-commerce-and-magento-stylesmuggler-unauthenticated-rce</link>
-      <description>Critical, actively exploited CVSS 10.0 StyleSmuggler flaw in Adobe Commerce and Magento enables unauthenticated RCE. SonicWall IPS signatures available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/adobe-commerce-and-magento-stylesmuggler-unauthenticated-rce</guid>
-    </item>
-    <item>
-      <title>A Closer Look at the Ransomware Posing as Microsoft Edge</title>
-      <link>https://www.sonicwall.com/blog/a-closer-look-at-the-ransomware-posing-as-microsoft-edge</link>
-      <description>The SonicWall Capture Labs Threat Research Team came across a Windows ransomware sample this week going by the filename "Edgev5.exe". Where most ransomware families chain together phishing lures, exploit kits, or remote access trojans before getting to the encryption stage, this ransomware takes a straightforward approach: it opens with a fake Microsoft Edge browser confirmation prompt, keeping the victim's attention on a harmless-looking dialog while the encryption engine runs in parallel. Payment handling is just as stripped down, no C2 server, no callback infrastructure. The operator embedded a Bitcoin wallet address directly in the binary and wired it to Blockstream's public blockchain API so the malware can confirm payments on its own. Compiled as a native 64-bit Windows PE with GCC/MinGW, it encrypts files using AES-256-GCM through OpenSSL's EVP interface.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-closer-look-at-the-ransomware-posing-as-microsoft-edge</guid>
-    </item>
-    <item>
-      <title>SOCtoberfest Kickoff: The 7 Deadly Sins</title>
-      <link>https://www.sonicwall.com/blog/soctoberfest-kickoff-the-7-deadly-sins-of-cybersecurity-meet-cisa-s-core-steps</link>
-      <description>See how you can use CISA's guidance for better cybersecurity at your org.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/soctoberfest-kickoff-the-7-deadly-sins-of-cybersecurity-meet-cisa-s-core-steps</guid>
-    </item>
-    <item>
-      <title>Sekoia integrates with SonicWall firewalls and SMA 1000</title>
-      <link>https://www.sonicwall.com/blog/sekoia-and-sonicwall-unified-detection-and-agentic-investigation-across-firewall-and-remote-access-logs</link>
-      <description>Sekoia brings SonicWall firewall and SMA 1000 Series telemetry into one AI-driven SOC platform for faster investigation, threat hunting, and detection.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sekoia-and-sonicwall-unified-detection-and-agentic-investigation-across-firewall-and-remote-access-logs</guid>
-    </item>
-    <item>
-      <title>SOC Van Pelt: What Texas’s Special Teams Teach Security</title>
-      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-go-ahead-and-mess-with-texas-i-guess</link>
-      <description>Two Texas teams lost in one week, and special teams played a role in both. Here is what the overlooked unit teaches security teams about unmonitored assets.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-go-ahead-and-mess-with-texas-i-guess</guid>
-    </item>
-    <item>
-      <title>SOCtoberfest: Passwords, MFA, Phishing and Patching</title>
-      <link>https://www.sonicwall.com/blog/the-four-habits-that-stop-most-attacks-passwords-mfa-phishing-and-patching</link>
-      <description>The four habits that can stop the most common cyberattacks in their tracks.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-four-habits-that-stop-most-attacks-passwords-mfa-phishing-and-patching</guid>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 00:16:59 +0000</lastBuildDate>
     <item>
       <title>SonicWall Security Insights: Firewall Configuration Audit</title>
       <link>https://www.sonicwall.com/blog/is-your-firewall-actually-secure-security-insights-can-tell-you</link>
@@ -211,6 +151,12 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/node2shell-node-js-brotli-decoder-out-of-bounds-write-remote-code-execution</guid>
     </item>
     <item>
+      <title>%%title%% %%page%%</title>
+      <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</link>
+      <description>MITRE ATT&amp;CK helps secure networks against known and emerging threats. Here’s how it works — and how it can help you.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-1</guid>
+    </item>
+    <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
       <link>https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</guid>
@@ -222,6 +168,38 @@
       <description>SonicWall Capture Labs threat researchers have identified "Dark Kurd" — a destructive, multi-stage threat that combines ransomware, a Telegram-controlled RAT, credential stealer, keylogger, worm, and aggressive system sabotage into a single native 64-bit PE binary. Disguised as a Kurdish horror game ("KurdishHorror.exe"), the malware operates as a dropper that, upon execution, systematically disables all security defenses, destroys recovery infrastructure, encrypts files with AES-256, establishes Telegram bot C2, replicates itself across the filesystem and network, and deploys a full-featured PowerShell RAT capable of screen capture, keylogging, credential theft, and arbitrary command execution.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/remember-the-name-dark-kurd-a-destructive-ransomware-and-stealer-horror-themed-threat</guid>
       <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Secure Your Website &amp; Protect Your Brand Online</title>
+      <link>https://www.sonicwall.com/blog/how-to-secure-your-website-protect-your-brand-online</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/how-to-secure-your-website-protect-your-brand-online</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ambiente di lavoro MySonicWall: Razionalizzazione nella gestione dell’infrastruttura per gli MSP</title>
+      <link>https://www.sonicwall.com/blog/mysonicwall-workspace-streamlining-asset-management-for-mssps-it</link>
+      <description>How MSSPs simplify asset management through the new SonicWall My Workspace dashboard.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/mysonicwall-workspace-streamlining-asset-management-for-mssps-it</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing Telecommuters with Expanded Endpoint Visibility and Control</title>
+      <link>https://www.sonicwall.com/blog/securing-telecommuters-with-expanded-endpoint-visibility-and-control</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/securing-telecommuters-with-expanded-endpoint-visibility-and-control</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capture Client 3.7: Rapid Threat Hunting with Deep Visibility and Storylines</title>
+      <link>https://www.sonicwall.com/blog/capture-client-3-7-rapid-threat-hunting-with-deep-visibility-and-storylines</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/capture-client-3-7-rapid-threat-hunting-with-deep-visibility-and-storylines</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the MITRE ATT&amp;CK Framework and Evaluations – Part 2</title>
+      <link>https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-2</link>
+      <description>Capture Client delivers capabilities that are underscored by the ATT&amp;CK framework. Here’s how CISOs can leverage these capabilities to define and implement their security strategy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/understanding-the-mitre-attck-framework-and-evaluations-part-2</guid>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing SonicWall Unified Management: Smarter Security for MSPs</title>
@@ -249,6 +227,26 @@
       <description>SonicWall MPSS adds 24/7 firewall monitoring, updates, support, and a cyber warranty — all delivered by our expert SonicSentry team.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/manage-your-sonicwall-firewall-easier-than-ever-before-with-managed-protection-service-suite</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Workspace: Streamlining Asset Management for MSSPs</title>
+      <link>https://www.sonicwall.com/blog/mysonicwall-workspace-streamlining-asset-management-for-mssps</link>
+      <description>How MSSPs simplify asset management through the new SonicWall My Workspace dashboard.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/mysonicwall-workspace-streamlining-asset-management-for-mssps</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beat the Managed Services Blues with SonicWall and ConnectWise</title>
+      <link>https://www.sonicwall.com/blog/beat-the-managed-services-blues-with-sonicwall-and-connectwise</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/beat-the-managed-services-blues-with-sonicwall-and-connectwise</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build vs. Partner: Making the Right SOC Choice</title>
+      <link>https://www.sonicwall.com/blog/building-vs-partnering-with-a-soc-making-the-right-choice-for-your-business</link>
+      <description>Should you build your own SOC or work with a partner? See the pros, cons and real-world factors in choosing the right cybersecurity strategy.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/building-vs-partnering-with-a-soc-making-the-right-choice-for-your-business</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Partner Power News September 2026 | New Security, Promotions &amp; Partner Resources | SonicWall</title>
@@ -303,6 +301,13 @@
       <link>https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</link>
       <description>SonicWall Cloud Secure Edge PoP expansion adds five new locations across North America and Europe, delivering faster Zero Trust network access closer to your users.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-cloud-secure-edge-expands-global-network-with-five-new-points-of-presence</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illuminating Cybersecurity with Unified Insights</title>
+      <link>https://www.sonicwall.com/blog/unified-insights-capture-security-center</link>
+      <description>SonicWall Unified Insights delivers cross-product security visibility and greater efficiency with a single pane of glass.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/unified-insights-capture-security-center</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
