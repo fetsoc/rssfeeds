@@ -7,18 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 04:10:04 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Security Bulletin Coverage for October 2026</title>
-      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-october-2026</guid>
-    </item>
-    <item>
-      <title>Small Business Cybersecurity Myths: Why Hackers Don't Take Holidays</title>
-      <link>https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</link>
-      <description>It's easy to think that you're safe from a cyber attack on holidays or because you're a small business, but those assumptions are cybersecurity myths, and this blog explains why.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/hackers-don-t-work-holidays-and-other-cybersecurity-myths-worth-forgetting</guid>
-    </item>
+    <lastBuildDate>Wed, 04 Nov 2026 13:32:26 +0000</lastBuildDate>
     <item>
       <title>Not If, But When: The Need for a SOC and Introducing the SonicWall European SOC</title>
       <link>https://www.sonicwall.com/blog/not-if-but-when-the-need-for-a-soc-and-introducing-the-sonicwall-european-soc</link>
@@ -157,6 +146,11 @@
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-the-bucs-didn-t-complete-a-single-pass-and-won-</guid>
     </item>
     <item>
+      <title>PARTNER POWER NEWS - November 2026: Grow your business and simplify security.</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news---november-2026-grow-your-business-and-simplify-security</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news---november-2026-grow-your-business-and-simplify-security</guid>
+    </item>
+    <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
       <link>https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/intellicom-netbiter-hostname-buffer-overflow-dec-22-2009</guid>
@@ -261,6 +255,12 @@
       <description>In this month's edition of SonicWall's Partner Power News, discover proof points for your next pitch, tools to grow your managed security practice, and two Partner Program dates that need your attention.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news-october-2026-get-ready-build-your-pitch-keep-customers-moving</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PARTNER POWER NEWS - August 2026: Innovate. Protect. Succeed.</title>
+      <link>https://www.sonicwall.com/blog/partner-power-news---august-2026-innovate-protect-succeed</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news---august-2026-innovate-protect-succeed</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Something Phishy This Way Comes: How the SonicWall SOC Proactively Defended Partners Against a New Attack</title>
