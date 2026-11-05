@@ -7,12 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 04:30:36 +0000</lastBuildDate>
-    <item>
-      <title>Not If, But When: The Need for a SOC and Introducing the SonicWall European SOC</title>
-      <link>https://www.sonicwall.com/blog/not-if-but-when-the-need-for-a-soc-and-introducing-the-sonicwall-european-soc</link>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/not-if-but-when-the-need-for-a-soc-and-introducing-the-sonicwall-european-soc</guid>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 13:47:00 +0000</lastBuildDate>
     <item>
       <title>The 3 AM Problem: Why Attacks Strike After Hours</title>
       <link>https://www.sonicwall.com/blog/the-3-am-problem-you-can-t-ignore</link>
@@ -149,6 +144,11 @@
       <title>PARTNER POWER NEWS - November 2026: Grow your business and simplify security.</title>
       <link>https://www.sonicwall.com/blog/partner-power-news---november-2026-grow-your-business-and-simplify-security</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/partner-power-news---november-2026-grow-your-business-and-simplify-security</guid>
+    </item>
+    <item>
+      <title>Inside JBootstrap: A Rust-Based Loader Hiding a Full Java RAT</title>
+      <link>https://www.sonicwall.com/blog/inside-jbootstrap-a-rust-based-loader-hiding-a-full-java-rat</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/inside-jbootstrap-a-rust-based-loader-hiding-a-full-java-rat</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>

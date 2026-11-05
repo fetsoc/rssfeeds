@@ -7,7 +7,13 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/analyst1-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 13:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:47:44 +0000</lastBuildDate>
+    <item>
+      <title>Resources</title>
+      <link>https://analyst1.com/resources/</link>
+      <description>Analyst1 offers insights and the latest trends in cybersecurity: Case Studies, Datasheets, Digital Reports, White Papers, and other resources</description>
+      <guid isPermaLink="false">https://analyst1.com/resources/</guid>
+    </item>
     <item>
       <title>Intelligent Cyber Threat Response</title>
       <link>https://analyst1.com/intelligent-cyber-threat-response/</link>
@@ -23,25 +29,11 @@
       <pubDate>Wed, 30 Sep 2020 09:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>A Day in the Life of a Cyber Threat Analyst: Underutilized, Under-resourced, and Overworked</title>
-      <link>https://analyst1.com/a-day-in-the-life-of-a-cyber-threat-analyst-underutilized-under-resourced-and-overworked/</link>
-      <description>Uncover the life of a cyber threat analyst: underutilized, under-resourced, and overworked. Learn about their daily struggles in defending networks.</description>
-      <guid isPermaLink="false">https://analyst1.com/a-day-in-the-life-of-a-cyber-threat-analyst-underutilized-under-resourced-and-overworked/</guid>
-      <pubDate>Wed, 30 Sep 2020 09:09:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Industry Luminary joins Analyst1 as Chief Security Strategist</title>
-      <link>https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</link>
-      <description>Jon DiMaggio takes on the role of Chief Security Strategist at Analyst1, spearheading research and strategy for the leading threat intelligence firm.</description>
-      <guid isPermaLink="false">https://analyst1.com/industry-luminary-joins-analyst1-as-chief-security-strategist/</guid>
-      <pubDate>Wed, 11 Nov 2020 01:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransom Mafia - Analysis of the World's First Ransomware Cartel</title>
-      <link>https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</link>
-      <description>Unmasking the First Ransomware Cartel: Explore the Twisted Spider gang's partnership with other attackers, a greater threat to cybersecurity.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel/</guid>
-      <pubDate>Wed, 07 Apr 2021 01:01:58 +0000</pubDate>
+      <title>Analyst1: DHS Automated Indicator Sharing (AIS)</title>
+      <link>https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</link>
+      <description>Unlock threat insights at machine speed with Analyst1 and DHS Automated Indicator Sharing, enhancing your defensive actions. Maximize security investments.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-dhs-automated-indicator-sharing-ais/</guid>
+      <pubDate>Wed, 30 Sep 2020 09:09:59 +0000</pubDate>
     </item>
     <item>
       <title>Be the 1 to Put Skin in the Game</title>
@@ -58,18 +50,11 @@
       <pubDate>Mon, 21 Jun 2021 01:01:28 +0000</pubDate>
     </item>
     <item>
-      <title>Absolute Ransom: Nation-State Ransomware</title>
-      <link>https://analyst1.com/absolute-ransom-nation-state-ransomware/</link>
-      <description>Uncover the alleged ties between Russian government and ransomware attacks. Explore Absolute Ransom: Nation-State Ransomware for the truth.</description>
-      <guid isPermaLink="false">https://analyst1.com/absolute-ransom-nation-state-ransomware/</guid>
-      <pubDate>Sat, 23 Oct 2021 01:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark Web - Justice League</title>
-      <link>https://analyst1.com/dark-web-justice-league/</link>
-      <description>Uncover the hidden world of Dark Web justice as cybercriminals settle disputes in underground courts. Explore verdicts, high-profile cases, and more.</description>
-      <guid isPermaLink="false">https://analyst1.com/dark-web-justice-league/</guid>
-      <pubDate>Tue, 07 Dec 2021 01:01:40 +0000</pubDate>
+      <title>Nation-State Ransomware Report: A Webinar Briefing</title>
+      <link>https://analyst1.com/nation-state-ransomware-report-a-webinar-briefing/</link>
+      <description>Unveiling state-sponsored ransomware threats tied to Russia. Jon DiMaggio presents findings on Colonial Pipeline, EvilCorp, Sidoh malware, and more.</description>
+      <guid isPermaLink="false">https://analyst1.com/nation-state-ransomware-report-a-webinar-briefing/</guid>
+      <pubDate>Mon, 15 Nov 2021 01:01:22 +0000</pubDate>
     </item>
     <item>
       <title>North Korea: Intelligence Assessment 2022</title>
@@ -79,46 +64,39 @@
       <pubDate>Tue, 22 Feb 2022 01:01:46 +0000</pubDate>
     </item>
     <item>
-      <title>The Colonial Pipeline Ransomware Attack, One Year Later</title>
-      <link>https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</link>
-      <description>Reflecting on the Colonial Pipeline Ransomware Attack: Explore the repercussions, government response, and evolving tactics in the fight against ransomware.</description>
-      <guid isPermaLink="false">https://analyst1.com/the-colonial-pipeline-ransomware-attack-one-year-later/</guid>
-      <pubDate>Tue, 10 May 2022 01:01:08 +0000</pubDate>
+      <title>A History of REvil</title>
+      <link>https://analyst1.com/a-history-of-revil/</link>
+      <description>Discover the untold story of REvil ransomware hackers in this comprehensive executive summary. Learn their tactics and gain insights to combat their threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/a-history-of-revil/</guid>
+      <pubDate>Wed, 23 Feb 2022 01:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware Diaries: Volume 1</title>
-      <link>https://analyst1.com/ransomware-diaries-volume-1/</link>
-      <description>Discover the power of behavioral profiling in understanding ransomware attackers. Uncover motivations and beliefs of threat actors for effective defense.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-diaries-volume-1/</guid>
-      <pubDate>Mon, 16 Jan 2023 10:00:00 +0000</pubDate>
+      <title>A Proactive Approach To Threat Intelligence: How Analyst1 Helped This ISAC Anticipate Threats</title>
+      <link>https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</link>
+      <description>Discover how Analyst1 helped this ISAC transition from a reactive to proactive approach to threat intelligence, enabling faster analysis of cyber threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/a-proactive-approach-to-threat-intelligence-how-analyst1-helped-this-isac-anticipate-threats/</guid>
+      <pubDate>Thu, 12 Jan 2023 19:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 1</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-1/</link>
-      <description>Experience the gripping Ransomware Diaries: Unlocking LockBit. Listen as Jon uncovers the secrets of the notorious gang in this exclusive audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-1/</guid>
-      <pubDate>Mon, 30 Jan 2023 14:39:37 +0000</pubDate>
+      <title>Operations Analyst Job Description &amp; Career Insights [Skills, Salary, Growth &amp; More]</title>
+      <link>https://analyst1.com/operations-analyst-job-description/</link>
+      <description>What does an operations analyst do? Find a detailed operations analyst job description + skills needed, career path, salary info and leading platform.</description>
+      <guid isPermaLink="false">https://analyst1.com/operations-analyst-job-description/</guid>
+      <pubDate>Tue, 30 May 2023 17:41:39 +0000</pubDate>
     </item>
     <item>
-      <title>What Is An Intelligence Analyst &amp; What Do They Do? [Types &amp; Responsibilities]</title>
-      <link>https://analyst1.com/what-is-intelligence-analyst/</link>
-      <description>What is an intelligence analyst and what do they do? Find types, skills and education required, plus a leading tool built for analysts.</description>
-      <guid isPermaLink="false">https://analyst1.com/what-is-intelligence-analyst/</guid>
-      <pubDate>Thu, 11 May 2023 11:53:34 +0000</pubDate>
+      <title>Introducing Analyst1: Who We Are</title>
+      <link>https://analyst1.com/analyst1-who-we-are/</link>
+      <description>Introducing the Analyst1 Platform: watch the video now and let us lead you toward a secure and successful tomorrow.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-who-we-are/</guid>
+      <pubDate>Mon, 24 Jul 2023 10:21:11 +0000</pubDate>
     </item>
     <item>
-      <title>Audio Version – Ransomware Diaries: Volume 3</title>
-      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-3/</link>
-      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 3. Listen to Jon tell his story with additional details only found in the audio version.</description>
-      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-3/</guid>
-      <pubDate>Tue, 15 Aug 2023 19:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>On-Demand Webinar: Unveiling LockBit’s Secrets: Unmasking the Truth Behind a Notorious Ransomware Operation</title>
-      <link>https://analyst1.com/on-demand-webinar-unveiling-lockbits-secrets-unmasking-the-truth-behind-a-notorious-ransomware-operation/</link>
-      <description>Join the author of Ransomware Diaries: Volume 2- A Ransomware Hacker Origin Story, Jon DiMaggio, for a dive into the ramifications Bassterlord has faced since his story came out.</description>
-      <guid isPermaLink="false">https://analyst1.com/on-demand-webinar-unveiling-lockbits-secrets-unmasking-the-truth-behind-a-notorious-ransomware-operation/</guid>
-      <pubDate>Tue, 29 Aug 2023 19:52:06 +0000</pubDate>
+      <title>What Is Lateral Movement in Cybersecurity &amp; How Do You Detect It?</title>
+      <link>https://analyst1.com/what-is-lateral-movement/</link>
+      <description>What is lateral movement in cybersecurity? Find out in our guide. Explore stages, detection and prevention types + a leading tool built for analysts.</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-lateral-movement/</guid>
+      <pubDate>Mon, 04 Sep 2023 19:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Toncoin and Its Use in Cybercrime: KillNet Case Study</title>
@@ -128,39 +106,46 @@
       <pubDate>Tue, 26 Sep 2023 23:06:32 +0000</pubDate>
     </item>
     <item>
-      <title>Spear Phishing vs. Phishing: What’s the Difference?</title>
-      <link>https://analyst1.com/spear-phishing-vs-phishing/</link>
-      <description>Find our analysis of what happened during a global cyberattack on the US government + explore how you can protect your network with Analyst1.</description>
-      <guid isPermaLink="false">https://analyst1.com/spear-phishing-vs-phishing/</guid>
-      <pubDate>Thu, 12 Oct 2023 16:47:23 +0000</pubDate>
+      <title>Why ‘Made in the USA’ Matters in Cybersecurity</title>
+      <link>https://analyst1.com/why-made-in-the-usa-matters-in-cybersecurity/</link>
+      <description>Discover why choosing U.S.-made cybersecurity tools is vital for data security, quality control, and addressing geopolitical risks.</description>
+      <guid isPermaLink="false">https://analyst1.com/why-made-in-the-usa-matters-in-cybersecurity/</guid>
+      <pubDate>Wed, 06 Dec 2023 14:38:48 +0000</pubDate>
     </item>
     <item>
-      <title>Negotiating with LockBit: Uncovering the Evolution of Operations and Newly Established Rules</title>
-      <link>https://analyst1.com/blog-negotiating-with-lockbit-uncovering-the-evolution-of-operations-and-newly-established-rules/</link>
-      <description>This blog uncovers the brief history of LockBit's rebranding, the evolution of negotiations tools and techniques, and the newly established rules.</description>
-      <guid isPermaLink="false">https://analyst1.com/blog-negotiating-with-lockbit-uncovering-the-evolution-of-operations-and-newly-established-rules/</guid>
-      <pubDate>Thu, 16 Nov 2023 14:14:54 +0000</pubDate>
+      <title>On-Demand Webinar: Ransomware Diaries: Volume 4 Investigating RansomedVC – A Tale of Cyber Deception</title>
+      <link>https://analyst1.com/investigating-ransomedvc-a-tale-of-cyber-deception/</link>
+      <description>Join Analyst1’s Jon DiMaggio and author of Ransomware Diaries 4 for an intriguing exploration into RansomedVC, a complex criminal operation renowned for its use of propaganda and misinformation in the ransomware community.</description>
+      <guid isPermaLink="false">https://analyst1.com/investigating-ransomedvc-a-tale-of-cyber-deception/</guid>
+      <pubDate>Fri, 12 Jan 2024 15:40:58 +0000</pubDate>
     </item>
     <item>
-      <title>Think Like an Attacker Day: How to Get the Most Out of Threat Intelligence Data</title>
-      <link>https://analyst1.com/webinar-how-to-get-the-most-of-out-threat-intelligence-data/</link>
-      <description>Analyst1, in collaboration with Mandiant, actively contributed to a panel discussion during Dark Reading’s virtual event, "Think Like an Attacker Day," held on November 16, 2023. The panel, titled "How to Extract Maximum Value from Threat Intelligence Data," delves into the intricate landscape of threat intelligence feeds, which are integrated into numerous security tools and services.</description>
-      <guid isPermaLink="false">https://analyst1.com/webinar-how-to-get-the-most-of-out-threat-intelligence-data/</guid>
-      <pubDate>Fri, 15 Dec 2023 17:01:15 +0000</pubDate>
+      <title>Ransomware Goes Political And Other Extortion Activity Of 2023</title>
+      <link>https://analyst1.com/ransomware-goes-political-and-other-extortion-activity-of-2023/</link>
+      <description>This report uncovers insights into the extortion activity in 2023, incorporating data observed across Data Leak Sites (DLS) and human-driven techniques used by actors.</description>
+      <guid isPermaLink="false">https://analyst1.com/ransomware-goes-political-and-other-extortion-activity-of-2023/</guid>
+      <pubDate>Fri, 19 Jan 2024 00:02:43 +0000</pubDate>
     </item>
     <item>
-      <title>Lockbit, The Largest Cybergang Ever (An Inside Look)</title>
-      <link>https://analyst1.com/lockbit-the-largest-cybergang-ever-an-inside-look/</link>
-      <description>Explore the rise and fall of Lockbit, the world's most notorious ransomware gang, through the lens of cybersecurity experts at Analyst1.</description>
-      <guid isPermaLink="false">https://analyst1.com/lockbit-the-largest-cybergang-ever-an-inside-look/</guid>
-      <pubDate>Wed, 07 Feb 2024 16:16:47 +0000</pubDate>
+      <title>Audio Version – Ransomware Diaries: Volume 4</title>
+      <link>https://analyst1.com/audio-version-ransomware-diaries-volume-4/</link>
+      <description>Analyst1 is releasing an audio version of the Ransomware Diaries: Volume 4. Listen to Jon tell his story with additional details only found in the audio version.</description>
+      <guid isPermaLink="false">https://analyst1.com/audio-version-ransomware-diaries-volume-4/</guid>
+      <pubDate>Mon, 29 Jan 2024 21:49:46 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Recognized as One of the Fastest-Growing Private Companies in the Mid-Atlantic Region by Inc. Magazine 2024</title>
-      <link>https://analyst1.com/analyst1-recognized-as-one-of-the-fastest-growing-private-companies-in-the-mid-atlantic-region-by-inc-magazine-2024/</link>
-      <description>Are you attending Black Hat and looking to have a one-on-one conversation about all things cybersecurity? Don't miss this exclusive opportunity to connect with our experienced team and gain valuable insights into the latest threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-recognized-as-one-of-the-fastest-growing-private-companies-in-the-mid-atlantic-region-by-inc-magazine-2024/</guid>
-      <pubDate>Thu, 29 Feb 2024 18:32:43 +0000</pubDate>
+      <title>What is MITRE ATT&amp;CK?</title>
+      <link>https://analyst1.com/what-is-mitre-attck/</link>
+      <description>2023's cyber threat rise meets its match in the MITRE ATT&amp;CK framework. Discover how it's pivotal for tackling sophisticated cyber challenges</description>
+      <guid isPermaLink="false">https://analyst1.com/what-is-mitre-attck/</guid>
+      <pubDate>Wed, 07 Feb 2024 16:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>"This Forum is a Bunch of Communists and They Set Me Up", LockBit Spills the Tea Regarding Their Recent Ban on Russian-Speaking Forums</title>
+      <link>https://analyst1.com/this-forum-is-a-bunch-of-communists-and-they-set-me-up-lockbit-spills-the-tea-regarding-their-recent-ban-on-russian-speaking-forums/</link>
+      <description>This report uncovers insights into the extortion activity in 2023, incorporating data observed across Data Leak Sites (DLS) and human-driven techniques used by actors.</description>
+      <guid isPermaLink="false">https://analyst1.com/this-forum-is-a-bunch-of-communists-and-they-set-me-up-lockbit-spills-the-tea-regarding-their-recent-ban-on-russian-speaking-forums/</guid>
+      <pubDate>Thu, 08 Feb 2024 12:58:32 +0000</pubDate>
     </item>
     <item>
       <title>On Demand - Expert Panel: Elevating Cybersecurity with Threat-Informed Strategies</title>
@@ -170,39 +155,11 @@
       <pubDate>Mon, 22 Apr 2024 20:24:37 +0000</pubDate>
     </item>
     <item>
-      <title>Infiltrating ransomware gangs on the dark web - A 60 Minutes Overtime Special</title>
-      <link>https://analyst1.com/infiltrating-ransomware-gangs-on-the-dark-web-a-60-minutes-overtime-special/</link>
-      <description>Explore the rise and fall of Lockbit, the world's most notorious ransomware gang, through the lens of cybersecurity experts at Analyst1.</description>
-      <guid isPermaLink="false">https://analyst1.com/infiltrating-ransomware-gangs-on-the-dark-web-a-60-minutes-overtime-special/</guid>
-      <pubDate>Thu, 02 May 2024 21:40:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unfinished Business</title>
-      <link>https://analyst1.com/unfinished-business/</link>
-      <description>This report uncovers insights into the extortion activity in 2023, incorporating data observed across Data Leak Sites (DLS) and human-driven techniques used by actors.</description>
-      <guid isPermaLink="false">https://analyst1.com/unfinished-business/</guid>
-      <pubDate>Sun, 05 May 2024 20:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware Diaries Volume 5: Unmasking LockBit</title>
-      <link>https://analyst1.com/ransomware-diaries-volume-5-unmasking-lockbit-2/</link>
-      <description>Jon DiMaggio will explore how RansomedVC has redefined the boundaries of cybercrime by combining propaganda, influence campaigns, and misinformation.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-diaries-volume-5-unmasking-lockbit-2/</guid>
-      <pubDate>Tue, 07 May 2024 15:34:51 +0000</pubDate>
-    </item>
-    <item>
       <title>The Evolving Cyber Threat Landscape</title>
       <link>https://analyst1.com/the-evolving-cyber-threat-landscape/</link>
       <description>The shift from considering threat intelligence platforms as optional to seeing them as operational is not just a trend but a necessity. This urgency comes mainly from significant cyber events demonstrating cyber threats’ ever-evolving and increasingly sophisticated nature. A few incidents and developments have stood out in the last twelve months and have impacted how […]</description>
       <guid isPermaLink="false">https://analyst1.com/the-evolving-cyber-threat-landscape/</guid>
       <pubDate>Wed, 08 May 2024 18:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 Reasons You Need a TIP Now</title>
-      <link>https://analyst1.com/10-reasons-you-need-a-tip-now/</link>
-      <description>Discover the top 10 reasons why your organization needs a threat intelligence platform to improve its security posture.</description>
-      <guid isPermaLink="false">https://analyst1.com/10-reasons-you-need-a-tip-now/</guid>
-      <pubDate>Thu, 23 May 2024 17:47:20 +0000</pubDate>
     </item>
     <item>
       <title>Is it time to replace your legacy TIP?</title>
@@ -219,11 +176,18 @@
       <pubDate>Fri, 24 May 2024 16:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Threat Actors Matter</title>
-      <link>https://analyst1.com/why-threat-actors-matter/</link>
-      <description>Organizations can unlock insights into the attackers’ motivations and refine their defensive strategies more effectively by pinpointing WHO is behind these cyberattacks.</description>
-      <guid isPermaLink="false">https://analyst1.com/why-threat-actors-matter/</guid>
-      <pubDate>Thu, 15 Aug 2024 15:08:16 +0000</pubDate>
+      <title>ON DEMAND: Behind Enemy Lines: Finally the Unmasking of LockBit</title>
+      <link>https://analyst1.com/behind-enemy-lines-finally-the-unmasking-of-lockbit/</link>
+      <description>This session is a must-attend for professionals looking to understand how the notorious LockBit was finally unmasked!</description>
+      <guid isPermaLink="false">https://analyst1.com/behind-enemy-lines-finally-the-unmasking-of-lockbit/</guid>
+      <pubDate>Tue, 28 May 2024 16:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>“We Are Sorry!”: Rethinking the Rare Performance of Ransomware Gang Apologies</title>
+      <link>https://analyst1.com/we-are-sorry-rethinking-the-rare-performance-of-ransomware-gang-apologies/</link>
+      <description>This article dives into why its important to understand the psychology behind a threat actor that apologizes.</description>
+      <guid isPermaLink="false">https://analyst1.com/we-are-sorry-rethinking-the-rare-performance-of-ransomware-gang-apologies/</guid>
+      <pubDate>Tue, 30 Jul 2024 13:31:00 +0000</pubDate>
     </item>
     <item>
       <title>Integrating Threat Intelligence into Corporate Risk Management</title>
@@ -233,18 +197,32 @@
       <pubDate>Wed, 21 Aug 2024 21:56:09 +0000</pubDate>
     </item>
     <item>
-      <title>[Karakurt Case Study] Three Key Insights to Consider When Investigating Russian Ransomware</title>
-      <link>https://analyst1.com/karakurt-case-study-three-key-insights-to-consider-when-investigating-russian-ransomware/</link>
-      <description>Introduction Russian cybercrime has emerged as one of the most dominant forces on the global cybercrime scene, particularly in ransomware attacks. Russian actors, including notable groups such as Conti, AlphVM/BlackCat, and LockBit, have orchestrated some of the most high-profile attacks in recent years. These groups are known for their advanced technical sophistication, well-organized operational structures, […]</description>
-      <guid isPermaLink="false">https://analyst1.com/karakurt-case-study-three-key-insights-to-consider-when-investigating-russian-ransomware/</guid>
-      <pubDate>Thu, 31 Oct 2024 19:22:29 +0000</pubDate>
+      <title>The Cheap and Devastating “Mechanisms of Persuasion” of a Futurist Cybercriminal Attack Model</title>
+      <link>https://analyst1.com/the-cheap-and-devastating-mechanisms-of-persuasion-of-a-futurist-cybercriminal-attack-model/</link>
+      <description>This article dives into why its important to understand the psychology behind a threat actor that apologizes.</description>
+      <guid isPermaLink="false">https://analyst1.com/the-cheap-and-devastating-mechanisms-of-persuasion-of-a-futurist-cybercriminal-attack-model/</guid>
+      <pubDate>Thu, 26 Sep 2024 18:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s All in the Family: Reframing the Choices of Evil Corp Family Members to Influence Other Cybercriminals</title>
+      <link>https://analyst1.com/its-all-in-the-family-reframing-the-choices-of-evil-corp-family-members-to-influence-other-cybercriminals/</link>
+      <description>This article dives into how Evil Corp Family has influenced other cyber criminals across the world.</description>
+      <guid isPermaLink="false">https://analyst1.com/its-all-in-the-family-reframing-the-choices-of-evil-corp-family-members-to-influence-other-cybercriminals/</guid>
+      <pubDate>Wed, 06 Nov 2024 18:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>RedLine, A License to Steal: The Rudometov Story &amp; Operation Magnus</title>
+      <link>https://analyst1.com/redline-a-license-to-steal-the-rudometov-story-operation-magnus/</link>
+      <description>From phishing scams to targeting defense contractors, RedLine caused massive damage worldwide. Read the full story now!</description>
+      <guid isPermaLink="false">https://analyst1.com/redline-a-license-to-steal-the-rudometov-story-operation-magnus/</guid>
+      <pubDate>Thu, 05 Dec 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle</title>
-      <link>https://analyst1.com/threat-intelligence-lifecycle-2/</link>
+      <link>https://analyst1.com/threat-intelligence-lifecycle-1/</link>
       <description>Discover the implications of the new Executive Order for the future of cybersecurity. Learn how Analyst1 is leading the way in addressing the evolving threats.</description>
-      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-2/</guid>
-      <pubDate>Thu, 09 Jan 2025 20:40:23 +0000</pubDate>
+      <guid isPermaLink="false">https://analyst1.com/threat-intelligence-lifecycle-1/</guid>
+      <pubDate>Mon, 09 Dec 2024 15:28:42 +0000</pubDate>
     </item>
     <item>
       <title>Threat Intelligence Lifecycle</title>
@@ -268,11 +246,25 @@
       <pubDate>Tue, 11 Feb 2025 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Launches A1Defender Partner Program to Empower Channel Partners with Advanced Threat Intelligence</title>
-      <link>https://analyst1.com/analyst1-launches-a1defender-partner-program-to-empower-channel-partners-with-advanced-threat-intelligence/</link>
-      <description>Reston, VA – (March 27, 2025) – Analyst1, a leader in advanced threat intelligence and cyber defense solutions, today unveiled the A1Defender Partner Program, a comprehensive initiative designed to equip resellers, system integrators, and solution providers with the tools, expertise, and intelligence needed to drive revenue and enhance customer security. The A1Defender Partner Program allows […]</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-launches-a1defender-partner-program-to-empower-channel-partners-with-advanced-threat-intelligence/</guid>
-      <pubDate>Thu, 27 Mar 2025 12:52:00 +0000</pubDate>
+      <title>Analyst1 Named to Inc. 5000 Mid-Atlantic Fastest-Growing Companies List for Second Consecutive Year</title>
+      <link>https://analyst1.com/analyst1-named-to-inc-5000-mid-atlantic-fastest-growing-companies-list-for-second-consecutive-year/</link>
+      <description>Cybersecurity Leader Secures #86 Spot in 2025 Rankings, Highlighting Continued Growth and Innovation Analyst1, a leading provider of advanced threat intelligence and cybersecurity solutions, today announced it has been named to the Inc. 5000 Regionals: Mid-Atlantic list of the fastest-growing private companies for the second consecutive year, ranking #86 in the 2025 list. This achievement […]</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-named-to-inc-5000-mid-atlantic-fastest-growing-companies-list-for-second-consecutive-year/</guid>
+      <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyst1 for the Enterprise</title>
+      <link>https://analyst1.com/analyst1-for-the-enterprise/</link>
+      <description>See how enterprises use Analyst1 to unify threat intelligence, automate response, and protect global environments at scale.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-for-the-enterprise/</guid>
+      <pubDate>Wed, 16 Apr 2025 18:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LockBit Got Hacked. Again: Uncovering Insights Into the Leaked Data</title>
+      <link>https://analyst1.com/lockbit-got-hacked-again-uncovering-insights-into-the-leaked-data/</link>
+      <description>After being dismantled by Operation Cronos, LockBit is hit again—this time with a massive internal leak! Check it out now.</description>
+      <guid isPermaLink="false">https://analyst1.com/lockbit-got-hacked-again-uncovering-insights-into-the-leaked-data/</guid>
+      <pubDate>Thu, 15 May 2025 13:07:07 +0000</pubDate>
     </item>
     <item>
       <title>Analyst1 Company Overview</title>
@@ -282,32 +274,11 @@
       <pubDate>Thu, 22 May 2025 18:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ransomware-Centric Collection and Threat Profiling</title>
-      <link>https://analyst1.com/ransomware-centric-collection-and-threat-profiling/</link>
-      <description>Discover how ransomware-centric threat profiling helps you understand attacker behavior, infrastructure, and tactics. Check it out now.</description>
-      <guid isPermaLink="false">https://analyst1.com/ransomware-centric-collection-and-threat-profiling/</guid>
-      <pubDate>Mon, 02 Jun 2025 21:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leading University Protects Its Research with Help From Analyst1</title>
-      <link>https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</link>
-      <description>Discover how Analyst1 helps a leading research university protect its program with a leading threat intelligence platform.</description>
-      <guid isPermaLink="false">https://analyst1.com/leading-university-protects-its-research-with-help-from-analyst1/</guid>
-      <pubDate>Wed, 25 Jun 2025 18:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Analyst1 for Energy</title>
       <link>https://analyst1.com/analyst1-for-energy/</link>
       <description>Discover how Analyst1 helps energy organizations detect threats faster, streamline workflows, and protect high-value industrial environments.</description>
       <guid isPermaLink="false">https://analyst1.com/analyst1-for-energy/</guid>
       <pubDate>Fri, 27 Jun 2025 20:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analyst1 for Financial Services</title>
-      <link>https://analyst1.com/analyst1-for-financial-services-2/</link>
-      <description>Explore how Analyst1 empowers financial organizations with real-time intel, automated mitigation, and compliance-ready workflows.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-for-financial-services-2/</guid>
-      <pubDate>Tue, 01 Jul 2025 20:46:00 +0000</pubDate>
     </item>
     <item>
       <title>When the Hunter Becomes the Hunted: The Art and Risk of Threat Actor Engagement</title>
@@ -317,6 +288,13 @@
       <pubDate>Wed, 09 Jul 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Analyst1 for Health Care</title>
+      <link>https://analyst1.com/analyst1-for-health-care/</link>
+      <description>Explore how Analyst1 delivers real-time threat visibility, automated mitigation, and mission-ready security for healthcare networks.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-for-health-care/</guid>
+      <pubDate>Wed, 09 Jul 2025 20:25:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Analyst1 Unveils Version 2.12.2 with AI-Powered Summaries, Enhanced Indicator Tagging, and Expanded Security Updates</title>
       <link>https://analyst1.com/analyst1-unveils-version-2-12-2-with-ai-powered-summaries-enhanced-indicator-tagging-and-expanded-security-updates/</link>
       <description>Analyst1 Unveils Version 2.12.0: Enhanced Intelligence Access, Streamlined Workflows, and Broader MITRE ATT&amp;CK Integration. Learn more today.</description>
@@ -324,11 +302,25 @@
       <pubDate>Thu, 18 Sep 2025 18:03:07 +0000</pubDate>
     </item>
     <item>
-      <title>RECORDING: Powering Resilience</title>
-      <link>https://analyst1.com/powering-resilience-how-analyst1-dragos-strengthen-threat-defense-for-the-energy-sector/</link>
-      <description>Learn how Analyst1 and Dragos boost energy sector cyber resilience with threat intel, OT visibility, and faster mitigation.</description>
-      <guid isPermaLink="false">https://analyst1.com/powering-resilience-how-analyst1-dragos-strengthen-threat-defense-for-the-energy-sector/</guid>
-      <pubDate>Thu, 29 Jan 2026 18:43:04 +0000</pubDate>
+      <title>Don't Be Afraid of Spiders: Rethinking Scattered Spider Behavioral Vulnerabilities</title>
+      <link>https://analyst1.com/dont-be-afraid-of-spiders-rethinking-scattered-spider-behavioral-vulnerabilities/</link>
+      <description>This blog dives into rethinking how Scattered Spider has vulnerabilities based simply on their behavior. Check it out today!</description>
+      <guid isPermaLink="false">https://analyst1.com/dont-be-afraid-of-spiders-rethinking-scattered-spider-behavioral-vulnerabilities/</guid>
+      <pubDate>Mon, 06 Oct 2025 16:38:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking Cybersecurity</title>
+      <link>https://analyst1.com/unlocking-cybersecurity/</link>
+      <description>Unlock proactive cybersecurity with threat intelligence strategies for leaders navigating modern cyber threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/unlocking-cybersecurity/</guid>
+      <pubDate>Tue, 16 Dec 2025 15:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infrastructure in the Shadows</title>
+      <link>https://analyst1.com/infrastructure-in-the-shadows/</link>
+      <description>Uncover how leaked data exposed Yalishanda, Media Land, and their role in powering BlackBasta ransomware infrastructure.</description>
+      <guid isPermaLink="false">https://analyst1.com/infrastructure-in-the-shadows/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:05:37 +0000</pubDate>
     </item>
     <item>
       <title>RECORDED WEBINAR: Year in Review</title>
@@ -338,25 +330,32 @@
       <pubDate>Thu, 26 Feb 2026 20:34:09 +0000</pubDate>
     </item>
     <item>
-      <title>Minutes to Mitigation</title>
-      <link>https://analyst1.com/minutes-to-mitigation/</link>
-      <description>Analyst1 platform overview for automated cyber threat response, integrated workflows, and intelligence-driven security operations.</description>
-      <guid isPermaLink="false">https://analyst1.com/minutes-to-mitigation/</guid>
-      <pubDate>Sat, 07 Mar 2026 19:49:06 +0000</pubDate>
+      <title>RECORDED WEBINAR: How to Operationalize Threat Intelligence</title>
+      <link>https://analyst1.com/how-to-operationalize-threat-intelligence/</link>
+      <description>Manual response can’t keep up with today’s threats. See how automation helps SOC and CTI teams move from alerts to real-time mitigation.</description>
+      <guid isPermaLink="false">https://analyst1.com/how-to-operationalize-threat-intelligence/</guid>
+      <pubDate>Fri, 27 Mar 2026 16:53:58 +0000</pubDate>
     </item>
     <item>
-      <title>Analyst1 Named to Inc. 5000 Mid-Atlantic Fastest-Growing Companies List for Third Consecutive Year</title>
-      <link>https://analyst1.com/analyst1-named-to-inc-5000-mid-atlantic-fastest-growing-companies-list-for-third-consecutive-year/</link>
-      <description>Analyst1 named to Inc. 5000 Mid-Atlantic list for the third year, highlighting growth and innovation in threat intelligence operations.</description>
-      <guid isPermaLink="false">https://analyst1.com/analyst1-named-to-inc-5000-mid-atlantic-fastest-growing-companies-list-for-third-consecutive-year/</guid>
-      <pubDate>Tue, 31 Mar 2026 17:27:07 +0000</pubDate>
+      <title>Bring Your Own AI</title>
+      <link>https://analyst1.com/byoai/</link>
+      <description>Not another black box. A smarter way to use AI in threat intelligence—built on control, flexibility, and trust.</description>
+      <guid isPermaLink="false">https://analyst1.com/byoai/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:34:35 +0000</pubDate>
     </item>
     <item>
-      <title>Operating as One</title>
-      <link>https://analyst1.com/operating-as-one/</link>
-      <description>Analyst1 unifies intelligence, tools, and teams into one operational picture for faster, coordinated threat response.</description>
-      <guid isPermaLink="false">https://analyst1.com/operating-as-one/</guid>
-      <pubDate>Fri, 08 May 2026 18:06:40 +0000</pubDate>
+      <title>Analyst1 Releases Version 2.14.0</title>
+      <link>https://analyst1.com/analyst1-releases-version-2-14-0/</link>
+      <description>Analyst1 2.14.0 introduces publication templates, API v2.0, and new integrations to streamline threat intelligence and accelerate response.</description>
+      <guid isPermaLink="false">https://analyst1.com/analyst1-releases-version-2-14-0/</guid>
+      <pubDate>Tue, 07 Apr 2026 15:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transforming Adversarial Insights into Actionable Strategies</title>
+      <link>https://analyst1.com/transforming-adversarial-insights-into-actionable-strategies/</link>
+      <description>Unlock proactive cybersecurity with threat intelligence strategies for leaders navigating modern cyber threats.</description>
+      <guid isPermaLink="false">https://analyst1.com/transforming-adversarial-insights-into-actionable-strategies/</guid>
+      <pubDate>Tue, 14 Apr 2026 21:18:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

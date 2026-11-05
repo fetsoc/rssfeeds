@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 04:31:38 +0000</lastBuildDate>
-    <item>
-      <title>Your MSSP Added 10 New Clients. What Breaks First?</title>
-      <link>https://any.run/cybersecurity-blog/mssp-growth/</link>
-      <description>&lt;p&gt;Adding 10 new clients sounds like exactly the kind of problem an MSSP wants to have. More revenue, more accounts, more room to grow. But growth also brings more alerts, suspicious files and URLs, investigations, escalations, reports, and SLA commitments. And if too much of that work still depends on manual analyst effort, those 10 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/mssp-growth/"&gt;Your MSSP Added 10 New Clients. What Breaks First?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/mssp-growth/</guid>
-      <pubDate>Thu, 15 Oct 2026 09:33:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 13:48:42 +0000</lastBuildDate>
     <item>
       <title>DORA TLPT Requirements Explained: Where Threat Intelligence Fits</title>
       <link>https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-october-2026/"&gt;Major Cyber Attacks in October 2026: Fake AI, Account Takeovers, and Remote Access Threaten US and EU&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-october-2026/</guid>
       <pubDate>Tue, 03 Nov 2026 11:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Threat Intelligence Stack Has Blind Spots. Here’s How to Close Them</title>
+      <link>https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/</link>
+      <description>&lt;p&gt;Your SOC pays for multiple threat intelligence feeds, yet fresh malicious domains and IPs can still appear in telemetry as unknown. When feeds rely on overlapping sources, more subscriptions may deliver the same indicators while leaving emerging threats uncovered. Analysts must fill these gaps manually, checking indicator reputations, comparing sources, and gathering evidence. Every extra [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/"&gt;Your Threat Intelligence Stack Has Blind Spots. Here&amp;#8217;s How to Close Them&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:34:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
