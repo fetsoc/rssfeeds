@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 13:46:09 +0000</lastBuildDate>
-    <item>
-      <title>2025 Year in Review: Hunt.io Product Updates and Threat Research</title>
-      <link>https://hunt.io/blog/2025-year-in-review</link>
-      <description>A look back at Hunt.io’s 2025 product releases, platform scale, and the threat research our community engaged with most throughout the year.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/2025-year-in-review</guid>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 23:03:51 +0000</lastBuildDate>
     <item>
       <title>The Complete Guide to Hunting Cobalt Strike - Part 3: Automated C2 Infrastructure Discovery</title>
       <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-3-automated-discovery</link>
@@ -357,6 +350,13 @@
       <description>Hunt.io pivots from an exposed open directory into the ARTEX campaign against South Korean banks, revealing a Hong Kong jump server, AI model routing, and exploit tooling.</description>
       <guid isPermaLink="false">https://hunt.io/blog/artex-south-korea-bank-infrastructure</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the PHP2Shell Arsenal: A Complete Dissection of a PAN-OS Mass-Exploitation Open Directory</title>
+      <link>https://hunt.io/blog/inside-the-php2shell-arsenal</link>
+      <description>An exposed open directory revealed a full PAN-OS attack toolkit that chained PHP RCE with a kernel LPE to root 25 Palo Alto firewalls across the US and Korea.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/inside-the-php2shell-arsenal</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
