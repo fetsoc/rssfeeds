@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/bridewell-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 23:08:46 +0000</lastBuildDate>
-    <item>
-      <title>Who Needs to Be PCI DSS Compliant?</title>
-      <link>https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</link>
-      <description>Who Needs to Be PCI DSS Compliant?</description>
-      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/who-needs-to-be-pci-dss-compliant</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 04:30:14 +0000</lastBuildDate>
     <item>
       <title>Bridewell | AI in Incident Response: Where It Delivers and Where Humans Must Lead</title>
       <link>https://www.bridewell.com/insights/blogs/detail/ai-in-incident-response--where-it-delivers-and-where-humans-must-lead</link>
@@ -115,6 +109,12 @@
       <link>https://www.bridewell.com/insights/blogs/detail/bridewellcon-2024-above-and-beyond</link>
       <description>We met up for our second Bridewell Con – our annual company conference! Building on the success of last year’s inaugural Bridewell Con, this year was bigger and better with new guest speakers, activities and an even bigger Bridewell team.</description>
       <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/bridewellcon-2024-above-and-beyond</guid>
+    </item>
+    <item>
+      <title>What Good Cyber Programme Delivery Actually Looks Like</title>
+      <link>https://www.bridewell.com/insights/blogs/detail/what-good-cyber-programme-delivery-actually-looks-like</link>
+      <description>What Good Cyber Programme Delivery Actually Looks Like</description>
+      <guid isPermaLink="false">https://www.bridewell.com/insights/blogs/detail/what-good-cyber-programme-delivery-actually-looks-like</guid>
     </item>
     <item>
       <title>BridewellCon 2025: Living the Values!</title>
