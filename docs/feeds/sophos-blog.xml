@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 13:32:17 +0000</lastBuildDate>
-    <item>
-      <title>Never Bring a Knife to a Gun Fight!</title>
-      <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
-      <description>&lt;p&gt;Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can improve forensic investigations, regulatory preparedness, communications, recovery, and overall cyber resilience.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 22:40:17 +0000</lastBuildDate>
     <item>
       <title>AI used in Aur0ra ransomware testing and execution</title>
       <link>https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</link>
@@ -69,6 +62,13 @@
       <description>&lt;p&gt;Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Killing ill-willed skills: Sophos AI at BSides Sydney</title>
+      <link>https://www.sophos.com/en-us/blog/killing-ill-willed-skills-sophos-ai-at-bsides-sydney</link>
+      <description>&lt;p&gt;The Sophos AI team presents new research at BSides Sydney&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/killing-ill-willed-skills-sophos-ai-at-bsides-sydney</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 13:31:12 +0000</lastBuildDate>
-    <item>
-      <title>The 3 AM Problem: Why Attacks Strike After Hours</title>
-      <link>https://www.sonicwall.com/blog/the-3-am-problem-you-can-t-ignore</link>
-      <description>Cyberattacks often strike outside business hours. Learn why the 3 AM Problem leaves organizations exposed and how MSPs can close the gap.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-3-am-problem-you-can-t-ignore</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 22:39:08 +0000</lastBuildDate>
     <item>
       <title>Visions of Cyberattacks: How SonicSentry Solves the 3 AM Problem</title>
       <link>https://www.sonicwall.com/blog/visions-of-cyber-attacks-the-sonicsentry-soc-in-action-on-christmas-morning</link>
@@ -149,6 +143,12 @@
       <title>Inside JBootstrap: A Rust-Based Loader Hiding a Full Java RAT</title>
       <link>https://www.sonicwall.com/blog/inside-jbootstrap-a-rust-based-loader-hiding-a-full-java-rat</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/inside-jbootstrap-a-rust-based-loader-hiding-a-full-java-rat</guid>
+    </item>
+    <item>
+      <title>A Closer Look at the Ransomware Posing as Microsoft Edge</title>
+      <link>https://www.sonicwall.com/blog/a-technical-look-at-wardenstealer</link>
+      <description>This week, the SonicWall Capture Labs Threat Research Team reviewed a sample of WardenStealer malware. WardenStealer is highly evasive and uses multiple types of obfuscation, encoding, and indirect calls to prevent analysis, monitor the system and exfiltrate data. In addition, Java library use means the binary is loaded as a DLL instead of a normal PE file when run.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-technical-look-at-wardenstealer</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>

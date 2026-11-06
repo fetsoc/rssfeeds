@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 13:31:16 +0000</lastBuildDate>
-    <item>
-      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
-      <link>https://www.netcraft.com/blog/netcraft-launches-new-ui-dashboard</link>
-      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/netcraft-launches-new-ui-dashboard</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 22:39:13 +0000</lastBuildDate>
     <item>
       <title>Fake crypto scams try to piggyback off SpaceX IPO</title>
       <link>https://www.netcraft.com/blog/fake-tax-forms-spacex-ipo-offer</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/how-attackers-are-capitalizing-on-the-hype-around-the-grand-theft-auto-vi-release</link>
       <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/how-attackers-are-capitalizing-on-the-hype-around-the-grand-theft-auto-vi-release</guid>
+    </item>
+    <item>
+      <title>Netcraft | The Industry Leader in Enterprise Brand Protection</title>
+      <link>https://www.netcraft.com/blog/hospitality-phishing-cluster-uses-personalized-hotel-reservations-and-interactive-card-verification</link>
+      <description>Leader in Phishing Detection, Cybercrime Disruption, and Website Takedown</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/hospitality-phishing-cluster-uses-personalized-hotel-reservations-and-interactive-card-verification</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
