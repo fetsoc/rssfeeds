@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 04:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:32:17 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 2, October 2026</title>
       <link>https://asec.ahnlab.com/en/95738/</link>
@@ -21,13 +21,6 @@
       <description>Overview In the third quarter of 2026, there was a notable increase in cases where attackers attempted to establish persistence and expand their attacks using paths trusted by the organization following their initial access. Attacks on perimeter devices such as NetScaler and Cisco FMC led to the installation of web shells (server-side scripts for remote [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95733/</guid>
       <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
-      <link>https://asec.ahnlab.com/en/95808/</link>
-      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Q3 2026 Statistical Report on Malware Targeting Windows Web Servers</title>
@@ -44,11 +37,32 @@
       <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
+      <link>https://asec.ahnlab.com/en/95808/</link>
+      <description>Contents The AhnLab SEcurity intelligence Center (ASEC) collected attack logs targeting poorly managed Linux SSH servers through honeypots. This report compiles statistics by categorizing the attack sources identified in the third quarter of 2026, the attacks carried out from those sources, and the malware used. The report also provides a classification of the malware used [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95808/</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Beware of Phishing Emails Disguised as Purchase Orders</title>
       <link>https://asec.ahnlab.com/en/95841/</link>
       <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails being circulated that disguise themselves as requests to confirm purchase orders. The email body asks recipients to review the attached purchase order and reply with the relevant information, prompting users to download and open the attached DOCX file. Attachment: PURCHASED ORDER.Docx &amp;#160; [Figure [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95841/</guid>
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2026 Dark Web Breach Incident Trend Report</title>
+      <link>https://asec.ahnlab.com/en/95764/</link>
+      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Issues in the Korean &amp; Global Financial Sector in September 2026</title>
+      <link>https://asec.ahnlab.com/en/96155/</link>
+      <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (attacks that trick users into revealing information) had the highest rate at 2.1, Up from 1.8 The previous month. In Attack Stage 2, “Dropper/Downloader” (a type that downloads additional malware) was the most common at 1.1, Though this was a decrease from [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96155/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>September 2026 Threat Trend Report on Ransomware</title>
@@ -69,20 +83,6 @@
       <link>https://asec.ahnlab.com/en/95769/</link>
       <description>Note The September 2026 Dark Web Issue Trend Report summarizes major issues that occurred on the deep web and dark web. However, the report notes that due to the nature of the sources, it may be difficult to fully verify the accuracy of some information. Major Issues The official launch of a new dark web [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/95769/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>September 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95764/</link>
-      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Security Issues in the Korean &amp; Global Financial Sector in September 2026</title>
-      <link>https://asec.ahnlab.com/en/96155/</link>
-      <description>Statistics on Malware Distributed to the Financial Sector In Attack Stage 1, phishing (attacks that trick users into revealing information) had the highest rate at 2.1, Up from 1.8 The previous month. In Attack Stage 2, “Dropper/Downloader” (a type that downloads additional malware) was the most common at 1.1, Though this was a decrease from [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/96155/</guid>
       <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
