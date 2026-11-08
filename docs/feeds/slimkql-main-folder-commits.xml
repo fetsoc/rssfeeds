@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-main-folder-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 03:39:57 +0000</lastBuildDate>
-    <item>
-      <title>Add files via upload</title>
-      <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/52b11097932a96b523060a646a292d7564591e7d</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/52b11097932a96b523060a646a292d7564591e7d</guid>
-      <pubDate>Thu, 10 Sep 2026 07:53:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 12:31:20 +0000</lastBuildDate>
     <item>
       <title>Add files via upload</title>
       <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/d4bd87180ffa211abfd46baf84e1594be724b666</link>
@@ -149,6 +142,13 @@
 Add KQL query to identify inbound connections from specified IPs.&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/49b6acd24885b26f8a7f60919b854aebd8406238</guid>
       <pubDate>Sun, 01 Nov 2026 04:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add files via upload</title>
+      <link>https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/8598b9820ec25ffccb6d437788cc4291272cc02d</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Add files via upload&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Hunting-Queries-Detection-Rules/commit/8598b9820ec25ffccb6d437788cc4291272cc02d</guid>
+      <pubDate>Sun, 08 Nov 2026 05:31:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
