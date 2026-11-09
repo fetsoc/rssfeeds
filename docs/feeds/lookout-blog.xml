@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/lookout-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 03:53:13 +0000</lastBuildDate>
-    <item>
-      <title>What Is a Large Language Model (LLM)?</title>
-      <link>https://security.lookout.com/blog/large-language-model</link>
-      <description>Learn about large language models (LLMs), key concepts such as transformers and training data, and the opportunities and risks they present to organizations.</description>
-      <guid isPermaLink="false">https://security.lookout.com/blog/large-language-model</guid>
-    </item>
-    <item>
-      <title>How to Stay Current with Changing Security Landscape: Feat. Head of Security from BNP Paribas</title>
-      <link>https://security.lookout.com/blog/keeping-current-with-changing-security-landscape</link>
-      <description>I spoke with Ramy Houssaini, Chief Cyber and Technology Risk Officer at BNP Paribas, about the challenges CISOs face in an increasingly complex digital landscape.</description>
-      <guid isPermaLink="false">https://security.lookout.com/blog/keeping-current-with-changing-security-landscape</guid>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 14:49:26 +0000</lastBuildDate>
     <item>
       <title>LLM Security Checklist: Essential Steps for Identifying and Blocking Jailbreak Attempts</title>
       <link>https://security.lookout.com/blog/jailbreaking</link>
@@ -93,6 +81,12 @@
       <guid isPermaLink="false">https://security.lookout.com/blog/endpoint-detection-and-response</guid>
     </item>
     <item>
+      <title>Is Your Inbox a Cybersecurity Risk?</title>
+      <link>https://security.lookout.com/blog/email-eavesdroppers</link>
+      <description>Employee email accounts are chock-full of sensitive information from intellectual property to customer data, which makes securing email servers crucial.</description>
+      <guid isPermaLink="false">https://security.lookout.com/blog/email-eavesdroppers</guid>
+    </item>
+    <item>
       <title>The Role of Digital Forensics and Incident Response (DFIR) in Cybersecurity</title>
       <link>https://security.lookout.com/blog/digital-forensics-and-incident-response</link>
       <description>Learn how to develop a comprehensive digital forensics and incident response (DFIR) strategy, which can help your organization recover after a data breach.</description>
@@ -115,6 +109,11 @@
       <link>https://security.lookout.com/blog/data-leakage-protection-secure-email-gateway</link>
       <description>This large financial services firm needed to ensure they were protecting data in email without increasing complexity or limiting productivity.</description>
       <guid isPermaLink="false">https://security.lookout.com/blog/data-leakage-protection-secure-email-gateway</guid>
+    </item>
+    <item>
+      <title>https://security.lookout.com/blog/data-leakage-prevention-with-lookout</title>
+      <link>https://security.lookout.com/blog/data-leakage-prevention-with-lookout</link>
+      <guid isPermaLink="false">https://security.lookout.com/blog/data-leakage-prevention-with-lookout</guid>
     </item>
     <item>
       <title>Attackers Wielding DarkSword Threaten iOS Users | Threat Intel</title>

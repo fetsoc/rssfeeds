@@ -7,7 +7,35 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 03:53:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:49:35 +0000</lastBuildDate>
+    <item>
+      <title>Our top five cybersecurity predictions for 2024</title>
+      <link>https://expel.com/blog/our-top-five-cybersecurity-predictions-for-2024/</link>
+      <description>Here are our top five cybersecurity predictions for 2024 from Expel experts and leadership based on trends and current events.</description>
+      <guid isPermaLink="false">https://expel.com/blog/our-top-five-cybersecurity-predictions-for-2024/</guid>
+      <pubDate>Wed, 20 Dec 2023 16:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s it like being a female site reliability engineer?</title>
+      <link>https://expel.com/blog/whats-it-like-being-a-female-site-reliability-engineer/</link>
+      <description>This interview highlights two female engineers at Expel, and their experiences throughout their careers in the industry as women.</description>
+      <guid isPermaLink="false">https://expel.com/blog/whats-it-like-being-a-female-site-reliability-engineer/</guid>
+      <pubDate>Wed, 10 Jan 2024 19:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working with your SOC/MDR during a security assessment</title>
+      <link>https://expel.com/blog/working-with-your-soc-mdr-during-a-security-assessment/</link>
+      <description>There are different kinds of security assessments, and what you perform should be aligned to your organization's goals.</description>
+      <guid isPermaLink="false">https://expel.com/blog/working-with-your-soc-mdr-during-a-security-assessment/</guid>
+      <pubDate>Thu, 11 Jan 2024 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessing suspicious Outlook rules: an exercise</title>
+      <link>https://expel.com/blog/assessing-suspicious-outlook-rules-an-exercise/</link>
+      <description>Outlook Inbox rules are used for legitimate and malicious reasons. Use these case exercises, tips, and tricks on how to analyze them.</description>
+      <guid isPermaLink="false">https://expel.com/blog/assessing-suspicious-outlook-rules-an-exercise/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:46:53 +0000</pubDate>
+    </item>
     <item>
       <title>New mind maps &amp; cheat sheets: Azure &amp; Kubernetes</title>
       <link>https://expel.com/blog/new-mind-maps-cheat-sheets-azure-kubernetes/</link>
@@ -247,20 +275,6 @@
       <pubDate>Mon, 17 Mar 2025 14:20:03 +0000</pubDate>
     </item>
     <item>
-      <title>Stressed SOC? Data's your best ally to justify more resources</title>
-      <link>https://expel.com/blog/stressed-soc-datas-your-best-ally-to-justify-more-resources/</link>
-      <description>Use analyst workload metrics and efficiency KPIs data to build a business case for more SOC resources and increased budget.</description>
-      <guid isPermaLink="false">https://expel.com/blog/stressed-soc-datas-your-best-ally-to-justify-more-resources/</guid>
-      <pubDate>Wed, 19 Mar 2025 17:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the Expletive: Samantha Ridel, Partner Integrations Manager</title>
-      <link>https://expel.com/blog/meet-the-expletive-samantha-ridel-partner-integrations-manager/</link>
-      <description>Meet Samantha Ridel, a Partner Integrations Manager at Expel. Learn why she's a lead for our women's ERG, and how she feels about owls.</description>
-      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-samantha-ridel-partner-integrations-manager/</guid>
-      <pubDate>Mon, 24 Mar 2025 13:46:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Expletive spotlight: Women’s History Month</title>
       <link>https://expel.com/blog/expletive-spotlight-womens-history-month/</link>
       <description>To round out our Women's History Month celebrations, we asked Expletives to share their thoughts on gender parity.</description>
@@ -303,13 +317,6 @@
       <pubDate>Fri, 13 Jun 2025 13:05:28 +0000</pubDate>
     </item>
     <item>
-      <title>Meet the Expletive: Hafsah Mijinyawa, Senior Motion Designer</title>
-      <link>https://expel.com/blog/meet-the-expletive-hafsah-mijinyawa-senior-motion-designer/</link>
-      <description>Meet Hafsah Mijinyawa, Senior Motion Designer at Expel. Hafsah is a seasoned storyteller who shares her art through visuals.</description>
-      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-hafsah-mijinyawa-senior-motion-designer/</guid>
-      <pubDate>Tue, 17 Jun 2025 15:58:57 +0000</pubDate>
-    </item>
-    <item>
       <title>Key takeaways from AWS re:Inforce 2025</title>
       <link>https://expel.com/blog/key-takeaways-from-aws-reinforce-2025/</link>
       <description>Expel recently attended the 2025 AWS re:Inforce conference, where our CEO David Merkel spoke at AWS Security Live. Here's what we learned.</description>
@@ -350,13 +357,6 @@
       <description>Black Hat 2025 has come to an end, but here's what we're still thinking about and expect to continue seeing in headlines and strategies.</description>
       <guid isPermaLink="false">https://expel.com/blog/black-hat-2025-what-were-still-thinking-about/</guid>
       <pubDate>Fri, 15 Aug 2025 18:38:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the Expletive: James Shank, Director of Threat Operations</title>
-      <link>https://expel.com/blog/meet-the-expletive-james-shank-director-of-threat-operations/</link>
-      <description>Meet James Shank, Expel's first Director of Threat Operations. We cover James' past career experience, and why he thrives in the chaos.</description>
-      <guid isPermaLink="false">https://expel.com/blog/meet-the-expletive-james-shank-director-of-threat-operations/</guid>
-      <pubDate>Fri, 22 Aug 2025 15:55:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
