@@ -7,34 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 14:03:26 +0000</lastBuildDate>
-    <item>
-      <title>AI used in Aur0ra ransomware testing and execution</title>
-      <link>https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</link>
-      <description>&lt;p&gt;The GOLD OGRE threat group has used AI extensively to develop tools and to orchestrate and execute ransomware operations&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Physical Penetration Testing: When Human Trust Bypasses Layers of Security with a Simple Pretext</title>
-      <link>https://www.sophos.com/en-us/blog/physical-penetration-testing-when-human-trust-bypasses-layers-of-security-with-a-simple-pretext</link>
-      <description>&lt;p&gt;A physical penetration test reveals how social engineering, badge security gaps, exposed network access, and everyday human behavior can undermine layers of physical security.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/physical-penetration-testing-when-human-trust-bypasses-layers-of-security-with-a-simple-pretext</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malicious Claude Code extension distributed through Cursor marketplace</title>
-      <link>https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Firewall v23 is now available</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-firewall-v23-now-available</link>
-      <description>&lt;p&gt;Delivering 30 of your top-requested features&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-firewall-v23-now-available</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 22:44:28 +0000</lastBuildDate>
     <item>
       <title>What happens when a fake coding test reaches a security company?</title>
       <link>https://www.sophos.com/en-us/blog/fake-coding-test-reaches-security-company</link>
@@ -69,6 +42,33 @@
       <description>&lt;p&gt;The Sophos AI team presents new research at BSides Sydney&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/killing-ill-willed-skills-sophos-ai-at-bsides-sydney</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of Ransomware in Retail 2026</title>
+      <link>https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026</link>
+      <description>&lt;p&gt;Insights from 217 IT and cybersecurity leaders across the retail sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enforcing intent-based access control at the endpoint</title>
+      <link>https://www.sophos.com/en-us/blog/enforcing-intent-based-access-control-at-the-endpoint</link>
+      <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/enforcing-intent-based-access-control-at-the-endpoint</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>N-able issues advisory on critical vulnerabilities</title>
+      <link>https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARTEX: Attackers apply agentic AI</title>
+      <link>https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</link>
+      <description>&lt;p&gt;An agentic AI pentesting framework is being used in the wild by threat actors&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

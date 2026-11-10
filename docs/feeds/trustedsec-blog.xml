@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 14:03:24 +0000</lastBuildDate>
-    <item>
-      <title>Unpacking a laZzzy Donut</title>
-      <link>https://trustedsec.com/blog/unpacking-a-lazzzy-donut</link>
-      <description>&amp;lt;p&amp;gt;Six stages. Multiple encryption layers. One static analysis. In this blog, we unpack a multi-stage malware loader combining Python obfuscation, Donut shellcode, and laZzzy PE encryption, without executing the payload.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/unpacking-a-lazzzy-donut</guid>
-      <pubDate>Thu, 17 Sep 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 22:44:27 +0000</lastBuildDate>
     <item>
       <title>What's New in hate_crack Since 2.0</title>
       <link>https://trustedsec.com/blog/whats-new-in-hate-crack-since-2-0</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Most teams watch the door; the window gets less attention. In this blog, we cover how auditing Active Directory group enumeration surfaces attacker reconnaissance, and the QuietPhase script to help you get started.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/the-quiet-phase-active-directory-group-enumeration</guid>
       <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CUI and Export Controls</title>
+      <link>https://trustedsec.com/blog/cui-and-export-controls</link>
+      <description>&amp;lt;p&amp;gt;Who can see your CUI? It depends on the marking. In this blog, we clarify how CUI and export controls overlap, where they don’t, and when restrictions on non-U.S. persons apply.&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/cui-and-export-controls</guid>
+      <pubDate>Tue, 10 Nov 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
