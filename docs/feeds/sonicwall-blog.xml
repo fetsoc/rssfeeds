@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 14:49:22 +0000</lastBuildDate>
-    <item>
-      <title>Saturday Night Cyber: How the SonicWall SOC Saved the Day</title>
-      <link>https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</link>
-      <description>See how the SonicSentry SOC detected and stopped a Saturday night cyberattack before it became a major incident.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/saving-the-weekend-how-the-sonicsentry-soc-stopped-a-saturday-night-cyberattack</guid>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 01:01:17 +0000</lastBuildDate>
     <item>
       <title>The SonicSentry SOC in Action in the Morning</title>
       <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
@@ -143,6 +137,11 @@
       <link>https://www.sonicwall.com/blog/a-technical-look-at-wardenstealer</link>
       <description>This week, the SonicWall Capture Labs Threat Research Team reviewed a sample of WardenStealer malware. WardenStealer is highly evasive and uses multiple types of obfuscation, encoding, and indirect calls to prevent analysis, monitor the system and exfiltrate data. In addition, Java library use means the binary is loaded as a DLL instead of a normal PE file when run.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/a-technical-look-at-wardenstealer</guid>
+    </item>
+    <item>
+      <title>Android InfoStealer Threats Continue to Evolve</title>
+      <link>https://www.sonicwall.com/blog/android-info-stealer-threats-continue-to-evolve</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/android-info-stealer-threats-continue-to-evolve</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
