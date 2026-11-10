@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 01:02:18 +0000</lastBuildDate>
-    <item>
-      <title>DORA TLPT Requirements Explained: Where Threat Intelligence Fits</title>
-      <link>https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/</link>
-      <description>&lt;p&gt;The DORA TLPT requirements push selected EU financial entities beyond standard penetration testing. TLPT must be based on realistic threat scenarios, relevant threat actors, and current intelligence about how attacks are actually carried out. That makes threat intelligence a core part of the process. It helps define what should be tested, which TTPs matter, and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/"&gt;DORA TLPT Requirements Explained: Where Threat Intelligence Fits&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/</guid>
-      <pubDate>Fri, 16 Oct 2026 11:36:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 14:03:24 +0000</lastBuildDate>
     <item>
       <title>76% Faster Triage: How US SOCs Increase ROI Through Visibility and Automation</title>
       <link>https://any.run/cybersecurity-blog/increasing-soc-roi/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/"&gt;Your Threat Intelligence Stack Has Blind Spots. Here&amp;#8217;s How to Close Them&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/</guid>
       <pubDate>Thu, 05 Nov 2026 09:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Formbook Targets European Manufacturing and Technology Businesses with Localized Order Lures</title>
+      <link>https://any.run/cybersecurity-blog/formbook-malware-analysis-november-2026/</link>
+      <description>&lt;p&gt;European businesses, particularly in the UK and Italy, face malware campaigns that exploit routine business correspondence. A recent Formbook (now also known as XLoader) campaign uses localized order and procurement lures to deliver an information stealer. Manufacturing and technology companies are especially exposed because employees regularly handle purchase orders, supplier documents, and payment requests. A [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/formbook-malware-analysis-november-2026/"&gt;Formbook Targets European Manufacturing and Technology Businesses with Localized Order Lures&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/formbook-malware-analysis-november-2026/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:40:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

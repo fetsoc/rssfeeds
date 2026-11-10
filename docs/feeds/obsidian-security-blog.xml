@@ -7,18 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/obsidian-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 01:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:03:28 +0000</lastBuildDate>
     <item>
-      <title>Behind the Breach: Malicious Attack on Cyberhaven’s Chrome Extension Developer Team</title>
-      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-malicious-attack-on-cyberhavens-chrome-extension-developer-team</link>
-      <description>OBSIDIAN THREAT RESEARCH TEAM</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-malicious-attack-on-cyberhavens-chrome-extension-developer-team</guid>
-    </item>
-    <item>
-      <title>Behind the Breach: Cross-tenant Impersonation in Okta</title>
-      <link>https://www.obsidiansecurity.com/blog/behind-the-breach-cross-tenant-impersonation-in-okta</link>
-      <description>Analyze cross-tenant impersonation attacks in Okta. Understand the vulnerability, attack vectors, and security controls to prevent identity spoofing.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/behind-the-breach-cross-tenant-impersonation-in-okta</guid>
+      <title>Artex and the Rise of Agentic Exploitation: Hours, Not Days, to Privileged Access</title>
+      <link>https://www.obsidiansecurity.com/blog/artex-and-the-rise-of-agentic-exploitation-hours-not-days-to-privileged-access</link>
+      <description>Agentic frameworks like Artex reduce cyberattack response windows from days to hours. Learn how AI exploitation works and how to protect your SaaS apps.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/artex-and-the-rise-of-agentic-exploitation-hours-not-days-to-privileged-access</guid>
     </item>
     <item>
       <title>Are Your ServiceNow ACLs Publicly Exposing Data?</title>
@@ -31,6 +25,12 @@
       <link>https://www.obsidiansecurity.com/blog/architecture-gap-agent-security</link>
       <description>Every agent security tool on the market is watching agent behavior. That's not where the risk lives. Here's the layer the entire market is missing.</description>
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/architecture-gap-agent-security</guid>
+    </item>
+    <item>
+      <title>Introducing app-native AI discovery and governance</title>
+      <link>https://www.obsidiansecurity.com/blog/app-native-ai-agent-discovery-governance</link>
+      <description>Find the AI agents built into your third-party apps, see what each one can reach, and hold them to the same standards as the apps they live in.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/app-native-ai-agent-discovery-governance</guid>
     </item>
     <item>
       <title>Life of a Phish</title>
@@ -195,6 +195,12 @@
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-security-framework</guid>
     </item>
     <item>
+      <title>The Cost of Impact: What One Wrong AI Agent Action Is Worth</title>
+      <link>https://www.obsidiansecurity.com/blog/ai-agent-security-cost-of-impact</link>
+      <description>Frontier AI cut the cost of attack. AI agents raised the cost of impact. Contain it by deciding each action before it runs, not reporting it the next morning.</description>
+      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/ai-agent-security-cost-of-impact</guid>
+    </item>
+    <item>
       <title>AI Agents Are Rewriting SaaS Security. Are You Ready?</title>
       <link>https://www.obsidiansecurity.com/blog/ai-agent-security</link>
       <description>Discover how AI agents are transforming SaaS security requirements. Learn why traditional controls fall short and what new protections enterprises need.</description>
@@ -284,13 +290,6 @@
       <description>Build comprehensive data inventories and mappings for SaaS. Discover where sensitive data lives and how it flows across applications.</description>
       <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/data-guardianship-data-inventories-and-data-mappings</guid>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerging Identity Threats: The Muddy Waters of Residential Proxies</title>
-      <link>https://www.obsidiansecurity.com/blog/emerging-identity-threats-the-muddy-waters-of-residential-proxies</link>
-      <description>Navigate emerging identity threats from residential proxies. Understand how attackers use legitimate infrastructure to evade detection.</description>
-      <guid isPermaLink="false">https://www.obsidiansecurity.com/blog/emerging-identity-threats-the-muddy-waters-of-residential-proxies</guid>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Behind the Shield: Cracking the Limits of Okta FastPass</title>

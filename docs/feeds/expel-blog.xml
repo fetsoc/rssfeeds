@@ -7,7 +7,21 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 01:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:01:55 +0000</lastBuildDate>
+    <item>
+      <title>What to expect in NIST CSF 2.0</title>
+      <link>https://expel.com/blog/what-to-expect-in-nist-csf-2-0/</link>
+      <description>The NIST Cybersecurity Framework 2.0 provides guidance and new tools for strategic development and program evaluation.</description>
+      <guid isPermaLink="false">https://expel.com/blog/what-to-expect-in-nist-csf-2-0/</guid>
+      <pubDate>Wed, 06 Dec 2023 16:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>What frameworks and tools drive security maturity?</title>
+      <link>https://expel.com/blog/what-frameworks-and-tools-drive-security-maturity/</link>
+      <description>New research by the SANS Institute, commissioned by Expel, outlines the frameworks, tools, and techniques that drive security maturity.</description>
+      <guid isPermaLink="false">https://expel.com/blog/what-frameworks-and-tools-drive-security-maturity/</guid>
+      <pubDate>Tue, 19 Dec 2023 14:00:59 +0000</pubDate>
+    </item>
     <item>
       <title>Our top five cybersecurity predictions for 2024</title>
       <link>https://expel.com/blog/our-top-five-cybersecurity-predictions-for-2024/</link>
@@ -261,13 +275,6 @@
       <pubDate>Wed, 12 Mar 2025 16:36:34 +0000</pubDate>
     </item>
     <item>
-      <title>The power of API integrations in managed detection and response (MDR)</title>
-      <link>https://expel.com/blog/the-power-of-api-integrations-in-mdr/</link>
-      <description>Expel's API connection expertise is the strongest way to collect telemetry, secure your environment, and limit threats.</description>
-      <guid isPermaLink="false">https://expel.com/blog/the-power-of-api-integrations-in-mdr/</guid>
-      <pubDate>Fri, 14 Mar 2025 13:30:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Expletive spotlight: Expel in Ireland</title>
       <link>https://expel.com/blog/expletive-spotlight-expel-in-ireland/</link>
       <description>Meet three of our Irish Expletives in honor of St. Patrick's Day. Expel Ireland is hiring!</description>
@@ -294,13 +301,6 @@
       <description>At Expel, we AI Responsibly. Our latest project focused on generating key findings (KF) to detail incident investigations.</description>
       <guid isPermaLink="false">https://expel.com/blog/key-findings-generation-with-genai/</guid>
       <pubDate>Fri, 04 Apr 2025 13:38:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The great SIEM paradox: does more data equal better security?</title>
-      <link>https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</link>
-      <description>More data doesn't equate to better security. Understand what data belongs in a SIEM (and what doesn't), and how Expel MDR can help.</description>
-      <guid isPermaLink="false">https://expel.com/blog/the-great-siem-paradox-does-more-data-equal-better-security/</guid>
-      <pubDate>Thu, 17 Apr 2025 14:00:13 +0000</pubDate>
     </item>
     <item>
       <title>Expel launches proactive defense for email threats</title>
