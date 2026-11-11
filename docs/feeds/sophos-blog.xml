@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 03:58:57 +0000</lastBuildDate>
-    <item>
-      <title>What happens when a fake coding test reaches a security company?</title>
-      <link>https://www.sophos.com/en-us/blog/fake-coding-test-reaches-security-company</link>
-      <description>&lt;p&gt;Fake job interviews are an established way to target developers&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/fake-coding-test-reaches-security-company</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 13:21:03 +0000</lastBuildDate>
     <item>
       <title>Securing the AI-era network: Why performance and defense now belong together</title>
       <link>https://www.sophos.com/en-us/blog/securing-the-ai-era-network-why-performance-and-defense-now-belong-together</link>
@@ -69,6 +62,13 @@
       <description>&lt;p&gt;An agentic AI pentesting framework is being used in the wild by threat actors&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your training data is boring: Anomaly detection with LLMs</title>
+      <link>https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</link>
+      <description>&lt;p&gt;The Sophos AI team presents new research on anomaly detection&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
