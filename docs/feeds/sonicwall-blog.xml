@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 22:43:25 +0000</lastBuildDate>
-    <item>
-      <title>The SonicSentry SOC in Action in the Morning</title>
-      <link>https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</link>
-      <description>An alert may seem small, but tackling it quickly could be the difference between a good day and a very bad one.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/small-alert-big-defense-the-sonicsentry-soc-in-action-first-thing-in-the-morning</guid>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 03:57:23 +0000</lastBuildDate>
     <item>
       <title>Why Unified Security Operations Matter for Modern Networks</title>
       <link>https://www.sonicwall.com/blog/the-future-of-network-security-operations-is-unified</link>
@@ -142,6 +136,11 @@
       <title>Android InfoStealer Threats Continue to Evolve</title>
       <link>https://www.sonicwall.com/blog/android-info-stealer-threats-continue-to-evolve</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/android-info-stealer-threats-continue-to-evolve</guid>
+    </item>
+    <item>
+      <title>Microsoft Security Bulletin Coverage for November 2026</title>
+      <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-november-2026</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-november-2026</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
