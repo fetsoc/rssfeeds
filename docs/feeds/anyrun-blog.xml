@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 05:07:52 +0000</lastBuildDate>
-    <item>
-      <title>Your New MTTR Shortcut — Introducing Related Threat Context: Cut Time-to-Triage with Actionable IOC Context</title>
-      <link>https://any.run/cybersecurity-blog/related-threat-context-release/</link>
-      <description>&lt;p&gt;During triage, analysts may overlook valuable threat intelligence simply because they don&amp;#8217;t know it exists. Previous investigations, related malicious activity, and industry-specific observations could provide the context needed to decide what to investigate next. Now, all that valuable context is finally within reach! With Related Threat Context, now available to ANY.RUN Enterprise clients, SOC and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/related-threat-context-release/"&gt;Your New MTTR Shortcut — Introducing Related Threat Context: Cut Time-to-Triage with Actionable IOC Context&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/related-threat-context-release/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:14:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 14:24:16 +0000</lastBuildDate>
     <item>
       <title>Cyber Threat Context for Early Response: Enriching SOC Telemetry with Real-Time Intel from 16K Organizations</title>
       <link>https://any.run/cybersecurity-blog/cyber-threat-context-for-early-soc-triage-response/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/us-mssp-success-story/"&gt;American MSSP Company on Integrating Threat Intelligence to Scale Without Sacrificing Quality&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/us-mssp-success-story/</guid>
       <pubDate>Wed, 11 Nov 2026 09:43:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Intelligence for NIS2 Compliance: Is Your Security Stack Giving You the Full Picture?</title>
+      <link>https://any.run/cybersecurity-blog/threat-intelligence-nis2-compliance/</link>
+      <description>&lt;p&gt;Investing heavily in cybersecurity is a positive trend observed across the EU. Companies implement SIEM, EDR, threat intelligence and dedicated SOC teams. Everything seems to be in place, the budgets have been spent. But what does it take for security leaders to conclude that these investments are well-spent and keep their organization protected? With the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/threat-intelligence-nis2-compliance/"&gt;Threat Intelligence for NIS2 Compliance: Is Your Security Stack Giving You the Full Picture?&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/threat-intelligence-nis2-compliance/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
