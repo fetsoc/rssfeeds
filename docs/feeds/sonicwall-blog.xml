@@ -7,19 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 14:22:26 +0000</lastBuildDate>
-    <item>
-      <title>Automated Remediation in NSM Raises the Bar</title>
-      <link>https://www.sonicwall.com/blog/automation-that-protects-how-sonicwall-s-new-remediation-capabilities-raise-the-bar</link>
-      <description>SonicWall NSM introduces automated remediation for faster, more consistent response across distributed environments, built Secure by Design.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/automation-that-protects-how-sonicwall-s-new-remediation-capabilities-raise-the-bar</guid>
-    </item>
-    <item>
-      <title>NSM 3.5 SaaS: Built-In Security for Firewall Management</title>
-      <link>https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</link>
-      <description>NSM 3.5 SaaS integrates credential protection, secure backups and advanced analytics directly into firewall management workflows.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-nsm-3-5-saas-delivers-security-that-s-built-in-not-bolted-on</guid>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 23:01:39 +0000</lastBuildDate>
     <item>
       <title>Unified Firewall Analytics with SonicWall NSM</title>
       <link>https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</link>
@@ -135,6 +123,17 @@
       <title>Microsoft Security Bulletin Coverage for November 2026</title>
       <link>https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-november-2026</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/microsoft-security-bulletin-coverage-for-november-2026</guid>
+    </item>
+    <item>
+      <title>MSS Dashboard Is Now Available in SonicWall Unified Management</title>
+      <link>https://www.sonicwall.com/blog/mss-dashboard-is-now-available-in-sonicwall-unified-management</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/mss-dashboard-is-now-available-in-sonicwall-unified-management</guid>
+    </item>
+    <item>
+      <title>SonicOS 8.2.3 SD-WAN, BGP and OSPF Routing Features</title>
+      <link>https://www.sonicwall.com/blog/sonicos-8-2-3-networking-flexible-as-you-grow</link>
+      <description>SonicOS 8.2.3 adds Hybrid SD-WAN, OSPF graceful restart, BGP ECMP, OAuth 2.0 alert email and a custom captive portal for Gen 8 firewalls.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-3-networking-flexible-as-you-grow</guid>
     </item>
     <item>
       <title>SonicOS 8.2.3 Security: Secure Defaults and SaaS and AI Policy</title>
