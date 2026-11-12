@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 23:56:01 +0000</lastBuildDate>
-    <item>
-      <title>Securing the AI-era network: Why performance and defense now belong together</title>
-      <link>https://www.sophos.com/en-us/blog/securing-the-ai-era-network-why-performance-and-defense-now-belong-together</link>
-      <description>&lt;p&gt;Secure the AI-era network by combining high-performance protection, deeper visibility across every environment, and coordinated response that stops fast-moving threats sooner.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/securing-the-ai-era-network-why-performance-and-defense-now-belong-together</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 05:07:53 +0000</lastBuildDate>
     <item>
       <title>SIEM or XDR? Yes</title>
       <link>https://www.sophos.com/en-us/blog/siem-or-xdr-yes</link>
@@ -68,6 +61,12 @@
       <link>https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</link>
       <description>&lt;p&gt;The Sophos AI team presents new research on anomaly detection&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malicious ScreenConnect deployments observed</title>
+      <link>https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

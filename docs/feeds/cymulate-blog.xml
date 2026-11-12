@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cymulate-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 23:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:06:28 +0000</lastBuildDate>
     <item>
       <title>Compromising a Domain With the Help of a Spooler</title>
       <link>https://cymulate.com/blog/compromising-a-domain/</link>
