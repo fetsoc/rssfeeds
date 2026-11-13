@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 13:42:20 +0000</lastBuildDate>
-    <item>
-      <title>Unified Firewall Analytics with SonicWall NSM</title>
-      <link>https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</link>
-      <description>Break down security silos with unified firewall analytics and reporting through SonicWall NSM and Unified Management.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/your-data-unified-firewall-analytics-and-reporting-without-the-silos</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 23:04:17 +0000</lastBuildDate>
     <item>
       <title>The SOC Van Pelt Report: Barely Winning is Almost Losing</title>
       <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-almost-losing-is-still-a-warning</link>
@@ -128,6 +122,12 @@
       <title>MSS Dashboard Is Now Available in SonicWall Unified Management</title>
       <link>https://www.sonicwall.com/blog/mss-dashboard-is-now-available-in-sonicwall-unified-management</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/mss-dashboard-is-now-available-in-sonicwall-unified-management</guid>
+    </item>
+    <item>
+      <title>SonicWall Earns Top Honors Across the ASCII Event Series</title>
+      <link>https://www.sonicwall.com/blog/partners-have-spoken-sonicwall-earns-top-honors-across-the-ascii-event-series</link>
+      <description>Partner recognition at six ASCII events and a fourth-place finish at the ASCII Cup confirm our commitment to the channel.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/partners-have-spoken-sonicwall-earns-top-honors-across-the-ascii-event-series</guid>
     </item>
     <item>
       <title>SonicOS 8.2.3 SD-WAN, BGP and OSPF Routing Features</title>
