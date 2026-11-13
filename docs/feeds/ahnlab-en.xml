@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 23:02:44 +0000</lastBuildDate>
-    <item>
-      <title>Q3 2026 Statistical Report on Malware Targeting Windows Database Servers</title>
-      <link>https://asec.ahnlab.com/en/95809/</link>
-      <description>Content The AhnLab SEcurity intelligence Center (ASEC) observed and classified attacks targeting MS-SQL servers and MySQL servers installed on Windows operating systems via the ASD infrastructure. This report summarizes the damage status, attack status, and the types of malware used in the attacks, based on logs identified in the third quarter of 2026. Purpose and [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95809/</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 04:23:47 +0000</lastBuildDate>
     <item>
       <title>Statistical Report on Malware Targeting Linux SSH Servers in the Third Quarter of 2026</title>
       <link>https://asec.ahnlab.com/en/95808/</link>
@@ -210,6 +203,13 @@
       <description>ASEC Blog publishes Ransom &amp;#38; Dark Web Issues Week 2, November 2026 &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; INC Ransom Claims Data Theft from a South Korean Chemical Manufacturer Metaencryptor Lists Five South Korean Companies as Ransomware Victims&amp;#160;[1] [2] [3] [4] [5] French Government Reports Iran-Linked Activity in Refrigeration Cyberattacks Hyflock Claims Large-Scale Data Theft from [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96481/</guid>
       <pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beware of phishing emails disguised as purchase order confirmation requests (Xloader)</title>
+      <link>https://asec.ahnlab.com/en/96513/</link>
+      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified a case of phishing emails that disguise themselves as requests to confirm purchase orders. The email body prompts recipients to open a malicious DOCX file disguised as a purchase order to verify the order. &amp;#160; [Figure 1] Phishing email body &amp;#160; When a user downloads and opens [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96513/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Beware of phishing emails disguised as quote requests (SnakeKeylogger)</title>
