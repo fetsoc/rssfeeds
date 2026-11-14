@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 23:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:19:56 +0000</lastBuildDate>
     <item>
       <title>SIEM or XDR? Yes</title>
       <link>https://www.sophos.com/en-us/blog/siem-or-xdr-yes</link>
@@ -36,6 +36,13 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>ARTEX: Attackers apply agentic AI</title>
+      <link>https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</link>
+      <description>&lt;p&gt;An agentic AI pentesting framework is being used in the wild by threat actors&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The State of Ransomware in Retail 2026</title>
       <link>https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026</link>
       <description>&lt;p&gt;Insights from 217 IT and cybersecurity leaders across the retail sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
@@ -47,13 +54,6 @@
       <link>https://www.sophos.com/en-us/blog/enforcing-intent-based-access-control-at-the-endpoint</link>
       <description>&lt;p&gt;This article was first published on LinkedIn.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/enforcing-intent-based-access-control-at-the-endpoint</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ARTEX: Attackers apply agentic AI</title>
-      <link>https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</link>
-      <description>&lt;p&gt;An agentic AI pentesting framework is being used in the wild by threat actors&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
