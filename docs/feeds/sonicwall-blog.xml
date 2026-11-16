@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 04:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:24:37 +0000</lastBuildDate>
     <item>
       <title>The SOC Van Pelt Report: Barely Winning is Almost Losing</title>
       <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-almost-losing-is-still-a-warning</link>
