@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 14:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:24:30 +0000</lastBuildDate>
     <item>
       <title>SkyW4lker Exposed: A Growing Microsoft 365 Phishing Threat to American Enterprises</title>
       <link>https://any.run/cybersecurity-blog/skyw4lker-phishing-kit-analysis/</link>

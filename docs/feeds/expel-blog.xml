@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/expel-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 14:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:23:31 +0000</lastBuildDate>
+    <item>
+      <title>What outcomes can you expect from security-enabled innovation?</title>
+      <link>https://expel.com/blog/what-outcomes-can-you-expect-from-security-enabled-innovation/</link>
+      <description>Security ROI research shows that security investments drive innovation, which has wide-reaching ripple effects that enable business success.</description>
+      <guid isPermaLink="false">https://expel.com/blog/what-outcomes-can-you-expect-from-security-enabled-innovation/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:16:06 +0000</pubDate>
+    </item>
     <item>
       <title>What to expect in NIST CSF 2.0</title>
       <link>https://expel.com/blog/what-to-expect-in-nist-csf-2-0/</link>
@@ -189,13 +196,6 @@
       <description>This is part three of a three-part blog series on how MDR can transform your SIEM investment by augmenting and optimizing its capabilities.</description>
       <guid isPermaLink="false">https://expel.com/blog/part-iii-how-mdr-can-transform-your-siem-investment/</guid>
       <pubDate>Fri, 15 Nov 2024 14:51:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Part I: Fundamentals of Kubernetes security</title>
-      <link>https://expel.com/blog/part-i-fundamentals-of-kubernetes-security/</link>
-      <description>Learn about the fundamentals of Kubernetes, including its architecture, challenges, and false positives in part one of this two-part blog series.</description>
-      <guid isPermaLink="false">https://expel.com/blog/part-i-fundamentals-of-kubernetes-security/</guid>
-      <pubDate>Thu, 21 Nov 2024 14:27:41 +0000</pubDate>
     </item>
     <item>
       <title>Part II: Fundamentals of Kubernetes security</title>

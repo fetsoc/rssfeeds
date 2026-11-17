@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 14:24:37 +0000</lastBuildDate>
-    <item>
-      <title>The SOC Van Pelt Report: Barely Winning is Almost Losing</title>
-      <link>https://www.sonicwall.com/blog/the-soc-van-pelt-report-almost-losing-is-still-a-warning</link>
-      <description>Analyze a close win the same way you would a loss.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-soc-van-pelt-report-almost-losing-is-still-a-warning</guid>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 01:23:17 +0000</lastBuildDate>
     <item>
       <title>Public Exposure: SLED Is the Only Sector Where Cyberattacks Are Getting Worse</title>
       <link>https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</link>
@@ -140,6 +134,11 @@
       <link>https://www.sonicwall.com/blog/sonicos-8-2-3-security-secure-from-day-one</link>
       <description>SonicOS 8.2.3 adds six secure defaults, SaaS and AI application objects, Security Insights and a protected firewall with encrypted backups.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicos-8-2-3-security-secure-from-day-one</guid>
+    </item>
+    <item>
+      <title>Easy, Fast, and Foundational: Vulnerability Management Without the Guesswork</title>
+      <link>https://www.sonicwall.com/blog/easy-fast-and-foundational-vulnerability-management-without-the-guesswork</link>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/easy-fast-and-foundational-vulnerability-management-without-the-guesswork</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
