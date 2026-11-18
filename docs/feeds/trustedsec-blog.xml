@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 15:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:20:11 +0000</lastBuildDate>
     <item>
       <title>HashcatRosetta: Reading the Rosetta Stone of Password Cracking</title>
       <link>https://trustedsec.com/blog/hashcatrosetta-reading-the-rosetta-stone-of-password-cracking</link>
@@ -74,7 +74,7 @@
     <item>
       <title>Hacking the My Arcade Contra Pocket Player - Part II</title>
       <link>https://trustedsec.com/blog/hacking-the-my-arcade-contra-pocket-player-part-ii</link>
-      <description>&amp;lt;p&amp;gt;Reports of my death have been greatly exaggerated. Not Dead Yet Sorry for the long delay. No, I didn&amp;amp;#039;t die. I just got busy and totally forgot to come back to this project 😁In Part I, we identified the Rockchip…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Insert coin to continue: Part II is finally here 🕹️ In this blog, Practice Lead Rob Simon modifies the My Arcade Contra Pocket Player firmware to load custom arcade games and shares the toolkit he built.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/hacking-the-my-arcade-contra-pocket-player-part-ii</guid>
       <pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
     </item>

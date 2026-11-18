@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 15:21:03 +0000</lastBuildDate>
-    <item>
-      <title>The State of Ransomware in Financial Services 2026</title>
-      <link>https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</link>
-      <description>&lt;p&gt;Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Killing ill-willed skills: Sophos AI at BSides Sydney</title>
-      <link>https://www.sophos.com/en-us/blog/killing-ill-willed-skills-sophos-ai-at-bsides-sydney</link>
-      <description>&lt;p&gt;The Sophos AI team presents new research at BSides Sydney&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/killing-ill-willed-skills-sophos-ai-at-bsides-sydney</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 00:20:13 +0000</lastBuildDate>
     <item>
       <title>N-able issues advisory on critical vulnerabilities</title>
       <link>https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</link>
@@ -68,6 +54,20 @@
       <description>&lt;p&gt;This article was first posted on LinkedIn.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-day-the-faa-halted-departures-nationwide</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hijacked Optimizely snippets served malicious code on major websites</title>
+      <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
+      <description>&lt;p&gt;Organizations using Optimizely Web Experimentation should check their projects for code injected on November 16&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
+      <description>&lt;p&gt;Harden boot-time protection against malicious drivers on Windows 11&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
