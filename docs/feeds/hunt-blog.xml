@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 00:16:41 +0000</lastBuildDate>
-    <item>
-      <title>The Complete Guide to Hunting Cobalt Strike - Part 3: Automated C2 Infrastructure Discovery</title>
-      <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-3-automated-discovery</link>
-      <description>See how automated detection, certificate analysis, and structured queries map Cobalt Strike C2 clusters and expose long-running infrastructure. Learn more.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/guide-hunting-cobalt-strike-part-3-automated-discovery</guid>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 14:52:12 +0000</lastBuildDate>
     <item>
       <title>Inside China’s Hosting Ecosystem: 18,000+ Malware C2 Servers Mapped Across Major ISPs</title>
       <link>https://hunt.io/blog/china-hosting-malware-c2-infrastructure</link>
@@ -357,6 +350,13 @@
       <description>An exposed open directory revealed a full PAN-OS attack toolkit that chained PHP RCE with a kernel LPE to root 25 Palo Alto firewalls across the US and Korea.</description>
       <guid isPermaLink="false">https://hunt.io/blog/inside-the-php2shell-arsenal</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Bank, IRS, and Social Security Logins Stolen by a Russian-Speaking Operation</title>
+      <link>https://hunt.io/blog/us-bank-irs-ssa-logins-stolen-russian-speaking-operator</link>
+      <description>A Russian-speaking operator cracked password vaults offline and stole US bank, IRS, and Social Security logins. Inside the HavoX open directory.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/us-bank-irs-ssa-logins-stolen-russian-speaking-operator</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

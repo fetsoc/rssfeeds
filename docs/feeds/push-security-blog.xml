@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 00:19:59 +0000</lastBuildDate>
-    <item>
-      <title>Using Push to enforce MFA on third-party apps in the browser</title>
-      <link>https://pushsecurity.com/blog/enforce-mfa-on-third-party-apps</link>
-      <description>Using Push to enforce MFA on third-party apps in the browser — even where MFA enforcement isn't supported by the app itself.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/enforce-mfa-on-third-party-apps</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 14:53:39 +0000</lastBuildDate>
     <item>
       <title>How Computer-Using Agents can be leveraged in cyber attacks</title>
       <link>https://pushsecurity.com/blog/considering-the-impact-of-computer-using-agents</link>
@@ -357,6 +350,13 @@
       <description>Push found fake registration pages for OpenAI, SpaceX, and Anthropic events, using Kali365 to phish Microsoft accounts and VoidProxy to phish Google accounts.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/ai-themed-fake-event-campaign-analysis</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why DOM mirroring is the fastest growing AiTM technique</title>
+      <link>https://pushsecurity.com/blog/aitm-phishing-dom-mirroring</link>
+      <description>This post explains why attackers are shifting to DOM mirroring as their AiTM method of choice and compares it to traditional reverse proxies and replica pages.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/aitm-phishing-dom-mirroring</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

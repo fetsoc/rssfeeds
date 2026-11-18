@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/team-cymru-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 00:18:42 +0000</lastBuildDate>
-    <item>
-      <title>Unveiling GhostDNSbusters: Team Cymru's Tech Breakthrough</title>
-      <link>https://www.team-cymru.com/post/ghostdnsbusters</link>
-      <description>Unleash the power of 'GhostDNSbusters' with cutting-edge technology solutions. Join the revolution with this innovative technology company.</description>
-      <guid isPermaLink="false">https://www.team-cymru.com/post/ghostdnsbusters</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 14:52:49 +0000</lastBuildDate>
     <item>
       <title>Unveiling Gamaredon: Understanding Victimology Through Recon</title>
       <link>https://www.team-cymru.com/post/gamaredon-an-insight-into-victimology-using-augury</link>
@@ -163,6 +157,12 @@
       <link>https://www.team-cymru.com/post/cl0p-ransomware-mft-attack-pattern-threat-intelligence</link>
       <description>Analyze Cl0p ransomware's history of targeting MFT systems. Discover their attack pattern in threat intelligence to improve cyber attack surface reduction.</description>
       <guid isPermaLink="false">https://www.team-cymru.com/post/cl0p-ransomware-mft-attack-pattern-threat-intelligence</guid>
+    </item>
+    <item>
+      <title>China-Nexus Advanced Persistent Threat Actors Target Banks</title>
+      <link>https://www.team-cymru.com/post/china-nexus-advanced-persistent-threat-financial-services</link>
+      <description>Team Cymru found 64 ShadowPad and 115 Vshell servers, tools CrowdStrike reports China-nexus advanced persistent threat actors use against financial services.</description>
+      <guid isPermaLink="false">https://www.team-cymru.com/post/china-nexus-advanced-persistent-threat-financial-services</guid>
     </item>
     <item>
       <title>Milestone: 1.5 Billion Daily Queries on IP to ASN Mapping | Team Cymru</title>
