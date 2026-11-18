@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 14:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Creating a checklist for Australia's SPF</title>
-      <link>https://www.netcraft.com/blog/australia-spf-has-no-reasonable-steps-checklist</link>
-      <description>Australia's Scams Prevention Framework requires banks to take reasonable steps to prevent scams. Learn what the new obligations mean and how to prepare.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/australia-spf-has-no-reasonable-steps-checklist</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 23:47:01 +0000</lastBuildDate>
     <item>
       <title>July 2026 Web Server Survey | Netcraft</title>
       <link>https://www.netcraft.com/blog/july-2026-web-server-survey</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/anatomy-of-an-exec-impersonation-scam</link>
       <description>Learn how executive impersonation scams work, why they succeed, and how attackers use email, social media, messaging apps, and AI deepfakes to build trust and commit fraud.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/anatomy-of-an-exec-impersonation-scam</guid>
+    </item>
+    <item>
+      <title>Inside an Automated Phishing Takedown</title>
+      <link>https://www.netcraft.com/blog/automated-takedown-threat-classification</link>
+      <description>See how Netcraft combines 600,000+ classifiers, AI, analyst insight, and victim-view evidence to move phishing from detection to takedown.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/automated-takedown-threat-classification</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
