@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 23:46:57 +0000</lastBuildDate>
-    <item>
-      <title>Public Exposure: SLED Is the Only Sector Where Cyberattacks Are Getting Worse</title>
-      <link>https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</link>
-      <description>Every other vertical saw attacks decline in 2026. State and local government recorded a 242% increase. Here’s what the data says about why the public sector is moving in the wrong direction.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/public-exposure-state-and-local-government-is-the-only-sector-where-attacks-are-getting-worse</guid>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 05:18:17 +0000</lastBuildDate>
     <item>
       <title>SOCtoberfest: Building Good Cybersecurity Habits without a Security Team</title>
       <link>https://www.sonicwall.com/blog/soctoberfest-building-a-cyber-ready-culture-without-a-security-team</link>
@@ -139,6 +133,12 @@
       <title>Easy, Fast, and Foundational: Vulnerability Management Without the Guesswork</title>
       <link>https://www.sonicwall.com/blog/easy-fast-and-foundational-vulnerability-management-without-the-guesswork</link>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/easy-fast-and-foundational-vulnerability-management-without-the-guesswork</guid>
+    </item>
+    <item>
+      <title>Zammad Unauthenticated Session Leak to RCE - CVE-2026-102489</title>
+      <link>https://www.sonicwall.com/blog/zammad-unauthenticated-websocket-session-leak-to-remote-code-execution</link>
+      <description>Critical CVSS 9.8 Zammad flaw leaks session cookies to unauthenticated attackers, enabling admin takeover and RCE. SonicWall IPS signatures available.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/zammad-unauthenticated-websocket-session-leak-to-remote-code-execution</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
