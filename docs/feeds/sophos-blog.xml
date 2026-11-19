@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 05:19:24 +0000</lastBuildDate>
-    <item>
-      <title>The State of Ransomware in Retail 2026</title>
-      <link>https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026</link>
-      <description>&lt;p&gt;Insights from 217 IT and cybersecurity leaders across the retail sector in 17 countries whose organizations were hit by ransomware in the past year.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-retail-2026</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 15:02:42 +0000</lastBuildDate>
     <item>
       <title>Your training data is boring: Anomaly detection with LLMs</title>
       <link>https://www.sophos.com/en-us/blog/your-training-data-is-boring-anomaly-detection-with-llms</link>
@@ -36,13 +29,6 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
-      <description>&lt;p&gt;Harden boot-time protection against malicious drivers on Windows 11&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Hijacked Optimizely snippets served malicious code on major websites</title>
       <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
       <description>&lt;p&gt;Organizations using Optimizely Web Experimentation should check their projects for code injected on November 16&lt;/p&gt;</description>
@@ -53,6 +39,20 @@
       <title>'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution</title>
       <link>https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From assistance to authority: A CISO playbook on AI governance</title>
+      <link>https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</link>
+      <description>&lt;p&gt;Helping organizations focus on containment, rather than prevention&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
+      <description>&lt;p&gt;Harden boot-time protection against malicious drivers on Windows 11&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

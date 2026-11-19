@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 05:19:22 +0000</lastBuildDate>
-    <item>
-      <title>HashcatRosetta: Reading the Rosetta Stone of Password Cracking</title>
-      <link>https://trustedsec.com/blog/hashcatrosetta-reading-the-rosetta-stone-of-password-cracking</link>
-      <description>&amp;lt;p&amp;gt;Meet HashcatRosetta—the Hashcat rule decoder you didn&amp;#039;t know you needed. In Part 2 of this blog series, we go through how it translates, analyzes, and optimizes rule files to maximize cracking efficiency.&amp;lt;/p&amp;gt;</description>
-      <guid isPermaLink="false">https://trustedsec.com/blog/hashcatrosetta-reading-the-rosetta-stone-of-password-cracking</guid>
-      <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 15:02:06 +0000</lastBuildDate>
     <item>
       <title>Logging is a Discipline, Not a Switch</title>
       <link>https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch</link>
@@ -77,6 +70,13 @@
       <description>&amp;lt;p&amp;gt;Insert coin to continue: Part II is finally here 🕹️ In this blog, Practice Lead Rob Simon modifies the My Arcade Contra Pocket Player firmware to load custom arcade games and shares the toolkit he built.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/hacking-the-my-arcade-contra-pocket-player-part-ii</guid>
       <pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accuracy Through Volume of Fire</title>
+      <link>https://trustedsec.com/blog/accuracy-through-volume-of-fire</link>
+      <description>&amp;lt;p&amp;gt;ARTEX and similar LLM-driven pentesting frameworks can find weaknesses, follow leads, and turn ordinary exposure into useful attack paths. Incident reporting now shows attackers using them successfully. The practical…&amp;lt;/p&amp;gt;</description>
+      <guid isPermaLink="false">https://trustedsec.com/blog/accuracy-through-volume-of-fire</guid>
+      <pubDate>Thu, 19 Nov 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

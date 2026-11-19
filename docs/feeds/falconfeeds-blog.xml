@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 05:19:20 +0000</lastBuildDate>
-    <item>
-      <title>Inside the LiveDNS Phishing Campaign: How Typosquatted Domains Are Targeting Israeli Users</title>
-      <link>https://falconfeeds.io/blogs/livedns-phishing-campaign-typosquatting-israeli-domain-users</link>
-      <description>Learn how attackers impersonating LiveDNS Ltd are using typosquatted domains and fake renewal emails to steal payment information from Israeli domain owners.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/livedns-phishing-campaign-typosquatting-israeli-domain-users</guid>
-      <pubDate>Fri, 08 May 2026 06:48:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 15:02:02 +0000</lastBuildDate>
     <item>
       <title>Brazil 2026: Mapping Pre-Election Disinformation Infrastructure and Narrative Seeding</title>
       <link>https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</link>
@@ -357,6 +350,13 @@
       <description>Protect your business from stolen credentials on the dark web. Learn how to detect compromised logins, revoke session cookies, and prevent account takeover.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/stolen-credentials-on-dark-web-steps-to-fix-logins-and-cookies</guid>
       <pubDate>Tue, 03 Nov 2026 06:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>n0n Ransomware Group: Financial Sector Targeting, Data Leak Claims, and Threat Analysis in 2026</title>
+      <link>https://falconfeeds.io/blogs/n0n-ransomware-group-financial-sector-leak-claims-2026</link>
+      <description>Explore n0n ransomware's 2026 activities, financial sector targeting, alleged data leaks, victim trends, and the credibility of its breach claims.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/n0n-ransomware-group-financial-sector-leak-claims-2026</guid>
+      <pubDate>Thu, 19 Nov 2026 05:55:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

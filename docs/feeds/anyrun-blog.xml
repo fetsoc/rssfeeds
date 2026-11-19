@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 05:19:21 +0000</lastBuildDate>
-    <item>
-      <title>it-sa 2026 Recap: Key Trends Shaping Security Operations</title>
-      <link>https://any.run/cybersecurity-blog/it-sa-2026-recap/</link>
-      <description>&lt;p&gt;From October 27 to 29, the ANY.RUN team joined it-sa 2026 in Nuremberg, meeting customers, partners, SOC and MSSP teams, and cybersecurity professionals from across Europe. Three days of conversations gave us a valuable opportunity to hear what security teams are focused on today, exchange ideas about evolving security operations, and discuss how malware analysis [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/it-sa-2026-recap/"&gt;it-sa 2026 Recap: Key Trends Shaping Security Operations&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/it-sa-2026-recap/</guid>
-      <pubDate>Mon, 02 Nov 2026 12:12:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 15:02:05 +0000</lastBuildDate>
     <item>
       <title>Release Notes: Related Threat Context for Faster Than Ever SOC Triage and 590+ Coverage Updates</title>
       <link>https://any.run/cybersecurity-blog/release-notes-october-2026/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/teamspace-for-soc-and-mssp/"&gt;Run and Scale Your MSSP or SOC Like Never Before: Meet ANY.RUN&amp;#8217;s Multi-Tenant Teamspace&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/teamspace-for-soc-and-mssp/</guid>
       <pubDate>Wed, 18 Nov 2026 09:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smarter SOC Spending in 2027: Reduce Costs, Recover Capacity, Strengthen Detection</title>
+      <link>https://any.run/cybersecurity-blog/soc-budget-planning-2027/</link>
+      <description>&lt;p&gt;Cybersecurity budget planning for 2027 presents a growing challenge: security leaders must address emerging threats, expanding infrastructure, and increasing SOC workloads while keeping costs under control. According to IANS and Artico Search, 55% of CISOs reported flat or declining security budgets in 2026. Meanwhile, PwC&amp;#8217;s 2027 Global Digital Trust Insights found that 84% of surveyed [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/soc-budget-planning-2027/"&gt;Smarter SOC Spending in 2027: Reduce Costs, Recover Capacity, Strengthen Detection&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/soc-budget-planning-2027/</guid>
+      <pubDate>Thu, 19 Nov 2026 11:43:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
