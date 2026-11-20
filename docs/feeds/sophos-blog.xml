@@ -7,20 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 00:10:06 +0000</lastBuildDate>
-    <item>
-      <title>Malicious ScreenConnect deployments observed</title>
-      <link>https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The day the FAA halted departures nationwide</title>
-      <link>https://www.sophos.com/en-us/blog/the-day-the-faa-halted-departures-nationwide</link>
-      <description>&lt;p&gt;This article was first posted on LinkedIn.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-day-the-faa-halted-departures-nationwide</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 14:42:32 +0000</lastBuildDate>
     <item>
       <title>Hijacked Optimizely snippets served malicious code on major websites</title>
       <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
@@ -67,6 +54,20 @@
       <description>&lt;p&gt;A Sophos physical penetration test shows how public information, badge weaknesses, workplace trust, and internal control gaps can combine into a path from the front door to the network.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/physical-penetration-testing-when-physical-access-became-network-access</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empowering Employees to Make a Difference: The Digital Café</title>
+      <link>https://www.sophos.com/en-us/blog/digital-cafe</link>
+      <description>&lt;p&gt;The Digital Café helps people in the Nauheim community build confidence with technology, stay independent and remain connected with friends and family. Supported by Sophos’ 40 hours of paid volunteering leave, the initiative has grown into a team of volunteers making a meaningful difference through digital inclusion.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/digital-cafe</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Straight Lines: The value of a different career journey</title>
+      <link>https://www.sophos.com/en-us/blog/no-straight-lines-rebecca-taylor</link>
+      <description>&lt;p&gt;There’s no single path to a successful career. Career changes, breaks and experience in different industries can build valuable qualities such as resilience, curiosity and perspective. By creating supportive communities, offering encouragement and recognising transferable skills, we can help people see their potential and build confidence. Embracing different career journeys ultimately brings new perspectives to technology and helps create stronger, more inclusive teams.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/no-straight-lines-rebecca-taylor</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

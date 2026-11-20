@@ -7,35 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 00:10:04 +0000</lastBuildDate>
-    <item>
-      <title>September 2026 Dark Web Breach Incident Trend Report</title>
-      <link>https://asec.ahnlab.com/en/95764/</link>
-      <description>Note The September 2026 Dark Web Breach Incident Trend Report focuses on data breach cases and the sale of initial access credentials posted on the deep web and dark web forums. The report explicitly states that the accuracy of some of its content cannot be fully verified due to the nature of the sources. Major [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95764/</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Analysis of Suo5-Based Tunneling and Pivoting Attack Techniques Through Case Studies</title>
-      <link>https://asec.ahnlab.com/en/95879/</link>
-      <description>Overview. This report summarizes cases in which Suo5 (an HTTP/HTTPS-based tunneling tool) was exploited for pivoting—a technique used to expand the scope of an attack to other systems or networks by passing through a system that has already been compromised—by using compromised web servers as relay points to access internal networks for lateral movement. It [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95879/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</title>
-      <link>https://asec.ahnlab.com/en/95845/</link>
-      <description>Overview AI is being used for various tasks that were previously performed manually, such as research, document writing, and code analysis. A 2026 corporate survey also showed that the scope of AI adoption among organizations had expanded compared to the previous year. Recently, there has been a trend toward automating a significant portion of work [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95845/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Case of AgentTesla Malware Distribution Disguised as a Business Proposal Email</title>
-      <link>https://asec.ahnlab.com/en/95840/</link>
-      <description>Recently, the AhnLab SEcurity intelligence Center (ASEC) identified instances of phishing emails being circulated that disguise themselves as requests to review a business proposal. The email body asks recipients to review the attached product list and reply with their feedback on inventory and pricing, thereby prompting users to download and open the attached ZIP file. [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95840/</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 14:42:31 +0000</lastBuildDate>
     <item>
       <title>Ransom &amp; Dark Web Issues Week 3, October 2026</title>
       <link>https://asec.ahnlab.com/en/95823/</link>
@@ -217,6 +189,34 @@
       <description>Oracle released a Java security patch on November 17, 2026, at 6:00 a.M. (Korea Standard Time). This patch includes a fix for CVE-2026-114938. If exploited, this vulnerability could lead to memory corruption and, in some cases, allow a threat actor to perform remote code execution without authentication. The severity is rated at 9.2점으로 the CVSS [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96615/</guid>
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2026 Threat Trend Report on APT Attacks (South Korea)</title>
+      <link>https://asec.ahnlab.com/en/96684/</link>
+      <description>Content AhnLab utilized its own infrastructure to monitor APT (Advanced Persistent Threat, an attack that covertly targets specific victims over a long period) attacks against targets in Korea throughout the month of October 2026. The report categorizes the identified attacks by type, compiles statistics, and explains how each type operates. Purpose and Scope This report [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96684/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2026 Infostealer Trend Report</title>
+      <link>https://asec.ahnlab.com/en/96698/</link>
+      <description>Content This report summarizes the distribution channels, number of Infostealers, number of detections, and information on the companies disguised to appear as legitimate entities by new Infostealers collected over the course of October 2026. The collected samples were analyzed based on data from the automated data collection system, email honeypot system, and C2 automated analysis [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96698/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It hasn’t even been that long since PHP2Shell was disclosed—and now another PHP vulnerability?</title>
+      <link>https://asec.ahnlab.com/en/96690/</link>
+      <description>A Three-Line Summary for Those in a Hurry The PHP development team released a security update on November 19, 2026, that addressed seven critical-level vulnerabilities; no instances of these being exploited in actual attacks have been reported yet. Among these, request smuggling in environments that reuse connections between the web server and PHP-FPM, object injection [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96690/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java4Shell: JDK Vulnerability Exploiting a Flaw in High-Speed Base64 Processing Logic (CVE-2026-114938)</title>
+      <link>https://asec.ahnlab.com/en/96686/</link>
+      <description>Overview At approximately 6:00 a.M. On November 18, 2026 (Korea Standard Time), CVE-2026-114938, a vulnerability in Java’s standard Base64 decoder, was disclosed. Calif, the security research firm that discovered and disclosed the vulnerability, named it “Java4Shell” and explained that if malformed Base64 input passes through high-speed processing code on certain CPUs, data can be written [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96686/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

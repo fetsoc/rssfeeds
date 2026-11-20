@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 00:08:07 +0000</lastBuildDate>
-    <item>
-      <title>A New Chapter at SonicWall</title>
-      <link>https://www.sonicwall.com/blog/a-new-chapter-of-leadership-at-sonicwall</link>
-      <description>SonicWall has named Carolyn McCarthy, previously the company's Chief Operating Officer, as Chief Executive Officer, and Gregg Whitney as Chief Financial Officer.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/a-new-chapter-of-leadership-at-sonicwall</guid>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 14:40:47 +0000</lastBuildDate>
     <item>
       <title>kotaemon Unauthenticated Deserialization RCE - CVE-2026-69098</title>
       <link>https://www.sonicwall.com/blog/kotaemon-check-connection-unauthenticated-deserialization-rce</link>
@@ -139,6 +133,12 @@
       <link>https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-newsnation-to-discuss-widespread-outages-ai-and-more</link>
       <description>SonicWall's own Michael Crean appears on NewsNation to discuss outages, AI and more.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/sonicwall-s-michael-crean-appears-on-newsnation-to-discuss-widespread-outages-ai-and-more</guid>
+    </item>
+    <item>
+      <title>The Lights May Be Flashing, but the Patches Have Stopped: Gen 6 Firewalls Are Putting Your Whole Business at Risk</title>
+      <link>https://www.sonicwall.com/blog/the-lights-may-be-flashing-but-the-patches-have-stopped-gen-6-firewalls-are-putting-your-whole-business-at-risk</link>
+      <description>Gen 6 is entering EOS, and it could be a hazard to your business.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/the-lights-may-be-flashing-but-the-patches-have-stopped-gen-6-firewalls-are-putting-your-whole-business-at-risk</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>
