@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/trustedsec-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 15:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:10:03 +0000</lastBuildDate>
     <item>
       <title>Logging is a Discipline, Not a Switch</title>
       <link>https://trustedsec.com/blog/logging-is-a-discipline-not-a-switch</link>
@@ -74,7 +74,7 @@
     <item>
       <title>Accuracy Through Volume of Fire</title>
       <link>https://trustedsec.com/blog/accuracy-through-volume-of-fire</link>
-      <description>&amp;lt;p&amp;gt;ARTEX and similar LLM-driven pentesting frameworks can find weaknesses, follow leads, and turn ordinary exposure into useful attack paths. Incident reporting now shows attackers using them successfully. The practical…&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Autonomous offensive frameworks don’t need novel exploits to get in; they can get results through persistence and volume. In this blog, we explain how they work, where they fall short, and which defenses slow them down.&amp;lt;/p&amp;gt;</description>
       <guid isPermaLink="false">https://trustedsec.com/blog/accuracy-through-volume-of-fire</guid>
       <pubDate>Thu, 19 Nov 2026 05:00:00 +0000</pubDate>
     </item>

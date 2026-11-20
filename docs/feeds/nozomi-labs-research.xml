@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/nozomi-labs-research.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 15:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:08:04 +0000</lastBuildDate>
     <item>
       <title>Threat Actor Activity Related to the Iran Conflict</title>
       <link>https://www.nozominetworks.com/blog/threat-actor-activity-related-to-the-iran-conflict</link>
@@ -229,6 +229,12 @@
       <link>https://www.nozominetworks.com/blog/could-threat-actors-be-downgrading-their-malware-to-evade-detection</link>
       <description>Threat actors modify their malware to evade detection. This blog analyzes modification techniques used by Gafgyt (aka Qbot) malware.</description>
       <guid isPermaLink="false">https://www.nozominetworks.com/blog/could-threat-actors-be-downgrading-their-malware-to-evade-detection</guid>
+    </item>
+    <item>
+      <title>Considering Endpoint Security for OT? Start with These Five Questions</title>
+      <link>https://www.nozominetworks.com/blog/considering-endpoint-security-for-ot-start-with-these-five-questions</link>
+      <description>Endpoint security in OT? Five questions to help security and operations decide where it fits and how it should behave without disrupting production.</description>
+      <guid isPermaLink="false">https://www.nozominetworks.com/blog/considering-endpoint-security-for-ot-start-with-these-five-questions</guid>
     </item>
     <item>
       <title>CISA-Sponsored CVE Program Grants Nozomi Networks CNA Status</title>
