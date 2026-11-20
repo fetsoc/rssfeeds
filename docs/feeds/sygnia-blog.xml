@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 14:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:32:58 +0000</lastBuildDate>
     <item>
       <title>Actively Exploited NetScaler Vulnerabilities</title>
       <link>https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/</link>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 14:42:32 +0000</lastBuildDate>
-    <item>
-      <title>Hijacked Optimizely snippets served malicious code on major websites</title>
-      <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
-      <description>&lt;p&gt;Organizations using Optimizely Web Experimentation should check their projects for code injected on November 16&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 23:32:58 +0000</lastBuildDate>
     <item>
       <title>'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution</title>
       <link>https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</link>
@@ -54,6 +47,13 @@
       <description>&lt;p&gt;A Sophos physical penetration test shows how public information, badge weaknesses, workplace trust, and internal control gaps can combine into a path from the front door to the network.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/physical-penetration-testing-when-physical-access-became-network-access</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the new Sophos NDR</title>
+      <link>https://www.sophos.com/en-us/blog/introducing-sophos-ndr</link>
+      <description>&lt;p&gt;Sophos NDR brings behavioral detection and active prevention together to identify known and unknown threats across the AI-era network.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/introducing-sophos-ndr</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Empowering Employees to Make a Difference: The Digital Café</title>
