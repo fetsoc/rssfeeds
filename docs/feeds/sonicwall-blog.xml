@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 23:31:14 +0000</lastBuildDate>
-    <item>
-      <title>kotaemon Unauthenticated Deserialization RCE - CVE-2026-69098</title>
-      <link>https://www.sonicwall.com/blog/kotaemon-check-connection-unauthenticated-deserialization-rce</link>
-      <description>Critical CVSS 9.8 deserialization flaw in kotaemon check_connection enables unauthenticated remote code execution. SonicWall IPS signature available.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/kotaemon-check-connection-unauthenticated-deserialization-rce</guid>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 04:58:42 +0000</lastBuildDate>
     <item>
       <title>Meet Gen 8: Firewalls, Zero Trust and Unified Management</title>
       <link>https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</link>
@@ -139,6 +133,12 @@
       <link>https://www.sonicwall.com/blog/the-lights-may-be-flashing-but-the-patches-have-stopped-gen-6-firewalls-are-putting-your-whole-business-at-risk</link>
       <description>Gen 6 is entering EOS, and it could be a hazard to your business.</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/the-lights-may-be-flashing-but-the-patches-have-stopped-gen-6-firewalls-are-putting-your-whole-business-at-risk</guid>
+    </item>
+    <item>
+      <title>Fake Minecraft Mod Uses the Polygon Blockchain to Deliver a Python Infostealer</title>
+      <link>https://www.sonicwall.com/blog/fake-minecraft-mod-uses-the-polygon-blockchain-to-deliver-a-python-infostealer</link>
+      <description>This week, the SonicWall Capture Labs Threat Research Team analyzed a Java-based loader from "SilentNet", a malware family that has been circulating since early 2026 with more than 1,200 samples observed in the wild. The sample, `Farmutils-Loader.jar`, poses as a mod for the Minecraft Fabric mod loader and targets players who download mods from outside trusted sources. Once loaded by the game, it pulls the player's Minecraft session token from memory. It then gets its command-and-control (C2) address from a smart contract on the Polygon blockchain, and downloads a portable Python runtime hidden inside a PNG image to run a second-stage infostealer. Every string in the JAR is hidden by per-character arithmetic, it resolves hostnames through DNS-over-HTTPS, and it talks to its C2 through a custom HTTPS client that skips certificate validation.</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/fake-minecraft-mod-uses-the-polygon-blockchain-to-deliver-a-python-infostealer</guid>
     </item>
     <item>
       <title>IntelliCom NetBiter Hostname Buffer Overflow (Dec 22, 2009)</title>

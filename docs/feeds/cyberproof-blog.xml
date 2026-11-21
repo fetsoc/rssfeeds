@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 04:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:59:39 +0000</lastBuildDate>
     <item>
       <title>Our 5 Key Takeaways from Forrester’s MSSP Wave™ Report</title>
       <link>https://www.cyberproof.com/blog/our-5-key-takeaways-from-forresters-mssp-wave-report/</link>
@@ -86,6 +86,13 @@
       <pubDate>Thu, 25 Nov 2021 09:34:06 +0000</pubDate>
     </item>
     <item>
+      <title>How Cyber Attackers Have Become Marketing Experts</title>
+      <link>https://www.cyberproof.com/blog/how-cyber-attackers-have-become-marketing-experts/</link>
+      <description>Here are some examples used by cyber attackers and key steps you can take in your to improve your cybersecurity defenses.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/how-cyber-attackers-have-become-marketing-experts/</guid>
+      <pubDate>Mon, 20 Dec 2021 04:35:15 +0000</pubDate>
+    </item>
+    <item>
       <title>8 Steps to Improving Your SOC’s Incident Detection &amp; Response</title>
       <link>https://www.cyberproof.com/blog/8-steps-to-improving-your-socs-incident-detection-response/</link>
       <description>Read how CyberProof’s SOC team collaborates across teams and shares expertise in real-time in the 2022 Cyber Defenders Playbook.</description>
@@ -133,13 +140,6 @@
       <description>Here’s some of what our global team has to say about why they love working in the cybersecurity industry in general, and at CyberProof in particular.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/why-its-great-to-work-for-an-mdr-provider/</guid>
       <pubDate>Thu, 19 May 2022 02:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s Hot at Infosecurity Europe</title>
-      <link>https://www.cyberproof.com/blog/whats-hot-at-infosecurity-europe/</link>
-      <description>Infosec, a wonderful opportunity to see how the industry has progressed &amp; learn about emerging threats and trends. Join CyberProof at Stand T25.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/whats-hot-at-infosecurity-europe/</guid>
-      <pubDate>Thu, 26 May 2022 04:18:05 +0000</pubDate>
     </item>
     <item>
       <title>CyberNews: Quick Response as Important as Threat Prevention</title>
