@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 04:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:58:25 +0000</lastBuildDate>
     <item>
       <title>Release Notes: Related Threat Context for Faster Than Ever SOC Triage and 590+ Coverage Updates</title>
       <link>https://any.run/cybersecurity-blog/release-notes-october-2026/</link>
