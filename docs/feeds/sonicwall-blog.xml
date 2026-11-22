@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 22:38:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:20:07 +0000</lastBuildDate>
     <item>
       <title>Meet Gen 8: Firewalls, Zero Trust and Unified Management</title>
       <link>https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</link>
