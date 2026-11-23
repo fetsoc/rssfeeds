@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyjax-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 04:58:03 +0000</lastBuildDate>
-    <item>
-      <title>Cyber Threat Intelligence for Fintech: A Sector Built for Speed, Targeted for the Same Reason  - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-fintech-a-sector-built-for-speed-targeted-for-the-same-reason</link>
-      <description>UK fintech is one of the country's fastest-growing sectors, but its reliance on APIs, partnerships, and real-time data makes it a prime target for cybercriminals. This blog explores why fintechs are so exposed, what the latest UK data reveals about breach costs and supply chain risk, and how cyber threat intelligence helps firms grow securely.</description>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyber-threat-intelligence-for-fintech-a-sector-built-for-speed-targeted-for-the-same-reason</guid>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 16:57:55 +0000</lastBuildDate>
     <item>
       <title>Cyber Supply Chain Risk Management: Challenges and Best Practices - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/cyber-supply-chain-risk-management-challenges-and-best-practices</link>
@@ -89,6 +83,12 @@
       <title>Bridging the Gap: How CISOs Can Strengthen Relationships with the Board - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board</guid>
+    </item>
+    <item>
+      <title>Brand-impersonation crypto investment scam: a ChargePoint case study  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/brand-impersonation-crypto-investment-scam-a-chargepoint-case-study</link>
+      <description>CYJAX uncovers a crypto MLM investment scam impersonating ChargePoint, Binance, BMW and 30+ brands, and maps the Telegram network behind it.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/brand-impersonation-crypto-investment-scam-a-chargepoint-case-study</guid>
     </item>
     <item>
       <title>Board-Level Cyber Reporting: What CEOs, CFOs, and CISOs Need to Get Right in 2026  - CYJAX</title>
@@ -175,6 +175,12 @@
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity</guid>
     </item>
     <item>
+      <title>AI in Cybersecurity: How Attackers and Defenders Are Using the Same Technology  - CYJAX</title>
+      <link>https://www.cyjax.com/resources/blog/ai-in-cybersecurity-how-attackers-and-defenders-are-using-the-same-technology</link>
+      <description>AI is now on both sides of every cyber-attack. Criminals use it to write better phishing, find software flaws and move at machine speed, while security teams use it to detect, triage and patch faster. This blog looks at what's changed in 2026, what the NCSC is warning about, and how organisations can make sure their side of the race is better informed.</description>
+      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/ai-in-cybersecurity-how-attackers-and-defenders-are-using-the-same-technology</guid>
+    </item>
+    <item>
       <title>Persistent AgentTesla campaign targeting the UAE - CYJAX</title>
       <link>https://www.cyjax.com/resources/blog/a-persistent-agenttesla-campaign-is-targeting-the-uae</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-persistent-agenttesla-campaign-is-targeting-the-uae</guid>
@@ -254,13 +260,6 @@
       <link>https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign</link>
       <guid isPermaLink="false">https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign</guid>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CYJAX Launches Compromised Device Alerting to Detect Threats Earlier  - CYJAX</title>
-      <link>https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</link>
-      <description>Detect compromised devices before attackers act. CYJAX’s new alerting identifies stealer malware infections and exposed credentials in near real time.</description>
-      <guid isPermaLink="false">https://www.cyjax.com/resources/blog/cyjax-launches-compromised-device-alerting-to-detect-threats-earlier</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CYJAX Joins the UK Cyber Security Council  - CYJAX</title>

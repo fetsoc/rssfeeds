@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 04:58:04 +0000</lastBuildDate>
-    <item>
-      <title>July 2026 Web Server Survey | Netcraft</title>
-      <link>https://www.netcraft.com/blog/july-2026-web-server-survey</link>
-      <description>In the July 2026 survey we received responses from 1,494,915,628 sites across 305,348,459 domains and 14,772,048 web-facing computers. This reflect...</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/july-2026-web-server-survey</guid>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 16:57:55 +0000</lastBuildDate>
     <item>
       <title>How the Rise of AI ‘Vibe Coding’ Introduced a New Phishing Shortcut for Cybercriminals</title>
       <link>https://www.netcraft.com/blog/rise-of-ai-vibe-coding-and-new-cyber-threats</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/automated-takedown-threat-classification</link>
       <description>See how Netcraft combines 600,000+ classifiers, AI, analyst insight, and victim-view evidence to move phishing from detection to takedown.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/automated-takedown-threat-classification</guid>
+    </item>
+    <item>
+      <title>Black Friday is Prime Time for Impersonation Scams</title>
+      <link>https://www.netcraft.com/blog/black-friday-is-prime-time-for-brand-impersonation-scams</link>
+      <description>Black Friday scammers exploit urgency with fake shops, phishing sites, and AI-powered brand impersonation. Discover how brands can protect customers.</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/black-friday-is-prime-time-for-brand-impersonation-scams</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>

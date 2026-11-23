@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/push-security-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 04:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:58:45 +0000</lastBuildDate>
     <item>
       <title>How Computer-Using Agents can be leveraged in cyber attacks</title>
       <link>https://pushsecurity.com/blog/considering-the-impact-of-computer-using-agents</link>
@@ -84,13 +84,6 @@
       <description>Push now blocks URL schema obfuscation, countering a common technique used by attackers to bypass URL detections for phishing pages and malicious IPs.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/detecting-phishing-pages-using-obfuscated-url-destinations</guid>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the browser became the main cyber battleground</title>
-      <link>https://pushsecurity.com/blog/how-the-browser-became-the-main-cyber-battleground</link>
-      <description>How attacks have moved away from endpoints and internal networks to the browser — a blind spot for traditional security tools.</description>
-      <guid isPermaLink="false">https://pushsecurity.com/blog/how-the-browser-became-the-main-cyber-battleground</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>6 browser-based attacks security teams need to know about</title>
@@ -357,6 +350,13 @@
       <description>Push researchers are tracking a live AiTM phishing campaign that sends paid "expert interview" and webinar invitations.</description>
       <guid isPermaLink="false">https://pushsecurity.com/blog/goodguys-phishing-campaign-teardown</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside tech support scams, Push's most-detected attack</title>
+      <link>https://pushsecurity.com/blog/analyzing-tech-support-scams</link>
+      <description>Tech support scams made up almost half of the attacks our team investigated in November. Here's why security controls miss them, and what you can do about it.</description>
+      <guid isPermaLink="false">https://pushsecurity.com/blog/analyzing-tech-support-scams</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 04:59:08 +0000</lastBuildDate>
-    <item>
-      <title>Hijacked Optimizely snippets served malicious code on major websites</title>
-      <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
-      <description>&lt;p&gt;Organizations using Optimizely Web Experimentation should check their projects for code injected on November 16&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 16:59:02 +0000</lastBuildDate>
     <item>
       <title>'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution</title>
       <link>https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</link>
@@ -68,6 +61,12 @@
       <description>&lt;p&gt;There’s no single path to a successful career. Career changes, breaks and experience in different industries can build valuable qualities such as resilience, curiosity and perspective. By creating supportive communities, offering encouragement and recognising transferable skills, we can help people see their potential and build confidence. Embracing different career journeys ultimately brings new perspectives to technology and helps create stronger, more inclusive teams.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/no-straight-lines-rebecca-taylor</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-concept exploit code available for Ghostscript ‘Upload2Shell’ vulnerability (CVE-2026-125396)</title>
+      <link>https://www.sophos.com/en-us/blog/proof-of-concept-available-for-ghostscript-upload2shell</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-available-for-ghostscript-upload2shell</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

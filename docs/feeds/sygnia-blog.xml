@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sygnia-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 04:59:08 +0000</lastBuildDate>
-    <item>
-      <title>Actively Exploited NetScaler Vulnerabilities</title>
-      <link>https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/</link>
-      <description>&lt;p&gt;Organizations should patch all customer-managed NetScaler ADC and Gateway appliances immediately, investigate for pre-patch compromise, and restrict the appliances' access to sensitive internal systems.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/"&gt;Actively Exploited NetScaler Vulnerabilities&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sygnia.co/threat-reports-and-advisories/actively-exploited-netscaler-vulnerabilities/</guid>
-      <pubDate>Mon, 28 Sep 2026 18:30:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 16:59:02 +0000</lastBuildDate>
     <item>
       <title>Sygnia Unveils Security Operations Center Hubs and Expands AI-Powered Cybersecurity Capabilities To Challenge Threat Attack Rise</title>
       <link>https://www.sygnia.co/press-release/sygnia-expands-global-mdr-operations-austin-singapore-soc-hubs/</link>
@@ -79,6 +71,14 @@
 &lt;p&gt;The post &lt;a href="https://www.sygnia.co/case-study/case-study-rapid-containment-of-exploitation-attempt/"&gt;Case Study: Rapid Containment of Exploitation Attempt&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sygnia.co/case-study/case-study-rapid-containment-of-exploitation-attempt/</guid>
       <pubDate>Tue, 10 Nov 2026 15:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detecting Modern Cloud Attacks: Why Traditional Detection Falls Short</title>
+      <link>https://www.sygnia.co/webinars/detecting-modern-cloud-attacks-why-traditional-detection-falls-short/</link>
+      <description>&lt;p&gt;See how advanced detection engineering and frontline incident response intelligence enable Sygnia MDR to uncover cloud threats that traditional security tools miss.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.sygnia.co/webinars/detecting-modern-cloud-attacks-why-traditional-detection-falls-short/"&gt;Detecting Modern Cloud Attacks: Why Traditional Detection Falls Short&lt;/a&gt; appeared first on &lt;a href="https://www.sygnia.co"&gt;Sygnia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sygnia.co/webinars/detecting-modern-cloud-attacks-why-traditional-detection-falls-short/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:20:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
