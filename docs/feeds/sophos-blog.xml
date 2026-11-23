@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 23:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:59:08 +0000</lastBuildDate>
+    <item>
+      <title>Hijacked Optimizely snippets served malicious code on major websites</title>
+      <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
+      <description>&lt;p&gt;Organizations using Optimizely Web Experimentation should check their projects for code injected on November 16&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution</title>
       <link>https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</link>
@@ -19,13 +26,6 @@
       <link>https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</link>
       <description>&lt;p&gt;Helping organizations focus on containment, rather than prevention&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
-      <description>&lt;p&gt;Harden boot-time protection against malicious drivers on Windows 11&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
