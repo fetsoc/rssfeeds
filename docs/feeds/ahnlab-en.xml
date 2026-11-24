@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 16:59:01 +0000</lastBuildDate>
-    <item>
-      <title>Analysis of the Infrastructure of ARTEX, a Chinese AI Penetration Testing Tool #4 – The Birth of Copy Cat</title>
-      <link>https://asec.ahnlab.com/en/95875/</link>
-      <description>Key Summary Since the original ARTEX GitHub repository disappeared, there has been an increase in independent distributions and customized instances based on the existing ARTEX codebase. These distributions are being redistributed with the product name, UI, filesystem structure, agent settings, and language modified, while retaining traces of ARTEX. Key Observations In several instances, ARTEX was [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/95875/</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 03:42:31 +0000</lastBuildDate>
     <item>
       <title>September 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95883/</link>
@@ -160,6 +153,13 @@
       <link>https://asec.ahnlab.com/en/96574/</link>
       <description>Note In October 2026, widespread instances of database leaks, the sale of accounts and credentials, and the disclosure of source code were observed on dark web and deep web forums. The government, public sector, defense, finance, healthcare, telecommunications, distribution, Education sector, manufacturing, energy, and IT sectors were the primary targets; however, due to the nature [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96574/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/96734/</link>
+      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected, the number of affected systems, and statistics on targeted businesses during the month of October 2026, as well as major Korean &amp;#038; Global ransomware issues. The statistics were compiled based on AhnLab detection names and publicly available information from DLS (Dedicated Leaks [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96734/</guid>
       <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
