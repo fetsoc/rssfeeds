@@ -7,15 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/anyrun-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 03:42:30 +0000</lastBuildDate>
-    <item>
-      <title>Major Cyber Attacks in October 2026: Fake AI, Account Takeovers, and Remote Access Threaten US and EU</title>
-      <link>https://any.run/cybersecurity-blog/major-cyber-attacks-october-2026/</link>
-      <description>&lt;p&gt;October 2026 brought another wave of cyber threats targeting US enterprises, exposing security gaps that could lead to financial losses, data breaches, and business disruption. Attackers exploited trusted platforms, legitimate authentication processes, and growing AI adoption to gain access to corporate accounts and systems, making early detection and containment increasingly difficult. For SOC teams, these [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/major-cyber-attacks-october-2026/"&gt;Major Cyber Attacks in October 2026: Fake AI, Account Takeovers, and Remote Access Threaten US and EU&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://any.run/cybersecurity-blog/major-cyber-attacks-october-2026/</guid>
-      <pubDate>Tue, 03 Nov 2026 11:52:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 16:48:02 +0000</lastBuildDate>
     <item>
       <title>Your Threat Intelligence Stack Has Blind Spots. Here’s How to Close Them</title>
       <link>https://any.run/cybersecurity-blog/how-to-close-threat-intelligence-stack-blind-spots/</link>
@@ -87,6 +79,14 @@
 &lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/thanksgiving-black-friday-cyber-threats-2026/"&gt;Holiday Lures, Real Threats: 5 Thanksgiving and Black Friday Campaigns from 2026&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://any.run/cybersecurity-blog/thanksgiving-black-friday-cyber-threats-2026/</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>LATAM’s Financial Fraud Ecosystem: Key Threats and Strategies for Business Protection</title>
+      <link>https://any.run/cybersecurity-blog/latams-financial-fraud/</link>
+      <description>&lt;p&gt;Editor’s note: The current article is authored by Clandestine, threat researcher and threat hunter. You can find Clandestine on X. Taking down a banking Trojan does not necessarily stop financial fraud. Cybercriminals can switch malware families, reuse existing infrastructure, and exploit legitimate software to keep their operations running. In LATAM, this adaptability creates a persistent [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://any.run/cybersecurity-blog/latams-financial-fraud/"&gt;LATAM’s Financial Fraud Ecosystem: Key Threats and Strategies for Business Protection&lt;/a&gt; appeared first on &lt;a href="https://any.run/cybersecurity-blog"&gt;ANY.RUN&amp;#039;s Cybersecurity Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://any.run/cybersecurity-blog/latams-financial-fraud/</guid>
+      <pubDate>Tue, 24 Nov 2026 09:44:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
