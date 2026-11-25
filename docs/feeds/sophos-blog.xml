@@ -7,27 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 01:48:58 +0000</lastBuildDate>
-    <item>
-      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
-      <description>&lt;p&gt;Harden boot-time protection against malicious drivers on Windows 11&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patches released for critical ‘NGINX2Root’ vulnerabilities</title>
-      <link>https://www.sophos.com/en-us/blog/patches-released-for-critical-nginx2root-vulnerabilities</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/patches-released-for-critical-nginx2root-vulnerabilities</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Every Detail Matters: From DFIR Intake to Investigative Context</title>
-      <link>https://www.sophos.com/en-us/blog/every-detail-matters-from-dfir-intake-to-investigative-context</link>
-      <description>&lt;p&gt;The first conversation with a DFIR first responder team may feel like an initial scoping exercise. In reality, the details captured during those first minutes can become valuable context for the investigation that follows.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/every-detail-matters-from-dfir-intake-to-investigative-context</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 16:38:01 +0000</lastBuildDate>
     <item>
       <title>Physical Penetration Testing: When Physical Access Became Network Access</title>
       <link>https://www.sophos.com/en-us/blog/physical-penetration-testing-when-physical-access-became-network-access</link>
@@ -67,6 +47,27 @@
       <link>https://www.sophos.com/en-us/blog/sophos-named-leader-2026-gartner-magic-quadrant-for-integrated-security-operations-center-systems</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-named-leader-2026-gartner-magic-quadrant-for-integrated-security-operations-center-systems</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Midsize Businesses 2026</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-named-a-leader-in-the-idc-marketscape-for-worldwide-modern-endpoint-security-for-midsize-businesses-2026</link>
+      <description>&lt;p&gt;Sophos Endpoint delivers strong, protection-first endpoint security that helps midsized organizations stop threats while reducing the burden on security teams.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-named-a-leader-in-the-idc-marketscape-for-worldwide-modern-endpoint-security-for-midsize-businesses-2026</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making time to make a difference</title>
+      <link>https://www.sophos.com/en-us/blog/wiesbaden-volunteering</link>
+      <description>&lt;p&gt;At Sophos, making an impact goes beyond the work we do every day. Through up to 40 hours of annual volunteering leave, employees have dedicated time to support their communities, build stronger connections with colleagues and contribute to something bigger.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/wiesbaden-volunteering</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cooking with purpose: Giving our time to support families</title>
+      <link>https://www.sophos.com/en-us/blog/anz-volunteering</link>
+      <description>&lt;p&gt;Sophos employees in Australia put their time and teamwork into action by volunteering with Ronald McDonald House to prepare comforting meals for families facing incredibly difficult circumstances. It’s a great example of how Sophos’s 40 hours of annual volunteering leave enables employees to make a meaningful difference in their communities.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/anz-volunteering</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

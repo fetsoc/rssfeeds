@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/hunt-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 01:46:48 +0000</lastBuildDate>
-    <item>
-      <title>Inside China’s Hosting Ecosystem: 18,000+ Malware C2 Servers Mapped Across Major ISPs</title>
-      <link>https://hunt.io/blog/china-hosting-malware-c2-infrastructure</link>
-      <description>Discover how we mapped over 18,000 active malware C2 servers across Chinese ISPs and cloud providers using host-centric telemetry. See which providers are most frequently abused and what it means for global threat monitoring.</description>
-      <guid isPermaLink="false">https://hunt.io/blog/china-hosting-malware-c2-infrastructure</guid>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 16:33:17 +0000</lastBuildDate>
     <item>
       <title>ClickFix Facebook Session Hijacking Campaign Targets Creators at Scale</title>
       <link>https://hunt.io/blog/clickfix-facebook-session-hijacking</link>
@@ -357,6 +350,13 @@
       <description>A Russian-speaking operator cracked password vaults offline and stole US bank, IRS, and Social Security logins. Inside the HavoX open directory.</description>
       <guid isPermaLink="false">https://hunt.io/blog/us-bank-irs-ssa-logins-stolen-russian-speaking-operator</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US hospital credentials taken, a US manufacturer’s cloud accessed, law firms and federal agencies next</title>
+      <link>https://hunt.io/blog/open-directory-us-hospital-manufacturer-law-firms</link>
+      <description>Three recovered open directories tie an active crew to a US hospital's stolen credentials, a manufacturer's cloud listing taken with a live token, and US law firms and federal agencies under recon.</description>
+      <guid isPermaLink="false">https://hunt.io/blog/open-directory-us-hospital-manufacturer-law-firms</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
