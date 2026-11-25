@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 16:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:48:57 +0000</lastBuildDate>
     <item>
       <title>September 2026 Threat Trend Report on APT Groups</title>
       <link>https://asec.ahnlab.com/en/95883/</link>
@@ -135,6 +135,13 @@
       <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>October 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/96734/</link>
+      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected, the number of affected systems, and statistics on targeted businesses during the month of October 2026, as well as major Korean &amp;#038; Global ransomware issues. The statistics were compiled based on AhnLab detection names and publicly available information from DLS (Dedicated Leaks [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96734/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>October 2026 Dark Web Threat Actor Trend Report</title>
       <link>https://asec.ahnlab.com/en/96586/</link>
       <description>Note The October 2026 Dark Web Threat Actor Trend Report focuses on hacktivists, deep web and dark web activities, and publicly reported cyberattack incidents. It was noted that the factual accuracy of some of the content is difficult to verify independently. Major Issue From a hacktivist perspective, some pro-Russian hacktivist groups claimed to have carried [&amp;#8230;]</description>
@@ -153,13 +160,6 @@
       <link>https://asec.ahnlab.com/en/96574/</link>
       <description>Note In October 2026, widespread instances of database leaks, the sale of accounts and credentials, and the disclosure of source code were observed on dark web and deep web forums. The government, public sector, defense, finance, healthcare, telecommunications, distribution, Education sector, manufacturing, energy, and IT sectors were the primary targets; however, due to the nature [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96574/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 2026 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/96734/</link>
-      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected, the number of affected systems, and statistics on targeted businesses during the month of October 2026, as well as major Korean &amp;#038; Global ransomware issues. The statistics were compiled based on AhnLab detection names and publicly available information from DLS (Dedicated Leaks [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/96734/</guid>
       <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>

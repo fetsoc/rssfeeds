@@ -7,12 +7,12 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 16:48:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:48:58 +0000</lastBuildDate>
     <item>
-      <title>From assistance to authority: A CISO playbook on AI governance</title>
-      <link>https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</link>
-      <description>&lt;p&gt;Helping organizations focus on containment, rather than prevention&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</guid>
+      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
+      <description>&lt;p&gt;Harden boot-time protection against malicious drivers on Windows 11&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
