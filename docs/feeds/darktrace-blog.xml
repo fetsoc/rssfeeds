@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/darktrace-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 16:36:54 +0000</lastBuildDate>
-    <item>
-      <title>The Rise of Alternative Access in Cloud Attacks</title>
-      <link>https://www.darktrace.com/blog/attack-trends-cloud-based-cyber-attacks-and-the-rise-of-alternative-initial-access-methods</link>
-      <description>Understand the evolution of cloud-based attacks and the increasing use of alternative methods for initial access in cyber threats.</description>
-      <guid isPermaLink="false">https://www.darktrace.com/blog/attack-trends-cloud-based-cyber-attacks-and-the-rise-of-alternative-initial-access-methods</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 01:23:57 +0000</lastBuildDate>
     <item>
       <title>Atomic Stealer: Darktrace’s Investigation of a Growing macOS Threat</title>
       <link>https://www.darktrace.com/blog/atomic-stealer-darktraces-investigation-of-a-growing-macos-threat</link>
@@ -277,6 +270,13 @@
       <link>https://www.darktrace.com/blog/botnet-behind-the-camera-mirai-katana-activity-on-a-video-recording-device</link>
       <description>Darktrace identified Mirai Katana botnet activity on a camera device in a sports-sector network, showing how compromised IoT devices can facilitate malware delivery, botnet activity, and data exfiltration from inside trusted environments.</description>
       <guid isPermaLink="false">https://www.darktrace.com/blog/botnet-behind-the-camera-mirai-katana-activity-on-a-video-recording-device</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Friday Phishing Rises Over 1,200% | Darktrace</title>
+      <link>https://www.darktrace.com/blog/black-friday-phishing-rises-more-than-1-200-ahead-of-holiday-shopping-weekend</link>
+      <description>Darktrace finds daily Black Friday phishing volumes rose over 1,200%. Explore the findings, AI shopping risks and tips for shoppers and retailers.</description>
+      <guid isPermaLink="false">https://www.darktrace.com/blog/black-friday-phishing-rises-more-than-1-200-ahead-of-holiday-shopping-weekend</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
