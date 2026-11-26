@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 01:23:57 +0000</lastBuildDate>
-    <item>
-      <title>Meet Gen 8: Firewalls, Zero Trust and Unified Management</title>
-      <link>https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</link>
-      <description>Nine new firewalls, Zero Trust access, co-managed services and cyber insurance—SonicWall’s latest update was built for your business.</description>
-      <guid isPermaLink="false">https://www.sonicwall.com/blog/smarter-protection-built-to-be-the-msp-and-mssp-platform-of-choice-sonicwall-s-new-gen-8-firewalls-and-unified-environment</guid>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 16:06:12 +0000</lastBuildDate>
     <item>
       <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
       <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>
@@ -312,6 +306,13 @@
       <link>https://www.sonicwall.com/blog/attackers-target-mlflow-ai-model-registry-to-exfiltrate-server-files-via-path-traversal</link>
       <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
       <guid isPermaLink="false">https://www.sonicwall.com/blog/attackers-target-mlflow-ai-model-registry-to-exfiltrate-server-files-via-path-traversal</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-7544: Attackers Weaponize Tenda AC1206 Router Vulnerability to Deploy Mirai-Related Malware</title>
+      <link>https://www.sonicwall.com/blog/attackers-exploit-cve-2026-0625-in-d-link-routers-to-deploy-a-shell-dropper-via-dnscfg-cgi-dns-handler</link>
+      <description>The SonicWall Capture Labs threat research team has identified active exploitation attempts targeting CVE-2025-7544, a critical stack-based buffer overflow vulnerability affecting Tenda AC1206 routers</description>
+      <guid isPermaLink="false">https://www.sonicwall.com/blog/attackers-exploit-cve-2026-0625-in-d-link-routers-to-deploy-a-shell-dropper-via-dnscfg-cgi-dns-handler</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
