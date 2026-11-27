@@ -7,21 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 01:22:44 +0000</lastBuildDate>
-    <item>
-      <title>Brazil 2026: Mapping Pre-Election Disinformation Infrastructure and Narrative Seeding</title>
-      <link>https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</link>
-      <description>Explore how narrative seeding and disinformation infrastructure are emerging ahead of the 2026 Brazilian presidential election through coordinated activity across X, TikTok, and Google Trends.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/brazil-2026-election-disinformation-narrative-seeding-analysis</guid>
-      <pubDate>Fri, 08 May 2026 12:22:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond DDoS: How NoName057(16) Became a Tool of Geopolitical Pressure</title>
-      <link>https://falconfeeds.io/blogs/beyond-ddos-noname05716-geopolitical-pressure-analysis</link>
-      <description>Explore how NoName057(16) evolved beyond DDoS attacks into a geopolitical pressure instrument, synchronizing cyber disruption with political events across Europe and NATO-aligned states.</description>
-      <guid isPermaLink="false">https://falconfeeds.io/blogs/beyond-ddos-noname05716-geopolitical-pressure-analysis</guid>
-      <pubDate>Wed, 13 May 2026 05:48:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 15:55:34 +0000</lastBuildDate>
     <item>
       <title>UAT-8302: China-Linked APT Deploying Shared Malware Arsenal Against Governments Across Three Continents</title>
       <link>https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</link>
@@ -357,6 +343,20 @@
       <description>Explore n0n ransomware's 2026 activities, financial sector targeting, alleged data leaks, victim trends, and the credibility of its breach claims.</description>
       <guid isPermaLink="false">https://falconfeeds.io/blogs/n0n-ransomware-group-financial-sector-leak-claims-2026</guid>
       <pubDate>Thu, 19 Nov 2026 05:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic AI Security Risks in 2026: How Autonomous AI Agents Expand the Enterprise Attack Surface</title>
+      <link>https://falconfeeds.io/blogs/agentic-ai-security-risks-enterprise-attack-surface-2026</link>
+      <description>Explore agentic AI security risks in 2026, emerging attack techniques, enterprise vulnerabilities, and strategies for securing autonomous AI agents.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/agentic-ai-security-risks-enterprise-attack-surface-2026</guid>
+      <pubDate>Fri, 27 Nov 2026 06:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Gentlemen Ransomware: Threat Actor Profile, Attack Patterns, and Targeted Industries</title>
+      <link>https://falconfeeds.io/blogs/the-gentlemen-ransomware-threat-actor-profile-2026</link>
+      <description>Explore The Gentlemen ransomware group, its 1,147 claimed victims, RaaS operations, attack techniques, targeted industries, and defensive strategies.</description>
+      <guid isPermaLink="false">https://falconfeeds.io/blogs/the-gentlemen-ransomware-threat-actor-profile-2026</guid>
+      <pubDate>Fri, 27 Nov 2026 06:57:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

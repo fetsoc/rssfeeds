@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sonicwall-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 01:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:54:29 +0000</lastBuildDate>
     <item>
       <title>Credential Theft Is Inevitable – How Zero Trust Access Prevents Breaches</title>
       <link>https://www.sonicwall.com/blog/stolen-credentials-don-t-have-to-mean-a-breach</link>

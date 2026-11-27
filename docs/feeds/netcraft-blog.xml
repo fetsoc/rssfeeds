@@ -7,13 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/netcraft-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 01:21:45 +0000</lastBuildDate>
-    <item>
-      <title>Malicious links in AI summaries and search results</title>
-      <link>https://www.netcraft.com/blog/threat-actors-are-finding-their-way-into-your-ai-summaries</link>
-      <description>As answer engines become more ubiquitous in the average user’s web experience and more integrated into their browsing behavior, incorrect and malicious results become more dangerous.</description>
-      <guid isPermaLink="false">https://www.netcraft.com/blog/threat-actors-are-finding-their-way-into-your-ai-summaries</guid>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 15:54:34 +0000</lastBuildDate>
     <item>
       <title>Detecting Cloaking &amp; Geofencing Evasion | Netcraft</title>
       <link>https://www.netcraft.com/blog/detecting-cloaking-geofencing-evasion</link>
@@ -241,6 +235,12 @@
       <link>https://www.netcraft.com/blog/domain-brand-monitoring</link>
       <description>Domain brand monitoring should cover lookalike domains, certificates, and infrastructure you don’t own. See what to track and what each source shows.</description>
       <guid isPermaLink="false">https://www.netcraft.com/blog/domain-brand-monitoring</guid>
+    </item>
+    <item>
+      <title>November 2026 Web Server Survey | Netcraft</title>
+      <link>https://www.netcraft.com/blog/november-2026-web-server-survey</link>
+      <description>In the November 2026 survey we received responses from 1,546,204,128 sites across 333,954,536 domains and 15,859,723 web-facing computers. This ref...</description>
+      <guid isPermaLink="false">https://www.netcraft.com/blog/november-2026-web-server-survey</guid>
     </item>
     <item>
       <title>Active Defense Blueprint: 2026 Digital Risk Strategy</title>
