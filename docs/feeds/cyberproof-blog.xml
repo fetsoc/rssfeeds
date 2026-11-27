@@ -7,14 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/cyberproof-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 01:24:53 +0000</lastBuildDate>
-    <item>
-      <title>Our 5 Key Takeaways from Forrester’s MSSP Wave™ Report</title>
-      <link>https://www.cyberproof.com/blog/our-5-key-takeaways-from-forresters-mssp-wave-report/</link>
-      <description>In this blog we provide our key takeaways from Forrester's latest managed security services providers (MSSP) Wave™ report.</description>
-      <guid isPermaLink="false">https://www.cyberproof.com/blog/our-5-key-takeaways-from-forresters-mssp-wave-report/</guid>
-      <pubDate>Wed, 12 Aug 2020 03:28:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 01:22:37 +0000</lastBuildDate>
     <item>
       <title>How Retailers Can Ensure Consumer Data Protection This Holiday Season</title>
       <link>https://www.cyberproof.com/blog/how-retailers-can-ensure-consumer-data-protection-this-holiday-season/</link>
@@ -238,6 +231,13 @@
       <description>CyberProof's CEO discusses rising cyberattacks, evolving technology, and digital transformation of enterprise IT environments.</description>
       <guid isPermaLink="false">https://www.cyberproof.com/blog/mitigating-cloud-transformation-risk-with-cloud-native-solutions/</guid>
       <pubDate>Wed, 10 May 2023 04:52:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI security risks: A CISO perspective</title>
+      <link>https://www.cyberproof.com/blog/ai-security-risks-a-ciso-perspective/</link>
+      <description>From a CISO perspective, there are 10 core risks that should be considered in the development of company security policies for the use of AI systems.</description>
+      <guid isPermaLink="false">https://www.cyberproof.com/blog/ai-security-risks-a-ciso-perspective/</guid>
+      <pubDate>Thu, 27 Jul 2023 08:24:23 +0000</pubDate>
     </item>
     <item>
       <title>BBC interview with President Yuval Wollman: The risks of GenAI</title>

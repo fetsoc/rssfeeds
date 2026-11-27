@@ -7,7 +7,14 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/sophos-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 16:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:22:50 +0000</lastBuildDate>
+    <item>
+      <title>Every Detail Matters: From DFIR Intake to Investigative Context</title>
+      <link>https://www.sophos.com/en-us/blog/every-detail-matters-from-dfir-intake-to-investigative-context</link>
+      <description>&lt;p&gt;The first conversation with a DFIR first responder team may feel like an initial scoping exercise. In reality, the details captured during those first minutes can become valuable context for the investigation that follows.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/every-detail-matters-from-dfir-intake-to-investigative-context</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Physical Penetration Testing: When Physical Access Became Network Access</title>
       <link>https://www.sophos.com/en-us/blog/physical-penetration-testing-when-physical-access-became-network-access</link>
@@ -41,12 +48,6 @@
       <link>https://www.sophos.com/en-us/blog/proof-of-concept-available-for-ghostscript-upload2shell</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/proof-of-concept-available-for-ghostscript-upload2shell</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sophos named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center Systems</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-named-leader-2026-gartner-magic-quadrant-for-integrated-security-operations-center-systems</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-named-leader-2026-gartner-magic-quadrant-for-integrated-security-operations-center-systems</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sophos named a Leader in the IDC MarketScape for Worldwide Modern Endpoint Security for Midsize Businesses 2026</title>
