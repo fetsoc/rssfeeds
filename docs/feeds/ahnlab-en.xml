@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/ahnlab-en.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 15:55:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:55:33 +0000</lastBuildDate>
     <item>
       <title>Does It Stop When Someone Is Watching? The Suspicious Behavior of a New Type of Infostealer</title>
       <link>https://asec.ahnlab.com/en/95937/</link>
@@ -51,6 +51,13 @@
       <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Weak Link Identified by AI: October 2026, When the Outer Contact Point Collapsed</title>
+      <link>https://asec.ahnlab.com/en/96188/</link>
+      <description>Security Blind Spots Identified by AI The large-scale data breaches disclosed in quick succession in South Korea and Japan in October 2026 mostly originated not from internal core systems, but from peripheral entry points such as externally exposed web services, app backend APIs, and outsourced SaaS (services provided by third-party vendors via the cloud, such [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96188/</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>September 2026 Infostealer Trend Report</title>
       <link>https://asec.ahnlab.com/en/96183/</link>
       <description>Content This Infostealer Trend Report summarizes the distribution channels, number of malware samples, number of detections, and information on companies targeted by new Infostealers (malware designed to steal information) collected during the month of September 2026. The data was compiled based on detection logs from AhnLab SEcurity intelligence Center (ASEC) and AhnLab products, and includes [&amp;#8230;]</description>
@@ -62,13 +69,6 @@
       <link>https://asec.ahnlab.com/en/96180/</link>
       <description>ASEC Blog를 통해 한 주간의 &amp;#8216;Ransom &amp;#38; Dark Web Issues&amp;#8217; &amp;#8211; 2026년 10월 5주차를 게시한다. &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; n0n Data Extortion Attack on a South Korean IT Services and Systems Integration Company Access to a South Korean Steel Pipe Manufacturer’s Production System Reported The Gentlemen Ransomware Attack on Vietnam’s National Airline</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96180/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Weak Link Identified by AI: October 2026, When the Outer Contact Point Collapsed</title>
-      <link>https://asec.ahnlab.com/en/96188/</link>
-      <description>Security Blind Spots Identified by AI The large-scale data breaches disclosed in quick succession in South Korea and Japan in October 2026 mostly originated not from internal core systems, but from peripheral entry points such as externally exposed web services, app backend APIs, and outsourced SaaS (services provided by third-party vendors via the cloud, such [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/96188/</guid>
       <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -121,6 +121,13 @@
       <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>October 2026 Threat Trend Report on Ransomware</title>
+      <link>https://asec.ahnlab.com/en/96734/</link>
+      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected, the number of affected systems, and statistics on targeted businesses during the month of October 2026, as well as major Korean &amp;#038; Global ransomware issues. The statistics were compiled based on AhnLab detection names and publicly available information from DLS (Dedicated Leaks [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96734/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>October 2026 Dark Web Threat Actor Trend Report</title>
       <link>https://asec.ahnlab.com/en/96586/</link>
       <description>Note The October 2026 Dark Web Threat Actor Trend Report focuses on hacktivists, deep web and dark web activities, and publicly reported cyberattack incidents. It was noted that the factual accuracy of some of the content is difficult to verify independently. Major Issue From a hacktivist perspective, some pro-Russian hacktivist groups claimed to have carried [&amp;#8230;]</description>
@@ -139,13 +146,6 @@
       <link>https://asec.ahnlab.com/en/96574/</link>
       <description>Note In October 2026, widespread instances of database leaks, the sale of accounts and credentials, and the disclosure of source code were observed on dark web and deep web forums. The government, public sector, defense, finance, healthcare, telecommunications, distribution, Education sector, manufacturing, energy, and IT sectors were the primary targets; however, due to the nature [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96574/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>October 2026 Threat Trend Report on Ransomware</title>
-      <link>https://asec.ahnlab.com/en/96734/</link>
-      <description>Purpose and Scope This report summarizes the quantity of new ransomware samples collected, the number of affected systems, and statistics on targeted businesses during the month of October 2026, as well as major Korean &amp;#038; Global ransomware issues. The statistics were compiled based on AhnLab detection names and publicly available information from DLS (Dedicated Leaks [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/96734/</guid>
       <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
@@ -177,13 +177,6 @@
       <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Java4Shell: JDK Vulnerability Exploiting a Flaw in High-Speed Base64 Processing Logic (CVE-2026-114938)</title>
-      <link>https://asec.ahnlab.com/en/96686/</link>
-      <description>Overview At approximately 6:00 a.M. On November 18, 2026 (Korea Standard Time), CVE-2026-114938, a vulnerability in Java’s standard Base64 decoder, was disclosed. Calif, the security research firm that discovered and disclosed the vulnerability, named it “Java4Shell” and explained that if malformed Base64 input passes through high-speed processing code on certain CPUs, data can be written [&amp;#8230;]</description>
-      <guid isPermaLink="false">https://asec.ahnlab.com/en/96686/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Attempts to Compromise Domestic Security Products via BYOVD: Beware of Malware Distribution Using Legitimate AI Tools to Disguise It</title>
       <link>https://asec.ahnlab.com/en/96708/</link>
       <description>Overview Recently, the AhnLab SEcurity intelligence Center (ASEC) identified an attempt to bypass domestic security solutions using BYOVD (Bring Your Own Vulnerable Driver) in malware that disguises itself as legitimate AI tools. The malware is distributed via a website disguised as a legitimate AI tool distribution page. Given that the site is in Korean and [&amp;#8230;]</description>
@@ -202,6 +195,13 @@
       <link>https://asec.ahnlab.com/en/96690/</link>
       <description>A Three-Line Summary for Those in a Hurry The PHP development team released a security update on November 19, 2026, that addressed seven critical-level vulnerabilities; no instances of these being exploited in actual attacks have been reported yet. Among these, request smuggling in environments that reuse connections between the web server and PHP-FPM, object injection [&amp;#8230;]</description>
       <guid isPermaLink="false">https://asec.ahnlab.com/en/96690/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java4Shell: JDK Vulnerability Exploiting a Flaw in High-Speed Base64 Processing Logic (CVE-2026-114938)</title>
+      <link>https://asec.ahnlab.com/en/96686/</link>
+      <description>Overview At approximately 6:00 a.M. On November 18, 2026 (Korea Standard Time), CVE-2026-114938, a vulnerability in Java’s standard Base64 decoder, was disclosed. Calif, the security research firm that discovered and disclosed the vulnerability, named it “Java4Shell” and explained that if malformed Base64 input passes through high-speed processing code on certain CPUs, data can be written [&amp;#8230;]</description>
+      <guid isPermaLink="false">https://asec.ahnlab.com/en/96686/</guid>
       <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
