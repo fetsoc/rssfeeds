@@ -7,7 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/falconfeeds-blog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 00:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:50:35 +0000</lastBuildDate>
     <item>
       <title>UAT-8302: China-Linked APT Deploying Shared Malware Arsenal Against Governments Across Three Continents</title>
       <link>https://falconfeeds.io/blogs/uat-8302-china-linked-apt-shared-malware-arsenal-analysis</link>

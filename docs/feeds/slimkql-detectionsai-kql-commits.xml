@@ -7,70 +7,7 @@
     <atom:link href="https://fetsoc.github.io/rssfeeds/feeds/slimkql-detectionsai-kql-commits.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 00:54:28 +0000</lastBuildDate>
-    <item>
-      <title>Push detection rule Detect Brave Alias Abuse for Phishing - 01a0c215-…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/8cea6181a1224061c5ff37040d42f690e0206f14</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Detect Brave Alias Abuse for Phishing - 01a0c215-0477-7182-a4ef-23ae23d76086 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8cea6181a1224061c5ff37040d42f690e0206f14</guid>
-      <pubDate>Mon, 21 Sep 2026 03:49:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule CVE-2026-62911 Check - 01a0c21a-3643-7499-bd74-43…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/18a0831feb8c2da7cef1513529f4eb5e5a5d9d89</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule CVE-2026-62911 Check - 01a0c21a-3643-7499-bd74-437ee1b7338f from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/18a0831feb8c2da7cef1513529f4eb5e5a5d9d89</guid>
-      <pubDate>Mon, 21 Sep 2026 03:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule Mikrotik routers under attack - CERT Polska - 01a…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/4947f62f9966eef609185223094819726efa64c3</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Mikrotik routers under attack - CERT Polska - 01a0c21e-70f9-7304-965e-099028c981c0 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/4947f62f9966eef609185223094819726efa64c3</guid>
-      <pubDate>Mon, 21 Sep 2026 04:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule Detect O365 Activities from OpenAI IP Addresses -…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/855dbb81acd6487252e8b9644a6e3666812664c5</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Detect O365 Activities from OpenAI IP Addresses - 01a0c221-4172-7049-8445-98f39ff53f2b from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/855dbb81acd6487252e8b9644a6e3666812664c5</guid>
-      <pubDate>Mon, 21 Sep 2026 04:03:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule Detect Teams-based Helpdesk Impersonation Attack …</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/b71db7df110228bee17ac01399bc5d9007195cc5</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Detect Teams-based Helpdesk Impersonation Attack (Mail Bomb follow by social engineering attack) - 01a0c225-3857-775d-80b9-a0c67d0d4fe0 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/b71db7df110228bee17ac01399bc5d9007195cc5</guid>
-      <pubDate>Mon, 21 Sep 2026 04:07:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule Hunting Anthropic AI Model Hacking - 01a0c22c-ae0…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/50a6d01a8a592b2dbffae40411639594c61946b2</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting Anthropic AI Model Hacking - 01a0c22c-ae02-74ec-accc-c329f7855bb0 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/50a6d01a8a592b2dbffae40411639594c61946b2</guid>
-      <pubDate>Mon, 21 Sep 2026 04:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule Hunting Adversaries Abusing Google GoTo URLs - 01…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/23d867a246dfff86fcbafbce6ec0bd1aea29df9b</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting Adversaries Abusing Google GoTo URLs - 01a0c22f-6838-73f8-a6cc-d7fa22baf5d9 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/23d867a246dfff86fcbafbce6ec0bd1aea29df9b</guid>
-      <pubDate>Mon, 21 Sep 2026 04:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule AI Agent High Severity Exposure Check - 01a0ce53-…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/8d2da7872f9e4a367bb6211b4364faa050ca572c</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule AI Agent High Severity Exposure Check - 01a0ce53-2eda-775a-ae78-5b99946a17a5 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/8d2da7872f9e4a367bb6211b4364faa050ca572c</guid>
-      <pubDate>Wed, 23 Sep 2026 12:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Push detection rule Citrix Netscaler Check - 01a0e3d1-5cc9-7425-a0c4-…</title>
-      <link>https://github.com/SlimKQL/Detections.AI/commit/59c707b18149182bc8e8eb3a6908cefb3b6f1acd</link>
-      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Citrix Netscaler Check - 01a0e3d1-5cc9-7425-a0c4-1b2faa435d91 from detections.ai&lt;/pre&gt;</description>
-      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/59c707b18149182bc8e8eb3a6908cefb3b6f1acd</guid>
-      <pubDate>Sun, 27 Sep 2026 17:02:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Nov 2026 14:49:31 +0000</lastBuildDate>
     <item>
       <title>Push detection rule Defender XDR Threat Entities Abusing Cloudflare -…</title>
       <link>https://github.com/SlimKQL/Detections.AI/commit/d00dc92f0796f72d7bdedbc13911d1b6ab3653be</link>
@@ -147,6 +84,69 @@
       <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting Teams Vishing with DefenderXDR - 01a19270-a99e-7457-a441-cec5bcab5bf0 from detections.ai&lt;/pre&gt;</description>
       <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/1eddd12d8125f645031771989647b55542bc816f</guid>
       <pubDate>Sat, 31 Oct 2026 14:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Defending against ARTEX and CyberStrikeAI - 01a22…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/bf133cc74e689720d6cce9d6fcf29b15c3a22803</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Defending against ARTEX and CyberStrikeAI - 01a22254-9577-75bf-93e2-5a4cb0a9b3d3 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/bf133cc74e689720d6cce9d6fcf29b15c3a22803</guid>
+      <pubDate>Sat, 28 Nov 2026 13:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule *sshole checker - 01a2225c-9788-70d6-8177-421fbdc…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/fcf57211f8b105db9ce53d85f0a7a8917d7704ac</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule *sshole checker - 01a2225c-9788-70d6-8177-421fbdcda26a from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/fcf57211f8b105db9ce53d85f0a7a8917d7704ac</guid>
+      <pubDate>Sat, 28 Nov 2026 13:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule High Fidelity Outlook Zero-Day Detection - 01a222…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/86bc98a6de8ebe36333e5b97c727bb58e860af55</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule High Fidelity Outlook Zero-Day Detection - 01a22263-ef5a-7519-8e4f-e3f1a4dfd246 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/86bc98a6de8ebe36333e5b97c727bb58e860af55</guid>
+      <pubDate>Sat, 28 Nov 2026 13:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule The hunt for internet-facing Apache HTTP Servers …</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/3df52bb1dc8d64412678c3cd883c50f2fa612f36</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule The hunt for internet-facing Apache HTTP Servers vulnerable to CVE-2026-119618 - 01a22268-08b9-77fe-89fe-53fd91fa0453 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/3df52bb1dc8d64412678c3cd883c50f2fa612f36</guid>
+      <pubDate>Sat, 28 Nov 2026 13:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Optimizely Exposure Check - 01a22274-3695-73ce-96…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/b13f6ebc3b177441882b31181052beca1f85b570</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Optimizely Exposure Check - 01a22274-3695-73ce-9664-f82fd168780b from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/b13f6ebc3b177441882b31181052beca1f85b570</guid>
+      <pubDate>Sat, 28 Nov 2026 13:59:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Java4Shell Hunting - 01a22277-f341-741b-b878-93c5…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/c00fc3d772f02553504550a0752330da182ba61d</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Java4Shell Hunting - 01a22277-f341-741b-b878-93c522d62140 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/c00fc3d772f02553504550a0752330da182ba61d</guid>
+      <pubDate>Sat, 28 Nov 2026 14:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule NGINX HTTP/2 RCE Detection - 01a2227b-36f7-7281-9…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/98574bd8032dce3cb261a35334e83dd8db75efdb</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule NGINX HTTP/2 RCE Detection - 01a2227b-36f7-7281-9a93-0d98a8865d43 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/98574bd8032dce3cb261a35334e83dd8db75efdb</guid>
+      <pubDate>Sat, 28 Nov 2026 14:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule PHP Critical Vulnerability RCE Detection - 01a222…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/d1ecb81f16e6ade7ba3187a193fb2e91ae83c48a</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule PHP Critical Vulnerability RCE Detection - 01a2227e-0cb0-77ea-8ad8-0cd1e9177313 from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/d1ecb81f16e6ade7ba3187a193fb2e91ae83c48a</guid>
+      <pubDate>Sat, 28 Nov 2026 14:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Push detection rule Hunting Suspicious Activity on Azure APIM Classic…</title>
+      <link>https://github.com/SlimKQL/Detections.AI/commit/002bc5e13bbac78c0facac58e2ed57bb635859ff</link>
+      <description>&lt;pre style="white-space: pre-wrap; width: 81ex;"&gt;Push detection rule Hunting Suspicious Activity on Azure APIM Classic Tiers - 01a22281-5c38-77bd-aea8-84d218c0051b from detections.ai&lt;/pre&gt;</description>
+      <guid isPermaLink="false">https://github.com/SlimKQL/Detections.AI/commit/002bc5e13bbac78c0facac58e2ed57bb635859ff</guid>
+      <pubDate>Sat, 28 Nov 2026 14:14:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
